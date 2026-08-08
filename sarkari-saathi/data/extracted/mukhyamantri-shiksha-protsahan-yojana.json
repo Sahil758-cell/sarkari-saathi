@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Shiksha Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed class 10th from any recognized school in Jharkhand or possess a local residence certificate of Jharkhand",
+    "Must meet the exam's eligibility criteria for coaching under this scheme",
+    "Class 11th students are eligible for exams that require Class 12th qualification",
+    "Cannot have received similar benefits from another department (no dual benefits)",
+    "Benefit can be availed only once under this scheme",
+    "Student must secure at least 75% attendance for the entire coaching period"
+  ],
+  "benefits_summary": "Monthly stipend of ₹2,500 and free coaching at reputed institutes.",
+  "documents_required": [],
+  "application_link": null
+}

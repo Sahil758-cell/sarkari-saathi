@@ -1,0 +1,30 @@
+{
+  "scheme_name": "The West Bengal Incentive Scheme: Subsidy for Quality Improvement",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable to tourism projects/units/expansion projects of existing units set up on or after 22 February 2021",
+    "Applicable to hotel units that started commercial operation between 7 January 2015 and 31 December 2020 and were unable to apply earlier due to absence of a Bar in the hotel",
+    "Units may belong to private, co‑operative, joint sectors or be owned/managed by the State Government",
+    "Project must be supported by a detailed feasibility report prepared for the purpose",
+    "Project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution",
+    "Unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the West Bengal Tourism Development Corporation Limited"
+  ],
+  "benefits_summary": "Subsidy of up to 50% of the fixed capital investment, capped at ₹7,50,000.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate"
+  ],
+  "application_link": null
+}

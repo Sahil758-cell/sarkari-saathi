@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Composite Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 120000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should be from one of the following target groups: Scheduled Caste, Scheduled Tribe, Other Backward Class, Minority, Persons with Disability.",
+    "Applicant should be willing to pursue one of the income‑generating activities given in the scheme guidelines.",
+    "Applicant must have a proper workplace, either owned or rented, for starting the proposed activity.",
+    "Applicant should not have been declared a defaulter under any of the schemes being implemented by DSFDC."
+  ],
+  "benefits_summary": "Need‑based loan up to ₹3,00,000 for SC applicants and up to ₹1,00,000 for OBC, Minority and PwD applicants.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

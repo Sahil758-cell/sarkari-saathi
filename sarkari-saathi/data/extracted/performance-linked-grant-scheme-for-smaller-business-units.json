@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Performance Linked Grant Scheme for Smaller Business Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a Smaller Business Unit",
+    "The applicant must have its operations in Goa",
+    "The applicant must be one of the following legal entities: Proprietorship Firm, Private Limited Company incorporated under the Companies Act, 2013 (or equivalent), Public Limited Company incorporated under the Companies Act, 2013 (or equivalent), Registered Partnership Firm incorporated under the Indian Partnership Act, 1932 (or equivalent), or Limited Liability Partnership incorporated under the Limited Liability Partnership Act, 2008 (or equivalent)",
+    "The bank accounts of the unit and/or its partner(s)/director(s) must be linked to Aadhaar",
+    "The applicant should have recorded a 15% year‑on‑year turnover growth for any three consecutive years during the policy period"
+  ],
+  "benefits_summary": "A performance grant of 5% of the reported net income, capped at ₹25,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

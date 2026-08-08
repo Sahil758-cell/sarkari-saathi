@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhya Mantri Sahara Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the economically weaker section of society",
+    "Applicant must be suffering from specified diseases such as Parkinson's disease, Malignant Cancer, Paralysis, Muscular Dystrophy, Hemophilia, Thalassemia, chronic renal failure or any other disease that permanently incapacitates a person",
+    "Applicant must not be a beneficiary of any other government-sponsored pension scheme"
+  ],
+  "benefits_summary": "Eligible beneficiaries receive financial assistance of Rs. 3,000 per month to mitigate hardships during prolonged treatment.",
+  "documents_required": [],
+  "application_link": "https://sahara.hpsbys.in/Home/Default"
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Handicrafts Development Programme: Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a master craftsperson who has received the Shilp Guru Award, National Award, Merit Certificate, State Award, or any other major award.",
+    "Must not be a recipient of similar financial assistance from any other source.",
+    "Age may be relaxed for artisans with disabilities upon submission of the appropriate disability certificate."
+  ],
+  "benefits_summary": "Assistance of up to ₹8,000 per month as a monthly allowance, lump‑sum grant, or both, disbursed via PFMS/DBT.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across, if required)",
+    "Self‑attested copies of all mandatory documents",
+    "Income certificate (if required)",
+    "Disability certificate issued by the appropriate authority (if applicable)"
+  ],
+  "application_link": null
+}

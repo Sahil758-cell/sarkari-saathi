@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Vrutti Protsaha Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a religious minority community as defined in the Government Order",
+    "No member of the applicant's family shall be an employee of the State/Central/Government PSU",
+    "Applicant and family members should not have availed of benefits under any other scheme (excluding the Arivu Scheme) of the KMDCL in the last 5 years",
+    "Annual family income must be less than ₹1,03,000 in urban areas and less than ₹81,000 in rural areas"
+  ],
+  "benefits_summary": "Provides financial assistance of up to ₹1,00,000, split equally between a loan and a subsidy.",
+  "documents_required": [
+    "passport-size photo",
+    "educational document",
+    "income certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Coir Vikas Yojana- Export Market Promotion Scheme",
+  "occupation": [
+    "Manufacturer",
+    "Entrepreneur",
+    "Exporter"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Coir Board",
+    "Must be a micro, small or medium enterprise engaged in coir or coir products",
+    "Should not have availed similar financial assistance from any other source for the same purpose",
+    "Should not be charged, debarred, prosecuted, or blacklisted under the Foreign Trade Policy of the Government of India or by the Coir Board",
+    "If prior financial assistance from the Coir Board was received for the same purpose, that amount will be deducted from the eligible assistance"
+  ],
+  "benefits_summary": "Provides financial assistance for participation in international fairs, seminars, and related export activities, covering travel, exhibition space, and freight costs.",
+  "documents_required": [
+    "Exporter Registration form printout",
+    "RCMC Registration form printout",
+    "Demand draft"
+  ],
+  "application_link": null
+}

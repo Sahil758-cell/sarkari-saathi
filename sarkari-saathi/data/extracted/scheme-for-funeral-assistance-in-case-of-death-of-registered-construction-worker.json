@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Funeral Assistance in Case of Death of Registered Construction Worker",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the nominee, spouse, or dependent of the deceased registered construction worker",
+    "The deceased registered construction worker must have no outstanding dues to the Board",
+    "Application must be submitted within 30 days of the worker's death"
+  ],
+  "benefits_summary": "One-time grant of ₹10,000 for funeral expenses.",
+  "documents_required": [],
+  "application_link": null
+}

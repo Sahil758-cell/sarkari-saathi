@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must hold a D.Pharm or B.Pharm degree, or must employ such degree holders and provide proof at the time of submission or final approval.",
+    "Organizations or NGOs applying for the scheme must employ D.Pharm/B.Pharm degree holders and produce proof of such employment at submission or final approval.",
+    "In government hospital premises, including medical colleges, the preferred agencies are reputed NGOs or charitable organisations, although individual applicants are also eligible."
+  ],
+  "benefits_summary": "The scheme offers generic medicines at 50‑90% lower prices than branded drugs and provides financial incentives to Kendra owners, including up to ₹5  lakh per year and a one‑time ₹2  lakh for centres in specified regions or run by women, persons with disabilities, SC/ST entrepreneurs.",
+  "documents_required": [
+    "PACS ID",
+    "Certificate of Incorporation",
+    "PAN Card",
+    "Aadhaar Card",
+    "Bank Statement for 6 months"
+  ],
+  "application_link": "http://janaushadhi.gov.in/index.aspx"
+}

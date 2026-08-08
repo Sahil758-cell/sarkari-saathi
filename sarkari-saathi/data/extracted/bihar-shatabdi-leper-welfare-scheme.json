@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Bihar Shatabdi Leper Welfare Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Bihar.",
+    "Must be a leprosy patient with Visible Deformities Grade‑II."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,500 per month is provided to leprosy patients with Visible Deformities Grade‑II.",
+  "documents_required": [],
+  "application_link": null
+}

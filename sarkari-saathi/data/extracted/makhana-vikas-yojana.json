@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Makhana Vikas Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum agricultural land of 0.25 acres and maximum of 10 acres",
+    "Registered on the DBT portal",
+    "First‑come‑first‑serve selection",
+    "Women participation targeted at 30%",
+    "Ryot farmers require land documents; non‑ryot farmers require contract form"
+  ],
+  "benefits_summary": "Grants covering 75% of the cost (up to ₹16,575) for traditional Makhana cultivation equipment and training workshops for farmers.",
+  "documents_required": [
+    "Land documents",
+    "Contract form",
+    "Aadhaar details",
+    "Kisan Credit Card details"
+  ],
+  "application_link": null
+}

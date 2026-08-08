@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Financial Assistance For Education Of Children Of Registered Worker (HBOCWWB)",
+  "occupation": [
+    "registered worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB) with at least one year of regular membership.",
+    "Children must be studying in Class I to Postgraduate levels.",
+    "Students must be enrolled in any institution/school/college located in Haryana.",
+    "Self‑employed or employed students are not eligible.",
+    "Financial assistance is not given again for the same class if the student fails.",
+    "Assistance is limited to up to three female children or two male children per family.",
+    "Applicants must upload a certificate from the head of the school/institution confirming regular studies."
+  ],
+  "benefits_summary": "Annual financial assistance of ₹8,000‑₹20,000 per child for education from elementary to postgraduate, with additional one‑time incentives for top performers in Class‑10 exams.",
+  "documents_required": [
+    "Certificate from head of school/institution confirming regular studies",
+    "Aadhaar number",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": "https://hrylabour.gov.in/"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme for Giving Financial Assistance to the Legal Heirs of the Deceased Artist (Wife/Husband) on the Death of the Indigent Artist Who Was Receiving Financial Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 12000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the legal heir (wife/husband) of the deceased artist.",
+    "Deceased must have been an artist and receiving assistance under the Scheme of Financial Assistance to Indigent Artistes.",
+    "Deceased must have been at least 58 years old at the time of death.",
+    "Deceased must have professionally served in any art discipline such as music, dance, drama, film, folk arts, etc.",
+    "Annual income of the deceased artist or their legal spouse must not exceed ₹12,000."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month to the eligible legal heir (wife/husband).",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

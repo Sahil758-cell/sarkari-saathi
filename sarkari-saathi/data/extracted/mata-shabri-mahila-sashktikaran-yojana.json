@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Mata Shabri Mahila Sashktikaran Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 35000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides a subsidy up to ₹1,300, covering 50% of the cost of an LPG connection and stove.",
+  "documents_required": [],
+  "application_link": null
+}

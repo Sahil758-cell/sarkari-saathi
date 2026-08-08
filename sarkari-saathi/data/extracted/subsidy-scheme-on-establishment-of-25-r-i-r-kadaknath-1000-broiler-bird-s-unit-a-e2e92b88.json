@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Subsidy Scheme on Establishment of 25 R.I.R./Kadaknath & 1000 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Tribes People of the State",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an adult",
+    "Must have completed 6 days of poultry rearing training for the 25 R.I.R./Kadaknath bird unit and stipend scheme",
+    "Must have completed any poultry rearing training for the 1000 broiler birds unit scheme",
+    "Priority is given to female applicants",
+    "Priority is given to Below Poverty Line (BPL) applicants"
+  ],
+  "benefits_summary": "Provides up to 75% subsidy (maximum ₹6,000) for a 25 R.I.R./Kadaknath unit, up to 90% subsidy (maximum ₹8,15,000) for a 1000 broiler bird unit, and a training stipend of up to ₹2,000, each available to one family member.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

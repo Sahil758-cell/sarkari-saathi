@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme of Assistance for Common Environment Infrastructure: Common Boiler Project by SPV Constituted by Minimum 10 MSMEs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The project must be promoted by an SPV comprising at least 10 MSMEs that use steam in their operations.",
+    "Each MSME in the SPV must have an independent boiler at its current premises.",
+    "The new boiler must be energy‑efficient, as certified by the Office of the Boiler Inspector.",
+    "The SPV must obtain all statutory permissions for boiler operation and steam distribution."
+  ],
+  "benefits_summary": "Financial assistance up to 35% of project cost for solid‑fuel boilers and up to 50% for cleaner‑fuel boilers, with a maximum cap of ₹2,00,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

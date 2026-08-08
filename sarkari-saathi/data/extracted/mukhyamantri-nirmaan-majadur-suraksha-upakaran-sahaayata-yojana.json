@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhyamantri Nirmaan Majadur suraksha upakaran sahaayata yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Chhattisgarh.",
+    "Applicant must be a registered construction worker in Chhattisgarh.",
+    "Application can be made only after 90 days of registration."
+  ],
+  "benefits_summary": "Reimbursement up to Rs. 1,500 for safety equipment (helmets, footwear, gloves, safety jackets, masks) purchased by the worker.",
+  "documents_required": [
+    "Labor registration card",
+    "Aadhaar Card",
+    "Invoice Copy",
+    "Bank account Details"
+  ],
+  "application_link": null
+}

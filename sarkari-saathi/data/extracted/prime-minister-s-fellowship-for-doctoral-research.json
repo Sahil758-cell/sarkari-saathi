@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Prime Minister’s Fellowship for Doctoral Research",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Indian citizen.",
+    "The applicant must be a full‑time PhD scholar enrolled in a recognized Indian university, institute or research laboratory.",
+    "The PhD registration date must be within 14 months of the application submission date (i.e., the applicant must apply within 14 months of admission/registration).",
+    "The applicant must have a valid industry partner who will financially support the research project and provide guidance/mentorship.",
+    "The research topic, agreed between the applicant and the industry partner, must be innovative, practically relevant, and have industrial application.",
+    "The selected applicant must be willing to work with or at the supporting company as required during the project period.",
+    "The applicant must not receive any other fellowship after selection."
+  ],
+  "benefits_summary": "Provides a scholarship equal to double the standard JRF/SRF fellowship, with half funded by the government and half by the industry partner.",
+  "documents_required": [
+    "Call for Proposal and Document Checklist",
+    "Signed undertaking from the industry partner",
+    "Signed undertaking from the host institute"
+  ],
+  "application_link": "http://www.primeministerfellowshipscheme.in"
+}

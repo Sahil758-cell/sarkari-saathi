@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Financial Support to MSMEs in ZED Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro/Small/Medium enterprise (MSME).",
+    "The enterprise must be a manufacturing enterprise engaged in manufacturing activities.",
+    "The MSME must apply for ZED certification under the official program.",
+    "The enterprise must not have availed full financial support from any other government scheme for the same certification.",
+    "The MSME should comply with environmental and quality norms as per ZED standards."
+  ],
+  "benefits_summary": "Provides up to ₹50,000 subsidy to MSMEs for ZED certification, encouraging quality improvement, energy efficiency, and eco‑friendly manufacturing.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Cash Award to Top Ranking Holders in Public Examinations",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a native of the Union Territory of Puducherry by birth or by continuous residence for at least five years.",
+    "Applicant must be studying in a Government or Private High School, Higher Secondary School, or in Intermediate (2nd Year) at a Government Junior College within Puducherry.",
+    "Applicant must be among the top three rank holders in the SSLC, SSC, Matriculation, HSC, or Intermediate (2nd Year) public examinations."
+  ],
+  "benefits_summary": "Cash awards of ₹50,000, ₹30,000 and ₹20,000 for 1st, 2nd and 3rd rank holders in various public examinations.",
+  "documents_required": [],
+  "application_link": null
+}

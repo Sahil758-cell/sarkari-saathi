@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Tricycles - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": 12,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be orthopedically differently‑abled affecting both lower limbs while upper limbs are normal.",
+    "Applicant must be a resident of a district/area of Tamil Nadu."
+  ],
+  "benefits_summary": "Free distribution of tricycles to eligible differently‑abled persons.",
+  "documents_required": [],
+  "application_link": null
+}

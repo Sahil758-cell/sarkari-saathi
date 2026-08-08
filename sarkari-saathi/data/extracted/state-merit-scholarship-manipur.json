@@ -1,0 +1,31 @@
+{
+  "scheme_name": "State Merit Scholarship Manipur",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students in full‑time employment are not eligible for the scholarship.",
+    "Applicants must not be receiving any other scholarship or stipend for the same course of study.",
+    "Candidates who passed the qualifying examination more than one year before the award year are ineligible.",
+    "Good conduct and regular attendance are required for continuation of the scholarship.",
+    "The scholarship will be canceled if the scholar abandons or changes the chosen course of study without State Government approval.",
+    "The scholarship may be renewed year‑to‑year within the same stage of education.",
+    "Students may continue their studies within or outside Manipur but must remain within the country."
+  ],
+  "benefits_summary": "Provides Rs. 6,000 per annum for two years to 300 Class X students and Rs. 12,000 per annum for three years to selected Class XII students (125 Science, 125 Social Sciences, 50 Commerce).",
+  "documents_required": [
+    "Permanent Residential Certificate",
+    "Income Certificate",
+    "Xerox copy of mark sheet of the qualifying examination",
+    "Front page of bank passbook",
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

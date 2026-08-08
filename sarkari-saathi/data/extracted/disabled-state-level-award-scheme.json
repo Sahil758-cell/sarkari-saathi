@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Disabled State Level Award Scheme",
+  "occupation": [
+    "disabled employee",
+    "employer of persons with disabilities",
+    "voluntary organization",
+    "district"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be one of the following: a disabled employee in Chhattisgarh, an employer of persons with disabilities, a voluntary organization working for the benefit of persons with disabilities, or a district in Chhattisgarh providing provisional facilities as outlined in the Disabilities Act",
+    "The district award is given to the district that has done the most work for facilities provided under the Act"
+  ],
+  "benefits_summary": "Cash awards of ₹5,001 to ₹10,000 along with appreciation certificates (and a shield for the best district) are given to the best disabled employee, employer, voluntary organization, and district for their contributions to disability rehabilitation.",
+  "documents_required": [],
+  "application_link": null
+}

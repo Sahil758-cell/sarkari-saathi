@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Competitive Exam Coaching",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student.",
+    "The scheme can be availed only once by a student."
+  ],
+  "benefits_summary": "Free coaching to tribal (ST) students.",
+  "documents_required": [
+    "Education Qualification Marksheet / Certificate Copy",
+    "Domicile Certificate Copy",
+    "Caste Certificate Copy",
+    "Sowing Certificate Copy"
+  ],
+  "application_link": null
+}

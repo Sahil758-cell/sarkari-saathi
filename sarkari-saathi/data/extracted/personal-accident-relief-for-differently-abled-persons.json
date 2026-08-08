@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Personal Accident Relief for Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered member of the Welfare Board for the Differently‑Abled",
+    "The applicant must have died or become differently‑abled as a result of an accident",
+    "The disability must be one of the specified types: loss of both legs, both hands, one hand, one leg, loss of sight in one eye or both eyes"
+  ],
+  "benefits_summary": "Provides financial relief up to ₹1,00,000 to the legal heir in case of death, and up to ₹1,00,000 or ₹50,000 for specified disabilities, with a minimum of ₹25,000 for other total disablements.",
+  "documents_required": [],
+  "application_link": "Step 1: Visit the District Differently Abled Welfare Office during office hours and request a hard copy of the prescribed application form. Step 2: Fill in all mandatory fields and attach copies of all mandatory documents (self‑attest if required). Step 3: Submit the duly filled and signed form along with the documents to the District Differently Abled Welfare Officer. Step 4: Request a receipt or acknowledgment containing the date, time of submission, and a unique identification number (if applicable)."
+}

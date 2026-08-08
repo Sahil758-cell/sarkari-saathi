@@ -1,0 +1,27 @@
+{
+  "scheme_name": "National Centre For Communications Security (NCCS) Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Indian students from recognized universities in India or abroad are eligible",
+    "Category 1 candidates must be in the 3rd or 4th year of a Bachelor’s degree in Electronics, Communications, Telecommunication, Radio, Information Technology, Computer, Electrical (with majors in electronics/communications/computers) or related discipline and have a minimum of 60% marks",
+    "Category 2 candidates must have completed a Bachelor’s degree in the same disciplines with at least 60% marks, or have completed a Graduation or be pursuing a Post‑Graduate/Master’s Degree in the same disciplines with at least 60% marks",
+    "Preference may be given to candidates with prior exposure in the intended internship area and higher qualifications, based on need",
+    "Qualifications may be relaxed in deserving cases as per the Selection Committee and Head of NCCS",
+    "Interns must have their own laptops"
+  ],
+  "benefits_summary": "Selected interns receive a token monthly stipend (₹7,500 for Category 1, ₹15,000 for Category 2) and a certificate of completion, with workspace and internet facilities provided.",
+  "documents_required": [
+    "Application form (Annexure‑II of the Scheme Guidelines)",
+    "Curriculum Vitae (CV)"
+  ],
+  "application_link": null
+}

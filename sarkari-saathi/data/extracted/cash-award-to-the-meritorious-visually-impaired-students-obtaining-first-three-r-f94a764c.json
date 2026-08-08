@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Cash Award to the Meritorious Visually Impaired Students Obtaining First Three Ranks at the State Level in the SSLC and HSC Examination",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native or resident of the Union Territory of Puducherry for at least 5 years",
+    "Disability percentage must be 100% or above",
+    "Must have studied in Tamil or English medium",
+    "Must have passed the qualifying SSLC and HSC examinations"
+  ],
+  "benefits_summary": "Cash award of ₹20,000 for first rank, ₹15,000 for second rank, and ₹10,000 for third rank",
+  "documents_required": [],
+  "application_link": null
+}

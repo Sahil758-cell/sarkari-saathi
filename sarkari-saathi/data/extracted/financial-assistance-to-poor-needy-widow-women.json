@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Financial Assistance To Poor & Needy Widow Women",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a widow",
+    "Must be a domicile of the state of Manipur",
+    "Must have continuously resided in Manipur for more than 5 years prior to the date of application",
+    "Application must be submitted through the respective District Social Welfare Officer"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per annum per eligible widow, renewable each year subject to fund availability.",
+  "documents_required": [
+    "Self‑attested supporting documents",
+    "Passport‑sized photograph"
+  ],
+  "application_link": "www.socialwelfare.nic.in"
+}

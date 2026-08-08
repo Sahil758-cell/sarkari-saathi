@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Supply of Tool Kits to their Trained Workers",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered construction worker under the Andhra Pradesh Building and Other Construction Workers Welfare Board."
+  ],
+  "benefits_summary": "Free toolkits valued at ₹2,000 are provided to trained construction workers.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

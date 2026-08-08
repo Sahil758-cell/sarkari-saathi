@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Vocational Training in Tribal Areas",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible agencies include State Governments and UT Administrations.",
+    "Institutions or organisations set up by the Government as autonomous bodies, or societies registered under the Societies Registration Act, 1860.",
+    "Educational and other institutions of local bodies and cooperative bodies are eligible.",
+    "A public trust registered under any law and having at least three years of registration is eligible.",
+    "Any private recognised institution conducting vocational courses for at least three years is eligible.",
+    "Industries or industry associations (e.g., ASSOCHAM, CII, FICCI) willing to run skill‑upgradation training centres are eligible.",
+    "Voluntary organisations/NGOs must be registered for at least three years, have at least three years experience in the relevant field, and demonstrate aptitude and experience in welfare work for Scheduled Tribes.",
+    "Preference is given to programmes that benefit Particularly Vulnerable Tribal Groups (PTGs) or remote/interior/backward areas not serviced by government institutions or established NGOs.",
+    "Applicants must demonstrate financial viability, good reputation, and capability to mobilise the community.",
+    "A minimum of 33% of seats must be reserved for tribal girl candidates."
+  ],
+  "benefits_summary": "Grants are provided to set up and run vocational training centres and to support training of Scheduled Tribe youth, covering stipends, tools, and infrastructure costs.",
+  "documents_required": [
+    "Rent Assessment Certificate issued by the State Public Works Department"
+  ],
+  "application_link": null
+}

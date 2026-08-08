@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for Thrust Sectors: Assistance For Furniture Sector",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a new or existing manufacturing/service unit in the furniture sector undertaking expansion or diversification in the MSME sector.",
+    "Commercial production must have started between 20 May 2022 and 19 May 2027.",
+    "The unit must be located in Dadra and Nagar Haveli and Daman and Diu.",
+    "Application must be submitted online within one year from the date of eligibility."
+  ],
+  "benefits_summary": "Provides subsidies up to ₹50 lakh for capital investment, interest, showroom establishment, plus rent, power and training reimbursements for eligible furniture enterprises.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

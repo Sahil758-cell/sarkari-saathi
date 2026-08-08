@@ -1,0 +1,27 @@
+{
+  "scheme_name": "SC/ST Pre Matric Scholarship - Uttar Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 12,
+  "age_max": 20,
+  "max_annual_income": 250000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a dependent of people in occupations traditionally considered untouchable.",
+    "Students cannot receive other scholarships alongside this one (with some exceptions).",
+    "All children of the applicant's parents are eligible.",
+    "Applicants must be studying in class 9 or 10."
+  ],
+  "benefits_summary": "Provides financial assistance ranging from ₹3,500 to ₹8,000 per annum depending on student type and component (day vs. residential).",
+  "documents_required": [],
+  "application_link": null
+}

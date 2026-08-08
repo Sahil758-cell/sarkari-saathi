@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Tablet Assistance to Scheduled Caste Students of 12th Standard",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in 12th standard",
+    "Must pay a token fee of ₹1,000"
+  ],
+  "benefits_summary": "Eligible SC students in 12th standard receive a tablet after paying a token fee of ₹1,000.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in/"
+}

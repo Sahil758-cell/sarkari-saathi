@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Bicycle Scheme- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 216000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be employed in an industrial or commercial establishment in Haryana",
+    "Must be registered with the Haryana Labour Welfare Board",
+    "Monthly salary must not exceed ₹18,000",
+    "Service period fixed for 2 years",
+    "Benefit can be availed once every five years during the service period"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 for purchasing a new bicycle, available once every five years.",
+  "documents_required": [
+    "Photograph"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

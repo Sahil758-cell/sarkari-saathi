@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Dattopant Thengadi Mratak Shramik Aarthik Sahayata Yojana",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be employed in an establishment registered under the Factories Act, 1948",
+    "The worker’s monthly salary (basic salary plus dearness allowance) must not exceed ₹15,000",
+    "The application must be submitted within one year of the worker’s death",
+    "Financial assistance is payable to the worker’s spouse or dependent (son or unmarried daughter), or to the mother/father if the worker was unmarried"
+  ],
+  "benefits_summary": "Provides a one‑time financial assistance of ₹1,00,000 to the family of a deceased worker.",
+  "documents_required": [
+    "Recent photograph of the applicant",
+    "Scanned copy of the verified application form",
+    "Supporting documents"
+  ],
+  "application_link": "https://skpuplabour.in/"
+}

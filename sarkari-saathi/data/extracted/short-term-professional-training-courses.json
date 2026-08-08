@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Short Term Professional Training Courses",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": 49,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Financial assistance up to ₹5,000 for a short‑term professional training course, with 50% paid in advance and the balance released after course completion.",
+  "documents_required": [],
+  "application_link": null
+}

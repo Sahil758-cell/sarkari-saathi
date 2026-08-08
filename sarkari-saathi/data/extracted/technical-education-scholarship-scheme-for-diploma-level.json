@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Technical Education Scholarship Scheme For Diploma Level",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 36000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide Himachali student and a ward of Himachal Pradesh Government employees",
+    "Applicant must be pursuing a Diploma level course in Engineering/Technology approved by AICTE",
+    "Parents’ or guardians’ total annual income must not exceed ₹36,000",
+    "Student must have secured at least 60% marks in the qualifying examination (exempted for SC and ST candidates)",
+    "Scholarship is awarded on the basis of poverty‑cum‑brilliance or brilliance, with merit determined by income and academic performance",
+    "Renewal requires a recommendation from the principal or authorized institute officer and satisfactory academic progress",
+    "Scholarship will be discontinued if the student fails an examination that prevents promotion to the next class"
+  ],
+  "benefits_summary": "A monthly scholarship of ₹200 is provided to all diploma students; SC, ST, and girl students receive a full (100%) scholarship.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

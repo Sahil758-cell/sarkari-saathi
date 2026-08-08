@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Credit Based Schemes For SC - Aajeevika Micro-Finance Yojana (Livelihood Microfinance Scheme)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Scheduled Caste (SC) category and be an entrepreneur seeking micro‑finance for a small income‑generating activity",
+    "Annual family income must not exceed Rs. 3,00,000",
+    "Application must be submitted through the nearest channeling agency or district office of the designated State Channelizing Agencies (SCAs)"
+  ],
+  "benefits_summary": "Provides up to 90% of project cost (maximum Rs 1.40 Lakhs) at interest rates of 11% (10% for women) with a repayment period of up to 3.5 years.",
+  "documents_required": [],
+  "application_link": "https://nsfdc.nic.in/channel-patrners/"
+}

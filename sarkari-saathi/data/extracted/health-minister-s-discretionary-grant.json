@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Health Minister’s Discretionary Grant",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must not be an employee of either Central or State Government.",
+    "The applicant must have been hospitalized or undergoing treatment in a Government Hospital (including super specialty Government hospitals/institutes)."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹1,00,000 for treatment in government hospitals, with assistance ranging from ₹50,000 to ₹1,00,000 based on the estimated cost of treatment.",
+  "documents_required": [],
+  "application_link": "https://main.mohfw.gov.in/sites/default/files/4451946500hmdgappl_1_1_0.pdf"
+}

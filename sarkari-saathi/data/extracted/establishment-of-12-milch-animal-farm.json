@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Establishment of 12 Milch Animal Farm",
+  "occupation": [
+    "livestock farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must purchase 12 dairy animals (cows or buffaloes).",
+    "Must establish a new dairy farm.",
+    "Must have ownership, inheritance, or leasehold rights over the land (lease minimum 7 years if not owned).",
+    "Must obtain a loan from a Reserve Bank‑recognized institution or bank."
+  ],
+  "benefits_summary": "Provides interest subsidy (up to 8.5%) and various capital subsidies for shed construction, animal insurance, and equipment, with higher rates for SC/ST/female beneficiaries and Gir/Kankrej breeds.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

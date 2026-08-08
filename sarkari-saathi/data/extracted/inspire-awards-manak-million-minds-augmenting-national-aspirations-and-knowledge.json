@@ -1,0 +1,22 @@
+{
+  "scheme_name": "INSPIRE Awards – MANAK (Million Minds Augmenting National Aspirations and Knowledge)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 10,
+  "age_max": 15,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be aged between 10 and 15 years.",
+    "Student must be studying in class 6 to class 10.",
+    "All schools in the country are eligible irrespective of Central/State Board affiliation.",
+    "Each school can nominate up to 2-3 students per year."
+  ],
+  "benefits_summary": "Students receive a cash award of ₹10,000 via Direct Benefit Transfer and obtain mentoring and funding support for prototype development, with opportunities to showcase projects at national exhibitions.",
+  "documents_required": [],
+  "application_link": null
+}

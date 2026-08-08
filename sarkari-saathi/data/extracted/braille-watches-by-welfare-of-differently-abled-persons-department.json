@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Braille Watches by Welfare of Differently Abled Persons Department",
+  "occupation": [
+    "Employee",
+    "Self-Employed"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be visually impaired.",
+    "Applicant must be working in the unorganized sector."
+  ],
+  "benefits_summary": "Free distribution of braille watches.",
+  "documents_required": [],
+  "application_link": null
+}

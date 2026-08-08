@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Assistance to SHG for Job Work",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The SHG must have at least 25 female members",
+    "The SHG should be engaged in job work for industrial units",
+    "The industrial unit must pay ₹5,000 per month per female worker in addition to the job work charges",
+    "SHGs independently engaged in manufacturing (not job work) are not eligible"
+  ],
+  "benefits_summary": "Provides ₹5,000 per month per member for 3 months as training assistance and payroll assistance of 25% of job‑work value up to ₹5,000 per month per member for 5 years.",
+  "documents_required": [],
+  "application_link": null
+}

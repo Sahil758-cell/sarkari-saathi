@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Kanyashree Prakalpa",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 13,
+  "age_max": 18,
+  "max_annual_income": 120000,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Must be unmarried",
+    "Must be enrolled in classes 8 to 12 in government‑aided or recognized schools",
+    "Must be a resident of West Bengal and studying in schools or colleges in the state",
+    "Must belong to a socio‑economically disadvantaged family (annual family income up to Rs. 1.2 lakh)"
+  ],
+  "benefits_summary": "Eligible girls receive an annual scholarship of Rs. 750 and unmarried girls aged 18 receive a one‑time grant of Rs. 25,000.",
+  "documents_required": [
+    "income certificate",
+    "age proof",
+    "educational certificates"
+  ],
+  "application_link": null
+}

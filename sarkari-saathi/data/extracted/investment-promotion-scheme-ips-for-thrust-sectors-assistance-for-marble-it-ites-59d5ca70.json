@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for Thrust Sectors: Assistance For Marble, IT & ITES, Electric Vehicles & Spare Parts, Toys Units And Semi-Conduct or Industries Sectors",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a new or existing manufacturing/service unit undertaking expansion or diversification in the MSME sector",
+    "Commercial production must have commenced between 20.05.2022 and 19.05.2027",
+    "The enterprise must apply through the online portal within one year from the date of eligibility"
+  ],
+  "benefits_summary": "Provides a credit‑linked interest subsidy of up to 60% per annum (capped at ₹5 million) and a capital investment subsidy of up to 20% for small units (capped at ₹5 million) or 15% for large semiconductor units (capped at ₹7.5 million).",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

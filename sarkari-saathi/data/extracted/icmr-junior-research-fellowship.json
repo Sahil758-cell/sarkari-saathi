@@ -1,0 +1,22 @@
+{
+  "scheme_name": "ICMR-Junior Research Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 28,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a Post Graduate degree (M.Sc./MA) in basic science or a professional course with minimum 55% marks for General/OBC and 50% marks for SC/ST/Physically Handicapped/Visually Handicapped.",
+    "Candidates holding degrees such as B.Tech/M.Tech in biomedical sciences, B.Pharm/M.Pharm or D.Pharm are not eligible.",
+    "Upper age limit is 28 years, with relaxation up to five years for SC/ST/OBC/PH/VH and female candidates, and three years for OBC category.",
+    "Applicants must not be drawing any stipend, salary, or other financial assistance except leave salary during the fellowship."
+  ],
+  "benefits_summary": "JRF recipients receive a monthly stipend of ₹31,000 for the first two years, an annual contingency grant of ₹20,000, and may be upgraded to SRF with a higher stipend.",
+  "documents_required": [],
+  "application_link": null
+}

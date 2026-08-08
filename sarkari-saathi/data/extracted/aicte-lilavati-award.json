@@ -1,0 +1,25 @@
+{
+  "scheme_name": "AICTE-LILAVATI AWARD",
+  "occupation": [
+    "students",
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Team must be from an AICTE‑approved technical institution or Deemed to be University",
+    "Team must have undertaken a remarkable intervention in the last two years from the date of announcement",
+    "Maximum team size is 5 members with a minimum of 2 women members",
+    "Each institute may submit up to 5 applications for different themes"
+  ],
+  "benefits_summary": "Cash prize awards ranging from ₹50,000 to ₹1,00,000 for the winning teams and runners‑up.",
+  "documents_required": [],
+  "application_link": "https://lilavati.aicte-india.org/signup"
+}

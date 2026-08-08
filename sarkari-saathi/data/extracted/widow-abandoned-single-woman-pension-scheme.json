@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Widow/Abandoned/Single Woman Pension Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 35000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow, deserted woman, or unmarried woman."
+  ],
+  "benefits_summary": "Provides a monthly pension of Rs.1,150 to eligible widows, deserted or unmarried women.",
+  "documents_required": [
+    "income certificate",
+    "identity proof",
+    "age proof",
+    "bank account details"
+  ],
+  "application_link": null
+}

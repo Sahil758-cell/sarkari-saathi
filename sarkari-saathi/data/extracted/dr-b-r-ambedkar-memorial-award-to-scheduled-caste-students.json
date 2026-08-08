@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Dr. B.R. Ambedkar Memorial Award to Scheduled Caste Students",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have secured at least 55% marks in the Higher Secondary Examination.",
+    "Must be a resident of the Union Territory of Puducherry for at least 5 years."
+  ],
+  "benefits_summary": "Recipient receives a cash award of ₹15,000.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

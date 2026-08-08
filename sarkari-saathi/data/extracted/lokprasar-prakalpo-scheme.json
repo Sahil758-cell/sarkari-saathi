@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Lokprasar Prakalpo Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant may have a lineage or belong to a family practicing a given folk form",
+    "Applicant may belong to a tribal cultural/dance team or be a folk‑based instrumentalist recognized by the Folk & Tribal Cultural Centre",
+    "Applicant must be a resident of West Bengal"
+  ],
+  "benefits_summary": "The scheme issues identity cards and provides a monthly pension or retainer fee of ₹1000, along with performance‑based fees for eligible folk artists.",
+  "documents_required": [],
+  "application_link": null
+}

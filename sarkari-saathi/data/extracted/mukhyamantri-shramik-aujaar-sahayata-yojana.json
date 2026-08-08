@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Mukhyamantri Shramik Aujaar Sahayata Yojana",
+  "occupation": [
+    "masons",
+    "electricians",
+    "plumbers",
+    "carpenters",
+    "porters",
+    "painters",
+    "others"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be registered under the Building and Construction Workers Welfare Board for at least 90 days."
+  ],
+  "benefits_summary": "Free tool kits are provided to eligible registered construction workers.",
+  "documents_required": [
+    "Aadhar card"
+  ],
+  "application_link": null
+}

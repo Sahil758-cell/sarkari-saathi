@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Sindhu Darshan Scheme in Ladakh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a native of Madhya Pradesh.",
+    "The applicant must have been selected by the Madhya Pradesh Government's Religious Trust and Endowment Department for the pilgrimage.",
+    "The applicant must have completed the Sindhu Darshan pilgrimage in Ladakh.",
+    "The applicant must not be an income taxpayer.",
+    "Financial assistance is available only once in the applicant's lifetime."
+  ],
+  "benefits_summary": "Reimbursement of 50% of pilgrimage expenses, up to ₹10,000 per pilgrim.",
+  "documents_required": [
+    "Prescribed application form",
+    "Certified records of pilgrimage",
+    "Documents detailing actual expenses incurred during the journey"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhya Mantri Mahila Sashaktikaran Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a rape victim woman or girl",
+    "Applicant may be a BPL woman saved from trafficking",
+    "Applicant may be an acid‑attack victim",
+    "Applicant may be a woman who has completed her prison sentence",
+    "Applicant may be a BPL woman who is abandoned or divorced",
+    "Applicant may be a girl or woman in distress residing in government or non‑government shelter homes, girls’ homes, maintenance homes, etc.",
+    "Applicant may be a dowry‑victim woman",
+    "Applicant may be a victim of child marriage"
+  ],
+  "benefits_summary": "Provides permanent skill‑development training across various domains to empower victimised women for self‑employment and livelihood.",
+  "documents_required": [],
+  "application_link": null
+}

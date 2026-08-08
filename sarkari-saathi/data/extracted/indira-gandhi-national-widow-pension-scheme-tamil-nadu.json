@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow",
+    "Applicant must be destitute"
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹1,000 along with a free saree during festivals and free rice allocations.",
+  "documents_required": [],
+  "application_link": null
+}

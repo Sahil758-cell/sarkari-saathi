@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Kanya Vivah Sahayta Yojana",
+  "occupation": [
+    "construction labourer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction labourer (male) or a registered female construction labourer",
+    "The applicant must have completed at least 365 days (1 year) of board membership after registration",
+    "Application must be submitted within one year of the marriage or 15 days before the date of a mass marriage",
+    "Aadhaar authentication of the daughter is mandatory",
+    "Benefit is limited to a maximum of two children per beneficiary",
+    "The daughter must be at least 18 years old and the bridegroom at least 21 years old",
+    "Group marriage benefits apply only when a minimum of 11 couples are married together",
+    "Remarriage benefits are available only for legally divorced or widowed female workers, with required court or death certificates"
+  ],
+  "benefits_summary": "Provides financial assistance of Rs.55,000 for a daughter's marriage (Rs.61,000 for inter‑caste marriage, Rs.65,000 for group marriage) together with dress allowance and organizer fees.",
+  "documents_required": [
+    "Aadhaar of the daughter",
+    "Attested copy of court divorce order (if applicable)",
+    "Copy of death certificate of the husband (if applicable)"
+  ],
+  "application_link": null
+}

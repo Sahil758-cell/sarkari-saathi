@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Bhraman - Darshan Yojana",
+  "occupation": [
+    "fish farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must work in private, leased, or government ponds/watersheds",
+    "Must be an active member of Block Level Fishermen Cooperation Committees",
+    "Should have successfully undergone training under departmental schemes",
+    "Should have adequate fish resources available for farming",
+    "Can avail the benefit of this scheme only once"
+  ],
+  "benefits_summary": "Provides a two‑day educational tour that introduces fish farmers to the latest fisheries techniques, helping increase production, income and employment opportunities.",
+  "documents_required": [
+    "Identity Card (Aadhaar/Voter Card)",
+    "Educational Certificates",
+    "Pre‑Training Certificates",
+    "Photograph"
+  ],
+  "application_link": null
+}

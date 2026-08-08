@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Supporting Community Radio Movement in India",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be explicitly constituted as a non‑profit organisation",
+    "Must have a proven record of at least three years of service to the local community",
+    "Must be a legal entity registered under the Societies Act or any other relevant act",
+    "Must be an NGO, registered society or public charitable trust registered on NITI Aayog's NGO Darpan portal and provide its Unique ID",
+    "The community radio station to be operated must serve a specific well‑defined local community with ownership and management reflective of that community",
+    "Programme content must be relevant to the educational, developmental, social and cultural needs of the community"
+  ],
+  "benefits_summary": "Financial assistance is provided once the community radio station becomes operational.",
+  "documents_required": [
+    "Registration certificate under the Societies Act or relevant act",
+    "NGO Darpan Unique ID"
+  ],
+  "application_link": null
+}

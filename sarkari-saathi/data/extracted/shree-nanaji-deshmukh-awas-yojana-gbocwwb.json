@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Shree Nanaji Deshmukh Awas Yojana (GBOCWWB)",
+  "occupation": [
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "The applicant must be a construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB).",
+    "The registration with the board must be for at least 2 years before applying.",
+    "The house is allotted jointly to a registered construction worker husband or wife, and either spouse must be a registered construction worker.",
+    "No land, property, or building should be in the name of the registered construction worker, the spouse, or any family member.",
+    "The benefit is given once per family.",
+    "The application must be made after one year of house allotment."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,60,000 is provided to eligible registered construction workers.",
+  "documents_required": [],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

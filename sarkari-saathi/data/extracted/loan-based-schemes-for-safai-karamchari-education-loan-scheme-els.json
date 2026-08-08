@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Loan Based Schemes For Safai Karamchari - Education Loan Scheme (ELS)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Safai Karamchari (including wastepickers), an identified manual scavenger, or a dependent of such persons",
+    "Registered co‑operative societies of the target group are eligible",
+    "Legally constituted associations or firms promoted by the target group are eligible",
+    "Applicants must produce a certificate from a local Revenue Officer, Municipal Officer, Cantonment Executive Officer, Railway Officer, or a Gazetted‑rank Government Department Head",
+    "In jurisdictions without Gazetted officers, the head of the Municipal Body may certify eligibility",
+    "Under the MS Act 2013, a manual scavenger identified in the survey does not need to provide any certificate once listed by the State/UT government"
+  ],
+  "benefits_summary": "Education loan up to 90% of the unit cost (maximum Rs 10 lakh for studies in India, Rs 20 lakh abroad) at 4% interest (0.5% rebate for women) with a 5‑year repayment period after course completion.",
+  "documents_required": [
+    "Certificate from local Revenue Officer/ municipal officer/ cantonment executive officer/ railway officer/ gazetted‑rank government department head",
+    "Occupation certificate issued by the Gram Panchayat authority (Mukhia/Sarpanch/President)",
+    "Certificate from Regional Manager of Regional Rural Bank or Public Sector Bank"
+  ],
+  "application_link": null
+}

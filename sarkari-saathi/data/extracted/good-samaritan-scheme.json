@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Good Samaritan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have saved the life of a victim of a fatal motor vehicle accident by providing immediate assistance and transporting the victim to a hospital within the Golden Hour.",
+    "Applicant must be willing to disclose their details; those who do not disclose details are not eligible for the award."
+  ],
+  "benefits_summary": "Award of ₹5,000 per Good Samaritan per incident, with additional national-level awards of ₹1,00,000 for the top ten performers each year.",
+  "documents_required": [
+    "Copy of the Acknowledgement (Annexure A) issued by the police or hospital on official letterhead."
+  ],
+  "application_link": null
+}

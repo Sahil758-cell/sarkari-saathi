@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Him Kukkut Palan Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have undertaken training in poultry farming from Government Poultry farms",
+    "Must not have previously availed any benefit under Commercial Broiler Schemes",
+    "Must not discontinue the scheme or violate its terms; otherwise must refund the entire amount with interest",
+    "Must provide a certified/authenticated copy of documents establishing ownership or possession of the land on which the shed is or will be constructed",
+    "Must submit a completion certificate duly verified by a Junior Engineer or higher rank officer",
+    "Approximately 100 farmers will be assisted per year",
+    "Previously assisted poultry breeders (more than two years old) may apply if their unit is still viable and operating successfully"
+  ],
+  "benefits_summary": "Provides a subsidy covering 60% of the capital investment for commercial broiler farms, with beneficiaries contributing the remaining 40% (or arranging bank financing).",
+  "documents_required": [
+    "Certified copy of land ownership/possession documents",
+    "Completion certificate verified by Junior Engineer or above",
+    "Proof of BPL status",
+    "Bank account details"
+  ],
+  "application_link": "https://hpahdbt.hp.gov.in/Home/Him_Kukkut_Palan_Yojna"
+}

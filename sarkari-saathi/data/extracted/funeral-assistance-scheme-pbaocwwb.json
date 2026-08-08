@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Funeral Assistance Scheme (PBAOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the nominee or dependent of the deceased Construction Worker",
+    "The deceased Construction Worker must have been a citizen of India",
+    "The deceased must have been registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board",
+    "The deceased must have been at least 18 years old during his/her lifetime",
+    "The deceased must not have completed 60 years of age during the preceding 12 months while engaged in construction work",
+    "The deceased must have contributed regularly to the fund",
+    "The deceased must not have defaulted on contributions to the Board for a continuous period of more than one year"
+  ],
+  "benefits_summary": "Financial assistance of ₹7,000 credited within 7 days through DBT.",
+  "documents_required": [
+    "passport-sized photograph (signed across, if required)",
+    "self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

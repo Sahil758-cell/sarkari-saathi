@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Interim Relief to the Beneficiaries Affected by Disaster (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a beneficiary of a scheme of the Goa Building and Other Construction Workers Welfare Board.",
+    "Applicant must be affected by a disaster, catastrophe, or natural calamity."
+  ],
+  "benefits_summary": "Provides immediate relief of up to ₹10,00,000 to eligible beneficiaries.",
+  "documents_required": [],
+  "application_link": null
+}

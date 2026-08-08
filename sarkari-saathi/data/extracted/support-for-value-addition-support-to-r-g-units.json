@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Support for Value Addition - Support to R&G units",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual unit, partnership firm, self‑help group or growers’ collective interested in establishing a new coffee roasting, grinding or packaging unit.",
+    "The unit must hold a valid business license from the respective statutory authorities.",
+    "Subsidy is only for the establishment of new R&G units, not for additional or duplicate machinery of the same type.",
+    "Only the specified combinations of roasting, grinding and packaging machines are eligible for subsidy.",
+    "Applications are considered on a first‑come, first‑served basis subject to fund availability."
+  ],
+  "benefits_summary": "Provides a subsidy of 40% (up to ₹10,00,000) for regular applicants and 50% (up to ₹10,00,000) for women, SC/ST, minorities and differently‑abled beneficiaries on eligible coffee roasting, grinding and packaging machinery.",
+  "documents_required": [
+    "Prescribed application form (printable format)",
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

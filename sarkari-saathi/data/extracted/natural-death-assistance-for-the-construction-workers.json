@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Natural Death Assistance for the Construction Workers",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Delhi",
+    "Applicant must be a building/construction worker registered with the Delhi Building and Other Construction Workers Welfare Board",
+    "Applicant must have served the Board for at least 90 days in a given year",
+    "Nominee/dependent must have lost a registered member/worker due to natural death"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,00,000 is provided to the nominee/dependent of a worker who dies a natural death.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Affidavit of the Applicant",
+    "Father Name",
+    "Mother Name",
+    "Photograph",
+    "Applicant’s Video",
+    "Previous/Current Employer Details",
+    "Proof of 90 Days Employment"
+  ],
+  "application_link": null
+}

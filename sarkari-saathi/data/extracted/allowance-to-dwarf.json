@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Allowance To Dwarf",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Haryana and have resided in the state for at least one year at the time of application",
+    "Applicant must be at least 18 years old",
+    "Male applicants must have a height of 3 feet 8 inches or less; female applicants must have a height of 3 feet 3 inches or less (approximately 70% handicap)",
+    "Applicant must submit a certificate from the Civil Surgeon confirming dwarfism"
+  ],
+  "benefits_summary": "Monthly allowance of Rs. 2500 per beneficiary.",
+  "documents_required": [
+    "Certificate from the Civil Surgeon confirming dwarfism"
+  ],
+  "application_link": null
+}

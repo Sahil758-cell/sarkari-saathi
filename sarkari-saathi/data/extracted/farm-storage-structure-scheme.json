@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Farm Storage Structure Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a land‑holding farmer.",
+    "In case of a joint account, only one of the land‑holding beneficiaries may claim the benefit, subject to the consent of the other account holders."
+  ],
+  "benefits_summary": "Financial assistance covering up to 50 % of the crop storage structure cost, capped at ₹75,000, provided one time.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

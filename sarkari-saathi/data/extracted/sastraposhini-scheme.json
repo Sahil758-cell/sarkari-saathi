@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Sastraposhini Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a government high school in Kerala",
+    "Must have three separate rooms for physics, chemistry, and biology laboratories",
+    "Must have qualified teachers in physics, chemistry and biology",
+    "Must have sufficient number of students in the high school section",
+    "Must have administrative support from the headmaster/principal/management"
+  ],
+  "benefits_summary": "Each selected government high school receives up to ₹8 lakh for establishing physics, chemistry and biology laboratories, along with teacher training, laboratory manuals, and equipment.",
+  "documents_required": [
+    "Prescribed application format",
+    "Undertaking on ₹200 stamp paper"
+  ],
+  "application_link": null
+}

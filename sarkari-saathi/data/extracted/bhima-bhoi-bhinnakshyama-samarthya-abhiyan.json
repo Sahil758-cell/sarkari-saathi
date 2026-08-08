@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Bhima Bhoi Bhinnakshyama Samarthya Abhiyan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a bona fide resident of Odisha.",
+    "Must be a person with disability, irrespective of age and disability category.",
+    "Must not have previously availed the same services under the scheme.",
+    "Must have a disability severity of 40% or above for certification.",
+    "Eligible disability categories include: Acid Attack Victim, Autism Spectrum Disorder, Blindness, Cerebral Palsy, Chronic Neurological Conditions, Dwarfism, Hemophilia, Hearing Impairment, Intellectual Disability, Leprosy Cured Person, Locomotor Disability, Low-Vision, Mental Illness, Muscular Dystrophy, Multiple Sclerosis, Parkinson’s Disease, Specific Learning Disabilities, Speech and Language Disability, Thalassemia, Sickle Cell Disease, and Multiple Disabilities."
+  ],
+  "benefits_summary": "Provides rehabilitation support, aids/appliances, and social security services to persons with disabilities in Odisha.",
+  "documents_required": [],
+  "application_link": null
+}

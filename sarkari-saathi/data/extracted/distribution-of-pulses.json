@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Distribution of Pulses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Jharkhand.",
+    "Applicant must hold an Antyodaya Anna Yojana (AAY) or Priority Household (PHH) card under NFSA, or a Green Card under JSFSS."
+  ],
+  "benefits_summary": "Subsidized pulses are provided monthly to eligible households.",
+  "documents_required": [
+    "Aadhaar number",
+    "Aadhaar Enrolment Identification Slip"
+  ],
+  "application_link": null
+}

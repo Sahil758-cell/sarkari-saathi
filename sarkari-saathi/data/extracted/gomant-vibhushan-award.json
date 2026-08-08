@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Gomant Vibhushan Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be of Goan origin.",
+    "Award is generally not presented posthumously; however, if the nominee dies after recommendation, a posthumous award may be considered."
+  ],
+  "benefits_summary": "A memento, citation and a financial purse of ₹5,00,000.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Completed application form (proforma)"
+  ],
+  "application_link": null
+}

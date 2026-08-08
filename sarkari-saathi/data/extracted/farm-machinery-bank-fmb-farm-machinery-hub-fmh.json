@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Farm Machinery Bank (FMB)/Farm Machinery Hub (FMH)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Must be an individual rural youth entrepreneur registered under Krishak Bandhu (New) Scheme, or a group (SKUS, PACS, FPO, FPC, FIG, SHG, etc.) approved/recognized by any government institution",
+    "The group must have been successfully operating for at least one year",
+    "Minimum project cost/Total Financial Outlay of ₹10,00,000",
+    "Applicant must have sufficient land (own/leased/hired) categorized as commercial, bastu, or viti",
+    "The group must set up the FMB/FMH in a selected village",
+    "A beneficiary or his/her spouse cannot apply for a fresh scheme within four years of the last subsidy release"
+  ],
+  "benefits_summary": "Provides an 80% subsidy on the total financial outlay up to Rs 8 lakh, with the beneficiary covering the remaining amount and a mandatory 25% margin deposit; the balance is financed via bank loan.",
+  "documents_required": [
+    "Acknowledgement receipt (print‑out of the online application)",
+    "Recent passport‑size photograph",
+    "Self‑attested prescribed documents",
+    "Vetted estimate by competent authority",
+    "Quotation",
+    "Invoice"
+  ],
+  "application_link": null
+}

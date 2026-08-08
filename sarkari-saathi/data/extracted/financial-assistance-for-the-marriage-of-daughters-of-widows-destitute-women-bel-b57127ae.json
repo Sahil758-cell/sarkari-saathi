@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Financial Assistance for the Marriage of Daughters of Widows/Destitute Women belonging to the Scheduled Caste",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bride's mother must belong to the Scheduled Caste community.",
+    "Financial assistance is available for up to two daughters per family.",
+    "Assistance is only for the first marriage of each daughter.",
+    "Applicant must have lived in Chandigarh for at least three years.",
+    "If both parents are deceased, the legal guardian can apply."
+  ],
+  "benefits_summary": "A grant of ₹20,000 per daughter for marriage.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy for State Goods and Services Tax (SGST)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Business/organization must be a Micro, Small or Medium Enterprise operating in the manufacturing sector",
+    "Production must have started on or after 1 April 2019",
+    "Applicant may be from the private sector, cooperative sector, joint sector undertaking, or a company/undertaking owned and managed by the State Government or the Industrial SHGs",
+    "Date of Commencement of Commercial Production (DOCCP) must fall between 1 April 2020 and 31 March 2025",
+    "First application must be submitted within 12 months from the DOCCP or within 12 months from the date of notification of Banglashree, whichever is later"
+  ],
+  "benefits_summary": "Refund of 30% (Zones B & C) or 50% (Zones D & E) of net SGST paid for up to 8 years, subject to a cumulative cap of 75% of the fixed capital investment.",
+  "documents_required": [],
+  "application_link": null
+}

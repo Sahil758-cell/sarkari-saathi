@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Research Grant For In-Service Faculty Members",
+  "occupation": [
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regularly appointed faculty member in institutions covered under UGC Act with NAAC accreditation, deemed universities, fully funded institutions, or institutions of national importance.",
+    "Must be 50 years of age or younger.",
+    "Must have at least 10 years of service remaining in the university from date of application.",
+    "Must have supervised Ph.D. dissertations of five full-time candidates.",
+    "Must have completed at least two sponsored research projects funded by national/international government or private agencies.",
+    "Proof of being a single girl child must be submitted via affidavit on a ₹100 stamp paper attested by SDM/First Class Magistrate/Tahsildar."
+  ],
+  "benefits_summary": "Provides a research grant of up to ₹10,00,000 for a tenure of 2 years, disbursed in three installments.",
+  "documents_required": [
+    "passport-size photograph (jpg, ≤1 MB)",
+    "signature (jpg, ≤1 MB)",
+    "affidavit on ₹100 stamp paper attested by SDM/First Class Magistrate/Tahsildar"
+  ],
+  "application_link": "https://frg.ugc.ac.in/"
+}

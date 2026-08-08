@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "OBC",
+    "EWS"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian national with valid proof of nationality",
+    "Must possess a valid Aadhaar card (exemptions apply for states where Aadhaar is not fully implemented)",
+    "Must have an Aadhaar‑linked bank account",
+    "Must register on the Skill India Digital Hub (SIDH)",
+    "Must achieve at least 70% biometric attendance during training assessments",
+    "For OBC and EWS applicants, annual family income must be below ₹3,00,000; no income limit for SC, DNT and Safai Mitras"
+  ],
+  "benefits_summary": "Free training funded 100% by the government, with stipends during the program and certification plus placement assistance after successful completion.",
+  "documents_required": [
+    "Proof of Indian nationality",
+    "Valid Aadhaar card",
+    "Aadhaar‑linked bank account"
+  ],
+  "application_link": null
+}

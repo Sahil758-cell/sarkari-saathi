@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Widow Pension-West Bengal",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 12000,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a widow (girl/woman).",
+    "The beneficiary must be a citizen of India and a resident of West Bengal.",
+    "The beneficiary must have been a resident of West Bengal for at least ten years on the date of application.",
+    "The beneficiary must not be maintained by any of her relatives.",
+    "Professional beggars and mendicants are not eligible for the pension."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per month transferred via Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "Copy of Aadhaar (self‑attested)",
+    "Copy of Ration Card",
+    "Copy of Voter ID",
+    "Copy of Disability Certificate",
+    "Copy of Income Certificate",
+    "Copy of Husband’s Death Certificate",
+    "Copy of Bank Pass Book",
+    "Nomination Form (in case of death)",
+    "Passport‑size photograph"
+  ],
+  "application_link": null
+}

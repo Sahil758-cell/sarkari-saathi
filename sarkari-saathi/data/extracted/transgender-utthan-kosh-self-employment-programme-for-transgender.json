@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Transgender Utthan Kosh - Self Employment Programme for Transgender",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 50,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must secure a loan from a nationalized or cooperative bank",
+    "Benefit is available only once per individual",
+    "Grant is disbursed only after the business is started and verified by the lending agency"
+  ],
+  "benefits_summary": "Provides a grant of up to 25% of the total business cost or ₹50,000 (whichever is lower) for self‑employment, contingent on securing a loan from a nationalized or cooperative bank.",
+  "documents_required": [
+    "Self‑attestation (if required)"
+  ],
+  "application_link": null
+}

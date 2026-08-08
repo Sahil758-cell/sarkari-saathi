@@ -1,0 +1,22 @@
+{
+  "scheme_name": "PRISM (Promoting Innovations in Individuals, Start-ups and MSMEs)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Any Indian citizen, including students, may apply.",
+    "When a group of students applies, a lead applicant must be identified.",
+    "Financial support is given to a single applicant; other team members receive a letter of appreciation after project completion.",
+    "The scheme primarily encourages student innovators but is open to any Indian citizen with an innovative idea."
+  ],
+  "benefits_summary": "Funding up to ₹2,00,000 or 90% of the approved project cost (whichever is lower) for prototype development, with total project cost up to ₹5,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

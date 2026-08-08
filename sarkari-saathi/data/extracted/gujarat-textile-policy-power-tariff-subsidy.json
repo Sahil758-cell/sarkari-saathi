@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Power Tariff Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "New industrial units are eligible for the Power Tariff Subsidy",
+    "Existing industrial units undergoing expansion, diversification, or modernization are eligible",
+    "The industrial unit must submit electricity bills in its name",
+    "The unit must apply within one year from the Date of Commercial Production (DoCP)",
+    "For expansion/diversification/modernization, the subsidy applies only to additional power consumption beyond the previous year’s average",
+    "Eligible activities include Garments, Apparel & Made-ups, Technical Textiles (including Composite Unit) and Weaving, Knitting, Dyeing & Processing, Texturising, Twisting, Embroidery and MMF Spinning to manufacture yarn from Polyester Staple Fiber (PSF) / Viscose Staple Fiber (VSF)"
+  ],
+  "benefits_summary": "Provides a subsidy of INR 1 per kWh on power tariffs for eligible industrial units for five years from the date of commercial production.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Covid-19 Bal Seva Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 21,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The affected family must be a local resident of Madhya Pradesh.",
+    "The family must not be eligible for the Chief Minister Covid-19 Yodha Kalyan Yojana.",
+    "The deceased parents should not have been government servants or employees of a government undertaking eligible for the old pension scheme.",
+    "One parent must have died from COVID‑19 (or a parent died earlier and the legal guardian died from COVID‑19).",
+    "Eligibility is limited to the period from 01 March 2021 to 30 June 2021."
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹5,000 plus free ration, and covers education fees from school through higher, technical, and medical courses.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Krishak Durghatna Kalyan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 70,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a farmer (including landless share‑cropper or renter) whose main source of livelihood is agricultural income from land registered to the account holder or co‑account holder.",
+    "Family members of the farmer (parents, wife, daughter‑in‑law, son, daughter, grandson, granddaughter) are eligible after the farmer's death.",
+    "Families of farmers who were victims of accidents after 14 September 2019 can receive benefits.",
+    "The scheme applies only to the state of Uttar Pradesh.",
+    "Beneficiaries must have suffered an accident such as falling tree, landslide, travel incident, lightning strike, flood, animal bite, electrocution, fire, house collapse, terrorist attack, fight, chamber fall, murder/robbery, etc.",
+    "Farmers with 60 % or more disability are specifically covered (benefits also defined for other disability percentages)."
+  ],
+  "benefits_summary": "Provides financial compensation ranging from ₹1 lakh to ₹5 lakh to farmers or their families for death or disability caused by accidents.",
+  "documents_required": [],
+  "application_link": null
+}

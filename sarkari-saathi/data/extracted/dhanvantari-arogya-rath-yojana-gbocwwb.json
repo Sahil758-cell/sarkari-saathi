@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Dhanvantari Arogya Rath Yojana (GBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board",
+    "Family members of such registered workers are also eligible"
+  ],
+  "benefits_summary": "Provides free primary medical treatment, diagnostic tests and on‑spot medicines for construction workers and their families.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Organizing Block Demonstration Through Department And Also Through TNAU",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Tamil Nadu",
+    "Must grow maize in the following districts: Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli, Thoothukudi",
+    "Special focus on small, marginal, SC/ST, and women farmers"
+  ],
+  "benefits_summary": "Financial assistance of ₹4,000 per 1‑hectare maize demonstration plot.",
+  "documents_required": [],
+  "application_link": null
+}

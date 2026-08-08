@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Agriculture Information Unit Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Meghalaya.",
+    "Applicant must be a bonafide farmer engaged in agriculture."
+  ],
+  "benefits_summary": "Free distribution of agricultural information leaflets, booklets and sponsorship for farmer groups to participate in trade fairs and exhibitions.",
+  "documents_required": [],
+  "application_link": null
+}

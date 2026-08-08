@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Distribution of Female Menstrual Hygiene Kit for the Construction Workers",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in any building or other construction work for at least 90 days in a given year",
+    "Must be a registered member under the Building and Other Construction Workers Welfare Board of the UT",
+    "Registration fee for worker registration should not exceed ₹50"
+  ],
+  "benefits_summary": "Distribution of menstrual hygiene kits to registered female construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

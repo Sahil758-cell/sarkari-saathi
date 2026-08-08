@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance to basic industrial infrastructure (Water, Gas and Approach Road)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small or Medium enterprise (MSME).",
+    "The enterprise must be run by an SC or ST entrepreneur, with SC/ST contribution of at least 51%.",
+    "The applicant must have made a fixed capital investment in industrial infrastructure such as an approach road, water supply, or gas facilities.",
+    "The infrastructure should be developed outside GIDC areas or industrial parks.",
+    "Approach road construction must be certified for quality by a government‑approved third party.",
+    "Expenditures on water/gas connections must be for connecting the industrial unit from the source."
+  ],
+  "benefits_summary": "Provides up to 75% of the cost of capital investment for water, gas or approach road infrastructure, with a maximum assistance of ₹15,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

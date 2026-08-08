@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Free Studentship",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant's guardian/parents must be citizens of India",
+    "Applicant should be a permanent resident of Meghalaya",
+    "Applicant must be pursuing a regular course of studies in a recognized institution",
+    "Applicant must not be receiving financial assistance from the Post Matric Scholarship for SC/ST students or any other central/state scholarship schemes",
+    "Applicant must not be a government or non‑government employee",
+    "Applicant must not be a repeater in the same class more than once"
+  ],
+  "benefits_summary": "Provides tuition fee assistance ranging from ₹1,105 to ₹2,235 depending on class and stream.",
+  "documents_required": [],
+  "application_link": null
+}

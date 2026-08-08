@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Scheme for Grant of Financial Assistance for Administering Road Safety Advocacy and Awards for the Outstanding Work Done in the Field of Road Safety",
+  "occupation": [
+    "NGO",
+    "Trust",
+    "Cooperative Society",
+    "Firm",
+    "Academic Institution"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant agency must be an NGO/Trust registered under the Indian Trusts Act, a Cooperative Society under the Societies Registration Act, a Firm registered under the Companies Act (1956/2013), or an Academic Institution accredited/affiliated or recognized as a University/Deemed University by the UGC Act",
+    "If the applicant agency is an NGO, it must be registered on the NITI Aayog DARPAN platform and provide its Unique ID while submitting the proposal",
+    "The agency must provide documentary evidence such as a Work Order, Letter of Award, or Contract showing undertaking of a road‑safety or advocacy programme for grants‑in‑aid",
+    "The agency may undertake the assignment individually or form a joint‑venture (JV) with at most two members, appointing a lead member and agreeing to joint‑and‑several terms",
+    "The agency should have completed at least one road‑safety or advocacy/awareness programme in the last three years as of the proposal submission date",
+    "The agency must not be blacklisted or debarred by any State or Central Government entity from receiving funds",
+    "Only projects involving road‑safety activities or advocacy/awareness on any social cause are eligible for financial assistance"
+  ],
+  "benefits_summary": "Financial assistance (milestone‑wise or single‑stage) is provided for road‑safety advocacy programmes, and awards of up to ₹5 lakhs (first prize) plus certificates are given to outstanding agencies or individuals.",
+  "documents_required": [
+    "Work Order/Letter of Award/Contract (or similar documentary evidence)",
+    "NGO Darpan ID (if applicable)",
+    "PAN Card of the NGO/Trust/Cooperative Society/Firm",
+    "Bank details of the agency (mandatory for proposal submission)"
+  ],
+  "application_link": "https://rsa.morth.gov.in/auth/users/login.cshtml"
+}

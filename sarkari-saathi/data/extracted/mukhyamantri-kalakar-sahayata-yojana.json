@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Kalakar Sahayata Yojana",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum age 50 years for male artists and 40 years for female artists",
+    "Annual income must not exceed ₹50,000 for artists residing in rural areas and ₹60,000 for artists residing in urban areas",
+    "Artist must not be receiving similar benefits under any other government scheme",
+    "Beneficiary must submit a Life Certificate each April, signed by a Member of Parliament, Member of the Legislative Assembly, a Gazetted Government Officer, Chairman of a ULB, or Chairman of a Panchayat Samiti",
+    "Pension will be cancelled on death, if false or erroneous information is found, if the beneficiary engages in activities prejudicial to public interest or order, or if the annual Life Certificate is not submitted"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,200 per month, deposited in the beneficiary’s savings bank account after the first cash payment.",
+  "documents_required": [
+    "Life Certificate (prescribed form signed by MP/MLA/Gazetted Government Officer/Chairman of ULBs/Chairman of Panchayat Samiti)"
+  ],
+  "application_link": "http://www.mksy.in/"
+}

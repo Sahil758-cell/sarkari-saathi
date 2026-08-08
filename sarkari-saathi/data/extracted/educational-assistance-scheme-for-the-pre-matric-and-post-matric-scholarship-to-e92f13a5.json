@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Educational Assistance (Scheme for the Pre-Matric and Post-Matric Scholarship to Children of Construction Workers Registered with the MBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a resident of Meghalaya",
+    "Beneficiary must be engaged in building or other construction work and be registered with the Meghalaya Building & Other Construction Workers Welfare Board with active membership",
+    "Children of the beneficiary must be enrolled in any grade from Class I to Degree Course",
+    "Children must not be receiving any other financial assistance from any source",
+    "A maximum of two children per parent/guardian are eligible, applicable to girls as well",
+    "Scholarships are not offered for courses with a duration of 6 months or less",
+    "Post‑Matric applicants must possess the relevant qualification from a recognized institution and provide the original certificate of study",
+    "Scholarship may be cancelled for misrepresentation, change of course or institution without prior approval, or discontinuation of studies",
+    "Renewal requires a fresh application each year upon promotion to the next class"
+  ],
+  "benefits_summary": "Monthly stipend ranging from ₹400 to ₹800 depending on the class level, with an additional ₹200 per month for blind students and a one‑time grant for books and uniforms.",
+  "documents_required": [
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker",
+    "Original certificate from institution of study",
+    "Disability certificate (for blind students)"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

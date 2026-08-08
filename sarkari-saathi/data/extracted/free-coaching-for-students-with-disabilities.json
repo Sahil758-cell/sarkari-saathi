@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Free Coaching for Students with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Student must have at least 40% disability",
+    "Student must be preparing for competitive examinations conducted by UPSC, SSC, Railway Recruitment Boards (Group A and B), State Public Service Commissions (Group A and B), or other competitive exams for admission in higher educational institutions and jobs",
+    "Student family income must not exceed ₹600,000 per annum",
+    "Student can avail the benefits only once",
+    "Student should not be receiving any other similar scheme benefits from the Central Government",
+    "Voluntary organization must be registered under the Societies Registration Act, 1860, or the relevant State/UT Act",
+    "Voluntary organization must have been in existence for at least three years",
+    "Voluntary organization must have the necessary infrastructure and experience to provide coaching to students with disabilities"
+  ],
+  "benefits_summary": "Provides free coaching and financial assistance (stipend and study material) to students with disabilities for competitive examinations.",
+  "documents_required": [
+    "Application form"
+  ],
+  "application_link": "Visit the website of the Department of Empowerment of Persons with Disabilities (DEPwD). Go to the \"Schemes\" section and click on \"Free Coaching for Students with Disabilities\"."
+}

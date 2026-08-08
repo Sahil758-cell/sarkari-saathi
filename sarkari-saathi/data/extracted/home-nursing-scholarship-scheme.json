@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Home Nursing Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Applicant must have been born in Goa or have continuously resided in Goa for at least 15 years",
+    "Applicant must have secured admission to an institution recognized by the State or Central Government",
+    "Applicant must be pursuing one of the specified courses: Certificate Course in Home Nursing (minimum 6 months), Diploma in Home Nursing (minimum 1 year), Degree in Nursing (minimum 3 years), or Health Worker Course (minimum 1 year)",
+    "Applicant must not be receiving any other scholarship or stipend for the same course"
+  ],
+  "benefits_summary": "Covers course fees (up to ₹3,500–₹10,000), monthly maintenance allowance (₹300–₹800), and a one‑time amount for books/uniform (₹1,000–₹3,000)",
+  "documents_required": [],
+  "application_link": "https://cmscholarship.goa.gov.in/fcontactus.aspx"
+}

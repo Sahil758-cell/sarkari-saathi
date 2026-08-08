@@ -1,0 +1,31 @@
+{
+  "scheme_name": "The West Bengal Incentive Scheme: Interest Subsidy on Term Loan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable to all eligible tourism projects/units and expansion projects of existing units set up on or after 22 February 2021",
+    "Eligible hotel units that started commercial operation between 7 January 2015 and 31 December 2020 but could not apply earlier due to absence of a Bar in the Hotel",
+    "Units may be in private, co‑operative, joint, or state‑owned sectors",
+    "Project must be covered by a detailed feasibility report/project and approved/sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution",
+    "Unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the West Bengal Tourism Development Corporation Limited",
+    "Interest subsidy is not payable for term loans used to purchase second‑hand plant and machinery or hire‑purchase equipment"
+  ],
+  "benefits_summary": "Interest subsidy on term loan up to 75% of interest payable, subject to annual caps of ₹25‑30 lakh for 5‑7 years depending on the area.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate",
+    "Feasibility Report"
+  ],
+  "application_link": null
+}

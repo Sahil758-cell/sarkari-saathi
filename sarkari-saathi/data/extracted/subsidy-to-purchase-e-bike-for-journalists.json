@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Subsidy to Purchase E-Bike for Journalists",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 58,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant's sole livelihood must be through journalistic activities",
+    "Must be working for a media organisation",
+    "Resident of Goa for at least 15 years",
+    "Full‑time working journalist for at least eight years",
+    "Should not have previously availed any government subsidy for purchasing an e‑bike"
+  ],
+  "benefits_summary": "Up to 50% subsidy on e‑bike purchase, capped at ₹50,000, paid in a single installment upon submission of purchase documents.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport‑sized photograph",
+    "Registration Certificate book",
+    "Insurance document",
+    "Bank details"
+  ],
+  "application_link": null
+}

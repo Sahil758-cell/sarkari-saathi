@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Disability Pension - West Bengal",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a person with at least 40% disability",
+    "Must be declared unsuitable for physical work by the respective Medical Officer",
+    "Disabilities accepted include deaf and dumb, blindness, orthopaedic handicap, mental retardation, and permanent incapacitation",
+    "Family income must not exceed ₹1,000 per month",
+    "Applicant must be an Indian citizen and a resident of West Bengal, or have resided in West Bengal for at least 10 years (shorter period acceptable for applicants below 10 years of age)"
+  ],
+  "benefits_summary": "Provides financial assistance in the form of a disability pension.",
+  "documents_required": [
+    "Copy of Aadhaar (self‑attested)",
+    "Copy of Ration Card",
+    "Copy of Voter ID",
+    "Copy of Disability Certificate",
+    "Copy of Income Certificate",
+    "Copy of Husband’s Death Certificate",
+    "Copy of Bank Pass Book",
+    "Nomination Form (in case of death)",
+    "Passport‑size photograph"
+  ],
+  "application_link": null
+}

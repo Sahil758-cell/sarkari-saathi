@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Vidyajyothi Scheme- Financial Aid For Uniforms And Study Materials To PH Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Kerala",
+    "The applicant must be a student",
+    "The applicant must be studying in a Government or Aided Institution in Kerala",
+    "The applicant must be studying in classes from 9th to Post‑Graduation",
+    "The applicant must have a disability of 40% or more"
+  ],
+  "benefits_summary": "Financial assistance for study materials and uniforms up to ₹3000 per student, varying by class level.",
+  "documents_required": [],
+  "application_link": null
+}

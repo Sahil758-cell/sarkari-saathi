@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scholarship For Differently Abled Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 36000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Kerala",
+    "Applicant must be a differently abled student with disability of 40% or more (Blind, Deaf, Orthopedically handicapped, or Mental Retardation)",
+    "Applicant must have secured at least 40% marks in the previous year’s examination",
+    "Applicant must be studying in schools, colleges, professional, postgraduate courses or technical training",
+    "Annual family income of the applicant must be below ₹36,000"
+  ],
+  "benefits_summary": "Monthly cash scholarships ranging from ₹300 to ₹1500 for day scholars and hostel students, plus a reader’s allowance, based on the level of study.",
+  "documents_required": [],
+  "application_link": null
+}

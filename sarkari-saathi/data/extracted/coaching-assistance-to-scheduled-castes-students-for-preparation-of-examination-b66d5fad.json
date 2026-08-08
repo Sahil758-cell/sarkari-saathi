@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Coaching Assistance to Scheduled Castes Students for Preparation of Examination Like IIM, NIFT, NLU, CEPT",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must have secured 70% or more in Class 10th and be studying in Class 12th (any stream) to be eligible for CEPT, NIFT, or NLU admissions.",
+    "Students must have secured 70% or more in Class 12th (any stream) and be in the third year of graduation (any stream) or have secured 70% or more marks in a completed graduation to be eligible for IIM admissions.",
+    "Training institutes must have more than three years of experience, possess a GST Number or PAN card, have biometric (fingerprint) machines for student attendance, and be registered under any one of the following Acts: Mumbai Public Trust Act, 1950; Companies Act, 1956; Shop and Establishment Act, 1948 (Shops and Institutions Act, 1948)."
+  ],
+  "benefits_summary": "Up to ₹20,000 or the actual coaching fee, whichever is lower.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Email ID",
+    "Caste certificate",
+    "GST Number",
+    "PAN Card"
+  ],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Junior Research Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "EWS",
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Applicant must hold a master's degree in biotechnology or a related field from a recognized university",
+    "Applicant must have cleared the GAT or NET exam in biotechnology or a related field",
+    "Applicant must be willing to pursue full-time doctoral research in biotechnology or a related field at a recognized university or research institution in India",
+    "Age limit: up to 28 years for general and EWS candidates, up to 33 years for SC, ST, and PH candidates"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹31,000 for the first two years and ₹35,000 for the remaining three years.",
+  "documents_required": [
+    "BET exam scorecard",
+    "Research proposal",
+    "NOC from current employer (if applicable)"
+  ],
+  "application_link": null
+}

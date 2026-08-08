@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Natural Death Relief - Telangana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the nominee, dependent, or legal heir of the deceased construction worker.",
+    "The deceased worker must be a registered building and other construction worker with the Telangana Building and Other Construction Workers Welfare Board.",
+    "The death must be due to natural causes."
+  ],
+  "benefits_summary": "A relief amount of ₹1,00,000 is provided to the nominee, dependents, or legal heirs of a deceased construction worker.",
+  "documents_required": [],
+  "application_link": null
+}

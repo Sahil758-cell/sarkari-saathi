@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Krushi Mahotsav",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a farmer residing in Gujarat",
+    "No restriction based on caste, religion, or gender",
+    "Should be interested in learning about latest agricultural practices"
+  ],
+  "benefits_summary": "Provides scientific farming guidance, free kits and inputs, and training to farmers in Gujarat.",
+  "documents_required": [],
+  "application_link": null
+}

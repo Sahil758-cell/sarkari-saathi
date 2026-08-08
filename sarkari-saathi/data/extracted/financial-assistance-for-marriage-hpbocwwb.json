@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Financial Assistance for Marriage (HPBOCWWB)",
+  "occupation": [
+    "building worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have worked in building or construction activities for at least 90 days in the preceding 12 months",
+    "Registration must be renewed annually",
+    "Worker’s membership with the Welfare Board must be active at the time of application",
+    "Worker must be unmarried at the time of applying for the financial assistance",
+    "Worker should have at least a two‑month subscription",
+    "Benefit is provided for the marriage of up to two children of a registered married worker",
+    "Application must include a wage slip or appointment letter verifying 90 days of work, or a certificate from a local authority if those documents are unavailable",
+    "A one‑time registration fee is required, valid for three years, after which renewal with proof of 90 days work each year is necessary",
+    "Application should be submitted within any prescribed period"
+  ],
+  "benefits_summary": "Provides ₹51,000 for the marriage of a registered unmarried worker and ₹51,000 per child for up to two children of a married worker.",
+  "documents_required": [
+    "passport‑sized photograph",
+    "wage slip or appointment letter from employer",
+    "certificate from local authority (councilor, executive officer, or Panchayat Secretary)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Maternity Benefit Scheme (UKBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered under the Uttarakhand Building and Other Construction Workers Welfare Board and have an active membership",
+    "Eligibility begins three months after registration",
+    "Applicant must submit the application within two months from the date of delivery",
+    "Benefits are provided only for the birth of two children",
+    "Applicant must not have received the same benefits under any other central or state scheme",
+    "Applicant must not have applied to any other department for the same benefits",
+    "Applicant must have worked as a construction worker for at least 90 days during the preceding one year"
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 is provided to eligible women construction workers during their maternity period.",
+  "documents_required": [
+    "certified copy of the ANC card",
+    "certificate issued by the medical officer"
+  ],
+  "application_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+}

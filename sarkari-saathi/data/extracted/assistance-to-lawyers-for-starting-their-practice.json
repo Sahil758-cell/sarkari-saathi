@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Assistance to Lawyers for Starting their Practice",
+  "occupation": [
+    "lawyer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be an unemployed lawyer.",
+    "The beneficiary must have registered as a lawyer within the last 5 years.",
+    "The beneficiary must have an interest to start a legal practice.",
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal"
+  ],
+  "benefits_summary": "Financial assistance to help unemployed Adi Dravidar/Tribal lawyers start their legal practice.",
+  "documents_required": [
+    "application form",
+    "passport-sized photograph (signed across, if required)",
+    "copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

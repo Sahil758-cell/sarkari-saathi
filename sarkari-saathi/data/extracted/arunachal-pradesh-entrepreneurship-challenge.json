@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Arunachal Pradesh Entrepreneurship Challenge",
+  "occupation": [
+    "entrepreneur",
+    "self-employed"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Arunachal Pradesh or an Arunachali currently living outside the state who wishes to return and start a business there",
+    "Applicant must have a concrete idea, plan, prototype or working model",
+    "Applicant must possess good communication skills",
+    "The venture must be an early‑stage startup established on or after 15 August 2015",
+    "The enterprise must be registered as an MSME",
+    "Applicant must be an existing entrepreneur in their district",
+    "Applicant must be a college graduate",
+    "Applicant should belong to organized producer groups"
+  ],
+  "benefits_summary": "Top 50 entrepreneurs receive incubation and pre‑incubation support, with up to ₹5 lakhs for the top 10 and up to ₹4 lakhs for the next 40, plus training, mentorship and access to government schemes.",
+  "documents_required": [],
+  "application_link": null
+}

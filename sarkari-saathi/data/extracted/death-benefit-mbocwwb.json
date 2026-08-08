@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Death Benefit (MBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Legal nominee or dependent of the deceased worker must apply",
+    "Deceased worker must have been engaged in building or other construction work",
+    "Deceased worker must have been registered with the Meghalaya Building & Other Construction Workers Welfare Board",
+    "Death may be natural or accidental during the course of employment"
+  ],
+  "benefits_summary": "₹2,00,000 is paid for natural death and ₹3,00,000 for accidental death (₹5,00,000 if the worker was not covered by any insurance) to the nominee or dependent of the registered construction worker.",
+  "documents_required": [],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

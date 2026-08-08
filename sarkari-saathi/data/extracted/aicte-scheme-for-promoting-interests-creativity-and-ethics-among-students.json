@@ -1,0 +1,31 @@
+{
+  "scheme_name": "AICTE - Scheme For Promoting Interests, Creativity And Ethics Among Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "AICTE‑approved institute must have existed for at least 5 years",
+    "Only one proposal per institute is allowed, with a minimum of 50 student members in the club",
+    "Institute must contribute a minimum of ₹1,00,000 to the club (higher contributions receive extra weightage)",
+    "Coordinator must be a full‑time regular faculty with at least 10 years of teaching/industry experience",
+    "Co‑coordinator must be a faculty member with at least 5 years of teaching/industry experience",
+    "Coordinator and co‑coordinator should have experience/inclination for organizing co‑curricular events",
+    "All students enrolled in the institute are eligible to be club members; ex‑students, ex‑faculty and other officials cannot be members",
+    "Clubs are encouraged to seek fundraising from alumni and industry",
+    "Coordinator’s academic background must align with the club’s theme",
+    "Each institute can receive the grant only once"
+  ],
+  "benefits_summary": "One‑time grant of ₹1,00,000 per institute for a year to support student clubs that foster interests, creativity, and ethics.",
+  "documents_required": [
+    "Verified Bank Mandate Form (PDF)",
+    "Declaration Certificate"
+  ],
+  "application_link": "https://www.aicte-india.org"
+}

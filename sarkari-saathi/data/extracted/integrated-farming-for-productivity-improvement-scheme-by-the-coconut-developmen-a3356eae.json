@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Integrated Farming for Productivity Improvement Scheme",
+  "occupation": [
+    "coconut farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess a farmer identity card or authenticated land records/documents."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹35,000 per hectare for demonstration plots and up to ₹60,000 per organic manure unit to eligible coconut farmers.",
+  "documents_required": [
+    "Farmer identity card",
+    "Authenticated land records"
+  ],
+  "application_link": null
+}

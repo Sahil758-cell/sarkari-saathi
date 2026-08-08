@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Establishment of Poultry Valley (Poultry Farming)",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a member of a Multi-Purpose Agricultural Cooperative Society (MPACS).",
+    "Must not have any loan or borrowing from any bank or MPACS.",
+    "Must not be a defaulter of any government or private institution.",
+    "Must be eligible to take a loan under the Deendayal Upadhyaya Krishi Kalyan Yojana.",
+    "Must have own land or a registered lease/patta land.",
+    "Must be able to arrange for the remaining 250 chicks on their own."
+  ],
+  "benefits_summary": "Provides 500 chicks free of cost and interest‑free loans for poultry shed construction and chick rearing, enabling farmers to rear 750 chicks annually.",
+  "documents_required": [],
+  "application_link": null
+}

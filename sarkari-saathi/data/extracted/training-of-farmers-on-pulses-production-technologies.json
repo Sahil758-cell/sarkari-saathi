@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Training of Farmers on Pulses Production Technologies",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must have seed farms cultivating pulses crop"
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000 per batch for up to 50 farmers, covering training on advanced pulse production techniques.",
+  "documents_required": [],
+  "application_link": null
+}

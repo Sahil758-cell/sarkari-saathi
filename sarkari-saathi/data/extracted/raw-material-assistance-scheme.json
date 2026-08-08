@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Raw Material Assistance Scheme",
+  "occupation": [
+    "Manufacturing",
+    "Service"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a Udyam Registration Certificate",
+    "No trading activity is allowed under the scheme"
+  ],
+  "benefits_summary": "Provides credit support for up to 180 days to procure raw materials, with concessional interest rates for rated MSMEs.",
+  "documents_required": [
+    "Prescribed application forms"
+  ],
+  "application_link": null
+}

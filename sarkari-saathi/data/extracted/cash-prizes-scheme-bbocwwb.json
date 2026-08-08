@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Cash Prizes Scheme (BBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be engaged in building or construction work",
+    "Worker must be registered with the Bihar Building & Other Construction Workers Welfare Board",
+    "Worker's membership with the Welfare Board must be active at the time of application",
+    "Worker must have at least one year of membership with the Board",
+    "A maximum of two children of the registered construction worker are eligible",
+    "Child must have passed the 10th or 12th examination conducted by a board in Bihar",
+    "Child must have scored 60% or above in the examination"
+  ],
+  "benefits_summary": "Cash prizes ranging from ₹10,000 to ₹25,000 per year for eligible children based on their 10th/12th exam scores.",
+  "documents_required": [
+    "Aadhaar Number"
+  ],
+  "application_link": null
+}

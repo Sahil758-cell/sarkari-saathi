@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Aawaas Sahayata",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a native of Madhya Pradesh",
+    "The applicant must be a student",
+    "The student must have passed 12th grade from a Government or Non‑Government college",
+    "The student must be enrolled in a Graduate or Graduate Diploma course",
+    "The student must be regularly admitted to a Technical or Paramedical course",
+    "The student must not have secured admission to a Government hostel",
+    "The student must be a tribal student pursuing higher education outside their hometown",
+    "Eligibility category noted in source: tribal"
+  ],
+  "benefits_summary": "Provides housing assistance to tribal students pursuing higher education outside their hometowns where hostel accommodation is unavailable.",
+  "documents_required": [
+    "ID proof",
+    "relevant certificates"
+  ],
+  "application_link": null
+}

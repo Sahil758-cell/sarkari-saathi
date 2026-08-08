@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Post-Matric Scholarship for SC students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only Indian nationals are eligible",
+    "Applicants must belong to Scheduled Castes",
+    "Candidates must have passed Matriculation, Higher Secondary or a higher examination of a recognized university/board",
+    "Students may study through correspondence or online courses",
+    "A scholarship holder must not hold any other scholarship or stipend",
+    "All children of any parent or guardian are entitled to benefits"
+  ],
+  "benefits_summary": "Financial assistance ranging from ₹4,000 to ₹13,000 per year depending on the course group and hostel status, with an additional 10 % allowance for disabled (Divyang) students.",
+  "documents_required": [
+    "Aadhaar Details",
+    "Bank Account Details"
+  ],
+  "application_link": null
+}

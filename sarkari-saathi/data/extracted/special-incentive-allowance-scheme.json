@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Special Incentive Allowance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a new or existing business unit.",
+    "Unit must have its operations located in Goa.",
+    "Unit must be one of the following legal entities: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership.",
+    "Bank accounts of the unit and its partners/directors must be linked to Aadhaar.",
+    "Employee count is based on employees who have been on the rolls for more than 12 months during the year.",
+    "For expansion, new employees must have been on the rolls for at least one year prior to the date of application.",
+    "Unit must achieve an annual growth of at least 20% per annum for a continuous period of three years.",
+    "At least 75% of the total employees must be Goans or Goan graduates.",
+    "Female employees must constitute at least 60% of the workforce.",
+    "All Goan employees must have the required certifications as per policy section 6.4.1.",
+    "The unit must obtain at least one quality certification during the policy period as per policy section 6.2.10.",
+    "Units will be evaluated at the end of each fiscal year to verify continued eligibility for the subsidy.",
+    "Applications may be submitted on a quarterly, bi‑annual or annual basis after the relevant expenditure has been incurred."
+  ],
+  "benefits_summary": "Units receive a special incentive allowance of up to ₹2,00,00,000 (₹50,00,000 for smaller units, ₹1,00,00,000 for other units) once every three years.",
+  "documents_required": [],
+  "application_link": null
+}

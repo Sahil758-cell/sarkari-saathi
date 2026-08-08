@@ -1,0 +1,33 @@
+{
+  "scheme_name": "National Startup Awards",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The startup must be recognized by DPIIT (Department for Promotion of Industry and Internal Trade) and submit its certificate of recognition",
+    "Must submit Certificate of Incorporation issued by the Ministry of Corporate Affairs or Certificate of Registration from the Registrar of Firms of the respective state",
+    "Must have a hardware or software product or a process solution that is present in the market",
+    "Must hold all applicable trade‑specific registrations such as CE, FSSAI, MSME, GST, etc.",
+    "Should not have any default in the last three fiscal years (2019‑20, 2020‑21, 2021‑22) by the entity, its promoters or group entities",
+    "Must submit audited financial statements (balance sheet and profit & loss) for the last three fiscal years; if the startup is less than three years old, all available financial statements must be uploaded",
+    "Startups less than one year old without audited financials are exempt from the audited‑financials requirement",
+    "If audited statements for FY 2021‑22 are unavailable, provisional statements issued by Chartered Accountants may be submitted",
+    "The startup must not be completing 10 years of incorporation on or before 31 March 2024"
+  ],
+  "benefits_summary": "A cash prize of ₹10,00,000 per category and the opportunity for winners and finalists to present their solutions to public authorities and corporates, with priority access to national and international startup events.",
+  "documents_required": [
+    "Certificate of DPIIT recognition",
+    "Certificate of Incorporation or Certificate of Registration from the Registrar of Firms",
+    "Audited financial statements (balance sheet and profit & loss) for the last three fiscal years",
+    "Provisional financial statements (if audited statements for FY 2021‑22 are unavailable)",
+    "Trade‑specific registration certificates (e.g., CE, FSSAI, MSME, GST)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Awards to MSMES",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprises must have been in continuous production for the previous three years.",
+    "Enterprises must have valid statutory clearances and licenses as applicable.",
+    "An enterprise can receive only one award in each category during the scheme’s operative period.",
+    "Awards are available for women entrepreneurs.",
+    "Awards are available for first‑generation entrepreneurs below 35 years of age.",
+    "Separate awards exist for SC and ST entrepreneurs."
+  ],
+  "benefits_summary": "Cash award of ₹2,00,000 along with a trophy and appreciation letter for each winner across Micro, Small, Medium enterprises and for women, young, SC and ST entrepreneurs as well as successful start‑ups.",
+  "documents_required": [],
+  "application_link": null
+}

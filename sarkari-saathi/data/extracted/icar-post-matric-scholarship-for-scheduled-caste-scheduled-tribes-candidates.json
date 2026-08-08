@@ -1,0 +1,23 @@
+{
+  "scheme_name": "ICAR - Post Matric Scholarship For Scheduled Caste / Scheduled Tribes Candidates",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be admitted to an agricultural university for an undergraduate degree program in Agriculture & Allied Sciences (e.g., B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), B.Sc.(Home Science), B.F.Sc., B.Sc.(Forestry))."
+  ],
+  "benefits_summary": "A scholarship of ₹1,000 per month plus a contingent grant of ₹750 per annum for tuition, books, uniforms, for the entire duration of the undergraduate program.",
+  "documents_required": [],
+  "application_link": null
+}

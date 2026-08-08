@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Nirman Shramiko Ko Videsh Mai Rojgar Hetu Visa Per Hone Wale Vyay Ka Punarbharan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a construction worker registered with the board as a beneficiary",
+    "Must be continuously depositing contributions",
+    "Must obtain permission from the Protector of Emigrants (POE) under the Emigration Act, 1983",
+    "Recruiting agency must be registered under the Emigration Act or possess a valid POE permit",
+    "Must have a valid passport with a minimum validity of 6 months and a valid visa",
+    "Future employment abroad must be in construction and related works",
+    "Benefit is payable only once per beneficiary",
+    "Providing false information will require repayment of the assistance amount with interest",
+    "Application must be submitted within 3 months after obtaining a valid visa"
+  ],
+  "benefits_summary": "Reimbursement of visa expenses for overseas construction work up to ₹5,000 per beneficiary.",
+  "documents_required": [
+    "Valid passport (minimum 6 months validity)",
+    "Valid visa"
+  ],
+  "application_link": null
+}

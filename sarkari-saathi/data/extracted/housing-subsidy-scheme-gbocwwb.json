@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Housing Subsidy Scheme (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must have at least the last 2 years of registration with the Gujarat Building and Other Construction Worker’s Welfare Board.",
+    "The building must be documented after 29/06/2020 (date of resolution of the scheme).",
+    "The application must be made within one year from the date mentioned in the house purchase document.",
+    "The loan taken for the house must not exceed ₹15 lakhs and must have a tenure of 10 years or more.",
+    "The worker must not own any house or property jointly with anyone, including his spouse; an affidavit in the prescribed format must be submitted as a guarantee.",
+    "The worker must submit the bank loan interest certificate or bank loan statement after the completion of the financial year to avail assistance.",
+    "After the first assistance, the worker must submit a written proposal each year at the district office, along with a copy of the in‑principle approval letter and the annual statement of interest, to receive the remaining four years of assistance."
+  ],
+  "benefits_summary": "A total assistance of ₹1,50,000 is provided to eligible workers over five years, disbursed as ₹30,000 per year.",
+  "documents_required": [
+    "Bank loan interest certificate or bank loan statement",
+    "Affidavit in the prescribed format",
+    "Written proposal (annual)",
+    "Copy of in‑principle approval letter",
+    "Annual statement of interest"
+  ],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

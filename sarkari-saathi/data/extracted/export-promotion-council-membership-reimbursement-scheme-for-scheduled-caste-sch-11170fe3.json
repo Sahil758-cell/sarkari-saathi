@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Export Promotion Council Membership Reimbursement Scheme for Scheduled Caste/Scheduled Tribe",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must represent any Micro and Small Enterprise (MSE)."
+  ],
+  "benefits_summary": "Reimbursement of up to 80% or ₹20,000 (whichever is lower) of the annual/one‑time Export Promotion Council membership fee for eligible SC/ST micro and small enterprises.",
+  "documents_required": [],
+  "application_link": "https://www.scsthub.in/nssh-schemes/"
+}

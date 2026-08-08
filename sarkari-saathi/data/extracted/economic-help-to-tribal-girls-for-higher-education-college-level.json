@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Economic Help To Tribal Girls For Higher Education (College Level)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must be regularly studying general education in a private or government college.",
+    "The parent/guardian/husband should not be an income taxpayer.",
+    "There must be no gap in the student’s continuous study after passing the board examination.",
+    "Students residing in a government‑run hostel are not eligible for the scheme.",
+    "The applicant must possess a Vaidya Bhamashah card and an Aadhaar card."
+  ],
+  "benefits_summary": "Annual financial assistance of Rs. 5,000, paid as Rs. 500 per month for 10 months.",
+  "documents_required": [
+    "Vaidya Bhamashah card",
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

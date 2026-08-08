@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme of Assistance for Environment Protection Measures: Scheme for assistance to encouraging Green Practices and Environmental Audit to MSMEs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under relevant industrial laws in Gujarat",
+    "Must comply with existing environmental regulations and standards",
+    "Must be engaged in manufacturing or production activities",
+    "Must undertake projects focused on environmental protection measures",
+    "Must adopt green practices as specified in the scheme"
+  ],
+  "benefits_summary": "Provides financial assistance covering up to 75% of environmental audit fees (capped at ₹50,000) and up to 25‑35% of fees for monitoring systems, green building certification, EMS, equipment purchase, and wastewater recovery, subject to specified ceilings.",
+  "documents_required": [
+    "Prescribed application form"
+  ],
+  "application_link": null
+}

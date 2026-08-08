@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Monthly Grant To Old Crafts Persons (Pension)",
+  "occupation": [
+    "artisan"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 40000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native or resident of the Union Territory of Puducherry for at least 5 years",
+    "Must have practiced the craft for at least 5 years in the Union Territory of Puducherry",
+    "Should not be a recipient of similar financial assistance from any other source"
+  ],
+  "benefits_summary": "Eligible artisans receive a monthly grant of ₹2,000, continued for their lifetime subject to annual renewal.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

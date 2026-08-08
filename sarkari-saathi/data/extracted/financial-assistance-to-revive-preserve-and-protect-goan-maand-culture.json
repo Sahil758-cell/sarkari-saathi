@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistance to Revive, Preserve and Protect Goan Maand Culture",
+  "occupation": null,
+  "gender": null,
+  "age_min": 10,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The Maand group must have a legacy of practising folk art forms for at least the past thirty years at a traditional Maand place.",
+    "Preference is given to Goan Maand cultures that are on the verge of extinction.",
+    "Each Maand group may consist of at least thirty artists/trainees."
+  ],
+  "benefits_summary": "Provides honorarium for Maand Guru and assistants, stipends for trainees, and financial assistance up to ₹60,000 for instruments, costumes, and upkeep.",
+  "documents_required": [
+    "passport-sized photograph",
+    "copies of mandatory documents"
+  ],
+  "application_link": null
+}

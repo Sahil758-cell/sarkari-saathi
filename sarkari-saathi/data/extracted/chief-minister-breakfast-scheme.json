@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Chief Minister Breakfast Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in a Government of Tamil Nadu school",
+    "Student must be in Class 1st to 5th"
+  ],
+  "benefits_summary": "Free breakfast is provided daily on school working days to all primary (Class 1‑5) students attending Government schools in Tamil Nadu.",
+  "documents_required": [],
+  "application_link": null
+}

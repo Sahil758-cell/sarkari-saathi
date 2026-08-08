@@ -1,0 +1,35 @@
+{
+  "scheme_name": "West Bengal Textile Incentive Scheme: Subsidy for Water conservation/ Environment Compliance",
+  "occupation": [
+    "textile manufacturing",
+    "apparel manufacturing",
+    "technical textiles manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unit should have started production on or after 1st April 2022",
+    "Units may be in private sector, co‑operative sector, joint sector, or owned/managed by the State Government",
+    "Shall not be applicable to industrial units/enterprises",
+    "Project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution",
+    "Unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the Directorate of Textiles"
+  ],
+  "benefits_summary": "Reimbursement of 25% of eligible expenditure up to ₹1.5 crore; for clusters of at least 5 units with a minimum investment of ₹200 crore, a Common Effluent Treatment Plant will be set up by the state.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate",
+    "Form A",
+    "Form C"
+  ],
+  "application_link": null
+}

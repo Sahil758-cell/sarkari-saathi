@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Subsidy for School Uniforms to the Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enrollment in a government or aided school in Delhi",
+    "Studying in classes Nursery to 12th Standard"
+  ],
+  "benefits_summary": "Cash subsidy ranging from ₹1,100 to ₹1,500 per annum based on class level.",
+  "documents_required": [],
+  "application_link": null
+}

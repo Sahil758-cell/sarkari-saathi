@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Self Employment Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the State Religious Minority Community (Muslim, Christian, Sikh, Buddhist, or Jain).",
+    "Applicant must be a permanent resident of the State.",
+    "Family annual income must not exceed Rs.81,000 in rural areas or Rs.1,03,000 in urban areas.",
+    "No member of the applicant's family shall be an employee of the State/Central/Government PSU.",
+    "Applicants should not have availed of a loan in KMDC earlier."
+  ],
+  "benefits_summary": "Subsidy of 33% of the unit cost up to a maximum of Rs. 1.00 lakh.",
+  "documents_required": [],
+  "application_link": null
+}

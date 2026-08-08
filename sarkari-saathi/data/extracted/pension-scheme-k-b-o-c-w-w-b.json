@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pension Scheme (K.B.O.C.W.W.B)",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have been a beneficiary of the Board for at least 3 consecutive years before turning 60 years of age",
+    "Must not be availing similar benefits from any other government schemes",
+    "Must have engaged in building and construction work for at least 90 days in a given year for registration",
+    "Registration must be renewed every 3 years (with a 1‑year grace period)"
+  ],
+  "benefits_summary": "Monthly pension up to ₹3,000.",
+  "documents_required": [],
+  "application_link": null
+}

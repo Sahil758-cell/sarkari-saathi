@@ -1,0 +1,29 @@
+{
+  "scheme_name": "AICTE e-Shodh Sindhu Scheme (eSS)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institute must be AICTE approved",
+    "Institute must have a digital library network with internet bandwidth of 32 Mbps, Wi‑Fi connectivity, and at least one static IP address",
+    "Proposed coordinator must be a full‑time regular faculty member with at least 10 years of teaching and research experience and publications",
+    "Co‑coordinator must be a faculty member with at least 7 years of teaching and research experience",
+    "Institute must have a postgraduate course in Mechanical Engineering to apply for ASME, Civil Engineering for ASCE, Pharmacy for Bentham Science, or any discipline for Web of Science/Scopus",
+    "Applications are accepted only in October–November each year",
+    "Applications must be submitted by registered post or speed post; email submissions are not accepted",
+    "Eligibility category noted in source: government",
+    "Eligibility category noted in source: government-aided"
+  ],
+  "benefits_summary": "Provides one‑year subscriptions to e‑Resources such as Web of Science, Scopus, ASME, ASCE and Bentham Science for eligible institutions, renewable based on usage.",
+  "documents_required": [
+    "Application form"
+  ],
+  "application_link": null
+}

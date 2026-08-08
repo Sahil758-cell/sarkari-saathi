@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme for Assistance to MSMEs for Market Development",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must have a Udyam Registration Certificate (URC) as per MSME Development Act 2006",
+    "Selection of MSME units is done by the Department of Industries and Commerce based on product profile, fair theme and relevance",
+    "Participation must be in Government/agency‑sponsored fairs or those approved by Export Promotion Councils",
+    "Preference is given to units that have not previously availed benefits under this scheme"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹37,500 (or 75% of stall rent) for national/international fairs in Rajasthan, up to ₹1,12,500 for fairs elsewhere in India, and up to ₹1,50,000 for overseas fairs, subject to usage limits per financial year.",
+  "documents_required": [
+    "Udyam Registration Certificate (URC)",
+    "Application form (Annexure 5.1)"
+  ],
+  "application_link": null
+}

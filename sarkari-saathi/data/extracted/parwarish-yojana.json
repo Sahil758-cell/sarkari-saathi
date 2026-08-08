@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Parwarish Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 18,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Orphaned or destitute children, including those living with next of kin, whose parent(s) have died, are mentally disabled, imprisoned, or otherwise unable to raise them",
+    "Children suffering from HIV/AIDS, AIDS, or Visible Deformities Grade‑II (Leprosy) and children of parents suffering from these conditions",
+    "Eligibility ends if the compelling situation (e.g., death or disability of parents) is resolved",
+    "Benefits are granted for one year and automatically renewed each year until the child turns 18, provided no adverse report is received"
+  ],
+  "benefits_summary": "₹1,000 per month is transferred directly to a joint savings account opened with the child’s parents.",
+  "documents_required": [],
+  "application_link": null
+}

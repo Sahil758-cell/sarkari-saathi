@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Pradhan Mantri Awaas Yojana - Gramin",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "rural",
+  "other_conditions": [
+    "Households without shelter (houseless)",
+    "Destitute or living on alms",
+    "Manual scavengers",
+    "Primitive Tribal Groups",
+    "Legally released bonded labourers",
+    "Households with no adult member aged 16‑59",
+    "Female‑headed households with no adult male aged 16‑59",
+    "Households with no literate adult above 25 years",
+    "Households with any disabled member and no able‑bodied adult member",
+    "Landless households whose major income is from manual casual labour",
+    "Tie‑breaker criteria such as households with widows or next‑of‑kin of defence personnel killed in action, households with members suffering from leprosy, cancer or HIV, households with a single girl child, beneficiaries of the Forest Rights Act, and transgender persons"
+  ],
+  "benefits_summary": "Financial assistance up to ₹1.20  lakh per house (₹1.30  lakh in hilly/difficult areas), with optional loan up to ₹70 000 at reduced interest, plus subsidies for toilets, LPG connection, employment under MGNREGA, and other convergent services.",
+  "documents_required": [
+    "Aadhaar consent form"
+  ],
+  "application_link": "https://pmayg.nic.in/netiayHome/Document/Document-PMAYG-Registratio-Manual.pdf"
+}

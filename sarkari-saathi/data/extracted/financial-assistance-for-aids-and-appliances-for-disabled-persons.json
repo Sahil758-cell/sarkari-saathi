@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Financial Assistance For Aids And Appliances For Disabled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen and a permanent resident of Maharashtra",
+    "Applicant must be a Person with Disability (e.g., Visually Handicapped, Low Vision, Hearing Impaired, Orthopedically Handicapped) with a disability percentage of 40% or above",
+    "Monthly income must be less than ₹1,500 for 100% assistance or between ₹1,500 and ₹2,000 for 50% assistance"
+  ],
+  "benefits_summary": "Provides financial assistance for aids and appliances such as hearing aids, crutches, wheelchairs, and tape recorders up to specified cost limits.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)",
+    "Self‑attested mandatory documents",
+    "Hard copy of the application form"
+  ],
+  "application_link": null
+}

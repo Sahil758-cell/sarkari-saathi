@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Fal Podharopan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "ST",
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must own private land.",
+    "Land area must be at least 0.25 hectares and not exceed 4 hectares.",
+    "The applicant must have adequate means of irrigation to support fruit plantation.",
+    "The applicant should be interested in growing fruit crops.",
+    "The applicant should have a strong interest in plantation activities."
+  ],
+  "benefits_summary": "Subsidy of 40%–50% of the unit cost for fruit saplings, paid over three years in a 60:20:20 ratio.",
+  "documents_required": [
+    "proof of land ownership",
+    "irrigation facility evidence",
+    "any certificates relevant to eligibility"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Agricultural Skill Development Training Programme For Women Farmers And Farmers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Gujarat State.",
+    "Applicant should belong to a farm family (women farmers, male farmers, or youth)."
+  ],
+  "benefits_summary": "Provides training and guidance in modern agricultural methods and latest information to selected women farmers, male farmers, and youth.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

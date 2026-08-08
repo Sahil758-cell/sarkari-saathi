@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Nari Niketans",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a domicile/permanent resident of Jammu & Kashmir",
+    "Applicant must be deserted, destitute or a widow with no means of livelihood",
+    "Children accompanying the mother are entitled to admission, but male children older than 8 years must be transferred to Bal Ashrams"
+  ],
+  "benefits_summary": "Inmates receive free food, shelter, bedding, clothing and, for school‑going girls, free education, with care and protection until they are rehabilitated, married, or employed.",
+  "documents_required": [],
+  "application_link": null
+}

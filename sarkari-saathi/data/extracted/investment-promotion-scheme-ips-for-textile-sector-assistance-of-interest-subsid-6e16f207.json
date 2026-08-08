@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for Textile Sector: Assistance Of Interest Subsidy For Textile Sector",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a new manufacturing/service unit or an existing unit undertaking expansion/diversification in the MSME sector",
+    "Unit must have commenced commercial production between 20.05.2022 and 19.05.2027",
+    "Enterprise must apply on the online portal within one year from the date of eligibility",
+    "Unit must be located in the Union Territory of Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "benefits_summary": "Up to 60% interest subsidy up to ₹60 lakh per year for five years (or loan tenure), with an additional 10% subsidy for export‑oriented carpet industry up to ₹70 lakh per year.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

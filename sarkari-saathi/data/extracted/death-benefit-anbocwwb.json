@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Death Benefit (ANBOCWWB)",
+  "occupation": [
+    "building work",
+    "other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman & Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a legal nominee or dependent of the deceased worker",
+    "Deceased worker must have been a resident of the Union Territory of Andaman & Nicobar Islands",
+    "Deceased worker must have been engaged in building or other construction work",
+    "Financial assistance is provided for natural death of registered workers",
+    "Accidental death of registered workers qualifies for a higher benefit amount",
+    "Accidental death of non‑registered construction workers qualifies for a reduced benefit, subject to a Tehsildar certificate"
+  ],
+  "benefits_summary": "Provides ₹1,00,000 for natural death, ₹2,00,000 for accidental death of registered workers, and ₹50,000 for accidental death of non‑registered construction workers.",
+  "documents_required": [
+    "Certificate from the Tehsildar stating the deceased was a construction worker"
+  ],
+  "application_link": "https://serviceonline.gov.in/login.do"
+}

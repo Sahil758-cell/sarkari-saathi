@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Energy Efficiency (EES)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Micro, Small, or Medium Enterprise.",
+    "Must belong to the manufacturing sector.",
+    "Must have started production on or after 1st April 2019.",
+    "Must be in the private sector, cooperative sector, joint sector undertaking, or a company/undertaking owned and managed by the State Government or the Industrial SHGs.",
+    "Date of Commencement of Commercial Production (DOCCP) must be between 1st April 2020 and 31st March 2025.",
+    "Application must be submitted within 12 months from the DOCCP or within 12 months from the date of notification of Banglashree, whichever is later."
+  ],
+  "benefits_summary": "Reimbursement of 50% of the energy audit cost and 25% of energy‑conservation installation cost, up to a maximum of ₹2,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

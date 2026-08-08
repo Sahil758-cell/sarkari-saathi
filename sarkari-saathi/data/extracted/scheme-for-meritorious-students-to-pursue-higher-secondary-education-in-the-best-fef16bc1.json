@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Meritorious Students to Pursue Higher Secondary Education in the Best Schools of Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a student.",
+    "The beneficiary must be a resident of Tamil Nadu.",
+    "The beneficiary must belong to Backward Classes (BC), Most Backward Classes (MBC), or Denotified Communities (DNC).",
+    "The beneficiary must have secured the highest marks in the 10th public examination.",
+    "The beneficiary must be among the top 10 meritorious students from each district.",
+    "The beneficiary must be studying in a Government, Government Aided, or Private school."
+  ],
+  "benefits_summary": "Full financial assistance for pursuing higher secondary education in reputed private schools.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Self-attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Tirth Barat Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a native of Chhattisgarh",
+    "Applicant must be either a senior citizen (aged 60 years or above) or a person with disabilities (aged 18 years or above)",
+    "Applicant must not have previously traveled under this scheme",
+    "Applicant must not be an income taxpayer",
+    "Applicant must be physically and mentally able to travel",
+    "Applicant must not suffer from any infectious or serious diseases such as tuberculosis, cardiac or respiratory disorders, coronary conditions, mental illness, leprosy, etc.",
+    "Travel will be organized only in government‑determined groups and only when the minimum number of passengers is met",
+    "Only the selected individual(s) may travel; no additional persons may accompany without separate approval",
+    "Pilgrims may not carry inflammable or intoxicating substances, jewellery, or any items that could affect the dignity of the pilgrimage",
+    "Spouse, life partner or assistants may be included as per specific provisions outlined in the application instructions",
+    "Group applications may contain up to 25 persons, with one person designated as the head of the group"
+  ],
+  "benefits_summary": "Provides a one‑time assisted pilgrimage outside the state for senior citizens (60+) and persons with disabilities from Chhattisgarh.",
+  "documents_required": [
+    "Application form in the prescribed format",
+    "Life partner's application (if spouse is selected)",
+    "Assistant's application (if an assistant is required)",
+    "Nominee contact details including mobile number"
+  ],
+  "application_link": null
+}

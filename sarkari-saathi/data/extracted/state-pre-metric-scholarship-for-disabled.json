@@ -1,0 +1,31 @@
+{
+  "scheme_name": "State Pre-metric Scholarship For Disabled",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India",
+    "Must be a permanent resident of Maharashtra",
+    "Must be a student admitted/enrolled in a school recognized by the Govt. of Maharashtra",
+    "Must be a Person with Disability (Visually Handicapped, Low Vision, Hearing Impaired, Orthopedically Handicapped, etc.)",
+    "Disability percentage must be 40% or above",
+    "Must not have failed in the last qualifying examination",
+    "Must be pursuing a pre‑metric qualification (Class 1st to Class 10th)"
+  ],
+  "benefits_summary": "Monthly scholarship ranging from ₹100 to ₹300 depending on class and disability type.",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Passport‑sized photograph (signed across)",
+    "Self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

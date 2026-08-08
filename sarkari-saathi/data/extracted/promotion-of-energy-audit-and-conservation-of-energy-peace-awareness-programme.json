@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Promotion of Energy Audit and Conservation of Energy (PEACE): Awareness Programme",
+  "occupation": [
+    "executives",
+    "employees",
+    "workers",
+    "cluster members"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Target audience includes executives, employees, workers of MSMEs and cluster members",
+    "Ideal batch size is 40-50 participants, smaller batches may be organized in industrially backward districts"
+  ],
+  "benefits_summary": "The program helps MSMEs understand energy audit and conservation, improving their financial performance and competitiveness.",
+  "documents_required": [],
+  "application_link": null
+}

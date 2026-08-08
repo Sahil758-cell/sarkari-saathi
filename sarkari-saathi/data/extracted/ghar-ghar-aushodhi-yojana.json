@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Ghar Ghar Aushodhi Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Applicant must have a Jan Aadhaar Card of Rajasthan Government",
+    "Applicant must have enough space to plant medicinal saplings"
+  ],
+  "benefits_summary": "Each family receives 24 medicinal plant saplings over five years to boost immunity and health.",
+  "documents_required": [
+    "Jan Aadhaar Card"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Water Conservation/Environment Compliance (WCS)",
+  "occupation": [
+    "manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The business/organization must be a Micro, Small, or Medium Enterprise",
+    "The business/organization must belong to the manufacturing sector",
+    "The business/organization should be in the private sector, cooperative sector, joint sector undertaking, or be a company/undertaking owned and managed by the State Government or Industrial SHGs",
+    "Production must have started on or after 1st April 2019",
+    "The Date of Commencement of Commercial Production (DOCCP) must be between 1st April 2020 and 31st March 2025",
+    "The application must be submitted within 12 months from the DOCCP or within 12 months from the date of notification of Banglashree, whichever is later"
+  ],
+  "benefits_summary": "Reimbursement of up to 50% of expenses for a captive effluent water treatment plant or other pollution control devices, with a maximum limit of ₹2,00,000 per enterprise.",
+  "documents_required": [],
+  "application_link": null
+}

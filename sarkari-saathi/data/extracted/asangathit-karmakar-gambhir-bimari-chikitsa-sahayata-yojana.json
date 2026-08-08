@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Asangathit Karmakar Gambhir Bimari Chikitsa Sahayata Yojana",
+  "occupation": [
+    "unorganized worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered with the State Board for at least 90 days.",
+    "Applicant must be registered as a beneficiary of unorganized workers under Section 10 of the Act."
+  ],
+  "benefits_summary": "Up to ₹50,000 medical assistance for serious illnesses such as kidney disease, cancer, sickle cell anemia, heart disease, AIDS, and paralysis.",
+  "documents_required": [],
+  "application_link": null
+}

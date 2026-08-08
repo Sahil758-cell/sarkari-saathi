@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Market Development Assistance to MSMEs: Assistance to Organizers for Organizing Industrial Exhibitions in Gujarat",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Organizer must be an industry association, federation of industries association, or chamber of commerce",
+    "Exhibition must be organized in the interest of the manufacturing sector",
+    "Prior approval from the MSME Commissioner is mandatory",
+    "Exhibition must be held during the policy period",
+    "Reimbursement will be based on the actual expenditure incurred"
+  ],
+  "benefits_summary": "Provides reimbursement for stall rent, product literature, display materials, and 60% of electricity costs incurred during exhibitions and preparation periods.",
+  "documents_required": [],
+  "application_link": null
+}

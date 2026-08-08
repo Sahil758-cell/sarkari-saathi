@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Medical Assistance (NBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The construction worker must be registered under the Nagaland Building and Other Construction Workers' Welfare Board.",
+    "Spouse and children of the registered construction worker are also eligible for assistance.",
+    "The applicant must be hospitalized for at least five continuous days to qualify for the benefit."
+  ],
+  "benefits_summary": "₹1,000 per day for the first five days of hospitalization, then ₹500 per day for the next ten days (up to 15 days total).",
+  "documents_required": [],
+  "application_link": null
+}

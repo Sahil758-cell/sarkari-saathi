@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Comprehensive Educational Loan Scheme - Sikkim",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Family annual income must not exceed ₹2,50,000 for studies within India or ₹5,00,000 for studies abroad",
+    "Only one member per family is eligible unless the family is BPL",
+    "Only members of Below Poverty Line (BPL) families are considered for study in Sikkim",
+    "Children of Government/Public Sector Undertaking employees are eligible",
+    "The institution of study must be recognized by the relevant authority in India"
+  ],
+  "benefits_summary": "Provides interest‑free loans up to ₹15 lakhs for professional courses, with a one‑year moratorium period.",
+  "documents_required": [],
+  "application_link": null
+}

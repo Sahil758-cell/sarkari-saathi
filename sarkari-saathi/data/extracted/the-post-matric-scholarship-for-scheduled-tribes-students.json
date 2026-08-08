@@ -1,0 +1,23 @@
+{
+  "scheme_name": "The Post-Matric Scholarship For Scheduled Tribes Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be studying from Class XI up to Post-Doctoral Fellowship."
+  ],
+  "benefits_summary": "Provides financial assistance covering tuition, maintenance, and incidental expenses to ST students pursuing post‑matriculation studies.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

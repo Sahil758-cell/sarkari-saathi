@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Assistance for Saving in Consumption of Energy and Water",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible units include both existing and new industrial units.",
+    "Units must implement actions to reduce energy or water consumption.",
+    "A minimum 10% reduction in energy or water consumption over the previous 12 months is required to qualify for equipment cost assistance."
+  ],
+  "benefits_summary": "Up to ₹50,000 reimbursement for an energy/water audit (75% of cost) and up to ₹20,00,000 assistance for recommended equipment (25% of cost).",
+  "documents_required": [],
+  "application_link": null
+}

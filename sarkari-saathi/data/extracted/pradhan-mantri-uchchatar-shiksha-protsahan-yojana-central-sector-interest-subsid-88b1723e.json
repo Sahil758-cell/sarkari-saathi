@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in professional/technical courses offered by NAAC accredited institutions, NBA accredited programmes, Institutions of National Importance or Centrally Funded Technical Institutions (CFTIs)",
+    "Eligibility is limited to one loan per student for either undergraduate or postgraduate degree courses, including integrated courses",
+    "Students receiving any other Central or State Government scholarship or fee reimbursement are not eligible",
+    "Interest subsidy is not available if the student discontinues the course unless the discontinuation is due to medical grounds with requisite documentation",
+    "The loan must be taken under the IBA Model Education Loan Scheme"
+  ],
+  "benefits_summary": "Provides a full interest subsidy on education loans up to ₹10 lakhs for eligible students from economically weaker sections during the moratorium period.",
+  "documents_required": [],
+  "application_link": null
+}

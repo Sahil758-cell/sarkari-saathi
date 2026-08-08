@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance on Death/Disablement of Beneficiary (CBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be working in an establishment registered under the Punjab Labour Welfare Fund Act, 1965 and must have regular contributions received by the Board.",
+    "In case of death of a registered male construction worker, the widowed dependent must apply within one year from the date of death.",
+    "The applicant must not have availed any financial assistance from any other Government body.",
+    "Disability benefits are limited to full or 50% disability caused by an accident."
+  ],
+  "benefits_summary": "Ex‑gratia grant of ₹50,000 to widowed dependents of deceased workers, and disability grants of ₹25,000 for full disability or ₹15,000 for 50 % disability due to accident.",
+  "documents_required": [
+    "Clear picture of both sides of the Aadhaar Card",
+    "Clear picture of the Bank Passbook",
+    "Clear picture of all pages of the BOCW Copy issued by the Board"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

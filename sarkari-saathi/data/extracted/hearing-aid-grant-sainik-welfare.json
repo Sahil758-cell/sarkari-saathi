@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Hearing Aid Grant (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Ex‑serviceman or the widow of an Ex‑serviceman.",
+    "The applicant must be registered with the Department of Sainik Welfare, Puducherry.",
+    "The applicant must not be a member of the Ex‑Servicemen Contributory Health Scheme (ECHS)."
+  ],
+  "benefits_summary": "Financial assistance of ₹8,000 for the purchase of a hearing aid, credited to the beneficiary’s bank account.",
+  "documents_required": [
+    "Prescribed application form (printed from the official website)",
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scheme for Providing (Golden Jubilee) One Time Grant-In-Aid in Memory of Blessed Mother Tereza",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution/NGO must be registered with the state government registration authorities",
+    "Must have been in existence for a minimum period of 5 years",
+    "Must have provided humanitarian service to at least 25 inmates (old, sick, under‑privileged children, etc.) for the last 5 years",
+    "Must have infrastructure facilities of at least 50 sq. mts with proper ventilation, toilet, kitchen, etc.",
+    "Must furnish a copy of the constitution/bye‑laws of the institution",
+    "Application must be submitted using the prescribed proforma",
+    "For enhanced grants, a specific proposal supported by proper documentation must be submitted, restricted to the institution’s area of operations and related to upliftment of under‑privileged children, sick, aged, disabled, or destitute persons",
+    "Total grants under the scheme shall not exceed ₹1,00,00,000 per institution"
+  ],
+  "benefits_summary": "A one‑time grant of up to ₹25 lakhs is provided to selected institutions/NGOs, with additional or enhanced grants possible up to a total of ₹1 crore per institution as determined by the selection committee.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across)",
+    "Copy of the institution’s constitution/bye‑laws",
+    "All mandatory supporting documents as specified in the application form (self‑attested if required)"
+  ],
+  "application_link": null
+}

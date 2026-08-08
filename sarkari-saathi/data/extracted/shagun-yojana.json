@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Shagun Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Groom must be at least 21 years old.",
+    "Applicant must not have previously received benefits from Mukhyamantri Kanyadan Yojna or any similar departmental marriage grant scheme.",
+    "Destitute women who are not financially able to perform a re‑marriage are also eligible.",
+    "If the parents are not alive or traceable, the girl herself can apply.",
+    "Marriage can be to a groom from outside Himachal Pradesh."
+  ],
+  "benefits_summary": "One-time financial grant of ₹31,000 for the marriage of BPL girls/women.",
+  "documents_required": [
+    "Photo identity proof"
+  ],
+  "application_link": null
+}

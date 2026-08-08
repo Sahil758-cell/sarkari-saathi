@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Water Augmentation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must not have received a subsidy for Water Augmentation during the XII plan period.",
+    "Land records must be in the beneficiary's name and certified by the Village Authority, State Government, or Competent Authority.",
+    "Water augmentation structures must be located on the estate or within its vicinity."
+  ],
+  "benefits_summary": "Provides a subsidy of up to 75% of the unit cost for water storage tanks and irrigation equipment, capped at ₹1,25,000 for all related activities combined.",
+  "documents_required": [
+    "Land records certified by Village Authority/State Government/Competent Authority"
+  ],
+  "application_link": null
+}

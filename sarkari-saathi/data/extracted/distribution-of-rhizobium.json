@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Distribution of Rhizobium",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Should raise seed farms with pulses crops"
+  ],
+  "benefits_summary": "Up to 50% subsidy on Rhizobium cost, capped at ₹100 per hectare.",
+  "documents_required": [],
+  "application_link": null
+}

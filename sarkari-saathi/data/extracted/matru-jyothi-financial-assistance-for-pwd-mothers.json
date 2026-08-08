@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Matru Jyothi - Financial Assistance For PwD Mothers",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native and resident of Kerala",
+    "Applicant must be a mother with a child younger than two years",
+    "Applicant must have a disability of one of the listed types with the specified minimum disability percentage (e.g., blindness ≥ 80 %, intellectual disability ≥ 60 %, etc.)"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 paid to differently‑abled mothers until their child turns two years old.",
+  "documents_required": [],
+  "application_link": null
+}

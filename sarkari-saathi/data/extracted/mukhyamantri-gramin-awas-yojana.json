@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Gramin Awas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "EWS"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Residence must be in a cluster housing scheme constructed before January 1996",
+    "House must be in dilapidated condition"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,20,000 provided in three installments of ₹40,000 each via Direct Benefit Transfer (DBT).",
+  "documents_required": [],
+  "application_link": null
+}

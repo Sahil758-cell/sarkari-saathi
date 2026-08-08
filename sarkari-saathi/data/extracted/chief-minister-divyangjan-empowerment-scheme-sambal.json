@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Chief Minister Divyangjan Empowerment Scheme (Sambal)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Self‑employment loan eligibility requires age between 18 and 60 years",
+    "Artificial limb and equipment eligibility requires age greater than 5 years",
+    "Special school scholarship eligibility requires student age between 6 and 18 years",
+    "Shelter home (Ashiyana/Saket) eligibility requires beneficiary to be at least 18 years old, male or female",
+    "In very special cases, grants are payable without any restriction on income or age for persons with multiple disabilities"
+  ],
+  "benefits_summary": "Provides loans up to Rs 2 lakh for self‑employment and scholarships for teaching in special schools, with additional grant assistance as needed.",
+  "documents_required": [],
+  "application_link": null
+}

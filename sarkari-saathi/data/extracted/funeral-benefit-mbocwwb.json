@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Funeral Benefit (MBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the legal nominee or dependent of the deceased worker.",
+    "Deceased worker must have been a resident of Meghalaya.",
+    "Deceased worker must have been engaged in building or other construction work.",
+    "Deceased worker must have been registered under the Meghalaya Building & Other Construction Workers Welfare Board."
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 is provided to nominees or dependents of deceased registered construction workers for funeral expenses.",
+  "documents_required": [],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

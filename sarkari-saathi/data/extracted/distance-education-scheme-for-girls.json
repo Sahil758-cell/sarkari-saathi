@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Distance Education Scheme for Girls",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a girl student",
+    "Applicant must be a native of Rajasthan",
+    "Applicant must be enrolled in UG, PG, Diploma, Certificate or PG Diploma courses under distance education mode",
+    "Applicant must be studying in a state‑funded university or government institution in Rajasthan, including IGNOU",
+    "Applicants receiving other fee reimbursement from State Government Schemes during the same tenure are not eligible for this scheme (except for the difference amount)",
+    "Students holding prize or incentive scholarships are not excluded from applying"
+  ],
+  "benefits_summary": "Full reimbursement of course fees for eligible distance education programmes (UG, PG, Diploma, Certificate, PG Diploma).",
+  "documents_required": [
+    "Aadhaar (Jan Aadhaar number)"
+  ],
+  "application_link": null
+}

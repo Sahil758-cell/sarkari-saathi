@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Feed The Seed",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a farmer engaged in livestock farming (cattle, buffalo, cows, sheep) and have own, leased, or public agricultural land."
+  ],
+  "benefits_summary": "Provides free high‑quality seed kits to livestock farmers, enabling them to produce their own seeds, boost income, and promote sustainable agriculture.",
+  "documents_required": [
+    "Land documents",
+    "Bank account details",
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

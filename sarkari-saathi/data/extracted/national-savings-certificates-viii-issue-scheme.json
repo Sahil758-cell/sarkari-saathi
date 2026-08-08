@@ -1,0 +1,33 @@
+{
+  "scheme_name": "National Savings Certificates (VIII-Issue) Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Any individual resident of India is eligible",
+    "A guardian may apply on behalf of a minor (minimum age 10 years) or a person of unsound mind",
+    "Single holder accounts can be opened by an adult for self, or on behalf of a minor or a person of unsound mind, or by a minor aged 10 years or more",
+    "Joint A‑Type accounts may be opened jointly by up to three adults, payable to all holders jointly or to the survivor(s)",
+    "Joint B‑Type accounts may be opened jointly by up to three adults, payable to any holder or to the survivor(s)",
+    "An individual may open any number of accounts",
+    "No maximum limit on deposit amount"
+  ],
+  "benefits_summary": "Offers a 7.7% interest rate compounded annually, payable at maturity after a 5‑year term, with no maximum deposit limit.",
+  "documents_required": [
+    "death certificate",
+    "passbook or deposit receipt/statement of account in original",
+    "affidavit",
+    "letter of the disclaimer",
+    "bond of indemnity",
+    "claim form",
+    "succession certificate"
+  ],
+  "application_link": null
+}

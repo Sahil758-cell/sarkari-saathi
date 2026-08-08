@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be registered as a beneficiary with the Building and Other Construction Workers Welfare Board.",
+    "The applicant must have a savings bank account in their name.",
+    "The applicant must be eligible for membership under Pradhan Mantri Suraksha Bima Yojana (PMSBY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Atal Pension Yojana (APY).",
+    "The applicant must provide consent to their bank for the deduction of premium/contribution from their savings account.",
+    "The applicant must have gotten the annual premium/contribution amount deducted from their savings account."
+  ],
+  "benefits_summary": "Provides reimbursement of insurance premiums (PMSBY, PMJJBY) and pension contributions (APY) for registered construction workers.",
+  "documents_required": [
+    "Bank passbook showing proof of premium deduction",
+    "Proof of full premium deduction from bank account",
+    "Proof of contribution deduction from bank account"
+  ],
+  "application_link": null
+}

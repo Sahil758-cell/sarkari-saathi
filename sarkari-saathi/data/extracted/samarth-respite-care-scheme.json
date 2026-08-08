@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Samarth-Respite Care Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have one of the disabilities covered under the National Trust Act (Autism, Cerebral Palsy, Mental Retardation, Multiple Disabilities).",
+    "Applicant must be from a BPL or LIG family, or be orphaned, abandoned, or belong to a family in crisis."
+  ],
+  "benefits_summary": "Provides group home facilities, vocational activities, healthcare, and supportive services for Persons with Disabilities from BPL/LIG families, orphans, and families in crisis.",
+  "documents_required": [
+    "Proof of disability",
+    "Enrolment Form",
+    "Certification from competent district officials (if orphan/abandoned/family in crisis)"
+  ],
+  "application_link": null
+}

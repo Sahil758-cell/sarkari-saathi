@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Maternity Benefit (ANBOCWWB)",
+  "occupation": [
+    "building and other construction work"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman and Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a resident of the Union territory of Andaman and Nicobar Islands",
+    "Beneficiary must be engaged in any building and other construction work",
+    "Beneficiary must be registered under the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board and have an active membership",
+    "Women employees must have been registered beneficiaries for a period of one year to receive the benefit",
+    "Male employees must have been registered beneficiaries for a period of one year and their wives must be 19 years or older and not registered beneficiaries"
+  ],
+  "benefits_summary": "Female employees receive a maternity benefit of ₹20,000, while male employees receive a maternity benefit of ₹10,000.",
+  "documents_required": [],
+  "application_link": "https://serviceonline.gov.in/login.do"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Prime Minister's Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student admitted to the 1st year (excluding lateral entry and integrated courses).",
+    "Minimum academic score of 60% required in the minimum educational qualification (10+2/Diploma/Graduation).",
+    "Applicant must be a dependent ward or widow of an ex‑Serviceman or ex‑Coast Guard personnel."
+  ],
+  "benefits_summary": "Scholarship of ₹2,500 per month for boys and ₹3,000 per month for girls, paid annually for up to five years.",
+  "documents_required": [
+    "Passport size photo",
+    "Annexure 1 (completed)",
+    "Annexure 2 (completed)",
+    "Annexure 3 (completed)",
+    "Scanned copies of original supporting documents"
+  ],
+  "application_link": "www.ksb.gov.in"
+}

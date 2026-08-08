@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Reimbursement of Tuition Fee and Transport Facility to Scheduled Castes Students Studying in Technical Institutions in Haryana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 350000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Admission must be through centralized counselling.",
+    "Student should not be residing in a campus hostel to be eligible for transport facility reimbursement."
+  ],
+  "benefits_summary": "Tuition fee reimbursement up to ₹20,000 for diploma courses or ₹40,000 for degree courses, plus reimbursement of actual state transport costs.",
+  "documents_required": [],
+  "application_link": null
+}

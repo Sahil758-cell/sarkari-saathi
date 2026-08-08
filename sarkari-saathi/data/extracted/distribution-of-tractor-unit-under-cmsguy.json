@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Distribution Of Tractor Unit Under CMSGUY",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "A group of 8‑10 actual adult farmers from the same village must apply together",
+    "All members must have a common bank account and sign the application form",
+    "Only one member per family is allowed in the group",
+    "Benefits cannot be availed by individuals"
+  ],
+  "benefits_summary": "Provides a 70% subsidy (up to ₹5,50,000) on tractor units with a 20% bank loan and 10% beneficiary share, enabling the group to rent tractors to village farmers for at least five years.",
+  "documents_required": [
+    "self‑attested documents",
+    "specified proofs"
+  ],
+  "application_link": null
+}

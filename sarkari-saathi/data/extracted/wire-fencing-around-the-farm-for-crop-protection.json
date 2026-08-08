@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Wire Fencing Around the Farm for Crop Protection",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a land‑holding farmer or a farmer group",
+    "Applicant must have a minimum of 2 hectares of land in a cluster",
+    "Only one of the holders mentioned in 8‑A land records per account is eligible, with consent of other holders",
+    "A farmer is eligible for assistance for a maximum of one account"
+  ],
+  "benefits_summary": "Provides up to ₹200 per running meter (or 50% of actual expenditure, whichever is less) for wire fencing, available once in a lifetime.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

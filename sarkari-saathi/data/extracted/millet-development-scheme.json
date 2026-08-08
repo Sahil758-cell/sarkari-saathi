@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Millet Development Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have his own bank account"
+  ],
+  "benefits_summary": "Provides up to ₹6,000 per hectare for millet demonstration (maximum 1 ha), one time per year.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

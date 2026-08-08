@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Distress Relief Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the legal heir of the deceased primary breadwinner.",
+    "Family must be solely dependent on agriculture (agricultural labourers or small and marginal farmers) or have an annual income not exceeding ₹24,000.",
+    "Application must be submitted within six months from the date of death of the breadwinner."
+  ],
+  "benefits_summary": "Provides a one‑time financial assistance of ₹20,000 to eligible BPL households on the death of the primary breadwinner.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Design Scheme Under MSME Innovative Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered micro, small, or medium enterprise.",
+    "Must possess a valid Udyog Aadhaar Memorandum (UAM) or Udyam Registration certificate."
+  ],
+  "benefits_summary": "Financial assistance for design projects covering up to 75% for micro enterprises and 60% for small & medium enterprises, up to ₹40 lakh, plus support for student projects up to ₹2.5 lakh.",
+  "documents_required": [
+    "Udyog Aadhaar Memorandum (UAM) certificate",
+    "Udyam Registration certificate"
+  ],
+  "application_link": "https://innovative.msme.gov.in/"
+}

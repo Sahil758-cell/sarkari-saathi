@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen",
+  "occupation": [
+    "traditional fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional fisherman by birth or profession",
+    "Applicant must possess one of the following: a Canoe Fitted With OBM, Mechanised Trawlers Engaged in Trawling Operations, or Mechanised Trawlers Engaged in Purse Seining Operations"
+  ],
+  "benefits_summary": "Provides 50% financial assistance up to ₹1,000 per lifejacket and ₹1,500 per lifebuoy for eligible fishermen.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

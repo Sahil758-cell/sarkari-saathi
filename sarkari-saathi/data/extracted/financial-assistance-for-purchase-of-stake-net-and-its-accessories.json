@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Financial Assistance for Purchase of Stake Net and its Accessories",
+  "occupation": [
+    "fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional fisherman by birth or profession",
+    "Applicant must be a resident of Goa",
+    "Applicant must have purchased a Stake Net and its Accessories",
+    "Beneficiary can avail of the scheme once every 3 years",
+    "Applications are accepted only in offline mode"
+  ],
+  "benefits_summary": "Subsidy of 50% up to ₹30,000 for general category and 60% up to ₹36,000 for SC/ST/Women on purchase of stake net and accessories.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Medical Assistance (Karmika Arogya Bhagya) (K.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker under the Karnataka Building and Other Construction Workers Welfare Board or a dependent of such a worker",
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Beneficiary must be hospitalized for a minimum of 48 continuous hours",
+    "Treatment must be conducted in a government, private or State Government recognised insurance scheme hospital",
+    "Registration must be renewed every 3 years (with a 1‑year grace period)"
+  ],
+  "benefits_summary": "Financial assistance up to ₹300 per day, capped at ₹20,000 for continuous hospitalization of at least 48 hours.",
+  "documents_required": [],
+  "application_link": null
+}

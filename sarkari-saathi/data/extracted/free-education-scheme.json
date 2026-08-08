@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Free Education Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Applicant must belong to Backward Classes (BC), Most Backward Classes (MBC), or Denotified Communities (DNC)",
+    "Applicant must be pursuing a 3-year undergraduate degree (B.A., B.Sc., B.Com.)",
+    "Applicant must be enrolled in a Government or Government Aided Arts and Science College"
+  ],
+  "benefits_summary": "Full waiver of special, compulsory, and examination fees for eligible BC/MBC/DNC students in 3-year undergraduate programs at government or aided colleges.",
+  "documents_required": [],
+  "application_link": null
+}

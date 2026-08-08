@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Technology Development And Utilization Programme For Women",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be institutions/organizations in government, non‑government sectors or professional bodies.",
+    "Applicants should have adequate experience in technology development for women and be involved in promotional activities related to science & technology, R&D, entrepreneurship, SME promotion.",
+    "Institutions must belong to one of the following categories: receiving annual recurring grants from Central or State Government agencies, registered under the Societies Registration Act, incorporated under the Companies Act, professional & industry associations, or trusts registered under the Indian Trusts Act."
+  ],
+  "benefits_summary": "Financial assistance (partial or full) and technical guidance for projects related to technology development and utilization by women, covering manpower, consumables, travel and miscellaneous expenses.",
+  "documents_required": [
+    "Hard copy of proposal",
+    "Self‑attested documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Unemployed Youth Employment Generation Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "general",
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Tamil Nadu.",
+    "Must have passed at least the 8th standard.",
+    "General category applicants age up to 35 years; special category applicants age up to 45 years.",
+    "Family annual income should not exceed ₹5 Lakhs.",
+    "Applicant must contribute 10% of project cost for General category or 5% for Special category.",
+    "Mandatory Entrepreneurship Development Programme (EDP) training is required.",
+    "Project cost limit: up to ₹15 Lakhs for manufacturing projects and up to ₹5 Lakhs for trading/service projects."
+  ],
+  "benefits_summary": "Provides up to 25% subsidy (maximum ₹2.5 Lakhs) on the project cost for setting up manufacturing, service or business enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

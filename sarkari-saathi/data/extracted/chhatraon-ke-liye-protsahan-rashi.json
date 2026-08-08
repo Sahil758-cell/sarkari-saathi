@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Chhatraon Ke Liye Protsahan Rashi",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in schools, colleges, or universities recognized by the government or state government"
+  ],
+  "benefits_summary": "Provides annual scholarships of ₹15,000–₹40,000 to female students studying agriculture at senior secondary, undergraduate, postgraduate, and PhD levels.",
+  "documents_required": [
+    "Bhamashah Family ID",
+    "Aadhaar authentication",
+    "Pensioner details",
+    "Bank details",
+    "Disability details",
+    "Verification details",
+    "Upload documents"
+  ],
+  "application_link": null
+}

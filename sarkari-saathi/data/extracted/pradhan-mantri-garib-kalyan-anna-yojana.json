@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Garib Kalyan Anna Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Families belonging to Antyodaya Anna Yojana (AAY) and Priority Households (PHH) categories.",
+    "Households headed by widows, terminally ill persons, disabled persons, or persons aged 60 years or more with no assured means of subsistence or societal support.",
+    "Single women or single men with no family or societal support or assured means of subsistence.",
+    "All primitive tribal households.",
+    "Landless agricultural labourers, marginal farmers, rural artisans/craftsmen (e.g., potters, tanners, weavers, blacksmiths, carpenters), slum dwellers, and informal‑sector daily‑wage earners such as porters, coolies, rickshaw pullers, hand‑cart pullers, fruit and flower sellers, snake charmers, rag pickers, cobblers, destitutes, etc., in both rural and urban areas.",
+    "All eligible Below Poverty Line families of HIV‑positive persons"
+  ],
+  "benefits_summary": "Provides each eligible family with 5 kg of free food grain per month (in addition to the subsidised grain under the Public Distribution System).",
+  "documents_required": [
+    "Ration Card",
+    "Aadhaar"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Basic and Essential Common Infrastructure Facilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a private‑sector entity or an existing/operational industrial park",
+    "Minimum of 5 acres of legally owned land (by direct purchase or lease from the State Government) is required",
+    "The Special Purpose Vehicle (SPV) must be registered under the Companies Act, Societies Registration Act, Partnership Act or LLP",
+    "Park area must be expanded to at least 5 acres in out‑lying districts and at least 2 acres in Kolkata and Howrah",
+    "All individual units within the park must have obtained necessary clearances for land conversion, fire licence, environmental compliance, building plan, etc."
+  ],
+  "benefits_summary": "Provides a one‑time back‑ended capital subsidy ranging from ₹2 crore to ₹10 crore based on the park’s land area, with up to 20% earmarked for plant and equipment in the Common Facility Centre.",
+  "documents_required": [],
+  "application_link": null
+}

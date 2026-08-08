@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance to Former Sports Person of UP",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a domicile of Uttar Pradesh",
+    "The applicant must be an old, weak, or hardship‑facing former sportsperson",
+    "Monthly income from all sources must not exceed ₹10,000"
+  ],
+  "benefits_summary": "Provides monthly financial assistance ranging from ₹2,000 to ₹20,000 depending on the sportsperson’s level and awards",
+  "documents_required": [],
+  "application_link": null
+}

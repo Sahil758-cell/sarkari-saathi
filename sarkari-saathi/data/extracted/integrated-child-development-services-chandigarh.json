@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Integrated Child Development Services: Chandigarh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Women aged 14-18 years",
+    "Pregnant women",
+    "Lactating mothers",
+    "Children aged 0-6 years"
+  ],
+  "benefits_summary": "Provides supplementary nutrition, immunization, health check‑ups, referral services, pre‑school education and nutrition & health education to eligible children, pregnant and lactating women.",
+  "documents_required": [],
+  "application_link": null
+}

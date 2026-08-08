@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Meritorious Scholarships To Vjnt And Sbc Students Studying In Secondary Schools",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must have secured more than 50 percent marks in the previous year's annual examination and stood first or second in the class.",
+    "Student should belong to VJNT/SBC category.",
+    "Student should be studying in 5th to 10th standard."
+  ],
+  "benefits_summary": "Students receive ₹200 per annum for standards 5th‑7th and ₹400 per annum for standards 8th‑10th.",
+  "documents_required": [],
+  "application_link": null
+}

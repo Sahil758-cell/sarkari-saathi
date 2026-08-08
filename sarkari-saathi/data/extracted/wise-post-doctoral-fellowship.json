@@ -1,0 +1,21 @@
+{
+  "scheme_name": "WISE Post-Doctoral Fellowship",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 27,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Regularly employed candidates are not eligible; women scientists temporarily employed in research or academia may apply but must leave the earlier assignment if the fellowship is approved",
+    "Eligible only for women scientists holding a Ph.D. or equivalent degree (MD, MS, MDS, etc.) in basic or applied science",
+    "A career break is not mandatory but applicants with a break are encouraged to apply"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹55,000 plus HRA, an annual research grant of ₹2 lakh, equipment up to ₹3 lakh and institutional overhead charges",
+  "documents_required": [],
+  "application_link": "https://onlinewosa.gov.in/"
+}

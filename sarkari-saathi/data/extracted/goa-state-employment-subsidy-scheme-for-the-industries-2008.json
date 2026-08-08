@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Goa State Employment Subsidy Scheme for the Industries, 2008",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only manufacturing units are eligible",
+    "Micro and Small Enterprises must be registered with the Directorate of Industries, Trade and Commerce",
+    "Medium and large units must be approved by the High‑Powered Coordination Committee after 1 April 2008",
+    "Units must employ at least 80% local manpower (contract/temporary/daily wage employees are excluded)",
+    "Units must fall under “Green”, “Orange”, or the specified “Orange” categories",
+    "Proprietors, partners, promoters, directors or their relatives are not counted as employees for subsidy claims",
+    "Preference is given to women‑owned proprietary concerns (100% ownership) and partnership firms with at least 51% women ownership and an additional partner not a husband, father, brother or son"
+  ],
+  "benefits_summary": "Provides up to 40% subsidy on capital and interest, including an additional 5% local employment subsidy and higher interest subsidy limits",
+  "documents_required": [
+    "prescribed proforma/form"
+  ],
+  "application_link": null
+}

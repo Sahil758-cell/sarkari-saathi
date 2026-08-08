@@ -1,0 +1,31 @@
+{
+  "scheme_name": "CIFE - Institutional Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidates must hold a Bachelor's degree in the relevant field (10+2+4) for M.F.Sc. admission",
+    "Minimum academic performance: at least 60 % marks or OGPA 6.5 out of 10 (or 3.25 out of 5 / 2.60 out of 4); for SC/ST candidates the threshold is 55 % or OGPA 6.0 out of 10 (or 3.0 out of 5 / 2.40 out of 4)",
+    "For Ph.D. programmes, candidates need B.F.Sc. & M.F.Sc. (4 + 2 years) or B.Sc. & M.Sc. (3 years) from CIFE (till 1995) with OGPA 7.5 out of 10 (3.75 out of 5) for General/OBC and OGPA 7.0 out of 10 (3.5 out of 5) for SC/ST",
+    "Alternatively, D.F.Sc. from CIFE is acceptable if the candidate holds a Bachelor’s degree in biological science and has two years of experience in fisheries development work after obtaining the D.F.Sc.",
+    "Sponsored candidates with an M.Sc. in Fish and Fisheries (or related disciplines) and at least two years of fisheries development experience are also eligible",
+    "Junior Research Fellowship (JRF) is only awarded to candidates who join the M.F.Sc. programme at an institute different from the one where they obtained their Bachelor's degree; change of subject for JRF is not permitted",
+    "Foreign students are exempted from appearing in the written test and interview; admission is based on bio‑data scrutiny and recommendation of the head of the concerned discipline",
+    "Continuation of the fellowship after the first year depends on maintaining the required OGPA each year"
+  ],
+  "benefits_summary": "JRF provides a monthly stipend of Rs 5760 (plus a Rs 6000 annual contingent grant) for M.F.Sc., while SRF offers Rs 7000 / Rs 5600 monthly (plus a Rs 10 000 annual contingent grant) for Ph.D. research.",
+  "documents_required": [],
+  "application_link": "https://icar.nta.ac.in"
+}

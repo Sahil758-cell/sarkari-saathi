@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Animal Husbandry",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a farmer",
+    "Must be engaged in animal husbandry",
+    "Must intend to use the loan specifically for animal husbandry (e.g., purchasing buffaloes or goats)",
+    "Must be interested to avail the Animal Husbandry Loan"
+  ],
+  "benefits_summary": "Provides loans up to ₹20,000 for purchasing two buffaloes or ₹24,500 for purchasing 21 goats at interest rates of 14.5%–16.5%.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

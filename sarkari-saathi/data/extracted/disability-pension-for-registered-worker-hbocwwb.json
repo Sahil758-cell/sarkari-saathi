@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Disability Pension For Registered Worker (HBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB)",
+    "Must have a minimum of three years of regular membership",
+    "Disability must be caused by an infectious disease or workplace accident during employment",
+    "Permanent disability percentage must be between 70% and 100%",
+    "Must not be receiving a disability pension from any other Haryana Government department, board or corporation",
+    "Must upload a No Objection Certificate issued by the Department of Social Justice and Empowerment",
+    "Must upload a declaration confirming non‑receipt of any other government disability pension",
+    "Must upload a life certificate and deposit the prescribed contribution each year in November"
+  ],
+  "benefits_summary": "A monthly pension of ₹3000 is provided to eligible disabled workers.",
+  "documents_required": [
+    "No Objection Certificate issued by the Department of Social Justice and Empowerment",
+    "Declaration stating non‑receipt of pension from any other Government Department/Board/Corporation/institution",
+    "Life certificate (uploaded annually)"
+  ],
+  "application_link": null
+}

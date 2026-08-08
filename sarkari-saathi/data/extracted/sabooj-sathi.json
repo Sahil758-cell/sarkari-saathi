@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Sabooj Sathi",
+  "occupation": null,
+  "gender": null,
+  "age_min": 13,
+  "age_max": 18,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in a government-run or government-aided school in West Bengal.",
+    "Must be a permanent resident of West Bengal.",
+    "Must live at least 2 km away from the school.",
+    "Must have at least 60% attendance in the last academic year.",
+    "Must not already own a bicycle.",
+    "Must be enrolled in class IX to XII."
+  ],
+  "benefits_summary": "Provides free bicycles to eligible students, improving school attendance, health, and mobility while reducing dropout rates.",
+  "documents_required": [
+    "Student's Aadhar card",
+    "Family income certificate",
+    "School attendance certificate"
+  ],
+  "application_link": null
+}

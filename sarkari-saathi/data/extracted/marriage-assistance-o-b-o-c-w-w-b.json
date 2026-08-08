@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Marriage Assistance (O.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Odisha",
+    "Applicant must be a registered member of the Odisha Building and Other Construction Workers Welfare Board or an unmarried girl child of a member who is above 18 years old",
+    "Member must have been registered for at least one year before applying",
+    "Applicant must have worked in building and construction for at least 90 days in a given year",
+    "Applicant must not be a member of any other welfare fund established under any law",
+    "Benefit is limited to a maximum of two children",
+    "If both spouses are registered beneficiaries, the assistance is extended to only one spouse"
+  ],
+  "benefits_summary": "Provides a marriage assistance of ₹50,000 per eligible beneficiary, with a maximum of two children covered.",
+  "documents_required": [],
+  "application_link": null
+}

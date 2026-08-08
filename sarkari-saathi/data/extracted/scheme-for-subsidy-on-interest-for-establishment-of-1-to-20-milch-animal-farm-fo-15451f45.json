@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme For Subsidy On Interest For Establishment Of 1 To 20 Milch Animal Farm For Scheduled Tribe",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a small and poor farmer of Gujarat",
+    "Must have obtained a loan for setting up the unit in financial year 2023-24 from a nationalized bank or RBI‑approved financial institution",
+    "Land must be owned by a family member or scheme beneficiary",
+    "Must obtain a certificate from the Animal Husbandry Authority for establishing the livestock unit"
+  ],
+  "benefits_summary": "Provides a 12% interest subsidy on bank loans for up to 5 years to purchase 1–20 dairy animals (cows or buffaloes).",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

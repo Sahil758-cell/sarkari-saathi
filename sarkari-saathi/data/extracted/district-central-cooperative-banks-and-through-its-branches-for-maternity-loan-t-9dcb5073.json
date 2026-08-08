@@ -1,0 +1,25 @@
+{
+  "scheme_name": "District Central Cooperative Banks and through its Branches: For Maternity Loan through Self Help Groups",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be pregnant",
+    "loan applicable only for maternity"
+  ],
+  "benefits_summary": "Provides a ₹2,000 loan at 11% interest for maternity expenses.",
+  "documents_required": [
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

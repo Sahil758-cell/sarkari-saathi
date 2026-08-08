@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Award of Puducherry State Post-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native of the Union Territory of Puducherry either by birth or by continuous residence for at least five years",
+    "Applicant must be studying in 11th or 12th standard and must have secured promotion to the next higher class",
+    "If studying in 11th standard, the applicant must have secured at least 60% marks in the 10th standard",
+    "If studying in 12th standard, the applicant must have secured at least 50% marks in the 11th standard",
+    "If applications exceed available slots, selection is made strictly on the basis of merit and school type preference (Government, Government‑aided, then Private)"
+  ],
+  "benefits_summary": "Day scholars receive ₹60 per month and hostellers receive ₹100 per month, disbursed directly into the applicant’s Aadhaar‑linked bank account.",
+  "documents_required": [],
+  "application_link": null
+}

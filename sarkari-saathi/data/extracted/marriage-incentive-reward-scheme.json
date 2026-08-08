@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Marriage Incentive Reward Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Both members of the couple must be permanent residents of Uttar Pradesh for at least five years",
+    "Neither member of the couple should have any criminal conviction",
+    "The marriage must be registered with the Registrar of the State",
+    "At least one member of the couple must have a disability of at least 40%",
+    "No member of the couple should be an income taxpayer"
+  ],
+  "benefits_summary": "Provides ₹15,000 for a disabled man, ₹20,000 for a disabled woman, or ₹35,000 if both partners are disabled.",
+  "documents_required": [
+    "Certificate of minimum 40% disability",
+    "Marriage Registration Certificate",
+    "Hard copy of the online application form"
+  ],
+  "application_link": null
+}

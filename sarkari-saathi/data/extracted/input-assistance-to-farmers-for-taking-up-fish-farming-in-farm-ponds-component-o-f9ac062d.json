@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Odisha.",
+    "The applicant must have a bank account in his/her name in Odisha.",
+    "The farm pond must have been excavated by the applicant.",
+    "The farm pond must have been excavated under Government schemes such as Watershed Development Projects or MGNREGA through the Directorate of Soil Conservation & Watershed Development.",
+    "The farm pond must have a minimum water depth of 5 feet.",
+    "The farm pond must retain water for a minimum of 5 months of culture period.",
+    "While availing subsidy, the beneficiary family will be considered instead of an individual family member.",
+    "The assistance is limited to 0.5 acres of water spread area per beneficiary."
+  ],
+  "benefits_summary": "One‑day training programme for beneficiaries and a one‑time financial subsidy (40% for General category, 60% for SC/ST/Women/Transgender/PwD) towards fish farming inputs.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph"
+  ],
+  "application_link": null
+}

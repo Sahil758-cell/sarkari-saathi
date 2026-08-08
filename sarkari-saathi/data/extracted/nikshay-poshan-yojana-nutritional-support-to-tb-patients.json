@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Nikshay Poshan Yojana (Nutritional Support To TB Patients)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Tuberculosis (TB) patient under treatment",
+    "Must be registered/notified on the NIKSHAY portal",
+    "Notification must be on or after 1 April 2018 (including existing patients under treatment)"
+  ],
+  "benefits_summary": "Financial incentive of ₹500 per month per notified TB patient, provided either as cash via DBT or as an in‑kind food basket of equivalent value.",
+  "documents_required": [],
+  "application_link": "https://www.nikshay.in/"
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Overseas Visiting Doctoral Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian national.",
+    "Applicant must be registered for a full‑time Ph.D. programme in a recognised Indian institution/university in STEM (including Medicine, Pharma, Agriculture) disciplines.",
+    "Part‑time and sponsored Ph.D. students are not eligible.",
+    "Students who have already submitted their thesis for award are ineligible.",
+    "Selected fellows must not draw their regular research fellowship in India while undertaking the overseas fellowship.",
+    "Supervisors’ exchange visits must occur during the applicant’s Ph.D. tenure, with each supervisor staying abroad for at least two weeks and not more than 30 days.",
+    "The overseas institution must have a signed MoU/Agreement with SERB.",
+    "Purdue University faculty may support only one OVDF application per call."
+  ],
+  "benefits_summary": "Selected fellows receive a US$2,000 monthly stipend, a one‑time contingency allowance of ₹60,000, round‑trip economy airfare, and additional travel, per‑diem, and accommodation allowances for supervisor visits.",
+  "documents_required": [],
+  "application_link": "http://www.purdue.edu/india/"
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Vikaas-Day Care Scheme For Person with Disability Children",
+  "occupation": null,
+  "gender": null,
+  "age_min": 10,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must have a disability covered under the National Trust Act (Autism, Cerebral Palsy, Mental Retardation, or Multiple Disabilities).",
+    "Beneficiary must not be simultaneously enrolled in the Samarth or Gharaunda schemes."
+  ],
+  "benefits_summary": "Provides day‑care facilities, skill development, counseling and optional transport support for children with disability aged 10 and above.",
+  "documents_required": [],
+  "application_link": null
+}

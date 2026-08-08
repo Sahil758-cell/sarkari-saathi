@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scholarship for Chhattisgarh Students Studying Outside the State",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants cannot receive more than one scholarship at the same time without special government approval",
+    "If the institution provides a fee concession, the student may continue to receive it",
+    "Vacant scholarships may be re‑allocated to the next eligible candidate from the merit list",
+    "The applicant must have passed the qualifying examination conducted by any testing body of Chhattisgarh, but children of permanent government employees of Chhattisgarh on deputation to the Government of India or another state government are exempted from this condition",
+    "Students who are in full‑time employment are not eligible for the scholarship",
+    "A student regularly studying in a recognized institution and already receiving any scholarship may be allowed to undertake part‑time work (only one concession)",
+    "Special scholarships may be awarded in exceptional cases based on poverty and merit, subject to budget limits"
+  ],
+  "benefits_summary": "Monthly scholarship of ₹2,000.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": "Step 1: Visit the Office of the Principal of the Institution and request a hard copy of the prescribed application form. Step 2: Fill in all mandatory fields, paste the passport‑sized photograph (signed across if required), and attach copies of all mandatory documents (self‑attested if required). Step 3: Submit the duly filled and signed application form along with the documents to the staff within the prescribed period. The Principal will verify the documents and forward the application to the Directorate for approval (new applications) or process the renewal (existing beneficiaries). Step 4: Request a receipt or acknowledgement containing the date, time of submission, and a unique identification number (if applicable)."
+}

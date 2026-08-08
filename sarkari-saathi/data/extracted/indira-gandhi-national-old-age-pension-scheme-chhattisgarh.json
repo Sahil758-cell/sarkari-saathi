@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme- Chhattisgarh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a senior citizen",
+    "Applicant must not be receiving pension benefits from any other Central or State Government pension scheme"
+  ],
+  "benefits_summary": "Monthly assistance of ₹500 for ages 60‑79 and ₹650 for ages 80 and above.",
+  "documents_required": [],
+  "application_link": null
+}

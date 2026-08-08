@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Craftsman Training Scheme - Maharashtra",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only two siblings within a family are eligible for this benefit",
+    "Trainee must maintain an average of 80% attendance",
+    "Trainee should be passing the first year to enroll in a 2‑year trade",
+    "Trainees suspended or found non‑eligible for the All India Trade Test (AITT) are not qualified",
+    "Trainees who have left the GITI are not eligible from their date of departure",
+    "Trainees in PITI are ineligible for this scheme",
+    "Applicant must have an Aadhaar‑seeded savings bank account in a nationalised bank",
+    "Trainee registration on the MAHA‑DBT portal is compulsory"
+  ],
+  "benefits_summary": "Stipend of ₹500 per month.",
+  "documents_required": [],
+  "application_link": null
+}

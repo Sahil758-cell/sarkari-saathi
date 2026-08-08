@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme For Financial Assistance For Veteran Artists",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 48000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have made a significant contribution to art, letters or related fields; traditional scholars are eligible even without published works.",
+    "The applicant must be receiving a pension of at least ₹500 per month from the concerned State Government/UT Administration or be recommended by the Zonal Cultural Centres where a State pension does not exist.",
+    "The applicant (or spouse) must not be receiving financial assistance under any other Ministry of Culture schemes such as the Repertory Grant.",
+    "The income ceiling of ₹48,000 per annum excludes any existing artiste pension assistance received from the Government."
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a monthly allowance up to ₹6,000 (at least ₹500 from the State and up to ₹5,500 from the Central Government).",
+  "documents_required": [
+    "Digital Life Certificate (DLC) processed annually through the Jeevan Pramaan portal",
+    "Coloured scanned copy of the original Income Certificate (required every five years)",
+    "Any other documents as may be requisitioned by the Ministry of Culture"
+  ],
+  "application_link": null
+}

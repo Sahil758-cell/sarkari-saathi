@@ -1,0 +1,31 @@
+{
+  "scheme_name": "State Marriage Assistance Scheme For Poor Girls",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu and Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a family holding an AAY (Antyodaya Anna Yojana) or PHH (Priority Households) ration card.",
+    "Applicant must not have previously received financial assistance for the same purpose under any other UT/Centrally Sponsored Scheme, especially the Ladli Beti Scheme.",
+    "Applicant can receive the benefit only once under this scheme.",
+    "Application must be submitted at least one month before the date of marriage.",
+    "Applicant must provide proof of marriage, proof of age, a copy of the AAY or PHH ration card, and an Aadhaar card.",
+    "The beneficiary girl must have passed the 8th standard or equivalent; school drop‑outs may still apply under specific guidelines for the financial years 2022‑2023 to 2024‑2025, after which a certificate of 8th‑standard completion becomes mandatory."
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹50,000 transferred directly to the beneficiary’s bank account before marriage.",
+  "documents_required": [
+    "Proof of marriage",
+    "Proof of age",
+    "Copy of AAY or PHH ration card",
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

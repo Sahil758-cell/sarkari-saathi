@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Accident Relief Scheme",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The primary breadwinner must be an earning member of the family.",
+    "The death of the breadwinner must be caused by an accident.",
+    "The applicant must be a legal heir of the deceased primary breadwinner.",
+    "The family must be engaged in any of the 44 notified occupational categories.",
+    "The application must be submitted within 6 months of the death."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹20,000 (or ₹5,000‑₹15,000 depending on injury) to the legal heirs of a BPL household when the primary breadwinner dies in an accident.",
+  "documents_required": [],
+  "application_link": null
+}

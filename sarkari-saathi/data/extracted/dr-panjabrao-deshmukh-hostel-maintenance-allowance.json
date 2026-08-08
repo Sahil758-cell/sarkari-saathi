@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Dr. Panjabrao Deshmukh Hostel Maintenance Allowance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a domicile of Maharashtra State",
+    "Applicant must be a bonafide student admitted to a professional or technical course (Diploma, Graduation, Post‑Graduation)",
+    "Deemed universities and private universities are not eligible",
+    "Admission must be through the Centralized Admission Process (CAP)",
+    "Applicant must not be receiving any other scholarship or stipend",
+    "Only two children from the same family are eligible in the current academic year",
+    "Minimum 50 % attendance in the previous semester (except for fresh admissions)",
+    "The candidate must not have a gap of two years or more during the course duration"
+  ],
+  "benefits_summary": "Provides a hostel maintenance allowance of Rs 3,000 per year (Rs 20,000 for children of Aplabhudharak shetkari/registered labourers) for eligible students with family income ≤ 8 Lakhs, with amounts varying by location.",
+  "documents_required": [
+    "academic records",
+    "income certificate"
+  ],
+  "application_link": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AA5337B52CE309785"
+}

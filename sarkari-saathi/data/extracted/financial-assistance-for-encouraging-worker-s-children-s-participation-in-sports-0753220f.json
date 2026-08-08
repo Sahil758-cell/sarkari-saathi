@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Financial Assistance for Encouraging Worker's Children's Participation in Sports Activities- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana",
+    "Applicant must be registered with the Haryana Labour Welfare Board",
+    "No minimum service period required for the worker",
+    "Application must be submitted within one year of the issuance of the certificate of participation in sports activities",
+    "Benefits are provided to the children of the registered workers"
+  ],
+  "benefits_summary": "Provides financial assistance ranging from ₹2,000 to ₹31,000 for workers' children participating in sports competitions and achieving 1st, 2nd or 3rd places at district to international levels.",
+  "documents_required": [
+    "Photograph"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

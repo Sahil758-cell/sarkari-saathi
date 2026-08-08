@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Snehasanthwanam",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be an Endosulfan victim"
+  ],
+  "benefits_summary": "Financial assistance of ₹2200 to bedridden victims, ₹1700 to those receiving a disability pension, ₹1200 to other victims, plus ₹700 monthly to caregivers and educational assistance for children of affected families.",
+  "documents_required": [],
+  "application_link": null
+}

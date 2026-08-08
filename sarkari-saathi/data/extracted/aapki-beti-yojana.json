@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Aapki Beti Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in a government school in Rajasthan.",
+    "Must be studying in classes 1 to 12.",
+    "Must be an orphan or have lost one parent (single parent)."
+  ],
+  "benefits_summary": "Financial assistance of ₹2,100 per year for classes 1‑8 and ₹2,500 per year for classes 9‑12, paid via Direct Benefit Transfer.",
+  "documents_required": [],
+  "application_link": null
+}

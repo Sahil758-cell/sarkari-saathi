@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Mukhyamantri Alpsankhyak Rozgar Rinn Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 400000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a minority community (Muslim, Sikh, Christian, Buddhist, Jain, or Parsi)",
+    "Applicant must be a permanent resident of Bihar and apply in the district of permanent residence",
+    "Applicant must not be a government or semi‑government employee",
+    "Applicants from minority communities other than Muslims must submit a religious belief certificate issued by a recognized religious body"
+  ],
+  "benefits_summary": "Loans up to ₹5,00,000 are provided to minority youth at a simple annual interest rate of 5% for generating employment.",
+  "documents_required": [
+    "Application form",
+    "Religious belief certificate (for non‑Muslim minorities)",
+    "Affidavits",
+    "Agreement letters",
+    "Guarantee bonds",
+    "Hypothecation forms",
+    "Post‑dated cheques (10 to 20)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Pension Benefit for the Construction Workers",
+  "occupation": [
+    "building worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year",
+    "Must have worked as a building worker for at least one year",
+    "Must be a resident of Delhi",
+    "Must be a registered worker of the Delhi Building and Other Construction Workers Welfare Board"
+  ],
+  "benefits_summary": "A pension of ₹3000 per month after reaching 60 years, with an additional ₹300 for each additional year of membership beyond five years.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Proof of 90 Days Employment",
+    "Affidavit of the Applicant",
+    "Photograph",
+    "Applicant’s Video"
+  ],
+  "application_link": null
+}

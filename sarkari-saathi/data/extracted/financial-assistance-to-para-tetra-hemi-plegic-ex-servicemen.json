@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance to Para/Tetra/Hemi Plegic Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ex‑serviceman suffering from paraplegia, tetraplegia or hemiplegia",
+    "Applicant must be 100 % disabled (total incapacitation) and financially penurious",
+    "For hemiplegic ex‑servicemen, disability must be confirmed 6 months after onset and the condition must not have recovered",
+    "Applicant must not be residing in paraplegic homes funded by the Government of India or the State Government",
+    "Applicant must not be receiving any financial assistance or pension from any department of the Haryana Government",
+    "Applicant must produce a certificate from the concerned District Social Welfare Officer confirming no assistance/ pension from the Social Justice & Empowerment Department of Haryana",
+    "Applicant must submit annual survival verification proof to continue receiving assistance"
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month, with an annual increase of ₹400 each November.",
+  "documents_required": [
+    "Certificate issued by the District Social Welfare Officer confirming no financial assistance/pension from the Social Justice & Empowerment Department of Haryana",
+    "Pre‑defined application form/template downloaded from the Antyodaya‑SARAL portal"
+  ],
+  "application_link": null
+}

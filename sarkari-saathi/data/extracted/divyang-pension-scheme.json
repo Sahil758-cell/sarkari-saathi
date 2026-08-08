@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Divyang Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": 48000,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Uttarakhand",
+    "Must belong to the Person with Disabilities (PWD) category with more than 40% disability",
+    "Monthly income must not exceed ₹4,000, or applicant must belong to the BPL (Below Poverty Level) category"
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹1,500 to eligible beneficiaries.",
+  "documents_required": [],
+  "application_link": null
+}

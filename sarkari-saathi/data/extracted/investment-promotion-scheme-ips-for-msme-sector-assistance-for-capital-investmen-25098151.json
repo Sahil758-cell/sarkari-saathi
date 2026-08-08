@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for MSME Sector: Assistance For Capital Investment In Solar Power Generation",
+  "occupation": [
+    "manufacturing",
+    "service"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Should be a new manufacturing or service unit or an existing manufacturing or service unit undertaking expansion or diversification in the MSME sector",
+    "The unit must have commenced commercial production between 20.05.2022 and 19.05.2027",
+    "Enterprise must meet at least 10 % of its total power consumption through solar power",
+    "Application must be submitted within six months of generation of solar power",
+    "Enterprise is eligible for the scheme only once"
+  ],
+  "benefits_summary": "25 % subsidy up to a maximum of ₹5,000,000",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

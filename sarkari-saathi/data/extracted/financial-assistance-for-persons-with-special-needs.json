@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance For Persons With Special Needs",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 60,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "National Capital Territory of Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Delhi for at least 5 years before application",
+    "Disability must be at least 40%",
+    "Disability certificate must be issued by the Medical Board of a Government hospital",
+    "Applicant must have a single‑operated bank or post office account for electronic clearing",
+    "Relaxations may be given to minors, mentally challenged applicants, or those under legal guardianship as per National Trust rules"
+  ],
+  "benefits_summary": "Financial assistance of Rs 2500 per month until the age of 60.",
+  "documents_required": [
+    "Disability certificate",
+    "Aadhar card or Voter ID",
+    "Photograph"
+  ],
+  "application_link": "https://edistrict.delhigovt.nic.in/"
+}

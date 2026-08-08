@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhyamantri Shiksha Alankar Yojana for Students of Economically Weaker Section",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "EWS"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Student must be studying in government schools in Rajasthan",
+    "Student must be enrolled in class 10 or class 12",
+    "Student must belong to the Economically Weaker Section (EWS)",
+    "Student must have secured the highest marks in the Rajasthan Board of Secondary Education examinations for the respective class and stream",
+    "Students benefiting from other incentive schemes are also eligible"
+  ],
+  "benefits_summary": "Each selected student receives a one-time cash award of ₹50,000 and a Certificate of Appreciation.",
+  "documents_required": [],
+  "application_link": null
+}

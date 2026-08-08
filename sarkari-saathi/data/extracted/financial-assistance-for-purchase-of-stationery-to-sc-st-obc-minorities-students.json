@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance For Purchase Of Stationery To SC/ST/OBC/Minorities Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in Class 1 to 12 in a government, aided or recognized public school",
+    "Attendance should not be less than 70 % in the preceding year",
+    "Applicant should not be receiving any centrally sponsored scholarship scheme together with the state‑funded scheme",
+    "Applicant must upload a SC/ST/OBC/Minorities certificate issued by the concerned district office of Delhi",
+    "Applicant must upload a domicile document as proof of residence in Delhi"
+  ],
+  "benefits_summary": "Financial assistance of Rs 1,000 per year for classes I–VIII and Rs 2,000 per year for classes IX–XII.",
+  "documents_required": [
+    "SC/ST/OBC/Minorities certificate issued by concerned district office Delhi",
+    "Domicile document"
+  ],
+  "application_link": "https://edistrict.delhigovt.nic.in/"
+}

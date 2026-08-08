@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Award to Scheduled Castes Students Who Secured Top Ranks at State and District Level in Standard X & XII (Sahuji Maharaj Assistance)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must have secured top ranks at the State or District level in Gujarat for Standard X or Standard XII across all streams."
+  ],
+  "benefits_summary": "Cash prizes are awarded to the top three SC students in Standard X and XII at both state and district levels, with amounts ranging from ₹41,000 to ₹11,000 at the state level and ₹6,000 to ₹4,000 at the district level.",
+  "documents_required": [],
+  "application_link": null
+}

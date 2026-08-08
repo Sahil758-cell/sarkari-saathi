@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Award of Pre-matric Scholarship to Scheduled Caste Students Studying from VI to X Standard in Government Schools and Government recognised Private Schools in the Union Territory of Puducherry",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a native of Puducherry by birth or have at least five years continuous residence in the Union Territory",
+    "Student must secure promotion to the next higher class annually"
+  ],
+  "benefits_summary": "Scholarship of ₹1,500 per year for classes VI‑VIII and ₹2,500 per year for classes IX‑X, payable over 10 months.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

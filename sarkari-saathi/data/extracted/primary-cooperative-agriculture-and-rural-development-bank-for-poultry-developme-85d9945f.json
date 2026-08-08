@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Poultry Development",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Should be engaged in poultry farming or cattle development",
+    "Should be interested in availing loan for poultry farming or cattle development",
+    "Should intend to use the loan specifically for poultry farming or cattle development"
+  ],
+  "benefits_summary": "Provides loans up to ₹14,800 for 200 poultry birds or ₹17,000 for 2 cows at interest rates of 14.5%–16.5%.",
+  "documents_required": [
+    "passport-sized photograph",
+    "mandatory documents (self-attested)"
+  ],
+  "application_link": null
+}

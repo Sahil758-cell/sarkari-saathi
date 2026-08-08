@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme - Sikkim",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should not have any source of income.",
+    "Applicant should not be a recipient of salary/pension/family pension from the Central Government or other State Governments.",
+    "Applicant should have opened a bank account under Pradhan Mantri Jan Dhan Yojana."
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a monthly pension of ₹2000.",
+  "documents_required": [],
+  "application_link": null
+}

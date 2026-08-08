@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Gausevak Training (Initial and Refresher)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "must be unemployed",
+    "must have passed the 10th standard",
+    "must be a cow‑helper"
+  ],
+  "benefits_summary": "Provides a 100% stipend of ₹6,000 for initial training and ₹500 for refresher training, along with a kit worth ₹1,200 and study material worth ₹100.",
+  "documents_required": [],
+  "application_link": null
+}

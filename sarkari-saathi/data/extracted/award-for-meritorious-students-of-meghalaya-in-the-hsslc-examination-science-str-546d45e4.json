@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Award For Meritorious Students Of Meghalaya In The HSSLC Examination (Science Stream)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the current HSSLC Examination from the science stream.",
+    "Must have scored 60% and above marks in the examination.",
+    "Eligibility category noted in source: Khasi",
+    "Eligibility category noted in source: Jaintia",
+    "Eligibility category noted in source: Garo",
+    "Eligibility category noted in source: Koch",
+    "Eligibility category noted in source: Hajong"
+  ],
+  "benefits_summary": "Award of Rs. 10,000 per awardee along with a certificate.",
+  "documents_required": [
+    "Scheduled tribe certificate of Meghalaya"
+  ],
+  "application_link": null
+}

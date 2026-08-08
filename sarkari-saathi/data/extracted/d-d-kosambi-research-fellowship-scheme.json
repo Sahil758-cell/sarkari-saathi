@@ -1,0 +1,26 @@
+{
+  "scheme_name": "D. D. Kosambi Research Fellowship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed post‑graduation for junior and senior categories",
+    "Must have a PhD for post‑doctoral category",
+    "Junior category limited to individuals up to 35 years of age",
+    "Senior category limited to individuals above 35 years of age",
+    "Only one fellowship per individual per category in a lifetime"
+  ],
+  "benefits_summary": "Junior fellows receive up to ₹15,000 per month for up to 2 years; senior and post‑doctoral fellows receive ₹20,000 per month (₹30,000 for full‑time research) for up to 2 years.",
+  "documents_required": [
+    "passport‑sized photograph",
+    "application form"
+  ],
+  "application_link": null
+}

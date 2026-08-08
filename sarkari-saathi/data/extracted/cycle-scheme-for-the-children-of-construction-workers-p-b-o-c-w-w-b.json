@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Cycle Scheme for the Children of Construction Workers (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered building or construction worker under the Punjab Building and Other Construction Workers Welfare Board",
+    "Applicant must have worked in building and construction for at least 90 days in a year",
+    "Applicant must not be a member of any other welfare fund established under any law",
+    "Applicant must not be a member of EPF, NPS, or ESIC",
+    "Applicant must not be an income tax payer",
+    "Beneficiary must be a child of a registered construction worker",
+    "Beneficiary must be studying in class 9th to 12th in Punjab",
+    "Beneficiary must not have received a bicycle under the Mai Bhago Cycle Scheme"
+  ],
+  "benefits_summary": "One free cycle is provided to eligible children of registered construction workers studying in classes 9th to 12th.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Immediate Assistance in Case of Accident to the Beneficiary",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The construction worker must be registered under the Manipur Building and Other Construction Workers' Welfare Board",
+    "The construction worker must not be covered by the Group Insurance Scheme undertaken by the Board",
+    "For accidental death, the applicant must be the nominee/dependent of the deceased construction worker",
+    "For disability benefit, the worker must be disabled due to an accident"
+  ],
+  "benefits_summary": "Provides financial assistance for hospitalization, disability, and accidental death to registered construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

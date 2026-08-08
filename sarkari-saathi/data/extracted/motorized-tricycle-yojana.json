@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Motorized Tricycle Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Applicant should be self‑employed or a student pursuing senior higher secondary education",
+    "Applicant must have prior experience operating a vehicle",
+    "Applicant must hold a valid driving license"
+  ],
+  "benefits_summary": "Beneficiaries receive a motorized tricycle free of cost to support self‑employment and higher education from senior secondary level onwards.",
+  "documents_required": [],
+  "application_link": null
+}

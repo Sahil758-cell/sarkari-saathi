@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Thalolam Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Kerala state.",
+    "The patient must be below 18 years of age.",
+    "The patient must belong to a Below Poverty Line (BPL) family.",
+    "Eligibility is limited to specified diseases such as kidney diseases, cardiovascular diseases, cerebral palsy, brittle bone disease, hemophilia, thalassemia, sickle cell anemia, orthopedic deformities, other neuro‑developmental disabilities, congenital anomalies (endosulfan victims), and accidents requiring surgery.",
+    "The scheme does not cover cancer cases."
+  ],
+  "benefits_summary": "Free treatment up to ₹50,000 for eligible children under 18 with specified diseases.",
+  "documents_required": [],
+  "application_link": null
+}

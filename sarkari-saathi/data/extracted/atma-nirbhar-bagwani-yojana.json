@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Atma Nirbhar Bagwani Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident and farmer of Arunachal Pradesh.",
+    "Collateral security in the form of land/property or an acceptable guarantee is required for loan amounts exceeding Rs 1.6 lakh for individuals and Rs 10 lakh for SHGs/FPOs.",
+    "No collateral is needed for loans up to Rs 1.6 lakh for individuals or Rs 10 lakh for SHGs."
+  ],
+  "benefits_summary": "Provides a 45% government subsidy, 45% bank loan and 10% farmer contribution for credit to cultivate specified fruits, with collateral waived up to Rs 1.6 lakh (Rs 10 lakh for SHGs).",
+  "documents_required": [],
+  "application_link": "https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf"
+}

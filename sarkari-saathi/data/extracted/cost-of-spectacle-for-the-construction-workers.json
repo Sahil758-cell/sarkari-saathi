@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Cost of Spectacle for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of West Bengal.",
+    "Applicant must be a Building/Construction Worker.",
+    "Applicant must be aged between 18 and 60 years.",
+    "Applicant must have worked in building and construction for at least 90 days in a year.",
+    "Applicant must be a registered member under the Building and Other Construction Workers Welfare Board of West Bengal.",
+    "Applicant must pay a registration fee of ₹20 and a yearly subscription fee of ₹30 (renewal fee of ₹30 after one year)."
+  ],
+  "benefits_summary": "Up to ₹500 reimbursement for purchasing spectacles.",
+  "documents_required": [
+    "Form-27",
+    "Form-27A"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Capital Investment Subsidy: Thrust Area Industries",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Thrust Area Industry, i.e., one of the following sectors: Electronic Industries, Bio‑technology Industries, Food Processing Industries, Agro Processing Industries including Marine Products, Leather Products and Footwear Industries, Light Engineering Industries including Auto Components, Textiles Industries including Garments, or any new thrust area industry that started production on or after 3 April 2003."
+  ],
+  "benefits_summary": "Provides a subsidy of 20% up to ₹20,00,000 for large and medium enterprises and 35% up to ₹30,00,000 for small and micro enterprises on plant and machinery investments.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Female Child Birth Gift Scheme (HPBOCWWB)",
+  "occupation": [
+    "Building worker",
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker's membership with the Welfare Board must be active at the time of application",
+    "The worker should have at least a two‑month subscription to the Welfare Board",
+    "The applicant must have worked in building or construction activities for at least 90 days in the preceding 12 months",
+    "Registration must be renewed annually, with a renewal fee and proof of 90 days of work each year after three years",
+    "The benefit is applicable for the birth of up to two daughters of the registered worker"
+  ],
+  "benefits_summary": "Financial support of ₹51,000 per daughter, up to two daughters.",
+  "documents_required": [
+    "Passport‑sized photograph (self‑attested)",
+    "Wage slip or appointment letter from the employer verifying 90 days of construction work",
+    "Certificate from a local authority (councilor, executive officer, or Panchayat Secretary) if wage slip/appointment letter is unavailable"
+  ],
+  "application_link": null
+}

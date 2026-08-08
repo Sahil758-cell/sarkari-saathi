@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Professional Education (PEJKBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building or construction work for at least 90 days in the preceding 12 months.",
+    "Registration must be renewed annually.",
+    "Parents must be registered members of the Jammu & Kashmir Building and Other Construction Workers Welfare Board with active membership.",
+    "Applicant must be a student and regular in attendance."
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 to ₹50,000 for regular students pursuing diploma, ITI, engineering, or professional degree courses.",
+  "documents_required": [
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

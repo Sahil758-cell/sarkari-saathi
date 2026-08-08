@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Computer Training Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unemployed youth who have passed the Intermediate examination (10+2)",
+    "Applicants must not be receiving benefits of any other government‑run scheme such as scholarship or fee reimbursement",
+    "Trainees are eligible for the scheme only once for ‘O’ Level/‘CCC’ training",
+    "A trainee may enroll for ‘O’ Level in the next financial year only after completing ‘CCC’",
+    "75% biometric attendance is compulsory during the training session",
+    "If a trainee is absent for more than 15 days without a valid reason, they will be replaced from the waiting list"
+  ],
+  "benefits_summary": "Free computer training (‘O’ Level or ‘CCC’) with training fees covered up to Rs. 15,000 for the ‘O’ level and Rs. 3,500 for the ‘CCC’ level per trainee.",
+  "documents_required": [
+    "Income Certificate",
+    "Caste Certificate",
+    "Intermediate Marks Sheet",
+    "Self‑photograph"
+  ],
+  "application_link": "http://obccomputertraining.upsdc.gov.in"
+}

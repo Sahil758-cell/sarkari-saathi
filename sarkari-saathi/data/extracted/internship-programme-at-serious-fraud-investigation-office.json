@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Internship Programme At Serious Fraud Investigation Office",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian national.",
+    "Applicant must be a student pursuing post‑graduation (e.g., MBA Finance, Law, Economics, Management, Computer Forensics) or a fresh graduate with a first‑class graduation degree.",
+    "Graduate applicants must have secured a first‑class degree in graduation.",
+    "If the applicant has a second‑class graduation degree, a minimum of 55% marks is required.",
+    "Interns must furnish a Declaration of Secrecy before the commencement of the internship."
+  ],
+  "benefits_summary": "Stipend of ₹7,000 per month and a certificate of internship upon satisfactory completion.",
+  "documents_required": [
+    "Application form (self‑attested)"
+  ],
+  "application_link": "https://cdnbbsr.s3waas.gov.in/s3d51b416788b6ee70eb0c381c06efc9f1/uploads/2025/03/202503122064427326.pdf"
+}

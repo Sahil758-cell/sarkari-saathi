@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scholarship For Transgender Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be Transgender",
+    "Applicant must be a resident of Kerala",
+    "Applicant must be a student studying in State Government, Government aided, or Self Financing schools/colleges",
+    "Applicant must be studying from 7th class up to Diploma, Degree, Post‑Graduation or professional courses"
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹1000 for classes 7‑10, ₹1500 for Plus One & Two, and ₹2000 for higher education, each payable for 10 months.",
+  "documents_required": [],
+  "application_link": null
+}

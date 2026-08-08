@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Internship Programme for Women Students / Scholars / Social Activists / Teachers",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 21,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in or associated with any university, academic or non‑academic institution",
+    "Must be from non‑tier‑I cities or rural parts of India"
+  ],
+  "benefits_summary": "Interns receive a monthly stipend of ₹20,000, travel reimbursement, hostel accommodation, and a certificate upon successful completion.",
+  "documents_required": [
+    "Latest passport‑size photograph"
+  ],
+  "application_link": null
+}

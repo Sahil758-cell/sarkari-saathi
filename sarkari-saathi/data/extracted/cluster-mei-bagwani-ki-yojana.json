@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Cluster Mei Bagwani Ki Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual farmer, a farmers’ group, a Farmers Producer Organisation (FPO), a cooperative society, or a registered institution",
+    "Applicant must have agricultural land of at least 0.25 acres and not more than 10 acres (maximum 25 acres for a cluster area)",
+    "Applicant must be registered on the DBT portal"
+  ],
+  "benefits_summary": "Provides up to ₹1 lakh per acre for standard crops and up to ₹2 lakh per acre for premium crops, paid in two installments subject to 75% plant survival.",
+  "documents_required": [],
+  "application_link": null
+}

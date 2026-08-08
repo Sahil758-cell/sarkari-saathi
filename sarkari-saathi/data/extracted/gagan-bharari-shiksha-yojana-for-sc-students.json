@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Gagan Bharari Shiksha Yojana for SC Students",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have availed (or be eligible for) the Centrally Sponsored Post Matric Scholarship during the current academic year."
+  ],
+  "benefits_summary": "Additional maintenance allowance of ₹750 per month for day scholars and ₹1,500 per month for hostel residents, plus a disability allowance of ₹750 per month, each payable for 10 months.",
+  "documents_required": [],
+  "application_link": null
+}

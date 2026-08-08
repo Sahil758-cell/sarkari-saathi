@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Chanakya Scheme for Swayam Upadhi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should belong to the Brahmin community.",
+    "Applicant should reside in any of the 13 districts of Andhra Pradesh.",
+    "Applicant should have set up the enterprise in Andhra Pradesh.",
+    "Applicant should have a zeal to become a successful entrepreneur."
+  ],
+  "benefits_summary": "One-time financial assistance up to ₹2,00,000, not exceeding 50% of project cost.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook"
+  ],
+  "application_link": "https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#"
+}

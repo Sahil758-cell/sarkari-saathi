@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Plantation Crop Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Meghalaya",
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must own or lease land of at least 0.2 hectares",
+    "Benefits are allocated on a first‑come‑first‑serve basis"
+  ],
+  "benefits_summary": "Provides a 50% subsidy on planting materials, polypipes and construction of soakage tanks as a one‑year financial assistance.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

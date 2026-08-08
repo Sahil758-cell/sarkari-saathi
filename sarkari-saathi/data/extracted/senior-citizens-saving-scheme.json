@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Senior Citizens Saving Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Indian citizens above the age of 60 years",
+    "Retirees aged 55‑60 years who have opted for Voluntary Retirement Scheme (VRS) or Superannuation",
+    "Retired defense personnel aged above 50 years and below 60 years",
+    "Investment must be made within a month of availing retirement benefits"
+  ],
+  "benefits_summary": "Provides a high‑interest, government‑backed savings option for senior citizens with tax deductions under Section 80C.",
+  "documents_required": [],
+  "application_link": null
+}

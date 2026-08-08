@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for MSME Sector: Assistance For Participation In Industrial Exhibitions Abroad",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unit must be a new or existing manufacturing/service unit undertaking expansion or diversification in the MSME sector",
+    "Commercial production must have commenced between 20‑05‑2022 and 19‑05‑2027",
+    "Application must be submitted within three months of completion of the exhibition"
+  ],
+  "benefits_summary": "50% space‑rent subsidy up to ₹2,00,000, payable for up to five years under IPS‑2022",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

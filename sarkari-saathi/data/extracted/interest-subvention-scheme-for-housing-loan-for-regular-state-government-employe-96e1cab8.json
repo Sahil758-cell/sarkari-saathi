@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Interest Subvention Scheme For Housing Loan For Regular State Government Employee Under APUN GHAR",
+  "occupation": [
+    "Permanent State Government Employee"
+  ],
+  "gender": null,
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "At least 5 years of residual service are required",
+    "Must be a permanent employee of the Assam State Government",
+    "Only one application is allowed per employee during their service tenure",
+    "Application must be made within 2 years of the Government Office Memorandum/Notification",
+    "Employees without an SBI salary account or with an SBI account for less than 1 year must submit a No Dues certificate from their previous bank",
+    "Loan amount up to the prescribed limit (₹15 lakh) is covered by the subvention; amounts above this limit are not eligible for the interest benefit",
+    "Close relatives can apply jointly only if all are Assam government employees, with the loan limit combined under the scheme",
+    "Persons who have already benefited under the Apun Ghar scheme are not eligible",
+    "Purchase of an ancestral plot of land from close relatives (parents, spouse, siblings, children) is excluded",
+    "Pensionable employees may have loan repayment extended up to age 70, non‑pensionable employees up to age 60"
+  ],
+  "benefits_summary": "Provides a 3.5 % interest subvention on housing loans up to ₹15 lakh, resulting in reduced interest rates of 5 % for women and 5.05 % for men, with repayment possible up to age 70 for pensionable employees.",
+  "documents_required": [
+    "Salary Certificate (including deduction details, grade, date of joining, date of retirement, nature of service)",
+    "No Dues certificate from existing/previous banker (if no SBI salary account or account held for less than 1 year)",
+    "Check‑off letter from the Drawing and Disbursing Officer"
+  ],
+  "application_link": null
+}

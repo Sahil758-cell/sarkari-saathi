@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Prime Minister's Employment Generation Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be an individual above 18 years of age.",
+    "Project must be a new enterprise; existing units with prior government subsidy are ineligible.",
+    "For projects costing > ₹10 lakh (manufacturing) or > ₹5 lakh (business/service), the applicant must have at least VIII standard education.",
+    "Beneficiary must not have previously availed any government subsidy under other schemes.",
+    "Priority is given to persons affected by natural disasters declared under the Disaster Management Act, 2005.",
+    "For up‑gradation loans, the unit must be profit‑making with good turnover, have completed a 3‑year lock‑in period, and the first loan must be fully repaid."
+  ],
+  "benefits_summary": "Provides margin‑money subsidy (15–35% for new units, up to 25% for up‑gradation) and earmarks funds for backward/forward linkages activities such as training, workshops, and infrastructure support.",
+  "documents_required": [],
+  "application_link": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp"
+}

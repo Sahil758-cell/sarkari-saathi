@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukh‍yamantri Janakal‍yaan (Sambal 2.0) Yojana (Asangathit Karmakaar Man‍da)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unorganized worker",
+    "Applicant must have a Samagra ID and Pariwar ID",
+    "Applicant or his spouse must not own more than 1 hectare of agricultural land",
+    "Applicant must not be in government service",
+    "Applicant must not be an income tax payer",
+    "Applicant must not have any other social security cover such as Provident Fund, Employees' State Insurance Scheme, or Gratuity"
+  ],
+  "benefits_summary": "Provides a funeral grant of ₹5,000 and death/disability benefits ranging from ₹1,00,000 to ₹4,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

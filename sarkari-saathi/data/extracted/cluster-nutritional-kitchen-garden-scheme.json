@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Cluster Nutritional Kitchen Garden Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be permanent residents of Arunachal Pradesh",
+    "The scheme is open to marginal farmers who own or lease small areas of agricultural land suitable for kitchen gardening",
+    "Individuals from the general public interested in establishing a kitchen garden are also eligible",
+    "Applicants must have sufficient space within their premises to set up a kitchen garden",
+    "Eligible individuals should demonstrate commitment and capability to maintain and sustain the kitchen garden"
+  ],
+  "benefits_summary": "The scheme enables households to grow vegetables and rear livestock, improving nutrition, self‑sufficiency and generating additional income.",
+  "documents_required": [
+    "Ration card",
+    "Electricity bill",
+    "Driving license",
+    "Land ownership document",
+    "Lease agreement",
+    "Application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Uchch Shiksha Puraskar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be from a family of weavers who are members of Primary Weaver Cooperative Societies affiliated to the State Handloom Union, Raipur",
+    "Student’s mother or father must be a regular member of a weaver cooperative society",
+    "Student must have secured admission in the first year of Engineering, Medical, CA, or MBA course in any government college",
+    "More than 50% of the parent’s income should be from weaving",
+    "Weaver family includes husband, wife, and their children"
+  ],
+  "benefits_summary": "A financial incentive of ₹20,000 is provided as an encouragement award for the first year of the course.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

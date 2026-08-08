@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Asangathit Karmakaar Mrtyu Evan Divyaang Sahaayata Yojana",
+  "occupation": [
+    "unorganized workers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered as a beneficiary under Section 10 (3) of the Act.",
+    "Eligibility is excluded if death is due to suicide, drug or substance abuse, or death caused by fighting with each other with intent to commit a crime.",
+    "Benefits are provided only on the death of the registered worker, not on death or accident of a family member.",
+    "Beneficiaries who have already received assistance under the Financial Assistance and Rehabilitation Assistance Scheme for unorganized workers suffering from silicosis are not eligible."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹1,00,000 on death of the unorganized worker and ₹50,000 on permanent disability.",
+  "documents_required": [],
+  "application_link": null
+}

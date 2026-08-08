@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Umbrella Assistance Scheme (UKBOCWWB)",
+  "occupation": [
+    "building",
+    "construction"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Uttarakhand",
+    "The applicant must be engaged in any building or construction work",
+    "The applicant must be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board",
+    "The applicant must have an active membership of the Board",
+    "Eligibility for benefits begins only after three months from registration",
+    "The benefit can be received only once in the applicant’s lifetime",
+    "The applicant must not have received the same benefit from any other scheme",
+    "The applicant must have worked as a construction worker for at least 90 days during the preceding one year"
+  ],
+  "benefits_summary": "A free umbrella is provided to eligible construction workers, with no financial assistance.",
+  "documents_required": [],
+  "application_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+}

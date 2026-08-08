@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Eklavya Prashikshan Yojana - Coaching To Scheduled Tribe Student Studying In Class Xth, XIth & XIIth",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to the Scheduled Tribe (ST) category.",
+    "Student must be a regular, full-time student studying in a government school, higher secondary school, or a school recognized by the Government of Goa or a Central/State Board of Higher Secondary Education.",
+    "Reimbursement is not provided for a second year if the student repeats a class due to failure."
+  ],
+  "benefits_summary": "Reimbursement of up to 75% of coaching fees (up to ₹10,000 per subject per year in rural areas and ₹12,000 in urban areas) paid directly to the institute via DBT.",
+  "documents_required": [
+    "Completed application form",
+    "Passport-sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Fee receipt certified by the competent authority of the coaching institute",
+    "Fee structure certified by the competent authority of the coaching institute",
+    "Attendance Certificate of the First Term (required for second instalment)"
+  ],
+  "application_link": "Step 1: Visit the Office of the Director/ Deputy Director, Department of Tribal Welfare, Govt. of Goa, and request a physical copy of the proforma of the application form for the scheme from the Concerned Authority. OR Take a print of the format of the Application Form. Step 2: In the application form, fill in all the mandatory fields, affix the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required). Step 3: Submit the duly filled and signed application form along with the documents to the Concerned Authority. Step 4: Acquire the receipt/acknowledgement of the successful submission of the application from the Department's Office."
+}

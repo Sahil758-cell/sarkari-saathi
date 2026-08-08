@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Annath Pension Yojana (JBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 17,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased must have been domiciled in the state of Jharkhand.",
+    "The deceased must have been a Registered Worker with the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board).",
+    "The deceased must have been receiving a pension from the board.",
+    "The applicant must be a child of the deceased and orphaned after the death of the pensioner."
+  ],
+  "benefits_summary": "Orphaned children under 18 receive the deceased worker’s family pension, equally divided among them.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular full‑time student pursuing an M.Phil or Ph.D.",
+    "Must have qualified UGC NET‑JRF or UGC‑CSIR NET‑JRF joint test",
+    "Must be enrolled in a university/institution recognized by UGC (including central/state universities, deemed universities, or institutions of national importance)",
+    "Can hold only one fellowship at a time and must not receive any other monetary benefit",
+    "Candidates with prior admission must join the fellowship within 3 months of the JRF award letter; otherwise selection is based on NET merit",
+    "For disability reservation, a minimum of 40 % disability is required"
+  ],
+  "benefits_summary": "Provides a monthly fellowship of Rs 31,000 (JRF) or Rs 35,000 (SRF) along with allowances for eligible SC candidates pursuing M.Phil/Ph.D.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistance Under The National Fund For Persons With Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Organization applying for Component 1 must be a government organization, a society registered under the Societies Act, a company registered under the Companies Act, or a trust registered under the Trust Act",
+    "The applying organization must have been registered for at least three years",
+    "The applying organization must have a minimum of two years’ experience in organizing exhibitions or workshops for marketing products/paintings",
+    "Applicant for Component 2 must be a person with disability having at least 40 % disability",
+    "Applicant must have won medals in sporting events or be graded as an outstanding/promising artist by the Ministry of Culture within the last three years",
+    "Applicant must not have participated in a similar event before",
+    "For national‑level events the family’s total annual income must not exceed Rs 3 lakh; for international events the limit is Rs 6 lakh",
+    "Applicant for Component 3 must be identified by the State/UT Assessment Board as having high support needs and the family income must not exceed Rs 3 lakh (or as specified by the Governing Body)"
+  ],
+  "benefits_summary": "Provides financial assistance for organizing exhibitions/workshops, supports participation of persons with disabilities in national/international events, and funds customized mobility equipment for individuals with high support needs.",
+  "documents_required": [],
+  "application_link": null
+}

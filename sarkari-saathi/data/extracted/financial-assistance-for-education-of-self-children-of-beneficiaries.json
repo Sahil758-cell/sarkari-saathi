@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance for Education of Self/ Children of Beneficiaries",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered member of the Building and Other Construction Workers Welfare Board of West Bengal or their children",
+    "Applicant must have worked in building and construction for at least 90 days in a given year",
+    "Benefit can be availed only twice by a single beneficiary",
+    "Applicant must be studying Higher Secondary or above",
+    "Registration fee of ₹20 and yearly subscription fee of ₹30 are required; renewal fee of ₹30 after one year"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹30,000 per beneficiary for higher secondary and above education, with amounts varying by education level.",
+  "documents_required": [
+    "Form-27",
+    "Form-27A"
+  ],
+  "application_link": null
+}

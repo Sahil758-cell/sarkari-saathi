@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Divyang Boys/ Girls Marriage Incentive Grant",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India",
+    "Permanent resident of Uttarakhand or domiciled there for at least five years",
+    "Either the applicant or the partner must be a Person with Disabilities (PWD) with at least 40% disability",
+    "Applicant must not be convicted in any criminal case, including charges of molestation",
+    "Applicant must not be an income‑taxpayer",
+    "Applicant must not have a pre‑existing spouse (no pre‑existing wife for boys, no pre‑existing husband for girls)",
+    "Marriage must be solemnized according to prevailing social customs or by a competent court"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹25,000 to each eligible couple",
+  "documents_required": [],
+  "application_link": null
+}

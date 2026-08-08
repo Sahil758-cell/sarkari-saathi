@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme of Giving Awards to Eminent Artists - Kalai Nanmani Award",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": 51,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Each selected artist receives financial assistance of ₹15,000, a certificate of appreciation, and a shawl worth ₹500.",
+  "documents_required": [
+    "passport-sized photograph",
+    "self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

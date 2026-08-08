@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Asangathit Karmakar Samachar-Patr Hawker Cycle Sahayata Yojana",
+  "occupation": [
+    "newspaper delivery worker",
+    "hawker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unorganized newspaper delivery worker (hawker) registered in any district of Chhattisgarh.",
+    "Workers receiving benefits from any parallel scheme are not eligible."
+  ],
+  "benefits_summary": "A free cycle will be provided to each eligible unorganized newspaper delivery worker.",
+  "documents_required": [],
+  "application_link": null
+}

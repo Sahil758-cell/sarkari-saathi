@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Old Age Pension To Handloom Weavers Under Coop. Fold",
+  "occupation": [
+    "weaver"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a member of a handloom cooperative society",
+    "Must have worked for at least 10 years under the cooperative society on the date of application",
+    "Should not have any source of income or pension from the State Government or Government of India",
+    "Should not be in a position to earn his/her livelihood",
+    "Should not have any relation who can maintain him/her",
+    "Residence condition may be relaxed by the State Government if it causes undue hardship"
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹1000.",
+  "documents_required": [],
+  "application_link": null
+}

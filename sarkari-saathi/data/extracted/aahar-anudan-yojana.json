@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Aahar Anudan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant or any member of the applicant's family should not be in government service.",
+    "Applicant or any member of the applicant's family should not be an income tax payee.",
+    "Eligibility category noted in source: Baiga",
+    "Eligibility category noted in source: Bharia",
+    "Eligibility category noted in source: Saharia"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per month.",
+  "documents_required": [
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

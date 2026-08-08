@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Death Benefit (GBOCWWB)",
+  "occupation": [
+    "Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased must have completed at least ninety days of service as a registered worker.",
+    "The deceased must have been registered with the Goa Building and Other Construction Workers Welfare Board.",
+    "The applicant must be the nominee or dependant of the deceased worker.",
+    "The death must be natural or caused by an accident during the course of employment.",
+    "For unregistered workers, the nominee/dependant is eligible upon production of a certificate from the builder or inspector confirming the deceased was a building worker."
+  ],
+  "benefits_summary": "Financial assistance of ₹30,000 for natural death or ₹1,00,000 for death due to an accident during employment.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents",
+    "Certificate from builder or inspector (for unregistered workers)"
+  ],
+  "application_link": null
+}

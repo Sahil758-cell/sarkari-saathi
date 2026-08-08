@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Financial Assistance in Case of Death",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a nominee, spouse, or dependent of the deceased registered worker",
+    "The registered construction worker must have no dues payable to the Board",
+    "Application must be submitted within one year of the death",
+    "If the registered beneficiary is covered under the Group Life Insurance scheme taken by the Board, the death benefit under this scheme does not apply"
+  ],
+  "benefits_summary": "One-time grant of ₹2,00,000 for natural death or ₹4,00,000 for accidental death during employment.",
+  "documents_required": [],
+  "application_link": null
+}

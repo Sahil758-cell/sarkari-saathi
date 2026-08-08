@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhya Mantri Mahila Nirman Shramik Sammaan Yojana (HBOCWWB)",
+  "occupation": [
+    "building",
+    "construction"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Haryana Building & Other Construction Workers Welfare Board",
+    "Must have a minimum of one‑year regular membership",
+    "Benefit is given on renewal of membership each year",
+    "To avail the benefit, the worker must add at least 90 days of work experience in the preceding year and pay the registration fee"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,100 per year for the purchase of saree, suits, slippers, raincoat, umbrella, sanitary napkins and kitchen utensils.",
+  "documents_required": [
+    "Aadhaar number",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Funeral Assistance (A.B.O.C.W.W.B)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a nominee or dependent of the deceased worker",
+    "The deceased worker must have been engaged in any building and other construction work",
+    "The deceased worker must have been registered with the Assam Building and Other Construction Workers Welfare Board",
+    "The deceased worker must have had an active membership with the Board"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 is provided to nominees/dependents of a deceased registered worker for funeral expenses.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

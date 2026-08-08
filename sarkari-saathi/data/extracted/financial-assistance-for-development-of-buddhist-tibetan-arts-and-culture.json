@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Financial Assistance For Development Of Buddhist/Tibetan Arts And Culture",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The organization must be registered as a Society under the Societies Registration Act (XXI of 1860) or a similar Act",
+    "It must be a voluntary institution/organization or society devoted primarily to Buddhist/Tibetan studies",
+    "It must have been functioning for at least three years",
+    "It should be of regional or all‑India character",
+    "It must not be receiving grants from any other source for similar purposes",
+    "Applications where a previous grant/utilisation certificate is pending will not be considered",
+    "Grants are ad‑hoc and non‑recurring; preference is given to organizations that can meet matching funds"
+  ],
+  "benefits_summary": "Financial assistance up to ₹30 lakh per year for activities such as maintenance, research projects, scholarships, infrastructure development and heritage restoration related to Buddhist/Tibetan arts and culture.",
+  "documents_required": [
+    "Bond",
+    "Resolution",
+    "Bank Authorization letter",
+    "Agency registration form",
+    "Unique ID of NITI Aayog (NGO Darpan)",
+    "PFMS user ID",
+    "Detailed break‑up of expenditure under Maintenance (annexure)"
+  ],
+  "application_link": "http://www.indiaculture.nic.in"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Saksham Jharkhand Kaushal Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to one of the priority groups: SC, ST, women, persons with disability (PwD), or transgender.",
+    "Aadhaar number is mandatory for candidate registration."
+  ],
+  "benefits_summary": "Provides skill training with hourly stipends and boarding/lodging allowances, and guarantees placement for 70% of trainees.",
+  "documents_required": [
+    "Aadhaar number"
+  ],
+  "application_link": null
+}

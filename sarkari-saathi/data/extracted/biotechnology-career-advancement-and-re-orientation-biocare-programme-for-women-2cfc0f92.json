@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Biotechnology Career Advancement And Re-orientation (BioCARe) Programme For Women Scientists",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must not be in regular or permanent employment",
+    "Temporary researchers may apply but must resign from their earlier assignment if a project is approved",
+    "Must not have previously received any extramural funding as Principal Investigator from any government funding agency",
+    "Must not be currently enrolled in a Ph.D. program receiving a fellowship",
+    "Must have completed the qualifying degree (Ph.D. or M.Tech/MPharma/MVSc/MD/MDS) before applying",
+    "Must not hold any other fellowship, grant, or award that provides salary or stipend concurrently with the BioCARe project",
+    "Must not have received funding under any women‑specific scheme of DST or any other agency",
+    "Must be an Indian female scientist",
+    "Must devote 100% of research time to the BioCARe project"
+  ],
+  "benefits_summary": "Provides a research grant of up to ₹60 lakhs (Category‑I) or ₹40 lakhs (Category‑II) with a monthly fellowship for a three‑year project duration.",
+  "documents_required": [],
+  "application_link": null
+}

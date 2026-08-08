@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Saving in Consumption of Energy and Water",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an existing or new enterprise.",
+    "Must conduct an energy/water audit through a recognized institution.",
+    "Must achieve at least 10% reduction in energy/water consumption after implementing audit recommendations.",
+    "Must install equipment as per the auditing authority's recommendations.",
+    "Enterprises with increased consumption due to production growth will be reviewed separately."
+  ],
+  "benefits_summary": "Reimbursement of up to ₹50,000 for 75% of audit costs and a subsidy of up to ₹20,00,000 for 25% of recommended equipment cost.",
+  "documents_required": [],
+  "application_link": null
+}

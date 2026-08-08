@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Kaushal Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant or his/her husband/wife/father must be a registered construction worker with updated contribution.",
+    "Dependent wife or unmarried daughter have no age limit.",
+    "Dependent son must be 21 years or younger.",
+    "Only registered workers are eligible for wage reimbursement; dependents are not."
+  ],
+  "benefits_summary": "Reimbursement of training fees, materials, and the minimum unskilled wage for the registered worker attending training.",
+  "documents_required": [],
+  "application_link": null
+}

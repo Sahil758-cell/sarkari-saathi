@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Laadli Laxmi Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a girl",
+    "Applicant must be born in Goa or have been a resident of Goa for the last fifteen years",
+    "If resident for fifteen years, applicant must have been educated in Goa for a continuous period of at least seven years",
+    "At least one parent must be born in Goa and resident in Goa for the last fifteen years, or one parent must have resided in Goa for the last twenty‑five years",
+    "Special provision for Tillari Irrigation Project affected persons: a Collector certificate can relax the domicile requirement",
+    "Unmarried beneficiaries are those who attain the age of majority (18) on or after 01‑04‑2012; married beneficiaries are those who were 18 before 01‑04‑2012 and are aged 19–45 as of 01‑04‑2016",
+    "Application must be submitted within one year of attaining age 18 or within one year of civil marriage registration"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,00,000, either as a bank fixed deposit for unmarried beneficiaries or as a cash payment for married beneficiaries, up to age 45.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Collector certificate (if applicable for Tillari Irrigation Project beneficiaries)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Motorisation Of Traditional Crafts",
+  "occupation": [
+    "traditional marine active fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess identity and residential proof including Aadhaar Card",
+    "Applicant must have a bank account in his/her name in the State of Odisha",
+    "Applicant must possess a traditional non‑motorized or motorized fishing boat registered in Odisha",
+    "Applicant must have a valid ownership certificate, registration certificate and fishing license for the craft",
+    "Applicant must not have availed any engine purchase subsidy under any Government scheme in the last five years",
+    "Applicant must not have acquired a boat through transfer of ownership that was motorized under any Government scheme in the last five years"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 40% for general category and up to 60% for SC/ST beneficiaries on the cost of a fishing boat engine, limited to one unit per beneficiary.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Ownership certificate",
+    "Registration certificate",
+    "Fishing license"
+  ],
+  "application_link": "https://sugam.odisha.gov.in/website/home"
+}

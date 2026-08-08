@@ -1,0 +1,26 @@
+{
+  "scheme_name": "State Technical Scholarship for ST Student",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be an employee of any government or semi‑government establishment.",
+    "Applicant must be pursuing a diploma, degree, or post‑graduated course in an engineering institute recognised by AICTE, or an undergraduate/postgraduate course in Forestry.",
+    "Applicants pursuing courses other than those specified are not eligible.",
+    "Applicants receiving more than one scholarship in the same academic year will be disqualified."
+  ],
+  "benefits_summary": "Financial assistance is provided for up to 3 years for diploma courses, 4 years for degree courses, and 2 years for postgraduate engineering courses.",
+  "documents_required": [],
+  "application_link": "https://scholarship.nagaland.gov.in"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pichda Varg Post Matric Chhatravritti",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the previous class"
+  ],
+  "benefits_summary": "Provides a monthly subsistence allowance and reimburses tuition and other mandatory fees for eligible students.",
+  "documents_required": [
+    "Photograph",
+    "Signature",
+    "Important documents"
+  ],
+  "application_link": null
+}

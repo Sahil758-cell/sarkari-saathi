@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Himachal Pradesh Patrakar Kalyan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a legal heir (spouse, dependent, or children) of a deceased accredited journalist",
+    "If the deceased journalist was unmarried or single, assistance is released to the dependent father or mother",
+    "Financial assistance is available to serving and retired accredited journalists in cases of medical emergencies, accidents, or other adverse situations",
+    "Family annual income of the serving/retired accredited journalist must be less than ₹1,80,000",
+    "Retired journalists must have served at least twenty years as accredited journalists with the Government of Himachal Pradesh",
+    "Retired journalists must not have taken any other gainful employment besides journalism",
+    "Retired accredited journalist must be 58 years old"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹3,00,000 for serving journalists and up to ₹50,000 for retired journalists in cases of death, medical emergencies, or other adverse situations.",
+  "documents_required": [
+    "death certificate",
+    "medical certificate or proof of illness/accident",
+    "self‑attested documents"
+  ],
+  "application_link": null
+}

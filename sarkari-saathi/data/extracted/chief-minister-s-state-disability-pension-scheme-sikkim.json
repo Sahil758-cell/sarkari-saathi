@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Chief Minister's State Disability Pension Scheme - Sikkim",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have disability of 40% or more",
+    "Applicant must not be covered under Indira Gandhi National Disability Pension Scheme (IGNDPS)",
+    "Applicant must have opened a bank account under Pradhan Mantri Jan Dhan Yojana"
+  ],
+  "benefits_summary": "The beneficiary receives a monthly pension of ₹1500.",
+  "documents_required": [],
+  "application_link": null
+}

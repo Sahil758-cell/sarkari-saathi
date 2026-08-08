@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mahila Samriddhi Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 300000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a woman looking to start her own business or engage in income‑generating activities."
+  ],
+  "benefits_summary": "Provides micro‑finance loans up to Rs 1,40,000 with an interest rebate and repayment over 3.5 years.",
+  "documents_required": [],
+  "application_link": null
+}

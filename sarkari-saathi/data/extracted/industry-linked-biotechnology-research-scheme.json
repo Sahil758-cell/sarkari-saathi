@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Industry Linked Biotechnology Research Scheme",
+  "occupation": [
+    "Scientist",
+    "Technologist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have active collaboration with an industry partner willing to share 25% of the Kerala Biotechnology Commission allocated funds",
+    "Endorsement from the Head of Institution is required for the application"
+  ],
+  "benefits_summary": "Grant of up to ₹40 lakh for three years, plus a 10% overhead allowance up to ₹2 lakh.",
+  "documents_required": [
+    "Project proposal",
+    "Endorsement from Head of Institution",
+    "Statement from industrial collaborator indicating financial support"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Registration & Stamp Duty Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a new or existing information technology unit with operations in Goa.",
+    "The applicant must be one of the following entity types: Proprietorship Firm, Private Limited Company (incorporated under the Companies Act, 2013 or equivalent), Public Limited Company (incorporated under the Companies Act, 2013 or equivalent), Registered Partnership Firm (incorporated under the Indian Partnership Act, 1932 or equivalent), or Limited Liability Partnership (incorporated under the Limited Liability Partnership Act, 2008 or equivalent).",
+    "Bank accounts of the unit and/or its partners/directors must be linked to Aadhaar.",
+    "Only transactions made during the operation of the Policy or up to three years prior to the notification of the Policy are eligible for the subsidy."
+  ],
+  "benefits_summary": "Full reimbursement of registration and stamp duty charges up to ₹100, payable after two years of commercial operation (subject to budgetary allocation).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Loan Assistance to Scheduled Castes Students for Commercial Pilot Training",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have passed Matriculation or Higher Secondary School Certificate or an equivalent examination.",
+    "The applicant must meet all academic and technical qualifications required by the training institute for Commercial Pilot License training.",
+    "A consent letter from the training institute for admission must be obtained.",
+    "Cost estimates for the training must be submitted to the authority.",
+    "Relatives living abroad cannot sponsor the candidate financially.",
+    "Training must commence within one month of loan disbursement.",
+    "The beneficiary must render services in India for a minimum period of five years after completing the training.",
+    "Two valid sureties must be furnished.",
+    "Loan repayment must be completed within 10 years (principal and interest in 2 years, total amount in 12 years) with monthly installments; loan recovery starts after one year from disbursement.",
+    "A penal interest of 2.5% per annum will be applied for default in repayment."
+  ],
+  "benefits_summary": "A loan of up to ₹25 lakh is provided at an interest rate of 4 %.",
+  "documents_required": [
+    "Consent letter from the training institute",
+    "Cost estimate for the training",
+    "Two valid sureties",
+    "Medical certificate",
+    "Fitness certificate"
+  ],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

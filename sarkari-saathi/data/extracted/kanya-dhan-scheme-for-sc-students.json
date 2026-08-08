@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Kanya Dhan Scheme for SC Students",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should be a student",
+    "The applicant should have passed the 10th standard examination",
+    "The applicant should have appeared in the 11th standard of any stream (Science/Arts/Commerce/Vocational/ITI)",
+    "Upto 2 girl children of a family are entitled under this scheme",
+    "The applicant should have passed the 12th standard examination in three attempts or within two years of the first attempt, whichever is earlier"
+  ],
+  "benefits_summary": "A fixed deposit of ₹25,000 is provided to the girl child after she passes the 12th standard examination.",
+  "documents_required": [],
+  "application_link": null
+}

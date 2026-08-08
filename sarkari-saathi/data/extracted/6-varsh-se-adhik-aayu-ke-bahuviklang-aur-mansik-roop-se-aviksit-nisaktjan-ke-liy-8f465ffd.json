@@ -1,0 +1,26 @@
+{
+  "scheme_name": "6 Varsh Se Adhik Aayu Ke Bahuviklang Aur Mansik Roop Se Aviksit Nisaktjan Ke Liye Sahayata Anudan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 7,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have a disability certificate of at least 40%.",
+    "Applicant's name must be listed on the Samagra portal and verified on the Sparsh portal.",
+    "Must possess an age certificate confirming they are above six years."
+  ],
+  "benefits_summary": "Eligible disabled persons receive a monthly cash assistance of ₹600.",
+  "documents_required": [
+    "Disability certificate (minimum 40% disability)",
+    "Age certificate (proving age above six years)"
+  ],
+  "application_link": null
+}

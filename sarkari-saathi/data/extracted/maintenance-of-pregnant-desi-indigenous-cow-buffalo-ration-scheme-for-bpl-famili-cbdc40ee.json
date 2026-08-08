@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Maintenance Of Pregnant Desi/Indigenous Cow/Buffalo Ration Scheme For BPL Families Belonging To Scheduled Caste (SC) Category",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Himachal Pradesh",
+    "Livestock owners belonging to BPL families of Scheduled Caste (SC) category",
+    "Must rear Desi/Indigenous or cross‑bred cows or buffaloes",
+    "Benefit is limited to a maximum of two animals per family",
+    "Applicant must provide proof of BPL status, land documents, and bank account details"
+  ],
+  "benefits_summary": "Provides a 50 % subsidy on 3 kg daily balanced ration for up to two pregnant cows or buffaloes during the last trimester, enhancing milk yield and farmer income.",
+  "documents_required": [
+    "Proof of BPL status",
+    "Land documents",
+    "Bank account details"
+  ],
+  "application_link": null
+}

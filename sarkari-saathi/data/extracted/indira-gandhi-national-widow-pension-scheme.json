@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 40,
+  "age_max": 79,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a widow",
+    "The applicant must belong to a household living below the poverty line as per government criteria"
+  ],
+  "benefits_summary": "A pension of Rs.300 per month for widows aged 40‑79, and Rs.500 per month for those aged 80 and above.",
+  "documents_required": [],
+  "application_link": "https://web.umang.gov.in/web_new/home"
+}

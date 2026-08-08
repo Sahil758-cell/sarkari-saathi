@@ -1,0 +1,29 @@
+{
+  "scheme_name": "R&D Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a local startup certified by the Startup Promotion Cell (SPC) with a valid startup certificate number",
+    "Local startup is defined as a startup where at least 50% equity is held by one or more Goans continuously since inception",
+    "Employees whose salaries are to be reimbursed must be hired for a minimum of 12 months",
+    "Employees must hold a PhD or equivalent qualification from a government‑recognised institute",
+    "Startup must be in the R&D stage, developing technology/products in the domains specified in the policy and must have a working prototype",
+    "Expenditures must be incurred after the notification of Goa Startup Policy 2017, be within the policy’s validity period, and be paid digitally (or approved by SPC if digital payment is not possible)",
+    "Preference is given to startups that have applied for or obtained a patent"
+  ],
+  "benefits_summary": "50% reimbursement of R&D expenses, including PhD salaries, up to ₹5,00,000 per annum for two years (salary cap ₹2,00,000).",
+  "documents_required": [
+    "Startup certificate number"
+  ],
+  "application_link": null
+}

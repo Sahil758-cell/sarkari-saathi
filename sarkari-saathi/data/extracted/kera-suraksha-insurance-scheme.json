@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Kera Suraksha Insurance Scheme",
+  "occupation": [
+    "Coconut Tree Climber",
+    "Neera Technician",
+    "Coconut Harvester",
+    "Trainee"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must submit the application in the prescribed format with all mandatory documents",
+    "Applicant must pay his/her share of the premium via demand draft or online mode",
+    "Applicant must keep the policy document safe and provide the policy number to the Board",
+    "Accident must be reported to the Board within 72 hours of occurrence",
+    "In case of accident, claimant must submit a claim form along with mandatory documents"
+  ],
+  "benefits_summary": "Provides a sum insured of up to ₹7 lakhs for death or total permanent disability and additional accident benefits such as partial disability compensation, hospital expense reimbursement, ambulance charges, weekly compensation, bystander and funeral expenses.",
+  "documents_required": [
+    "Application form duly filled",
+    "Countersignature by Agriculture officer/Panchayath President/CPF office bearers/CPC Directors",
+    "Age proof",
+    "Proof of premium share payment"
+  ],
+  "application_link": null
+}

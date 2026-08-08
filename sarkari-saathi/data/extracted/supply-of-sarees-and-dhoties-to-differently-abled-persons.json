@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Supply of Sarees and Dhoties to Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Resident of the Union Territory of Puducherry for at least 5 years",
+    "Disability of 40% or above",
+    "Registered name in the local anganwadi centre",
+    "Recipient of financial assistance from the Directorate of Social Welfare, Government of Puducherry"
+  ],
+  "benefits_summary": "Free dhotis and sarees or equivalent direct benefit transfer during Diwali, Pongal and local festivals.",
+  "documents_required": [
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

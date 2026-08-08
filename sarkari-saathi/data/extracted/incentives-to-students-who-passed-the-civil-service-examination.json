@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Incentives to Students who Passed the Civil Service Examination",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have cleared Civil Services Preliminary, Main and Interview stages conducted by MPPSC or UPSC",
+    "Incentives are granted only for the first success at each stage; a second-time success receives 50% of the incentive amount, and no benefits are provided after a third success"
+  ],
+  "benefits_summary": "Financial incentives up to ₹60,000 for successful ST candidates, with reduced amounts for second-time successes and no benefits after a third success",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

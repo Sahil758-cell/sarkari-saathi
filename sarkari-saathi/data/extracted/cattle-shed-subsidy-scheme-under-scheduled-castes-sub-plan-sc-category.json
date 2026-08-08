@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Cattle Shed Subsidy Scheme under Scheduled Castes Sub Plan (SC Category)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must possess land in their own name or rented land (any duration, up to ten years or more)",
+    "Beneficiary must keep at least two animals"
+  ],
+  "benefits_summary": "Financial assistance up to ₹30,000 or 50% of the cattle‑shed cost, whichever is lower, for construction of a shed for two animals",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

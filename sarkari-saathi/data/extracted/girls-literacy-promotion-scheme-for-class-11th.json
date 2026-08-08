@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Girls Literacy Promotion Scheme for Class 11th",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Denotified, Nomadic, or Semi‑Nomadic community.",
+    "Applicant must be enrolled in the 11th standard.",
+    "Applicant must be studying in a recognized institution.",
+    "Applicant must have studied continuously without any academic breaks."
+  ],
+  "benefits_summary": "An incentive of ₹3,000 is provided to eligible girls enrolling in Class 11 for the first time.",
+  "documents_required": [],
+  "application_link": null
+}

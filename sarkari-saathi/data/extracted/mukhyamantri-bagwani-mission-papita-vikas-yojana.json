@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Mukhyamantri Bagwani Mission: Papita Vikas Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum land holding of 0.25 acres (0.1 ha) and maximum of 10 acres (4 ha).",
+    "Must be registered on the DBT portal of the Agriculture Department.",
+    "Both ryot and non‑ryot farmers are eligible.",
+    "Selection is on a first‑come‑first‑serve basis.",
+    "Ryot farmers are selected based on land documents; non‑ryot farmers on a contract form."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹33,750 per hectare in the first year and ₹11,250 per hectare in the second year, along with supply of high‑quality tissue‑cultured papaya plants.",
+  "documents_required": [
+    "land documents",
+    "contract form"
+  ],
+  "application_link": null
+}

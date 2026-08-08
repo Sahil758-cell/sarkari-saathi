@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Dwarf Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant's height must be below 4 feet.",
+    "Applicant must not be receiving benefits of any other social security scheme."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,200 per month.",
+  "documents_required": [],
+  "application_link": null
+}

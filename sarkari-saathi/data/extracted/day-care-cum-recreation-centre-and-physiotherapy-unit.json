@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Day Care - cum - Recreation Centre and Physiotherapy Unit",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of the Union Territory of Puducherry for at least 5 years"
+  ],
+  "benefits_summary": "Free physiotherapy provided by a physiotherapist as advised by doctors.",
+  "documents_required": [],
+  "application_link": null
+}

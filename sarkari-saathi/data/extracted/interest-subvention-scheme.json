@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Interest Subvention Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprises must be profit‑making micro or small manufacturing enterprises or manufacturing‑allied activity enterprises.",
+    "Any legal entity type such as proprietary concerns, partnership firms, companies or other legal entities is eligible.",
+    "The scheme is not available for units that have already received interest subsidy under any other Karnataka or Indian government scheme.",
+    "Purchase of land from KIADB, KSSIDC or any other government agency is excluded.",
+    "Eligibility requires the enterprise to be undertaking new investment or expansion, diversification, modernization or technology up‑gradation involving plant and machinery.",
+    "Beneficiaries must be regular in repayment of loan installments to qualify for the interest subvention.",
+    "Loan sanction terms such as promoter’s contribution, Debt‑Equity Ratio, security requirements and project viability must comply with KSFC’s lending policy."
+  ],
+  "benefits_summary": "Provides a 5.5% per annum interest subvention on eligible loans for up to five years, reducing the effective interest cost for micro and small manufacturing enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

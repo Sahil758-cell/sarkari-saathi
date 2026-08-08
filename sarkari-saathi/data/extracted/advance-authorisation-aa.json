@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Advance Authorisation(AA)",
+  "occupation": [
+    "manufacturer exporter",
+    "merchant exporter"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Can be issued to a manufacturer exporter or merchant exporter tied to a supporting manufacturer.",
+    "For pharmaceutical products manufactured through Non‑Infringing (NI) process, only manufacturer exporters are eligible.",
+    "Export obligation requires a minimum value addition of 15%.",
+    "Export obligation must be fulfilled within 18 months from the date of issue of the Authorisation.",
+    "Authorisation applies to physical export (including SEZ), intermediate supply, and supply of goods to specific categories as per FTP paragraphs 7.02(b)‑(g).",
+    "Supply of stores on board of foreign‑going vessel/aircraft is allowed only if specific Standard Input Output Norms exist for the item supplied."
+  ],
+  "benefits_summary": "Input imports for export are exempted from customs duties, IGST and compensation cess, providing duty‑free access to required inputs.",
+  "documents_required": [
+    "PAN based IEC",
+    "Digital Signature Certificate (DSC)",
+    "Registration cum Membership Certificate (RCMC)"
+  ],
+  "application_link": "https://www.dgft.gov.in"
+}

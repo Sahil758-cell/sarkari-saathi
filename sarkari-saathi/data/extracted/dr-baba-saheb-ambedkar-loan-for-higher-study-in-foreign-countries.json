@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Dr. Baba Saheb Ambedkar Loan for Higher Study in Foreign Countries",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum 50% marks in graduation for postgraduate, Ph.D., higher level research and computer courses",
+    "Minimum 50% marks in class‑12 (or equivalent qualifications such as recognized ITI or three‑year diploma) for technical and professional courses abroad",
+    "Loan can be given to a maximum of two persons from the same family",
+    "Approval is processed only after visa and air ticket have been issued",
+    "The foreign institution must be recognized by its government and the degree accepted there",
+    "Repayment starts 6 months after course completion and must be completed within 10 years",
+    "Applicant must furnish a valid surety",
+    "Application must be made within six months of moving abroad",
+    "If the beneficiary settles abroad, any change of residence, contact details, or email must be reported until the loan is fully repaid"
+  ],
+  "benefits_summary": "A loan of up to ₹15 lakhs at 4% interest is provided to eligible students.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Surety document"
+  ],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

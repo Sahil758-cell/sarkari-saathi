@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Mumkin - Livelihood Generation Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu and Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed.",
+    "Applicant must not have received any financial assistance or subsidy from government organization for self employment.",
+    "Applicant can receive the scheme benefit only once.",
+    "Applicant must have a commercial driving license.",
+    "If renting a vehicle to someone else, an affidavit must be submitted with the commercial driving license."
+  ],
+  "benefits_summary": "Up to ₹80,000 subsidy (or 10% of on‑road price, whichever is lower) per beneficiary, plus a matching subsidy from the vehicle manufacturer.",
+  "documents_required": [
+    "Driver Photograph",
+    "Domicile Certificate/Ration Card",
+    "Birth Certificate",
+    "Applicant Driving License",
+    "Affidavit",
+    "Unemployment Certificate"
+  ],
+  "application_link": null
+}

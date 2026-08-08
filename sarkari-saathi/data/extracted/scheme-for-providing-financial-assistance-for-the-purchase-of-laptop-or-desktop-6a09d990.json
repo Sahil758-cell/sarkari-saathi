@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Providing Financial Assistance for the Purchase of Laptop or Desktop Computer to the Media Persons of the Union Territory of Puducherry",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a native of the Union Territory of Puducherry by birth or by continuous residence for at least ten years.",
+    "Applicant must have served for five years in any one of the following positions: full‑time Editor, Reporter, Sub‑Editor, Press Photographer, Correspondent of a newspaper/periodical registered with the Registrar of Newspapers of India; Reporter/Photographer of news agencies in Puducherry with headquarters outside the Union territory; Reporter/Videographer employed by electronic media such as satellite channels."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹15,000 for the purchase of a new laptop or desktop computer.",
+  "documents_required": [],
+  "application_link": null
+}

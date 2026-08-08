@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme of Free Supply of Textbooks, Stationery, Uniforms and Footwears to Poor Children",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": 14,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be studying in LKG to 12th Standard.",
+    "Applicant must be enrolled in a Government or Government‑aided Private School in Puducherry."
+  ],
+  "benefits_summary": "Provides free textbooks, stationery, uniforms and footwear to eligible students from LKG to 12th standard, with class‑specific items such as laptops, umbrellas, and other supplies.",
+  "documents_required": [],
+  "application_link": null
+}

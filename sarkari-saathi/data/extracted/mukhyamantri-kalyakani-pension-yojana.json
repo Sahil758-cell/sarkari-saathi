@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Kalyakani Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant is not an income taxpayer",
+    "The applicant is not a government employee or officer",
+    "The applicant's family is not receiving a Kalyani pension",
+    "The applicant's name is marked on the Samagra portal"
+  ],
+  "benefits_summary": "Monthly pension of Rs. 600 per month.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Bicycle Distribution Scheme for Girl Students of Economically Weaker Section",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": [
+    "EWS"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in a government school in Rajasthan",
+    "Must be in Class 6, 7, or 8",
+    "Must have secured at least 60% marks in the previous examination"
+  ],
+  "benefits_summary": "Free bicycles are provided to eligible girl students from the EWS category studying in classes 6‑8.",
+  "documents_required": [],
+  "application_link": null
+}

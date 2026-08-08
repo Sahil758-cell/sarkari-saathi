@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Financial Aid For Providing Hostel Facility To Transgender Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be transgender",
+    "Applicant must be a resident of Kerala",
+    "Transgender students pursuing courses in Government, Aided, Un‑aided or Self‑financing institutions are eligible",
+    "Applicants must submit a new application at the commencement of each academic year"
+  ],
+  "benefits_summary": "Financial assistance of ₹4,000 per month is provided as rent for hostel facilities to eligible transgender students.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Film Finance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen.",
+    "Must be a resident of Assam.",
+    "Film project must be in Assamese language or any other recognized regional language of Assam.",
+    "Filmmaker must have valid registration with the appropriate film bodies or associations.",
+    "Applicant must have a bank account in a recognized Indian bank.",
+    "Film project must have a well-developed script and compelling storyline.",
+    "Applicant must demonstrate feasibility and commercial viability of the project.",
+    "Project must have a clear budget and financial plan.",
+    "Filmmakers may be required to fulfill specific reporting and documentation requirements as per the scheme's guidelines."
+  ],
+  "benefits_summary": "Provides financial assistance at various stages of film production for feature films and documentaries, along with professional guidance and industry exposure.",
+  "documents_required": [
+    "Application form",
+    "Supporting documents"
+  ],
+  "application_link": "https://filmfinance.assam.gov.in/portlets/film-finance"
+}

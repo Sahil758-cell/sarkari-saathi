@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Construction of Fish Markets",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a local body such as a Municipality or a Village Panchayat in the State of Goa."
+  ],
+  "benefits_summary": "Up to 100% subsidy (capped at ₹5,00,000) for bodies with annual income up to ₹2,00,000; otherwise 75% subsidy (capped at ₹5,00,000).",
+  "documents_required": [
+    "passport-sized photograph",
+    "copies of mandatory documents"
+  ],
+  "application_link": null
+}

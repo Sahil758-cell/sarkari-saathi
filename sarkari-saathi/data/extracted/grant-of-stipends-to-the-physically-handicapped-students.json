@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Grant of Stipends to the Physically Handicapped Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 25000,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular student of a recognized school",
+    "Must not be a repeater in the current standard (one failure may be condoned at the Director's discretion)",
+    "Must not be residing in or receiving maintenance from any government institutions, local bodies, or grant‑receiving private organizations",
+    "Must not be receiving any other stipend or scholarship",
+    "Multiple physically handicapped children from the same family are eligible if other conditions are met"
+  ],
+  "benefits_summary": "Monthly stipend of ₹200 for standards 1‑8 and ₹300 for standards 9‑12, payable for 11 months in two installments.",
+  "documents_required": [],
+  "application_link": null
+}

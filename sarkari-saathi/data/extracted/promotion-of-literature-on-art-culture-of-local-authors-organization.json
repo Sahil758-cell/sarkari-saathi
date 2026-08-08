@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Promotion of Literature on Art & Culture of Local Authors/ Organization",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only literature concerned with the cultural traditions of the state of Goa shall be published.",
+    "Authors who have already availed the benefit shall not be considered for a second time."
+  ],
+  "benefits_summary": "The government bears the entire printing and publishing cost, provides 1,000 copies to institutions, and pays an honorarium to the author.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

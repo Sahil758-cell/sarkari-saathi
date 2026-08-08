@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Subsidy Scheme On Establishment Of - 25 Kadaknath/R.I.R. Birds Unit To Scheduled Tribes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an adult belonging to Scheduled Tribe community of Gujarat.",
+    "Must provide income proof and caste certificate with the application.",
+    "Must have undergone poultry‑keeping training.",
+    "Must keep the birds safe during night hours and provide immediate treatment if they get infected.",
+    "Must maintain the unit for two years and present income and expenditure statements during officer visits."
+  ],
+  "benefits_summary": "Provides a 25 R.I.R. bird unit and poultry feed subsidy covering up to 75% of the unit cost (maximum ₹4500).",
+  "documents_required": [
+    "Income proof",
+    "Caste certificate"
+  ],
+  "application_link": null
+}

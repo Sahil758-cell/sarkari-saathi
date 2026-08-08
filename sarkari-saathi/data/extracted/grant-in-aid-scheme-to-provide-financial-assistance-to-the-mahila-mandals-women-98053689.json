@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Grant-in-Aid Scheme To Provide Financial Assistance To The Mahila Mandals/ Women’s Self-help Groups (SWAWLAMBHAN)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have valid registration with the Department of Women & Child Development, Panaji‑Goa",
+    "Must be operating successfully within the State of Goa",
+    "Must have a minimum of 20 members in the Mahila Mandal/ Women’s Self‑Help Group"
+  ],
+  "benefits_summary": "Provides an annual grant of ₹20,000 per group, plus ₹5,000 for training/orientation and a ₹5,000 honorarium for master trainers per course.",
+  "documents_required": [
+    "Prescribed application format",
+    "Copies of required documents"
+  ],
+  "application_link": null
+}

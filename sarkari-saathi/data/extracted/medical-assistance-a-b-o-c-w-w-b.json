@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Medical Assistance (A.B.O.C.W.W.B)",
+  "occupation": [
+    "building & other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Assam",
+    "Applicant must be engaged in any building & other construction work",
+    "Applicant must be registered with the Assam Building and Other Construction Workers Welfare Board",
+    "Applicant must have an active membership with the Board",
+    "Beneficiary must be hospitalized, or have partial disability due to an accident, or suffer from critical diseases such as cancer, heart attack, kidney failure, liver cirrhosis, etc."
+  ],
+  "benefits_summary": "Provides up to ₹20,000 for hospitalization and up to ₹1.5 Lakh for partial disability or critical diseases, as decided by the Board.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

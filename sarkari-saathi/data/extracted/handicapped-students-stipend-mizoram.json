@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Handicapped Students Stipend Mizoram",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Student enrolled in government or private school"
+  ],
+  "benefits_summary": "Monthly stipend ranging from ₹30 to ₹85 depending on class level, up to ₹1020 per annum.",
+  "documents_required": [],
+  "application_link": null
+}

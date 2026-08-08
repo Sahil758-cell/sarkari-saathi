@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Assistance to General Farmers for Sinking Tubewell",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must obtain a permit to sink a new or replacement tubewell/filter point from the Pondicherry Ground Water Authority.",
+    "Tubewell/filter point must be constructed using a departmental power rig/hand bore set or, if using private machinery, the applicant must have a No Objection Certificate (NOC) from the Agriculture Department for machinery registered with the Pondicherry Ground Water Authority under departmental supervision.",
+    "Applicant must hold a minimum of 1.5 acres of land within the command area of the tubewell/filter point.",
+    "Applicant must have owned the land for at least two years and possess a clear ownership title deed in his/her name.",
+    "The 1.5‑acre landholding must belong to the applicant farmer, the spouse, or a member of the joint/undivided family.",
+    "Farmers who have received the same subsidy within the past five years are ineligible.",
+    "Casing pipes must have a BIS certificate and be purchased from an authorized dealer (M/s PASIC Ltd).",
+    "Applicant must not convert the land for any non‑agricultural purpose for a minimum of ten years from the date of construction and must execute a bond to this effect."
+  ],
+  "benefits_summary": "65% subsidy on tubewell/filter point construction up to ₹1,50,000 per tubewell/filter point.",
+  "documents_required": [
+    "Permit from Pondicherry Ground Water Authority",
+    "No Objection Certificate (NOC) from the Agriculture Department (if using private machinery)",
+    "Clear ownership title deed",
+    "Passport‑sized photograph"
+  ],
+  "application_link": null
+}

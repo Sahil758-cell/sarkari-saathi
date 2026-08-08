@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Leave Travelling Concession Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/ Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Building/ Construction Worker (Unorganised Worker).",
+    "Must have worked in building and construction for at least 90 days in a given year.",
+    "Must not be a member of any other Welfare Fund established under any law.",
+    "Must not be a member of EPF, NPS, or ESIC.",
+    "Must not be an income tax payer.",
+    "Must be a registered member of the Building and Other Construction Workers Welfare Board of Punjab.",
+    "Eligible for leave travel concession for journeys to religious/historical places or hometown within the last two years."
+  ],
+  "benefits_summary": "Provides a leave travelling concession of ₹2000 per journey, payable after return upon submission of self‑declaration or proof.",
+  "documents_required": [],
+  "application_link": null
+}

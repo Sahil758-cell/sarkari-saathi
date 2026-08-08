@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Madad Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Beneficiary must be a native of Madhya Pradesh",
+    "Beneficiary must reside in one of the 20 identified tribal districts of Madhya Pradesh (Mandla, Dindori, Balaghat, Shahdol, Anuppur, Umaria, Jhabua, Alirajpur, Barwani, Ratlam, Hoshangabad, Betul, Sidhi, Seoni, Chhindwara, Dhar, Khargone, Khandwa, Burhanpur, Sheopur)",
+    "No family member should be employed in government service (Class 1/2/3) or hold a high‑ranking post",
+    "Benefits are provided for the birth of the first or second child of the couple"
+  ],
+  "benefits_summary": "Provides 50 kg of wheat or rice and cooking utensils to ST families on the birth of a child, and 100 kg of wheat or rice on the death of a family member, free of cost.",
+  "documents_required": [],
+  "application_link": "http://spr.samagra.gov.in/"
+}

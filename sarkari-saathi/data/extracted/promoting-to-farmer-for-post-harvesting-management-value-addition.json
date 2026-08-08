@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Promoting to Farmer for Post Harvesting & Management (Value Addition)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmers",
+    "Interest Group Farmers",
+    "Producer Group",
+    "Farmer Producer Companies",
+    "Self‑Help Groups (SHGs) and Sakhi Mandals of women farmers",
+    "Co‑operative society at village level",
+    "Individuals with relevant agricultural education (Diploma in Agriculture, Graduate in Agriculture, Postgraduate in Agriculture, Bachelor of Rural Studies (B.R.S.))",
+    "Application accepted on a first‑come‑first‑serve basis within target limits"
+  ],
+  "benefits_summary": "Up to 50% of project cost or ₹10,00,000 (whichever is less) is provided for a Project Based Processing Unit for a maximum of 10 years.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance For The Marriage Of Daughters Of Poor Widows And Orphan Girls",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum 5 years residence in Delhi before application",
+    "Applicant must have an Aadhaar number",
+    "Applicant must have a single‑operated Aadhaar‑linked bank account in the NCT of Delhi",
+    "Applicant must not be receiving any assistance from the discretionary fund of the Lt. Governor or Chief Minister of Delhi for the same purpose",
+    "The girl whose marriage is to be solemnized must be at least 18 years old at the time of marriage",
+    "Application must be submitted within 60 days before or after the marriage date",
+    "Financial assistance is limited to up to two daughters only"
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹30,000 per daughter, for up to two daughters.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": "https://edistrict.delhigovt.nic.in/"
+}

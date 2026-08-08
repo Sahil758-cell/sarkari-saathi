@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Chief Ministers House Rent",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be regularly admitted to colleges or equivalent institutions.",
+    "Must not be residing in any government hostel.",
+    "Must be admitted before the last date and submit Appendix-B.",
+    "Must be within the income limit of the Post Metric Scholarship Scheme.",
+    "Must be responsible for any excess rent beyond the prescribed allowance.",
+    "Ineligible for the scheme if the student fails in any year.",
+    "Must be aware of the third-party evaluation and annual review of the scheme."
+  ],
+  "benefits_summary": "Provides a house rent allowance of ₹2,000 per month in Bhopal, Indore, Jabalpur, Gwalior and Ujjain; ₹1,250 at district headquarters; and ₹1,000 in tehsil/development block headquarters and other cities.",
+  "documents_required": [
+    "Appendix-B"
+  ],
+  "application_link": null
+}

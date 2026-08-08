@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme- Bihar",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 79,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of 80% or more",
+    "Not receiving pension benefits under any other social security scheme"
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a monthly pension of ₹400 via Direct Benefit Transfer.",
+  "documents_required": [],
+  "application_link": null
+}

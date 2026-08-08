@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme of Assistance for Common Environment Infrastructure: Scheme for Development of Green Estate",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility is limited to any institution or group of industries with polluting industrial units that are recommended for relocation or retrofitting by the Gujarat Pollution Control Board (GPCB).",
+    "A professional agency appointed by the Industries Commissioner, based on GPCB’s recommendation, must assess relocation needs and evaluate pollution load, effluent quality, and overall environmental benefits.",
+    "The study report must be approved by the State Level Empowered Committee (SLEC) before project execution.",
+    "Infrastructure expenditures for internal roads, power distribution, communication, water supply, sewage, effluent treatment, and other approved facilities are eligible for financial support."
+  ],
+  "benefits_summary": "Provides up to 75% assistance (max ₹80  lakh) for site master‑plan preparation and up to 25% of capital cost (max ₹2.5 billion) for setup/relocation/retrofitting of polluting units into Green Industrial Estates.",
+  "documents_required": [],
+  "application_link": null
+}

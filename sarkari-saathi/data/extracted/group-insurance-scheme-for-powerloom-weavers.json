@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Group Insurance Scheme for Powerloom Weavers",
+  "occupation": [
+    "Powerloom workers",
+    "weavers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": false,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility is limited to families of powerloom workers engaged in weaving on powerlooms and allied pre‑weaving activities such as twisting, winding, warping and sizing.",
+    "Self‑employed weaver families owning not more than 4 looms are eligible.",
+    "The beneficiary and his/her spouse constitute the family unit, and only one of them may be covered under the scheme.",
+    "Coverage is valid for one year per premium payment and can be renewed annually up to the age of 59."
+  ],
+  "benefits_summary": "Provides a sum assured of ₹60,000 for natural death, ₹1,50,000 for death or total disability due to accident, ₹75,000 for partial disability, and an educational grant of ₹600 per child per half‑year for up to four years.",
+  "documents_required": [
+    "application‑cum‑nomination form",
+    "death certificate",
+    "police complaint (FIR)",
+    "post‑mortem examination report",
+    "medical certificate",
+    "discharge certificate",
+    "claim form"
+  ],
+  "application_link": null
+}

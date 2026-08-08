@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Sewing Machine Scheme (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Haryana Building & Other Construction Workers Welfare Board.",
+    "Must have at least one year of regular membership with the Board.",
+    "Must have an active membership of the Board.",
+    "Benefit can be availed only once in a lifetime.",
+    "To avail the benefit, the worker must add a minimum of 90 days of work experience in the preceding year."
+  ],
+  "benefits_summary": "Financial assistance of ₹4,500 for purchasing a sewing machine for eligible women construction workers.",
+  "documents_required": [
+    "Aadhaar number",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": null
+}

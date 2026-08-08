@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Pipes Carrying Water From Source To Field-Pulses ISPOM",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides a subsidy of either 50% of the pipe cost or up to ₹15,000 for water‑carrying pipes up to 800 m.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "HSCST Fellowship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 28,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must hold an M.Sc. or equivalent degree with at least 55% marks",
+    "Must have qualified JRF‑NET (CSIR/UGC) & LS‑NET in the Joint CSIR‑UGC Test for Junior Research Fellowship and be eligible for lectureship (NET)",
+    "Must be a permanent resident of Haryana",
+    "Must be interested in full‑time research leading to a Ph.D. in the relevant science disciplines",
+    "Applicants receiving a fellowship or financial assistance from any other source are not eligible",
+    "Upper age limit is 28 years, with a relaxation of up to 5 years for candidates belonging to SC, ST, Women, Physically Handicapped, and OBC categories"
+  ],
+  "benefits_summary": "Provides a stipend of up to ₹31,000 per month for JRF (or ₹18,000 for LS‑NET) plus an annual contingency grant of ₹20,000, with a tenure of up to five years.",
+  "documents_required": [],
+  "application_link": null
+}

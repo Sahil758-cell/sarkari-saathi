@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pension Scheme for Transgender",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be transgender",
+    "Applicant must have no source of income"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per month to eligible transgender residents of Tripura.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

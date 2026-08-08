@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Kabir Anthyesthi Anudan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Bihar",
+    "Applicant must be a family member or dependent of the deceased person",
+    "Deceased must belong to a Below Poverty Line (BPL) family",
+    "No age restriction"
+  ],
+  "benefits_summary": "A one-time grant of ₹3,000 is provided to the family or dependents of the deceased for funeral expenses.",
+  "documents_required": [],
+  "application_link": null
+}

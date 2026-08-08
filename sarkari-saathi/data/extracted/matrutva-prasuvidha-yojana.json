@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Matrutva Prasuvidha Yojana",
+  "occupation": [
+    "masons",
+    "carpenters",
+    "electricians",
+    "porters",
+    "painters"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be pregnant",
+    "Applicant must be registered with the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)",
+    "Scheme is applicable only for the first two deliveries"
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000 for the first two deliveries to registered female construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

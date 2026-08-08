@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Drip Sanyantr",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a farmer.",
+    "Must be a native of Rajasthan.",
+    "Must have at least 0.2 hectares of irrigated cultivable land."
+  ],
+  "benefits_summary": "Provides a subsidy of 70% for general farmers and 75% for small, marginal SC, ST, and women farmers on drip irrigation systems, up to a maximum of 5 hectares.",
+  "documents_required": [
+    "Bhamashah ID or Janaadhaar ID",
+    "Aadhaar authentication",
+    "Bank details",
+    "Disability details",
+    "Verification details",
+    "Uploaded documents"
+  ],
+  "application_link": null
+}

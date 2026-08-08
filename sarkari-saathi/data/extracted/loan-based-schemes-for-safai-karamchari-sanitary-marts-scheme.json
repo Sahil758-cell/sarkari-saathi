@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Loan Based Schemes For Safai Karamchari - Sanitary Marts Scheme",
+  "occupation": [
+    "Safai Karamchari",
+    "Wastepicker",
+    "Manual Scavenger"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Safai Karamchari (including Wastepickers), identified Manual Scavenger or their dependent",
+    "Can be a registered co‑operative society or a legally constituted association/firm of the target group",
+    "Must provide a certificate from a local Revenue Officer, Municipal Officer, Cantonment Executive Officer, Railway Officer, Head of a Government Department (rank not less than Gazetted Officer), elected Municipal Body member, Pradhan of Gram Panchayat, or Regional Manager of an RRB/PSB",
+    "If identified as a Manual Scavenger in the survey, no certificate is required once the name appears in the final list prepared by the State/UT government"
+  ],
+  "benefits_summary": "Loans up to 90% of project cost (maximum Rs.15 lakh) with interest up to 4% per annum (rebates for women and timely repayment) and a 10% promoter contribution, repayable over up to 10 years.",
+  "documents_required": [
+    "Certificate from the relevant local authority (Revenue Officer, Municipal Officer, Cantonment Executive Officer, Railway Officer, Head of Government Department, elected Municipal Body member, Pradhan of Gram Panchayat, or Regional Manager of RRB/PSB)"
+  ],
+  "application_link": null
+}

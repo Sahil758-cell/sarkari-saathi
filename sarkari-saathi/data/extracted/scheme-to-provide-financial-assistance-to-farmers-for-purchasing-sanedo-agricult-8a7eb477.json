@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme to Provide Financial Assistance to Farmers for Purchasing Sanedo Agricultural Equipment",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a landholding farmer."
+  ],
+  "benefits_summary": "Provides assistance of 25 % or ₹25,000 (whichever is lower) towards the purchase of Sanedo agricultural equipment, eligible once every ten years.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

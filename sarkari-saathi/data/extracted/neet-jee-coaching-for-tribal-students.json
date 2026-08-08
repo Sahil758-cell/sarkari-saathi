@@ -1,0 +1,24 @@
+{
+  "scheme_name": "NEET/JEE Coaching For Tribal Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have successfully completed 12th grade in the science stream with first‑class standing.",
+    "Must have a valid NEET/JEE score."
+  ],
+  "benefits_summary": "Reimbursement of institute fees up to Rs. 55,000, a monthly food and accommodation allowance of Rs. 1,000, and one‑time stationery expense coverage of Rs. 5,000.",
+  "documents_required": [],
+  "application_link": "tad.rajasthan.gov.in"
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme (Punjab)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow"
+  ],
+  "benefits_summary": "Pension of ₹300 per month for widows aged 40‑79, increasing to ₹500 per month after age 80.",
+  "documents_required": [],
+  "application_link": null
+}

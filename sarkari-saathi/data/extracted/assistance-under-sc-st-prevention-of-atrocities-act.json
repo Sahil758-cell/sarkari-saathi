@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Assistance under SC/ST Prevention of Atrocities Act",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have been affected by an atrocity"
+  ],
+  "benefits_summary": "Provides immediate relief, compensation for loss, and rehabilitation to victims of atrocities.",
+  "documents_required": [],
+  "application_link": null
+}

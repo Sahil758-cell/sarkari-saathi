@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Inland Fishing",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be engaged in inland fishing.",
+    "The beneficiary must be interested in availing the loan for inland fishing activities.",
+    "The loan must be used specifically for inland fishing activities."
+  ],
+  "benefits_summary": "Loan up to ₹3,30,000 per hectare at an interest rate of 11%–12%.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

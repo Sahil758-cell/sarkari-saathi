@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Patent Filing Reimbursement Scheme",
+  "occupation": [
+    "Proprietorship Firm",
+    "Private Limited Company",
+    "Public Limited Company",
+    "Registered Partnership Firm",
+    "Limited Liability Partnership"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bank accounts of the unit and/or its partners/directors must be linked to Aadhaar.",
+    "Units can apply on a quarterly, bi‑annual or annual basis after incurring the relevant expenditure."
+  ],
+  "benefits_summary": "Reimbursement up to ₹2.5  lakh per domestic patent and up to ₹5  lakh per international patent, with a total cap of ₹25  lakh per unit.",
+  "documents_required": [],
+  "application_link": null
+}

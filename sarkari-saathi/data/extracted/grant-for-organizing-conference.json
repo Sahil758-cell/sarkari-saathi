@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Grant For Organizing Conference",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institute must be AICTE‑approved and have existed for at least 8 years",
+    "Coordinator must be a full‑time regular Associate Professor or Professor (or senior faculty) with a minimum of 10 years of teaching/research experience and publications",
+    "Coordinator must have organized at least three conferences for an international conference or at least one conference for a national conference",
+    "Co‑coordinator must be a faculty member with at least 7 years of teaching/research experience and must have organized at least one conference for an international conference",
+    "The department organizing the conference should preferably be NBA accredited",
+    "Onsite conferences require at least 15% participation from other states; online conferences require at least 25% participation from other states",
+    "Papers from the host institution must not exceed 10% of the total papers submitted",
+    "Institute can receive the grant only once in two years",
+    "Institute must post the AICTE scheme link on its website and on the conference webpage",
+    "10% of the sanctioned funds must be utilized for registration fees of SC/ST participants",
+    "Coordinator must maintain an electronic record of papers, participants and their institutions and host a dedicated conference webpage on the institute’s site"
+  ],
+  "benefits_summary": "Up to ₹3,00,000 for national onsite conferences, up to ₹4,00,000 for international onsite conferences, and up to ₹50,000 for online conferences (national or international), each covering one‑third of eligible expenses.",
+  "documents_required": [
+    "Verified Bank Mandate Form (PDF)",
+    "Declaration Certificate (PDF)"
+  ],
+  "application_link": "http://www.aicte-india.org"
+}

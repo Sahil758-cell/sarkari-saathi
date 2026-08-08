@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Shramik Siyaan Sahayata Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 59,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Board as a construction worker for at least the last 3 years"
+  ],
+  "benefits_summary": "A lump sum assistance of ₹20,000 is provided to eligible beneficiaries.",
+  "documents_required": [],
+  "application_link": null
+}

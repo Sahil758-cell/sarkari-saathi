@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Miscarriage Benefit",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be a resident of West Bengal",
+    "must have engaged in building and construction work for at least 90 days in a year",
+    "must be registered with the Board for at least one year",
+    "must be a registered female member or wife of a male member",
+    "must have undergone a miscarriage",
+    "benefit can be claimed maximum two times in lifetime"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹6,000 per miscarriage, payable up to two times in a beneficiary's lifetime.",
+  "documents_required": [
+    "Form-27",
+    "Form-XII",
+    "self-attested mandatory documents"
+  ],
+  "application_link": null
+}

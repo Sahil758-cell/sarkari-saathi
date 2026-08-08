@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Consortia & Tender Marketing Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unit must be registered with NSIC under the Single Point Registration Scheme (SPRS) or must apply for registration under SPRS.",
+    "The unit’s factory must be inspected before filing a tender under the Tender Marketing Scheme.",
+    "Units engaged solely in trading activities without value addition, packing or branding are not eligible.",
+    "Eligibility category noted in source: Micro & Small Enterprises"
+  ],
+  "benefits_summary": "Enlists the unit for participation in government and private tenders, with a reduced service charge of 0.5% for consortium members.",
+  "documents_required": [
+    "Application form (Annexures – A and A-1)"
+  ],
+  "application_link": null
+}

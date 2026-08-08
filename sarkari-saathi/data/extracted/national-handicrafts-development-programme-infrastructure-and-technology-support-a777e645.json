@@ -1,0 +1,25 @@
+{
+  "scheme_name": "National Handicrafts Development Programme: Infrastructure And Technology Support: EMPORIA",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible entities include Central/State Handloom and Handicrafts Development Corporations",
+    "Other eligible government corporations/agencies promoted by state or local governments",
+    "Eligible NGOs, registered Self Help Groups (SHGs), local statutory bodies, exporter bodies/associations",
+    "Apex Cooperative Societies and national level Apex Societies registered under the Society or Trust Act",
+    "Organizations such as IICT, MHSC, HMCM, NIFT, and Export Promotion Councils",
+    "Producer companies registered under Section 8 of the Companies Act working for promotion and development of handicrafts and handlooms",
+    "Implementation can also be carried out by the department"
+  ],
+  "benefits_summary": "Provides up to ₹60 lakh for new emporia and ₹15 lakh for strengthening/renovation, with 80‑90% of costs funded by the Handicrafts Department and the remainder by the implementing agency.",
+  "documents_required": [],
+  "application_link": null
+}

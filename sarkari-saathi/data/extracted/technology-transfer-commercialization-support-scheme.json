@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Technology Transfer & Commercialization Support Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered company in Kerala as an LLP or Private Limited company.",
+    "Must have active registration with Kerala Startup Mission (KSUM) at the time of application.",
+    "Must have DIPP registration and an “Active” or “Active Compliant” status with the MCA.",
+    "Must have no pending dues with any government agencies, KSUM, or other incubators in the state, and must not be blacklisted by any government agency in India.",
+    "Women co‑founder must hold a majority stake in the startup.",
+    "Technology or license must be sourced from any government research institution in India, with a fee payable to the institution.",
+    "The startup must commercialize the product within two years of acquiring the license/technology.",
+    "If commercialization is not achieved within two years, the startup must repay the contribution received from KSUM.",
+    "The startup must sign an agreement with Kerala Startup Mission before availing the benefit."
+  ],
+  "benefits_summary": "Funding support up to ₹10 Lakhs, reimbursing up to 90 % of the technology fee paid to the research institution.",
+  "documents_required": [],
+  "application_link": null
+}

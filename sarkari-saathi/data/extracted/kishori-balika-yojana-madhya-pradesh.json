@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Kishori Balika Yojana (Madhya Pradesh)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 11,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Adolescent girls receive vocational, health and hygiene training through master‑trainer programs conducted at the Gram Panchayat level.",
+  "documents_required": [],
+  "application_link": null
+}

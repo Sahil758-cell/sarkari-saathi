@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Back Ended Investment Subsidy to Paddy Growers",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess land holdings.",
+    "Applicant must be a resident/native of Puducherry and residing in the Yanam region."
+  ],
+  "benefits_summary": "Back-ended investment subsidy of ₹4,000 per hectare for paddy growers.",
+  "documents_required": [],
+  "application_link": null
+}

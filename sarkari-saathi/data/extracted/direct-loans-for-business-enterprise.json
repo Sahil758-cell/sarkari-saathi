@@ -1,0 +1,49 @@
+{
+  "scheme_name": "Direct Loans For Business Enterprise",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to one of the State Religious Minority Communities (Muslim, Christian, Sikh, Buddhist, Jain).",
+    "Loan can be granted only to one member of a family.",
+    "The loan must be secured by mortgaging a property (building or land) whose value is not less than the loan amount."
+  ],
+  "benefits_summary": "Provides loans up to Rs 20 lakhs to minority entrepreneurs in Karnataka, with interest rates of 4% for family income below Rs 8 lakhs and 6% for income between Rs 8 lakhs and Rs 15 lakhs.",
+  "documents_required": [
+    "Copy of Aadhaar as residential proof",
+    "Caste Certificate issued by the competent authority",
+    "Income Certificate issued by the competent authority",
+    "Lease deed/Partition deed/Release deed/Gift deed/Rental agreement/Sale deed of the property",
+    "Project report/Profile of activities from CA (Chartered Accountant)",
+    "Quotations related to the project",
+    "License from respective authorities with respect to property proposed to be mortgaged",
+    "Building's Khata extract and Khata certificate or land's Mutation copy",
+    "Phodi/Partition deed with respect to revenue lands and phani-RTC",
+    "Encumbrance Certificate (EC)/Form No.15",
+    "Up-to-date tax-paid receipts from the local bodies",
+    "Guidance value of the land from the competent authority",
+    "No objection from the family members to pledge the title deed, with the family tree",
+    "Valuation report by a registered valuer – Valuation Certificate (if building)",
+    "Self-Declaration Form",
+    "Committee Approval Order",
+    "Affidavit from Applicant",
+    "Joint Affidavit from the Beneficiary & the Guarantor",
+    "Demand Promissory Note (DPN)",
+    "Hypothecation & Mortgage Deed",
+    "Letter of Repayment",
+    "Letter of Guarantee",
+    "Loan Agreement",
+    "Consideration of Receipt",
+    "Acknowledgment of debt from the Borrower"
+  ],
+  "application_link": null
+}

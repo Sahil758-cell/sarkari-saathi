@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scholarship For Cadets Of Rashtriya Indian Military College (RIMC), Dehradun",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Mizo student permanently residing in Mizoram.",
+    "Must be studying at Rashtriya Indian Military College (RIMC), Dehradun.",
+    "Must not be covered under any other scholarship scheme.",
+    "Scholarship is available for any class for only one year and renewable as per rules/conditions.",
+    "If the cadet is found medically unfit for entry into the NDA, the scholarship will be discontinued from the date of such declaration."
+  ],
+  "benefits_summary": "Provides financial assistance, free accommodation, food, and medical care to eligible Mizo cadets at RIMC.",
+  "documents_required": [],
+  "application_link": null
+}

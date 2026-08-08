@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Incentives To Mothers Who Deliver A Girl Child (Mamta)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Mother must have delivered a live Girl Child in a registered medical institution (maximum of 2 deliveries)",
+    "Applicant must be a resident of Goa for at least three years, or be married to a resident of Goa",
+    "Application must be submitted within 45 days of the delivery"
+  ],
+  "benefits_summary": "One-time cash incentive of ₹10,000 (or the remaining ₹5,000 for beneficiaries who have already received the first ₹5,000 installment)",
+  "documents_required": [],
+  "application_link": null
+}

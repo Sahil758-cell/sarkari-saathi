@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Sanctioning of Tricycles of Orthopedically Challenged",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be orthopedically challenged.",
+    "Applicant must not have received the scheme benefit in the last three years."
+  ],
+  "benefits_summary": "Distribution of tricycles, with subsidy level based on parent/guardian income.",
+  "documents_required": [
+    "Aadhaar card",
+    "Aadhaar number",
+    "Mobile number",
+    "Email ID"
+  ],
+  "application_link": null
+}

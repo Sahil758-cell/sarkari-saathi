@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Haritha Haram",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "NGOs must be registered and actively involved in environmental conservation activities",
+    "Educational institutions must have the necessary infrastructure and resources to undertake tree‑plantation activities",
+    "Corporates must have a valid CSR policy and be actively involved in environmental conservation activities"
+  ],
+  "benefits_summary": "The programme increases green cover in Telangana, improving air quality, conserving soil and water, mitigating climate change, and generating economic and health benefits.",
+  "documents_required": [],
+  "application_link": null
+}

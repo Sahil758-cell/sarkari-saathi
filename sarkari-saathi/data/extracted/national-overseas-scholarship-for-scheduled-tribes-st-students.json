@@ -1,0 +1,25 @@
+{
+  "scheme_name": "National Overseas Scholarship For Scheduled Tribes (ST) Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the only child in the family",
+    "Applicant must have secured at least 55% marks or equivalent in the qualifying examination",
+    "Applicant must not have previously received this scholarship or any other award under the scheme",
+    "Applicant must not change the course of study or the institute after the award is granted",
+    "Orphan candidates supported by a guardian are exempt from the income criteria"
+  ],
+  "benefits_summary": "Provides tuition fees, USD 15,400 annual maintenance allowance, USD 1,532 contingency allowance, visa fee, medical insurance, air passage and other travel expenses for postgraduate studies abroad.",
+  "documents_required": [],
+  "application_link": "https://overseas.tribal.gov.in/StudentsRegistrationForm.aspx"
+}

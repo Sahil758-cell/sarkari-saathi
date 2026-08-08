@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhyamantri Nikah Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parents of the bride and groom must be natives of Madhya Pradesh",
+    "Both bride and groom must belong to Muslim families",
+    "Bride must be at least 18 years old and not previously married",
+    "Groom must be at least 21 years old",
+    "Scheme applies only to mass marriage (Nikah) ceremonies, not single marriages",
+    "Abandoned women are eligible only if they have been legally divorced",
+    "A minimum of 5 couples' applications is required for a mass marriage ceremony to be organized",
+    "If the groom is from outside the state, the bride remains eligible, but benefits are denied if either set of parents are not natives of Madhya Pradesh"
+  ],
+  "benefits_summary": "Each eligible bride receives ₹49,000, and the organizing body receives ₹6,000, totaling ₹55,000 per beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "State Scholarship of Class 1st to 5th (Scheduled Caste)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Student must be enrolled in Class 1 to 5 in a recognized educational institution",
+    "Student must be a regular student of the institution"
+  ],
+  "benefits_summary": "Scholarship of ₹200 per year",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

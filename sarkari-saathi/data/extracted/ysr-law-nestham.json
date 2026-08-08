@@ -1,0 +1,28 @@
+{
+  "scheme_name": "YSR Law Nestham",
+  "occupation": [
+    "Junior Advocate"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Possess a Bachelor’s Degree in Law",
+    "Law graduate who passed out in 2016 or later",
+    "Name entered in the rolls of Advocates maintained by the Andhra Pradesh State Bar Council under Section 17 of the Advocates Act, 1961",
+    "Within the first three years of practice as of the date of the Government Order",
+    "Junior Advocate shall not exceed thirty‑five (35) years of age as of the date of the Government Order",
+    "One Family, One Benefit scheme applies (family includes husband, wife, and their children)"
+  ],
+  "benefits_summary": "A monthly stipend of ₹5,000 for the first three years of practice.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Foreign Education Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have scored 60% or more in Standard 12.",
+    "Must have secured admission to an MBBS, graduation, post‑graduation or equivalent diploma course abroad."
+  ],
+  "benefits_summary": "Provides a loan covering up to the full tuition fee or ₹15,00,000 at a simple interest rate of 4%, repayable over 5‑6 years after completion of studies.",
+  "documents_required": [],
+  "application_link": null
+}

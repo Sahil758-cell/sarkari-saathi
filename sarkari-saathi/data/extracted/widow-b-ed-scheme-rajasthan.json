@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Widow B.Ed Scheme-Rajasthan",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must be a resident of Rajasthan",
+    "Applicant must be a regular student of a B.Ed training program in a government or recognized private institute in Rajasthan",
+    "Beneficiary must be divorced and abandoned (widow)",
+    "Applicants who have already obtained a B.Ed degree are ineligible",
+    "A minimum of 75% attendance in the institute is required",
+    "Applicant must not be a beneficiary of any other government scholarship or equivalent scheme"
+  ],
+  "benefits_summary": "Fee reimbursement of ₹17,880 for the B.Ed course.",
+  "documents_required": [],
+  "application_link": null
+}

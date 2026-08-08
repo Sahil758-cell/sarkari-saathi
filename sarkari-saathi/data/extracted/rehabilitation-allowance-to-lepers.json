@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Rehabilitation Allowance To Lepers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a leprosy patient living in a leprosy colony.",
+    "The applicant must not be a recipient of any other government scheme or pension."
+  ],
+  "benefits_summary": "Provides a monthly financial assistance of Rs. 750 along with free medical treatment, education assistance for children, and counseling/rehabilitation services.",
+  "documents_required": [],
+  "application_link": null
+}

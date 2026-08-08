@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Solar Energy Assistance Scheme (UKBOCWWB)",
+  "occupation": [
+    "building worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Uttarakhand.",
+    "Must be engaged in any building or construction work.",
+    "Must be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board with active membership.",
+    "Must wait at least three months after registration before becoming eligible.",
+    "Must not have previously received the solar light/lantern benefit under any other scheme.",
+    "The benefit can be received only once in the beneficiary’s lifetime, even if both spouses are registered.",
+    "Family is considered as one unit, including spouse, dependent parents, sons below 21 years, and unmarried daughters."
+  ],
+  "benefits_summary": "A one‑time provision of a solar light/lantern (LED/CFL) to eligible building and construction workers.",
+  "documents_required": [],
+  "application_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+}

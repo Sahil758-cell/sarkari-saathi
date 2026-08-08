@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Capacity Building For Service Providers - Skill Testing & Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have passed Class 8th",
+    "Applicant must be above the age of 18 years",
+    "Trainee must attend at least 80% of classes/periods to be eligible for a certificate or end‑of‑course test",
+    "Batch size should ideally comprise 20 persons",
+    "Selection must be transparent and the same person should not be selected again",
+    "Students and trainers must be linked to Aadhaar in the implementing agency’s records and to the individual’s bank account",
+    "Preference is given to candidates from the unorganized sector, especially roadside food outlets, dhabas, kiosks at tourist destinations, and to artisans/craftsmen/women engaged in eco‑tourism from rural areas"
+  ],
+  "benefits_summary": "Provides financial assistance for training costs, honoraria for trainers, and stipends for trainees, with certificates issued upon successful completion.",
+  "documents_required": [
+    "application form"
+  ],
+  "application_link": "Step 1: Eligible candidates can obtain application forms from the Institute office or from Institute's Website. Step 2: The applicant should submit the duly filled application form along with all the documents and application fees."
+}

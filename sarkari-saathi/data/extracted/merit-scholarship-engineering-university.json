@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Merit Scholarship: Engineering University",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native resident student of Chhattisgarh",
+    "Applicant must be currently studying in a recognized engineering college in Chhattisgarh",
+    "Applicant must be pursuing an engineering degree course",
+    "Students must have passed 10th and 12th standards with at least 60 % marks from any recognized institution in Chhattisgarh",
+    "Diploma holders admitted to the second year of B.E. must have passed the final year diploma exam with at least 60 % marks",
+    "No student will receive more than one scholarship at the same time without special government approval",
+    "Students may continue receiving the scholarship if they have a fee concession from their institution",
+    "Only one concession is allowed: a student receiving any scholarship may do part‑time work while regularly studying",
+    "Children of permanent government employees of Chhattisgarh on deputation to the Government of India or another state government are exempted from the qualification condition",
+    "Students in full‑time employment are not eligible for the scholarship"
+  ],
+  "benefits_summary": "₹1,000 per month for eligible engineering students (first year or second‑year lateral entry)",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

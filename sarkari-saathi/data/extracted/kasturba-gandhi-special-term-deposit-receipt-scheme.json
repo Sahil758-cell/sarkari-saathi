@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Kasturba Gandhi Special Term Deposit Receipt Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Rajasthan.",
+    "Must be a girl student.",
+    "Must have passed 8th class from a Kasturba Gandhi Residential Girls' School in Rajasthan.",
+    "Must have passed 10th class with at least 50% marks in a government school and be enrolled in 11th class in a government school.",
+    "Must have passed 12th class with at least 50% marks in a government school and be enrolled in the first year of a recognized undergraduate course."
+  ],
+  "benefits_summary": "STDR of ₹2,000 for girls in Class 11 (5‑year term) and ₹4,000 for girls entering graduation (3‑year term).",
+  "documents_required": [],
+  "application_link": null
+}

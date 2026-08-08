@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Marriage Assistance - Folk Artist",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered folk artist",
+    "Registered folk artist must have no dues payable to the Board",
+    "Assistance can be sought for the artist’s own marriage or for the marriage of their adult son or daughter",
+    "If both husband and wife are registered folk artists, only one of them is eligible per marriage",
+    "The family of a registered folk artist can avail the assistance only twice"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 for the marriage of a registered folk artist or their adult child.",
+  "documents_required": [],
+  "application_link": null
+}

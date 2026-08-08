@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Rural Girls’ Incentive Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "must belong to Most Backward Classes (MBC) or Denotified Communities (DNC)",
+    "must be studying in classes 3rd to 6th in government or government‑aided schools",
+    "must not be from Chennai District",
+    "preference is given to girls from families headed by widows or destitute parents"
+  ],
+  "benefits_summary": "Financial assistance of ₹500 per annum for classes 3rd‑5th and ₹1,000 per annum for class 6.",
+  "documents_required": [],
+  "application_link": null
+}

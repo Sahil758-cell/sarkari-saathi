@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Airavata Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 22,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold a valid driving license and a cab badge",
+    "Applicant will be considered ineligible if they or any family member has previously received a subsidy from the Corporation/Government of Karnataka exceeding Rs.1,00,000",
+    "Selection will be based on merit parameters such as age, education qualification, cab badge and years of driving experience"
+  ],
+  "benefits_summary": "Beneficiaries receive up to Rs. 5 lakh (50% subsidy) to purchase a light motor vehicle for starting a taxi business, enabling self‑employment for rural SC/ST youth.",
+  "documents_required": [],
+  "application_link": null
+}

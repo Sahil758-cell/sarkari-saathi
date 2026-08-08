@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Subsidy for the Purchase of Wooden/Fiber Reinforced Plastic/Steel Mechanised Boats",
+  "occupation": [
+    "fishermen",
+    "fish trade",
+    "entrepreneur"
+  ],
+  "gender": "any",
+  "age_min": 24,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have resided in the Union Territory of Puducherry for at least five continuous years before applying",
+    "Applicant must be enrolled as a member of the Fishermen Co-operative Society",
+    "Applicant must not have received Old Age Pension from the department",
+    "Applicant must not be employed in any Government, Government Undertaking, or Fishermen Co-operative Society",
+    "Applicant must have no outstanding dues to the Department or Fishermen Co-operative Societies",
+    "Male applicants must have a minimum of five years sea‑fishing experience in a mechanized boat",
+    "Female applicants must have sufficient fishing‑trade experience",
+    "Entrepreneur applicants must have fishing‑trade experience"
+  ],
+  "benefits_summary": "Provides up to 50% subsidy on purchase or modernization of mechanized fishing boats, with maximum caps ranging from ₹2,50,000 to ₹11,00,000 depending on boat type and size.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Safai Karmakar Prasuti Sahayata Yojana",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered worker",
+    "Benefits are limited to two children"
+  ],
+  "benefits_summary": "Female workers receive ₹4,200 in the third month and ₹2,800 in the eighth month of pregnancy, while male workers receive a one-time ₹3,000 paternity assistance after the child’s birth.",
+  "documents_required": [],
+  "application_link": null
+}

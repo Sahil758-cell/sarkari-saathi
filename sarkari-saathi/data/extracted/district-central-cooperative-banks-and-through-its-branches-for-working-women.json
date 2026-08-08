@@ -1,0 +1,24 @@
+{
+  "scheme_name": "District Central Cooperative Banks and through its Branches: For Working Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a working woman."
+  ],
+  "benefits_summary": "Up to ₹20,000 loan at a nominal interest rate of 12%.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

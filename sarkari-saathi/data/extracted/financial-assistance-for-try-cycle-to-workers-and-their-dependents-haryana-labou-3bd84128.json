@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance for Try Cycle to Workers and their Dependents - Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be employed in an industrial or commercial establishment in Haryana",
+    "Must be registered with the Haryana Labour Welfare Board",
+    "Monthly salary must not exceed ₹25,000",
+    "Minimum service period of one year",
+    "Benefit can be received only once every five years",
+    "Must have suffered loss of legs due to an accident or any other reason"
+  ],
+  "benefits_summary": "Provides up to ₹7,000 (or actual price, whichever is lower) as a one‑time financial assistance for purchasing a tricycle, available once every five years.",
+  "documents_required": [
+    "Photograph",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

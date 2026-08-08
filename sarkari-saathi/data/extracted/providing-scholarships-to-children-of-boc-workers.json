@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Providing Scholarships to Children of BOC Workers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered worker with the Andhra Pradesh Building & Other Construction Workers Welfare Board.",
+    "Children must not be enrolled under Chandranna Bima.",
+    "Student must be studying in classes 9‑12, ITI, or professional courses at the graduation level.",
+    "Each family can receive scholarships for up to two children.",
+    "Application must be submitted within three months from the start of the academic year."
+  ],
+  "benefits_summary": "Scholarships of ₹1,200 per year for 9th‑12th grade/ITI students and ₹5,000 per year for graduation‑level professional courses.",
+  "documents_required": [],
+  "application_link": null
+}

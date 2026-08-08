@@ -1,0 +1,30 @@
+{
+  "scheme_name": "AICTE-Margdarshan scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The Mentor Institute (MI) must be approved by AICTE, or be a Central Funded Institution where AICTE approval is not mandatory",
+    "MI must have a valid accreditation status for at least 6 months from the date of proposal submission",
+    "Institutes offering management, hotel management or other non‑engineering programs must also have accreditation valid for at least 6 months",
+    "Institutes exclusively offering diploma courses must have a minimum of four diploma programmes with accreditation valid for at least 6 months",
+    "The Mentee Beneficiary Institute (MBI) must be AICTE‑approved and must have never been enrolled as an MI, never mapped as an MBI with any other MI, and must have had no programmes accredited in the past ten years",
+    "The MBI should be located within approximately 200 km of the MI",
+    "MI must submit a list of up to 10 potential MBIs when applying",
+    "All participation is voluntary and no financial transactions are approved under the MoU"
+  ],
+  "benefits_summary": "Provides a token grant of up to ₹3,00,000 per mentee institute (maximum ₹30,00,000 for ten mentees) and staff honorarium limited to 4% of the grant.",
+  "documents_required": [
+    "Signed application form from the Head of the Institute",
+    "Detailed Project Report (DPR)",
+    "Signature and stamp of the Head of Institute on every page of the application"
+  ],
+  "application_link": null
+}

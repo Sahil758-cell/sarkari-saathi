@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be SHGs/collectives of tribal (ST) coffee growers.",
+    "Certification must be for estates under standards such as Organic, Fair Trade, Rainforest Alliance, UTZ Certified, Bird friendly/ Shade grown, or any equivalent program.",
+    "For organic certification, applicants must be certified as per NPOP standards (or equivalent international standards such as EU Regulation, NOP, JAS).",
+    "Certificates must be obtained from agencies accredited by the respective certification programmes during the MTF period."
+  ],
+  "benefits_summary": "Provides a subsidy of 75% of the certification cost (up to 3 years for organic certification, 1 year for other eco‑certifications) to eligible SHGs/collectives of tribal coffee growers.",
+  "documents_required": [],
+  "application_link": null
+}

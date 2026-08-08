@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Exposure Tour for the Coir Artisans",
+  "occupation": [
+    "Coir Artisan"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Expenses for conveyance, accommodation, and visiting‑institution fees are covered, and a daily allowance of ₹150 per person is provided.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

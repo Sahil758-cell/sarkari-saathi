@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Dulari Kanya",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl child must be born in a government hospital or government‑recognised private hospital in Arunachal Pradesh.",
+    "Father/guardian must belong to a Scheduled Tribe of Arunachal Pradesh, be a domicile resident of Arunachal Pradesh, or possess a household residential certificate.",
+    "Scheme is limited to the first two live girl children.",
+    "For maturity claim, the beneficiary must be at least 18 years old and have passed the class‑X examination."
+  ],
+  "benefits_summary": "A fixed deposit of ₹20,000 is opened for the girl child, which can be withdrawn at age 18 after verification.",
+  "documents_required": [
+    "Prescribed application form",
+    "Household residential certificate"
+  ],
+  "application_link": null
+}

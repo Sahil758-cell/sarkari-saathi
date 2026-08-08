@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Capital Investment Subsidy: SC/ST/Women Entrepreneurs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Units must be small or micro manufacturing enterprises that started production on or after 27‑03‑2002 for SC/ST/Women entrepreneurs and on or after 24‑08‑2011 for SC/ST entrepreneurs",
+    "The unit must commence production or complete expansion on or after 24‑08‑2011",
+    "Second‑hand machinery is eligible only if imported directly by the unit or through an agent and supported by the required import documents",
+    "If the same person has two or more industrial undertakings, each unit is eligible as a separate entity provided location, products, and licences/clearances/registrations are obtained separately",
+    "For units financed by banks, the subsidy is disbursed through the financial institution; for self‑financed units, it is paid directly to the entrepreneur",
+    "Eligibility category noted in source: Women"
+  ],
+  "benefits_summary": "25% subsidy on investment in land, building, plant & machinery up to ₹25 lakhs for women entrepreneurs and up to ₹50 lakhs for SC/ST entrepreneurs.",
+  "documents_required": [
+    "Prescribed application form",
+    "Mandatory documents (self‑attested where required)",
+    "Import documents for second‑hand machinery"
+  ],
+  "application_link": null
+}

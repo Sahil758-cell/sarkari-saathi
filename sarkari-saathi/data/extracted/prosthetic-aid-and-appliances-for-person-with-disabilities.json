@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Prosthetic Aid and Appliances for Person with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of 40% or more.",
+    "Employment-oriented tools will not be provided to individuals under the age of 16.",
+    "Equipment (both employment-oriented and disability‑relieving) can be obtained only once in a period of 5 years."
+  ],
+  "benefits_summary": "Provides prosthetic aids and appliances such as artificial limbs, crutches, wheelchairs, hearing aids, musical instruments and self‑employment tools up to ₹20,000 for persons with a disability of 40% or more.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

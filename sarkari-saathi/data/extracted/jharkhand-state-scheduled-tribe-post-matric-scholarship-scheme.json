@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Jharkhand State Scheduled Tribe Post-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Jharkhand.",
+    "Must belong to the Scheduled Tribe (ST) category.",
+    "Must be enrolled in a recognized educational institution registered on the departmental scholarship portal.",
+    "Must be pursuing a post‑matriculation course (degree, diploma, certificate or equivalent).",
+    "Must not be receiving any other scholarship or financial assistance from the central or state government.",
+    "Must adhere to the attendance system prescribed by the institution.",
+    "Must have an Aadhaar‑linked bank account in the student's own name.",
+    "If switching courses mid‑year, scholarship is only for the new course if no scholarship was received for the previous course in the same academic year."
+  ],
+  "benefits_summary": "Provides financial assistance covering tuition, academic allowance and maintenance fees up to ₹1,00,000 for hostellers and ₹90,000 for day‑scholars, directly credited to the student's Aadhaar‑linked bank account.",
+  "documents_required": [],
+  "application_link": null
+}

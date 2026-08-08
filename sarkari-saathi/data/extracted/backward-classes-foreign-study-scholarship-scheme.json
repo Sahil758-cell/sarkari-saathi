@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Backward Classes Foreign Study Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have secured first class or at least 60% marks (or equivalent grade) in the previous examination.",
+    "Must be applying for a research degree (Ph.D.) or have at least two years of relevant experience after completing a research degree.",
+    "Must be under 35 years of age on 1st January of the application year (subject to special relaxation of up to 10 years as decided by the committee).",
+    "Family's annual income must not exceed the income limit prescribed for the creamy layer.",
+    "Eligibility category noted in source: Backward Classes"
+  ],
+  "benefits_summary": "Provides financial assistance to backward class students for overseas postgraduate and research programs.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

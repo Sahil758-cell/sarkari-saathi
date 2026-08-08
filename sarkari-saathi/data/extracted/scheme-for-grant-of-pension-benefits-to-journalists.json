@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Scheme for Grant of Pension Benefits to Journalists",
+  "occupation": [
+    "Full-time Editor",
+    "Reporter",
+    "Sub-Editor",
+    "Press Photographer",
+    "Videographer",
+    "Correspondent"
+  ],
+  "gender": null,
+  "age_min": 58,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India",
+    "Must be a native of the Union Territory of Puducherry by birth or by continuous residence for at least ten years",
+    "Must not be receiving any pension or honorarium from the Central or State Government",
+    "In case of chronic ill‑health or permanent incapacitation, applicants with at least ten years of service are eligible irrespective of age",
+    "In the event of the journalist's death, the spouse is eligible for 50% of the pension"
+  ],
+  "benefits_summary": "Monthly pension of ₹6,000 payable on the 10th of each month.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

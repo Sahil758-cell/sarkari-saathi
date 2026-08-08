@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Compensation Amount Towards Cattle Injury Caused by Forest Animals",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The cattle must have been injured by a wild animal as defined under the Wild Life (Protection) Act, 1972.",
+    "The incident must be reported to the nearest forest officer within 48 hours of its occurrence, either in writing or verbally.",
+    "The owner must provide necessary proof or verification documents as required by the Forest Department.",
+    "The dead cattle must not be removed from the place of death."
+  ],
+  "benefits_summary": "Provides up to ₹1,00,000 compensation for cattle injury, including ₹1,000 immediate assistance, ₹30,000 for medical expenses, and ₹1,00,000 for permanent disability.",
+  "documents_required": [],
+  "application_link": null
+}

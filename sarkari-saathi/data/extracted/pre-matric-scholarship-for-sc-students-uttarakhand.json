@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Pre-matric Scholarship For SC Students - Uttarakhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in a recognized school/institution in Uttarakhand",
+    "Must have passed the previous year’s examination",
+    "Must not be studying in more than one school in the same academic year",
+    "Name on the scholarship application must match the name on Aadhaar and the bank account",
+    "Guardian’s mobile number must be provided",
+    "The mobile number can be shared by more than one student of the same family"
+  ],
+  "benefits_summary": "Students receive annual financial assistance ranging from Rs. 600 for classes 1‑5 up to Rs. 6,250 for hostel‑living students of classes 9‑10.",
+  "documents_required": [],
+  "application_link": null
+}

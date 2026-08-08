@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Reactivation Of Fisheries Cooperative Societies",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an active Primary Fisherman Cooperative Society (PFCS).",
+    "The PFCS must have completed at least one year from its registration under the Odisha Cooperative Societies Act‑1962.",
+    "The PFCS must be in working condition and must not have availed the revolving fund before.",
+    "The PFCS must conduct Committee of Management meetings and Annual General Body meetings as per the OCS Act and related rules.",
+    "The PFCS must have paid the government lease value of any reservoir/pond if taken on lease, as per the rules.",
+    "The PFCS must be able to produce last year's audited balance sheets with profit and loss accounts prepared by an AGCS‑empanelled CA firm/auditor."
+  ],
+  "benefits_summary": "One‑time revolving fund of ₹2,00,000 provided to each eligible Primary Fishermen Cooperative Society.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)",
+    "Last year's audited balance sheets with profit and loss accounts"
+  ],
+  "application_link": null
+}

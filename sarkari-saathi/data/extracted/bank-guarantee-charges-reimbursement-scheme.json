@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Bank Guarantee Charges Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Scheduled Caste or Scheduled Tribe category.",
+    "Applicant must represent or own any MSE unit.",
+    "MSEs that have availed loans from any Scheduled Commercial Banks, Non‑Banking Finance Companies (NBFCs), or State Finance Corporations are eligible."
+  ],
+  "benefits_summary": "Reimbursement of up to 80% or ₹1,00,000 (whichever is lower) of Performance Bank Guarantee charges incurred in a financial year.",
+  "documents_required": [],
+  "application_link": "https://www.scsthub.in"
+}

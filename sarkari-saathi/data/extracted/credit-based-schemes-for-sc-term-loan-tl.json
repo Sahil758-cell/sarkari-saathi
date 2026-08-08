@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Credit Based Schemes For SC - Term Loan (TL)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Entrepreneurial activity is required",
+    "Beneficiaries must be members of the Scheduled Caste category",
+    "Annual family income must not exceed Rs. 3.00 lakh",
+    "Applicants must contribute their share of assistance and provide any required subsidy",
+    "Applicants must arrange financial resources from other sources as per scheme guidelines"
+  ],
+  "benefits_summary": "Term loan up to 95% of project cost with interest rates of 6‑9% and repayment period of up to 10 years.",
+  "documents_required": [],
+  "application_link": "https://nsfdc.nic.in/channel-patrners/"
+}

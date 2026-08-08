@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme of Internship for Post-Graduate/Research Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India.",
+    "Must be pursuing post‑graduation or research in Statistics, Mathematical Statistics, Operational Research, Economics, Demography or any applied field of Statistics from a recognized college, university or research institute.",
+    "Internship duration is 2 months from the date of joining.",
+    "Interns must submit a report/paper (including soft copy) at the end of the assignment."
+  ],
+  "benefits_summary": "Interns receive a token stipend of ₹10,000 (₹5,000 per month) on successful completion, along with a certificate and basic logistical support.",
+  "documents_required": [],
+  "application_link": null
+}

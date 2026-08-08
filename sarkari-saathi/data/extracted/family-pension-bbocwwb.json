@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Family Pension (BBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a dependent of a deceased worker.",
+    "The deceased worker must have been registered with the Bihar Building & Other Construction Workers Welfare Board during their lifetime.",
+    "The deceased worker must have been receiving a regular pension from the Board during their lifetime."
+  ],
+  "benefits_summary": "Provides 50% of the pension amount or ₹100, whichever is higher.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "FutureSkills Prime Incentive Program",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen.",
+    "No age, educational qualification, or income restrictions.",
+    "Incentive is applicable only to paid courses; free courses are excluded.",
+    "Incentive can be claimed only once per course and its assessment.",
+    "For DeepSkilling – Paid Pathway, the subscriber must successfully complete the course and assessment and apply for incentive and assessment reimbursement together.",
+    "For DeepSkilling – Free Pathway, the subscriber must enroll in a paid course within 180 days of certification, with the next course fee ≥ ₹1,000; otherwise ₹1,000 is withdrawn and the incentive cannot be claimed.",
+    "For Bridge and Foundation courses, the subscriber must successfully complete the course and assessment and apply for incentive and reimbursement together.",
+    "A learner can avail the GOI incentive only once for each course category."
+  ],
+  "benefits_summary": "Learners receive incentives up to ₹8,000 for paid DeepSkilling courses and up to ₹3,000 for Bridge and Foundation courses, with a maximum total incentive of ₹12,000 per learner.",
+  "documents_required": [],
+  "application_link": null
+}

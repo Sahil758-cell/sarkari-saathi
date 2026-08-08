@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must have continuously resided in the Union Territory of Puducherry for at least five years."
+  ],
+  "benefits_summary": "Financial assistance of ₹500 per month.",
+  "documents_required": [],
+  "application_link": null
+}

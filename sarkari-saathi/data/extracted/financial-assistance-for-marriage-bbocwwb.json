@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance for Marriage (BBOCWWB)",
+  "occupation": [
+    "building work",
+    "construction work"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be engaged in building or construction work",
+    "The worker must be registered with the Bihar Building & Other Construction Workers Welfare Board",
+    "The worker must have maintained continuous membership with the Board for at least three years",
+    "The worker's membership must be active at the time of application",
+    "Workers who remarry are not eligible for this scheme",
+    "Benefits are available for the marriage of two adult daughters; female workers are also eligible for assistance for their own marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 is provided to eligible workers for the marriage of their two adult daughters, and additionally for the female worker’s own marriage.",
+  "documents_required": [],
+  "application_link": null
+}

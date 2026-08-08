@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Private Tuition Assistance to Scheduled Caste Students Studying in Standard 11th & 12th (Science Stream)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in Standard 11th or 12th Science Stream.",
+    "Student must have obtained 70% or more marks in Standard 10th."
+  ],
+  "benefits_summary": "Provides up to ₹15,000 per annum for private tuition fees in 11th standard and another ₹15,000 per annum in 12th standard.",
+  "documents_required": [
+    "Photo"
+  ],
+  "application_link": "https://www.digitalgujarat.gov.in/"
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Subsidy Scheme For Purchase Of Taxi / Goods Vehicle / Passenger Autorickshaw",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 450000,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a State Religious Minority Community",
+    "Applicant must be a permanent resident of the State",
+    "No member of the applicant's family should be an employee of State/Central/Government Public Sector Units",
+    "Applicant must possess a relevant driving licence issued by the Regional Transport Authority",
+    "Applicant or family members must not have availed any vehicle loan under any State Government scheme",
+    "Applicant must not be a loan defaulter in KMDC",
+    "The vehicle purchased under this scheme should not be sold to others during the tenure of the loan",
+    "If any insurance payment is claimed, the insurance payment details should be shared with the corporation"
+  ],
+  "benefits_summary": "Subsidy of up to 33% of the vehicle value, capped at Rs 2.5 lakh per beneficiary.",
+  "documents_required": [
+    "Photo of the beneficiary with the subsidized vehicle",
+    "Driving licence"
+  ],
+  "application_link": null
+}

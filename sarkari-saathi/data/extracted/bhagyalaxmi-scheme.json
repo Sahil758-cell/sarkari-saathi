@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Bhagyalaxmi Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl’s birth must be registered within one year of birth.",
+    "The girl must not be engaged in child labour.",
+    "The girl must be immunized as per the health department’s program.",
+    "Girl children must be born after 31 March 2006 in a BPL family.",
+    "Benefits are limited to families with up to two female children.",
+    "The girl must have completed eighth grade to receive the maturity amount.",
+    "The girl cannot be married before turning 18 years old."
+  ],
+  "benefits_summary": "Provides health insurance up to Rs. 25,000 per year, annual scholarships ranging from Rs. 300 to Rs. 1,000, a maturity payment of Rs. 34,751 at age 18, and additional accident and death benefits.",
+  "documents_required": [],
+  "application_link": null
+}

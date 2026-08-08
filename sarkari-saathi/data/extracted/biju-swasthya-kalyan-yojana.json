@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Biju Swasthya Kalyan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a holder of a BSKY Smart Health Card, National Food Security Act (NFSA) card, or State Food Security Scheme (SFSS) card",
+    "Family must be covered under NFSA or SFSS within Odisha",
+    "Referral to private hospitals is allowed only if the required package/procedure is not available at a government facility, there is a long waiting time, or in an emergency"
+  ],
+  "benefits_summary": "Provides cashless health coverage up to ₹5 lakhs per family per year, with an additional ₹5 lakhs for women members, for treatments at empaneled private hospitals.",
+  "documents_required": [
+    "NFSA card",
+    "SFSS card",
+    "BSKY Smart Health Card"
+  ],
+  "application_link": "https://bsky.odisha.gov.in/bsky/home"
+}

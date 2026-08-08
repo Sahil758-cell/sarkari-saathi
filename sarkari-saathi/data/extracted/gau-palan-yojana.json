@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Gau Palan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be listed in the SECC (Socio-Economic Caste Census) database"
+  ],
+  "benefits_summary": "Financial assistance of ₹36,000 (90% of the cow cost) is provided through DBT for the purchase of a milch cow up to the fourth calving.",
+  "documents_required": [],
+  "application_link": null
+}

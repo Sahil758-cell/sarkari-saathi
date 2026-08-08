@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Girl Students Health & Hygiene Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in classes VI to XII.",
+    "Must be enrolled in a government or government-aided school."
+  ],
+  "benefits_summary": "₹50 per student per month credited to the beneficiary’s account through DBT.",
+  "documents_required": [],
+  "application_link": null
+}

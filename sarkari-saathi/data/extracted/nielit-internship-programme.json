@@ -1,0 +1,29 @@
+{
+  "scheme_name": "NIELIT Internship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be studying in a recognized university in India or abroad.",
+    "Applicant must have secured at least 60% marks in the last degree or certificate examination.",
+    "Applicant must qualify as any one of the following: completed or pursuing a Diploma; completed or pursuing Graduation/Bachelor’s/Engineering; completed or pursuing an Integrated/Dual Degree/Master/Post Graduate degree.",
+    "Applications must be sponsored/forwarded by the Sponsoring Institution where the applicant is currently enrolled or has recently passed out.",
+    "A candidate can avail the internship only once with NIELIT.",
+    "A minimum of 80% attendance is required in a month to receive the stipend and certificate.",
+    "Preference will be given to candidates with exposure in the area of intended internship, good academic background, and higher qualifications based on need."
+  ],
+  "benefits_summary": "Stipend of ₹5,000 per month for S&T interns or ₹3,000 per month for non‑S&T interns, along with a certificate upon successful completion.",
+  "documents_required": [
+    "Application with brief write‑up stating the reason for applying",
+    "Endorsement/recommendation letter from the sponsoring institution"
+  ],
+  "application_link": null
+}

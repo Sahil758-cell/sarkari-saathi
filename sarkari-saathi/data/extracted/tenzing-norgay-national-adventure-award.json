@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Tenzing Norgay National Adventure Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have excellent performance and continuous achievement in a specific adventure field (Land, Air, or Water/Sea)",
+    "Must possess outstanding leadership qualities and a sense of adventure discipline",
+    "Award may be given posthumously",
+    "Applicant should obtain a recommendation from the relevant state youth/sports department or a recognized adventure institute (e.g., Indian Mountaineering Foundation, National Institute of Water Sports, Aero Club of India) or the appropriate military/para‑military adventure cell"
+  ],
+  "benefits_summary": "The award includes a bronze statuette, certificate, blazer with tie/saree and a cash prize of ₹15,00,000, together with travel, lodging and reimbursement benefits for the awardee and a companion where applicable.",
+  "documents_required": [
+    "Pro‑forma application form",
+    "Original boarding passes/tickets for travel reimbursement",
+    "Scanned copy of recommendation letter"
+  ],
+  "application_link": "https://awards.gov.in"
+}

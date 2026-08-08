@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Biju Pucca Ghar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Odisha",
+    "Must belong to the economically weaker section",
+    "Must be residing in a kutcha house",
+    "Must not own any pucca house in the state",
+    "Must be located in one of the 36 mining‑affected blocks listed in the scheme document",
+    "Households previously sanctioned a house under any Rural Housing scheme or already living in a pucca house are excluded"
+  ],
+  "benefits_summary": "Provides financial assistance (up to ₹1,30,000) for construction of pucca houses for eligible kutcha‑house households in mining‑affected rural blocks of Odisha.",
+  "documents_required": [
+    "Aadhaar UID/EID",
+    "Mobile number",
+    "Geo‑tagged photographs of the beneficiary’s kutcha house",
+    "Geo‑tagged photographs of the proposed construction site"
+  ],
+  "application_link": null
+}

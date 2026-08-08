@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Financial Assistance for Coaching- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana.",
+    "Applicant must be registered with the Haryana Labour Welfare Board.",
+    "Applicant's monthly salary must not exceed ₹25,000.",
+    "Applicant must have at least one year of service.",
+    "Benefits are for children of registered workers who are receiving coaching for entrance examinations in professional courses or preparing for UPSC/HPSC main examination after passing preliminary.",
+    "Child must have scored at least 60% marks in the qualifying examination.",
+    "Child must not be self‑employed or employed.",
+    "Child can also avail benefits if already receiving a scholarship from the Haryana Labour Welfare Board.",
+    "Scheme provides benefits to up to three girl children and two boy children per worker.",
+    "Coaching institute must have been providing coaching for at least three years.",
+    "Institute must have coached at least 300 students.",
+    "Institute must have been paying GST for at least three years.",
+    "Institute must have paid Labour Welfare Fund dues and be registered under the Shop & Commercial Establishment Act, 1958."
+  ],
+  "benefits_summary": "Up to ₹20,000 (or 75% of the coaching fee, whichever is lower) for entrance‑exam coaching, and up to ₹1,00,000 for UPSC/HPSC main‑exam preparation.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

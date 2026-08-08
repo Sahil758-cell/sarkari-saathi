@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scheme for Providing Employment Opportunities to Scheduled Castes by Establishing Livestock Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be unemployed",
+    "The applicant must have a space or shed for keeping animals",
+    "A self‑declaration for unemployment and commitment to abide by scheme conditions must be submitted"
+  ],
+  "benefits_summary": "Provides subsidies for establishing dairy, piggery, and sheep/goat units (50%–90% of livestock cost) with maximum assistance up to ₹88,200, administered as a loan.",
+  "documents_required": [
+    "Self‑Declaration",
+    "Application form"
+  ],
+  "application_link": null
+}

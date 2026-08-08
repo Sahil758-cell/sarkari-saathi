@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Waiver of Electricity Duty",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a micro, small or medium enterprise in the powerloom sector",
+    "Must have started production between 01-01-2022 and 31-12-2024",
+    "Must execute a four‑party agreement with the Directorate of Textiles, a financial institution and Tantuja",
+    "Must be a private sector, cooperative sector, joint sector undertaking, or a company/undertaking owned and managed by the State Government or Industrial SHGs",
+    "Must have a detailed feasibility report/project prepared for the purpose",
+    "Project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution"
+  ],
+  "benefits_summary": "Provides a waiver on electricity duty for up to 5 years, with the percentage and maximum amount varying by enterprise size and zone (up to ₹10 lakhs per year for micro/small enterprises and up to ₹25 lakhs per year for medium enterprises).",
+  "documents_required": [
+    "FORM-C"
+  ],
+  "application_link": null
+}

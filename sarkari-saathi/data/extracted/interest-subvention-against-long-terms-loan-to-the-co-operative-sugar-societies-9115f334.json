@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Interest Subvention against long terms loan to the Co-operative sugar societies (Normal Area) (Tribal Area)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a sugar cooperative society that has taken a loan for payment of sugarcane arrears for the 2018‑19 season."
+  ],
+  "benefits_summary": "Interest subvention is provided on the loan amount up to 7% or the actual interest, whichever is lower, for up to 4 years after an initial year funded by the central government.",
+  "documents_required": [],
+  "application_link": null
+}

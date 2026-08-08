@@ -1,0 +1,29 @@
+{
+  "scheme_name": "SUPER 30",
+  "occupation": [
+    "student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": [
+    "ST",
+    "SC"
+  ],
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the class‑10th Pre‑Board/Pre‑Test exam from a government‑recognized school in Tripura with at least 50% marks.",
+    "Must be appearing for the class 10th board final examination.",
+    "Must be a resident of Tripura.",
+    "Eligibility category noted in source: Person with Disability"
+  ],
+  "benefits_summary": "Provides free coaching (up to ₹1,00,000) and accommodation (₹1,40,000 per annum) for a two‑year JEE/NEET preparation program at a reputed institution outside Tripura.",
+  "documents_required": [],
+  "application_link": null
+}

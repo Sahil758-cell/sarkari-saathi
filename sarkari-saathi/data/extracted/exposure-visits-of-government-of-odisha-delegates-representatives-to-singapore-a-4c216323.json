@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Exposure Visits of Government of Odisha Delegates/Representatives to Singapore and Dubai",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have requisite physical fitness and not be suffering from any communicable disease at the time of travel.",
+    "Must be duly nominated by a Department of Government of Odisha."
+  ],
+  "benefits_summary": "The Government of Odisha bears all costs of the exposure trips, providing delegates with airfare, accommodation, insurance, allowances, and guided tours.",
+  "documents_required": [
+    "passport-sized photograph",
+    "mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Vivah Sahayata Yojana - Madhya Pradesh",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The industrial establishment must be covered under the Madhya Pradesh Labour Welfare Fund Act 1982 and must be receiving regular contributions.",
+    "The applicant must have worked in the establishment for at least one year.",
+    "The applicant must not have received marriage assistance under any other scheme.",
+    "The application form must be submitted either 15 days before the wedding date or up to 60 days after the wedding date.",
+    "The benefit is limited to the registered female worker’s own marriage or remarriage, and up to two daughters of the registered worker."
+  ],
+  "benefits_summary": "The scheme provides a total assistance of ₹55,000, comprising ₹11,000 cash, ₹38,000 worth of household goods, and ₹6,000 to the mass‑marriage organizer (if applicable).",
+  "documents_required": [
+    "Application form",
+    "Age Proof",
+    "Original copy of marriage invitation card",
+    "Self‑attested photocopy of Aadhar card and Samgra ID (if available) of the daughter/female worker who is getting married",
+    "Photocopy of the first page of the applicant worker’s bank passbook",
+    "Photocopy of the identity card/ESI or PF card (if available) issued by the institution/establishment of the applicant worker",
+    "Latest photograph of the applicant and the daughter/female worker/employee who is getting married"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme to Provide Assistance to Processing Units in State Market Committees",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a market committee located in Gujarat."
+  ],
+  "benefits_summary": "Provides up to 50% of project costs, capped at ₹1,50,00,000, for setting up food processing facilities at state market committees.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Bihar Startup Policy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 1000000000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be incorporated as a private limited company, partnership firm, or limited liability partnership.",
+    "Must be within ten years from the date of incorporation/registration.",
+    "Turnover for any financial year since incorporation must not exceed ₹100 crore.",
+    "Must be working towards innovation, product/process/service improvement, or a scalable business model with high employment or wealth‑creation potential.",
+    "Entity formed by splitting up or reconstruction of an existing business is not eligible.",
+    "Must be incorporated or registered in Bihar and have an office in Bihar.",
+    "Applicable taxes from the company's operations must be payable in Bihar."
+  ],
+  "benefits_summary": "Interest‑free loans up to ₹10 lakh for ten years, plus a 5% incentive for female entrepreneurs and a ₹3 lakh grant for participants in product‑improvement training.",
+  "documents_required": [],
+  "application_link": null
+}

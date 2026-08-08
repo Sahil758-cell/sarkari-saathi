@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Micro Finance Scheme- Credit Line 2 for Minority Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a minority community (Muslims, Sikhs, Christians, Buddhists, Parsis, Jains)",
+    "Applicant must be a member of a Self‑Help Group (SHG) with at least 60% minority community members (standard requirement is 75% minority members, with the remaining 25% allowed from other weaker sections such as SC or Handicapped)",
+    "Applicant must possess a Parivar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Provides small loans of ₹1,50,000 per beneficiary to members of Self‑Help Groups (SHGs).",
+  "documents_required": [
+    "Parivar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

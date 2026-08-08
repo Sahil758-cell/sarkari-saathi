@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Financial Help On Death Of Family Head",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be the wife of the deceased head of the family",
+    "Beneficiary must belong to the Sahariya tribe (ST)"
+  ],
+  "benefits_summary": "A one-time financial assistance of ₹10,000 is provided to the wife of the deceased family head.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for MSME Sector: Assistance For Saving In Consumption Of Energy And Water",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Should be a new or existing manufacturing/service unit undertaking expansion or diversification in the MSME sector",
+    "Unit must have commenced commercial production between 20.05.2022 and 19.05.2027",
+    "Unit must be located in the Union Territory of Dadra and Nagar Haveli & Daman and Diu",
+    "Projects must be implemented and commenced during the scheme’s operation period",
+    "Certificate from Energy/Water auditors regarding installation of equipment must be submitted as per audit report"
+  ],
+  "benefits_summary": "Up to ₹1,00,000 for 75% of the energy/water audit cost and up to ₹20,00,000 for 25% of equipment cost (one‑time assistance).",
+  "documents_required": [
+    "Certificate from Energy/Water auditors regarding installation of equipment"
+  ],
+  "application_link": "https://investdd.in"
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Self-Certification Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Any shop, factory, or establishment can apply",
+    "Units handling hazardous chemicals or substances are excluded",
+    "Applicants must be in compliance with relevant labor laws"
+  ],
+  "benefits_summary": "Reduces inspection frequency and provides an interest‑free security refund after five years while covering labor‑law protections for workers.",
+  "documents_required": [
+    "mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

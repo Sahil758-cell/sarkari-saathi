@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Gopabandhu Sambadika Swasthya Bima Yojana",
+  "occupation": [
+    "Journalist",
+    "newspaper hawker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Odisha‑based journalist working either in Odisha or New Delhi for an Odisha‑based newspaper",
+    "The journalist must be employed by a media house registered with the Information & Public Relations Department of Odisha, New Delhi",
+    "Newspaper hawkers are also eligible to apply",
+    "The scheme covers the journalist and their eligible family members"
+  ],
+  "benefits_summary": "Provides health insurance covering up to ₹4,00,000 for death benefits and ₹2,00,000 for permanent incapacitation to working journalists and their families.",
+  "documents_required": [
+    "Applicant details",
+    "Education details",
+    "Dependent family details",
+    "Present Workplace"
+  ],
+  "application_link": "https://owjws.odisha.gov.in/"
+}

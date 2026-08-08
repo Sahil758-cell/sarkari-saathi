@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Namo Shetkari Mahasanman Nidhi Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Cultivable land‑holding farmer families (husband, wife and minor children) with land records as of 01‑02‑2019 are eligible.",
+    "Eligibility is limited to families already eligible for the PM Kisan Yojana.",
+    "Benefits are credited only to Aadhaar‑linked bank accounts via Direct Benefit Transfer (DBT).",
+    "Any benefit mistakenly credited to ineligible beneficiaries will be recovered as per PM Kisan SOP."
+  ],
+  "benefits_summary": "Eligible farmer families receive Rs 6,000 per year in three equal instalments, transferred via DBT to their Aadhaar‑linked bank accounts.",
+  "documents_required": [],
+  "application_link": null
+}

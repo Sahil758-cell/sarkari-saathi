@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme for Adolescent Girls- Bihar",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 11,
+  "age_max": 14,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary should not be currently attending school"
+  ],
+  "benefits_summary": "Beneficiaries receive a monthly take‑home ration of rice, eggs and soybeans along with skill development training and health‑nutrition services.",
+  "documents_required": [],
+  "application_link": null
+}

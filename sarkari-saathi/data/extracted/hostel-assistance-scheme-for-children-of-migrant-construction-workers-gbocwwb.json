@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Hostel Assistance Scheme for Children of Migrant Construction Workers (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Children of registered construction workers must be studying in government primary or secondary schools of the district.",
+    "Construction workers must be registered with the Gujarat Building and Other Construction Worker’s Welfare Board."
+  ],
+  "benefits_summary": "Free accommodation and meals for children in primary school.",
+  "documents_required": [],
+  "application_link": null
+}

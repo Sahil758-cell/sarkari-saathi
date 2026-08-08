@@ -1,0 +1,22 @@
+{
+  "scheme_name": "One Nation One Ration Card",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a ration cardholder or beneficiary covered under the National Food Security Act, 2013 with Aadhaar number seeded on the ration card."
+  ],
+  "benefits_summary": "Allows beneficiaries to obtain food grains from any Fair Price Shop across India using Aadhaar authentication, ensuring food security for migrant workers.",
+  "documents_required": [
+    "Ration card",
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

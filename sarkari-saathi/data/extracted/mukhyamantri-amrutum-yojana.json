@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Mukhyamantri Amrutum Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Family must be listed in the BPL list issued by the Gujarat State Government",
+    "Each family member must be present at the time of enrollment",
+    "ASHA workers are eligible",
+    "Accredited reporters are eligible",
+    "Class‑3 and Class‑4 employees on fixed State payroll are eligible",
+    "Senior citizens with families having total annual income up to ₹6,00,000 are eligible",
+    "Families marginally above the poverty line can enrol under MA Vatsalya Yojana if annual family income is up to ₹4,00,000"
+  ],
+  "benefits_summary": "Provides health insurance coverage up to ₹5,00,000 per family annually, covering hospitalization, surgeries (including cardiac, cancer, kidney transplants, eye surgeries, etc.) and therapies at empanelled hospitals.",
+  "documents_required": [
+    "Proof of income (income certificate)",
+    "Government‑issued ID proof (Aadhaar card, voter ID)",
+    "Proof of residence (ration card, utility bills)",
+    "Supporting documents for specific groups (widows, orphans, etc.)"
+  ],
+  "application_link": null
+}

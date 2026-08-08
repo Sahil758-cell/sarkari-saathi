@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Kerala Biotechnology Re-Entry Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold a Ph.D., M.D., or equivalent degree",
+    "Must have at least three years of post‑doctoral research experience in premier laboratories abroad",
+    "Must be an Indian national currently working overseas",
+    "Must be below 45 years of age (relaxable by 3 years for OBC and 5 years for SC/ST/PH candidates)",
+    "Selected candidates must execute an agreement and join the host institution within three months"
+  ],
+  "benefits_summary": "Monthly remuneration of ₹1,00,000 plus ₹18,500 HRA, with an annual research grant of ₹7.5 lakh for the first two years and ₹5 lakh for the next three years.",
+  "documents_required": [],
+  "application_link": null
+}

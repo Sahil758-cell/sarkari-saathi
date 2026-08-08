@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Marriage Assistance To Daughters Of Prisoners",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Either the father or the mother must be undergoing imprisonment for more than two years.",
+    "The applicant must be a native and resident of Kerala State.",
+    "The application must be submitted after six months of marriage and within one year period.",
+    "A maximum of two daughters from a family can receive financial assistance.",
+    "If the marriage grant has been sanctioned and the marriage is later dissolved or remarried, the grant becomes ineligible."
+  ],
+  "benefits_summary": "Maximum financial assistance of ₹30,000 per daughter for marriage.",
+  "documents_required": [],
+  "application_link": null
+}

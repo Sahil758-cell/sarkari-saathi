@@ -1,0 +1,30 @@
+{
+  "scheme_name": "West Bengal Migrant Workers’ Welfare Scheme: Accidental Disability",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of West Bengal",
+    "Applicant must be a migrant worker employed outside West Bengal or outside India",
+    "Applicant must be registered with the West Bengal Migrant Workers’ Welfare Board",
+    "Disability must be at least 40% and caused by an accident during work",
+    "Disability must be certified by a Government Hospital",
+    "Registration must be renewed annually"
+  ],
+  "benefits_summary": "One-time assistance of ₹50,000 for 40‑80% disability and ₹1,00,000 for more than 80% disability.",
+  "documents_required": [
+    "Disability certificate from Government Hospital"
+  ],
+  "application_link": null
+}

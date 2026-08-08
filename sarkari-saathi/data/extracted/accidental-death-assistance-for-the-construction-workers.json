@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Accidental Death Assistance for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year",
+    "Nominee/dependent must be of a registered member who died due to an accident during employment"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,00,000 is provided to nominees/dependents of members who die due to an accident during employment.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Father Name",
+    "Mother Name",
+    "Photograph",
+    "Applicant’s Video",
+    "Proof of 90 Days Employment",
+    "Affidavit of the Applicant"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Haryana Post Matric Scholarship For Minority",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Muslim, Christian, Sikh, Buddhist, Jain, or Zoroastrian (Parsi) community.",
+    "Minimum of 50% marks in the previous final examination.",
+    "Must be a regular student in a government or private higher secondary school, college, or university.",
+    "Must not be receiving any other scholarship for the same purpose.",
+    "Preference is given to students from BPL families.",
+    "30% of scholarships are earmarked for girl students."
+  ],
+  "benefits_summary": "Provides admission and tuition fee reimbursement plus a monthly maintenance allowance (up to ₹1,200) for eligible minority students.",
+  "documents_required": [],
+  "application_link": null
+}

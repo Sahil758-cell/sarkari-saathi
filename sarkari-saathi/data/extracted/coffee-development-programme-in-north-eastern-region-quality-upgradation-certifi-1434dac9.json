@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Drying Yards",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have availed benefits during the XII plan."
+  ],
+  "benefits_summary": "75% subsidy on drying yard construction, up to ₹15,000 for holdings up to 2 ha and up to ₹45,000 for holdings of 2 ha or more.",
+  "documents_required": [],
+  "application_link": null
+}

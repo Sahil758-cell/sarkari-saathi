@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Delhi Ladli Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The girl must be born in Delhi as shown by the birth certificate issued by the Registrar (Births & Deaths), MCD/NDMC",
+    "The applicant must be a bonafide resident of the National Capital Territory of Delhi for at least three years preceding the date of birth of the girl child",
+    "Annual family income must not exceed ₹1,00,000",
+    "If the girl is school‑going, her school must be recognized by the Delhi Government/MCD/NDMC",
+    "The benefit is limited to two surviving girls per family",
+    "The application must be submitted within 90 days of admission for school‑going girls or within one year of birth for newborns"
+  ],
+  "benefits_summary": "Provides financial assistance to girl children in the form of term deposits of ₹11,000 (institutional delivery) or ₹10,000 (home delivery) at birth and ₹5,000 at key educational milestones up to Class 12.",
+  "documents_required": [
+    "Birth certificate issued by the Registrar (Births & Deaths), MCD/NDMC",
+    "School recognition certificate (if school‑going)",
+    "Duly filled and signed application form"
+  ],
+  "application_link": "http://www.wcddel.in/pdf/LadliFormOct2015.pdf"
+}

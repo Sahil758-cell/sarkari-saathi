@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Intellectual Property Right Scheme Under MSME Innovative Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a registered micro, small or medium enterprise",
+    "Must have a valid Udyog Aadhaar Memorandum (UAM) or Udyam Registration certificate"
+  ],
+  "benefits_summary": "Grants up to ₹1 crore for IP facilitation centres and reimbursement up to ₹5 lakh for foreign patents, ₹1 lakh for domestic patents, ₹2 lakh for GI registration and ₹15,000 for design registration.",
+  "documents_required": [
+    "Udyog Aadhaar Memorandum (UAM) or Udyam Registration certificate"
+  ],
+  "application_link": "https://innovative.msme.gov.in/"
+}

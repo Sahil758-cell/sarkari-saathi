@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Bharati Scheme for Education - Professional Education Course",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student and parents must belong to the Brahmin community",
+    "Student must be enrolled in any recognized and reputed college anywhere in India",
+    "Parents must be residing in Andhra Pradesh",
+    "Student must have cleared all subjects of the previous year",
+    "Student must be enrolled in the Praja Sadhikara Survey (PSS)",
+    "Student must not have availed any amount under any other government scheme for the same purpose",
+    "Students benefiting from Archaka Welfare Trust are also eligible"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 per academic year for professional education courses.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Vyavsayik Pathyakram Margdarshan Evam Utpreran Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Backward Class (BC) or Extremely Backward Class (EBC) categories.",
+    "Applicant must meet the minimum educational qualifications required for the chosen competitive examination.",
+    "Selection will be based on a multiple‑choice written test following the prescribed syllabus."
+  ],
+  "benefits_summary": "Free coaching in renowned career guidance centers (no hostel provision).",
+  "documents_required": [
+    "Application form",
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

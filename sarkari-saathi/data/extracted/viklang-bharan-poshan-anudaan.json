@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Viklang Bharan Poshan Anudaan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability must be at least 40 percent as certified by the Chief Medical Officer.",
+    "Candidate must have no source of income or a monthly income not exceeding Rs. 4000.",
+    "Candidate may belong to a BPL (Below Poverty Line) family.",
+    "If the candidate’s son or grandson is over 20 years old but lives below the poverty line, the candidate is eligible for the grant."
+  ],
+  "benefits_summary": "Eligible disabled persons receive a monthly pension of Rs. 1500, with additional allowances for leprosy‑free individuals, parents of disabled children (Rs. 700 per month for ages 0‑18), and mentally handicapped spouses.",
+  "documents_required": [
+    "Disability certificate issued by the Chief Medical Officer"
+  ],
+  "application_link": "https://socialwelfare.uk.gov.in"
+}

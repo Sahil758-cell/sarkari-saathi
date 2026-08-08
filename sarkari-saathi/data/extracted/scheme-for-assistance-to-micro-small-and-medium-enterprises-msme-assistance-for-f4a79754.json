@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Raising Capital through SME Exchange",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must be registered as an MSME at the time of listing.",
+    "The MSME must have successfully raised equity capital through the SME Exchange.",
+    "The enterprise must apply within one year of the listing date.",
+    "The fundraising should be as per the approved scheme by the SME Exchange."
+  ],
+  "benefits_summary": "Provides up to 25% reimbursement (maximum ₹5 lakh) of expenses incurred in raising equity capital through the SME Exchange.",
+  "documents_required": [],
+  "application_link": null
+}

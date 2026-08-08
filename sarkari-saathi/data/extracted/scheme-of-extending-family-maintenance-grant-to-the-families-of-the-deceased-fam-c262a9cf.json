@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme of Extending Family Maintenance Grant to the Families of the Deceased Famous Artists",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the legal heir of the deceased famous artist.",
+    "The deceased must have been a famous artist in the disciplines of music, drama, dance, film, or folk arts.",
+    "The benefit is provided only upon the death of the famous artist."
+  ],
+  "benefits_summary": "One-time maintenance grant of ₹25,000.",
+  "documents_required": [],
+  "application_link": null
+}

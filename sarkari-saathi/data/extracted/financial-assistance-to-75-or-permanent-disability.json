@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Financial Assistance to 75% or Permanent Disability",
+  "occupation": [
+    "building or construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "must be registered under the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW)",
+    "must have a disability of 75% or more (permanent)"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹2,00,000 to registered workers with 75% or more permanent disability.",
+  "documents_required": [],
+  "application_link": null
+}

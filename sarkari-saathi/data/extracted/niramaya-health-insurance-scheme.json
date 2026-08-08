@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Niramaya Health Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have at least one disability covered under the National Trust Act, 1999 (e.g., Autism, Cerebral Palsy, Mental Retardation, Multiple Disabilities) and possess a valid disability certificate."
+  ],
+  "benefits_summary": "Provides up to ₹1,00,000 annual health insurance coverage for disabled persons, covering OPD treatments, surgeries, therapies, alternative medicines, and related expenses.",
+  "documents_required": [
+    "Valid disability certificate"
+  ],
+  "application_link": "https://www.rakshatpa.com/WebPortal"
+}

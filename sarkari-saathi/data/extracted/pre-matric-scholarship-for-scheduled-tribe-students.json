@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pre Matric Scholarship For Scheduled Tribe Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student studying in Class 9th or Class 10th.",
+    "Must not be receiving any other government scholarship.",
+    "Scholarship is available only for studies in India and for one year.",
+    "Must be enrolled in a government school or a school recognized by the government or a central/state board of secondary education."
+  ],
+  "benefits_summary": "Provides a monthly stipend of ₹225 for day scholars or ₹525 for hostellers, plus annual book and ad‑hoc grants, with additional allowances for students with disabilities.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme for Relief and Rehabilitation of Women Acid Victims",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a girl/woman who is a victim of an acid attack",
+    "The acid attack must have occurred on or after 02.05.2011",
+    "The acid attack must have taken place within Haryana",
+    "Applicant must be a resident of Haryana",
+    "Applicant should not have been fully cured or completed all medical procedures, i.e., ongoing treatment is required"
+  ],
+  "benefits_summary": "Provides a total ad‑hoc relief of ₹1,00,000 (₹25,000 immediately and ₹75,000 within 15 days) and 100% free medical treatment including medicines, food, bedding and necessary surgeries.",
+  "documents_required": [],
+  "application_link": null
+}

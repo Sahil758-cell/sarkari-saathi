@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Financial Support to MSMEs in ZED Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro/Small/Medium enterprise.",
+    "The enterprise must be in the manufacturing sector.",
+    "The MSME should apply for ZED certification under the scheme.",
+    "The MSME must comply with government environmental and quality regulations."
+  ],
+  "benefits_summary": "Provides a 50% subsidy on ZED certification charges up to ₹50,000, encouraging quality and energy‑efficient manufacturing.",
+  "documents_required": [],
+  "application_link": null
+}

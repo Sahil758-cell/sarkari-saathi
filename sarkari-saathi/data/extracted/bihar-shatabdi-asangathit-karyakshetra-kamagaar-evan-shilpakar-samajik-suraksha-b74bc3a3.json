@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Medical Assistance for Incurable Diseases",
+  "occupation": [
+    "worker",
+    "craftsman"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must work in the unorganized sector within Bihar.",
+    "Age is calculated as of 1st July of any year."
+  ],
+  "benefits_summary": "Provides financial assistance of ₹7,500 to ₹30,000 for medical treatment of incurable diseases.",
+  "documents_required": [],
+  "application_link": null
+}

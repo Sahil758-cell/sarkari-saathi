@@ -1,0 +1,24 @@
+{
+  "scheme_name": "AGR 2 (Farm Mechanization) Scheme Of Farmers Other Than SC/ST)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a permanent resident of Gujarat state.",
+    "The beneficiary must be a farmer who is not classified as SC or ST.",
+    "The farmer must reside in talukas where the Submissions on Agricultural Mechanization (SMAM) scheme has NOT been implemented (i.e., outside the 208 talukas where SMAM is active).",
+    "The purchase must be made from an authorized manufacturer listed in the panels prepared for periodic prize discovery by the Agriculture department."
+  ],
+  "benefits_summary": "Provides financial assistance for the purchase of agricultural equipment, with higher assistance for small, marginal, and women farmers.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx"
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Financial Assistance On Marriage Of Children (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered under the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
+    "The registered worker must have a minimum of one year regular membership.",
+    "The worker must possess an attested marriage card of his/her son or daughter.",
+    "The worker must submit the marriage certificate in writing within six months to the concerned Assistant Director; failure to do so makes them ineligible for future welfare benefits.",
+    "The worker must provide an undertaking/self‑declaration that they have not received this assistance from any other government department, board or corporation.",
+    "Financial assistance is payable for the marriage of up to two children of the beneficiary, but can be extended to three daughters."
+  ],
+  "benefits_summary": "Financial assistance of ₹21,000 for a son's marriage and ₹50,000 for a daughter's marriage, payable for up to two children (extendable to three daughters).",
+  "documents_required": [
+    "Attested marriage card of the son/daughter",
+    "Undertaking/self‑declaration that assistance has not been received from any other government department/board/corporation"
+  ],
+  "application_link": null
+}

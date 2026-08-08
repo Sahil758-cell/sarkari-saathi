@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Festival Gift Coupons (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex‑Serviceman or the widow of an Ex‑Serviceman",
+    "Ex‑Serviceman must be a Non‑Pensioner",
+    "Ex‑Serviceman must be registered with the Department of Sainik Welfare, Puducherry",
+    "Widows have no age restriction",
+    "Scheme also applies to those Ex‑Servicemen or their living spouses/widows who are re‑employed as regular or deemed‑regular in Government, Public Sector Undertakings, Private Organizations, or are self‑employed in IT"
+  ],
+  "benefits_summary": "Festival Gift Coupons worth ₹4,000 per annum.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

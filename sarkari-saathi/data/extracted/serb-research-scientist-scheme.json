@@ -1,0 +1,31 @@
+{
+  "scheme_name": "SERB Research Scientist Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Open only to INSPIRE Faculty and Ramanujan Fellows",
+    "Applicant must have completed or be nearing completion of the INSPIRE Faculty or Ramanujan Fellowship tenure",
+    "Upper age limit is 40 years at the time of application",
+    "Scheme can be availed only once in a career",
+    "Application must be submitted within six months before or after completion of the regular tenure",
+    "Host institution must be a recognized academic, national laboratory, or R&D institution in India",
+    "Candidate cannot work at the same department/institution where they earned their PhD/M.S./M.D degree",
+    "The scheme is temporary and contractual for 2 years, extendable to a third year based on performance",
+    "No other research project/fellowship from any government or NGO is allowed during the scheme",
+    "Consent from SERB required for continuous absence of more than eight weeks away from the host institute"
+  ],
+  "benefits_summary": "Provides a monthly emolument of ₹1,20,000, an annual research grant of ₹7,00,000 and ₹1,00,000 overheads for up to two years (extendable to three).",
+  "documents_required": [
+    "Three printed copies of the application (A4, double‑sided)",
+    "Soft copy of the proposal (emailed to harishkumar@nic.in)"
+  ],
+  "application_link": null
+}

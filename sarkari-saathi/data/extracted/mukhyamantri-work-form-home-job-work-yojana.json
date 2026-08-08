@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Work Form Home-Job Work Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Preference is given to widows, abandoned, divorced women, disabled women, and victims of violence."
+  ],
+  "benefits_summary": "Training incentive of ₹3,000 per trainee for work‑from‑home jobs paying over ₹5,000, plus free advertisement of private units on the portal.",
+  "documents_required": [
+    "Jan-Aadhaar Number",
+    "Aadhaar Number"
+  ],
+  "application_link": null
+}

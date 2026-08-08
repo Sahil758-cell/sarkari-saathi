@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Assistance on Death- Haryana Silicosis Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the widow, widower, or nominee of the deceased worker.",
+    "The deceased worker must have been suffering from silicosis as confirmed by the Silicosis Diagnosis Board, Haryana.",
+    "The deceased worker must have been employed in a factory or at a construction site."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,00,000 is provided to the widow, widower, or nominee of a deceased silicosis victim.",
+  "documents_required": [
+    "medical certificates",
+    "proof of identity",
+    "certificate of being the widow/widower or nominee"
+  ],
+  "application_link": null
+}

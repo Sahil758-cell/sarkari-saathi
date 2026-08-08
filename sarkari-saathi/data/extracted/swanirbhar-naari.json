@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Swanirbhar Naari",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The weaver must have at least one handloom in their household",
+    "The weaver must have a valid bank account with Core Banking Solution (CBS)",
+    "The weaver should possess a valid yarn passbook issued by the Directorate of Handloom & Textiles, Assam (if available)",
+    "The weaver must undergo physical field verification by departmental officials"
+  ],
+  "benefits_summary": "Provides direct procurement and online payments to indigenous weavers, eliminating middlemen and enhancing their earnings, along with skill upgradation and modern technology integration.",
+  "documents_required": [
+    "Aadhaar number",
+    "Yarn passbook issued by the Directorate of Handloom & Textiles, Assam (if available)"
+  ],
+  "application_link": "https://swanirbharnaari.assam.gov.in"
+}

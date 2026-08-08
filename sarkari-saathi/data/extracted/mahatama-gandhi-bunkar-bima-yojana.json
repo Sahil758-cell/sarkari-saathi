@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mahatama Gandhi Bunkar Bima Yojana",
+  "occupation": [
+    "weaver"
+  ],
+  "gender": "any",
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Weaver must earn at least 50% of their income from handloom weaving",
+    "Weaver must be a member of State Handloom Development Corporations/Apex/Primary Handloom Weavers’ Cooperative Societies or obtain a certificate from the State Directorate of Handlooms confirming eligibility",
+    "Scholarship is limited to a maximum of two children per member and is payable only while the parent’s premium is up‑to‑date"
+  ],
+  "benefits_summary": "Provides life and disability insurance (₹60,000 for natural death, ₹1,50,000 for accidental death or total disability, ₹75,000 for partial disability) and a scholarship of ₹600 per six months for up to two children of the insured weaver.",
+  "documents_required": [
+    "Application‑cum nomination form",
+    "Certificate from State Directorate of Handlooms (for non‑member applicants)",
+    "Self‑certification (no medical certificate required)",
+    "Death certificate/post‑mortem report/medical certificate/discharge certificate (for claim)"
+  ],
+  "application_link": null
+}

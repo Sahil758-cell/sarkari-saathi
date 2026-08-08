@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Pragatishil Pashupalak Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual cattle farmer (not a group, firm, or organization).",
+    "Eligible cows must be indigenous breeds such as Gir, Sahiwal, Haryana, Gangatiri, or Tharparkar.",
+    "Benefit can be claimed for a maximum of two cows per farmer.",
+    "Incentive can be received only once in the lifetime of each cow.",
+    "Application must be submitted within 45 days of the cow's calving."
+  ],
+  "benefits_summary": "Cash award of ₹10,000‑₹15,000 per cow for high productivity and improved breeds.",
+  "documents_required": [],
+  "application_link": null
+}

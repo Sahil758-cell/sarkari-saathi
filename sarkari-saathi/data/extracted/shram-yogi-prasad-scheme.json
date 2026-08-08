@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Shram Yogi Prasad Scheme",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "U.T. Administration of Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of the U.T. Administration of Dadra and Nagar Haveli and Daman and Diu",
+    "Applicant must be a registered member under the Building and Other Construction Workers Welfare Board of the U.T.",
+    "Applicant must have engaged in any building or other construction work for at least 90 days in a given year"
+  ],
+  "benefits_summary": "Provides mid‑day meal and breakfast to registered construction workers at a concessional rate of ₹5 per worker per day.",
+  "documents_required": [],
+  "application_link": null
+}

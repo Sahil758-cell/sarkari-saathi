@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Marketing Assistance Scheme",
+  "occupation": [
+    "leather artisan"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to one of the sub‑castes: Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka (all schedule castes)",
+    "Annual family income must not exceed ₹30,000 in rural areas and ₹25,000 in urban areas",
+    "Applicant or any family member must not have received benefits from other schemes, except training programs",
+    "Family members must not be employed in government or semi‑government organizations"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000‑₹1,00,000 worth of procurement per artisan.",
+  "documents_required": [],
+  "application_link": null
+}

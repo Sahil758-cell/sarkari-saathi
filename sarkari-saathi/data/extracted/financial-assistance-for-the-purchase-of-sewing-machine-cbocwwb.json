@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance for the Purchase of Sewing Machine (CBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be working in an establishment registered under the Punjab Labour Welfare Fund Act, 1965 and have regular contributions received by the Board",
+    "Assistance is only for the spouse of a registered male construction worker or a female construction worker (once in a lifetime)",
+    "Applicant must be a member of the Board for at least 6 months before applying",
+    "Application must be submitted within one year of eligibility",
+    "Original purchase bill must be presented and verified by the employer"
+  ],
+  "benefits_summary": "A one‑time financial assistance of ₹3500 is provided to the spouse for purchasing a sewing machine.",
+  "documents_required": [
+    "Original purchase bill (verified by employer)",
+    "Clear picture of both sides of Aadhaar Card",
+    "Clear picture of Bank Passbook",
+    "Clear pictures of all pages of the BOCW copy issued by the Board",
+    "All mandatory annexures as required by the application process"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

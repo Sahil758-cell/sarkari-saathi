@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Maternity Benefit for Women Beneficiaries",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered woman construction worker under the Nagaland Building and Other Construction Workers' Welfare Board or the wife of a registered male worker.",
+    "Must be pregnant.",
+    "Benefit is available for the first two live births (up to two times)."
+  ],
+  "benefits_summary": "Financial assistance of ₹6,000 per pregnancy, available for up to two live births.",
+  "documents_required": [],
+  "application_link": null
+}

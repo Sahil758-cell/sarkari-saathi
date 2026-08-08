@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Bidya Lakshmi Loan",
+  "occupation": [
+    "State Government Employee"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parent must be a regular, in‑service State Government Employee of Assam",
+    "Parent must have at least 5 years of residual pensionable service",
+    "Employee must have a salary account with check‑off facility for EMI deductions",
+    "Employee must be a co‑borrower in the loan application and his/her name must appear alongside the child’s",
+    "Child must be admitted to a UGC/AICTE/government‑approved institution in Assam, elsewhere in India or a premier institution abroad",
+    "Child must be pursuing one of the approved courses (Engineering, Medical, Agriculture, Veterinary, Law, Dental, Management, Computer Science, CA, ICWA, CFA, MCA, MS, professional/technical courses, or PhD)",
+    "Child must be a co‑borrower and his/her name must appear alongside the parent’s in the loan application",
+    "Utilization certificate must be submitted at the end of the financial year",
+    "No collateral security or third‑party guarantee required for loans up to ₹10,00,000"
+  ],
+  "benefits_summary": "Provides loans of ₹5‑10 lakhs at a 4% interest rate, with full subsidy for lower‑income employees under the Credit Linked Subsidy Scheme.",
+  "documents_required": [
+    "prescribed application form",
+    "mandatory documents (as required)",
+    "written undertaking for EMI deduction",
+    "check‑off letter"
+  ],
+  "application_link": null
+}

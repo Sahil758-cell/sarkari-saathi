@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Educational Assistance For Children Of Victims Of Crime",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native and resident of Kerala.",
+    "Applicant must be a child or dependent of a crime survivor (victim).",
+    "Child must be pursuing education from class 1 onward, with eligibility for degree‑level and higher courses in government or aided institutions, or merit seats in unaided institutions.",
+    "If assistance is granted for one year, it can be continued in subsequent years upon certification by the head of the school/college that the child will continue education."
+  ],
+  "benefits_summary": "Provides annual financial assistance ranging from ₹3,000 for classes 1‑5 up to ₹15,000 for PG/M.Phil students.",
+  "documents_required": [],
+  "application_link": null
+}

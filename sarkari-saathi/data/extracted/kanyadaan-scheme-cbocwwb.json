@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Kanyadaan Scheme (CBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be working in an establishment registered under the Punjab Labour Welfare Fund Act, 1965 and have regular contributions to the labour welfare fund",
+    "Applicant must have been a member of the Chandigarh Building and Other Construction Workers Welfare Board for at least 6 months",
+    "Beneficiary must not have previously claimed similar benefits under Central or State government schemes",
+    "If both father and daughter work in the same establishment, the benefit will be granted to only one of them",
+    "A valid Marriage Registration Certificate must be produced",
+    "Benefit is limited to two daughters per applicant",
+    "Application must be submitted within three months from the date of marriage",
+    "Female registered workers are eligible to receive the benefit on the eve of their own self‑marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹21,000 is provided to registered workers on the marriage of their daughter or for the self‑marriage of female workers.",
+  "documents_required": [
+    "Marriage Registration Certificate",
+    "Aadhaar Card (both sides)",
+    "Bank Passbook",
+    "BOCW Copy (all filled pages)"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

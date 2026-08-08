@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Ishan Uday Special Scholarship Scheme For North Eastern Region",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of North Eastern Region",
+    "Parental annual income must not exceed ₹4,50,000 per annum",
+    "Must have passed Class 12th or equivalent in the preceding year of study",
+    "Must have secured admission in the first year of any degree course",
+    "Scholarship is limited to general degree, technical, professional, medical or paramedical courses at institutions recognized under UGC Act (Section 2(f) & 12 B, deemed universities, government‑funded institutions, institutes of national importance, or other statutory council‑recognized institutions) that have an AISHE code",
+    "Renewal is subject to good conduct, prescribed attendance and submission of an annual progress report",
+    "Change of course of study results in forfeiture of the scholarship",
+    "Transgender candidates are eligible to apply",
+    "Reservations for SC, ST, OBC, EWS, general and Persons with Disability will be as per Government of India norms"
+  ],
+  "benefits_summary": "Provides monthly scholarship of ₹5,400 for general degree courses and ₹7,800 for technical/medical/professional courses to eligible NE students.",
+  "documents_required": [],
+  "application_link": null
+}

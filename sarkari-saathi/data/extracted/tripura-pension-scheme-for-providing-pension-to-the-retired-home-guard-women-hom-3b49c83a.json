@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Tripura Pension Scheme For Providing Pension To The Retired Home Guard / Women Home Guard Volunteers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Retired Home Guard or Women Home Guard Volunteer",
+    "Must have completed a minimum of 20 years of service",
+    "Retirement must be on superannuation or medical invalidation only",
+    "Applicants receiving pensions from other sources (except social pensions) are not eligible",
+    "Pension will be credited only to a bank account that the pensioner must open"
+  ],
+  "benefits_summary": "Pension of ₹750 per month per person.",
+  "documents_required": [],
+  "application_link": null
+}

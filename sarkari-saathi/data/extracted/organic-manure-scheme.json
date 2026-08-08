@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Organic Manure Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide farmer engaged in agriculture.",
+    "Applicant must have sufficient available cultivable land."
+  ],
+  "benefits_summary": "Training and awareness on production of organic composts.",
+  "documents_required": [],
+  "application_link": null
+}

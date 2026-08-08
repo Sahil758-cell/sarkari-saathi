@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Home for Mentally Challenged Children",
+  "occupation": null,
+  "gender": "male",
+  "age_min": 7,
+  "age_max": 17,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Male children aged 7 to 17 years",
+    "Mild mental retardation with IQ level between 50-70",
+    "Moderate mental retardation with IQ level between 35-49",
+    "Severe mental retardation with IQ level between 20-34",
+    "Profound mental retardation with IQ level under 20",
+    "Unspecified mental retardation with mental efficiency and sub‑normality"
+  ],
+  "benefits_summary": "Free boarding, lodging, uniform sets, daily living needs, medical check‑ups and educational/recreational activities for eligible children.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

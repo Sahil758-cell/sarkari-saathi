@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Integrated Agriculture Training Centre Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must be a permanent resident of Meghalaya"
+  ],
+  "benefits_summary": "The scheme conducts trainings and awareness programmes for farmers to enhance their skills and update agricultural technologies.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Tirth Yatra Yojana - Delhi",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant or spouse must be a resident of the National Capital Territory of Delhi",
+    "Applicant must not be employed with Central/State Government or Local/Autonomous bodies",
+    "Applicant or spouse must not have previously availed the scheme",
+    "Attendant (if chosen) must be older than 21 years"
+  ],
+  "benefits_summary": "The Delhi government provides free travel, food, accommodation and related expenses for senior citizens (60+) and a single attendant.",
+  "documents_required": [
+    "ID proof",
+    "Document proof"
+  ],
+  "application_link": "https://edistrict.delhigovt.nic.in"
+}

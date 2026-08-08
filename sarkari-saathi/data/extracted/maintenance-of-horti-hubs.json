@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Maintenance of Horti Hubs",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must own or lease land of at least 0.2 hectares."
+  ],
+  "benefits_summary": "Provides demonstration and training on hi‑tech floriculture and renovation/repair of old horticulture hubs for eligible farmers.",
+  "documents_required": [],
+  "application_link": null
+}

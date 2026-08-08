@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Development and Maintenance of Orchard Cum Horti Nurseries",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Meghalaya",
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must own or lease land of at least 200 sq ms"
+  ],
+  "benefits_summary": "Provides training, awareness and technology support along with the production of high‑yielding, disease‑free planting material for farmers.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Homes For Intellectually Impaired Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be an orphan",
+    "Applicant must be a permanent resident of Maharashtra State",
+    "Applicant must be a Mentally Deficient Child (MDC) in need of care and protection",
+    "Disability percentage must be 40% or above"
+  ],
+  "benefits_summary": "Free shelter, food, and care & protection are provided to admitted children.",
+  "documents_required": [
+    "Hard copy of the application form",
+    "Passport-sized photograph (signed across)",
+    "Self-attested mandatory documents"
+  ],
+  "application_link": null
+}

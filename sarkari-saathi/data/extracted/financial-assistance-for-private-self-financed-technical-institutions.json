@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistance for Private Self-Financed Technical Institutions",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be a registered private self‑financed engineering or polytechnic institute in Jharkhand",
+    "Institution must have been operational for at least 5 years with audited financial statements",
+    "Institution must have AICTE approval and affiliation with the State Board of Technical Education, Jharkhand or a recognized university",
+    "Institution must comply with AICTE norms, including qualified faculty and proper infrastructure",
+    "At least 60% of seats must be reserved for local students of Jharkhand",
+    "Second installment requires two NBA‑accredited courses and third installment requires four NBA‑accredited courses"
+  ],
+  "benefits_summary": "Grants up to ₹2 crore for new private engineering institutions, ₹1 crore for new private polytechnics, up to ₹6 crore for existing engineering institutions, and up to ₹3 crore for existing polytechnics, disbursed in three equal installments.",
+  "documents_required": [],
+  "application_link": null
+}

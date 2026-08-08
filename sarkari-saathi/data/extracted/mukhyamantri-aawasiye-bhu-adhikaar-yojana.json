@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Aawasiye Bhu-Adhikaar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "The applicant family does not have a residence to live independently.",
+    "The applicant family has less than 5 acres of land.",
+    "The applicant family holds the eligibility slip for obtaining ration from the Public Distribution System (PDS) shop.",
+    "No member of the applicant family is an income‑tax payer.",
+    "No member of the applicant family is in government service.",
+    "The name of the applicant is registered in the voter list till 01 January 2021 in the village where the residential plot is sought."
+  ],
+  "benefits_summary": "Plots are provided to families that do not have their own house.",
+  "documents_required": [],
+  "application_link": null
+}

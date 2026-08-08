@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Vishesh Yogyajan Swaraozgar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a specially‑abled person as per the Persons with Disabilities Act, 1995 with a minimum disability of 40% or more",
+    "Applicant must not have availed benefits under any other self‑employment subsidy scheme such as “Kiyosk Yojana”",
+    "Applicant must not have any overdue loans from banks, cooperative societies, or government institutions",
+    "Applicant must possess a valid disability certificate and passbook"
+  ],
+  "benefits_summary": "Up to ₹5,00,000 loan with a subsidy of up to 50% (maximum ₹50,000) for self‑employment.",
+  "documents_required": [
+    "Valid disability certificate",
+    "Passbook"
+  ],
+  "application_link": null
+}

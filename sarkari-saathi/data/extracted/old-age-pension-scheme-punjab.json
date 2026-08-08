@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Old Age Pension Scheme - Punjab",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Men must be at least 65 years old",
+    "Women must be at least 58 years old",
+    "Beneficiary must own up to 2.5 acres of Nehri or Chahi land, or up to 5 acres of Barani land, or up to 5 acres of waterlogged land"
+  ],
+  "benefits_summary": "₹1,500 per month transferred directly to the beneficiary's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

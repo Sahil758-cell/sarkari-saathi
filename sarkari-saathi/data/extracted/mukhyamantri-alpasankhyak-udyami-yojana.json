@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Alpasankhyak Udyami Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Minority community.",
+    "Applicant should have passed at least 10+2, Intermediate, ITI, Polytechnic Diploma, or equivalent.",
+    "Business unit must be a proprietorship or partnership firm.",
+    "Women belonging to the minority community may choose between this scheme and Mukhyamantri Mahila Udyami Yojana."
+  ],
+  "benefits_summary": "Up to ₹10,00,000 financial assistance, with 50% provided as a non‑repayable grant and 50% as an interest‑free loan, plus mandatory skill‑development training.",
+  "documents_required": [],
+  "application_link": null
+}

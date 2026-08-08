@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Swabhimaan Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Daman & Diu",
+    "Dadra & Nagar Haveli"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of the Union Territory of Daman & Diu or Dadra & Nagar Haveli",
+    "Pregnant women and lactating mothers of any age are eligible",
+    "Adolescent girls must be in the age group of 11‑14 years"
+  ],
+  "benefits_summary": "Monthly take‑home ration of 7.5 kg of nutritious food (wheat, rice, pulses, jaggery, fortified oil and salt) provided to eligible pregnant women, lactating mothers and adolescent girls.",
+  "documents_required": [],
+  "application_link": null
+}

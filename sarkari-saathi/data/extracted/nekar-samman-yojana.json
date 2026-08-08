@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Nekar Samman Yojana",
+  "occupation": [
+    "weaver"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Karnataka and possess a valid resident certificate",
+    "Must be engaged in handloom, power loom, or ancillary activities such as cotton, wool, or silk",
+    "Must be a financially distressed worker in the handloom/textile sector",
+    "Must have an active bank account",
+    "Must be registered on the Seva Sindhu portal of Karnataka"
+  ],
+  "benefits_summary": "Eligible weavers receive an annual financial assistance of Rs.2000 (increased to Rs.5000 for 2022‑23) transferred via Direct Benefit Transfer.",
+  "documents_required": [
+    "resident certificate"
+  ],
+  "application_link": null
+}

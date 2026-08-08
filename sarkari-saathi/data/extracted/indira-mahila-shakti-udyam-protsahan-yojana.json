@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Indira Mahila Shakti Udyam Protsahan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Rajasthan",
+    "The applicant’s self‑help group or cluster/federation must be registered under any department of the state government; clusters/federations must be registered under the Cooperative Act",
+    "Eligibility category noted in source: widows",
+    "Eligibility category noted in source: abandoned women",
+    "Eligibility category noted in source: victims of violence",
+    "Eligibility category noted in source: disabled women"
+  ],
+  "benefits_summary": "Provides women entrepreneurs in Rajasthan with loans up to ₹50  lakh for individuals and up to ₹1  crore for self‑help groups, along with margin money of 25‑30% of the sanctioned amount.",
+  "documents_required": [],
+  "application_link": null
+}

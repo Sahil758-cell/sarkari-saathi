@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Mukhyamantri Bagwani Mission: Kela Vikas Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Bihar.",
+    "Must be from one of the following districts: Arwal, Bhojpur, Buxar, Gopalganj, Jehanabad, Kaimur, Lakhisarai, Madhepura, Nawada, Saran, Shivhar, Sitamarhi, Siwan, Supaul, Sheikhpura.",
+    "Must have agricultural land between 0.25 acres (0.1 ha) and 10 acres (4 ha).",
+    "Must be registered on the DBT portal.",
+    "Ryot farmers require land documents; non‑ryot farmers require a contract form."
+  ],
+  "benefits_summary": "Provides financial assistance of ₹46,875 per hectare in the first year and ₹15,625 per hectare in the second year, along with supply of high‑quality tissue‑cultured plantain plants.",
+  "documents_required": [
+    "Land documents",
+    "Contract form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Grant of Stipend to Differently Abled Trainees",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have undertaken a full-time vocational training course in a recognized vocational training centre, workshop, ITI, or any other institution sanctioned by the Central/State Government, local body, or voluntary organization."
+  ],
+  "benefits_summary": "Monthly stipend of ₹1,000.",
+  "documents_required": [
+    "Completed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

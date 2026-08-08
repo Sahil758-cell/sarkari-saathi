@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mahila Samridhi Yojana (Maharashtra)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have knowledge of the business for which the loan is being applied",
+    "Widows and divorcees are given priority",
+    "For the NSFDC scheme, annual income must be below ₹98,000 for rural areas or ₹1,20,000 for urban areas",
+    "For the 50% Subsidy Scheme and Margin Money, applicant's annual income must be below the poverty line"
+  ],
+  "benefits_summary": "Loan of ₹25,000 to ₹50,000 provided at a low interest rate of 4% per annum.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

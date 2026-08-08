@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Saphalam Scheme For Transgender Students Pursuing Professional Courses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be transgender.",
+    "Applicant must be a resident of Kerala.",
+    "Must have secured admission in merit seats in government, aided or self‑financing colleges.",
+    "Eligible courses include MBBS, Bachelor of Veterinary Science (BVSc), BSc Agriculture in government colleges, and any diploma‑level government‑accredited professional courses.",
+    "For applicants aged 18 years or above, a copy of the Transgender ID card must be submitted.",
+    "For applicants below 18 years, a self‑declaration statement certified by the Head of Institution or parent must be submitted."
+  ],
+  "benefits_summary": "Up to ₹1,00,000 per year in financial assistance for transgender students pursuing degree or diploma professional courses.",
+  "documents_required": [
+    "Transgender ID card (copy)",
+    "Self‑declaration statement certified by Head of Institution/Parent"
+  ],
+  "application_link": null
+}

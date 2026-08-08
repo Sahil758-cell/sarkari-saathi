@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Adi Dravidan and Tribal Welfare Department: Stationary-Text Books",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility category noted in source: Adi Dravidan",
+    "Eligibility category noted in source: Tribal"
+  ],
+  "benefits_summary": "Free textbooks for students from 1st to 12th standard.",
+  "documents_required": [],
+  "application_link": null
+}

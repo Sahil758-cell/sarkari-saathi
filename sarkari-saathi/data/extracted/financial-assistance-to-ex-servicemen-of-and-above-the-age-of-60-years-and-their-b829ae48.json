@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance to Ex-Servicemen of and above the Age of 60 Years and their Widows",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ex‑serviceman of other ranks (Havildar and below) or the widow of such an ex‑serviceman.",
+    "Applicant must not be receiving any pension, financial assistance, or maintenance allowance from any government department or organization.",
+    "Applicants discharged on the ground of \"Service No Longer Required\" due to misconduct or inefficiency are ineligible, as are their widows.",
+    "Beneficiaries must submit survival verification proof each year in the month of April.",
+    "If a beneficiary later receives any pension or other financial assistance, they will be permanently debarred from all welfare schemes of the Rajya Zila Sainik Boards in Haryana."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month (with an annual increase of ₹400) is provided to eligible ex‑servicemen and widows aged 60 years and above.",
+  "documents_required": [
+    "Domicile certificate issued by the competent authority authorized by the Haryana Government",
+    "Attested copy of the Ration Card"
+  ],
+  "application_link": null
+}

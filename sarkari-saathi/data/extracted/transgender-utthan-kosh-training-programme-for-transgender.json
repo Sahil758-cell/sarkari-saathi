@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Transgender Utthan Kosh - Training Programme for Transgender",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a transgender person",
+    "Applicant must meet the minimum age and educational qualification criteria set by the respective training institution",
+    "A maximum of two training courses can be availed under this scheme"
+  ],
+  "benefits_summary": "Provides vocational/technical training with training‑fee reimbursement and a monthly stipend of ₹5,000 for up to three months per course (maximum two courses).",
+  "documents_required": [],
+  "application_link": null
+}

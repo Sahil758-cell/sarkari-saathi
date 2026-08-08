@@ -1,0 +1,23 @@
+{
+  "scheme_name": "SERB - POWER Fellowship",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 35,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen",
+    "Must hold a Ph.D. degree in any branch of science and engineering",
+    "Must be in regular service throughout the duration of the Fellowship",
+    "Must not be receiving any other fellowships from Government sources during the tenure",
+    "Must be an active woman scientist with an excellent research record as an independent investigator"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹15,000 plus an annual research grant of ₹10 Lakhs.",
+  "documents_required": [],
+  "application_link": "https://www.serbonline.in"
+}

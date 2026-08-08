@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a 1st rank holder in a recognized university/post‑graduate level examination in basic or applied sciences (including engineering, pharmacy, agricultural, veterinary) or in medicine conducted by an Indian university/institution",
+    "The programme in which the rank was obtained must have a batch size of at least 07 students",
+    "Minimum aggregate of 70 % marks (or equivalent CGPA) in the entire course/program is required",
+    "INSPIRE scholars with at least 70 % marks (or equivalent CGPA) in M.Sc./Integrated M.S./M.Sc. are also eligible",
+    "Fellowship is only for pursuing a full‑time Ph.D. programme in any recognized university/institution/R&D laboratory in India",
+    "Fellow must keep DST updated on research progress and may not take any paid or unpaid assignment unrelated to the approved research programme",
+    "The fellow must complete the research work and submit the Ph.D. thesis, publications and any patents within the 5‑year tenure of the fellowship",
+    "The fellow must acknowledge DST support in all publications, patents and the Ph.D. thesis"
+  ],
+  "benefits_summary": "Provides a fellowship of up to five years for a full‑time Ph.D., including HRA as per GoI norms and a contingency grant of up to ₹20,000 per annum.",
+  "documents_required": [],
+  "application_link": "https://www.online-inspire.gov.in"
+}

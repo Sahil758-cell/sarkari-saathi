@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Subsidy Scheme on Establishment of 25 R.I.R. Bird’s unit 40 R.I.R. Bird’s Unit and Stipend for Poultry Farming Training",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "EWS"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Gujarat.",
+    "The applicant must belong to the Economically Weaker Section (EWS) or be a Divyang (person with disability) from Gujarat.",
+    "The applicant must have completed at least 6 days of poultry‑rearing training.",
+    "Preference is given to females and Below Poverty Line (BPL) applicants, but this is not mandatory."
+  ],
+  "benefits_summary": "Provides up to ₹6,000 in kind (25 R.I.R. birds and feed) for EWS beneficiaries, up to ₹10,800 in kind (40 R.I.R. birds and feed) for Divyang beneficiaries, and a stipend of up to ₹2,000 for training participants.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Share Capital to Local Entrepreneurs and Self Employed Scheme, 2008",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 44,
+  "max_annual_income": 80000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be resident of Goa for at least 15 years",
+    "Must be below 40 years of age (relaxed by 5 years for women, disabled persons, Scheduled Castes, Scheduled Tribes and Other Backward Classes)",
+    "Must have passed at least the 8th standard (relaxable by the Director of Industries)",
+    "Combined annual income of applicant and spouse must not exceed ₹80,000",
+    "Cannot have availed more than 15% subsidy under any other scheme",
+    "Cannot be covered under the Kamdhenu Scheme (except for dairy/dhilling units)"
+  ],
+  "benefits_summary": "Provides capital contribution up to ₹2  lakh for individuals (₹3  lakh for professionals) or ₹10  lakh for groups, covering 50% of project cost.",
+  "documents_required": [
+    "Self-attested copies of mandatory documents",
+    "Receipt of processing fee payment"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Guru Shishya Parampara",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Guru applicants must be eminent practitioners/resourceful persons in the specified art field",
+    "Guru applicants must be aged between 45 and 70 years",
+    "Guru applicants must be physically and mentally sound to run the Guru‑Shishya Parampara Kendra",
+    "Shishya applicants must be aged between 15 and 25 years",
+    "Persons who have previously availed a similar scheme from the Government of India or a State Government are not eligible",
+    "Applicants must appear in person for interviews and demonstrate efficiency in the field"
+  ],
+  "benefits_summary": "Selected Guru receives an honorarium of Rs. 7,500 per month, with one accompanist (Rs. 3,750 per month) and four Shishyas (Rs. 1,500 per month each) appointed for a one‑year term.",
+  "documents_required": [
+    "Bio‑data",
+    "Passport‑size photographs",
+    "Bank particulars"
+  ],
+  "application_link": null
+}

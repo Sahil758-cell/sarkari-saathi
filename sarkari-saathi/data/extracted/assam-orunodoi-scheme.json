@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Assam Orunodoi Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "rural",
+  "other_conditions": [
+    "Family must be living in a Kutcha house in villages",
+    "Priority is given to widow women, separate female, physically disabled persons, and unmarried girls (age more than 35 years)",
+    "Family must have a maximum of 15 Bigha of land in a village",
+    "Family must have a maximum of 3 Katha of land in small towns or 1.5 Katha of land in Kamrup Metro"
+  ],
+  "benefits_summary": "Provides Rs 1000 per month (including subsidies for medicines, pulses, sugar, fruits & vegetables) via Direct Benefit Transfer to eligible women households.",
+  "documents_required": [
+    "Bank Passbook First Page",
+    "Priority Supporting Documents",
+    "Any Other Document"
+  ],
+  "application_link": null
+}

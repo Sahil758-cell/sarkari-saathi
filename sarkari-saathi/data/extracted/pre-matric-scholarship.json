@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pre-Matric Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must study in government schools, aided and recognized educational institutes, subject to budget availability."
+  ],
+  "benefits_summary": "Monthly scholarship of Rs.150 for up to 10 months and an additional one-time grant of Rs.750 per year.",
+  "documents_required": [],
+  "application_link": null
+}

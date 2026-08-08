@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Insurance Scheme for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in any building or other construction work for at least 90 days in a given year.",
+    "Must be a registered member under the Building and Other Construction Workers Welfare Board of the U.T. Administration of Dadra and Nagar Haveli and Daman and Diu."
+  ],
+  "benefits_summary": "Beneficiaries are enrolled in the Pradhan Mantri Suraksha Bima Yojana and Pradhan Mantri Jeevan Jyoti Bima Yojana.",
+  "documents_required": [],
+  "application_link": null
+}

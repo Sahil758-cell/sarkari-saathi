@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Saur Sujala Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmer can be small, medium, or large‑scale"
+  ],
+  "benefits_summary": "Subsidized solar irrigation pumps (3 HP or 5 HP) with beneficiary contribution varying by caste category and a processing fee per watt.",
+  "documents_required": [],
+  "application_link": null
+}

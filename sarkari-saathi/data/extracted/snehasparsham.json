@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Snehasparsham",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 64,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unwed mother",
+    "Applicant must not be a recipient of any other government pension schemes",
+    "Applicant must be an account holder in a post office"
+  ],
+  "benefits_summary": "Financial assistance of ₹1000 per month is provided to eligible unwed mothers.",
+  "documents_required": [
+    "Application form (duly filled)"
+  ],
+  "application_link": null
+}

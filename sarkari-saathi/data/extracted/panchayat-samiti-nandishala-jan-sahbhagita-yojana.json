@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Panchayat Samiti Nandishala Jan Sahbhagita Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible entities include local bodies, Panchayati Raj institutions, registered trusts, NGOs, and government‑recognized institutions.",
+    "The organization must have been operational for at least 3 years.",
+    "Ownership of 20 bighas of private land to sustain 250 male cattle is required.",
+    "A minimum of 3 years of experience in operating a cattle shelter or similar activities is required.",
+    "The applicant must provide a 10% contribution towards the project cost."
+  ],
+  "benefits_summary": "One‑time assistance covering 90% of the total construction cost.",
+  "documents_required": [],
+  "application_link": null
+}

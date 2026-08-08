@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for MSME Sector: Assistance For Quality Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a new or existing manufacturing or service unit undertaking expansion or diversification in the MSME sector",
+    "Commercial production must have commenced between 20‑05‑2022 and 19‑05‑2027",
+    "The unit must be located in the Union Territory of Dadra and Nagar Haveli & Daman and Diu",
+    "Certificates must be obtained from certifying bodies registered with the National Accreditation Board for Certification Bodies (NABCB)",
+    "Application must be submitted within one year from the date of issue of the certificate"
+  ],
+  "benefits_summary": "50% subsidy on certification fees and up to ₹10,00,000 (50% of testing equipment and machinery costs) as financial assistance",
+  "documents_required": [],
+  "application_link": null
+}

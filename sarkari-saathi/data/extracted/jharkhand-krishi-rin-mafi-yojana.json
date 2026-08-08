@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Jharkhand Krishi Rin Mafi Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmer must self‑cultivate their land or cultivate leased land",
+    "Applicant must be a small or marginal farmer who obtained the loan through a Kisan Credit Card",
+    "Must have a valid Aadhaar number",
+    "Must be a valid ration‑card holder",
+    "Applicant must be a short‑term crop loan holder",
+    "The crop loan must be issued by a recognized bank located in Jharkhand",
+    "Family members of a deceased debtor are also eligible",
+    "Only one member per family holding a crop loan is eligible",
+    "Participation in the scheme is voluntary for all crop loan holders",
+    "A nominal application fee of ₹1 is required",
+    "Qualifying loan accounts include single and joint loans taken for crop diseases"
+  ],
+  "benefits_summary": "Waiver of up to ₹50,000 from standard short‑term crop loan accounts as of 31 Mar 2020.",
+  "documents_required": [
+    "Aadhaar card",
+    "Ration card",
+    "Kisan Credit Card"
+  ],
+  "application_link": null
+}

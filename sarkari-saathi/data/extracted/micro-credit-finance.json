@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Micro Credit Finance",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Charmakar community.",
+    "Applicant must provide an Income Certificate and a Caste Certificate issued by an authorized government officer.",
+    "Applicant must have knowledge of the business for which the loan is sought.",
+    "For the 50% Subsidy Scheme and Margin Money, the applicant's annual income must be below the poverty line.",
+    "For the NSFDC Scheme, the applicant's annual income should not exceed ₹98,000 in rural areas or ₹1,20,000 in urban areas."
+  ],
+  "benefits_summary": "Financial support of ₹25,000–₹50,000 with a 5% annual interest rate and an additional ₹10,000 subsidy.",
+  "documents_required": [
+    "Income Certificate",
+    "Caste Certificate"
+  ],
+  "application_link": null
+}

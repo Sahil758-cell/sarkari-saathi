@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Living Craft Treasure Award",
+  "occupation": [
+    "artisan"
+  ],
+  "gender": null,
+  "age_min": 65,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Selection considers the craftsman's experience and the service he has rendered in his profession."
+  ],
+  "benefits_summary": "Cash prize of ₹1 lakh, a thamirapattiram, an 8‑gram gold medal and a certificate.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

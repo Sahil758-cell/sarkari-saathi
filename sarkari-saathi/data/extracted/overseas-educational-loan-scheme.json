@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Overseas Educational Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to a minority community (Muslim, Christian, Jain, Buddhist, Sikh, Parsi)",
+    "Must have secured at least 60% marks in the previous year",
+    "Must have an offer letter from a foreign university",
+    "Loan is provided only on mortgage of property (building/land) whose value is not less than the loan amount",
+    "Student must not have received a scholarship from the Directorate of Minorities"
+  ],
+  "benefits_summary": "Loan up to ₹20,00,000 at zero interest rate.",
+  "documents_required": [
+    "Passport‑size photo",
+    "Educational document",
+    "Income certificate"
+  ],
+  "application_link": null
+}

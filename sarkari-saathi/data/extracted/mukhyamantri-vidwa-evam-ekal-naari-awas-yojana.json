@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Mukhyamantri Vidwa Evam Ekal Naari Awas Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow or a single woman and a permanent resident of Himachal Pradesh",
+    "If applicant is a single woman, age must be 40 years or above",
+    "Applicant must not own a private residence or house in a dilapidated condition",
+    "Annual family income from all sources must not exceed ₹3,00,000",
+    "Applicant must have at least 02 Biswa of land registered in revenue records for house construction or land made available by the government",
+    "Applicant's family must not be receiving government assistance for house construction nor have accommodation approved under any other scheme",
+    "Grant can be approved only once in 10 years provided the house has not been destroyed due to a natural disaster",
+    "Preference is given to widows and single women whose houses were destroyed due to natural calamities, those with more than 40% disability, and then all other eligible candidates"
+  ],
+  "benefits_summary": "An assistance amount of ₹1,50,000 will be given for the construction of the house.",
+  "documents_required": [
+    "Application form (Annexure-1)",
+    "Self-attested copies of all mandatory documents",
+    "Receipt (Annexure-3)",
+    "Undertaking form (Annexure-4)"
+  ],
+  "application_link": null
+}

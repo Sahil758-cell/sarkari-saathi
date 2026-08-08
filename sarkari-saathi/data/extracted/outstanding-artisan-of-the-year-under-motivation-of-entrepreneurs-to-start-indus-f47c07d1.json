@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Outstanding Artisan of the Year",
+  "occupation": [
+    "Artisan"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have participated for 3 years in National / International handicraft exhibitions/fairs."
+  ],
+  "benefits_summary": "Cash award of ₹2,00,000 and a citation.",
+  "documents_required": [],
+  "application_link": null
+}

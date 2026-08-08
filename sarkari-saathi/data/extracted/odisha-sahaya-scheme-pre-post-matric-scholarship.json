@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Odisha Sahaya Scheme - Pre & Post Matric Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 240000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bona fide resident of Odisha.",
+    "Applicant must be a beggar or a child of a beggar.",
+    "Applicant must be a regular student of a recognized educational institution studying in India.",
+    "Applicant must not be receiving any financial assistance from State or Central Government under any other scheme."
+  ],
+  "benefits_summary": "Provides a monthly scholarship ranging from ₹800 to ₹2,000 for up to 10 months per academic year to child beggars and children of beggars pursuing pre‑matric, post‑matric, graduate, postgraduate, or professional courses.",
+  "documents_required": [
+    "Application in the prescribed format",
+    "Certification/recommendation by the head of the educational institution"
+  ],
+  "application_link": null
+}

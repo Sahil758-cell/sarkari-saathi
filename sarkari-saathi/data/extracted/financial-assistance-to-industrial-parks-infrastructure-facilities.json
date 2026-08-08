@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Financial Assistance to Industrial Parks: Infrastructure Facilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Industries Association or any enterprise registered under the Societies Act, Partnership Act, Trust Act, Companies Act or a Special Purpose Vehicle formed for setting up an Industrial Park are eligible."
+  ],
+  "benefits_summary": "Financial assistance for developing critical infrastructure in industrial parks, including up to 25% of hostel/dormitory construction costs (maximum ₹20 crore).",
+  "documents_required": [],
+  "application_link": null
+}

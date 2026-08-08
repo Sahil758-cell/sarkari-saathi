@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Incubation Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible institutions include technical colleges, universities, professional institutes, R&D institutes, NGOs involved in incubation activities, MSME‑DIs/Technology Centres, or any central/state government institute or organization."
+  ],
+  "benefits_summary": "Provides up to ₹15 lakh per idea for development and nurturing, and up to ₹1 crore for procurement and installation of plant and machines for the incubator.",
+  "documents_required": [],
+  "application_link": null
+}

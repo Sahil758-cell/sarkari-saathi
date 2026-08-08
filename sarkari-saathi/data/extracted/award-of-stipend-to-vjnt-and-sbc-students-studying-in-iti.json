@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Award Of Stipend To VJNT And SBC Students Studying In ITI",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 65290,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must be trainees of an approved I.T.I.",
+    "Selection is completed by the Principal of the concerned I.T.I.",
+    "Eligibility category noted in source: V.J.N.T.",
+    "Eligibility category noted in source: S.B.C."
+  ],
+  "benefits_summary": "Eligible VJNT and SBC students studying in approved ITIs receive a monthly stipend of Rs.40‑Rs.100 for ten months.",
+  "documents_required": [],
+  "application_link": null
+}

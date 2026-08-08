@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Mukhyamantri Nirman Shramik Awas Sahayata Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Registered construction workers must have continuous live registration for at least three years.",
+    "No existing residence in Chhattisgarh in the worker's or family members' names.",
+    "Only one beneficiary per household can receive the subsidy.",
+    "Maximum land area allowed is 500 sq ft in urban areas and 1,000 sq ft in rural areas.",
+    "Housing construction on government‑leased land is permissible.",
+    "Selected property should not be under any dispute.",
+    "Land diversion or building permit from the concerned Chhattisgarh government department is required if the worker owns land or is purchasing a new house."
+  ],
+  "benefits_summary": "Registered construction workers can receive a subsidy of up to ₹50,000 for interest payments on housing loans.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Devnarayan Post Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to listed OBC communities (Banjara, Baladiya, Labana, Gadia‑Lohar, Gadolia, Gujar, Gurjar, Raika, Raibari (Debasi), Gadariya (Gadri), Gayari) with certification issued by Tehsildar or a higher‑level revenue officer",
+    "Student must be a full‑time student; employed students must take leave without pay for the entire course",
+    "All children of the same parent/guardian are eligible",
+    "Educational level from class 11 up to PhD"
+  ],
+  "benefits_summary": "Reimbursement of maintenance allowance and fee for the duration of the course.",
+  "documents_required": [],
+  "application_link": null
+}

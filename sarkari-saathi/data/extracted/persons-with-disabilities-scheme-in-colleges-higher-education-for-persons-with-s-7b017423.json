@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Persons With Disabilities Scheme In Colleges: Higher Education For Persons With Special Needs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "College must be approved by the UGC under Sections 2(f) and 12B.",
+    "College must have enrolled disabled persons (e.g., visual impairment, hearing impairment, locomotor disability) in its courses.",
+    "College must constitute an expert committee including faculty members, field experts, and differently‑abled persons, which must meet at least once a year.",
+    "Disability definitions must be in accordance with the Persons with Disabilities Act 1995."
+  ],
+  "benefits_summary": "Provides financial assistance for establishing enabling units, improving campus accessibility, and procuring special equipment to enhance the learning experiences of differently‑abled students in higher education institutions.",
+  "documents_required": [],
+  "application_link": null
+}

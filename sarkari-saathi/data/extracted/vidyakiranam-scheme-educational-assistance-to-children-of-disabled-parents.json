@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Vidyakiranam Scheme-Educational Assistance To Children Of Disabled Parents",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Kerala",
+    "Applicant must be a student",
+    "Parent (father or mother) must have a disability of 40% or above",
+    "Parent must belong to the BPL category",
+    "Student must be enrolled in a government‑approved institution"
+  ],
+  "benefits_summary": "Scholarship of ₹300 to ₹1000 per month for 10 months, amount varying with class level (Standards 1‑5, 6‑10, +1/+2/ITI, and degree/post‑graduation courses).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Skill Development for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of the Union Territory of Dadra and Nagar Haveli and Daman and Diu",
+    "Applicant must be a building or construction worker",
+    "Applicant must have engaged in building or construction work for at least 90 days in a given year",
+    "Applicant must be a registered member under the Building and Other Construction Workers Welfare Board of the UT",
+    "Applicant must be enrolled under Pradhan Mantri Kaushal Vikas Yojana",
+    "Applicant must attend the training programs of Pradhan Mantri Kaushal Vikas Yojana",
+    "Application fee should not exceed ₹50"
+  ],
+  "benefits_summary": "Financial assistance including a ₹5,000 incentive, minimum wages for skilled workers, and a travel allowance.",
+  "documents_required": [
+    "prescribed form",
+    "prescribed documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

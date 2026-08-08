@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Rehabilitation of Cured Leprosy Persons: Assistance to Parents",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child must be a cured leprosy person.",
+    "Child must be under 18 years of age."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per month per transgender child until the child reaches 18 years of age.",
+  "documents_required": [],
+  "application_link": null
+}

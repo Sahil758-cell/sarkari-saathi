@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for MSME Sector: Assistance For Entrepreneurship Under Skill Development",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit may be a new or existing manufacturing or service unit undertaking expansion or diversification in the MSME sector",
+    "The unit must have commenced commercial production between 20‑05‑2022 and 19‑05‑2027",
+    "The unit must be located in the Union Territory of Dadra and Nagar Haveli & Daman and Diu",
+    "The entrepreneur must apply within six months of completing the training"
+  ],
+  "benefits_summary": "75% of the course fee is covered, up to ₹1,50,000 per course for a maximum of 20 persons per year.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

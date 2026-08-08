@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Agnipath Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must meet the educational qualifications set by the Indian Army, Navy, or Air Force.",
+    "Applicant must meet the physical and medical standards set by the respective service."
+  ],
+  "benefits_summary": "Agniveers receive a monthly customized salary with allowances, and upon completing four years they are paid a tax‑exempt Seva Nidhi package along with a non‑contributory life‑insurance cover of ₹48 lakh.",
+  "documents_required": [],
+  "application_link": null
+}

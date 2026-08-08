@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Grant Scheme for Marriage of SC and ST Girls",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": 48000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Uttarakhand",
+    "Applicant must be a girl/woman",
+    "Applicant must belong to the BPL (Below Poverty Level) category",
+    "Assistance can be availed for the marriage of a maximum of two daughters in a family"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 per beneficiary for the marriage of eligible SC/ST girls.",
+  "documents_required": [],
+  "application_link": null
+}

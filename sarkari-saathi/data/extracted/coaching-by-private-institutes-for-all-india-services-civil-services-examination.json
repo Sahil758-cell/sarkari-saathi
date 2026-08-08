@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Coaching by Private Institutes for All India Services Civil Services Examination",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed graduation",
+    "Must have been selected based on merit in Arts, Commerce, Science, Engineering or Medical groups",
+    "Must not have availed the benefits of this scheme before",
+    "Must register a profile on the MPTAASC portal",
+    "Age will be determined by UPSC as per the Civil Services (Pre) exam eligibility criteria",
+    "Priority given if the applicant has passed the Civil Services Main Examination of Madhya Pradesh Public Service Commission in the last three years"
+  ],
+  "benefits_summary": "Provides up to ₹2 lakhs for coaching fees, a one‑time ₹15 000 book allowance, and a monthly stipend of ₹12 500 (including transport, housing and food) for up to 18 months.",
+  "documents_required": [
+    "ID proof",
+    "other relevant certificates"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for the Funeral Expenses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the nominee, dependent, or legal heir of the deceased construction worker.",
+    "Deceased must be a registered construction worker under the Andhra Pradesh Building & Other Construction Workers Welfare Board.",
+    "Death must be due to accident or natural causes."
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 for funeral expenses.",
+  "documents_required": [],
+  "application_link": null
+}

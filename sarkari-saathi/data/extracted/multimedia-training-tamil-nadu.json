@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Multimedia Training - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be hearing impaired and locomotor differently abled.",
+    "Applicant must have passed the 8th standard."
+  ],
+  "benefits_summary": "One month multimedia training is provided to locomotor and hearing‑impaired persons at the National Institute of Film Development Corporation, Regional centre in Chennai.",
+  "documents_required": [],
+  "application_link": null
+}

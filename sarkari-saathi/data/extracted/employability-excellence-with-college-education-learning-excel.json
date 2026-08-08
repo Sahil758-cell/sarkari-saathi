@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Employability Excellence with College Education & Learning (EXCEL)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student who has completed 12th education.",
+    "Open to university students, former pass‑outs, and non‑college‑going youth from the community.",
+    "Aadhaar number (Aadhaar card) is mandatory at the time of registration."
+  ],
+  "benefits_summary": "Free training integrated with college education to enhance employability through life skills, communication, and domain‑specific training.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Silicosis (Bimari) Se Pidit Shramiko Ke Liye Aarthik Evam Punarvas Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Chhattisgarh Unorganized Workers State Social Security Board.",
+    "Workers claiming organized sector employment but unable to prove it are eligible.",
+    "Construction workers not eligible for registration with the Chhattisgarh Building and Other Construction Workers Welfare Board are eligible.",
+    "A competent doctor must confirm Silicosis disease for the worker.",
+    "Application can be submitted by mother, father, spouse, or minor child of the worker."
+  ],
+  "benefits_summary": "Unorganized workers with silicosis receive a financial assistance of ₹300,000; if the worker dies, the family receives ₹100,000 and the remainder is paid as a fixed deposit with monthly interest.",
+  "documents_required": [
+    "Medical report confirming that the deceased worker had silicosis"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Saving in Consumption of Energy and Water",
+  "occupation": [
+    "service sector"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must have obtained acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT).",
+    "The enterprise must have undergone an energy/water audit conducted by a recognized institution or consultant.",
+    "The enterprise must demonstrate a minimum 10% reduction in energy or water consumption based on audit findings.",
+    "Audit reimbursement and equipment assistance are each available only once during the scheme’s operative period.",
+    "Equipment assistance is conditioned on achieving at least 10% savings of the average monthly consumption over the last 12 months before the audit."
+  ],
+  "benefits_summary": "Provides up to 75% reimbursement of energy/water audit costs (max ₹50,000) and 25% financial assistance for equipment (max ₹20 lakh) to MSMEs that achieve at least 10% reduction in energy or water consumption.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Jharkhand Petrol Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess a valid ration card under NFSA or Jharkhand State Food Security Scheme",
+    "All family members listed on the ration card must have Aadhaar numbers linked and verified",
+    "Applicant’s Aadhaar must be linked to a valid bank account and an updated mobile number",
+    "Applicant’s two-wheeler must be registered in their name and in the state of Jharkhand",
+    "Applicant must possess a valid driving license"
+  ],
+  "benefits_summary": "₹25 per litre subsidy for up to 10 litres of petrol per month, transferred via Direct Benefit Transfer to the beneficiary’s bank account.",
+  "documents_required": [
+    "Ration card",
+    "Aadhaar card",
+    "Bank account details",
+    "Driving license",
+    "Vehicle registration certificate"
+  ],
+  "application_link": "https://jsfss.jharkhand.gov.in"
+}

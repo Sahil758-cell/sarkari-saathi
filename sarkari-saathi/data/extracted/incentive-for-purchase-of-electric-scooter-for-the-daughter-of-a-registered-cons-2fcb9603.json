@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Incentive for Purchase of Electric Scooter for the Daughter of a Registered Construction Worker (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker with the Haryana Building & Other Construction Workers Welfare Board and have a minimum of one year regular, active membership",
+    "Daughter must be unmarried",
+    "Daughter must hold a valid two‑wheeler driving licence",
+    "Daughter must have scored at least 60% in class 12th examinations",
+    "Only one electric scooter purchase is allowed per family",
+    "Worker must add a minimum of 90 days work experience of the preceding year and pay the registration fee before benefits can be availed",
+    "Purchase bill of the electric scooter must be uploaded within one month of receiving the incentive, otherwise future benefits are denied"
+  ],
+  "benefits_summary": "Provides up to ₹50,000 or the actual ex‑showroom price of an electric scooter, whichever is lower, to the eligible daughter via e‑RUPI.",
+  "documents_required": [
+    "Purchase bill of the electric scooter",
+    "Aadhaar number for verification"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

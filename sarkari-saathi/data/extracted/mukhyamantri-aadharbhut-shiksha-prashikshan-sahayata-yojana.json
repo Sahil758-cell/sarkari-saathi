@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Aadharbhut Shiksha Prashikshan Sahayata Yojana",
+  "occupation": [
+    "building and other construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered construction worker with at least one year of regular membership in the Board.",
+    "Benefit is limited to the first two children of the registered worker.",
+    "The first two children must possess the minimum qualification prescribed for the respective competitive examination."
+  ],
+  "benefits_summary": "Free coaching assistance for admission to 6th and 9th classes.",
+  "documents_required": [],
+  "application_link": null
+}

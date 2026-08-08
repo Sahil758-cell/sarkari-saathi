@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Devnarayan Gurukul Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native resident of Rajasthan.",
+    "Applicant's family should not be a taxpayer.",
+    "Applicant must be a regular student in a government or non‑government school.",
+    "Applicant must have passed Class 5 with at least 50 % marks.",
+    "Applicant must belong to one of the Special Backward Class (SBC) communities: Banjara, Baldia, Labana, Gadiya Lohar, Gadolia, Gujar, Gurjar, Raika, Rebari (Debasi), Gadaria (Gadri, Gyari).",
+    "Admission is based on merit after clearing the pre‑admission examination and class‑5 marks."
+  ],
+  "benefits_summary": "Free education, accommodation, meals, uniforms, textbooks and study materials in government‑approved schools.",
+  "documents_required": [],
+  "application_link": null
+}

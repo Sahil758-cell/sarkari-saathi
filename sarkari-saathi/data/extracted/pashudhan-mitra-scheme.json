@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pashudhan Mitra Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have experience in animal husbandry or artificial insemination",
+    "Applicant must be physically fit for fieldwork",
+    "Applicant must possess basic knowledge of vaccination and castration procedures"
+  ],
+  "benefits_summary": "Honorarium paid per animal service and event, e.g., ₹20 per calf castration, ₹400 per camp, ₹7/₹5 per vaccination, and ₹1,500 per village survey.",
+  "documents_required": [],
+  "application_link": null
+}

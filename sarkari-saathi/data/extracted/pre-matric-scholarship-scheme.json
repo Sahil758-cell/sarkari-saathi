@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Pre-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be a student",
+    "must be studying in 11th or 12th standard in an English medium school",
+    "no graduate in the family for Backward Classes (BC) students"
+  ],
+  "benefits_summary": "Provides tuition fee coverage up to ₹250 per year for 9th‑10th standards and full coverage of the 10th standard examination fee.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

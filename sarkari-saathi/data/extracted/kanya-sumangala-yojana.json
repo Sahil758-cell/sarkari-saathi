@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Kanya Sumangala Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Family must have a permanent residence certificate (Ration Card, Aadhaar Card, Voter ID Card, Electricity bill or Telephone bill)",
+    "Maximum of two girls per family can receive the benefit, with an exception for twins that may allow a third girl under specific delivery scenarios"
+  ],
+  "benefits_summary": "Cash assistance of up to ₹15,000 per girl is provided in six installments linked to birth, vaccination, and educational milestones.",
+  "documents_required": [
+    "Permanent residence certificate (Ration Card, Aadhaar Card, Voter ID Card, Electricity bill or Telephone bill)"
+  ],
+  "application_link": null
+}

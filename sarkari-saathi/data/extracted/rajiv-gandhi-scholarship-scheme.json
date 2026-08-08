@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Rajiv Gandhi Scholarship Scheme",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student of a government school in Haryana",
+    "Must be studying in Class VI to Class XII",
+    "Must have secured the first position in the preceding class",
+    "Must have obtained a first division in the preceding examination"
+  ],
+  "benefits_summary": "Scholarship of ₹750 per annum for Class VI‑VIII students and ₹1,000 per annum for Class IX‑XII students.",
+  "documents_required": [],
+  "application_link": null
+}

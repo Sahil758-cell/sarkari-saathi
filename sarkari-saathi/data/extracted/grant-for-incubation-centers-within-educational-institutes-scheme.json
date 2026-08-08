@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Grant for Incubation Centers within Educational Institutes Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institute must be located in Goa",
+    "Institute must be affiliated with a recognized public university",
+    "Preference will be given to well‑performing applicants",
+    "Institutes cannot restrict incubation facilities only to their own students",
+    "Benefits are not an entitlement; SPC may accept or reject applications",
+    "Eligibility of expenses determined by Accounting Standard 102 for Fixed Assets",
+    "Application can be made any time of the financial year but only within 6 months of incurring the relevant expenditure"
+  ],
+  "benefits_summary": "Up to ₹10,00,000 one‑time grant for capital expenses to set up incubators, and up to ₹3,00,000 per year for three years for operational expenses for existing facilities.",
+  "documents_required": [],
+  "application_link": null
+}

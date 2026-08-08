@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Castes (HRT-4)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Tool/equipment must be purchased from an authorised dealer of the empanelled manufacturer as notified by the Department of Agriculture.",
+    "Companies empanelled for tarpaulin seats must follow the Department of Agriculture regulations.",
+    "Companies empanelled for plastic crates must follow the Department of Agriculture regulations."
+  ],
+  "benefits_summary": "SC farmers receive assistance up to 75% of tool/equipment cost or ₹3,750, whichever is lower; farmer groups/co‑operative societies receive up to 90% of equipment cost or ₹7,50,000, whichever is lower, for PHM equipment.",
+  "documents_required": [
+    "Caste certificate"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

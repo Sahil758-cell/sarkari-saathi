@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Varnam Scheme For Transgender Students Pursuing Distance Education Courses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be transgender",
+    "Applicant must be a native and resident of Kerala",
+    "Student must be pursuing Degree/Diploma/PG courses through distance education from open universities, distance education mode, or private registration"
+  ],
+  "benefits_summary": "Up to ₹24,000 per year is provided, for up to 2 years for PG courses and up to 3 years for undergraduate courses",
+  "documents_required": [],
+  "application_link": null
+}

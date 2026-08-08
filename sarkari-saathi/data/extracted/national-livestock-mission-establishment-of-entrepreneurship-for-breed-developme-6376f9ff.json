@@ -1,0 +1,35 @@
+{
+  "scheme_name": "National Livestock Mission: Establishment of Entrepreneurship for Breed Development of Rural Poultry",
+  "occupation": [
+    "individual",
+    "Self Help Group (SHG)",
+    "Farmers Producer Organization (FPO)",
+    "Farmers Cooperative (FCO)",
+    "Joint Liability Group (JLG)",
+    "Section 8 company"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must establish a Parent Farm, Rural Hatchery, or Brooder cum Mother Unit with at least 1,000 parent layers",
+    "Applicant must arrange the remaining project cost through bank loans, financial institutions, or self‑financing",
+    "The bird used must be a Low Input Technology bird or any sustainable bird for free‑range management",
+    "Applicants must have obtained relevant training, have technical experts, or possess sufficient experience in managing the project",
+    "Applicants must have a sanctioned loan or a bank guarantee from a scheduled bank along with project appraisal",
+    "Applicants must own or lease land where the project will be established",
+    "Applicants must have all relevant KYC documents",
+    "No subsidy is provided for working capital, personal vehicle, purchase of land, or cost of rent/lease of land"
+  ],
+  "benefits_summary": "One‑time 50% capital subsidy up to ₹25 lakh for setting up parent farms, rural hatcheries or mother units, disbursed in two installments via SIDBI.",
+  "documents_required": [
+    "KYC documents"
+  ],
+  "application_link": null
+}

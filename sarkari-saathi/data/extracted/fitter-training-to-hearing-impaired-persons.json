@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Fitter Training to Hearing Impaired Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 25,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a hearing‑impaired person.",
+    "Applicant must have passed the 10th standard."
+  ],
+  "benefits_summary": "Two‑year fitter training at ITI Guindy with a stipend of ₹300 per month.",
+  "documents_required": [],
+  "application_link": null
+}

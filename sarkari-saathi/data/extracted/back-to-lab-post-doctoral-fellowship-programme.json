@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Back-To-Lab Post-Doctoral Fellowship Programme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": [
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed and under a career break due to family commitments or related matters at the time of application",
+    "Applicant must not receive any emoluments from any source at the time of application",
+    "Applicant must have a minimum of 60% marks in post‑graduation",
+    "Applicant must have a qualified Ph.D. in Science/Engineering subjects",
+    "Applicant must have published at least one research paper in an SCI journal or secured a patent",
+    "Applicant must not have previously availed a KSCSTE Back‑to‑Lab Fellowship for their PhD programme",
+    "Applicant must not have previously received any Post‑Doctoral Fellowship from KSCSTE or elsewhere",
+    "Research centre must be different from the Ph.D. research centre and must be a R&D institution or university department in Kerala classified as a Government Institution (or premier national institutions such as IISER, IIT, IISc outside the state)",
+    "A Scientist Mentor who is a regular faculty/staff of the institution must be appointed, with at least 5 years of service left before retirement, and must monitor the project and ensure timely submission of financial utilization certificates",
+    "The fellow must undertake that she is not availing financial assistance/stipend from any other source simultaneously",
+    "The fellow must not enter into collaboration with a foreign party without prior approval of the Council",
+    "Any unutilized portion of the grant (including interest) at the end of the project must be refunded to KSCSTE"
+  ],
+  "benefits_summary": "Post‑doctoral fellowship of ₹45,000 per month plus 10% HRA and an annual contingency grant of ₹75,000 for up to 2 years.",
+  "documents_required": [],
+  "application_link": "www.submit.kscste.kerala.gov.in"
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Disability Pension (BBOCWWB)",
+  "occupation": [
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Bihar Building & Other Construction Workers Welfare Board and have an active membership",
+    "Must have a permanent total or partial disability caused by illness or an accident"
+  ],
+  "benefits_summary": "Provides a monthly assistance of ₹1,000 and a one‑time assistance of ₹75,000 for total permanent disability or ₹50,000 for partial disability.",
+  "documents_required": [],
+  "application_link": null
+}

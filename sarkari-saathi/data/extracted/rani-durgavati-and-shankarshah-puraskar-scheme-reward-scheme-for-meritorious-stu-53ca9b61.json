@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Rani Durgavati and Shankarshah Puraskar Scheme (Reward Scheme for Meritorious Students)",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST",
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be enrolled in Class 10th or 12th",
+    "Applicant must be selected based on the merit list of the 10th and 12th board examinations conducted by the Board of Secondary Education, Madhya Pradesh"
+  ],
+  "benefits_summary": "Cash awards ranging from ₹10,000 to ₹51,000 for the top six meritorious students in 10th and 12th standards.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

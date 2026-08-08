@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Chief Minister's Overseas Scholarship Scheme for Minorities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a minority community",
+    "Only one child of a family is eligible (self‑certification required)",
+    "Only one award per lifetime; the scheme cannot be availed again",
+    "Applicant must have valid TOEFL/IELTS and GRE/GMAT scores",
+    "Admission must be secured in an accredited foreign university",
+    "Applicant must possess a valid passport",
+    "Candidate must join the university within one year of selection notification",
+    "Candidate must not change the sanctioned course of study or research",
+    "Candidate is responsible for obtaining the appropriate visa for the study destination"
+  ],
+  "benefits_summary": "Grants up to ₹10  lakh in two installments (subject to actual fees), living‑expense assistance, eligibility for educational loans, opportunity for research/teaching assistantships, and a one‑way airfare ticket.",
+  "documents_required": [
+    "Valid passport",
+    "Admission letter from accredited foreign university",
+    "TOEFL/IELTS score certificate",
+    "GRE/GMAT score certificate",
+    "Self‑certification confirming only one child eligibility"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mission for Integrated Development of Horticulture Sub Scheme Horticulture Mission for North East and Himalayan Region- Meghalaya",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Meghalaya",
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must own or lease land of at least 0.2 hectares"
+  ],
+  "benefits_summary": "Provides grants, subsidies, training, and assistance for planting material production, area expansion, plantation rejuvenation, water sources, protected horticulture, beekeeping, mechanization, post‑harvest activities and market infrastructure.",
+  "documents_required": [
+    "Copies of mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Distribution of Horticulture Kit to Urban and Rural Areas",
+  "occupation": [
+    "horticulture growers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [],
+  "benefits_summary": "Provides a 75% subsidy via a ₹3,000 horticulture kit to eligible growers in both urban and rural areas.",
+  "documents_required": [
+    "passport-sized photograph",
+    "copies of mandatory documents"
+  ],
+  "application_link": null
+}

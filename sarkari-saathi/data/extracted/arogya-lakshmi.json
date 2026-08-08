@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Arogya Lakshmi",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Telangana",
+    "Pregnant woman must be in her first or second trimester of pregnancy",
+    "Delivery must take place at a designated healthcare facility or with a qualified healthcare provider",
+    "Family with a newborn is also eligible"
+  ],
+  "benefits_summary": "Provides one full daily meal plus iron and folic acid tablets to pregnant and lactating women, and supplementary nutrition (eggs and Balamrutham) to children under six years of age.",
+  "documents_required": [],
+  "application_link": null
+}

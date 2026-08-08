@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Incentive for the Inter Caste Marriage Couple",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": 500000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both bride and groom must be Hindu",
+    "Marriage must be between a Scheduled Caste individual and a non‑Scheduled Caste individual",
+    "Both spouses must be residing in Karnataka"
+  ],
+  "benefits_summary": "Cash incentive of ₹2.5 lakh for SC men marrying non‑SC women and ₹3 lakh for SC women marrying non‑SC men, paid in two equal installments (cash and fixed‑deposit).",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

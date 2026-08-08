@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Home Loan Interest Subsidy Scheme- Gujarat Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Workers must be employed in the organized sector in Gujarat",
+    "Must have worked continuously with the same factory/company/organization for at least one year",
+    "Labour Welfare Fund contribution must be deposited with the Gujarat Labour Welfare Board",
+    "Purchase price of the house must not exceed ₹30 lakhs",
+    "Loan tenure must be 15 years or more",
+    "Home loans must be taken from a Nationalized, Scheduled Bank or NBFC only",
+    "Application must be submitted within one year from the date of purchase document"
+  ],
+  "benefits_summary": "Provides a 3% interest subsidy on home loans up to ₹15 lakhs (or based on bank interest, whichever is lower) for eligible workers.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Labour Welfare Fund Account Number",
+    "Purchase document"
+  ],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

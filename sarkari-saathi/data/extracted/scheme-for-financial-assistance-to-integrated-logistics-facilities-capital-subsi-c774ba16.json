@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scheme for Financial Assistance to Integrated Logistics Facilities: Capital Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only new units or projects are eligible for this subsidy",
+    "Costs related to construction and infrastructure are covered, excluding land cost",
+    "Project must adhere to SOR norms of the government or its undertaking",
+    "Developers must obtain all applicable environmental and statutory clearances",
+    "Basic facilities such as toilets and rest areas for transport vehicle drivers must be provided",
+    "Developer must operate and maintain the logistics facilities for a minimum of five years",
+    "If land is leased or rented, a registered lease/rental deed for a minimum of 10 years between the developer and landowner is mandatory",
+    "Warehouse facilities must not be used for captive purposes by the developer",
+    "Logistics facilities cannot be sold or transferred to another entity for at least five years from the date of the sanction letter or the project's commissioning, whichever is later",
+    "Facilities must be leased or rented to remain eligible"
+  ],
+  "benefits_summary": "Assistance is disbursed in four installments (25%, 50%, 75%, 100%) with 15% withheld until project completion.",
+  "documents_required": [],
+  "application_link": null
+}

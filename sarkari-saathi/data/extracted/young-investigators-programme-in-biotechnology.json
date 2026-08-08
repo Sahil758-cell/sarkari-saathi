@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Young Investigators Programme in Biotechnology",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must hold a Ph.D. in any branch of Life Sciences.",
+    "Must have at least three years of post‑doctoral experience in Biotechnology.",
+    "Age limit is 40 years (with a 5‑year relaxation for SC/ST/OBC, women, and physically handicapped candidates).",
+    "Post‑doctoral researchers without a permanent position may serve as Principal Investigator only if a senior faculty/scientist with a permanent position acts as Co‑Principal Investigator."
+  ],
+  "benefits_summary": "Provides up to ₹30 lakh in research support for up to three years, plus a monthly fellowship of ₹45,000 with 10 % HRA for young scientists without a salary.",
+  "documents_required": [
+    "Endorsement from the Implementing Institution",
+    "Certificate from the Investigators",
+    "Certificate of No pending SE&UC",
+    "Resumes of Principal Investigator and Co‑Investigators",
+    "Self Appraisal of the Principal Investigator"
+  ],
+  "application_link": null
+}

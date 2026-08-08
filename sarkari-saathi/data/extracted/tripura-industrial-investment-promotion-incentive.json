@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Tripura Industrial Investment Promotion Incentive",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The industry should comply with all relevant legal and environmental regulations.",
+    "The investment should be in sectors specified under the scheme.",
+    "The business should have a clear plan for employment generation and contribute to the socio-economic development of the state.",
+    "The applicant should have a sound financial track record and demonstrate the ability to implement the project successfully."
+  ],
+  "benefits_summary": "Provides capital investment, interest and power‑tariff subsidies, skill‑development support, land‑acquisition assistance, sector‑specific incentives and streamlined single‑window clearance.",
+  "documents_required": [
+    "Project reports",
+    "Financial statements",
+    "Supporting certificates"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Grant of Mahatma Gandhi Memorial Award for Clean Houses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Indian citizenship",
+    "Continuous residence of at least 3 years in Puducherry (by birth or continuous residence)"
+  ],
+  "benefits_summary": "Household articles worth ₹500 per beneficiary.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

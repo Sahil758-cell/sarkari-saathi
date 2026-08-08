@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Mukhyamantri Nijee Nalkup Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmer must be identified under the Saat Nischay-2 “Irrigation Water to Every Field” after a joint technical survey.",
+    "Must own at least 0.40 acre (40 decimal) of land.",
+    "No existing borewell should be present at the proposed site.",
+    "No previous grants or financial assistance for borewell construction at the same site may have been taken by the farmer.",
+    "The grant is limited to one borewell and one motor pump set per farmer.",
+    "Borewell must be dug to a depth of 15‑70 meters with a diameter of 4‑6 inch.",
+    "After approval, the borewell must be dug within 60 days and relevant photos uploaded on the portal.",
+    "Photographs of the borewell site, water flow, and motor pump installation must be uploaded in JPEG/PNG format.",
+    "All materials used for the tube‑well must be manufactured in India and meet Indian quality standards."
+  ],
+  "benefits_summary": "Provides a subsidy for borewell construction (₹600‑₹900 per meter depending on caste category) and for motor pump installation (50‑80% of pump cost up to ₹30,000).",
+  "documents_required": [
+    "Aadhaar number verification",
+    "Mobile number verification",
+    "Photographs of borewell site and motor pump installation (JPEG/PNG)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Bakri Palan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be listed in the SECC (Socio-Economic Caste Census) database",
+    "Applicant must be interested in establishing a goat‑rearing unit for self‑employment"
+  ],
+  "benefits_summary": "The State Government funds 90% (₹63,000) of the ₹70,000 cost to set up a goat‑rearing unit of 10 female goats and 1 male goat, with the beneficiary contributing the remaining 10% (₹7,000).",
+  "documents_required": [],
+  "application_link": null
+}

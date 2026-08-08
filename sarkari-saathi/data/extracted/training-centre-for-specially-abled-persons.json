@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Training Centre for Specially-Abed Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "One-year vocational training in tailoring or shoemaking with a monthly stipend of ₹250 and tools provided upon completion.",
+  "documents_required": [],
+  "application_link": null
+}

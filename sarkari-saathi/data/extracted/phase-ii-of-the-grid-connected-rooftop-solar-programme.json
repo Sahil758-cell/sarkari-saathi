@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Phase-II Of The Grid Connected Rooftop Solar Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a residential consumer or a group housing society",
+    "Applicant must have an electricity connection in their own name and pay the electricity bill regularly",
+    "Applicant must obtain permission from the roof owner to install the solar rooftop system",
+    "Installation must be carried out by a vendor empaneled with the DISCOM"
+  ],
+  "benefits_summary": "Consumers receive a subsidy of 40% for systems up to 3 kW and 20% for larger capacities, with the subsidy directly credited to the vendor after inspection.",
+  "documents_required": [
+    "Copy of latest electricity bill",
+    "Cancelled cheque (copy)"
+  ],
+  "application_link": "http://solarrooftop.gov.in"
+}

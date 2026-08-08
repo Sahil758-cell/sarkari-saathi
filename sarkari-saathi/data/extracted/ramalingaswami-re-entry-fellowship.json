@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Ramalingaswami Re-Entry Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian national.",
+    "Must possess a Ph.D/MD degree or equivalent in life sciences, agriculture, bioinformatics, or a related field, or an M.Tech in engineering, technology, or medicine.",
+    "Must have at least three years of post‑doctoral research experience in overseas research laboratories.",
+    "Candidates who have returned to India within one year of the advertisement (two years for women candidates) are eligible, provided they have not secured a permanent position in India during that period.",
+    "Applicants must have a proven/outstanding research track record evidenced by publications and recognitions.",
+    "If the fellow joins a permanent position, the fellowship and HRA components are discontinued, though the research‑grant component may continue for the remaining tenure.",
+    "Before the fellowship starts, the fellow must submit a two‑member advisory committee comprising one member from the host institute and one from another institute in India or abroad."
+  ],
+  "benefits_summary": "Monthly fellowship of ₹1,00,000 with HRA of ₹18,500, an annual research support grant of ₹13,00,000 and ₹50,000 institutional overhead.",
+  "documents_required": [],
+  "application_link": null
+}

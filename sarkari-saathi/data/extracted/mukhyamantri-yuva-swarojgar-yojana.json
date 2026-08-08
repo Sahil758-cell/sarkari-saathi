@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Mukhyamantri Yuva Swarojgar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Chhattisgarh state.",
+    "Must have passed at least 8th class.",
+    "Only one applicant per family is allowed.",
+    "Applicant must not be a defaulter of any nationalized bank, financial institution, or cooperative bank.",
+    "Family annual income must not exceed Rs. 3,00,000.",
+    "Definition of family includes spouse and children; if unmarried, includes parents and unmarried siblings.",
+    "Applicants who have previously received a grant under PMRYO, PMROSRIKA or any other government scheme are ineligible.",
+    "5‑year relaxation in maximum age limit for SC/ST/OBC/Women/PWD/Naxalite affected family members/Retired soldiers."
+  ],
+  "benefits_summary": "Provides subsidized loans, guarantee fee assistance, interest subsidy, and margin‑money grants to support youth entrepreneurship.",
+  "documents_required": [
+    "Application form",
+    "Project profile (brief project report)",
+    "Supporting documents"
+  ],
+  "application_link": null
+}

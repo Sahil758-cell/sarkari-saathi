@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Sikkim Unmarried Women Pension Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 45,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be unmarried",
+    "must have no source of income",
+    "must not be covered by any other existing pension schemes of the State or Central government"
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000 per beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

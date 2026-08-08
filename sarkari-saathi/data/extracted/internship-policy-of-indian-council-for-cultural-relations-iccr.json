@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Internship Policy Of Indian Council For Cultural Relations (ICCR)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 25,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be a graduate in Humanities, Mass Communication, Journalism, Designing, Anthropology, History, Art, Archaeology Science, Languages, Museology or Fine Arts.",
+    "Post‑graduate / Research students and Foreign Language students are also eligible.",
+    "The applicant should have an excellent academic track record.",
+    "The applicant should preferably be from any recognized University in India.",
+    "Research scholars with formal backgrounds in International Relations and Soft Power Projection will be given preference depending upon ICCR’s requirement.",
+    "Candidates with the highest marks are most likely to be called for a personal interview."
+  ],
+  "benefits_summary": "Interns receive a monthly honorarium of ₹10,000, a one‑time air‑fare allowance up to the prevailing economy class fare, logistical support, and a certificate upon satisfactory completion.",
+  "documents_required": [],
+  "application_link": "directoradmin.iccr@gov.in with a copy to spdadmn.iccr@gov.in (Dy. Director General, Administration, ICCR, Azad Bhavan, IP Estate, New Delhi)"
+}

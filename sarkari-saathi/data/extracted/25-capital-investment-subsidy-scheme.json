@@ -1,0 +1,30 @@
+{
+  "scheme_name": "25% Capital Investment Subsidy Scheme",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Lakshadweep"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "New Micro or Small units engaged in manufacturing/servicing except activities listed in the Negative List are eligible.",
+    "Investment in Plant & Machinery and Building must be below ₹25 lakhs.",
+    "Entrepreneur must have Entrepreneurs Memorandum Part‑II (Permanent Registration) under the MSME Act 2006 filed with the Director of Industries, Lakshadweep or hold Udyog Aadhar registration.",
+    "Institutions registered under the Societies Registration Act 1960 and Self‑Help Groups that have not received benefits under any other scheme are eligible.",
+    "Applicants must be residents of any inhabited island of Lakshadweep."
+  ],
+  "benefits_summary": "Provides a 25% capital investment subsidy up to ₹6.25 lakhs per enterprise.",
+  "documents_required": [
+    "Entrepreneurs Memorandum Part‑II (Permanent Registration) under MSME Act 2006",
+    "Udyog Aadhar registration",
+    "Application form as per Department of Industries guidelines",
+    "Supporting documents as required"
+  ],
+  "application_link": null
+}

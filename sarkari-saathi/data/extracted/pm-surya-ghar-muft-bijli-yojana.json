@@ -1,0 +1,22 @@
+{
+  "scheme_name": "PM – Surya Ghar: Muft Bijli Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The household must be an Indian citizen",
+    "The household must own a house with a roof suitable for installing solar panels",
+    "The household must have a valid electricity connection",
+    "The household must not have availed any other subsidy for solar panels"
+  ],
+  "benefits_summary": "Provides free electricity by subsidizing rooftop solar installations, with subsidies ranging from ₹30,000 to ₹78,000 based on consumption.",
+  "documents_required": [],
+  "application_link": null
+}

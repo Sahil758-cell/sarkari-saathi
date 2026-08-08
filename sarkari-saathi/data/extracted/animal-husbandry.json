@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Animal Husbandry",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal"
+  ],
+  "benefits_summary": "Provides a subsidy of 50% to 75% on sheep units, milch animals, and calves, along with health care, veterinary services, and artificial insemination for animals.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

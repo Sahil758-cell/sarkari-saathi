@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Matrushakti Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "First‑time conceiving woman",
+    "Mother with her first child who is under 2 years old"
+  ],
+  "benefits_summary": "Provides a nutrition kit containing 1 litre of groundnut oil, 1 kg tuver dal and 2 kg chana to the beneficiary.",
+  "documents_required": [
+    "Aadhaar card",
+    "Beneficiary's affidavit",
+    "Ration card (NFSA)"
+  ],
+  "application_link": null
+}

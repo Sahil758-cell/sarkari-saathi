@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Pension to the Persons who lost 100% eye sight",
+  "occupation": null,
+  "gender": null,
+  "age_min": 10,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should be 100% Visually Handicapped",
+    "No member of the family of the applicant should be a government employee"
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Allowance To Eunuchs Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident/domicile of Haryana and have resided in Haryana for the last 5 years at the time of application.",
+    "Applicant must not be involved in any unlawful activity.",
+    "If the applicant reaches the age of 60 years, the case will be transferred to the Old Age Allowance Scheme."
+  ],
+  "benefits_summary": "Financial assistance of ₹2750 per month is provided to eligible eunuchs.",
+  "documents_required": [
+    "Certificate from the Civil Surgeon confirming the applicant is an eunuch"
+  ],
+  "application_link": null
+}

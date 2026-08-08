@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Chief Minister's Building and Other Construction Workers Urban Housing Scheme (MPBOCWWB)",
+  "occupation": [
+    "building worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in any building or other construction work for at least 90 days during the preceding 12 months.",
+    "Registration must be renewed annually.",
+    "Must have a valid identity card and be registered as a beneficiary under the Act before the scheme’s Gazette publication.",
+    "Workers registered after Gazette publication become eligible for benefits after one year from the registration date.",
+    "Beneficiaries must be registered under the Act to qualify for the scheme."
+  ],
+  "benefits_summary": "Provides a one-time assistance of ₹1,00,000 to eligible construction workers.",
+  "documents_required": [
+    "passport-sized photograph (signed across if required)",
+    "copies of all mandatory documents (self‑attested)",
+    "valid identity card"
+  ],
+  "application_link": null
+}

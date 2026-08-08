@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Integrated Social Security Scheme - Pension For Transgender",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be Transgender",
+    "Applicant's annual income must be less than Rs. 75,000 or the applicant should belong to the Below Poverty Line (BPL) category"
+  ],
+  "benefits_summary": "A monthly pension of ₹1,000 is deposited directly into the beneficiary's bank account via DBT.",
+  "documents_required": [],
+  "application_link": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+}

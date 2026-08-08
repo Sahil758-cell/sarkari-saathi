@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Kanyadaan Scheme (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be registered under the Haryana Building & Other Construction Workers Welfare Board (HBOCWWB)",
+    "The registered worker must have at least one year of regular membership",
+    "The worker must have worked for a minimum of 90 days as a building and other construction worker during the preceding twelve months",
+    "The worker must have paid up‑to‑date contributions",
+    "Benefit is payable up to the marriage of three daughters only",
+    "The applicant must submit all required documents within one year after the marriage",
+    "The applicant must not have availed similar assistance from any other government department/board/corporation",
+    "The worker must produce a work‑experience certificate duly verified by the prescribed authorities",
+    "The worker must upload the marriage certificate of the daughter",
+    "The worker must submit the undertaking prescribed by the Board"
+  ],
+  "benefits_summary": "Provides financial assistance of ₹51,000 per daughter (up to three daughters) plus an additional ₹50,000, for a total benefit of up to ₹1,01,000 per beneficiary.",
+  "documents_required": [
+    "Work experience certificate (verified)",
+    "Marriage certificate of the daughter",
+    "Undertaking prescribed by the Board"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must be unemployed and not in regular service",
+    "Must hold a Ph.D. degree (or provisional certificate) in the relevant discipline",
+    "Must not have previously availed any UGC Post‑Doctoral Fellowship",
+    "If receiving any other fellowship/remuneration, must resign before accepting this fellowship",
+    "Must have at least 55 % marks (or equivalent CGPA) at postgraduate level (5 % relaxation for reserved categories)",
+    "Must identify a mentor/supervisor and upload a No Objection Certificate signed by the mentor, HOD and Registrar/Director",
+    "Mentor must be a regular faculty member at the level of Associate Professor or above, hold a Ph.D., and have supervised at least three Ph.D. theses",
+    "Research must be conducted at an eligible institution (UGC‑accredited university, deemed university, centrally or state‑funded degree‑granting institution, or institution of national importance)"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹50,000 plus an annual contingency grant of ₹50,000, with additional allowances for PWD and HRA support.",
+  "documents_required": [
+    "No Objection Certificate from the proposed research centre (signed by mentor, HOD and Registrar/Director)",
+    "Passport‑size photograph (scanned, up to 1 MB, jpg)",
+    "Signature (scanned, up to 1 MB, jpg)",
+    "Postgraduate degree certificate or mark sheet",
+    "Ph.D. degree certificate or provisional certificate"
+  ],
+  "application_link": "https://frg.ugc.ac.in/"
+}

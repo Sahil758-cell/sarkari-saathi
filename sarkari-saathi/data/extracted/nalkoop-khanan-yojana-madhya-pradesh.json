@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Nalkoop Khanan Yojana- Madhya Pradesh",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Applicant must own agricultural land within the state",
+    "Applicants from Shajapur and Indore districts are excluded"
+  ],
+  "benefits_summary": "75% subsidy up to ₹25,000 for tube well digging and up to ₹15,000 for submersible pump installation.",
+  "documents_required": [],
+  "application_link": "Eligible farmers can apply for benefits under the scheme by visiting the office of the Deputy Director, Farmers Welfare and Agriculture Development Department in their respective district in Madhya Pradesh."
+}

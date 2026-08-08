@@ -1,0 +1,29 @@
+{
+  "scheme_name": "District Central Cooperative Banks and through its Branches: For Professional Loan to Doctors, Engineers and Self Employed Professional",
+  "occupation": [
+    "Doctor",
+    "Engineer",
+    "Self-Employed Professional"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Loan must be used for professional purposes"
+  ],
+  "benefits_summary": "Loan up to ₹10,00,000 at a competitive interest rate of 13%.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph",
+    "Mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

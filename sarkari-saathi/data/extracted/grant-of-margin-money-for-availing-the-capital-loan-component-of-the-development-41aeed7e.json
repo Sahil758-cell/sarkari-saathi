@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant of Margin Money for Availing the Capital Loan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Puducherry by birth or have continuous residence for at least 5 years",
+    "Applicant must ascertain availability of a loan from a financial institution",
+    "The silk weaving unit must be set up in Puducherry",
+    "The unit must commence commercial production within six months of receiving the margin money grant"
+  ],
+  "benefits_summary": "Provides up to 25% margin money, capped at ₹50,000, on the loan amount for setting up silk weaving units.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

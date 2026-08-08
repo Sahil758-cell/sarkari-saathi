@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Integrated Fisheries Scheme",
+  "occupation": [
+    "fish farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must own or lease a pond of at least one acre for a minimum of three years",
+    "Proposed site should be near a population centre",
+    "Preference is given to applicants closer to district headquarters for better monitoring",
+    "Applicant near Resource Fisheries Facilities (RFF) must have an active bank account and belong to a functional beneficiary group",
+    "Applicants who were selected in 2022‑23 but did not receive grants will be prioritized"
+  ],
+  "benefits_summary": "Financial assistance up to ₹1,22,680 for SC/ST/women beneficiaries and up to ₹1,07,345 for other beneficiaries, paid in three DBT installments.",
+  "documents_required": [],
+  "application_link": null
+}

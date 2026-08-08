@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Fish Marketing Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Member of a registered fisheries cooperative society",
+    "Involved in fish marketing or seed transportation",
+    "Must contribute share of the vehicle cost",
+    "For aquarium shop setup, must be trained in ornamental fish farming",
+    "Preference given to women trained under fishery research and training programs",
+    "Persons with disabilities trained in ornamental fish farming receive top priority"
+  ],
+  "benefits_summary": "60% subsidy up to ₹3,60,000 for four‑wheeler transport vans and up to ₹1,00,000 for aquarium shop setup, disbursed through DBT to the beneficiary’s escrow account.",
+  "documents_required": [],
+  "application_link": null
+}

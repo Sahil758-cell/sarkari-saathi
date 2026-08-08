@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Study Abroad Scholarships (Scheduled Tribe)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 35,
+  "age_max": 35,
+  "max_annual_income": 1000000,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be 35 years old as of 1st January.",
+    "Annual family income must not exceed ₹10 lakh.",
+    "Course duration must be 2 years for postgraduate, 4 years for PhD, and 1 year 6 months for research programmes.",
+    "For postgraduate studies, must have passed the graduation final examination with at least 55% marks.",
+    "For PhD, must have passed the postgraduate examination with at least 50% marks.",
+    "Must independently choose the foreign educational institution for admission.",
+    "Must be applying for a postgraduate or higher‑level degree."
+  ],
+  "benefits_summary": "Covers tuition fees of $40,000 per year plus a living allowance of $9,000 and a contingency allowance of $1,000, along with visa, insurance, and travel expenses.",
+  "documents_required": [
+    "Hard copy of the prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

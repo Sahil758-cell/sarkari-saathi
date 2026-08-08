@@ -1,0 +1,24 @@
+{
+  "scheme_name": "INDIRAMMA Old Age Pension (Rural)",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 65,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "must not be covered under any other Pension Scheme",
+    "must be destitute with no means of subsistence",
+    "must have no family or relatives to depend upon",
+    "must be a local resident of the district"
+  ],
+  "benefits_summary": "Monthly pension amount, as notified by the Government of Andhra Pradesh, disbursed on the first day of each month.",
+  "documents_required": [],
+  "application_link": null
+}

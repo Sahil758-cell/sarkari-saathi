@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Travel Grant Scheme For College Teachers / College Librarians / Vice Chancellors / Commission Members And UGC Officers",
+  "occupation": [
+    "Permanent Teacher of College",
+    "College Librarian",
+    "Vice Chancellor",
+    "UGC Member",
+    "UGC Officer",
+    "Permanent Teacher of Institution of National Importance",
+    "Commission Member"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent employee (teacher or librarian) of a college or institution covered under the scheme.",
+    "Must be enlisted under sections 2(f) and 12(B) of the UGC Act where applicable.",
+    "UGC Officers must be at the level of EO/US or above.",
+    "Applicants must submit the application at least two months before the conference start date.",
+    "Incomplete applications will be rejected and no correspondence will be entertained."
+  ],
+  "benefits_summary": "Financial assistance covering travel, registration fee, per diem, and visa fees, disbursed in a single installment after the conference.",
+  "documents_required": [],
+  "application_link": null
+}

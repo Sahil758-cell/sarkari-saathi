@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Grant Of Retention Scholarship to Scheduled Caste Girl Students",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Must be a native of Puducherry or have resided there continuously for at least five years.",
+    "Must be studying in classes I to V in a government or recognized private institution in Puducherry.",
+    "Scholarship will be cancelled for misconduct or if obtained by false statement.",
+    "Scholarship is retained only while the student continues satisfactory studies and gets promotion each year."
+  ],
+  "benefits_summary": "₹1,000 per student per year (₹100 per month for 10 months) for classes I‑V.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

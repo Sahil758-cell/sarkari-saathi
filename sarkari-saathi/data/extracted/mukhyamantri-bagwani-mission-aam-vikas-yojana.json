@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Mukhyamantri Bagwani Mission: Aam Vikas Yojana",
+  "occupation": [
+    "ryot farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have agricultural land between 0.25 and 10 acres (0.1 to 4 ha)",
+    "Must be registered on the DBT portal",
+    "Only ryot farmers are eligible to apply"
+  ],
+  "benefits_summary": "Financial support up to ₹18,000 per hectare in the first year and ₹6,000 per hectare in the second and third years, plus supply of high-quality plants.",
+  "documents_required": [
+    "land documents",
+    "contract form"
+  ],
+  "application_link": null
+}

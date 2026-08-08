@@ -1,0 +1,20 @@
+{
+  "scheme_name": "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Assistance to Individual Handloom Weaver",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual weaver.",
+    "Individual weavers must not be under the ambit of any Primary Weavers’ Cooperative Societies."
+  ],
+  "benefits_summary": "Provides ₹5,000 for work‑shed/loom repairs and ₹10,000 for raw‑material (yarn) assistance procured through Tantuja.",
+  "documents_required": [],
+  "application_link": null
+}

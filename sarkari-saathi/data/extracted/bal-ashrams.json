@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Bal Ashrams",
+  "occupation": [
+    "social worker",
+    "guardian"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Child must be an orphan or destitute.",
+    "Child must not already be receiving benefits of the scheme."
+  ],
+  "benefits_summary": "Provides free schooling, boarding, lodging, bedding, clothing, recreational material, and medicines to orphan or destitute children.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)",
+    "Self-attested mandatory documents"
+  ],
+  "application_link": null
+}

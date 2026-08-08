@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Early Intervention Centres for Children with Autism",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary child must be affected by autism"
+  ],
+  "benefits_summary": "Provides early intervention services to improve social, imitation, language, and play skills for children with autism.",
+  "documents_required": [],
+  "application_link": null
+}

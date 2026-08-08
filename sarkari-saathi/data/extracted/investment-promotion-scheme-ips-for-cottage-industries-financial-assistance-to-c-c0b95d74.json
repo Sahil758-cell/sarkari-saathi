@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) For Cottage Industries: Financial Assistance To Cottage Industries",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be associated with a Cottage Industry",
+    "Applicant must have passed at least Standard Four (IV)",
+    "Applicant must have undergone a minimum of one month of training from a Government of India recognised institute in the area of the proposed business, or have at least one year of experience in the same activity, or be a hereditary craftsperson",
+    "Additional capital subsidy of 10% is available for Scheduled Castes, Scheduled Tribes, Women, and differently‑abled persons with 30% or more disability"
+  ],
+  "benefits_summary": "Provides up to 25% capital subsidy (maximum ₹5,00,000) and 50% interest subsidy on loans up to ₹20,00,000, with an extra 10% capital subsidy for SC/ST/Women/differently‑abled beneficiaries.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

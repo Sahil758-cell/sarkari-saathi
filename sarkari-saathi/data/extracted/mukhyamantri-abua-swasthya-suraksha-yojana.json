@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Abua Swasthya Suraksha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant's family must possess a ration card under the National Food Security Act (NFSA) or Jharkhand State Food Security Act, specifically pink, yellow, or green ration cards."
+  ],
+  "benefits_summary": "Health insurance cover of up to ₹15,00,000 per family per year.",
+  "documents_required": [
+    "Ration Card",
+    "Aadhaar Card"
+  ],
+  "application_link": "https://bis.jharkhand.gov.in/"
+}

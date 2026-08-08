@@ -1,0 +1,27 @@
+{
+  "scheme_name": "YSR Nethanna Nestham",
+  "occupation": [
+    "Handloom Weaver"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be affiliated and registered with the Handloom Association",
+    "The applicant’s family must own a handloom",
+    "Only one benefit per weaver family regardless of the number of looms owned",
+    "Applicant must be present in the Departmental Database",
+    "Applicant must be engaged in handloom weaving and earn livelihood from weaving"
+  ],
+  "benefits_summary": "Financial assistance of ₹24,000 per eligible weaver family to modernize equipment and compete with powerloom products.",
+  "documents_required": [],
+  "application_link": null
+}

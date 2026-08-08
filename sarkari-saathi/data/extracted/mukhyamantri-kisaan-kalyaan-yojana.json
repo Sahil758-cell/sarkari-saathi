@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhyamantri Kisaan Kalyaan Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered under PM Kisan Samman Nidhi Yojana.",
+    "Applicant must own cultivable land on which they are farming.",
+    "Applicants who are former or present holders of constitutional posts, ministers, members of Parliament, state legislators, mayors, or district panchayat chairpersons are not eligible.",
+    "Serving or retired officers and employees of central or state government ministries, departments, PSEs, attached offices, autonomous institutions, and regular employees of local bodies (excluding multi‑tasking staff/Class IV/Group D) are not eligible.",
+    "Retired pensioners whose monthly pension is Rs 10,000 or more are not eligible.",
+    "Persons who paid income tax in the last assessment year are not eligible.",
+    "Professionals such as doctors, engineers, lawyers, chartered accountants, and architects registered with professional bodies are not eligible.",
+    "Applicant must be a poor farmer."
+  ],
+  "benefits_summary": "Eligible farmers receive Rs 4,000 per year, paid in two installments of Rs 2,000 each.",
+  "documents_required": [],
+  "application_link": null
+}

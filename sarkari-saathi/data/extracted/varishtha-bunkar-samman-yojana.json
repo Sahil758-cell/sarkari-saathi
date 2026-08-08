@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Varishtha Bunkar Samman Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an active weaver member of a primary weaver cooperative society",
+    "The applicant must be affiliated with the Chhattisgarh State Handloom Union, Raipur",
+    "Only one weaver from each district who has produced the maximum cloth in that district is eligible",
+    "The weaver must not be a defaulter with the cooperative society"
+  ],
+  "benefits_summary": "Financial assistance of ₹11,000 is provided to eligible senior weavers.",
+  "documents_required": [
+    "Prescribed application form (printed)",
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

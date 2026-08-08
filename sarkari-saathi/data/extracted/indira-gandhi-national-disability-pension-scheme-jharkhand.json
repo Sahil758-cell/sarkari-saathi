@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme - Jharkhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be receiving pension benefits from any other Central or State Government pension scheme (e.g., Chief Minister State Widow Honor Pension Scheme, Chief Minister State HIV/AIDS Affected Person Sahayataarth Pension Scheme, Swami Vivekanand Disabled Self‑Reliance Promotion Scheme).",
+    "Applicant must be suffering from severe or multiple disabilities as defined under the Rights of Persons with Disabilities Act, 2016."
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a monthly pension of ₹1000 (₹300 from the Central government and ₹700 from the State government).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Disability Pension (GBOCWWB)",
+  "occupation": [
+    "Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed ninety days of service as a registered worker in the year",
+    "Must be permanently disabled",
+    "Disability must be caused by Paralysis, Leprosy, Tuberculosis (TB) or an Accident",
+    "Applicant must be registered with the Goa Building and Other Construction Workers Welfare Board",
+    "Unregistered workers or their dependents are eligible upon production of a certificate from the builder or area inspector"
+  ],
+  "benefits_summary": "Provides a monthly financial assistance of ₹300 and a one‑time ex‑gratia payment up to ₹10,000, based on the percentage of disability.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested if required)",
+    "Certificate from builder or area inspector for unregistered workers"
+  ],
+  "application_link": null
+}

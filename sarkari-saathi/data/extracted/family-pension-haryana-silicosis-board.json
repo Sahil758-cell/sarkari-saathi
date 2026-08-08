@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Family Pension- Haryana Silicosis Board",
+  "occupation": [
+    "factory worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the spouse of the deceased worker or one of the living parents",
+    "The deceased worker must have been suffering from silicosis as confirmed by the Silicosis Diagnosis Board, Haryana",
+    "The death of the worker must have been due to silicosis",
+    "The deceased worker must have been employed in a factory or at a construction site"
+  ],
+  "benefits_summary": "Financial assistance of ₹3,500 per month is provided to the spouse of a deceased worker, or to the worker’s living parents if the worker was unmarried.",
+  "documents_required": [
+    "medical certificates",
+    "proof of identity",
+    "certificate of being the widow/widower or nominee"
+  ],
+  "application_link": null
+}

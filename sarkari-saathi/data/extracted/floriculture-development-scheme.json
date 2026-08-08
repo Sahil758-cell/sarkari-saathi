@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Floriculture Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Meghalaya",
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must have a minimum cultivated area of 0.2 hectares",
+    "Applicant should be willing to invest for future expansion in planting materials and infrastructure"
+  ],
+  "benefits_summary": "Provides a 50% subsidy on quality flower planting material and a free polyhouse up to 100 sqm per unit.",
+  "documents_required": [],
+  "application_link": null
+}

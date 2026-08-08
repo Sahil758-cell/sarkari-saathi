@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scholarship/Merit scholarship to OBC/MIN/SC/ST students from Class I to XII",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in a Government/Aided/Recognised school affiliated to the Directorate of Education, Kendriya Vidyalaya Sangathan, National Open School, NDMC, Delhi Cantonment Board, East Delhi Municipal Corporation, North Delhi Municipal Corporation, or South Delhi Municipal Corporation.",
+    "For OBC and Minority students, family income must be less than or equal to ₹2,00,000 per annum.",
+    "Only one scholarship can be availed, either under the State Plan Scheme or the Centrally Sponsored Scholarship Scheme, whichever is more beneficial.",
+    "Bank account for scholarship disbursement must be in the student's name (a joint account with a parent/guardian is permissible)."
+  ],
+  "benefits_summary": "Annual scholarships ranging from ₹1,000 to ₹4,500 per student depending on class and academic performance.",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

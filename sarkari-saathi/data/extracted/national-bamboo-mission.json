@@ -1,0 +1,19 @@
+{
+  "scheme_name": "National Bamboo Mission",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable to all farmers in India"
+  ],
+  "benefits_summary": "Provides support for bamboo nursery establishment, cultivation, processing, product manufacturing, capacity building and entrepreneurship to boost farmer income and industry self‑dependency.",
+  "documents_required": [],
+  "application_link": "Refer to respective State's Bamboo Mission Portal for online link"
+}

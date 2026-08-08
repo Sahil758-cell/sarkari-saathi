@@ -1,0 +1,36 @@
+{
+  "scheme_name": "National Pension Scheme For Traders And Self Employed Persons",
+  "occupation": [
+    "self‑employed shop owner",
+    "retail owner",
+    "vyapari",
+    "shop owners",
+    "retail traders",
+    "rice mill owners",
+    "oil mill owners",
+    "workshop owners",
+    "commission agents",
+    "real‑estate brokers",
+    "small hotel owners",
+    "restaurant owners"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be self‑employed (shop owner, retail owner or other small‑scale trader)",
+    "Annual turnover of the business must not exceed ₹1.5 crore"
+  ],
+  "benefits_summary": "A guaranteed monthly pension of ₹3,000 after age 60, with a 50 % family pension for the spouse on the beneficiary’s death.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Bank passbook, cheque leaf or bank statement (proof of bank account)"
+  ],
+  "application_link": null
+}

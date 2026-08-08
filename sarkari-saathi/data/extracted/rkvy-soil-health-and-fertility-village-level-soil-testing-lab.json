@@ -1,0 +1,27 @@
+{
+  "scheme_name": "RKVY Soil Health and Fertility Village level Soil Testing Lab",
+  "occupation": [
+    "rural youth",
+    "village-level entrepreneur",
+    "SHG",
+    "Krishi Sakhi",
+    "government school student",
+    "agriculture graduate"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 27,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must be at least 10th pass with science and possess basic computer knowledge",
+    "Applicant or entrepreneur group must have own premises or a rented building with a lease agreement for at least four years"
+  ],
+  "benefits_summary": "Provides affordable village‑level soil testing services, enabling farmers to get timely, accurate analyses and customized nutrient recommendations while creating employment for rural youth.",
+  "documents_required": [],
+  "application_link": null
+}

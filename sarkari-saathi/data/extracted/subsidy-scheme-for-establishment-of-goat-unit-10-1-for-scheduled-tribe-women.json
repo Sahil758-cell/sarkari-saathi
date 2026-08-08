@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Subsidy Scheme For Establishment Of Goat Unit (10+1) For Scheduled Tribe Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only one person per family can receive the benefit",
+    "Preference given to ST widows or abandoned women",
+    "Beneficiary must purchase the goat unit within 90 days of pre‑approval",
+    "Beneficiary must contribute 50 % of the unit cost for food, water, fodder, residence and concentrate expenses",
+    "Must maintain records of milk production and provide the register during technical officer visits",
+    "Benefit is available only once in a lifetime",
+    "If the beneficiary is found disabled, the approval will be cancelled"
+  ],
+  "benefits_summary": "50% subsidy on unit cost up to ₹45,000, available once in a lifetime",
+  "documents_required": [
+    "Printout of the confirmed online application with signature/thumb impression",
+    "Supporting documents as required"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

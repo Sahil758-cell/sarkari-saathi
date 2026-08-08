@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Jagananna Videshi Vidya Deevena",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": 800000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only one candidate per family is eligible",
+    "Candidate who has availed financial assistance under similar schemes from the State or Government of India is not eligible",
+    "Candidates must seek admission to an accredited university/institution abroad",
+    "Selected candidate must join the university/institution within six months of selection communication; no extension is permitted",
+    "Candidate shall not change the course of study or research for which the scholarship was sanctioned",
+    "Applicants must have Aadhar linked with bank account",
+    "Applicants must have a valid passport and active bank account"
+  ],
+  "benefits_summary": "Provides up to 100% tuition fee coverage (or 50% up to ₹5,00,000) for eligible students, paid in installments, along with one‑way economy class air tickets and visa fee reimbursement.",
+  "documents_required": [
+    "Income certificate",
+    "Caste certificate",
+    "Nativity certificate",
+    "Aadhar card",
+    "Passport",
+    "Bank account details"
+  ],
+  "application_link": null
+}

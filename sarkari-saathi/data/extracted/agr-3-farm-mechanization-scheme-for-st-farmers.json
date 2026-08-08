@@ -1,0 +1,26 @@
+{
+  "scheme_name": "AGR 3 (Farm Mechanization) Scheme For ST Farmers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of Gujarat State",
+    "Farmer must belong to Scheduled Tribe category in the 208 talukas where the SMAM scheme is not implemented",
+    "Beneficiary must be residing in Talukas/Blocks and Districts covered under the Agriculture Support Program in Tribal Area Sub Plan & Dispersed Tribes (TASP)",
+    "Farmer must purchase agricultural equipment from an authorized manufacturer as listed by the agriculture department"
+  ],
+  "benefits_summary": "Financial assistance for purchase of agricultural equipment and subsidized seeds/fertilizer for ST farmers in Gujarat.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx"
+}

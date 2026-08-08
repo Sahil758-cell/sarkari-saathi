@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for MSME Sector: Reimbursement Of Free On Board (FOB) Expenses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "New or existing manufacturing/service units undertaking expansion or diversification in the MSME sector",
+    "Unit must have commenced commercial production between 20.05.2022 and 19.05.2027",
+    "Enterprise must apply within six months from 31st March of the previous financial year"
+  ],
+  "benefits_summary": "20% reimbursement of FOB value up to ₹20,00,000 per beneficiary per year for three years.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

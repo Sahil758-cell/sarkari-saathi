@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Distribution of Kerosene Oil Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be covered under the National Food Security Act (NFSA) 2013, Jharkhand State Food Security Scheme, or possess a White Card",
+    "Applicant must not have access to other subsidized fuel schemes"
+  ],
+  "benefits_summary": "Beneficiaries receive 1 liter of kerosene oil at subsidized rates each month.",
+  "documents_required": [
+    "Aadhaar number",
+    "Aadhaar Enrolment Identification Slip"
+  ],
+  "application_link": null
+}

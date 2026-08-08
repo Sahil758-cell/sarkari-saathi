@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Savitribai Phule Self-Help Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be literate",
+    "Must be currently unemployed",
+    "Must have no outstanding defaults with any nationalized bank, cooperative bank, or other financial institution"
+  ],
+  "benefits_summary": "Provides margin money assistance covering up to 50% of the project cost, capped at ₹15,000.",
+  "documents_required": [],
+  "application_link": "https://scwelfare.mponline.gov.in"
+}

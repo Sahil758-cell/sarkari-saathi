@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance to Old Age Pensioner Suffering From TB/ Cancer",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be an Old Age Pensioner or a Destitute Pensioner",
+    "Applicant must be suffering from tuberculosis or cancer"
+  ],
+  "benefits_summary": "₹500 per month added to the existing old age pension amount.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents",
+    "Filled and signed application form"
+  ],
+  "application_link": null
+}

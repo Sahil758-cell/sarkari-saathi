@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Aamar Dukan On Wheels",
+  "occupation": [
+    "unemployed"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant's name must be registered in the Employment Exchange.",
+    "Minimum educational qualification is HSLC or equivalent."
+  ],
+  "benefits_summary": "Beneficiaries can procure essential commodities at prices below MRP, earn a profit margin of Rs. 2‑3 per Kg/Litre, and operate under the direction of local authorities.",
+  "documents_required": [],
+  "application_link": null
+}

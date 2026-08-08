@@ -1,0 +1,22 @@
+{
+  "scheme_name": "National Renewable Energy Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in a graduate or post‑graduate degree program in Engineering, Management, Law, Science or Renewable Energy at a recognized university/institution in India or abroad.",
+    "Must be working in the Renewable Energy sector in national, international or non‑governmental organisations.",
+    "Interns cannot repeat or extend the internship.",
+    "MNRE may relax any of the above conditions for deserving candidates."
+  ],
+  "benefits_summary": "Stipend of ₹15,000 per month for physical internships, along with a completion certificate and logistical support such as internet access.",
+  "documents_required": [],
+  "application_link": null
+}

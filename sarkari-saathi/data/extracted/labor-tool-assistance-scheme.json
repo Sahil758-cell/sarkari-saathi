@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Labor Tool Assistance Scheme",
+  "occupation": [
+    "mason",
+    "electrician",
+    "plumber",
+    "carpenter",
+    "porter",
+    "painter"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be registered in any district of Chhattisgarh",
+    "Beneficiary can receive tool kit for only one trade"
+  ],
+  "benefits_summary": "Provides a tool kit to eligible construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

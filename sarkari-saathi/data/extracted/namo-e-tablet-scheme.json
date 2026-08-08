@@ -1,0 +1,23 @@
+{
+  "scheme_name": "NAMO E-Tablet Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the 12th examination from a recognized institution and board in Gujarat.",
+    "Must be in the first year of college.",
+    "Polytechnic students are also eligible."
+  ],
+  "benefits_summary": "Free 7‑inch 4G‑enabled tablets preloaded with textbooks, e‑books and video lectures are provided to eligible college and university students in Gujarat.",
+  "documents_required": [],
+  "application_link": null
+}

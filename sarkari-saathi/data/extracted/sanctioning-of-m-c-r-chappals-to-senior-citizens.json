@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Sanctioning of M.C.R. Chappals to Senior Citizens",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have previously availed the benefit of this scheme.",
+    "Benefit coverage varies based on parent/guardian monthly income."
+  ],
+  "benefits_summary": "Distribution of M.C.R. chappals, with the cost fully or partially covered depending on parent/guardian income.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

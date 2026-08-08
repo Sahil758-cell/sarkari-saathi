@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Integrated Pest Management Demonstration Cum Training",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a farmer",
+    "Beneficiary must be willing to adopt Integrated Pest Management practices",
+    "Entity/organization must be a Farmer Field School",
+    "Entity/organization must be interested in conducting a demonstration and training program for farmers"
+  ],
+  "benefits_summary": "Financial assistance of ₹17,000 per 40‑hectare demonstration and training cluster, plus hands‑on pest‑management training for farmers.",
+  "documents_required": [],
+  "application_link": null
+}

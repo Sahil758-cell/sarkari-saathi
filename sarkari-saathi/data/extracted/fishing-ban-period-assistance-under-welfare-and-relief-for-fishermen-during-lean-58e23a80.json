@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Fishing Ban Period Assistance",
+  "occupation": [
+    "fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ordinarily resident of the Union territory of Puducherry and must not be ordinarily residing in any foreign nation during the natural calamity, lean season, or fishing ban period for which relief is issued",
+    "Beneficiary eligibility may be decided periodically by the Governing Body of the Pondicherry Fishermen Welfare and Distress Relief Society",
+    "Applicant or any member of the ration card must not be in regular service with Government/Quasi‑Government establishments or be a retired government pensioner",
+    "Benefit is not denied solely because the head of the family or any family member receives an Old Age Pension",
+    "Benefit is not restricted based on whether the fisherman owns mechanized, motorized or traditional fishing boats"
+  ],
+  "benefits_summary": "Each fisherman's family receives 100 kg of rice and a cash assistance of ₹750 during the fishing ban period.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Building And Other Construction Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Odisha.",
+    "The applicant must be pursuing technical education or ITI/Polytechnic courses."
+  ],
+  "benefits_summary": "Provides variable financial support to SC students pursuing technical education; living costs are not covered.",
+  "documents_required": [
+    "Aadhar number"
+  ],
+  "application_link": null
+}

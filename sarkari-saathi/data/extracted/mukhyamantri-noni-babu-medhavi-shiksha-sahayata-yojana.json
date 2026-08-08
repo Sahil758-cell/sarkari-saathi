@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Mukhyamantri Noni Babu Medhavi Shiksha Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only the first two children of registered construction workers in Chhattisgarh are eligible",
+    "Benefits are disbursed only once per academic year",
+    "If a student discontinues studies before completing the program, the beneficiary must reimburse the entire tuition fee to the Board",
+    "Students receiving financial assistance from any other source for studying abroad are not eligible",
+    "For Class 10th to 12th, a minimum of 75% marks is required",
+    "Registration with the board must be done at least 90 days in advance",
+    "Top ten students in state level examinations of Class 10th and 12th are eligible for additional incentives",
+    "No percentage/grade requirement for undergraduate and postgraduate courses",
+    "Professional courses abroad require passing the relevant country’s entry examination"
+  ],
+  "benefits_summary": "Provides lump‑sum education assistance ranging from ₹5,000 to ₹12,500 for school to vocational courses, plus up to ₹1 lakh incentive for top ten students, full tuition for higher studies, and up to ₹50 lakh for professional courses abroad.",
+  "documents_required": [],
+  "application_link": null
+}

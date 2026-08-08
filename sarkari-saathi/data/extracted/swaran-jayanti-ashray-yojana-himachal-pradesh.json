@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Swaran Jayanti Ashray Yojana - Himachal Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 50000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not already own a house.",
+    "Applicant must have land in his name recorded in revenue records for house construction."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,50,000 for constructing a new house.",
+  "documents_required": [],
+  "application_link": null
+}

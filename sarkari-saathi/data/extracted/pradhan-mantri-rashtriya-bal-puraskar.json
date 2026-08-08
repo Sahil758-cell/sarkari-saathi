@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Pradhan Mantri Rashtriya Bal Puraskar",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The child must be an Indian citizen",
+    "The achievement/act/incident should have occurred within 2 years of the last date of receipt of application/nomination for the year of consideration",
+    "The child must have made outstanding contributions in any of the seven specified categories (Bravery, Art & Culture, Environment, Innovation, Science & Technology, Social Service, Sports)"
+  ],
+  "benefits_summary": "Medal, Certificate and citation are awarded to the child.",
+  "documents_required": [
+    "Name as per Aadhaar/Valid Identity Proof",
+    "Date of Birth",
+    "Nominator/Applicant Type",
+    "Mobile Number",
+    "Email ID",
+    "Aadhaar Number",
+    "Type of Organization (if applying as organization)",
+    "Name of the Authorized Person as per Aadhaar/Valid Identity Proof",
+    "Brief Description about the Organization",
+    "Designation"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Laptop Purchase Assistance Scheme- Gujarat Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be employed in a factory or institute within Gujarat",
+    "Worker must have contributed to the Labour Welfare Fund for at least one year at the local office",
+    "Benefit is for the child who has passed the Class 12 board exam with 70% or more marks",
+    "Child must be admitted to a professional or design course in India",
+    "Admission abroad makes the child ineligible",
+    "The laptop must be purchased in the name of the student",
+    "Application must be made within six months of purchasing the laptop in the same year"
+  ],
+  "benefits_summary": "Provides up to 50% of the laptop cost or ₹25,000, whichever is less, for eligible students, subject to a maximum laptop price of ₹50,000.",
+  "documents_required": [],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

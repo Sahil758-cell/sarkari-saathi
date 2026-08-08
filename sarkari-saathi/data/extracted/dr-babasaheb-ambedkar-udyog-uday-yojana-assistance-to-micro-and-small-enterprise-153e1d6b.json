@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance to Micro and Small Enterprises (MSE) of SC/ST for Plot Developed by GIDC",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small, or Medium enterprise run by an SC/ST entrepreneur.",
+    "The applicant must apply for a plot within an estate approved by GIDC.",
+    "Maximum plot size should not exceed 1,000 square meters (exceptions may apply for irregular plots).",
+    "SC/ST enterprise is defined as one where the contribution of the SC/ST entrepreneur is 51% or more."
+  ],
+  "benefits_summary": "The enterprise can receive financial assistance up to 70% of the GIDC plot allotment price, with plot possession after paying the remaining 30%.",
+  "documents_required": [],
+  "application_link": null
+}

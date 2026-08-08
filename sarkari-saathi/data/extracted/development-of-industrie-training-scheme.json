@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Development of Industrie-Training Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Puducherry Union Territory or have a continuous residence of 3 years in Puducherry UT.",
+    "Candidates who have already been trained under any government scheme are not eligible to apply."
+  ],
+  "benefits_summary": "Monthly stipend of Rs.1,500 for SSLC/ITI/HSC holders, Rs.2,500 for graduates/diploma holders, and Rs.3,000 for engineering/PG degree holders.",
+  "documents_required": [
+    "Birth certificate",
+    "Education certificate",
+    "Residence certificate",
+    "Certificate from the District Collector/Dy. Commissioner confirming financial position and non‑receipt of other assistance",
+    "Age certificate (or affidavit before a First class Magistrate)"
+  ],
+  "application_link": "The District Industries Centre will advertise in local daily newspapers. Applicants must obtain the prescribed proforma, fill it out, and submit it directly to the General Manager, District Industries Centre, Pondicherry, along with the required documents. Applications received through any organization or association will not be accepted. Contact: Technical Officer, Yanam."
+}

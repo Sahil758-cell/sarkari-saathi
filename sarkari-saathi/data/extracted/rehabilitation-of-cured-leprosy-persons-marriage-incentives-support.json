@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Rehabilitation of Cured Leprosy Persons: Marriage Incentives & Support",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a cured leprosy person",
+    "Applicant’s daughter must be unmarried"
+  ],
+  "benefits_summary": "A one‑time grant of up to ₹50,000 is provided for the marriage of daughters of cured leprosy persons.",
+  "documents_required": [],
+  "application_link": null
+}

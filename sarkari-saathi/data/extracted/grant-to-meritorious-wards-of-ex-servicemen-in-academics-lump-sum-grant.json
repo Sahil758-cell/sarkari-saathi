@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Grant to Meritorious Wards of Ex-Servicemen in Academics (Lump Sum Grant)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a ward of an Ex‑Serviceman or a ward of the widow of an Ex‑Serviceman",
+    "Applicant must have secured 1st, 2nd or 3rd rank in Class 10th or 12th in a government‑recognized institution, or must have secured a gold medal in graduation/post‑graduation from a government‑recognized university",
+    "Application must be submitted within three months from the date of publication of the exam result"
+  ],
+  "benefits_summary": "Lump‑sum grant of up to ₹18,000 is provided based on academic rank and level of education.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

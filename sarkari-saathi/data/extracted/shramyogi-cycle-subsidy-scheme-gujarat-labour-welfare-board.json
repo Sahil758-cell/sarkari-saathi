@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Shramyogi Cycle Subsidy Scheme- Gujarat Labour Welfare Board",
+  "occupation": [
+    "labourer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have been employed for the last one year in a factory or institute in Gujarat.",
+    "The applicant must be a regular contributor to the Labour Welfare Fund.",
+    "The scheme can be availed only once during the employment period.",
+    "Assistance is provided only for a newly purchased bicycle.",
+    "The application must be made within six months from the date on the bicycle purchase bill.",
+    "The bicycle purchase bill must include the beneficiary’s name, the shopkeeper’s GST number, and the cycle chassis number, and the chassis size must be at least 22 inches.",
+    "The final decision on assistance rests with the Welfare Commissioner in Ahmedabad."
+  ],
+  "benefits_summary": "Labourers receive a subsidy of ₹1,500 towards the purchase of a bicycle.",
+  "documents_required": [
+    "Bicycle purchase bill",
+    "Aadhaar Card"
+  ],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Relief During Natural Calamities Such As Cyclone, Flood or Fire (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex‑serviceman, a widow of an Ex‑serviceman, or a dependent of an Ex‑serviceman",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "Applicant must have suffered damage due to a natural calamity such as a cyclone, flood or fire"
+  ],
+  "benefits_summary": "Up to ₹40,000 is provided as relief for damage caused by cyclones, floods or fires, and the amount is credited to the beneficiary’s bank account.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

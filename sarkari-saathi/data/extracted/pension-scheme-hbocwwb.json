@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Pension Scheme (HBOCWWB)",
+  "occupation": [
+    "building worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Haryana Building & Other Construction Workers Welfare Board",
+    "Must have a minimum of three years of regular membership before completing the age of 60 years",
+    "Must not be receiving pension benefits from any other Department/Board/Corporation of the Haryana Government",
+    "Must submit a life certificate every year in the month of November",
+    "Must attach a copy of the document submitted as proof of age",
+    "Must attach a No Objection Certificate issued by the Department of Social Justice and Empowerment"
+  ],
+  "benefits_summary": "A registered construction worker receives a pension of ₹3,250 per month after turning 60 years of age.",
+  "documents_required": [
+    "Proof of age document",
+    "No Objection Certificate from the Department of Social Justice and Empowerment",
+    "Life certificate (submitted annually in November)"
+  ],
+  "application_link": null
+}

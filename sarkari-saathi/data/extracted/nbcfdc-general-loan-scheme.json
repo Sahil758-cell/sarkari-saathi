@@ -1,0 +1,23 @@
+{
+  "scheme_name": "NBCFDC General Loan Scheme",
+  "occupation": [
+    "Entrepreneur"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Entrepreneur"
+  ],
+  "benefits_summary": "Provides loans up to ₹15 lakh with interest rates ranging from 6% to 8% per annum for various income‑generating activities.",
+  "documents_required": [],
+  "application_link": "https://nbcfdc.gov.in/whow-to-apply/en"
+}

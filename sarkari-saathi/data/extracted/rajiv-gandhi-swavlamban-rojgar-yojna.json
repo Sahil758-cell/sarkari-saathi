@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Rajiv Gandhi Swavlamban Rojgar Yojna",
+  "occupation": [
+    "School/College dropouts",
+    "Individual entrepreneur",
+    "Trade Professionals",
+    "Artisan",
+    "Technical institute graduates",
+    "Small-Scale Industrial unit owners"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be located within the National Capital Territory of Delhi",
+    "Investment in plant, machinery and equipment must not exceed the ceiling prescribed for small‑scale units by the Central Government",
+    "Applicant must furnish a surety/security of one Government servant (employee of GNCTD, its autonomous bodies or Central Government working in Delhi)",
+    "For units in non‑conforming areas, a No Objection Certificate from the High Power Committee and a Municipal Corporation License (MCL) are required",
+    "For professional/commercial activities, a Registration Certificate from the Municipal Corporation of Delhi (MCD) is required"
+  ],
+  "benefits_summary": "Loan up to ₹3,00,000 with a 15% subsidy on project cost (capped at ₹7,500 per entrepreneur).",
+  "documents_required": [
+    "Application form",
+    "Surety/security document of one Government servant",
+    "No Objection Certificate from the High Power Committee (for non‑conforming areas)",
+    "Municipal Corporation License (MCL)",
+    "Registration Certificate from MCD (for trade activities)"
+  ],
+  "application_link": null
+}

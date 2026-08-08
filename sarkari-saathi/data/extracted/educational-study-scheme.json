@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Educational Study Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed Standard 12 with at least 60% marks from any school in Gujarat",
+    "Must be pursuing an undergraduate or postgraduate professional course accredited by the relevant councils",
+    "Must be studying in Gujarat or in other states/UTs for select institutions such as IIM, IIT, NID, NIFT, IRMA, and TISS",
+    "Priority is given to widows and orphans when sanctioning loans",
+    "Loans will be recovered without interest subsidy if the borrower drops out or fails to obtain the degree within the stipulated time"
+  ],
+  "benefits_summary": "Provides education loans up to ₹10,00,000 (or the full tuition fee, whichever is lower) at a simple interest rate of 4% for eligible students.",
+  "documents_required": [
+    "Certificates",
+    "Mark sheets"
+  ],
+  "application_link": null
+}

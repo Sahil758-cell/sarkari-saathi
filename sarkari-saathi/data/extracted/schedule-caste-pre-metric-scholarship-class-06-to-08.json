@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Schedule Caste Pre-Metric Scholarship Class 06 To 08",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities or schools recognized by the Department of Education.",
+    "Student's guardians should not be income taxpayers (if parent(s) are alive).",
+    "Student must not be receiving any other scholarship or allowance for study from central, state or public sources.",
+    "Student must not have failed in the lower class in the last session.",
+    "If the student fails any examination, the scholarship will be stopped and the student must reapply after passing the class."
+  ],
+  "benefits_summary": "SC boy students receive Rs. 75 per month; SC girl students receive Rs. 125 per month.",
+  "documents_required": [],
+  "application_link": "Applicant to log in to RajSSO Portal using his/her SSOID. If SSOID is not available then the applicant must first register on RajSSO Portal to create SSOID and update the SSO profile at first login. After successful authentication/login and updation of the SSOID profile, select the scheme name, select his/her name, the bank account and fill in personal details. Upload the required document and click the “SUBMIT” button."
+}

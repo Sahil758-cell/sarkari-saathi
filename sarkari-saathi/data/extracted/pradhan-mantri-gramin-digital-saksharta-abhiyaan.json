@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Beneficiary must be digitally illiterate",
+    "Only one eligible person per household where none of the family members is digitally literate will be considered",
+    "Priority given to non‑smartphone users, Antyodaya households, college drop‑outs, participants of the adult literacy mission, and digitally illiterate school students (class 9‑12) where ICT training is unavailable",
+    "Preference given to women, differently‑abled persons, and minorities"
+  ],
+  "benefits_summary": "Provides digital literacy training (≈20 hours) to rural residents, enabling them to use computers, the internet, and digital payment services.",
+  "documents_required": [
+    "Aadhaar (UIDAI) number"
+  ],
+  "application_link": null
+}

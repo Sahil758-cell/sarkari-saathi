@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Naye Fal Bagicho Ki Sthapana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must own agricultural land with irrigation sources",
+    "Land size must be between 0.4 and 4 hectares (for SC/ST and tribal area farmers the minimum area is 0.2 hectares)",
+    "Must install drip irrigation system; exemption applies for tribal area farmers with less than 0.4 hectares",
+    "Saplings must be purchased from accredited nurseries, government institutions or research centers"
+  ],
+  "benefits_summary": "Grants cover up to 50% of unit cost (max Rs 30,000 per hectare) for high‑value crops or up to 40% (max Rs 40,000 per hectare) for intensive horticultural orchards, with an additional 25% grant for small/marginal farmers.",
+  "documents_required": [
+    "Jan Aadhaar number",
+    "Bhamashah ID or Janaadhaar ID",
+    "Aadhaar authentication",
+    "Bank details",
+    "Disability details",
+    "Verification documents",
+    "Upload documents"
+  ],
+  "application_link": null
+}

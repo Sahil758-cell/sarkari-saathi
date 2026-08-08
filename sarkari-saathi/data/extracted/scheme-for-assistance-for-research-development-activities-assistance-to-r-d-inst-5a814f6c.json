@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Assistance for Research & Development Activities: Assistance to R&D Institutions/ Laboratories set up by the State Government or by Government of India",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be a Research and Development institution recognized by the Council of Scientific and Industrial Research (CSIR) or the Department of Scientific and Industrial Research (DSIR)",
+    "Institution must be established by the Government of Gujarat or the Government of India",
+    "Eligible activities include setting up new laboratories and strengthening, modernizing, or upgrading existing facilities"
+  ],
+  "benefits_summary": "Provides financial assistance for establishing new R&D laboratories or modernizing and strengthening existing ones for institutions set up by the Gujarat or Indian government.",
+  "documents_required": [],
+  "application_link": null
+}

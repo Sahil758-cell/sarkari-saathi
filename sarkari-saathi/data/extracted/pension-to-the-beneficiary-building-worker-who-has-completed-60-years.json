@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Pension to the Beneficiary Building Worker Who Has Completed 60 Years",
+  "occupation": [
+    "building worker"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Manipur Building and Other Construction Workers' Welfare Board",
+    "Must have at least 5 years of service as a building worker"
+  ],
+  "benefits_summary": "Monthly pension of ₹500, increasing by ₹10 for each additional year of service beyond the initial 5 years.",
+  "documents_required": [],
+  "application_link": null
+}

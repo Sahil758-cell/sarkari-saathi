@@ -1,0 +1,28 @@
+{
+  "scheme_name": "National Youth Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": 15,
+  "age_max": 29,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must not be employed in any government service, PSU, university, college or school.",
+    "Award can be received only once in a lifetime.",
+    "Organizations must be registered under the Registration of Societies Act, 1860 (or the corresponding State Act) for at least three years.",
+    "Organizations must be non‑profit and must not discriminate on the basis of sex, religion, caste or creed.",
+    "Organizations must have rendered extraordinary service involving youth for at least three years.",
+    "Organizations must have a good reputation in the local community.",
+    "Organizations must not have previously received this award."
+  ],
+  "benefits_summary": "Individuals receive a medal, certificate and ₹1,00,000; organizations receive a medal, certificate and ₹3,00,000.",
+  "documents_required": [
+    "Aadhaar card / valid identity proof"
+  ],
+  "application_link": null
+}

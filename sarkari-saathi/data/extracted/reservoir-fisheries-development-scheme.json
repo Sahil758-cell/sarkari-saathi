@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Reservoir Fisheries Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a member of a registered fisheries cooperative society",
+    "Cooperative society should be actively involved in fisheries activities",
+    "Water body must be a stable water resource such as a reservoir, check dam, coal pit, or similar areas affected by mining",
+    "Water body should have a minimum size to qualify for stocking and development"
+  ],
+  "benefits_summary": "Provides fish fingerlings, subsidies on nets and boats, and supports cage culture to boost fish production and livelihoods of cooperative society members.",
+  "documents_required": [],
+  "application_link": null
+}

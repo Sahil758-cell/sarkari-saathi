@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mahila Kisan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant's name must be present in the BPL survey list"
+  ],
+  "benefits_summary": "Loan up to ₹50,000 with 10% margin money and 50% subsidy (max ₹10,000).",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

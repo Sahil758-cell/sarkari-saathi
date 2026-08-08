@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Gramin Peyjal Nishchay Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must not already have a piped water supply connection.",
+    "Applicant should belong to a household that requires access to safe drinking water.",
+    "Applicant must comply with the guidelines set by the Gram Panchayat.",
+    "Applicant should be willing to contribute to the operation and maintenance of the water supply system."
+  ],
+  "benefits_summary": "Provides safe, continuous drinking water to rural households, improving health and hygiene.",
+  "documents_required": [
+    "Identity proof",
+    "Address proof"
+  ],
+  "application_link": null
+}

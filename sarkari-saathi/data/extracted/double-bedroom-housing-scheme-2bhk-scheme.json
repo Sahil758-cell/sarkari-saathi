@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Double Bedroom Housing Scheme (2BHK Scheme)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must belong to the Below Poverty Line (BPL) category.",
+    "Reservation percentages differ for rural (SC/ST 50%, Minorities 7%, others 43%) and urban areas (SC 17%, ST 6%, Minorities 12%, others 65%)."
+  ],
+  "benefits_summary": "Provides a fully subsidized 560 sq ft double‑bedroom house with free land (125 sq yd in rural areas, 36 sq yd in urban areas) and no beneficiary contribution.",
+  "documents_required": [],
+  "application_link": null
+}

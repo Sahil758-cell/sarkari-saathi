@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme (Maharashtra)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 40,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow",
+    "Applicant should not be receiving pension benefits under any other social security scheme"
+  ],
+  "benefits_summary": "Monthly pension of ₹600 per widow.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

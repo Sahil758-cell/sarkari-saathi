@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Arivu Education Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a permanent resident of Karnataka",
+    "Student must belong to the State Religious Minority Community",
+    "Eligibility category noted in source: State Religious Minority Community"
+  ],
+  "benefits_summary": "Provides loans ranging from ₹50,000 to ₹5,00,000 for eligible minority students.",
+  "documents_required": [
+    "passport-size photo",
+    "educational document",
+    "income certificate"
+  ],
+  "application_link": null
+}

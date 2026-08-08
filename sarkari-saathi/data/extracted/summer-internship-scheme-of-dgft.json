@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Summer Internship Scheme Of DGFT",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian national",
+    "Applicant must be pursuing studies in India or abroad",
+    "Applicant must have an excellent academic record",
+    "Applicant must possess a graduation degree in Public Policy, Economics, Finance, Management, or Law",
+    "Applicant must have secured at least 60 % marks in the graduation degree",
+    "Graduation must be from one of the following institutions: National Schools of Law, Central Universities, AICTE‑recognised Financial/Economics Institutions, Recognised National Management Institutes, Foreign Universities, or Institutions of Excellence",
+    "Interns are required to submit a Declaration of Secrecy before commencement"
+  ],
+  "benefits_summary": "Interns receive a token remuneration of ₹10,000 per month, together with logistics support and a certificate upon satisfactory completion of the internship.",
+  "documents_required": [
+    "Declaration of Secrecy",
+    "Scanned application proforma",
+    "Curriculum Vitae (CV)"
+  ],
+  "application_link": "internship-dgft@gov.in"
+}

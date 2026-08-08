@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Migrants Employment Generation Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Returned to Tamil Nadu on or after 01-01-2020 due to the Covid‑19 outbreak",
+    "Minimum educational qualification: 8th standard pass",
+    "Family annual income must be below ₹5 lakh",
+    "Applicant must not have defaulted in any bank or received assistance under other subsidy‑linked government schemes",
+    "Age relaxation up to 55 years for special categories (Women, Minorities, BC/MBC, SC/ST, Ex‑servicemen, Transgender, Differently abled)"
+  ],
+  "benefits_summary": "A subsidy of 25% of the project cost, up to ₹2.5 lakh, is provided to beneficiaries.",
+  "documents_required": [],
+  "application_link": null
+}

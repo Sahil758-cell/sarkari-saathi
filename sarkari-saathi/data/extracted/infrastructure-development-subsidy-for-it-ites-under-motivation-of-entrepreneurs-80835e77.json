@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Infrastructure Development Subsidy (For IT/ITES)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Building must have a minimum constructed area of 50,000 sq.ft.",
+    "Investment must be made by infrastructure developers/industries.",
+    "Investment must be for leasing to IT/ITES industries or for own industrial use (computer systems, software/ITES, BPO, KPO).",
+    "Unit must provide at least 60% of its employment to people of the Union Territory of Puducherry and maintain this ratio during the period specified in the affidavit.",
+    "Industrial unit must not transfer or dispose of the fixed asset (including plant and machinery) for five years from the date of application or subsidy disbursement, whichever is later.",
+    "Additional investments made after the first claim are eligible for subsidy up to the ceiling limit.",
+    "Units that commenced commercial production on or after 1‑4‑2017 are considered new industries; those before are existing units.",
+    "If the same proprietor/partner/board establishes multiple units at different locations with separate licenses/clearances, each unit is eligible as a separate entity."
+  ],
+  "benefits_summary": "Provides a 30% subsidy up to ₹1,00,00,000, disbursed in annual installments not exceeding ₹25,00,000 per annum.",
+  "documents_required": [
+    "Prescribed application form",
+    "Copies of mandatory documents (including self‑attestation if required)"
+  ],
+  "application_link": null
+}

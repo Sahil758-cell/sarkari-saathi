@@ -1,0 +1,26 @@
+{
+  "scheme_name": "State Government ST Scholarship (Class 9 to 10)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student studying in Class 9 or Class 10.",
+    "Must be a native of Madhya Pradesh.",
+    "Eligibility remains even if the student fails for one year.",
+    "No reapplication required for renewal of the scholarship."
+  ],
+  "benefits_summary": "Scholarship of ₹600 per year for boys and ₹1,300 per year for girls in Classes 9‑10.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

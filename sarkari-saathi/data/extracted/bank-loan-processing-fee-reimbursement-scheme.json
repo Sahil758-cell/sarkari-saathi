@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Bank Loan Processing Fee Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Scheduled Caste or Scheduled Tribe category and own/represent any MSE unit.",
+    "Loans must be obtained from scheduled commercial banks, non‑banking finance companies (NBFCs), or state finance corporations."
+  ],
+  "benefits_summary": "Reimbursement of up to 80% of the bank loan processing fee, capped at ₹1,00,000 (excluding GST and other taxes).",
+  "documents_required": [],
+  "application_link": "https://www.scsthub.in"
+}

@@ -1,0 +1,35 @@
+{
+  "scheme_name": "IGSTC Industrial Fellowship- Post Doctoral Industrial Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Maximum age limit is 35 years",
+    "Applicant must be a post‑doctoral researcher or a fresh PhD who obtained the PhD within 3 years of the application deadline, or have submitted the PhD thesis",
+    "Outstanding researchers without a permanent position or with a career break are eligible",
+    "A detailed activity plan covering objectives, execution strategy, and expected outcomes must be provided",
+    "An endorsement/consent letter from the host German industry/organisation is required",
+    "If the applicant has institutional affiliation, a No‑Objection Certificate (NOC) from the head of the institution must be submitted",
+    "A recommendation letter from the mentor at the parent organisation is required (or, if not affiliated, two letters of reference)",
+    "The awardee must comply with the conduct, rules and regulations of the German host organisation",
+    "The fellowship must commence within 3 months of the result announcement",
+    "The awardee/host mentor must inform IGSTC if the fellowship is discontinued before completion",
+    "A detailed fellowship completion report with host mentor endorsement must be submitted within 4 weeks after completion"
+  ],
+  "benefits_summary": "Monthly stipend of €2500 plus up to €1000 for round‑trip airfare and health insurance up to €100 per month.",
+  "documents_required": [
+    "Detailed activity plan",
+    "Endorsement/consent letter from host industry/organisation",
+    "No‑Objection Certificate (NOC) from head of institution (if affiliated)",
+    "Recommendation letter from mentor at parent organisation (or two letters of reference if not affiliated)"
+  ],
+  "application_link": null
+}

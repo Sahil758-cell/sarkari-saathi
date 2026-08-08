@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Scheme for Financial Assistance to Integrated Logistics Facilities: Exemption of Electricity Duty",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The subsidy is applicable only to new units or projects.",
+    "The developer must maintain and operate the logistic facilities for a minimum period of 5 years after commencement of operations."
+  ],
+  "benefits_summary": "Exemption of Electricity Duty for the unit/project from the date of commencement of operation.",
+  "documents_required": [],
+  "application_link": null
+}

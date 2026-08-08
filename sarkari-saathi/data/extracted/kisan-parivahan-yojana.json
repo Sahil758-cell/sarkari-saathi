@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Kisan Parivahan Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Purchase of a medium-sized goods vehicle (600kg to 1500kg) from an authorized dealer"
+  ],
+  "benefits_summary": "Provides a subsidy of 35% of the vehicle cost up to ₹75,000 for Small, Marginal, Women, SC/ST farmers, and 25% up to ₹50,000 for General/Other farmers for medium-sized goods vehicles.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

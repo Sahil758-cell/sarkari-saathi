@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Plant Protection Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must own or lease land of at least 0.2 hectares",
+    "Beneficiary selection is on a first‑come‑first‑serve basis"
+  ],
+  "benefits_summary": "Supply of bio‑pesticides/bio‑agents and plant protection equipment at a 50% subsidy.",
+  "documents_required": [],
+  "application_link": null
+}

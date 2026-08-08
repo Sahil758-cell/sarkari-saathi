@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Chief Minister’s Solar Rooftop Capital Incentive Scheme",
+  "occupation": [
+    "consumer",
+    "solar installer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have an electricity connection",
+    "Individual homes/flats are eligible for a 1 kW solar system; residential flats can apply for 5 kW, 10 kW or multiples as group applications",
+    "Vendor/Installer must be a qualified solar installer empanelled by the Tamil Nadu Energy Development Agency"
+  ],
+  "benefits_summary": "Provides a capital subsidy of ₹20,000 per kilowatt for grid‑connected domestic solar PV systems, in addition to the existing 30% MNRE subsidy.",
+  "documents_required": [
+    "proof of possession",
+    "proof of identity",
+    "site plan",
+    "building layout plan",
+    "other documents"
+  ],
+  "application_link": null
+}

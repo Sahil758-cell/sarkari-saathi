@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Providing Navigational Aids and Other Infrastructure Facilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a native of Gujarat.",
+    "The applicant must own a registered fishing boat under Real Craft Software (registration is mandatory).",
+    "The applicant must possess a valid fishing licence.",
+    "The applicant must have a bank account in their own name.",
+    "The applicant must have obtained in‑principle approval to purchase the floor plan.",
+    "Assistance for infrastructure (cold storage, fish market) is available to private units, entrepreneurs, and fisheries cooperatives."
+  ],
+  "benefits_summary": "Financial assistance and subsidies are provided for fishing equipment, life‑saving gear, and infrastructure such as ice plants, cold storage, and fish processing units to eligible fishermen in Gujarat.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

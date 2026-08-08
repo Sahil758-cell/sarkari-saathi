@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Construction of Free Houses for Tribals",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must possess a free house site patta"
+  ],
+  "benefits_summary": "Free construction of a house on the allotted site for eligible tribal beneficiaries.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhya Mantri Shahri Ajeevika Guarantee Yojna",
+  "occupation": [
+    "unskilled"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "Adult members of the household are eligible",
+    "Household consists of husband, wife and their minor children, but only adult members may work",
+    "Applicant must be a local resident of the Urban Local Body (own house or rent)",
+    "Willingness to do unskilled work in projects or sanitation services",
+    "Registration is required before employment",
+    "No muster‑roll linked work may be assigned under this scheme"
+  ],
+  "benefits_summary": "Provides up to 120 days of guaranteed wage employment to adult urban household members, along with skill training and bank‑linked credit support.",
+  "documents_required": [],
+  "application_link": null
+}

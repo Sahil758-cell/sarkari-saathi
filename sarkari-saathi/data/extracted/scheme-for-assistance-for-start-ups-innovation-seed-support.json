@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme for assistance for Start Ups/ Innovation: Seed Support",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Any individual or group of individuals with an innovative idea or concept, recommended by an approved Nodal Institution, is eligible",
+    "The scheme is sector‑agnostic and open to startups in any sector or branch of science, technology, engineering, agriculture, healthcare, etc.",
+    "Startups already receiving benefits under the Student Startup and Innovation Policy (SSIP) are also eligible"
+  ],
+  "benefits_summary": "Financial assistance up to ₹30,00,000 for prototype development, market research, testing, trials, and marketing/publicity for attending events.",
+  "documents_required": [],
+  "application_link": null
+}

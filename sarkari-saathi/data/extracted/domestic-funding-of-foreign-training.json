@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Domestic Funding Of Foreign Training",
+  "occupation": [
+    "Indian Administrative Service (IAS) Officers",
+    "Group A officers of Central Secretariat Service (CSS)",
+    "Group A officers of Central Secretariat Stenographer Service (CSSS)",
+    "Group A officers of State Civil Service (SCS)",
+    "Indian Police Service (IPS) Officers",
+    "Indian Forest Service (IFoS) Officers",
+    "Group A Central Civil Service Officers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Officers must be serving under the Central Staffing Scheme of DoPT during the tenure of deputation."
+  ],
+  "benefits_summary": "Provides international long‑term, short‑term, and partially‑funded foreign training programmes for eligible government officers.",
+  "documents_required": [],
+  "application_link": "https://dfft.nic.in/CheckApplicationStatus.aspx"
+}

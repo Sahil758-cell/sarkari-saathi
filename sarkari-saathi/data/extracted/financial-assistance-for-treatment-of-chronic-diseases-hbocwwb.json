@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance for Treatment of Chronic Diseases (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Haryana Building & Other Construction Workers Welfare Board",
+    "Must have a regular membership for at least one year",
+    "Must have a minimum of 90 days work experience in the preceding year to avail benefits",
+    "Application can be submitted only once",
+    "Must complete Aadhaar verification",
+    "Must have a Parivar Pehchan Patra (Family ID) for verification; if missing, obtain it from the PPP portal",
+    "Must pay the registration fee"
+  ],
+  "benefits_summary": "Financial assistance up to ₹1,00,000 for indoor treatment of chronic diseases such as Cancer, TB, AIDS.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar"
+  ],
+  "application_link": null
+}

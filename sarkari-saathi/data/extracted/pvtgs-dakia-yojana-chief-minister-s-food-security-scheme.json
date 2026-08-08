@@ -1,0 +1,23 @@
+{
+  "scheme_name": "PVTGs Dakia Yojana (Chief Minister's Food Security Scheme)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Particularly Vulnerable Tribal Groups (PVTGs).",
+    "Applicant’s family must be enrolled under the Antyodaya Yojana.",
+    "Family should reside in designated PVTG areas or remote locations."
+  ],
+  "benefits_summary": "Provides 35 kg of wheat and rice per family per month at a subsidised rate of ₹1 per kg.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Chief Minister’s Girl Child Protection Scheme-II",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 72000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only two girl children per family are eligible",
+    "One parent must have undergone sterilization before turning 40 years old",
+    "Family must have only one female child and no male child, and no male child may be adopted in the future",
+    "Parents/grandparents must be native of Tamil Nadu by birth or have continuous residence of at least ten years at the time of applying",
+    "Scheme also applies to girl children of Sri Lankan Tamil refugees residing in Tamil Nadu refugee camps",
+    "Application must be submitted before the second child reaches 3 years of age",
+    "Matured amount will be given to the girl child only if she appears for the 10th standard public exam"
+  ],
+  "benefits_summary": "Each eligible girl receives a fixed deposit of ₹25,000, renewable after five years, with an annual incentive of ₹1,800 from the sixth year, payable at age 18 upon appearing for the 10th standard exam.",
+  "documents_required": [],
+  "application_link": null
+}

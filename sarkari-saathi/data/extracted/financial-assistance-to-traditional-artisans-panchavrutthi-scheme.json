@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance to Traditional Artisans (Panchavrutthi Scheme)",
+  "occupation": [
+    "Gold & Silver work",
+    "Sculpture",
+    "Blacksmith",
+    "Woodwork & Handicrafts",
+    "Metallurgy"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Vishwakarma community.",
+    "Applicant or any family member must not have previously availed a loan from KVCDC."
+  ],
+  "benefits_summary": "Provides a loan up to ₹80,000 with a subsidy of up to ₹20,000, totalling assistance of ₹1,00,000 at 4% interest per annum.",
+  "documents_required": [],
+  "application_link": null
+}

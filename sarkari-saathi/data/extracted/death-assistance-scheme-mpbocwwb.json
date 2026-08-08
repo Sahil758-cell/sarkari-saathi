@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Death Assistance Scheme (MPBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the legal heir or dependent family member of a deceased construction worker registered with the Madhya Pradesh Building and Other Construction Workers Welfare Board (MPBOCWWB).",
+    "The deceased worker must have held an active regular membership with MPBOCWWB at the time of death.",
+    "The deceased worker must have possessed a valid identity card at the time of death.",
+    "The application must be submitted within 6 months of the accident or death.",
+    "The application must be submitted at the appropriate Public Service Center/District Panchayat/Urban Body Office as per the applicant’s location."
+  ],
+  "benefits_summary": "Provides funeral assistance of ₹6,000 and ex‑gratia payments ranging from ₹1,00,000 to ₹4,00,000 depending on the cause of death or disability.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

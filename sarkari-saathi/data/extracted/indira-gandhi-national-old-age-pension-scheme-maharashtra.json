@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme (Maharashtra)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 65,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should not be receiving pension benefits under any social security scheme."
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹600.",
+  "documents_required": [],
+  "application_link": null
+}

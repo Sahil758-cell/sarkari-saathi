@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Sruthitharangam ( Cochlear Implantation Scheme )",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 3,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Child must be hearing impaired",
+    "Child must be selected by regional and state level technical committees"
+  ],
+  "benefits_summary": "Free cochlear implantation surgery for eligible children.",
+  "documents_required": [],
+  "application_link": null
+}

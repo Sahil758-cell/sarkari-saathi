@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Internship Scheme Of Employees’ Provident Fund Organisation (EPFO)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Pursuing law in the last two years of degree course or a law graduate",
+    "Pursuing post‑graduation in law or a research scholar in law",
+    "Pursuing post‑graduation courses such as MBA, MSW, MSc, MA, M.Com., or MCA",
+    "Enrolled in a recognized university/institution within India or abroad",
+    "Internship duration of a minimum of 2 months and a maximum of 6 months",
+    "Maximum of 10 interns may be engaged"
+  ],
+  "benefits_summary": "Selected interns receive a stipend of ₹8,000 per month, logistic support including workspace and computer with internet, and a certificate upon satisfactory completion.",
+  "documents_required": [],
+  "application_link": "rc.hrm@epfindia.gov.in"
+}

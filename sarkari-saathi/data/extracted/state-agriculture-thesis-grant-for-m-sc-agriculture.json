@@ -1,0 +1,23 @@
+{
+  "scheme_name": "State Agriculture Thesis Grant for M.Sc. Agriculture",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be inhabitants of Nagaland who have passed the M.Sc. Agriculture programme",
+    "Applicants must be enrolled in an institution that has a valid AISHE/UDISE code",
+    "Applicants must not be a beneficiary of any other scholarship scheme"
+  ],
+  "benefits_summary": "Provides a thesis grant to eligible M.Sc. Agriculture students",
+  "documents_required": [],
+  "application_link": "https://scholarship.nagaland.gov.in"
+}

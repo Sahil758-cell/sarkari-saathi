@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Raman-Charpak Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be Indian citizens residing in India or French citizens residing in France",
+    "Applicants must be registered for a PhD in a recognized Indian or French university/research institute (French applicants may also be registered for a Master’s program)",
+    "Candidates who have previously received CEFIPRA support or who hold a permanent position in an institution/university are ineligible",
+    "Pre‑authorization or prior consent from the applicant’s institute/university is required to apply for the foreign fellowship"
+  ],
+  "benefits_summary": "Monthly fellowship (1500 € for Indian fellows or ₹40,000 for French fellows), round‑trip economy airfare, insurance, visa/registration costs, and conference support",
+  "documents_required": [],
+  "application_link": "http://www.cefipra.org/proposal/index.aspx"
+}

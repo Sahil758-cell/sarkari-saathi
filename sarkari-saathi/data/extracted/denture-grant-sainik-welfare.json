@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Denture Grant (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex‑serviceman or the widow of an Ex‑serviceman",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "Applicant must not be a member of the Ex‑Servicemen Contributory Health Scheme (ECHS)",
+    "Application must be submitted within three months from the date of purchase or completion of treatment",
+    "Applications are accepted offline only"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 is provided for the purchase of a denture, credited to the beneficiary’s bank account via RTGS/NEFT.",
+  "documents_required": [],
+  "application_link": null
+}

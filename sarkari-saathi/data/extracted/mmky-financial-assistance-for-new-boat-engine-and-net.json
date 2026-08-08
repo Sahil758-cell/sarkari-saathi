@@ -1,0 +1,37 @@
+{
+  "scheme_name": "MMKY-Financial Assistance for New Boat, Engine, and Net",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Odisha.",
+    "Must possess identity and residential proof, including a QR‑coded Aadhaar Card.",
+    "Must have a bank account in the applicant’s name in Odisha.",
+    "Must not have received any financial assistance for a new boat or engine after 1 April 2018 (last 5 years) or for a fishing net after 1 April 2020 (last 3 years).",
+    "Only one benefit per family is allowed; if any family member received a subsidy in the last three years, the family is ineligible.",
+    "Only one unit (boat with engine and net) is allowed per individual beneficiary.",
+    "Procurement of a fishing boat is mandatory; engine and net are optional."
+  ],
+  "benefits_summary": "Provides up to ₹4 lakh subsidy (40% for General, 60% for SC/ST/Women/PWD/Transgender) on a new fishing boat, with optional engine and net support.",
+  "documents_required": [
+    "QR‑coded Aadhaar Card",
+    "Proof of residence",
+    "Bank account statement or passbook in the applicant’s name",
+    "Disability certificate (if applicable)",
+    "Transgender identity certificate (if applicable)"
+  ],
+  "application_link": "https://sugam.odisha.gov.in/website/home"
+}

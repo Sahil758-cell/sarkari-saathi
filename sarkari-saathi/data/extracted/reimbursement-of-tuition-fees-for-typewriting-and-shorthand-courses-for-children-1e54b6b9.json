@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Reimbursement of Tuition Fees for Typewriting and Shorthand Courses for Children of Widows",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 5 years",
+    "Applicant must be a widow",
+    "Annual income of the applicant must not exceed ₹24,000",
+    "The widow must not be receiving assistance or grant under any other scheme implemented by the Social Welfare Department, Puducherry",
+    "Up to two dependent children of the widow are eligible",
+    "Each child must be a student enrolled in an institute approved/recognised by the Government of Tamilnadu, Government of Kerala, or Government of Andhra Pradesh for technical examinations",
+    "Each child must have passed/appeared for SSLC/Matriculation or an equivalent examination recognised by the Education Department, Puducherry",
+    "Each child must be studying typewriting and/or shorthand"
+  ],
+  "benefits_summary": "Financial assistance of ₹50 per month as tuition fee reimbursement, up to ten months per child and for a maximum of two children.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self-attested, if required)"
+  ],
+  "application_link": null
+}

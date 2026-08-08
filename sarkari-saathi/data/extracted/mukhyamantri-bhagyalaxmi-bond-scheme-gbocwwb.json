@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Bhagyalaxmi Bond Scheme (GBOCWWB)",
+  "occupation": [
+    "Construction Workers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board",
+    "Benefit is available for up to one girl child per family",
+    "Application must be made within 12 months from the birth of the girl child"
+  ],
+  "benefits_summary": "A bond of ₹25,000 (or as revised) is issued for the first girl child up to age 1, maturing at 18 years and payable to the daughter.",
+  "documents_required": [],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

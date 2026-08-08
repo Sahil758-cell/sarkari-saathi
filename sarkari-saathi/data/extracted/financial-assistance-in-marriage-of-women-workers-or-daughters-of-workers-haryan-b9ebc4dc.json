@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance in Marriage of Women Workers or Daughters of Workers- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana",
+    "Applicant must be registered with the Haryana Labour Welfare Board",
+    "Monthly salary of the applicant must not exceed ₹25,000",
+    "Applicant must have at least three years of regular membership of the Board up to the marriage date",
+    "Application must be submitted within six months after the marriage date",
+    "Benefits are available for the marriage of up to three daughters or for the self‑marriage of the female worker",
+    "Applicant must undertake to disclose any prior benefit availed under the Kanyadaan scheme"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹51,000 to eligible women workers or their daughters for marriage.",
+  "documents_required": [
+    "Photograph"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

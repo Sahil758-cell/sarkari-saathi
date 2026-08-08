@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Chief Minister Nari Shakti Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be an adolescent girl or woman"
+  ],
+  "benefits_summary": "Offers women helpline support, residential facilities, cultural fairs, awards, and vocational training for economic empowerment.",
+  "documents_required": [
+    "photo",
+    "signature",
+    "necessary documents"
+  ],
+  "application_link": null
+}

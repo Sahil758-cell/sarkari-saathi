@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Employees' Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a member of the Employees' Provident Fund Scheme, 1952 or an exempted establishment under Section 17 of the Act",
+    "Applicant's monthly pay must not exceed ₹15,000 (unless contributing an additional 1.16% above this limit)",
+    "Applicant must have at least 10 years of eligible service for pension benefits",
+    "Applicant must have contributed to the Employees' Pension Fund",
+    "For early pension, applicant must opt between ages 50 and 58",
+    "For family pension, applicant must be the spouse or child of a deceased member and provide proof of relationship and death; the deceased must have contributed for at least one month",
+    "Post‑selection, applicant must submit required documents for verification and follow EPFO guidelines for pension disbursement",
+    "International workers are eligible under specific social security agreements"
+  ],
+  "benefits_summary": "Provides superannuation, early, and family pensions to eligible employees after retirement, disability, or death.",
+  "documents_required": [
+    "Aadhaar",
+    "PAN",
+    "Bank details",
+    "Proof of relationship",
+    "Death certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Harvesting Tools Assistance for Scheduled Tribes (HRT-3)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Assistance is available only once in five years",
+    "Equipment must be certified by ISO/BIS/ISI/Government‑Recognized organizations and purchased through an authorized dealer or imported equipment",
+    "Eligibility extends to individual farmers as well as FPOs, FPCs, FIGs, SHGs, and Cooperative Societies"
+  ],
+  "benefits_summary": "ST farmers receive up to 50% of the harvesting tool cost or ₹1,00,000 (whichever is lower); FPOs/FPCs/FIGs/SHGs/Co‑operative societies receive up to 75% of the cost or ₹1,50,000 (whichever is lower), with tool price capped at ₹2,00,000.",
+  "documents_required": [
+    "Caste certificate (scanned copy)",
+    "Signed application printout"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

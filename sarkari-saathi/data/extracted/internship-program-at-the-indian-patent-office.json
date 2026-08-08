@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Internship Program At The Indian Patent Office",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be pursuing or have completed postgraduate/doctoral studies in Science, Engineering/Technology, or Law from a university established under Indian law.",
+    "The applicant's graduation/post‑graduation/doctoral studies must be from a government‑recognized institute.",
+    "The internship must be a requirement specified under the applicant's course curriculum."
+  ],
+  "benefits_summary": "A certificate of completion is issued; no honorarium is paid, but interns receive three days of leave per month.",
+  "documents_required": [
+    "CV",
+    "Cover letter containing a brief synopsis of the proposed topic"
+  ],
+  "application_link": "cgoffice-mh@nic.in"
+}

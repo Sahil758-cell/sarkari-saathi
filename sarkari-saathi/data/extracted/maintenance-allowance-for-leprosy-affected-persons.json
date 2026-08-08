@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Maintenance Allowance for Leprosy Affected Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be leprosy affected with deformity of 40% or more",
+    "Beneficiary must not be receiving any other pension benefit of Tamil Nadu"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per month transferred directly to the beneficiary's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

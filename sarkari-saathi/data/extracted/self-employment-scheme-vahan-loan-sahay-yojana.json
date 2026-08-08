@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Self-Employment Scheme: Vahan Loan Sahay Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 600000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a valid driving license.",
+    "The vehicle purchased under the scheme must be mortgaged (hypothecated) to the corporation.",
+    "Applicant must be willing to repay the loan in equal monthly installments over 5 years.",
+    "Only one person from a family can avail of the scheme benefits.",
+    "A maximum of five beneficiaries per village will be selected."
+  ],
+  "benefits_summary": "Financial assistance for on‑road vehicle purchase costs.",
+  "documents_required": [
+    "certificates",
+    "mark sheets"
+  ],
+  "application_link": null
+}

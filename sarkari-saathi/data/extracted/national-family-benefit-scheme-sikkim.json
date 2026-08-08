@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Family Benefit Scheme - Sikkim",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Sikkim",
+    "Applicant must belong to a Below Poverty Line (BPL) family",
+    "Eligibility arises upon the death of the primary breadwinner of the family",
+    "Financial assistance is paid to the household of the deceased, which includes spouse, minor children, unmarried daughters, and dependent parents",
+    "Applicant must have an account opened under Pradhan Mantri Jan Dhan Yojana",
+    "A woman homemaker in the family is also considered a breadwinner"
+  ],
+  "benefits_summary": "A one-time grant of ₹30,000 is provided to the bereaved household of a BPL family when the primary breadwinner dies.",
+  "documents_required": [],
+  "application_link": null
+}

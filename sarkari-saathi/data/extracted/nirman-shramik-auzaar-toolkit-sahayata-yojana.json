@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Nirman Shramik Auzaar Toolkit Sahayata Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Rajasthan state.",
+    "Must be a registered construction worker for at least 3 years.",
+    "Purchase of tools/toolkits must be made by the construction worker themselves, and the bill must be attached to the application."
+  ],
+  "benefits_summary": "Reimbursement up to the actual cost of tools/toolkit or ₹2,000, whichever is lower.",
+  "documents_required": [
+    "Purchase bill/invoice"
+  ],
+  "application_link": null
+}

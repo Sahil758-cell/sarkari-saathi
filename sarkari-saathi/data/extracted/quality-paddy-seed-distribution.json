@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Quality Paddy Seed Distribution",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must purchase certified paddy seeds from Agricultural Extension Centers."
+  ],
+  "benefits_summary": "Provides a subsidy of ₹5 per kg on certified paddy seeds purchased from Agricultural Extension Centers.",
+  "documents_required": [],
+  "application_link": null
+}

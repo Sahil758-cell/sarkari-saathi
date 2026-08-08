@@ -1,0 +1,33 @@
+{
+  "scheme_name": "The West Bengal Incentive Scheme: State Capital Investment Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable to tourism projects/units set up on or after 22 February 2021",
+    "Applicable to expansion projects of existing units set up on or after 22 February 2021",
+    "Eligible hotel units that started commercial operation between 7 January 2015 and 31 December 2020 and could not apply earlier due to absence of a Bar in the hotel",
+    "Units may belong to private, co‑operative, joint sector or be owned/managed by the State Government",
+    "Project must be covered by a detailed feasibility report prepared for the purpose",
+    "Project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution",
+    "Unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the West Bengal Tourism Development Corporation",
+    "Eligibility category noted in source: micro",
+    "Eligibility category noted in source: small"
+  ],
+  "benefits_summary": "Provides a capital investment subsidy ranging from 7.5% to 25% of eligible investment, with caps between ₹1 crore and ₹1.75 crore and a building‑component limit of 50% of the total subsidy.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhyamantri Awas Yojna (HPBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have completed at least 90 days of building and other construction work in the last 12 months.",
+    "The applicant’s registration must be renewed annually.",
+    "The applicant must be engaged in building or construction work under the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB).",
+    "The applicant must be registered with the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB).",
+    "The applicant’s membership with the Board must be active at the time of application."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,50,000 for house construction under the scheme.",
+  "documents_required": [
+    "ID proof",
+    "Relevant certificates"
+  ],
+  "application_link": null
+}

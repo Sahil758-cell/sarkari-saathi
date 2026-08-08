@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Viranarayan Singh Shram Ann Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered unorganized worker"
+  ],
+  "benefits_summary": "Hot meals are provided to unorganized workers at a nominal price of ₹5 per meal at designated food distribution centres.",
+  "documents_required": [],
+  "application_link": null
+}

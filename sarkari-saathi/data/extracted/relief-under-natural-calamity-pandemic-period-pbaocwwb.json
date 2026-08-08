@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Relief under Natural Calamity / Pandemic Period (PBAOCWWB)",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+    "The applicant must be contributing to the Board's Fund.",
+    "The applicant must not have defaulted in payment of contribution to the Board for a continuous period of more than one year.",
+    "The applicant must have been hospitalized for five or more days due to an accident or any disease."
+  ],
+  "benefits_summary": "A one-time financial assistance of ₹2,000 credited via Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "application form",
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

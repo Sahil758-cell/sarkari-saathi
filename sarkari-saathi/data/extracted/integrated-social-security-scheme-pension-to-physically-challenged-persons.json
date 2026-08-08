@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Integrated Social Security Scheme: Pension to Physically Challenged Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 79,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Ladakh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of 40% or more, including blindness, deafness, or muteness",
+    "No source of income"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,000 per beneficiary.",
+  "documents_required": [
+    "Passport-size scan photo (jpg image) in a clear background, size less than 50 kB"
+  ],
+  "application_link": null
+}

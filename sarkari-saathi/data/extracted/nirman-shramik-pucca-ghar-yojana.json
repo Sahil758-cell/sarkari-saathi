@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Nirman Shramik Pucca Ghar Yojana",
+  "occupation": [
+    "building worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Odisha",
+    "Must not already own a pucca house",
+    "Must be engaged as a building worker for at least 90 days in the preceding 12 months",
+    "Must not be employed in construction work covered by the Factories Act, 1948 or the Mines Act, 1952",
+    "Must be aged between 18 and less than 60 years",
+    "Must not be a member of any other Welfare Fund",
+    "Must not be enrolled as a beneficiary in any other district of Odisha or any other state",
+    "Must be registered with the Odisha Building & Other Construction Workers' Welfare Board"
+  ],
+  "benefits_summary": "Beneficiary receives a pucca house funded up to ₹1.30  lakh (IAP) or ₹1.20  lakh (Non‑IAP) along with wage components and other convergence subsidies.",
+  "documents_required": [
+    "Aadhaar UID/EID",
+    "Mobile number",
+    "Geo‑tagged photograph of existing kutcha house",
+    "Geo‑tagged photograph of proposed construction site",
+    "Registration certificate with Odisha Building & Other Construction Workers' Welfare Board"
+  ],
+  "application_link": "https://nirmanshramik.odisha.gov.in/obocwwb/public/cwLogin"
+}

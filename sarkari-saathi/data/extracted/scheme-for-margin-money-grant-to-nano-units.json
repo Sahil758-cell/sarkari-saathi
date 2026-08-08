@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Scheme for Margin Money Grant to Nano Units",
+  "occupation": [
+    "manufacturing",
+    "food processing",
+    "job works",
+    "service sector"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a new Nano proprietary enterprise with a project cost (fixed capital + working capital) up to ₹10 lakhs.",
+    "The unit must not have previously received any grant assistance from the Government of India, Government of Kerala or Local Self‑Government departments.",
+    "The unit must be operational at the time the assistance is released and must continue operating continuously for three years from that date.",
+    "Applicants must provide true information, allow verification/inspection of the plant, machinery and other assets, and produce original documents if required.",
+    "The applicant must execute the required legal agreement (online or on paper) and use the received amount only as stipulated.",
+    "Preference is given to women, persons with disabilities, ex‑servicemen, and individuals belonging to SC/ST, as well as youth entrepreneurs up to 40 years, but these are not mandatory eligibility criteria."
+  ],
+  "benefits_summary": "Provides a margin money grant of 30‑40% of the total project cost, with an additional 10% for women, youth (18‑40), disabled persons, ex‑servicemen or SC/ST categories, up to a maximum of ₹4 lakhs per unit.",
+  "documents_required": [
+    "Title deed of land or land tax receipt or lease agreement or rent agreement (as applicable)",
+    "Ownership Certificate of the building (if any)",
+    "Invoice or bill of plant and machinery"
+  ],
+  "application_link": null
+}

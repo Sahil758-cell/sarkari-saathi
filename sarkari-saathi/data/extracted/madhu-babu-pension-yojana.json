@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Madhu Babu Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident/domicile of Odisha for at least 20 years",
+    "Must not have been convicted of any criminal offence involving moral turpitude",
+    "Must not be receiving any other pension from the union or state government or any organization aided by the government",
+    "Must be a widow (for certain benefits)",
+    "Must be a leprosy patient with visible signs of deformity",
+    "Must be a person aged 5 years or above who is unable to do normal work due to benchmark disability (blind, orthopedically handicapped, mentally retarded, cerebral palsy)",
+    "Must be the widow of an AIDS patient",
+    "Must be an AIDS patient identified by the State/District AIDS Control Society (irrespective of income)",
+    "Must be an unmarried woman belonging to BPL category"
+  ],
+  "benefits_summary": "Pension of ₹500 per month for beneficiaries aged 60‑79, and ₹700 per month for those aged 80 and above.",
+  "documents_required": [
+    "Income certificate",
+    "Bank passbook copy"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Assistance for Daughter's Marriage",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow of an ex‑serviceman of rank Havildar or below.",
+    "Applicant must be a native of Rajasthan.",
+    "The assistance is limited to a maximum of two daughters per widow.",
+    "Daughters must be at least 18 years old at the time of marriage.",
+    "Daughter’s name must be recorded in the ex‑serviceman’s discharge book or Part‑2 order.",
+    "Applicant must possess a valid Ex‑Serviceman/Widow Identity Card issued by the District Sainik Welfare Office.",
+    "Applicant must not have received marriage assistance from the Kendriya Sainik Board.",
+    "Widows classified as Battle Casualties or Physical Casualties are ineligible.",
+    "Application must be submitted within one year from the date of marriage through the same District Sainik Welfare Officer who issued the identity card."
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 per daughter, up to two daughters.",
+  "documents_required": [
+    "Ex-Serviceman/Widow Identity Card"
+  ],
+  "application_link": null
+}

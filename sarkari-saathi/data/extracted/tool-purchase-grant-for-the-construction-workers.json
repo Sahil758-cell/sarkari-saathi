@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Tool Purchase Grant for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Engaged in building and construction work for at least 90 days in a given year",
+    "Must have at least 6 months of membership with the Board",
+    "Purchased tools must relate to the applicant's profession"
+  ],
+  "benefits_summary": "One-time reimbursement of ₹2,000 for tool purchase.",
+  "documents_required": [
+    "Form-27",
+    "Form-27A"
+  ],
+  "application_link": null
+}

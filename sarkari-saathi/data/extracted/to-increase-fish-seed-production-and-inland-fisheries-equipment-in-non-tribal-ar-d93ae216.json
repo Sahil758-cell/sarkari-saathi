@@ -1,0 +1,25 @@
+{
+  "scheme_name": "To Increase Fish Seed Production and Inland Fisheries Equipment in Non-Tribal Areas",
+  "occupation": [
+    "Fisherman"
+  ],
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be involved in inland fisheries activities (individual, society, self‑help group, association, reservoir monopoly, private unit, etc.).",
+    "Applicant must own private land or have a lease for land to be eligible for new pond construction assistance (if multiple landholders, consent forms of other landholders must be submitted).",
+    "Applicant must have his own bank account."
+  ],
+  "benefits_summary": "Provides subsidies (40%‑90%) for fish seed production, pond construction, and a range of fisheries equipment and inputs to eligible fishermen in Gujarat.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

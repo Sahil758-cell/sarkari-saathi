@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Bihar State Journalist Insurance Scheme",
+  "occupation": [
+    "journalist",
+    "media representative"
+  ],
+  "gender": null,
+  "age_min": 21,
+  "age_max": 70,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must hold a valid press accreditation card (for independent journalists)",
+    "Minimum of 5 years work experience in journalism",
+    "Educational qualification must be matriculation or equivalent",
+    "Must cover at least 50% of news or comments in newspapers, magazines, news agencies, electronic media, or be an independent journalist with valid accreditation",
+    "Spouse and two dependent children are included in the insurance",
+    "Son’s age up to 23 years (or up to 25 years if studying at a bonafide institution)",
+    "Daughter is covered until marriage",
+    "If affiliated with a private news channel, the channel’s telecast must reach at least 20 districts in Bihar"
+  ],
+  "benefits_summary": "Personal accident and medical expense coverage up to ₹5,00,000 per insured, with 20% of the premium paid by the media representative and 80% covered by the government.",
+  "documents_required": [],
+  "application_link": null
+}

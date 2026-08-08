@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Intellectual Property Rights (IPR) Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Start-ups must be certified by the Start‑up Promotion Cell (SPC) and possess a valid start‑up certificate number",
+    "The IP must be technology‑based or use technology to enhance an existing product or service",
+    "The applicant must have already filed or been granted the IP with the concerned authority",
+    "The applicant must have paid the mandatory government and attorney fees for the IP filing",
+    "Only expenditures incurred after the notification of the Goa Start‑up Policy 2017 and paid digitally are eligible",
+    "The same IP cannot be claimed under any other central or state scheme",
+    "The application must be submitted within 6 months of incurring the relevant expenditure"
+  ],
+  "benefits_summary": "Reimbursement of up to 50 % of IP filing costs, capped at ₹2,00,000 for national IP and ₹5,00,000 for international IP, for a maximum of 200 startups per year.",
+  "documents_required": [],
+  "application_link": null
+}

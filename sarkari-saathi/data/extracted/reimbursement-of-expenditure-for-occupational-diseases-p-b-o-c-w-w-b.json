@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Reimbursement of Expenditure for Occupational Diseases (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Punjab",
+    "Applicant must be a Building/Construction Worker (Unorganised Worker)",
+    "Applicant must have engaged in building and construction work for at least 90 days in a given year",
+    "Applicant must have a monthly income of ₹15,000 or below",
+    "Applicant must not be a member of any other Welfare Fund established under any law",
+    "Applicant must not be a member of EPF, NPS, or ESIC",
+    "Applicant must not be an income tax payer",
+    "For scheme application, applicant must be a registered member under the Building and Other Construction Workers Welfare Board of Punjab or a family member of such a worker",
+    "Treatment expenditure must be verified by the Civil Surgeon",
+    "Applicant must have exhausted ₹50,000 benefit under the Bhagat “Puran Singh Sehat Beema Yojna” scheme"
+  ],
+  "benefits_summary": "Provides reimbursement up to ₹1,00,000 or actual expenses (whichever is lower) for treatment of specified occupational diseases, after exhausting ₹50,000 under the Bhagat Puran Singh Sehat Beema Yojna scheme.",
+  "documents_required": [],
+  "application_link": null
+}

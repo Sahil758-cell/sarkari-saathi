@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Dr. B. R. Ambedkar State Award To SC/ST/OBC/Minorities Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must have passed 10th and 12th class from Delhi",
+    "The award is given to a student who tops among the SC/ST/OBC in each discipline of the professional/technical degree course",
+    "The topper student is awarded only once after passing out of the final examination of the course",
+    "The award is conferred among the toppers of all professional/technical courses"
+  ],
+  "benefits_summary": "A cash award of INR 25,000 to each student who tops among SC/ST/OBC/Minorities in a professional/technical discipline",
+  "documents_required": [
+    "SC/ST/OBC caste certificate issued by the competent authority of Delhi"
+  ],
+  "application_link": null
+}

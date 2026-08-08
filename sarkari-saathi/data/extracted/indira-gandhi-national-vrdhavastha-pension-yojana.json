@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Indira Gandhi National Vrdhavastha Pension Yojana",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides a pension of ₹1000 per month to eligible senior citizens.",
+  "documents_required": [],
+  "application_link": null
+}

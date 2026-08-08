@@ -1,0 +1,24 @@
+{
+  "scheme_name": "₹ 5 Lakh Insurance Cover To Farmers",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident farmer of Telangana."
+  ],
+  "benefits_summary": "Provides ₹5 lakh life insurance coverage to farmers’ families at no cost, with claims settled within 10 days.",
+  "documents_required": [
+    "Death certificate",
+    "Proof of nomination"
+  ],
+  "application_link": null
+}

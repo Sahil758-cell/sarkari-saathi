@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Financial Assistance to Purchase Outboard Motor of 2HP to 5 HP for Fitting to the Fishing Canoe",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional fisherman by birth or profession.",
+    "Applicant's fishing canoe must be registered with the Department of Captain of Ports, Government of Goa.",
+    "The scheme is applicable only for fishing canoes below 26 feet in length.",
+    "Only one outboard motor can be availed under the scheme every 5 years."
+  ],
+  "benefits_summary": "General category receives a 50% subsidy up to ₹30,000; SC/ST/Woman category receives a 60% subsidy up to ₹36,000 on a unit cost of ₹60,000 (excluding GST).",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Reimbursement of Stamp Duty",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a private sector entity or an existing/operational industrial park",
+    "Must have a minimum of 5 acres of legally owned land (by direct purchase or lease from the State Government)",
+    "The Special Purpose Vehicle (SPV) must be registered under the Companies Act, Societies Registration Act, Partnership Act or LLP",
+    "Park area must be expanded to a minimum of 5 acres in outlying districts and a minimum of 2 acres in Kolkata and Howrah",
+    "The individual units must have obtained all necessary clearances for land conversion, fire licence, environmental compliance, building plan, etc."
+  ],
+  "benefits_summary": "Reimbursement of stamp duty paid by the SPV for land registration related to the development of the approved industrial park.",
+  "documents_required": [
+    "Signature image (JPG/PNG)",
+    "Seal image (JPG/PNG)"
+  ],
+  "application_link": null
+}

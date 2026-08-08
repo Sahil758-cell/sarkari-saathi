@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Udiyaman Khiladi Unnayan Yojana",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 8,
+  "age_max": 14,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only permanent residents of Uttarakhand can apply",
+    "Applicants must pass the P‑SAT (Physical and Sports Aptitude Test) selection process",
+    "Registration of candidates is mandatory at Nyaya Panchayat or Ward level",
+    "Both boys and girls who have performed well in sports are eligible"
+  ],
+  "benefits_summary": "A scholarship of ₹1,500 per month for one year is provided to each selected child",
+  "documents_required": [],
+  "application_link": null
+}

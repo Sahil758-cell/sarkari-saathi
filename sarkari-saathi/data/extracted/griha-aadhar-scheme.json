@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Griha Aadhar Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a married woman",
+    "Applicant must have been a resident of Goa for at least fifteen years",
+    "Widow with a minor child who receives benefits under the Dayanand Social Security Scheme is also eligible"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,500 per month.",
+  "documents_required": [],
+  "application_link": "Step 1: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required). Step 2: The applicant should send the application to: Director, Directorate of Women And Child Development, Panaji-Goa, 2nd floor, Old Education Building, 18th June Road, Altinho, Panaji, Goa - 403 001."
+}

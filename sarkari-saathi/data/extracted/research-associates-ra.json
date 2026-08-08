@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Research Associates (RA)",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold a Ph.D., M.D., or M.S. degree in a relevant field",
+    "Applicant must have a good academic record",
+    "Employed applicants may apply but must relinquish their employment to accept the fellowship",
+    "The DBT‑RA fellowship can be availed only once in a career"
+  ],
+  "benefits_summary": "Fellowship of ₹55,000 per month plus house rent allowance, tenable for two years with possible renewal for another two years.",
+  "documents_required": [
+    "Self‑attested PDF copy of DOB certificate",
+    "Self‑attested PDF copies of degree certificates",
+    "Consent letter from the mentor (PDF)",
+    "Letter of recommendation from each referee (PDF)"
+  ],
+  "application_link": "https://ra.dbtindia.gov.in/"
+}

@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Mukhyamantri Teerth Darshan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Applicant must not be a taxpayer",
+    "Applicant must not have previously taken the benefit of Teerth Darshan Yojna",
+    "Applicant must be physically and mentally fit and free from listed infectious diseases (TB, congestive cardiac, obstructive respiratory disease, coronary insufficiency, coronary thrombosis, mental illness, leprosy, etc.)",
+    "If a husband and wife travel together, the spouse can accompany even if below the age limit provided the other spouse is eligible",
+    "Group applications must not exceed 25 persons, with the group head as the main applicant",
+    "Providing false information may lead to loss of benefits",
+    "A medical certificate confirming fitness is mandatory",
+    "Single pilgrims above 65 years and disabled citizens (≥60% disability) may be entitled to a caretaker/helper"
+  ],
+  "benefits_summary": "One‑time free pilgrimage travel for senior citizens of Madhya Pradesh, covering train, accommodation, meals and related facilities.",
+  "documents_required": [
+    "Medical certificate confirming physical and mental fitness",
+    "Identity proof (Aadhaar Card or Voter Card)",
+    "Completed application form (two copies)"
+  ],
+  "application_link": "https://dharmasva.mp.gov.in/"
+}

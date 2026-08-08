@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Old Age Pension Scheme under Chief Minister’s Uzhavar Padhukappu Thittam",
+  "occupation": [
+    "farmer",
+    "landless agricultural labour"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be destitute",
+    "Fixed assets should not exceed ₹1,00,000",
+    "Applicant must have a membership card under Chief Minister’s Uzhavar Padhukappu Thittam (CMPUT)"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,000 plus free clothing and rice allowances for eligible pensioners.",
+  "documents_required": [],
+  "application_link": null
+}

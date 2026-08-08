@@ -1,0 +1,40 @@
+{
+  "scheme_name": "New Entrepreneur-cum-enterprise Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST",
+    "OBC",
+    "EWS"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Tamil Nadu for at least 3 years",
+    "First‑generation entrepreneur",
+    "Minimum qualification of 12th standard, diploma, ITI or recognized vocational training",
+    "No income ceiling for assistance",
+    "Project cost must be between ₹10 lakh and ₹5 crore",
+    "Project must be a new project sanctioned under the NEEDS scheme",
+    "Applicants who have previously received assistance under PMRY, REGP, PMEGP, UYEGP, TAHDCO or any other Government scheme are ineligible",
+    "Applicants who have availed loans for economic activity under Self Help Group or other group activity are ineligible",
+    "Applicant must not be a defaulter to any Commercial Bank or TIIC",
+    "Cannot avail capital subsidy under any other State Government scheme",
+    "Promoter’s contribution must be at least 10% of project cost for General category and 5% for Special category",
+    "Entrepreneurship Development Programme (EDP) training is mandatory",
+    "Partnership concerns may be considered, but only one partner will receive EDP training",
+    "Land value can be counted as promoter’s contribution subject to title conditions"
+  ],
+  "benefits_summary": "Provides up to 25% subsidy (capped at ₹75 lakhs) and a 3% interest subvention, with priority allotment in SIDCO industrial estates.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Expansion of Coffee",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a tribal grower",
+    "Applicant’s land must be deemed suitable for coffee cultivation by Coffee Board officers",
+    "Seed material must be procured exclusively from the Coffee Board"
+  ],
+  "benefits_summary": "Subsidy of 50% of the unit cost (₹50,000 per hectare) payable in two installments.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

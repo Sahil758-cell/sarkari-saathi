@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance for Raising Capital through SME Exchange",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small or Medium enterprise run by an SC/ST entrepreneur",
+    "The enterprise must have successfully raised equity capital through an SME Exchange",
+    "The enterprise must apply within one year from the listing date in the SME Exchange",
+    "SC/ST enterprise means the contribution of the SC/ST entrepreneur is 51% or more"
+  ],
+  "benefits_summary": "Provides financial assistance of up to 30% of the total expenditure (capped at ₹5,00,000) for raising capital through an SME Exchange, with possible equity investment by Gujarat Venture Finance Limited (GVFL).",
+  "documents_required": [],
+  "application_link": null
+}

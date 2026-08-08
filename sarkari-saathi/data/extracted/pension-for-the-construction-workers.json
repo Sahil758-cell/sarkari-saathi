@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pension for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "U.T. Administration of Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered member of the Building and Other Construction Workers Welfare Board of the UT",
+    "Must have at least 10 years of membership with the Board",
+    "Must have worked in building or construction for at least 90 days in a given year",
+    "Registration fee not more than ₹50"
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹3,000 after the member reaches 60 years of age, and offers optional enrollment in the PMSYM scheme for workers aged 18–40.",
+  "documents_required": [],
+  "application_link": null
+}

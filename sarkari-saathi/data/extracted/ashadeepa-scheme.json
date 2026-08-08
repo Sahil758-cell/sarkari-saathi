@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Ashadeepa Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Employment must be in a private‑sector industry or establishment.",
+    "Apprenticeship training under the Apprenticeship Act, 1961 is eligible for stipend reimbursement.",
+    "Candidates who complete apprenticeship and are hired permanently are eligible for salary reimbursement.",
+    "SC/ST candidates are eligible for skill development training organized by the Department of Skill Development."
+  ],
+  "benefits_summary": "Employers receive reimbursements for ESI/EPF contributions, apprenticeship stipends, and salaries of SC/ST candidates, along with support for skill‑development training.",
+  "documents_required": [
+    "List of ESI numbers",
+    "List of EPF numbers of the employees"
+  ],
+  "application_link": null
+}

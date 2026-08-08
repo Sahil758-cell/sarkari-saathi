@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Award of Pre-Matric Scholarship to Other Economically Backward Class (OEBC) Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a native of the Union Territory of Puducherry by birth or have continuous residence for at least five years.",
+    "Applicant must be studying in standards 6 to 10 and must have secured promotion to the next higher class.",
+    "Eligibility category noted in source: Other Economically Backward Class"
+  ],
+  "benefits_summary": "Provides a monthly scholarship of ₹50 for standards 6‑8 and ₹75 for standards 9‑10, paid for ten months each academic year.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

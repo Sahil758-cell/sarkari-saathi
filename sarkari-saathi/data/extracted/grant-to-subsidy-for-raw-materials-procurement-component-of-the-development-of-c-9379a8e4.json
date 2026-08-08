@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Grant to Subsidy for Raw Materials Procurement",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must own a Coir Industry Unit located in Puducherry"
+  ],
+  "benefits_summary": "Provides a 15% subsidy on annual raw material procurement, up to ₹5,00,000 per unit per year.",
+  "documents_required": [
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

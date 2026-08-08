@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Saraswati Vidya Yojana: Reimbursement of Fees for Diploma/Graduation and Post-Graduation Professional Courses",
+  "occupation": [
+    "student"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra & Nagar Haveli",
+    "Daman & Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a girl student",
+    "Parents/Husband/Guardian must be domiciled residents of the UT of Dadra & Nagar Haveli and Daman & Diu",
+    "The student must have studied continuously for five years in any High School/Higher Secondary School in the UT, including the qualifying examination (SSC/HSC)",
+    "Only the first two daughters of a family are eligible for benefits"
+  ],
+  "benefits_summary": "Provides full or partial tuition fee reimbursement (up to ₹2.5‑3.5 lakh per year) and a hostel allowance of up to ₹30,000 per year for eligible girl students pursuing diploma, undergraduate or postgraduate professional courses.",
+  "documents_required": [
+    "Prescribed Application Form",
+    "Photograph (self‑attested if required)",
+    "Mandatory supporting documents"
+  ],
+  "application_link": null
+}

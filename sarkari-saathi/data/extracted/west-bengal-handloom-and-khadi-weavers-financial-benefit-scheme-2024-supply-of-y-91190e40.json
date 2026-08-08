@@ -1,0 +1,24 @@
+{
+  "scheme_name": "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Supply of Yarn to Societies etc. at Subsidized Rate",
+  "occupation": [
+    "Handloom Weavers",
+    "Khadi Weavers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The yarn discount does not apply to yarn procured under the NHDP Scheme."
+  ],
+  "benefits_summary": "Provides a 10% discount on yarn to eligible handloom and khadi societies, with a 5% administrative cost reimbursement to the supplying agency.",
+  "documents_required": [],
+  "application_link": null
+}

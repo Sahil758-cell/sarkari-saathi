@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Maintenance Grant to Institutions and Organizations Engaged in Cultural Activities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The organization must have been engaged in cultural activities for at least two years.",
+    "Accounts must be duly audited and approved by a competent person or body as per the Memorandum of Association.",
+    "The organization must not be run for profit to any individual or body of individuals.",
+    "Utilization certificates for all previously received grants must have been submitted before applying for a new grant.",
+    "Applications are accepted offline."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 for maintenance and ₹5,000 for cultural activities.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

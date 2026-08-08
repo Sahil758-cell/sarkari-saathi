@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Tejaswini-the Radiant",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "J&K"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a female domicile of Jammu & Kashmir and registered with Mission Youth, J&K.",
+    "Must be an individual woman or women entrepreneur where women hold at least 50% financial ownership.",
+    "Must be unemployed and registered with the District Employment & Counseling Center.",
+    "Must not be a defaulter to any bank or financial institution.",
+    "Can apply only once under the scheme.",
+    "Preference given to women trained at Rural Self Employment Training Institutes or Skill Development institutions.",
+    "If project cost exceeds Rs 5 lakh, the amount above Rs 5 lakh must be self‑financed.",
+    "Must not have previously received financial assistance for self‑employment under any government scheme.",
+    "Must establish the sanctioned unit within the period specified in the DPR.",
+    "Must not be employed in any government or public/private sector job during the loan tenure."
+  ],
+  "benefits_summary": "Provides interest‑free financial assistance up to Rs 5 lakh, with an additional Rs 50,000 (or 10% of project cost) incentive and interest subsidy up to Rs 60,000 per beneficiary.",
+  "documents_required": [
+    "Bank statement",
+    "Income Tax statement",
+    "Certificate by DLIC",
+    "GST statement",
+    "Accounts statement certified by a Chartered Accountant",
+    "Indemnity bond attested by a First Class Judicial Magistrate"
+  ],
+  "application_link": "https://missionyouthjk.in/"
+}

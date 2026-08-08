@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Samuhik Vivah Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of the state",
+    "The scheme is open to all communities",
+    "At least 10 couples must participate in the mass marriage ceremony",
+    "Age of the bride must be at least 18 years",
+    "Age of the groom must be at least 21 years"
+  ],
+  "benefits_summary": "Each couple receives a total benefit of Rs 51,000, including Rs 35,000 deposited for the bride and additional funds for wedding expenses.",
+  "documents_required": [],
+  "application_link": "shadianudan.upsdc.gov.in"
+}

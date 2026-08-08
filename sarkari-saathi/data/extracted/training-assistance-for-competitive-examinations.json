@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Training Assistance for Competitive Examinations",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": [
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have secured 60% or more marks in the 12th standard.",
+    "Applicant must be undergoing training in a recognized or selected coaching institution for recruitment examinations conducted in UPSC, GPSC Class-1, Class-2, Class-3, Subordinate Services Selection Board, Panchayat Services Selection Board, and Government of India Railways, Banks etc."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹20,000 per student or the actual fee payable, whichever is lower.",
+  "documents_required": [
+    "Certificates",
+    "Mark sheets"
+  ],
+  "application_link": null
+}

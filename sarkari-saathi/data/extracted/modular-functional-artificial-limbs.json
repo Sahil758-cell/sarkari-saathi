@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Modular Functional Artificial Limbs",
+  "occupation": [
+    "Student",
+    "Employed",
+    "Self-Employed"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be orthopedically differently-abled",
+    "Applicant must be a resident of the area/district of Tamil Nadu"
+  ],
+  "benefits_summary": "Free distribution of modular functional artificial limbs.",
+  "documents_required": [],
+  "application_link": null
+}

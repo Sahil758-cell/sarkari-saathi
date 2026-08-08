@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Government Special School for the Visually Handicapped and the Hearing Impaired",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Child must be visually impaired",
+    "Child must be hearing impaired"
+  ],
+  "benefits_summary": "Free boarding, lodging, education, uniforms, textbooks, daily needs, Braille books, hearing aids, and annual tours with separate accommodation for boys and girls.",
+  "documents_required": [
+    "Hard copy application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

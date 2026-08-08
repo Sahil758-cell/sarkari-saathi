@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Free Supply of Rice to the Poor People",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Pondicherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be a native of the Union Territory of Pondicherry by birth or have continuous residence there for at least 5 years.",
+    "The supply is made to holders of a red ration card who have registered with the area Anganwadi."
+  ],
+  "benefits_summary": "10 kg of free rice is supplied through fair‑price shops during natural calamities and two major festive occasions each year.",
+  "documents_required": [],
+  "application_link": null
+}

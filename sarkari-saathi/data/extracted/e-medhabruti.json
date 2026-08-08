@@ -1,0 +1,25 @@
+{
+  "scheme_name": "E-Medhabruti",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must be a permanent resident of Odisha State",
+    "Parental income from all sources must not exceed ₹6,00,000 per annum",
+    "The student must have secured a minimum of 60% marks in the previous qualifying examination",
+    "Applicants can apply only in the first year of the course (year of joining)",
+    "Eligible courses include recognized UG, PG, and Technical & Professional degree programs as specified in the scheme guidelines"
+  ],
+  "benefits_summary": "Scholarship provides up to ₹20,000 per student per year, payable as a one-time amount for the total duration of the course.",
+  "documents_required": [],
+  "application_link": "https://scholarship.odisha.gov.in/"
+}

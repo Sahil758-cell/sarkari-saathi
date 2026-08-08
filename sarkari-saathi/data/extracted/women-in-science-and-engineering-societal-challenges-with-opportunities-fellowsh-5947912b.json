@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Women In Science and Engineering-Societal Challenges with Opportunities Fellowship",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 27,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidates in regular employment are not eligible; only women scientists with temporary research or academic positions may apply and must leave earlier assignments if selected.",
+    "Positions such as Post‑Doctoral Fellow, Research Associate, etc. are considered temporary assignments.",
+    "Applicant must have completed a Ph.D. in Basic or Applied Sciences or an equivalent degree such as MD/MS/MDS."
+  ],
+  "benefits_summary": "Monthly fellowship of ₹55,000 plus HRA, an annual research grant of ₹2 Lakhs, a field demonstration fund of ₹1 Lakh, and up to ₹2 Lakhs for small equipment.",
+  "documents_required": [
+    "proposal document",
+    "equipment quotation"
+  ],
+  "application_link": "https://onlinedst.gov.in"
+}

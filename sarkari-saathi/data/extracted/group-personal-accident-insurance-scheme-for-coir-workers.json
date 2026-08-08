@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Group Personal Accident Insurance Scheme For Coir Workers",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be either a disabled coir worker or a nominee of a disabled or deceased coir worker",
+    "If the applicant is a disabled coir worker, the disability percentage must be at least 40%"
+  ],
+  "benefits_summary": "Accidental death: Rs.50,000; Permanent total disability: Rs.50,000; Permanent partial disability: Rs.25,000.",
+  "documents_required": [
+    "Claim form",
+    "Doctor’s certificate",
+    "Medical bills",
+    "Diagnostic reports (e.g., x-rays)",
+    "Post-mortem report",
+    "Original death certificate",
+    "Evidence of title such as probate, succession certificate, or letters of administration"
+  ],
+  "application_link": null
+}

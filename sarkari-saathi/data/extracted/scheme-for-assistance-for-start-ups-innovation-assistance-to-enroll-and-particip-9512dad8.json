@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for assistance for Start Ups/ Innovation: Assistance to Enroll and Participate for Acceleration Program",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have an innovative idea or concept",
+    "Must be recommended by an approved Nodal Institution",
+    "Open to startups in any sector or branch of science, technology, engineering, agriculture, healthcare, etc.",
+    "Startups receiving benefits under the Student Startup and Innovation Policy (SSIP) are also eligible"
+  ],
+  "benefits_summary": "Financial assistance up to ₹3,00,000 for startups to enroll in acceleration programs.",
+  "documents_required": [],
+  "application_link": null
+}

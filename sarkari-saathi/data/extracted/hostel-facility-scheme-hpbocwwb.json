@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Hostel Facility Scheme (HPBOCWWB)",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be registered with the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB)",
+    "Registration must be renewed annually",
+    "The parent must be actively engaged in building or construction work under HPBOCWWB",
+    "At least 90 days of building/construction work must have been completed in the last 12 months",
+    "The parent’s membership with the board must be active at the time of application",
+    "After three years, the worker must renew the registration and provide proof of 90 days of work each year"
+  ],
+  "benefits_summary": "Provides ₹15,000–₹20,000 annually for hostel stay, boarding, and food for the child of a registered construction worker.",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Passport‑sized photograph",
+    "Wage slip or appointment letter verifying 90 days of work (or certificate from a local authority if unavailable)"
+  ],
+  "application_link": null
+}

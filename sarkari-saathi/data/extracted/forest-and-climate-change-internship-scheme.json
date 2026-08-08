@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Forest And Climate Change Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student pursuing Graduation, Post‑Graduation or Research work at a recognized university/institute in India or abroad.",
+    "Preference is given to students pursuing MSc or PGDM from IIFM.",
+    "Applicants may apply only once during a financial year.",
+    "The Ministry may adjust eligibility criteria, limit the number of applicants, and decide the mode of screening based on the number of applications received."
+  ],
+  "benefits_summary": "Interns receive a monthly stipend of ₹10,000 (prorated), an experience certificate upon successful completion, and access to workspace and internet facilities.",
+  "documents_required": [
+    "Photograph",
+    "Required documents (self‑attested)"
+  ],
+  "application_link": "http://164.100.160.232/internship"
+}

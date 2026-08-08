@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must own at least 10 Guntha of land."
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a fodder seed minikit of 3 Kg, 7 Kg, or 10 Kg.",
+  "documents_required": [],
+  "application_link": null
+}

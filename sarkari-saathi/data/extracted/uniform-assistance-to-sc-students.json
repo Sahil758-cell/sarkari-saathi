@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Uniform Assistance To SC Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Studying in classes 1 to 8"
+  ],
+  "benefits_summary": "Rs.900 assistance for three pairs of uniforms.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in"
+}

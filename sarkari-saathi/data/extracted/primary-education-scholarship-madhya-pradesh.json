@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Primary Education Scholarship (Madhya Pradesh)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student.",
+    "Applicant must belong to a De‑Notified, Nomadic, or Semi‑Nomadic community.",
+    "Renewal application is not required while continuing in the same class range (classes 1 to 5).",
+    "Eligibility is retained even if the student fails one academic year."
+  ],
+  "benefits_summary": "Scholarship of ₹150 for 10 months at ₹15 per month.",
+  "documents_required": [],
+  "application_link": null
+}

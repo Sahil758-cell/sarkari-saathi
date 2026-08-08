@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance To Destitute Children Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 21,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child must be deprived of parental support due to the death of a parent",
+    "Child must be deprived of parental support due to the father’s continuous absence from home for the last 2 years",
+    "Child must be deprived of parental support because a parent has been sentenced to imprisonment for at least one year",
+    "Child must be deprived of parental support due to the physical or mental incapacity of a parent",
+    "Maximum assistance is limited to two children per family"
+  ],
+  "benefits_summary": "Financial assistance of ₹1850 per month per child, up to two children per family.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme for Assistance for Research & Development Activities: Assistance to Industrial Association for Establishment of R&D Laboratories",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Research and Development laboratories must be recognized by the Council of Scientific and Industrial Research (CSIR) or the Department of Scientific and Industrial Research (DSIR).",
+    "The laboratory must be set up by an Industrial Association that is registered under the applicable act.",
+    "Provisional approval of CSIR/DSIR must be obtained before project commencement."
+  ],
+  "benefits_summary": "Financial assistance of up to 60% of the project cost, subject to a maximum of ₹5,00,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

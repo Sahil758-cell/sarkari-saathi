@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Grants In Aid To SC/ST Patients Suffering From Cancer And Other Malignant Diseases",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be suffering from cancer or other malignant diseases.",
+    "Financial aid can be claimed only once."
+  ],
+  "benefits_summary": "One-time financial assistance of Rs. 50,000 to eligible SC/ST patients suffering from cancer or other malignant diseases.",
+  "documents_required": [],
+  "application_link": null
+}

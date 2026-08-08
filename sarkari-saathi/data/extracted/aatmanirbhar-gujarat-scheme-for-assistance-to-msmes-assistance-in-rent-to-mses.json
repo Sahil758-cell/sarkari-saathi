@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance in Rent to MSEs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must have obtained acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT).",
+    "A valid rent deed or lease agreement for the shed used for manufacturing activities is required.",
+    "The manufacturing activity must consume electricity/power for its operations.",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small"
+  ],
+  "benefits_summary": "Reimbursement of up to 65% of rent paid, capped at ₹100,000 per annum for up to five years.",
+  "documents_required": [
+    "Acknowledgment or registration certificate from Ministry of MSME or DPIIT",
+    "Valid rent deed or lease agreement"
+  ],
+  "application_link": null
+}

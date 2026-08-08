@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Old Age Pension Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Punjab.",
+    "Applicant must be between 18 and 60 years of age for registration as a construction worker.",
+    "Applicant must have engaged in building and construction work for at least 90 days in a given year.",
+    "Monthly income must be ₹15,000 or below.",
+    "Applicant must not be a member of any other welfare fund established under any law.",
+    "Applicant must not be a member of the Employees' Provident Fund (EPF), National Pension System (NPS), or Employees' State Insurance Corporation (ESIC).",
+    "Applicant must not be an income tax payer.",
+    "Applicant must be a registered construction worker with the Building and Other Construction Workers Welfare Board of Punjab.",
+    "Applicant must have completed at least 3 years of membership with the Board.",
+    "Applicant must be above 60 years of age to receive the pension.",
+    "Applicant must be continuously depositing contributions to the Board."
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹2,000.",
+  "documents_required": [],
+  "application_link": null
+}

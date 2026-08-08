@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Unemployment Allowance for the Educated Unemployed Youth Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 35,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Haryana.",
+    "Applicant must have passed the 10+2 examination or hold a 2‑year certificate/diploma after Matric, or hold a Graduate degree or higher, or completed a 3‑year certificate/diploma after the 10+2 examination.",
+    "Applicant must be registered with any Employment Exchange in Haryana continuously for at least 3 years as of 1st November each year.",
+    "Annual family income must not exceed ₹3,00,000.",
+    "Family must not own residential or commercial property exceeding ₹10 lakh in value.",
+    "Family must not own agricultural land exceeding 2 hectares.",
+    "Applicant must not be a student, trainee, or apprentice.",
+    "Applicant must not be employed or self‑employed.",
+    "Applicant must not be a dismissed government employee.",
+    "Applicant must not have been convicted of an offense resulting in imprisonment of six months or more.",
+    "Applicant must not be registered in the Saksham Yuva Scheme of the Employment Department.",
+    "For married female applicants, an in‑Laws ration card (joint or separate) is mandatory."
+  ],
+  "benefits_summary": "Provides a monthly unemployment allowance of ₹900 for 10+2 qualified youth and ₹1,500 for graduates or equivalent qualifications.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

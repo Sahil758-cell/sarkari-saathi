@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Persons With Disabilities Scheme In Colleges: Financial Assistance To Visually Challenged Teachers",
+  "occupation": [
+    "teacher"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a visually challenged permanent teacher working in a college that is covered under Sections 2(f) and 12B of the UGC Act"
+  ],
+  "benefits_summary": "Provides up to Rs.36,000 per year as a reader’s allowance and funds for Braille books, recorded materials, and other teaching and learning aids for visually challenged permanent teachers.",
+  "documents_required": [
+    "Original bills submitted to the college",
+    "Prescribed proposal format"
+  ],
+  "application_link": null
+}

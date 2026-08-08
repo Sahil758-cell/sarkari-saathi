@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Kisan Credit Card",
+  "occupation": [
+    "owner cultivator",
+    "tenant farmer",
+    "oral lessee",
+    "share cropper",
+    "Self Help Group (SHG)",
+    "Joint Liability Group (JLG)"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides farmers with a credit limit for short‑term crop loans, term loans and other agricultural expenses at subsidised interest rates (as low as 4% per annum).",
+  "documents_required": [],
+  "application_link": null
+}

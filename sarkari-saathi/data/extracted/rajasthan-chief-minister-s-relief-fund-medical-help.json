@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Rajasthan Chief Minister's Relief Fund - Medical Help",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": false,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be non‑BPL",
+    "Family annual income must be greater than ₹2 lakh",
+    "Applicant must not be listed in ABMGRSBY (Ayushman Bharat Mahatma Gandhi Rajasthan Swasthya Bima Yojana)",
+    "Dependent of an untimely death due to famine, floods, excessive rains, fires, or accidental accidents"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹1.5 lakh in government hospitals or up to ₹90,000 in recognized private hospitals for treatment of serious diseases.",
+  "documents_required": [
+    "Medical certificates",
+    "Doctor's reports",
+    "Bills"
+  ],
+  "application_link": "https://cmrf.rajasthan.gov.in/"
+}

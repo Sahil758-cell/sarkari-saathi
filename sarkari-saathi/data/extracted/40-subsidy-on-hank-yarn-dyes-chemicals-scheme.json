@@ -1,0 +1,25 @@
+{
+  "scheme_name": "40% Subsidy On Hank Yarn, Dyes & Chemicals Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Subsidy is available only on purchase/procurement of hank yarn, dyes and chemicals from NHDC, APCO or their depots for self‑consumption by Handloom Weaver Cooperative Societies",
+    "Weavers Cooperative Societies cannot claim subsidy on yarn, dyes or chemicals purchased from private dealers or mills",
+    "Subsidy cannot be claimed if the purchased yarn, dyes or chemicals are not utilized for production of cloth for members (i.e., if issued and sold to non‑members)"
+  ],
+  "benefits_summary": "Provides a 40% subsidy on purchases of hank yarn, dyes and chemicals from NHDC and APCO, with 75% credited as a production bonus to members and the remaining 25% usable by societies for rebates or other production‑related purposes.",
+  "documents_required": [
+    "prescribed proforma"
+  ],
+  "application_link": null
+}

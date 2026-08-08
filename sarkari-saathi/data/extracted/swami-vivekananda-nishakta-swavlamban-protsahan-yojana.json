@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Swami Vivekananda Nishakta Swavlamban Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the disability categories defined under the Rights of Persons with Disabilities Act, 2016 (Section‑2(r), (s), (t), (zc))",
+    "Applicant must not be a beneficiary under any other Social Security pension scheme",
+    "Applicant must not be retired or permanently employed in Central or State Government or public sector undertakings",
+    "Applicant or spouse must not be receiving any family pension or pension from Central/State Government or public sector undertakings",
+    "Applicant’s family must not be an income‑tax payee",
+    "Applicant should have a Voter ID card and, if aged 18 years or above, an Aadhar Card"
+  ],
+  "benefits_summary": "₹1,000 per month transferred directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "Voter ID card",
+    "Aadhar Card (for applicants aged 18 years and above)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Backward Class Students Meritorious Award Scheme",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student of class 10th or 12th",
+    "Applicant must be a top scorer at the district level in the respective board examination",
+    "Applicant must be enrolled in a recognized school in Madhya Pradesh",
+    "Eligibility category noted in source: backward class"
+  ],
+  "benefits_summary": "Monetary award of ₹5,000 for class 10th toppers and ₹10,000 for class 12th toppers",
+  "documents_required": [
+    "passport-sized photograph (signed across, if required)",
+    "self‑attested copies of all mandatory documents (if required)"
+  ],
+  "application_link": null
+}

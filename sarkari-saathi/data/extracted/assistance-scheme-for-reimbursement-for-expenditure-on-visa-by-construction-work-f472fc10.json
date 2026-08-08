@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Assistance Scheme For Reimbursement For Expenditure On Visa By Construction Workers For Employment Abroad",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must obtain permission for migration from the Protector of Emigrants (POE) office under the Migrant Act, 1983",
+    "The recruiting agency must be registered under the Overseas Act or possess a valid permit from the POE office",
+    "The beneficiary’s passport must have a minimum validity of six months, including a valid visa, at the time of reimbursement",
+    "The assistance amount is payable only once to the beneficiary",
+    "If any false information is found during scrutiny, the beneficiary must repay the assistance amount with interest",
+    "The benefit is payable only if the beneficiary is employed abroad in building and other construction works"
+  ],
+  "benefits_summary": "Reimbursement of up to Rs.5,000 for visa expenses for construction workers from Rajasthan who have secured overseas employment.",
+  "documents_required": [
+    "Proof of employment in a foreign country",
+    "Registration proof with the Construction Workers Welfare Board (Rajasthan)",
+    "Passport with minimum six months validity and valid visa"
+  ],
+  "application_link": "http://www.ldms.rajasthan.gov.in"
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Ganga Kalyana Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 96000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of the State",
+    "Applicant must belong to the State Religious Minority Community",
+    "Family income from all sources must be within Rs 96,000 per annum",
+    "Each beneficiary must own between 1 acre 20 gunte (approximately 1.5 acres) and 5 acres of dry land",
+    "In districts Kodagu, Dakshina Kannada, Udupi, Uttara Kannada, Chikkamagaluru, Shimoga, and Hassan, the minimum land requirement is 1 acre due to limited land availability",
+    "Applicant must be a small or marginal farmer"
+  ],
+  "benefits_summary": "Provides fully subsidized bore wells, pumps, and electrification to eligible minority small and marginal farmers in rural areas, with financial assistance up to Rs 3.75 Lakhs per project.",
+  "documents_required": [],
+  "application_link": null
+}

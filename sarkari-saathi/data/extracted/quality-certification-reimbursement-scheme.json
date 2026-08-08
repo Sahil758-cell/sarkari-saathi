@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Quality Certification Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have its operations located in Goa.",
+    "The applicant must be a legally recognised entity such as a Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership.",
+    "Bank accounts of the unit and/or its partner(s)/director(s) must be linked to Aadhaar.",
+    "The unit must incur expenditure for acquiring any of the specified quality or product certifications (e.g., ISO, HACCP, BIS, WHO‑GMP, ZED, TS, COPC, eSCM, Hallmark, or other government‑recognised certificates).",
+    "The scheme can be applied for on a quarterly, bi‑annual, or annual basis after the relevant expenditure is incurred.",
+    "Benefits are subject to budgetary allocation and may be discontinued if the allocation is exceeded.",
+    "Only one reimbursement claim is allowed per unit for the entire policy period."
+  ],
+  "benefits_summary": "Reimbursement of up to ₹5,00,000 per unit for the cost of industry‑standard quality certifications.",
+  "documents_required": [],
+  "application_link": null
+}

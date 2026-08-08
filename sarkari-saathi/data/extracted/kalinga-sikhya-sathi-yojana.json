@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Kalinga Sikhya Sathi Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must not have availed similar benefits from any other Government or Institution for the same purpose",
+    "The student must have secured admission to a higher education course in a recognized institution in India or abroad",
+    "The course of study must be in Management, Integrated Law, Engineering, or Medicine in institutions established by Acts of Parliament, State Legislature, or recognized by the relevant statutory bodies",
+    "The scheme is targeted at economically weaker background students"
+  ],
+  "benefits_summary": "Provides up to ₹10 lakh educational loan with the borrower paying only 1% interest, the remaining interest subsidised by the Government of Odisha.",
+  "documents_required": [],
+  "application_link": "https://www.vidyalakshmi.co.in/"
+}

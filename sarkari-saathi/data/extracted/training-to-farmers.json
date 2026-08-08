@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Training to Farmers",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of any of the following districts of Tamil Nadu: Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli, Thoothukudi.",
+    "Must grow maize."
+  ],
+  "benefits_summary": "Financial assistance of ₹300 per farmer for attending a two‑day modern maize cultivation training.",
+  "documents_required": [],
+  "application_link": null
+}

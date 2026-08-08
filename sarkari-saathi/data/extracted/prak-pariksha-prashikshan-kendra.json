@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Prak Pariksha Prashikshan Kendra",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to Backward Class or Extremely Backward Class",
+    "Must meet the age and minimum educational qualifications required for the respective competitive exam"
+  ],
+  "benefits_summary": "Free coaching and a ₹3,000 incentive based on 75% attendance.",
+  "documents_required": [],
+  "application_link": null
+}

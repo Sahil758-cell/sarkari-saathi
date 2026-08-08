@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Farmers Accidental Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": 70,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant or their parent must have a registered land record before the date of the accident.",
+    "The death or disability must be caused by an accident.",
+    "The beneficiary must be the registered farmer, their spouse, or any legal heir (son/daughter).",
+    "Applicant must possess a valid driving license in case of a vehicular accident.",
+    "Application must be submitted to the concerned District Agriculture Officer within 150 days of the accident."
+  ],
+  "benefits_summary": "Provides a lump‑sum benefit of ₹2,00,000 for accidental death or permanent disability, including loss of eyes or limbs.",
+  "documents_required": [
+    "Valid driving license"
+  ],
+  "application_link": null
+}

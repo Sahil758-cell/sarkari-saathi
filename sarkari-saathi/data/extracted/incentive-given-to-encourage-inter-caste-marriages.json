@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Incentive given to Encourage Inter caste Marriages",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both spouses must be permanent residents of Maharashtra.",
+    "One spouse must belong to the Savarna, Hindu Lingayat, Jain, or Sikh community.",
+    "The other spouse must belong to Scheduled Caste, Scheduled Tribe, Vimukta Jati (tribe), Nomadic Tribe, or Special Backward Class.",
+    "Male spouse must be at least 21 years old.",
+    "Female spouse must be at least 18 years old."
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 payable as a joint draft to both spouses.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

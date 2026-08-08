@@ -1,0 +1,35 @@
+{
+  "scheme_name": "SERB-Technology Translation Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Principal Inventor of an ongoing research grant or an extramural grant completed in the last three years, where the PI holds or has applied for a patent",
+    "Applicants (Principal Investigator and/or Co‑Inventors) must be Indian citizens; foreign nationals (including OCI and NRI) are also eligible if they meet SERB‑specified criteria",
+    "Applicant must hold a regular academic/research position in a recognized academic institution, national laboratory, or other recognized R&D institution in India with at least three years of service remaining",
+    "Eligible host institutions include private academic institutions with UGC/AICTE/PCI approval, private R&D institutions with DSIR‑SIRO recognition, and NGOs registered under the NITI‑AAYOG Darpan portal",
+    "Principal Investigator and Co‑Investigators must possess a Ph.D. degree in Science, Mathematics, Engineering, or an M.D./M.S./M.D.S./M.V.Sc degree at the time of application",
+    "An applicant may submit only one proposal per call (as PI or Co‑PI) and may have no more than one active project as Principal Inventor under the TETRA programme",
+    "Proposals must be original; plagiarism is not acceptable and will lead to rejection"
+  ],
+  "benefits_summary": "Award up to ₹15 lakhs per year (excluding international travel) with overhead.",
+  "documents_required": [
+    "Bio‑data",
+    "Photo",
+    "Institute address",
+    "Details of patents",
+    "Publications from the last 5 years",
+    "Details of projects",
+    "Research collaboration details",
+    "Academic supervision details",
+    "Proposal PDF (maximum 10 MB)"
+  ],
+  "application_link": "https://www.serbonline.in"
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Marriage Assistance Scheme- Gujarat Labour Welfare Board",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a woman worker employed in a factory or organization in Gujarat.",
+    "The Labour Welfare Fund for the concerned woman worker must be paid by the organization at the office.",
+    "The Labour Welfare Fund for the last one year must be mandatorily filled by the employer.",
+    "The application must be submitted within one year from the date of marriage.",
+    "There must be a gap of one year between the date of employment and the date of marriage."
+  ],
+  "benefits_summary": "Female workers receive a financial assistance of ₹11,000 after marriage.",
+  "documents_required": [],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

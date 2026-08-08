@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Safai Karmakaar Ke Putr/Putri Hetu Vishesh Coaching Yojana",
+  "occupation": [
+    "sanitation worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a child of a registered sanitation worker",
+    "Cannot receive benefits from two government programs simultaneously"
+  ],
+  "benefits_summary": "Financial assistance covering coaching fees for professional courses for up to two children studying in class 10th or higher.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance for Medical Treatment of Journalists",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Full‑time journalist with at least 5 years of work experience",
+    "Application must be submitted within three months of undergoing medical treatment",
+    "Treatment must be conducted in hospitals recognized by the Tamil Nadu State Hospital Organization",
+    "Retired journalists receiving a government pension are eligible but will receive only 50 % of the financial assistance"
+  ],
+  "benefits_summary": "Provides a financial assistance of up to ₹50,000 for medical treatment of journalists.",
+  "documents_required": [
+    "application form",
+    "mandatory documents (self‑attest)",
+    "relevant certificates"
+  ],
+  "application_link": null
+}

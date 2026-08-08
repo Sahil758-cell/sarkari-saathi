@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Marriage Assistance (JKBOCWWB)",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Jammu & Kashmir",
+    "Applicant must be a registered member under the Building and Other Construction Workers Welfare Board of Jammu & Kashmir with active membership at the time of applying",
+    "Applicant must have engaged in any building or other construction work for at least 90 days during the preceding 12 months",
+    "Applicant must provide proof of the dependent relationship for sons, daughters, siblings, or self",
+    "Registration is renewed annually"
+  ],
+  "benefits_summary": "Provides a marriage assistance of ₹25,000 per marriage, up to three marriages for the worker or their dependents.",
+  "documents_required": [
+    "ID proof",
+    "other relevant certificates"
+  ],
+  "application_link": null
+}

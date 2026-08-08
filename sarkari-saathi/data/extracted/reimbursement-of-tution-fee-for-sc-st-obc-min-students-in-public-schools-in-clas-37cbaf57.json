@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Reimbursement of Tution Fee for SC/ST/OBC/Min students in Public Schools in Class I to XII",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student.",
+    "Must be studying in Class 1st to 12th.",
+    "Must be enrolled in a school recognized/affiliated with the Dept. of Education, GNCTD or Municipal Local Bodies of Delhi.",
+    "Must have scored 50% or above in the previous academic year.",
+    "Must have at least 80% attendance in the preceding year.",
+    "Must not be repeating the same class.",
+    "Family annual income should not exceed ₹2,00,000."
+  ],
+  "benefits_summary": "Maximum reimbursement up to ₹48,000 or actual fees paid for tuition, lab and library charges.",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

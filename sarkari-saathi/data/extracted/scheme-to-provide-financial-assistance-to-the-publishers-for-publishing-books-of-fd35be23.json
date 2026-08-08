@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme to Provide Financial Assistance to the Publishers for Publishing Books of Goan Authors",
+  "occupation": [
+    "publisher"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The writer of the book must be Goan",
+    "Applicant should have substantial experience in publication",
+    "Publisher must publish a minimum of 500 copies of the book for which assistance is sought",
+    "The book may be self‑published or published by another unit provided a NOC is issued by the author to the publisher",
+    "The book must contain 100% originality",
+    "Printing and paper of the book must be of good quality and standard",
+    "Person who has lived in Goa for a minimum of 10 years of his creative lifespan is treated as Goan"
+  ],
+  "benefits_summary": "Up to 300 books will be purchased with total assistance not exceeding ₹50,000, and the publisher must provide at least a 15% discount on the book price.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Madhyamik Drop-out Coaching",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unsuccessful Madhyamik ST students from interior tribal areas or BPL families get preference in admission."
+  ],
+  "benefits_summary": "Provides special coaching for seven months to failed Madhyamik ST students, with a stipend of Rs. 65 per day for hostellers.",
+  "documents_required": [],
+  "application_link": null
+}

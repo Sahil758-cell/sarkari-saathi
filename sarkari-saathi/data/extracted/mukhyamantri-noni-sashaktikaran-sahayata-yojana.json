@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Mukhyamantri Noni Sashaktikaran Sahayata Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 21,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Father or mother (or both) must be registered as a construction worker in the Board for at least one year",
+    "Parents must have worked as a construction worker for at least 90 days in the year preceding the application date",
+    "The daughter must not be registered in any division under the Labor Department",
+    "Only two daughters of a registered construction worker family are eligible for the incentive",
+    "The daughter must be unmarried",
+    "The daughter must have passed at least 10th class",
+    "The daughter must have a running bank account in her name",
+    "Beneficiaries who have already received assistance under Minimata Kanya Vivah Yojana or Rajmata Vijayaraje Kanya Vivah Assistance Yojana are not eligible"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 for the first two girl children.",
+  "documents_required": [
+    "Labor registration card",
+    "Daughter's Aadhaar card",
+    "Daughter's bank passbook photocopy",
+    "Age Certificate",
+    "Class 10th marksheet"
+  ],
+  "application_link": null
+}

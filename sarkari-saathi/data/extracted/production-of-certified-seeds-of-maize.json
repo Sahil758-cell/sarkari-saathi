@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Production of Certified Seeds of Maize",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a maize‑growing farmer",
+    "Must reside in one of the following districts of Tamil Nadu: Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi"
+  ],
+  "benefits_summary": "Provides a subsidy of ₹1,000 per quintal for producing certified maize seeds.",
+  "documents_required": [],
+  "application_link": null
+}

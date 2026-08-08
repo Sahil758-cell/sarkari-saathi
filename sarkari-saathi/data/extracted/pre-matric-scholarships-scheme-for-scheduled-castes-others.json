@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Pre- Matric Scholarships Scheme for Scheduled Castes & Others",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian national.",
+    "For Component 1, the student must be studying full‑time in class IX or X and belong to a Scheduled Caste.",
+    "For Component 2, the student must be studying full‑time in classes I‑X, and the parent/guardian must be engaged in manual scavenging, tanning & flaying, waste picking, or hazardous cleaning, irrespective of caste or religion.",
+    "No family income ceiling applies for Component 2.",
+    "Only one scholarship can be availed at a time for classes I‑X.",
+    "The awarding body must be notified if the student receives any other scholarship."
+  ],
+  "benefits_summary": "Day scholars receive Rs. 3500 per annum; hostellers receive Rs. 7,000 (Component 1) or Rs. 8,000 (Component 2) per annum, with an additional 10% allowance for disabled students.",
+  "documents_required": [
+    "Aadhaar Details",
+    "Bank Account Details"
+  ],
+  "application_link": "https://scholarships.gov.in/"
+}

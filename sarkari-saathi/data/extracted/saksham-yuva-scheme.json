@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Saksham Yuva Scheme",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a domicile of Haryana.",
+    "Must be registered in the Live Register of the concerned Employment Exchange (or register online if not already registered).",
+    "Eligible degree must be obtained through regular courses from Punjabi University, Patiala, or any recognized university in UT Chandigarh, NCT Delhi or Haryana (correspondence degree holders already receiving benefits may continue).",
+    "Must have passed the 10+2 examination as a regular student from schools affiliated to the Haryana Board, CBSE Delhi, or ICSE Delhi located in Haryana or UT Chandigarh.",
+    "Must not have passed the 10+2 examination through correspondence or National Open School.",
+    "Must not be a regular student under a full‑time course.",
+    "Must not be a dismissed government employee.",
+    "Must not be employed in public, private, quasi‑government or self‑employment sectors.",
+    "Must provide a self‑attested declaration that the house has a functional toilet (or will install one within two months), has no pending power department dues, no cooperative bank dues, no encroachment on public land, and no house tax default.",
+    "Honorarium is payable for a maximum of three years (36 months) or until the applicant reaches 35 years of age, whichever is earlier."
+  ],
+  "benefits_summary": "Unemployment allowance of ₹900–₹3,000 per month and honorarium of ₹6,000 per month, depending on qualification (10+2, graduate, post‑graduate).",
+  "documents_required": [],
+  "application_link": "https://hreyahs.gov.in"
+}

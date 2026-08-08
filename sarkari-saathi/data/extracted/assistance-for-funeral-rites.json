@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Assistance for Funeral Rites",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary should have lost any of his/her family members due to death."
+  ],
+  "benefits_summary": "Financial assistance of ₹500 for funeral expenses.",
+  "documents_required": [],
+  "application_link": null
+}

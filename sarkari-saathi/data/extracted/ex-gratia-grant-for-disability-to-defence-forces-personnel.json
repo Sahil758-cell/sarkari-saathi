@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Ex-Gratia Grant for Disability to Defence Forces Personnel",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana",
+    "Applicant must be a Defence Forces Personnel (Army, Navy, or Air Force) who has become permanently disabled due to war, operational areas, terrorist activities, natural calamities, etc.",
+    "Applicant must have been discharged from Defence Forces service because of the disability",
+    "Disability must be a permanent percentage as determined by the Initial Medical Board",
+    "Application must be submitted within three years of the disability"
+  ],
+  "benefits_summary": "Ex-gratia grant ranging from ₹15 lakh to ₹35 lakh based on disability percentage",
+  "documents_required": [],
+  "application_link": null
+}

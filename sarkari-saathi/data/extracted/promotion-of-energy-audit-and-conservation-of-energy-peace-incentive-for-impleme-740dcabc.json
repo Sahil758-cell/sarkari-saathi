@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Promotion of Energy Audit and Conservation of Energy (PEACE): Incentive for Implementing Energy Audit Recommendations",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All manufacturing MSMEs in Tamil Nadu are eligible",
+    "The MSME must have undertaken an energy audit and achieved at least 10% energy savings measured as units of energy consumed per unit of product over the last 12‑month average",
+    "Enterprises with more than one unit can claim the concession separately for each unit",
+    "There must be a minimum gap of three years between the previous energy audit and the current one",
+    "Savings are calculated on a twelve‑month average before implementation and a three‑month average after implementation"
+  ],
+  "benefits_summary": "A subsidy of 50% of eligible component costs, up to ₹10,00,000, is provided for each implementation of energy audit recommendations.",
+  "documents_required": [],
+  "application_link": null
+}

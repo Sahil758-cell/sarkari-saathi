@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Disable Marriage Scheme (Divyang Lagna Sahay)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Girl must be older than 18 years and boy must be older than 21 years at the time of marriage",
+    "Benefit is available only once per couple",
+    "Application must be made within two years of marriage",
+    "Disability percentage must meet minimum thresholds: 40% or more for specified disabilities, 71%–100% for hearing impairment, and 50% or more for other listed disabilities",
+    "For inter‑state marriages, both disabled spouses must provide prescribed proof and the female beneficiary must not have received disability marriage assistance from her state",
+    "Application must be filed in the district of permanent residence of the disabled couple"
+  ],
+  "benefits_summary": "If both spouses have disabilities, the couple receives ₹1,00,000 total (₹50,000 each); if only one spouse is disabled, the disabled person receives ₹50,000.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to Large Industries and Thrust Sector: EPF Reimbursement",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have obtained acknowledgment/registration from DPIIT (Department for Promotion of Industry and Internal Trade).",
+    "Must be a new large industrial undertaking or an existing one undertaking expansion/diversification.",
+    "Must commence commercial production during the scheme’s operative period (Oct 5 2022 – Oct 4 2027).",
+    "Must hire new employees who do not have a Universal Account Number (UAN) prior to joining the undertaking.",
+    "Must not have availed EPF reimbursement under any other central or state government schemes for the same period."
+  ],
+  "benefits_summary": "Full reimbursement of the employer’s EPF contribution for eligible new employees, capped at ₹1800 per month per employee, for up to 10 years.",
+  "documents_required": [],
+  "application_link": null
+}

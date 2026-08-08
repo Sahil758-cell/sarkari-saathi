@@ -1,0 +1,26 @@
+{
+  "scheme_name": "OBC Pre Matric Scholarship-Uttar Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 12,
+  "age_max": 20,
+  "max_annual_income": 200000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in class 9 or 10.",
+    "Dependent of people in occupations traditionally considered untouchable.",
+    "All children of the applicant's parents are eligible.",
+    "Cannot receive other scholarships alongside this one (except some exceptions)."
+  ],
+  "benefits_summary": "₹150 per month for up to 10 months (₹750 per annum for residential students).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Women Scientist Scheme-A",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 27,
+  "age_max": 57,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed or not in a regular/permanent position.",
+    "Age must be between 27 and 57 years, with a 5‑year relaxation for SC/ST/OBC and physically challenged candidates.",
+    "Minimum qualification includes a postgraduate degree (e.g., M.Sc., B.Tech., MBBS), M.Phil/M.Tech/M.Pharm/M.VSc, or Ph.D. in basic or applied sciences."
+  ],
+  "benefits_summary": "Research grant providing a monthly fellowship of up to Rs 55,000 for Ph.D. holders (Rs 40,000 for M.Phil/M.Tech, Rs 31,000 for M.Sc.) for up to three years, covering equipment, travel and consumables, with total project cost up to Rs 30 lakh.",
+  "documents_required": [],
+  "application_link": "https://online-wosa.gov.in/wosa/"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Free Books Scheme for Scheduled Caste Students Pursuing Higher Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Haryana",
+    "Applicant must be studying in a government college in Haryana",
+    "Applicant must be pursuing higher education"
+  ],
+  "benefits_summary": "Eligible students receive ₹2,000 per year for purchasing books.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": null
+}

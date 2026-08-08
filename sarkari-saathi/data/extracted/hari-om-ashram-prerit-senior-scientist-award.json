@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Hari Om Ashram Prerit Senior Scientist Award",
+  "occupation": [
+    "scientist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Nominee must be an Indian citizen",
+    "Nominee's contributions must be in Science and Technology"
+  ],
+  "benefits_summary": "Cash prize of ₹4,00,000 along with a silver plaque and citation.",
+  "documents_required": [
+    "self‑attestation"
+  ],
+  "application_link": null
+}

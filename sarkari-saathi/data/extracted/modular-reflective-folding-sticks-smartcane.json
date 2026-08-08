@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Modular Reflective Folding Sticks (Smartcane)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be visually impaired."
+  ],
+  "benefits_summary": "Free modular reflective folding sticks are provided to eligible visually impaired individuals.",
+  "documents_required": [],
+  "application_link": null
+}

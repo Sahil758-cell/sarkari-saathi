@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Solar Power Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have its operations located in Goa",
+    "The applicant must be a Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership",
+    "The unit must be registered with the Goa Energy Development Agency (GEDA) for solar power production",
+    "The bank accounts of the unit and/or its partner(s)/director(s) must be linked to Aadhaar"
+  ],
+  "benefits_summary": "Units operating in Goa on 100% solar energy are eligible for a reimbursement of 10% of the capital cost of the solar power installation, up to a maximum of ₹50,00,000, subject to budgetary allocation and only for expenditures incurred during operation.",
+  "documents_required": [],
+  "application_link": null
+}

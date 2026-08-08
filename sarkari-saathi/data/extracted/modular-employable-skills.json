@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Modular Employable Skills",
+  "occupation": [
+    "workers",
+    "ITI graduates"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Less educated or out‑of‑school youth are eligible",
+    "Unemployed individuals are eligible",
+    "Early school drop‑outs are eligible",
+    "Previously child labour and their families are eligible",
+    "Individuals who have completed at least 5th standard are eligible"
+  ],
+  "benefits_summary": "Provides modular vocational training and industry‑recognized certification to improve employability.",
+  "documents_required": [
+    "educational certificates",
+    "identity proof"
+  ],
+  "application_link": null
+}

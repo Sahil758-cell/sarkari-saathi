@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Msme Skill Training And Employment Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 25,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an MSME unit operating in Tamil Nadu with the requisite infrastructure",
+    "MSME unit should have experience, expertise, and an ongoing business in the relevant vocation/trade",
+    "Trainees must possess an engineering degree, a polytechnic diploma, an ITI certificate, or qualifications prescribed by the respective sector skill council",
+    "The MSME applicant must not have been blacklisted under any government norms, rules, or acts",
+    "The applicant is required to provide a stipend of ₹5000 per month to each trainee for a maximum of 6 months"
+  ],
+  "benefits_summary": "MSMEs receive a subsidy of up to ₹2000 per month per trainee for up to 6 months, and trainees earn a certification from the National Skill Development Corporation.",
+  "documents_required": [],
+  "application_link": null
+}

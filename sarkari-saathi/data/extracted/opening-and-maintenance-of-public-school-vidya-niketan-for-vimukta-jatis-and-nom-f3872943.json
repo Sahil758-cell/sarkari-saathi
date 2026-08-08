@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student.",
+    "Must be a resident of Maharashtra.",
+    "Must belong to the Vimukta Jati and Nomadic Tribes (VJNT) community.",
+    "Parents' annual income must not exceed Rs. 24,000.",
+    "Must clear the competitive examination.",
+    "Must be studying in 4th standard (or higher) for merit‑based admission."
+  ],
+  "benefits_summary": "Financial assistance to the institution, 100% salary for staff, and free educational supplies, lodging, boarding, plus a stipend of ₹1450 per month per residential student.",
+  "documents_required": [
+    "Personal Details",
+    "Address Information",
+    "Other Information",
+    "Current Course",
+    "Past Qualification",
+    "Hostel Details"
+  ],
+  "application_link": null
+}

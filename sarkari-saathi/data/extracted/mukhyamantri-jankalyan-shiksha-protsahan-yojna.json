@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Jankalyan (Shiksha Protsahan Yojna)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Madhya Pradesh.",
+    "The applicant's mother or father must be registered as an unorganized worker in the Labor Department of the Madhya Pradesh Government.",
+    "The student must secure admission to diploma, degree, certificate, ITI, polytechnic, engineering, medical, or law courses under the scheme, with engineering fees not exceeding 1.5 lakh INR as per JEE Main criteria, and admission through NEET for medical courses or CLAT for law courses."
+  ],
+  "benefits_summary": "The Madhya Pradesh government fully covers tuition fees for eligible students pursuing diploma, degree, and professional courses.",
+  "documents_required": [],
+  "application_link": null
+}

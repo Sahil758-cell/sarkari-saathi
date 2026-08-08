@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Child Adoption - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Prospective adoptive parents must have at least two years of a stable marital relationship.",
+    "Unmarried/single male individuals are not eligible to adopt a girl child.",
+    "Prospective adoptive parents should have adequate financial resources to raise the child.",
+    "Single prospective adoptive parents should be between 30 and 55 years of age.",
+    "For a child up to 4 years, the combined age of the adoptive parents must not exceed 90 years.",
+    "For a single prospective adoptive parent adopting a child up to 4 years, age must be between 25 and 45 years.",
+    "For a child between 4 and 8 years, the combined age of the adoptive parents must not exceed 100 years.",
+    "For a single prospective adoptive parent adopting a child between 4 and 8 years, age must be between 25 and 50 years.",
+    "For a child between 8 and 18 years, the combined age of the adoptive parents must not exceed 110 years.",
+    "For a single prospective adoptive parent adopting a child between 8 and 18 years, age must be between 25 and 55 years."
+  ],
+  "benefits_summary": "Provides accommodation, food, and healthcare for the child and grants a special adoption leave of 270 days to female government employees who adopt a child below one year.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Integrated Hostel Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh.",
+    "Applicant must be studying in a government school in Madhya Pradesh.",
+    "Applicant must be studying in class 1 to 12 or pursuing college education.",
+    "School must be within a maximum distance of 3 km for girls or 8 km for boys.",
+    "Preference is given to applicants residing in remote rural areas."
+  ],
+  "benefits_summary": "Provides free residential facilities including accommodation, electricity, water, meals, furniture, bedding, library, coaching, and basic amenities.",
+  "documents_required": [
+    "ID proof",
+    "other relevant certificates"
+  ],
+  "application_link": null
+}

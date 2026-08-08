@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Vikramaditya Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 120000,
+  "category": [
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have scored at least 60% marks in the Class 12 examination."
+  ],
+  "benefits_summary": "Annual financial assistance of up to Rs. 2,500.",
+  "documents_required": [],
+  "application_link": null
+}

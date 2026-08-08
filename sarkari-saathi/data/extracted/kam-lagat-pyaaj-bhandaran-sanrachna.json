@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Kam Lagat Pyaaj Bhandaran Sanrachna",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must own at least 0.5 units of land",
+    "Must be cultivating onion",
+    "Must intend to build a low‑cost onion storage structure"
+  ],
+  "benefits_summary": "50% subsidy on the cost of a 25‑metric‑ton onion storage structure, up to ₹87,500.",
+  "documents_required": [
+    "Jan Aadhaar number",
+    "Bhamashah ID"
+  ],
+  "application_link": null
+}

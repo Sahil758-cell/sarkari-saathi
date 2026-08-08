@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Subsidy Scheme On Establishment Of 25 R.I.R. Birds' Unit For Weaker Section",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an adult belonging to the economically weaker section of Gujarat",
+    "Must provide income proof with the application",
+    "Females and beneficiaries below the poverty line are given priority",
+    "Must have completed poultry‑keeping training",
+    "Must keep the birds safe during night hours",
+    "Must ensure regular vaccination of the birds",
+    "Must treat infected birds immediately",
+    "Must present income and expenditure statements to the government officer during farm visits",
+    "Must maintain the bird unit for two years"
+  ],
+  "benefits_summary": "Beneficiaries receive a unit of 25 R.I.R. birds along with a 75% subsidy (up to ₹4500) provided as birds and poultry feed.",
+  "documents_required": [
+    "Income proof"
+  ],
+  "application_link": "Visit the nearest Intensive Poultry Development Project Office or District Poultry Extension Centre, collect the application form, fill in all mandatory fields, attach self‑attested documents (including income proof), and submit to the designated receiving authority for verification."
+}

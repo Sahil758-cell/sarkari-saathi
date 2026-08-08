@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Chief Minister Higher Education Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Applicant must be a regular student",
+    "Student must be studying at a government or recognized non‑government higher or technical institute in Rajasthan",
+    "Student must have passed the 12th examination from the Rajasthan Board of Secondary Education in the current year with at least 60% marks and be within the top one lakh of the board’s merit list",
+    "Student must not be receiving any other scholarship or financial assistance from the Government of India or the State Government",
+    "Student must have a savings account in a nationalized bank",
+    "Applicant must possess a valid Aadhaar card",
+    "Student must have a Jan Aadhaar Card (Bhamashah Card)"
+  ],
+  "benefits_summary": "₹500 per month for up to 10 months (₹5,000 annually) for general students, and ₹1,000 per month for up to 10 months (₹10,000 annually) for disabled students (disability ≥40%) for a maximum of five years.",
+  "documents_required": [
+    "Aadhaar card",
+    "Jan Aadhaar Card (Bhamashah Card)",
+    "Proof of savings account in a nationalized bank"
+  ],
+  "application_link": "https://hte.rajasthan.gov.in/"
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Maintenance Allowance for Persons Affected with Muscular Dystrophy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be affected by muscular dystrophy",
+    "Disability percentage must be 40% or higher"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

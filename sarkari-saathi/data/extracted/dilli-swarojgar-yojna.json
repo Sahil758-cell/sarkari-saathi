@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Dilli Swarojgar Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 200000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a proper workplace for the proposed activity, either owned, relative‑owned, or rented",
+    "Applicant must not be a defaulter under any DSFDC scheme",
+    "Applicant must have passed at least the 8th standard",
+    "Applicant should possess technical qualifications for the proposed activity, except traditional artisans or entrepreneurs already engaged in the activity for at least three years"
+  ],
+  "benefits_summary": "Need‑based loans up to ₹5 lakhs at 6% interest per annum for eligible income‑generating activities.",
+  "documents_required": [
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested if required)",
+    "Demand draft for processing fee of ₹500"
+  ],
+  "application_link": null
+}

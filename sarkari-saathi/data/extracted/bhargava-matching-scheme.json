@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Bhargava Matching Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual, group of individuals, association, or organization representing the Brahmin community.",
+    "The society/trust must prepare cost estimates for construction projects or a detailed project report for socially relevant activities.",
+    "The society/trust must open a separate bank account and deposit 50% of the estimated project cost."
+  ],
+  "benefits_summary": "Provides matching funds that double the applicant's contribution to create permanent community assets and support education, skill development, entrepreneurship, healthcare, and welfare projects for the Brahmin community.",
+  "documents_required": [
+    "Photo",
+    "Signature",
+    "Certificate Details",
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook"
+  ],
+  "application_link": "https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#"
+}

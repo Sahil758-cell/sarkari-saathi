@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Biju Patnaik Sports Award for Best Contribution to promotion of Sports and Games",
+  "occupation": null,
+  "gender": null,
+  "age_min": 45,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Odisha or have stayed in Odisha for at least 7 years",
+    "Applicant must not have been convicted of any criminal offence",
+    "An individual can receive the award only once in their lifetime",
+    "The award may be given posthumously to the next of kin of the awardee",
+    "Organization must have substantially contributed by recruiting sportspersons, providing financial support for advanced coaching and international participation, and sponsoring national/international sporting events",
+    "Award may be cancelled and recovered if obtained by fraudulent means"
+  ],
+  "benefits_summary": "The award includes a cash prize of ₹1,00,000 together with a statue, scroll of honor, blazer, tie and travel allowance as per Grade A officer rates.",
+  "documents_required": [],
+  "application_link": "https://sports.odisha.gov.in/"
+}

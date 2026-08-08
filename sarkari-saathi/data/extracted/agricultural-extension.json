@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Agricultural Extension",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidates must have at least 50% marks in diploma or post‑graduate diploma courses in agriculture and allied subjects",
+    "Candidates must have at least 55% marks in intermediate (plus‑two) agriculture‑related courses",
+    "Degree courses recognized by UGC must have more than 60% of the course content in agriculture and allied subjects",
+    "Candidates must provide proof of possession of an Aadhaar number or undergo Aadhaar registration",
+    "Eligibility may also depend on approval of the Department of Agriculture & Cooperation on recommendation of the State Government"
+  ],
+  "benefits_summary": "Provides full financial support for training, hand‑holding, loans and credit‑linked subsidies to eligible agricultural graduates, diploma holders and related candidates.",
+  "documents_required": [
+    "Aadhaar enrolment ID slip",
+    "Copy of request for Aadhaar enrolment",
+    "Voter Identity Card",
+    "PAN card",
+    "Passport",
+    "Ration Card",
+    "Employee Government ID",
+    "Passbook of Bank or Post Office",
+    "MGNREGS Card",
+    "Kisan Photo Passport",
+    "Driving Licence",
+    "Any other document specified by State/UT"
+  ],
+  "application_link": "https://acabcmis.gov.in/ApplicantReg.aspx"
+}

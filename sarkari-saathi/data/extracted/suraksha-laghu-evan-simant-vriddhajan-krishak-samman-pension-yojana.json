@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Suraksha Laghu Evan Simant Vriddhajan Krishak Samman Pension Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Female applicants must be older than 55 years",
+    "Male applicants must be older than 58 years"
+  ],
+  "benefits_summary": "Monthly pension of ₹750 for pensioners under 75 years, and ₹1,000 for those 75 years and above.",
+  "documents_required": [
+    "Jan Aadhaar number",
+    "Aadhaar authentication",
+    "Bhamashah Family ID"
+  ],
+  "application_link": null
+}

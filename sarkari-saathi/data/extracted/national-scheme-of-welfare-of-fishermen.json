@@ -1,0 +1,24 @@
+{
+  "scheme_name": "National Scheme Of Welfare Of Fishermen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a fisherman living in coastal areas and licensed by the respective State or Union Territory",
+    "Must be below 60 years of age",
+    "Must belong to the BPL (Below Poverty Line) category",
+    "Must be engaged in full‑time inland activities for inland fishermen or full‑time sea activities for marine fishermen",
+    "Marine fishermen must be a member of a Welfare Society, Federation, or Cooperative Society",
+    "Marine fishermen under FISHCOPFED are eligible only for the insurance component"
+  ],
+  "benefits_summary": "Provides financial assistance for constructing houses, community halls, tube wells, and insurance coverage to eligible fishermen.",
+  "documents_required": [],
+  "application_link": null
+}

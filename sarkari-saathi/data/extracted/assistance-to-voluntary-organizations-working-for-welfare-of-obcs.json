@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Assistance to Voluntary Organizations Working for Welfare of OBCs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Organization must be registered under the Societies Registration Act, 1860 or any relevant State/UT act or public trust.",
+    "Organization must have an appropriate administrative structure and a managing/executive committee.",
+    "Organization must be democratically governed without external control.",
+    "Organization must have been registered for at least three years (waivable in exceptional cases).",
+    "Organization must maintain a bank account in its own name for at least three years.",
+    "Organization must not be run for profit by any individual or body of individuals.",
+    "Organization should have at least two years of experience in the relevant field.",
+    "Projects should be located in backward districts identified by the Planning Commission.",
+    "Beneficiary must belong to the Central or state/UT OBC list.",
+    "Beneficiary's annual family income should not exceed ₹1,00,000."
+  ],
+  "benefits_summary": "Provides financial support of up to 90% of approved project costs for skill‑development initiatives benefiting OBC beneficiaries.",
+  "documents_required": [
+    "PAN of the NGO/Entity",
+    "Bank details of the NGO",
+    "Mandatory documents as per the Ministry's requirements"
+  ],
+  "application_link": null
+}

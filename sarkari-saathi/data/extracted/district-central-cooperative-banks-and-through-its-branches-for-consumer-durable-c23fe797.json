@@ -1,0 +1,26 @@
+{
+  "scheme_name": "District Central Cooperative Banks and through its Branches: For Consumer Durables T.V., Fridge and Two Wheelers Loan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Tamil Nadu",
+    "Loan applicable only for consumer durables such as TV, fridge, and two-wheelers"
+  ],
+  "benefits_summary": "Loan covers up to 75% of the consumer durables cost at a 14% interest rate.",
+  "documents_required": [
+    "Application form collected from District Central Cooperative Bank or its branches",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

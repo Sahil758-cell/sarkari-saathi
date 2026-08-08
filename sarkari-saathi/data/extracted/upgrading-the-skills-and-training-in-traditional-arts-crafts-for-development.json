@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Upgrading the Skills and Training in Traditional Arts/Crafts for Development",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to a minority community",
+    "Up to 25% of seats may be allocated to candidates from BPL families of non‑minority communities",
+    "3% of seats are reserved for differently abled persons belonging to minority communities",
+    "Upper age limit may be relaxed for differently abled persons belonging to minorities",
+    "Minimum qualification of at least Class V (may be relaxed for differently abled persons)",
+    "More than one member of a family can be eligible for training in the same art/craft form if each meets the eligibility criteria"
+  ],
+  "benefits_summary": "Free training in traditional arts or crafts with a stipend of ₹10,000 for non‑residential programmes or ₹13,000 for residential programmes, plus assistance in finding employment after training.",
+  "documents_required": [],
+  "application_link": "Candidates must contact the nearest Project Implementing Agency (PIA)."
+}

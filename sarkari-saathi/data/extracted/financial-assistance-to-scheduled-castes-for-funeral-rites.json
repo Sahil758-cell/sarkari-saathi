@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance to Scheduled Castes for Funeral Rites",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased must belong to the Scheduled Caste",
+    "The applicant must be a close relative of the deceased and also belong to the Scheduled Caste",
+    "The family must have nativity or at least three years of continuous residence in the Union Territory of Puducherry"
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 for funeral rites.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Perunthalaivar Karma Veerar Kamarajar Scheme of Financial Assistance Towards Funeral Expenses of the Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Applicant must have a disability of 40% or above",
+    "Claimant must be the son, daughter, spouse or any other close relative under whose care and maintenance the differently abled person was living",
+    "Application must be submitted within 30 days from the date of death of the differently abled person"
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000 is paid to the claimant on the death of the differently abled person.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

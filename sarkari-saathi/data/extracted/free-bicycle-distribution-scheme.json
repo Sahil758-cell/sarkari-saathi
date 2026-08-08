@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Free Bicycle Distribution Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student studying in Class 8",
+    "Applicant's family must be classified as Below Poverty Line (BPL) or Above Poverty Line (APL)"
+  ],
+  "benefits_summary": "Provides ₹3000 direct cash assistance per eligible student for purchasing a new bicycle.",
+  "documents_required": [],
+  "application_link": null
+}

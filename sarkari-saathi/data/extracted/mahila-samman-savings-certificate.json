@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Mahila Samman Savings Certificate",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen.",
+    "Scheme is only for women and girl children.",
+    "Any individual woman can apply; a guardian can open a minor account on behalf of a girl.",
+    "No upper age limit; women of all ages are eligible.",
+    "Account must be a single‑holder type account.",
+    "A time gap of three months must be maintained between opening multiple accounts by the same holder.",
+    "Minimum deposit of ₹1,000 and deposits must be in multiples of ₹100.",
+    "No subsequent deposits are allowed after the initial deposit.",
+    "Maximum total deposit limit of ₹2,00,000 per account holder.",
+    "Withdrawal up to 40% of eligible balance allowed after one year but before maturity.",
+    "For minor accounts, guardian must submit the specified certificate for withdrawal."
+  ],
+  "benefits_summary": "Provides a secure investment option for women and girls with a 7.5% annual interest compounded quarterly and a two‑year tenure.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Marriage Assistance to Normal Persons Marrying Visually Impaired Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Normal person must marry a speech and visually impaired person",
+    "Both spouses must be above 18 years of age",
+    "If either spouse holds a degree or diploma, the assistance amount is increased"
+  ],
+  "benefits_summary": "Provides ₹25,000 assistance (₹12,500 National Savings Certificate + ₹12,500 cash) for marriage, increased to ₹50,000 if either spouse has a degree/diploma, along with a certificate of appreciation and an 8 gram gold coin.",
+  "documents_required": [],
+  "application_link": null
+}

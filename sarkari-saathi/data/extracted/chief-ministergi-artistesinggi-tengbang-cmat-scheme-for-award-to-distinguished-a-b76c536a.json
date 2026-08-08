@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Ministergi Artistesinggi Tengbang (CMAT) - Scheme For Award To Distinguished Artistes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a domicile of the state of Manipur.",
+    "Must be a National Award winner (Padma Award, Sangeet Natak Akademi Award, Sahitya Akademi Award, Lalit Kala Akademi Award, Zonal Cultural Centre’s Award including Young Awardees, National Level Competition winner, or National Film Award winner) for individuals or groups.",
+    "Awards must have been announced or received during the current financial year or calendar year.",
+    "Selection is done by a Government‑constituted screening/selection committee."
+  ],
+  "benefits_summary": "Young awardees receive ₹50,000 each (up to 15 individuals), senior awardees receive ₹100,000 each (up to 15 individuals); groups receive ₹100,000 or ₹150,000 per awardee, with payments made via DBT.",
+  "documents_required": [],
+  "application_link": null
+}

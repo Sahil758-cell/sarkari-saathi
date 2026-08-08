@@ -1,0 +1,24 @@
+{
+  "scheme_name": "One Time Financial Support for Economically Weaker Meritorious ST Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must have passed Class 10 (Madhyamik) in 2022 with at least 45 % marks for pre‑12th courses, or Class 12 (H.S. level) in 2022 with at least 45 % marks for post‑12th courses.",
+    "The student must have taken admission in any professional course listed in Annexure‑A or Annexure‑B during the academic year 2022‑23, with a course duration of at least 2 years."
+  ],
+  "benefits_summary": "One‑time financial support of ₹1,00,000 is provided to eligible students, disbursed in two installments of ₹50,000 each.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

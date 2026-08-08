@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Credit Enhancement Guarantee Scheme For The Scheduled Castes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Borrower must have more than 51% shareholding by Scheduled Caste promoters for the past 6 months with management control",
+    "Applicable to enterprises in primary, manufacturing, or services sectors",
+    "Enterprise must be set up, promoted, and run by Scheduled Castes and may be under any State/Central Government subsidy or grant scheme",
+    "Shareholding by Scheduled Caste promoters must not be diluted below 51% during the loan period",
+    "Guarantee cover lock‑in period of 12 months from the date of last disbursement"
+  ],
+  "benefits_summary": "Provides a credit guarantee of Rs.0.15–5 crore (up to Rs.1 crore for individual SC entrepreneurs) for loans up to a maximum of 7 years.",
+  "documents_required": [
+    "Documentary proof of Scheduled Caste status (caste certificate)",
+    "Copy of valid sanction letter or Letter of Intent issued to the SC beneficiary"
+  ],
+  "application_link": null
+}

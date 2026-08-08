@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Shrama Shakthi Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 350000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of the State.",
+    "Must belong to the State Religious Minority Community.",
+    "Must not have availed benefits under any other KMDCL scheme (excluding the Arivu Scheme) in the last 5 years.",
+    "No family member should be an employee of State/Central/Government Public Sector Units.",
+    "Applicant shall not be a loan defaulter in KMDC."
+  ],
+  "benefits_summary": "A loan of ₹50,000 at 4% interest for 36 installments, along with training in artistic and technical skills for religious minority community entrepreneurs.",
+  "documents_required": [],
+  "application_link": null
+}

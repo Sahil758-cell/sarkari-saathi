@@ -1,0 +1,25 @@
+{
+  "scheme_name": "GITANJALI HOUSING SCHEME",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be homeless and own hassle‑free land in his/her name in West Bengal",
+    "Family monthly income must be Rs 6000 or less",
+    "Applicant must be a citizen/resident of West Bengal",
+    "Eligibility includes those homeless due to floods, erosion, other natural calamities, disaster‑prone areas, or displacement by government projects",
+    "The land provided by the beneficiary must be free from all encumbrances"
+  ],
+  "benefits_summary": "Provides free shelter/housing to homeless low‑income residents of West Bengal, covering construction costs up to Rs 70‑75 k per unit.",
+  "documents_required": [],
+  "application_link": "https://wbhousing.gov.in/pages/display/399-gitanjali-housing-scheme"
+}

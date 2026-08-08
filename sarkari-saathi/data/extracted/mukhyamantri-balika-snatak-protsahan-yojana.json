@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Balika (Snatak) Protsahan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have graduated or obtained an equivalent degree (including Alim or Shastri) after April 25 2018 from a government‑recognized or affiliated institution within Bihar",
+    "Graduate must be from general, technical, or professional courses",
+    "Applicant must have an account in any nationalized bank, recognized private bank or India Postal Payment Bank located in Bihar",
+    "If the name of the concerned college is not in the list, the applicant should contact the Registrar of their University to request its addition"
+  ],
+  "benefits_summary": "One-time financial incentive of ₹25,000 transferred directly to the beneficiary's bank account",
+  "documents_required": [],
+  "application_link": null
+}

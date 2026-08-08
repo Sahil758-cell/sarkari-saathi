@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Jharkhand State Scheduled Caste Pre-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Jharkhand",
+    "Applicant must be a student",
+    "Applicant must belong to the Scheduled Caste of Jharkhand",
+    "Applicant must be enrolled in a state government‑recognized school",
+    "Applicable for students studying in classes 1 to 10"
+  ],
+  "benefits_summary": "Financial assistance covering hostel and day‑school expenses, ranging from ₹1,500 for classes 1‑5 up to ₹4,500 for classes 9‑10, transferred directly to beneficiaries’ bank accounts.",
+  "documents_required": [
+    "Aadhaar",
+    "Caste certificate",
+    "Income certificate (if applicable)",
+    "Aadhaar‑linked bank account details"
+  ],
+  "application_link": null
+}

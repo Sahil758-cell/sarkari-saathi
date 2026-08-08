@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Mai Bhago Vidya Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in standards 9th, 10th, 11th, or 12th in a government school"
+  ],
+  "benefits_summary": "Free bicycles are provided to girl students of classes 9th to 12th.",
+  "documents_required": [],
+  "application_link": null
+}

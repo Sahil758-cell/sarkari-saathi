@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Consolidated Stipend Scheme for Scheduled Caste Students Pursuing Higher Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Haryana.",
+    "Applicant must be studying in a government college in Haryana.",
+    "Applicant must have passed the previous academic year examination.",
+    "Applicant must maintain at least 60% attendance in classes."
+  ],
+  "benefits_summary": "SC students studying in government colleges in Haryana receive a monthly stipend of ₹1,000, with an additional ₹500 per month hostel stipend for those availing hostel facilities.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Magnifiers - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a student.",
+    "Beneficiary must have low vision."
+  ],
+  "benefits_summary": "Free distribution of magnifiers to eligible students with low vision.",
+  "documents_required": [],
+  "application_link": null
+}

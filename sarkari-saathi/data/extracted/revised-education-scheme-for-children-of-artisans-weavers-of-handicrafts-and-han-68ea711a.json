@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Revised Education Scheme For Children Of Artisans/Weavers Of Handicrafts And Handloom Departments",
+  "occupation": [
+    "Weaver",
+    "Artisan"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 90000,
+  "category": null,
+  "state": [
+    "Jammu and Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parent must be a registered Weaver/Artisan with a valid registration certificate from the Handicrafts and Handloom Departments",
+    "Applicant must not have received benefits under Pre‑Matric Scholarship Scheme, Post‑Matric Scholarship Scheme, Prime Minister's Scholarship Scheme or any other scheme",
+    "Applicant must obtain a No Objection Certificate (NOC) from the Zonal Educational Officer and the Tehsil Social Welfare Officer",
+    "Applicant must possess either a BPL Card, Antyodaya Anna Yojana (AAY) Ration Card, Priority Household (PHH) Card, or an Economically Weaker Section (EWS) Certificate",
+    "Parents' total annual income must be ≤ ₹90,000 and an Income Certificate issued by the 1st Class Magistrate/Tehsildar is required"
+  ],
+  "benefits_summary": "Scholarship of ₹1500 per year up to primary education, ₹2000 per year for classes 6‑10, ₹3000 per year for classes 11‑12, and tuition‑fee coverage for technical/professional courses, paid via Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "Registration certificate from Handicrafts and Handloom Departments",
+    "Income Certificate issued by 1st Class Magistrate/Tehsildar",
+    "BPL Card",
+    "Antyodaya Anna Yojana (AAY) Ration Card",
+    "Priority Household (PHH) Card",
+    "Economically Weaker Section (EWS) Certificate",
+    "No Objection Certificate (NOC) from Zonal Educational Officer",
+    "No Objection Certificate (NOC) from Tehsil Social Welfare Officer"
+  ],
+  "application_link": null
+}

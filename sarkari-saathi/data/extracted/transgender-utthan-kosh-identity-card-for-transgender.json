@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Transgender Utthan Kosh – Identity Card for Transgender",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Rajasthan.",
+    "Applicant must belong to the transgender community."
+  ],
+  "benefits_summary": "Issuance of an identity card to recognized transgender individuals for use in all government services, with payment made to the applicant upon presenting the card.",
+  "documents_required": [],
+  "application_link": null
+}

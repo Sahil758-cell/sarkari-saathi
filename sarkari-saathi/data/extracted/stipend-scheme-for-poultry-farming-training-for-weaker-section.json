@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Stipend Scheme For Poultry Farming Training For Weaker Section",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Adult applicants from economically weaker sections of Gujarat",
+    "Must provide income proof with the application",
+    "Priority is given to female applicants and beneficiaries below the poverty line"
+  ],
+  "benefits_summary": "A maximum stipend of ₹2000 for six days of poultry training and a training certificate upon completion.",
+  "documents_required": [
+    "Income proof",
+    "Signed application print",
+    "Supporting documents"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

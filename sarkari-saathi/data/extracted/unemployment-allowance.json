@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Unemployment Allowance",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Chhattisgarh",
+    "Must have passed at least Higher Secondary (12th) examination from a recognized board",
+    "Must be registered in a District Employment and Self-Employment Guidance Center of Chhattisgarh, with registration at least two years old as of the application date",
+    "Applicant must have no personal source of income and the family annual income must not exceed Rs.250,000",
+    "Only one member per family can receive the allowance; priority is given to the older member, then to the member who registered earlier, then to the member with higher educational qualification",
+    "If any family member is employed in any government or local body job other than Class‑IV or Group‑D, the applicant is ineligible",
+    "If the applicant is offered self‑employment or any job in the government or private sector and does not accept the offer, the applicant is ineligible",
+    "Family members of current or former Ministers, State Ministers, Members of Parliament, State Legislatures, Mayors of Municipal Corporations, and Chairpersons of District Panchayats are ineligible",
+    "Family members of pensioners receiving a monthly pension of Rs.10,000 or more are ineligible",
+    "Families that have paid income tax in the previous assessment year are ineligible",
+    "Family members of professionals such as engineers, doctors, lawyers, chartered accountants, and architects registered with professional bodies are ineligible"
+  ],
+  "benefits_summary": "Financial assistance of Rs.2500 per month is provided to eligible unemployed youth.",
+  "documents_required": [],
+  "application_link": null
+}

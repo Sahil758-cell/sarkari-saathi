@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Chief Minister Kanya Utthan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 0,
+  "age_max": 2,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The girl child's birth must be duly registered.",
+    "Only two girl children per family are eligible for the scheme.",
+    "The benefit applies only to girls born on or after the date of notification.",
+    "Parents/guardians must fulfill all prescribed conditions to receive the payment.",
+    "Applications must be submitted at the designated Anganwadi centers with the required documents."
+  ],
+  "benefits_summary": "Cash transfer of Rs 2,000 for each girl aged 0‑1 year and Rs 1,000 after the child turns 1 year, payable to parents/guardians of up to two eligible girls per family.",
+  "documents_required": [],
+  "application_link": null
+}

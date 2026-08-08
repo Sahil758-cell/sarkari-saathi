@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Chief Ministergi Shotharabasingi Tengbang (CMST): Scholarship Of Students With Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Applicant must be enrolled in a school/college/university/institution recognized by the Government of Manipur",
+    "Applicant must not be availing any other scholarship under a similar scheme from any source"
+  ],
+  "benefits_summary": "Scholarship up to ₹8,000 per year, with amounts varying by class level (₹3,000 for classes 1‑5, ₹4,000 for classes 6‑8, ₹6,000 for classes 9‑12, and ₹8,000 for graduate and above).",
+  "documents_required": [
+    "Self‑attested supporting documents",
+    "Passport‑sized photograph"
+  ],
+  "application_link": "http://www.socialwelfare.nic.in"
+}

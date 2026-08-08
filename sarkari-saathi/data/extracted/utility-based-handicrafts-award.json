@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Utility Based Handicrafts Award",
+  "occupation": [
+    "artisan",
+    "handicraft manufacturer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess proficiency in Tamil and be a contributor to Tamil literature.",
+    "Applicant must use non‑toxic and non‑polluting craft materials."
+  ],
+  "benefits_summary": "Cash prize of ₹40,000, a 4 gm gold medal, one Thamirapattiram and a certificate.",
+  "documents_required": [
+    "passport‑sized photograph",
+    "self‑attested copies of required documents"
+  ],
+  "application_link": null
+}

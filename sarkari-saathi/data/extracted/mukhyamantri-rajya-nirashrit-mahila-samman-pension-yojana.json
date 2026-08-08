@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhyamantri Rajya Nirashrit Mahila Samman Pension Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Widow (woman whose husband has died)",
+    "Abandoned woman",
+    "Single woman aged 45 years or more",
+    "Must not be a beneficiary under any other Social Security pension scheme",
+    "Must not be retired or permanently employed in Central or State Government or public sector undertakings",
+    "Applicant or spouse must not receive any family pension or pension from Central or State Government or public sector undertakings",
+    "Applicant’s family is not an income tax payee"
+  ],
+  "benefits_summary": "₹1,000 per month pension transferred directly to the beneficiary's bank account.",
+  "documents_required": [
+    "Voter ID card",
+    "Aadhar Card"
+  ],
+  "application_link": null
+}

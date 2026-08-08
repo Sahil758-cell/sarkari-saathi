@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Ex-gratia for Permanent Disability/ Chronic Diseases/ Surgery/ Operation for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in building or other construction work for at least 90 days in a given year",
+    "The applicant must be a registered member under the Building and Other Construction Workers Welfare Board of the UT",
+    "The applicant must have permanent disability, or chronic disease (of the applicant or their dependents), or require surgery/operation",
+    "Surgery/operation benefit excludes operations related to maternity"
+  ],
+  "benefits_summary": "Provides up to ₹1,00,000 for permanent disability, up to ₹1,00,000 per year for chronic disease treatment, and ₹40,000 for surgery/operation (excluding maternity).",
+  "documents_required": [],
+  "application_link": null
+}

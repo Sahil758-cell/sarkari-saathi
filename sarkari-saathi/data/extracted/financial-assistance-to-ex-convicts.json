@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Financial Assistance To Ex-Convicts",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ex‑convict released from jail due to poor economic conditions"
+  ],
+  "benefits_summary": "One‑time financial assistance of up to ₹15,000 per eligible ex‑convict.",
+  "documents_required": [],
+  "application_link": "SUNEETHI- Online Service Application Portal"
+}

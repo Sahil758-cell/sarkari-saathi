@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance to Brackish Water Aquaculture Farms",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a farmer with a water spread area of 2 hectares or less",
+    "The farm must be licensed by the Coastal Aquaculture Authority",
+    "Applications are accepted only in offline mode"
+  ],
+  "benefits_summary": "Provides subsidies for construction/renovation, equipment, and feed for brackish water aquaculture farms, with limits per hectare.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

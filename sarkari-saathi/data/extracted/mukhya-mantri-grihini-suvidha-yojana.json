@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Mukhya Mantri Grihini Suvidha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have an LPG connection in their name or in the name of any household member",
+    "Applicant must not be a recipient of any other LPG connection under any other government scheme"
+  ],
+  "benefits_summary": "Provides a free LPG connection with one cylinder (plus two additional cylinders) to poor families lacking LPG connections.",
+  "documents_required": [],
+  "application_link": "http://food.hp.nic.in/home.html"
+}

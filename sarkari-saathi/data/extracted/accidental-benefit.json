@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Accidental Benefit",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should have engaged in building and construction work for at least 90 days in a given year.",
+    "The applicant must be a registered member under the Building and Other Construction Workers Welfare Board of West Bengal."
+  ],
+  "benefits_summary": "Provides up to ₹10,000 for hospitalization of 5+ days, up to ₹50,000 for accident‑related disablement, and a monthly pension of ₹750 (family pension ₹375) for permanently disabled workers.",
+  "documents_required": [
+    "mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

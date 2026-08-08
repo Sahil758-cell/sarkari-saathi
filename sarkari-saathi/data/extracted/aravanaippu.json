@@ -1,0 +1,23 @@
+{
+  "scheme_name": "ARAVANAIPPU",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Puducherry by birth or continuous residence of at least five years",
+    "Girl child of the applicant must be born after 1-4-2005",
+    "Assistance is provided for up to two girl children only"
+  ],
+  "benefits_summary": "₹1200 financial assistance to lactating mothers.",
+  "documents_required": [],
+  "application_link": null
+}

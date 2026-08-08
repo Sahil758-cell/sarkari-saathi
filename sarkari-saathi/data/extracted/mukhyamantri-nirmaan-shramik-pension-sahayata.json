@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Mukhyamantri Nirmaan Shramik Pension Sahayata",
+  "occupation": [
+    "Building and other construction workers"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiaries must have been registered members as construction workers in the Board for at least 10 years",
+    "Beneficiaries must not be receiving benefits from any other parallel scheme of the State or Central Government",
+    "Beneficiaries who have availed the benefit of the Chief Minister Syan Sahayata Yojana are ineligible",
+    "A survival certificate must be submitted every year in March to continue receiving assistance",
+    "If both husband and wife are registered workers and both receive pension benefits, only one spouse will continue to receive pension after the death of the other; family pension is not payable to dependents",
+    "If the husband dies before the wife turns 60, the wife will receive family pension until she turns 60, after which she may apply for the pension scheme and the family pension stops",
+    "Applicants have a six‑month window from completing 59 years and three months up to 60 years to apply"
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a pension of ₹1,500 per month, while widows receive ₹700 per month.",
+  "documents_required": [
+    "Survival certificate"
+  ],
+  "application_link": null
+}

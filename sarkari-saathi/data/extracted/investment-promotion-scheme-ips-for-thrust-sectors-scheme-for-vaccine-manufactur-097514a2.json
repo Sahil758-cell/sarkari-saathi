@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for Thrust Sectors: Scheme For Vaccine Manufacturing Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a new or existing manufacturing/service unit undertaking expansion or diversification in the MSME sector.",
+    "The unit must be located in the Union Territory of Dadra and Nagar Haveli and Daman and Diu.",
+    "Commercial production must commence between 20‑05‑2022 and 19‑05‑2027.",
+    "The enterprise must apply through the online portal within one year from the date of first loan disbursement or on/before the date commercial production starts."
+  ],
+  "benefits_summary": "Provides a credit‑linked interest subsidy of up to 70% per annum (capped at ₹60 lakh) and a capital investment subsidy of up to 15% of investment (capped at ₹1 000 lakh) for eligible vaccine manufacturing units.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

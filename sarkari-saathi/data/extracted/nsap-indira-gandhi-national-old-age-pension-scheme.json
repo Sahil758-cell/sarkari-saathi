@@ -1,0 +1,20 @@
+{
+  "scheme_name": "NSAP - Indira Gandhi National Old Age Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be identified as Below Poverty Line (BPL) by the state/UT."
+  ],
+  "benefits_summary": "Monthly pension of ₹200 for beneficiaries aged 60‑79, and ₹500 for those aged 80 and above.",
+  "documents_required": [],
+  "application_link": "https://web.umang.gov.in/web_new/home"
+}

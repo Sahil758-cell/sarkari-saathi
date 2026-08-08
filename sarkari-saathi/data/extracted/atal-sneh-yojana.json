@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Atal Sneh Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 2,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Newborns up to two months receive health screening and treatment for detected conditions, with follow‑up care.",
+  "documents_required": [
+    "birth certificate",
+    "income certificate",
+    "Aadhar card"
+  ],
+  "application_link": null
+}

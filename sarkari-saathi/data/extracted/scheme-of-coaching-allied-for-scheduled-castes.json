@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Scheme Of Coaching & Allied For Scheduled Castes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be a registered private institution or NGO",
+    "Institution must have at least three years experience running coaching for competitive examinations",
+    "Institution must not have been declared bankrupt or blacklisted by any government body",
+    "Institution must have capacity to manage building/space for coaching classes at Ranchi and Dumka",
+    "Candidates must belong to Scheduled Caste (SC) and be residents of Jharkhand",
+    "Candidates must have the eligible qualifications for the respective competitive exams",
+    "Candidates can avail coaching only once for a particular competitive exam and up to two coaching courses in total",
+    "Each class may have up to 40 students, with a preference for 30% women SC candidates and 5% disabled SC candidates, and no more than 10% of students from any single district"
+  ],
+  "benefits_summary": "Eligible SC candidates receive a monthly stipend of ₹1,000 and boarding/lodging assistance of ₹2,000 per month, along with course fee coverage up to ₹22,000 per candidate.",
+  "documents_required": [
+    "SC certificate in prescribed proforma issued by the competent authority",
+    "Undertaking from each admitted candidate confirming no prior receipt of coaching under any government scheme",
+    "Photograph and full address of each candidate in the prescribed format",
+    "Completed application forms and annexures (printout and soft copy) submitted to the department"
+  ],
+  "application_link": null
+}

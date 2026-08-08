@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Nai Hetu Avashyak Upkaran Sahayata Yojana",
+  "occupation": [
+    "unorganized worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered unorganized worker of the State Social Security Board.",
+    "Applicant must not be receiving any other parallel scheme of the state government."
+  ],
+  "benefits_summary": "Provides registered barbers with a complete barber kit including scissors, straight razor, comb, hair‑cutting cape, water spray bottle, and shaving brush.",
+  "documents_required": [],
+  "application_link": null
+}

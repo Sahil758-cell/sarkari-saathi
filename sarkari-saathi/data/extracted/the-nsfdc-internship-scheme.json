@@ -1,0 +1,27 @@
+{
+  "scheme_name": "The NSFDC Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be pursuing or have completed an undergraduate, graduate, or postgraduate degree from a recognized university, college, or institution in India.",
+    "The applicant must have his own laptop for the internship.",
+    "The internship benefit can be availed only once during a financial year.",
+    "Applicants must maintain a minimum of 60% attendance during the internship period.",
+    "Applicants must apply online at least one month before the desired internship period."
+  ],
+  "benefits_summary": "Provides unpaid, practical professional exposure and skill development in the operations of a Central Public Sector Enterprise focused on scheduled caste community development.",
+  "documents_required": [
+    "Detailed resume",
+    "Academic documents",
+    "No Objection Certificate (Format enclosed in Annexure-A)"
+  ],
+  "application_link": null
+}

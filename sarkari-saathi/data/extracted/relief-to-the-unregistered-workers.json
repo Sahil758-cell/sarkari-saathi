@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Relief to the Unregistered Workers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be dependent on the deceased unregistered worker.",
+    "The worker must be unregistered with the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+    "The worker must have died in an accident at a construction site or related project during the course of employment.",
+    "For permanent disability, the worker must have a disability of 50% or above due to an accident at a construction site.",
+    "For permanent partial disability, the worker must have a disability of 50% or below due to an accident at a construction site."
+  ],
+  "benefits_summary": "Provides ₹50,000 financial assistance to dependents of deceased unregistered workers, and ₹20,000 or ₹10,000 compensation for permanent (≥50%) or partial (<50%) disabilities respectively.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Annual Tour to the Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Disability of 40% or above is required",
+    "Applicant must not have performed the tour in the past ten years",
+    "Applicant must not be affected by any contagious diseases",
+    "Application can be made only after notification in local newspapers",
+    "Applicant must not be a Government servant",
+    "Parents of the applicant must not be Government servants",
+    "Applicant must have registered his/her name in the Anganwadi Centre"
+  ],
+  "benefits_summary": "One free tour to various places each year.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

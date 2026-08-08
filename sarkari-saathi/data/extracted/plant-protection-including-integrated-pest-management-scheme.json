@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Plant Protection including Integrated Pest Management Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide farmer engaged in agriculture",
+    "Sufficient available cultivable land required for selection",
+    "Beneficiaries selected on a first‑come‑first‑served basis"
+  ],
+  "benefits_summary": "Free distribution of bio‑pesticides and IPM tools, plus a 50% subsidy on plant protection equipment.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

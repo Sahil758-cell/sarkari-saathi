@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance for Interest Subsidy (Manufacturing Sector)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Micro, Small, or Medium enterprise",
+    "Must be a manufacturing enterprise engaged in the manufacturing sector",
+    "Must obtain term loan from a recognized bank or financial institution",
+    "Loan must be sanctioned before the enterprise starts commercial production",
+    "If installing a solar/renewable energy plant, it must be for captive consumption",
+    "Enterprise must bear a minimum of 2% interest on the term loan",
+    "Application must be submitted within the prescribed timeline",
+    "SC/ST entrepreneur contribution must be at least 51% of the enterprise"
+  ],
+  "benefits_summary": "Provides an interest subsidy of 6‑8% on term loans up to ₹35 lakhs, with loan periods of 5–7 years depending on category.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Fasal Bima Yojna (PMFBY)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmer (including tenant farmer and sharecropper) growing notified crops in notified areas",
+    "Must have an insurable interest in the insured crops",
+    "Must possess a valid and authenticated land ownership certificate or a valid land tenure agreement",
+    "Farmer must be a cultivator or sharecropper on the insured land",
+    "Application for insurance must be made within about two weeks of the start of the sowing season",
+    "Farmer must not have received compensation for the same crop loss from any other source"
+  ],
+  "benefits_summary": "Provides low‑premium crop insurance covering losses from natural disasters, pests, and diseases, with quick claim settlement within two months of harvest.",
+  "documents_required": [
+    "Land ownership certificate",
+    "Land tenure agreement"
+  ],
+  "application_link": "https://pmfby.gov.in/farmerLogin"
+}

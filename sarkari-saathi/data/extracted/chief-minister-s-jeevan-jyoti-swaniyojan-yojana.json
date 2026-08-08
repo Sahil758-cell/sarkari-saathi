@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Chief Minister's Jeevan Jyoti Swaniyojan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 37,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum educational qualification up to 10th standard; for women in handloom and sericulture activities the qualification is relaxed to Class V; for male youth in agricultural and animal husbandry activities the qualification is relaxable to Class VII",
+    "Implemented on a group basis with a minimum of four members forming a Joint Liability Swabalambi Group; individual applicants and two‑member groups with a joint account are also eligible for certain activities such as computer training/DTP centers"
+  ],
+  "benefits_summary": "Provides self‑employment opportunities with institutional credit and up to 50% margin‑money subsidy for eligible youth in Assam.",
+  "documents_required": [],
+  "application_link": null
+}

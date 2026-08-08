@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Assistance Scheme for Handicraft Artisans",
+  "occupation": [
+    "artisan"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must provide true information and declare it as such",
+    "Applicant must furnish any clarifications or further details requested by the recommending/sanctioning authority",
+    "Applicant must allow inspection or verification of tools, equipment, accessories, and other assets if required",
+    "Applicant must produce originals of any important documents if requested for verification",
+    "Applicant must execute the requisite legal agreement on paper when the proposal is approved",
+    "Applicant must utilize the received amount only as agreed upon",
+    "Applicant must operate the unit as stipulated in the agreement; otherwise assistance may be recovered under the Kerala Revenue Recovery Act",
+    "Eligibility category noted in source: Women",
+    "Eligibility category noted in source: SC/ST",
+    "Eligibility category noted in source: Young (18-45)"
+  ],
+  "benefits_summary": "Provides a one‑time grant of up to ₹2 lakh (40 % of fixed capital) for general artisans and up to ₹3 lakh (50 % of fixed capital) for women, young (18‑45) and SC/ST artisans to set up handicraft enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

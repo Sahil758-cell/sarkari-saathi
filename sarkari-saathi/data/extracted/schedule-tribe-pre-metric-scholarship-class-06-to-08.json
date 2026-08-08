@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Schedule Tribe Pre-Metric Scholarship Class 06 To 08",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a regular student in classes 6 to 8 in schools run by the Central Government, State Government, Municipalities or recognized by the Department of Education",
+    "Parents/guardians must not be income taxpayers",
+    "Student must not be receiving any other scholarship or allowance for study from central, state or public sources",
+    "Student must not have failed in the lower class in the last session",
+    "If the student fails any year’s examination, the scholarship stops and the student must re‑apply for a new scholarship after passing",
+    "Student must not be living in a hostel (i.e., must be a non‑hosteller)"
+  ],
+  "benefits_summary": "ST boy students receive Rs. 75 per month and ST girl students receive Rs. 125 per month.",
+  "documents_required": [],
+  "application_link": null
+}

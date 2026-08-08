@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Centrally Sponsored Scheme of Post-Matric Scholarship for OBC, EBC  and DNT Students for studying in India",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be studying at the post‑matriculation or post‑secondary stage of education",
+    "Institution must be recognized by the All India Survey on Higher Education (AISHE) or Unified District Information System for Education (UDISE)",
+    "Institution must have NAAC or NBA accreditation",
+    "Applicant must maintain Aadhaar‑based attendance in the institution",
+    "Applicant must possess a valid Freeship Card issued by the State/District Authority",
+    "Preference of up to 20 slots per annum reserved for Commercial Pilot License courses"
+  ],
+  "benefits_summary": "Provides an annual academic allowance and tuition fee reimbursement (up to ₹20,000) for eligible OBC/EBC/DNT students pursuing post‑matric courses.",
+  "documents_required": [
+    "Freeship Card",
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar"
+  ],
+  "application_link": null
+}

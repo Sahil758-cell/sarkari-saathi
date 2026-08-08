@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Issue of Free Bus Pass to Differently Abled Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Must have a disability of 40% or above"
+  ],
+  "benefits_summary": "Free bus passes for travel within the Union Territory of Puducherry.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

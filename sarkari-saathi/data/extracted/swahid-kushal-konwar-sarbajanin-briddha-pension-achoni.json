@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Swahid Kushal Konwar Sarbajanin Briddha Pension Achoni",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "A monthly pension of ₹250 is provided to eligible senior citizens, credited directly to their bank account.",
+  "documents_required": [
+    "Self-attested documents",
+    "Signature or thumb impression"
+  ],
+  "application_link": null
+}

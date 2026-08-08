@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Antheyesthi Anudan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a voluntary organization recognized by the state government",
+    "The organization must be registered under the Societies Act",
+    "The organization must be actively working in the welfare of destitute and helpless individuals or have prior experience in this field",
+    "The organization must have a strong financial condition",
+    "The organization must not have been penalised or blacklisted in the past",
+    "The deceased must be identified as unclaimed or destitute with no known family or relatives",
+    "The death must have occurred within the jurisdiction of Rajasthan",
+    "The organization must agree to conduct the last rites immediately at its own level with full legal procedure and to receive reimbursement from the State Government"
+  ],
+  "benefits_summary": "A one-time grant of ₹5,000 is provided to voluntary organizations for conducting the last rites of unclaimed or destitute deceased individuals.",
+  "documents_required": [
+    "Application form (Appendix-A)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

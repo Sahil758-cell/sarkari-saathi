@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Soil Testing Laboratory",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a bonafide farmer engaged in agriculture with sufficient cultivable land",
+    "Selection is on a first‑come‑first‑served basis"
+  ],
+  "benefits_summary": "Free soil testing services for farmers and issuance of a Soil Health Card (SHC).",
+  "documents_required": [],
+  "application_link": null
+}

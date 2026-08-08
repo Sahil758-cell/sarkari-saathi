@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Rajiv Gandhi Krishak Sathi Sahayta Yojana",
+  "occupation": [
+    "farmer",
+    "agricultural laborer",
+    "market worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must hold licenses from the market committee."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹2,00,000 in case of death and varying amounts (₹5,000‑₹50,000) for injuries such as amputations, de‑scalping, and other accident‑related damages.",
+  "documents_required": [
+    "Jan Aadhaar number",
+    "Mobile number",
+    "Bhamashah ID",
+    "Janaadhaar ID",
+    "Aadhaar authentication"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Assistance to Training Institutions Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an existing State Level Entrepreneurship Development Institute (EDI) owned and controlled by a State Government or Union Territory; new EDIs are not eligible",
+    "Private training institutions and NGOs are excluded from eligibility for infrastructure support and training programmes",
+    "Costs of land, construction of staff quarters, etc., are not eligible for assistance",
+    "Assistance for State Level EDIs is capped at ₹3.00 Crore per institute",
+    "The assisted EDI must complete construction within the stipulated timeframe and submit a utilization certificate as per the sanction letter",
+    "Proposals must be submitted to the Deputy Secretary/Director (EDI), Ministry of MSME, New Delhi",
+    "The scheme may impose additional conditions as prescribed by the Central Government before sanctioning assistance"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹3 crore per state‑level EDI for infrastructure development, equipment procurement, and faculty training.",
+  "documents_required": [],
+  "application_link": "http://www.ati.msme.gov.in"
+}

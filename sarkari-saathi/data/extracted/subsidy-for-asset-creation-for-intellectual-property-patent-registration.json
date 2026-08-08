@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Subsidy for Asset Creation for Intellectual Property: Patent Registration",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must be a micro, small, or medium manufacturing enterprise",
+    "Enterprise can be new or existing",
+    "Enterprise must be located in Tamil Nadu",
+    "No documents are required to claim the reimbursement",
+    "Application must be filed within 6 months of obtaining the patent, trademark, or geographical indication"
+  ],
+  "benefits_summary": "75% subsidy on patent filing costs up to ₹3,00,000 per patent (maximum reimbursement ₹1,00,000).",
+  "documents_required": [],
+  "application_link": null
+}

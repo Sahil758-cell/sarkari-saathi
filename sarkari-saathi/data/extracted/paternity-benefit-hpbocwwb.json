@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Paternity Benefit (HPBOCWWB)",
+  "occupation": [
+    "Building/ Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Himachal Pradesh.",
+    "The applicant must be a Building/ Construction Worker.",
+    "The worker must have completed at least 90 days of building or other construction work in the last 12 months.",
+    "The worker’s registration with the Himachal Pradesh Building and Other Construction Workers Welfare Board must be renewed annually and remain active.",
+    "The worker’s wife must have delivered a baby to be eligible for the ₹6,000 benefit.",
+    "The worker must maintain proof of 90 days of work each year to retain eligibility for benefits."
+  ],
+  "benefits_summary": "The scheme provides ₹6,000 to the worker’s wife for each delivery (up to two deliveries) and ₹1,000 to the male worker as paternity assistance on the birth of a child.",
+  "documents_required": [
+    "Wage slip or appointment letter from the employer verifying 90 days of construction work",
+    "Certificate from a local authority (councilor, executive officer, or Panchayat Secretary) if wage slip/appointment letter is unavailable",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": "Step 1: Visit the Labor Welfare Office during office hours and request a hard copy of the prescribed application form. Step 2: Fill in all mandatory fields, paste a passport‑sized photograph (signed across if required), and attach self‑attested copies of all mandatory documents. Step 3: Submit the duly filled and signed application form along with a wage slip or appointment letter from the employer verifying 90 days of construction work; if unavailable, submit a certificate from a local authority (such as a councilor, executive officer, or Panchayat Secretary) to verify employment. Step 4: After submitting the documents and payment, receive an acknowledgment receipt confirming registration. Note: Ensure the application is submitted within the prescribed period, if any. After three years, visit the office to pay a renewal fee and submit proof of 90 days of work each year to maintain eligibility for benefits. A one‑time registration fee must be paid at the office, valid for three years."
+}

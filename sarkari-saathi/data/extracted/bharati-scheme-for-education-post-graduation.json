@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Bharati Scheme for Education - Post-Graduation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student and his/her parents must belong to the Brahmin community",
+    "Parents should be residing in Andhra Pradesh",
+    "Student must be enrolled in a recognized and reputed college for the academic year",
+    "Student must have cleared all subjects of the previous year",
+    "Student must be enrolled in the Praja Sadhikara Survey (PSS)",
+    "Student must not have availed any amount under any other government scheme for the same purpose",
+    "Students receiving benefits from Archaka Welfare Trust are also eligible under this scheme"
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 per post‑graduation student.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature"
+  ],
+  "application_link": null
+}

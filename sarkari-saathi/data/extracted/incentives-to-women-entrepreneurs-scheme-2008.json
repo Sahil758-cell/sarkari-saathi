@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Incentives to Women Entrepreneurs Scheme, 2008",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only partnership and proprietary concerns are eligible.",
+    "For proprietary concerns, ownership must be 100% women.",
+    "For partnership firms, women must hold at least 51% ownership.",
+    "In partnership firms the remaining 49% share must not be entirely held by husband, father, brother, or son, and there must be at least one additional partner other than these relatives.",
+    "Units must have entered commercial production or service on or after the date of publication of the scheme."
+  ],
+  "benefits_summary": "Provides interest subsidies (up to ₹5 lakh per annum) and additional employment subsidies, with preferential treatment under capital‑contribution schemes for eligible women‑owned units.",
+  "documents_required": [],
+  "application_link": null
+}

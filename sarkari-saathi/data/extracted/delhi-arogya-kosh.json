@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Delhi Arogya Kosh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Annual family income must not exceed Rs 3 lacs",
+    "Bonafide resident of Delhi for the last 3 years prior to application submission",
+    "Patient must seek treatment for any illness/intervention in a Government hospital run by Delhi Government, Central Government, AIIMS, Autonomous Institutes of the State Government, or Local Bodies",
+    "Eligibility confirmed by identity documents such as Voter ID card, Aadhaar Card, Passport, Driving License, Ration Card, Extract from the electoral roll, or Birth Certificate along with parent’s identity proof for children below five years"
+  ],
+  "benefits_summary": "Financial assistance up to Rs 5 lacs for treatment of any illness in eligible government hospitals.",
+  "documents_required": [
+    "Voter ID card",
+    "Aadhaar Card",
+    "Passport",
+    "Driving License",
+    "Ration Card",
+    "Extract from the electoral roll",
+    "Birth Certificate",
+    "Identity proof of either parent (for children below five years of age)"
+  ],
+  "application_link": null
+}

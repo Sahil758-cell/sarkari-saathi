@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries: Net SGST reimbursement",
+  "occupation": [
+    "manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum investment of INR 2,500 crore in plant and machinery required",
+    "Must provide direct employment to at least 2,500 persons",
+    "Unit must belong to one of the thrust sectors as defined in the Guidelines",
+    "Separate GST registration must be obtained for the eligible products",
+    "Project must be a new industrial undertaking with commercial production started within the applicable period",
+    "Must comply with conditions regarding sales classifications and documentation"
+  ],
+  "benefits_summary": "Full reimbursement of net SGST paid, up to 0.9% of eFCl value per annum, for up to 20 years",
+  "documents_required": [],
+  "application_link": null
+}

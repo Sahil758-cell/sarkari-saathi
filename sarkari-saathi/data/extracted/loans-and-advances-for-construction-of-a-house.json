@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Loans and Advances for Construction of a House",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The construction worker must be registered under the Manipur Building and Other Construction Workers' Welfare Board",
+    "The construction worker must have an active labour card",
+    "The applicant must submit a surety bond to the Board",
+    "The beneficiary must submit a completion certificate within six months of receiving the loan"
+  ],
+  "benefits_summary": "Provides loans of ₹1‑2 lakh for house construction with a 5% simple interest rate and a 5‑year repayment period.",
+  "documents_required": [
+    "active labour card",
+    "surety bond",
+    "completion certificate"
+  ],
+  "application_link": null
+}

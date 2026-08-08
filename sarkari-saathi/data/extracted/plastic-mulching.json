@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Plastic Mulching",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have agricultural land ownership",
+    "Applicant must have irrigation sources",
+    "Construction requires administrative approval from the Horticulture Department"
+  ],
+  "benefits_summary": "Small/marginal farmers receive a 25% subsidy and other farmers a 50% subsidy on up to 2 hectares of land.",
+  "documents_required": [
+    "Bhamashah ID",
+    "Janaadhaar ID",
+    "Aadhaar Authentication",
+    "Pensioner Details",
+    "Bank Details",
+    "Disability Details",
+    "Verification Details",
+    "Upload Documents"
+  ],
+  "application_link": null
+}

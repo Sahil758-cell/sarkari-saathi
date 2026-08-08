@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Jyotiba Phule Shramik Kanyadan Yojana",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be employed in an establishment registered under the Factories Act, 1948",
+    "Monthly salary (basic salary + dearness allowance) must not exceed ₹15,000 per month",
+    "Application can be made 3 months before or up to 1 year after the scheduled date of the girl's marriage",
+    "Benefit payable only for the marriage of a worker or two daughters"
+  ],
+  "benefits_summary": "Financial assistance of ₹51,000 per eligible marriage.",
+  "documents_required": [
+    "Recent photograph of the applicant",
+    "Scanned copy of the verified application form",
+    "Supporting documents"
+  ],
+  "application_link": "https://skpuplabour.in/"
+}

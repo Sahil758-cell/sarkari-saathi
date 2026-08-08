@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme for assistance for Start Ups/ Innovation: Sustenance Allowance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual or group of individuals with an innovative idea or concept, recommended by an approved Nodal Institution",
+    "Open to startups in any sector or branch of science, technology, engineering, agriculture, healthcare, etc.",
+    "Startups already receiving benefits under the Student Startup and Innovation Policy (SSIP) are also eligible"
+  ],
+  "benefits_summary": "Provides ₹20,000 per month for one year, with an enhanced ₹25,000 per month for startups having a woman co‑founder.",
+  "documents_required": [],
+  "application_link": null
+}

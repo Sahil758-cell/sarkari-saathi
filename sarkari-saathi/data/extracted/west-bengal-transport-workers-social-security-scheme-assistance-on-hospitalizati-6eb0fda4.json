@@ -1,0 +1,22 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Assistance on Hospitalization",
+  "occupation": [
+    "unorganized transport workers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unorganized worker employed in the operation of commercial vehicles such as cars, taxis, vans, auto‑rickshaws, trucks, or buses",
+    "Vehicle must be used for commercial purposes and not solely for personal or family use"
+  ],
+  "benefits_summary": "Hospitalization assistance up to ₹10,000, with ₹400 per day for the first 5 days and ₹200 per day thereafter, transferred via Direct Benefit Transfer (DBT).",
+  "documents_required": [],
+  "application_link": null
+}

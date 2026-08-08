@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Surakshit Matritva Aashwasan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": false,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Pregnant women of any caste category are eligible",
+    "Newborns aged 0 to 6 months are eligible",
+    "Lactating mothers up to 6 months post‑delivery are eligible"
+  ],
+  "benefits_summary": "Provides zero‑expense delivery, C‑section, antenatal check‑ups, home‑based newborn care visits, free transport and related maternal‑child health services.",
+  "documents_required": [],
+  "application_link": null
+}

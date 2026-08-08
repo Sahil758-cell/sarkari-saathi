@@ -1,0 +1,25 @@
+{
+  "scheme_name": "State Rice Mission Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Meghalaya.",
+    "Must be a bonafide farmer engaged in agriculture.",
+    "Must have sufficient available cultivable land."
+  ],
+  "benefits_summary": "Provides a 50% subsidy on quality paddy seeds, minor irrigation equipment, and power tillers, along with training and extension support.",
+  "documents_required": [
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

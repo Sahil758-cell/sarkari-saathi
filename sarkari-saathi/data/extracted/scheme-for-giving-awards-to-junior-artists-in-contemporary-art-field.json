@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme for Giving Awards to Junior Artists in Contemporary Art Field",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 29,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must pay an entry fee of ₹20 along with the application form."
+  ],
+  "benefits_summary": "₹10,000 award prize money for each of the 30 junior artists.",
+  "documents_required": [
+    "Self‑attested copies of mandatory documents."
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Educational Assistance for Medical and Engineering Courses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The child's parent or guardian must be registered with the Maharashtra Building and Other Construction Workers Welfare Board",
+    "The student must be enrolled in a government‑recognized medical or engineering institution",
+    "A maximum of two children or the wife of the registered worker may apply"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,00,000 for medical degrees and ₹60,000 for engineering degrees to eligible children or spouses of registered construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

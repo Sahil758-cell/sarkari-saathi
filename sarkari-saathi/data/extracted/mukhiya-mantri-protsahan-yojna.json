@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Mukhiya Mantri Protsahan Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be selected and take admission for a degree course in any Indian Institute of Technology (IIT), All India Institute of Medical Sciences (AIIMS), a post‑graduate diploma course in any Indian Institute of Management (IIM), Indian School of Mines (ISM) Dhanbad, or Indian Institute of Science (IISc)."
+  ],
+  "benefits_summary": "One‑time incentive of ₹75,000 per eligible student.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

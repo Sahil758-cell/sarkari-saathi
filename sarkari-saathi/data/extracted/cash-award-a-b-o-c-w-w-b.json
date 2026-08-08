@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Cash Award (A.B.O.C.W.W.B)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Assam",
+    "Applicant's parent must be engaged in building and other construction work",
+    "Applicant's parent must be registered with the Assam Building and Other Construction Workers Welfare Board",
+    "Parent must have an active membership with the Board",
+    "Applicant must have obtained a minimum of 55% in HSLC, AHM, and H.S. examinations"
+  ],
+  "benefits_summary": "Cash awards of ₹5,000, ₹4,000 or ₹3,500 are given to three male and three female children per district based on exam scores.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

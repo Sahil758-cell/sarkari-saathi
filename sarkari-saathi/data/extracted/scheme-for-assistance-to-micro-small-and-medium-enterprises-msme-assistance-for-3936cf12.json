@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Power Connection Charges",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Micro, Small or Medium enterprise",
+    "Unit must be located outside GIDC or any approved industrial park",
+    "Applicant must have paid power connection charges to the distribution licensee during the scheme's operative period",
+    "Reimbursement application must be submitted within one year of payment"
+  ],
+  "benefits_summary": "35% reimbursement of power connection charges up to ₹5,00,000",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "YSR Jala Kala",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have an existing bore well or tube well, or must have a failed bore well/tube well"
+  ],
+  "benefits_summary": "Free drilling of borewells with a minimum yield of 1000 GPH (4500 liters per hour), including construction of recharge pits and related services.",
+  "documents_required": [
+    "Self‑attested documents"
+  ],
+  "application_link": "http://www.ysrjalakala.ap.gov.in"
+}

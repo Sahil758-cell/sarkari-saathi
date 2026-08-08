@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Sanction of Adult Sticks to Senior Citizens",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have previously received the benefit under this scheme."
+  ],
+  "benefits_summary": "Distribution of walking (adult) sticks to senior citizens, with cost coverage varying based on parent/guardian income.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

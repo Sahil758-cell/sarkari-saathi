@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Education Loan Scheme- Credit Line 1 for Minority Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": 16,
+  "age_max": 32,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a minority community (Muslims, Sikhs, Christians, Buddhists, Parsis, or Jains)",
+    "Applicant must have secured admission to a professional or technical course approved by an agency such as AICTE, Medical Council of India, UGC, etc., in a recognized institute",
+    "Applicant must have obtained at least 50% marks in the qualifying examination for the course",
+    "Annual family income must not exceed ₹98,000 for rural residents or ₹1,20,000 for urban residents",
+    "Applicant must possess a Parivaar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Provides loans up to ₹20 lakh for studies in India and up to ₹30 lakh for studies abroad at a 3% interest rate to eligible minority community students.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

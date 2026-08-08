@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Sikkim Grant of Scholarship to Students with Disabilities Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular student at a recognized college, university or school of a recognized board.",
+    "Must have a disability percentage of 40% or above certified by Medical Authorities as per the Persons with Disabilities Act, 1995.",
+    "Must pass the examination in one attempt during the academic session; failure makes the student ineligible for the same class in the next academic year.",
+    "Must not be receiving any other similar scholarship from other departments or ministries."
+  ],
+  "benefits_summary": "Provides financial assistance covering cash incentives, books, stationery, uniforms and allowances for academic education and technical/professional training.",
+  "documents_required": [],
+  "application_link": null
+}

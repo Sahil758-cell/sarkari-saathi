@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Mukhyamantri Bagwani Mission: Strawberry Vikas Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to one of the specified districts: Gopalganj, Jehanabad, Lakhisarai, Saran, Supaul, Aurangabad, Begusarai, Bhagalpur, Gaya, Katihar, Kishanganj, Munger, Muzaffarpur, Nalanda, West Champaran, Patna, East Champaran, Purniyan, Samastipur, Vaishali",
+    "Applicant must have agricultural land between 0.25 acres (0.1 ha) and 5 acres (2 ha)",
+    "Applicant must be registered on the DBT portal",
+    "Benefits can be taken by ryot farmers based on land documents and by non-ryot farmers based on a contract form",
+    "Beneficiaries will be selected on a first‑come‑first‑serve basis"
+  ],
+  "benefits_summary": "Provides up to ₹3,36,000 per hectare subsidy for strawberry farming and a 40% subsidy on packaging materials (wooden and plastic boxes) along with quality seedlings.",
+  "documents_required": [
+    "Aadhaar verification",
+    "land documents",
+    "contract form"
+  ],
+  "application_link": null
+}

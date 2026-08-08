@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Government of Goa State Scholarship to NDA Cadets",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be born in Goa and/or domiciled in Goa for at least 15 years.",
+    "Should not be receiving any other financial assistance, scholarship, or freeship."
+  ],
+  "benefits_summary": "Scholarship of ₹1,000 per month for up to 24 months and a one-time outfit allowance of ₹12,000.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

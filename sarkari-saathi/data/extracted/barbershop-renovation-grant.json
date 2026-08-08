@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Barbershop Renovation Grant",
+  "occupation": [
+    "traditional barber"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 60,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Minimum ten years of work experience and currently engaged in the barber profession",
+    "Preference for physically challenged applicants",
+    "Preference for shops with seating capacity less than three",
+    "Preference for applicants registered under LSGDs",
+    "Preference for applicants having two daughters",
+    "Preference for self‑employed applicants",
+    "At least one beneficiary must be selected from each Panchayat",
+    "If more than 1,000 eligible applications, beneficiaries will be limited to 1,000",
+    "Eligibility category noted in source: Other Backward Communities"
+  ],
+  "benefits_summary": "Provides up to ₹25,000 (50 % of project cost) grant for modernising traditional barbershops, disbursed in up to two installments.",
+  "documents_required": [
+    "Completed application form",
+    "Agreement on stamp paper (₹100)"
+  ],
+  "application_link": null
+}

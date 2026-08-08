@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Jharkhand Patrakar Samman Pension Niyamawali",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": 58,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have worked as a full‑time journalist/media professional for a minimum of 20 years in Jharkhand or undivided Bihar (pre‑November 15 2000).",
+    "Must not be a pension beneficiary of any other media institution or government scheme.",
+    "Must have retired at the age of 58 or as per the retirement norms of the media organization.",
+    "Must possess an accreditation certificate issued by the Directorate of Information and Public Relations at the time of retirement.",
+    "Must not have any criminal convictions leading to imprisonment of more than two years."
+  ],
+  "benefits_summary": "Monthly pension of ₹7,500 with a family pension of 50% to the spouse after the journalist’s demise.",
+  "documents_required": [
+    "accreditation certificate"
+  ],
+  "application_link": null
+}

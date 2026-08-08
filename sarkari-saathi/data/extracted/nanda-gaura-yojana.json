@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Nanda Gaura Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 72000,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only native/permanent girls of Uttarakhand are eligible",
+    "Maximum two living girls per family can receive benefits",
+    "First phase must be applied within 6 months of the girl’s birth",
+    "Birth must occur in a government hospital, private hospital, or ANM centre (including hospitals of other states)",
+    "A certificate proving native/permanent residency must be attached",
+    "A copy of the institutional delivery certificate must be attached",
+    "Delivery by a trained midwife is not considered institutional delivery",
+    "Second phase application deadline is 30 November each financial year",
+    "The bank account provided must be active",
+    "A joint bank account must be opened with the mother, or father if the mother is deceased, or the guardian if both parents are deceased, and it must be linked to the beneficiary’s Aadhaar",
+    "An income certificate issued by the Tehsildar (showing family annual income up to Rs 72,000) is required"
+  ],
+  "benefits_summary": "Provides up to Rs 62,000 per girl (Rs 11,000 at birth and Rs 51,000 after Class 12) transferred to a bank account",
+  "documents_required": [
+    "Certificate proving native/permanent residency",
+    "Institutional delivery certificate",
+    "Income certificate issued by Tehsildar"
+  ],
+  "application_link": null
+}

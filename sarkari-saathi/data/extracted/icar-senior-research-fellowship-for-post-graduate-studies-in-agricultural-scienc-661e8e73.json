@@ -1,0 +1,34 @@
+{
+  "scheme_name": "ICAR Senior Research Fellowship For Post-Graduate Studies In Agricultural Sciences",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed a Master’s degree with at least 55% marks or equivalent OGPA from a recognized university (relaxed by 5% for SC/ST/PH candidates)",
+    "Must appear for the All India Competitive Entrance Examination and secure admission to a Ph.D. programme in one of the listed Agricultural Universities",
+    "Ph.D. admission must be in an Agricultural University different from the one where the Master’s degree was obtained",
+    "Upper age limit is 30 years (relaxed by 5 years for SC/ST/PH, by 3 years for OBC, and up to 45 years for in‑service candidates)",
+    "Candidates in their final semester are eligible if they obtain the degree before the examination date and provide the degree certificate"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹12,000 for Veterinary Sciences (₹8,640 for other disciplines) plus an annual contingency grant of ₹6,000.",
+  "documents_required": [
+    "scanned photograph",
+    "signature",
+    "thumb impression",
+    "hard copy of online application",
+    "proof of fee payment"
+  ],
+  "application_link": null
+}

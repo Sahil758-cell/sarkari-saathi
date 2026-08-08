@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Marriage Assistance to Normal Persons Marrying Orthopedically Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Normal person must marry an orthopedically differently abled person.",
+    "Both spouses must be above 18 years of age.",
+    "If either spouse holds a degree or diploma, increased assistance is provided."
+  ],
+  "benefits_summary": "Provides marriage assistance of ₹25,000 (₹12,500 National Savings Certificate plus ₹12,500 cheque); increased to ₹50,000 (₹25,000 NSC plus ₹25,000 cheque) if either spouse has a degree/diploma, along with a certificate of appreciation and an 8‑gram gold coin.",
+  "documents_required": [],
+  "application_link": null
+}

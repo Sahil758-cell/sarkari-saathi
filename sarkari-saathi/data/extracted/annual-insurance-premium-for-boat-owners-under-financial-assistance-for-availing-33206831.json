@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Annual Insurance Premium for Boat Owners",
+  "occupation": [
+    "fishing",
+    "fish trade",
+    "prospective entrepreneur"
+  ],
+  "gender": null,
+  "age_min": 24,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have resided in the Union territory of Puducherry for a continuous period of at least five years",
+    "Must be enrolled as a member of the Fishermen Co-operative Society",
+    "Must not have received Old Age Pension from the department",
+    "Must not be employed in Government, Government Undertakings, or Fishermen Co-operative Society",
+    "Must have no dues payable to the Department or Fishermen Co-operative Societies at the time of application",
+    "Must possess a registered mechanized boat",
+    "Must have insured the boat on an annual basis with an authorized insurance company"
+  ],
+  "benefits_summary": "50% subsidy up to ₹20,000 per boat on the annual insurance premium.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Haryana Pre Matric Scholarship For Minority",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Muslim, Sikh, Christian, Buddhist, Jain, or Zoroastrian (Parsi) community in Haryana",
+    "Applicant must be studying in classes 1 to 10 in a government or private school selected and notified by the State Government in Haryana",
+    "Applicant must have secured at least 50% marks in the previous final examination",
+    "Applicant must be a regular student in the school",
+    "30% of scholarships are earmarked for girl students (preference)",
+    "Priority is given based on poverty rather than marks",
+    "Renewal applications are considered before new applications"
+  ],
+  "benefits_summary": "Scholarships cover admission fee up to ₹500 per annum, tuition fee up to ₹350 per month, and maintenance allowance ranging from ₹100 to ₹600 per month for classes 1‑10.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Scheme for Small Business Owners of Scheduled Castes to Buy a Place of Business/Shop",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "Applicant must be a native of Gujarat.",
+    "Applicant must belong to the Scheduled Caste (SC) category.",
+    "No income limit applies.",
+    "Loan must be used only for purchasing or renting a shop/business premises.",
+    "The premises must be mortgaged to the government until the loan is fully repaid.",
+    "If constructing on one's own land, the land must be uncultivated and title cleared.",
+    "Security must be provided by two local persons with immovable property equal to the loan amount.",
+    "Illegal activities are prohibited at the business place.",
+    "Defaulting on loan incurs penal interest of 2.5% and possible recovery as land revenue arrears."
+  ],
+  "benefits_summary": "Maximum loan of ₹10 lakhs with interest up to 4% and a subsidy of ₹15,000, plus interest subsidy for bank interest above 4% for three years.",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

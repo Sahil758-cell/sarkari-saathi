@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Haryana Merit Cum Means Scheme For Minority",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to a notified minority community (Muslim, Christian, Sikh, Buddhist, Jain, or Parsi).",
+    "Must have scored at least 50% marks in the previous qualifying examination.",
+    "Must have secured admission to a professional or technical course in a recognized institution.",
+    "30% of scholarships are reserved for girl students, transferable to male students if no eligible girl candidates are available."
+  ],
+  "benefits_summary": "Up to ₹30,000 per year for hostellers or ₹25,000 per year for day scholars, covering maintenance allowance and course fees.",
+  "documents_required": [],
+  "application_link": null
+}

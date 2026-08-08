@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Assistance On Death Of The Unregistered Worker (HBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a legal heir or dependent family member of an unregistered worker who died in a workplace accident.",
+    "Applicant must have a copy of the FIR related to the accident.",
+    "Applicant must have a post‑mortem report of the worker’s death.",
+    "Applicant must provide a certificate confirming they are the nominated/legal heir of the unregistered worker."
+  ],
+  "benefits_summary": "Financial assistance of ₹2,50,000 is provided to the legal heir/dependent family member of an unregistered worker who dies in a workplace accident.",
+  "documents_required": [
+    "Copy of the FIR related to the accident",
+    "Post‑mortem report of the worker’s death",
+    "Certificate confirming the applicant is the nominated/legal heir"
+  ],
+  "application_link": null
+}

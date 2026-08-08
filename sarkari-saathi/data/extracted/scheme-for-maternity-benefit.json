@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Maternity Benefit",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered female construction worker or the wife of a male registered construction worker",
+    "The registered construction worker must have been employed continuously for at least one year before claiming the benefit",
+    "The worker must have no outstanding dues to the Board",
+    "Beneficiary cannot have more than two existing children",
+    "A maximum of two claims (delivery or miscarriage) are allowed per beneficiary lifetime",
+    "The application must be submitted within six months of delivery",
+    "For a second claim, an affidavit stating that the claim is for a second delivery is required"
+  ],
+  "benefits_summary": "Provides up to ₹8,000 for delivery or ₹4,000 for miscarriage and up to three months of paid maternity leave to eligible female construction workers or wives of male workers.",
+  "documents_required": [],
+  "application_link": null
+}

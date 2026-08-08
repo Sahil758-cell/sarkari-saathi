@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Matritva, Shishu Evam Baalika Madad Yojana",
+  "occupation": [
+    "construction worker",
+    "wife of construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a permanent resident of Uttar Pradesh",
+    "Beneficiary must be a registered construction worker",
+    "Benefits are provided only for the first two deliveries of the worker",
+    "Child benefits apply to the first girl child (or first legally adopted girl child in childless families) and to a second girl child only if both first and second children are girls",
+    "All girl children in the first two deliveries are eligible if more than one girl is born",
+    "Birth of the girl child must be registered",
+    "The girl must remain unmarried until age 18 to receive the fixed deposit benefit",
+    "Benefits will not be provided if the recipient is already receiving another similar government scheme"
+  ],
+  "benefits_summary": "The scheme offers cash and wage‑based maternity benefits to construction‑worker women (and a lump‑sum to their male spouses) and provides financial assistance for newborn children, with higher amounts for daughters and disabled children.",
+  "documents_required": [],
+  "application_link": null
+}

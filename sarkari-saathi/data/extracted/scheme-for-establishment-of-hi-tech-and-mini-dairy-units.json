@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scheme for Establishment of Hi-Tech and Mini Dairy Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed; any employment disqualifies them",
+    "No mandatory educational qualifications are required",
+    "Applicant must have adequate space or shed for keeping milch animals",
+    "Applicant must submit a self‑declaration of unemployment and compliance with scheme conditions",
+    "For 20‑animal dairy units, applicant must own or long‑lease at least 2 acres of agricultural land for green fodder production",
+    "For 50‑animal dairy units, applicant must own or long‑lease at least 5 acres of agricultural land for green fodder production",
+    "Applicants who have previously received benefits under any Departmental Scheme for establishment of livestock units are ineligible, except those who previously availed benefits for units below 20 milch animals may apply for 20 or 50 animal units",
+    "If the applicant’s residence differs from the location where animals will be kept, the jurisdiction area Government Veterinary Hospital within Haryana must be the place where animals are kept"
+  ],
+  "benefits_summary": "Provides a 25% subsidy for 4‑ and 10‑animal dairy units and interest subvention on 75% of livestock cost for 20‑ and 50‑animal units, up to ₹15  lakh and ₹37.5  lakh respectively.",
+  "documents_required": [
+    "Self‑Declaration of unemployment and compliance"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

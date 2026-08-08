@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Temporary Disability (Hospitalization) Relief Scheme",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Andhra Pradesh Building and Other Construction Workers Welfare Board",
+    "Must have a temporary disability due to an accident or disease"
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

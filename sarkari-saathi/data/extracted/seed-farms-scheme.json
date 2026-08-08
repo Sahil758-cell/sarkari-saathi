@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Seed Farms Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide farmer must have sufficient available cultivable land.",
+    "Selection is on a first‑come, first‑served basis."
+  ],
+  "benefits_summary": "Supply of quality seeds to farmers through subsidised sales.",
+  "documents_required": [],
+  "application_link": null
+}

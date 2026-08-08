@@ -1,0 +1,48 @@
+# Environment files (real secrets) — .env.example files ARE tracked
+.env
+.env.*.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+*.tsbuildinfo
+/ios
+/android
+
+# Native signing artifacts
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Generated / regeneratable data (rebuild via pipeline/build_embeddings.py)
+sarkari-saathi/data/vectordb/
+
+# Runtime state (not source)
+sarkari-saathi/data/otp_quota.json
+
+# OS
+.DS_Store
+*.pem
+
+# Editor / tooling
+.claude/

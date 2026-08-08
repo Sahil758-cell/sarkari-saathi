@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhya Mantri Gyandeep Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a bonafide Himachali student",
+    "Must not have availed any other interest subsidy on education loans under any other scheme of the State Government or Government of India",
+    "Loan must be for professional/technical or higher education courses from recognized institutions in India",
+    "Education loan must be disbursed on or after 01.04.2016"
+  ],
+  "benefits_summary": "Provides an interest subsidy of up to 4% per annum on education loans up to ₹10 lakhs for eligible Himachali students.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Women Self Employment Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 35000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must set up her own business, trade, or small industry to earn livelihood.",
+    "Physically handicapped individuals are eligible to apply."
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 to help women start small businesses or trade activities.",
+  "documents_required": [],
+  "application_link": null
+}

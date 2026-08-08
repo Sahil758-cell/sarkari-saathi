@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Paired Early Career Fellowship in Applied Research",
+  "occupation": [
+    "academia",
+    "research institution",
+    "industry"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must hold a regular position in academia, research institution, or industry, or a long‑term nationally recognised fellowship of at least four years.",
+    "Must have a minimum qualification of a Master's in Science or a four‑year Bachelor’s in Engineering.",
+    "PhD students and post‑docs affiliated with research institutions or industry are also eligible.",
+    "Applicants must form a pair consisting of one Indian and one German early‑career researcher and submit a joint proposal.",
+    "The pair’s visits must be completed within 12 months of award initiation, with less than six months gap between the two visits.",
+    "A No Objection Certificate (NOC) from the head of the applicant’s institution must be submitted with the application.",
+    "Applicants must provide a detailed activity plan outlining objectives, work plan and expected outcomes.",
+    "Travel dates must be communicated to IGSTC at least 45 days before the planned visit.",
+    "Each awardee must submit a UC/SE and a fellowship visit report at the end of their visit, and a consolidated report within four weeks of completion."
+  ],
+  "benefits_summary": "Monthly fellowship of €2300 per fellow and round‑trip airfare (≈₹1 lakh for the Indian fellow, €1500 for the German fellow) covering visa and travel/medical insurance.",
+  "documents_required": [
+    "No Objection Certificate (NOC) from the Head of the Institution",
+    "UC/SE"
+  ],
+  "application_link": null
+}

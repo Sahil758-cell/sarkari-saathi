@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Government Working Women’s Hostel",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a working woman.",
+    "If residing in Chennai, monthly income must not exceed ₹25,000.",
+    "If residing in any other district of Tamil Nadu, monthly income must not exceed ₹15,000."
+  ],
+  "benefits_summary": "Provides affordable rent of ₹300 per month in Chennai and ₹200 per month in other districts, along with safe accommodation, food, and electricity for up to 3 years.",
+  "documents_required": [],
+  "application_link": null
+}

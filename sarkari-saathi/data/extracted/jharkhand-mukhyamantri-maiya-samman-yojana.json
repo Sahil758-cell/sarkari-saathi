@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Jharkhand Mukhyamantri Maiya Samman Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 21,
+  "age_max": 49,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Jharkhand."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

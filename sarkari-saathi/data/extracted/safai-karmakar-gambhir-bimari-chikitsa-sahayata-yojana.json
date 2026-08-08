@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Safai Karmakar Gambhir Bimari Chikitsa Sahayata Yojana",
+  "occupation": [
+    "unorganized worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the State Board for at least 90 days",
+    "Must be registered as a beneficiary under Section 10 of the Act",
+    "Each worker can receive the benefit only once",
+    "Workers receiving benefits under any other parallel State Government scheme are not eligible"
+  ],
+  "benefits_summary": "Provides medical assistance up to ₹50,000 for serious illnesses such as kidney disease, cancer, sickle‑cell anemia, heart disease, AIDS and paralysis.",
+  "documents_required": [],
+  "application_link": null
+}

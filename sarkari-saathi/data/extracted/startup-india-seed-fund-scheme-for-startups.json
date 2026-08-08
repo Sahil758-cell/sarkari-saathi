@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Startup India Seed Fund Scheme- For Startups",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Startup must be recognized by DPIIT",
+    "Incorporated not more than 2 years ago at the time of application",
+    "Business idea must aim to develop a product or service with market fit, viable commercialization and scope of scaling",
+    "Core product or service (or business/distribution model) must involve the use of technology",
+    "Must not have received more than ₹10 Lakhs of monetary support under any other Central or State Government scheme (excluding prize money, subsidised workspace, founder allowance, access to labs or prototyping facilities)",
+    "Shareholding by Indian promoters must be at least 51% at the time of application",
+    "Startup can avail seed support in the form of grants and debt/convertible debentures each once"
+  ],
+  "benefits_summary": "Provides up to ₹20 Lakhs in grant and up to ₹50 Lakhs in convertible debenture/debt for proof‑of‑concept, prototype development, product trials, market entry and scaling.",
+  "documents_required": [],
+  "application_link": "https://seedfund.startupindia.gov.in/"
+}

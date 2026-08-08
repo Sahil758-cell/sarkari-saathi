@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Unemployment Allowance To The Educated Unemployed Persons With Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 48,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a person with disability (any category except Intellectual Disabilities as defined in the Rights of Persons with Disabilities Act, 2016)",
+    "Must have a minimum qualification of Matriculate",
+    "Must be registered with the Special Employment Exchange for more than two years",
+    "Must not be placed in any gainful occupation",
+    "Must be a Manipuri by birth or have settled in Manipur for at least ten years"
+  ],
+  "benefits_summary": "Unemployment allowance of ₹400 to ₹1,000 per month.",
+  "documents_required": [
+    "Application form (downloadable from www.socialwelfare.nic.in or obtainable from District Social Welfare Offices)",
+    "Self‑attested supporting documents",
+    "Passport‑sized photograph"
+  ],
+  "application_link": "http://www.socialwelfare.nic.in"
+}

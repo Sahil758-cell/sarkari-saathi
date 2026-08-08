@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Young Interns Program",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have excellent communication, presentation, interpersonal and soft skills",
+    "Must be proficient in English and Hindi (reading, speaking, writing, understanding)",
+    "Must possess well‑versed ICT skills and knowledge of MS Office or similar applications",
+    "Must own a laptop and have a data card/internet facility",
+    "Must hold a post‑graduate qualification with minimum 60% marks or CGPA 6/10 in any stream from a recognized university, or be a graduate of Engineering/Medical/Law/CA/CS streams with the same minimum marks/CGPA",
+    "Preference is given to applicants with working experience in the field of the chosen department"
+  ],
+  "benefits_summary": "Stipend of ₹30,000 per month along with a monthly laptop connectivity support of ₹2,500 and 12 casual leaves per year.",
+  "documents_required": [],
+  "application_link": "Rajasthan Single Sign-On (SSO) Portal → SSO Login → Citizen Apps (G2C) → Young Interns Program"
+}

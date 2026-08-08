@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Solar Energy Corporation of India (SECI) Internship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student pursuing engineering, postgraduate, Ph.D., CA, CS, ICWA, CMA, or MBA degrees from a recognized institution in India or abroad",
+    "Applicant must have his own laptop for the internship",
+    "Applicant must maintain a regular schedule and demonstrate professionalism",
+    "Applicant must sign a non‑disclosure agreement to protect SECI’s data",
+    "An applicant can apply for an internship only once during a financial year",
+    "No fee will be charged to the interns"
+  ],
+  "benefits_summary": "Stipend of ₹8,000 per month for internships less than 6 months, or ₹12,000 per month for internships of 6 months to 3 years, plus a completion certificate.",
+  "documents_required": [
+    "CV / Resume"
+  ],
+  "application_link": null
+}

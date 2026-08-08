@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mahila Samiriddhi Yojana for Backward Classes- Haryana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 300000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana",
+    "Applicant must have a Pariwar Pehchan Patra (PPP ID)",
+    "In a Self-Help Group, at least 60% of members must be from Backward Classes, with the remaining 40% allowed from other weaker sections such as SC, Handicapped, or Minorities"
+  ],
+  "benefits_summary": "Provides loans up to ₹1,25,000 per beneficiary to women entrepreneurs, either directly or via Self-Help Groups.",
+  "documents_required": [
+    "Pariwar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

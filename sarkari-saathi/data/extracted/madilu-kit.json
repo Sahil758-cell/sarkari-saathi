@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Madilu Kit",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Willingness to learn and engage in skill development activities",
+    "Interest in entrepreneurship and improving livelihoods"
+  ],
+  "benefits_summary": "Provides skill development, entrepreneurship support, and micro‑financing to empower rural residents and improve livelihoods.",
+  "documents_required": [
+    "Supporting documents or certificates related to previous skills or entrepreneurial experience (if applicable)"
+  ],
+  "application_link": null
+}

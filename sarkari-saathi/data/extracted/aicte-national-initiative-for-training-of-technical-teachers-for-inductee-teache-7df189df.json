@@ -1,0 +1,23 @@
+{
+  "scheme_name": "AICTE-National Initiative for Training of Technical Teachers (for Inductee Teachers) Scheme",
+  "occupation": [
+    "teacher"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Teacher must be employed in an AICTE‑approved or recognised technical institution or university, and the programme must be recognised by AICTE."
+  ],
+  "benefits_summary": "Inductee teachers receive comprehensive three‑phase training and are awarded a certification after successful completion.",
+  "documents_required": [
+    "photograph (less than 20KB)"
+  ],
+  "application_link": "https://www.nittt.ac.in/nittt/index.php/site/register.html"
+}

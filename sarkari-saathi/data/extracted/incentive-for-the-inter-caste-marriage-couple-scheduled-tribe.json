@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Incentive For The Inter Caste Marriage Couple (Scheduled Tribe)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "ST",
+    "SC"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both partners must be Hindus",
+    "One spouse must belong to the Scheduled Tribe (ST) community",
+    "The other spouse must belong to the Scheduled Caste (SC) community",
+    "The marriage must have taken place on or after 7th February 2019",
+    "The couple must apply for the scheme within 18 months of their marriage"
+  ],
+  "benefits_summary": "An incentive of ₹5,50,000 is provided to the married couple (₹3,00,000 for the bride and ₹2,50,000 for the groom).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pre-SSC Scholarship for Scheduled Caste Students (Parixitlal Majmudar Scholarship)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in standards 1 to 10.",
+    "No income limit for the scheme."
+  ],
+  "benefits_summary": "Scholarship of ₹750 per year for classes 1‑5, ₹750 (boys) or ₹1000 (girls) for classes 6‑8, and ₹1000 per year for classes 9‑10.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in/"
+}

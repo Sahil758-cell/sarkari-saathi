@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Total Health Check-up Scheme (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board."
+  ],
+  "benefits_summary": "Provides preventive health check‑ups for registered construction workers up to ₹1950 per beneficiary, covering routine doctor, pathology, radiology and cardiology services.",
+  "documents_required": [],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Haryana Provision of Sports Equipment Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Municipal Body or Gram Panchayat of Haryana.",
+    "A Field of Play (FoP) for the sport must be available in the town/village."
+  ],
+  "benefits_summary": "Provides sport‑specific equipment kits (balls, nets, mats, cricket kits, etc.) to eligible Municipal Bodies and Gram Panchayats.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Incentive For Eye Donors",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Applicant must be a close relative of the eye donor",
+    "Application must be submitted within 90 days after the transplantation"
+  ],
+  "benefits_summary": "A cash incentive of ₹10,000 is provided to the close relatives of the eye donor.",
+  "documents_required": [],
+  "application_link": null
+}

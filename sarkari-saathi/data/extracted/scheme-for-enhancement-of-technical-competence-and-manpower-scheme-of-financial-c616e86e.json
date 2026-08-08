@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Enhancement of Technical Competence and Manpower: Scheme of Financial Assistance for Tuition Fees for Enhancement of Skill",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The training institute must have at least 5 years of experience in skill development or relevant industry.",
+    "The training program must be industry‑responsive and recognized by skill development bodies.",
+    "The first training batch must commence within 3 months of the sanction order.",
+    "A minimum of 10 trainees per batch must complete the training and certification process.",
+    "Candidates must not have availed similar government assistance for the same course.",
+    "The training duration should not exceed 6 months unless specified by authorities."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹15,000 for training programs, with full fee coverage for BPL, physically handicapped, SC, ST, SEBC and women candidates, and 75% assistance for other eligible candidates.",
+  "documents_required": [],
+  "application_link": "http://www.ced.gujarat.gov.in"
+}

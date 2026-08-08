@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Sanction of Motorized Three Wheeler to Orthopedically Challenged",
+  "occupation": [
+    "student",
+    "self-employed"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Loco‑motor or orthopedic disability of at least 80%",
+    "Valid driving licence as per Motor Vehicle Act",
+    "Mental retardation or illness disqualifies the applicant",
+    "Student must be pursuing postgraduate or professional courses, or self‑employed for at least 3 years",
+    "Minimum educational qualification of 10th standard (pass)",
+    "Upper limbs must be strong enough to drive the vehicle"
+  ],
+  "benefits_summary": "Free distribution of a motorized three‑wheeler.",
+  "documents_required": [
+    "Aadhaar card",
+    "Driving license"
+  ],
+  "application_link": null
+}

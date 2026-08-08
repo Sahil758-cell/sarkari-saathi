@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Deen Dayal Upadhyay Kaushal Kendra (DDUKK)- Mega Skill Centre",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to one of the priority groups: SC, ST, women, persons with disability, or transgender."
+  ],
+  "benefits_summary": "Provides comprehensive residential training with technical, soft, and IT skills, plus on‑job training across multiple sectors.",
+  "documents_required": [
+    "Aadhaar number"
+  ],
+  "application_link": null
+}

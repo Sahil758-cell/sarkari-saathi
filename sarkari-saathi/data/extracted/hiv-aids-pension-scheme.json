@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Hiv / Aids Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of the Union Territory of Puducherry",
+    "Registrant in an ART centre (e.g., IGMC&RI Puducherry, Link ART Centre JIPMER for Puducherry region, ART Centre Nagapattinam for Karaikal region, ART Centre Calicut for Mahe region, ART Centre Kakinada for Yanam region, or any future ART/Link ART centres in the UT) and taking regular treatment"
+  ],
+  "benefits_summary": "Monthly pension of ₹1500 for beneficiaries under 60 years, ₹2000 for ages 60‑79, and ₹3000 for those 80 years and above.",
+  "documents_required": [],
+  "application_link": null
+}

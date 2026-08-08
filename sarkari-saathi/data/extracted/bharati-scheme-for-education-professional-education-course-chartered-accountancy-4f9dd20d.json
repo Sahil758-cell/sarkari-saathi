@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Bharati Scheme for Education Professional Education Course - Chartered Accountancy Intern",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student and his/her parents must belong to the Brahmin community",
+    "Parents should be staying in Andhra Pradesh",
+    "Student should have cleared CPT/Graduation before 2018, registered, and paid CA‑Inter (IPCC) exam fees",
+    "Student should not have benefitted from APBWC for the same exam (CA Inter / IPCC) earlier",
+    "Student must be enrolled in the Praja Sadhikara Survey (PSS)"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 for the CA Inter (IPCC) course.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature",
+    "Certificate Details"
+  ],
+  "application_link": null
+}

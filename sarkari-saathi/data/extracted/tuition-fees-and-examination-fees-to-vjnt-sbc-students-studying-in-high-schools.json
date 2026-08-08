@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Tuition Fees And Examination Fees To Vjnt/sbc Students Studying In High Schools",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in a recognized high school",
+    "Student must belong to VJNT or SBC category",
+    "Students who have failed once are eligible",
+    "Students who have failed twice are not eligible"
+  ],
+  "benefits_summary": "Tuition, examination, library, laboratory and playground fees are paid for eligible VJNT/SBC high‑school students, with an education fee of Rs 100–200 per student.",
+  "documents_required": [],
+  "application_link": null
+}

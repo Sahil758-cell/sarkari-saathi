@@ -1,0 +1,27 @@
+{
+  "scheme_name": "New Generation Innovation Network",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All technical institutes in Tripura are eligible.",
+    "Host institutes are selected based on their infrastructure, quality of faculty, and excellence in education.",
+    "Minimum infrastructure required: at least 1000 sq ft carpet area, 10 computers with Core i5/i7 (5th Gen), 1 TB HDD, 4‑6 GB RAM, 3 GHz CPU, 21‑inch monitor, workspaces for up to 5 projects/teams, furnished incubation room with AC and interior decoration, high‑speed dedicated internet, uninterrupted power backup, projection facility, and a discussion/meeting room.",
+    "Host institute must appoint one dedicated start‑up coordinator who is a technical/management graduate with at least 5 years industry experience in sales/marketing.",
+    "Host institute must select a minimum of two faculty mentors in specific technology/specialisation areas.",
+    "Host institution must open a separate bank account in any nationalised bank to receive grants.",
+    "Polytechnic institutes and general government degree colleges will be selected based on the number of IT‑related courses offered and a student strength of more than 100."
+  ],
+  "benefits_summary": "The host institute receives a one‑time grant of ₹10 lakhs, an annual operational funding of ₹5 lakhs, and project funding of up to ₹1 lakh per team (maximum five projects per year).",
+  "documents_required": [],
+  "application_link": null
+}

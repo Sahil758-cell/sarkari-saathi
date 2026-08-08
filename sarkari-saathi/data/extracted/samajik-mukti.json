@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Samajik Mukti",
+  "occupation": [
+    "unorganized sector workers",
+    "construction workers",
+    "motor transport workers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an unorganized sector worker residing in West Bengal",
+    "Family income must not exceed 65,000 rupees per month for unorganized workers (no income ceiling for construction and transport workers)"
+  ],
+  "benefits_summary": "Provides a provident fund along with death/disability compensation, educational assistance for children, skill training, and health treatment to unorganized workers.",
+  "documents_required": [],
+  "application_link": null
+}

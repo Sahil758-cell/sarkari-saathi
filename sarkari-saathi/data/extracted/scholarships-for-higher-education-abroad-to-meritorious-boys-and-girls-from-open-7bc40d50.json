@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scholarships For Higher Education Abroad To Meritorious Boys And Girls From Open Category",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate and the candidate's mother/father or guardian must be Indian citizens",
+    "Candidate and guardian must be residents of Maharashtra",
+    "Applicant must have an unconditional offer letter from the foreign educational institution",
+    "The foreign university/institution must be ranked within the top 200 by THE or QS",
+    "Scholarship is available for postgraduate, diploma after graduation, and PhD studies"
+  ],
+  "benefits_summary": "The government covers the full tuition fee, personal health insurance, subsistence allowance, and one‑time trip airfare.",
+  "documents_required": [],
+  "application_link": "www.dtemaharashtra.gov.in"
+}

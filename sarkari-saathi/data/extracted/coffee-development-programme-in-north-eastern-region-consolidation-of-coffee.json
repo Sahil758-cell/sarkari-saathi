@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Consolidation of Coffee",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant’s area must not have received consolidation subsidy during the XII Plan period",
+    "Applicant’s land records must be in their name",
+    "Applicant must procure seed material for gap filling or consolidation exclusively from the Coffee Board"
+  ],
+  "benefits_summary": "Provides a subsidy of 50% of the unit cost (₹30,000 per hectare) paid in two installments.",
+  "documents_required": [
+    "Land records or certified possession certificate",
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Generator Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Investment must be made on or after 1 April 2017",
+    "The unit must provide at least 60 % of employment to people of the Union Territory of Puducherry and maintain this ratio during the period specified in the affidavit",
+    "Generator must be purchased on or after 1 April 2017",
+    "The industrial unit shall not transfer or dispose of the fixed asset, including plant and machinery, for five years from the date of submitting the application/disbursement of the subsidy, whichever is later",
+    "Additional investments made after the first claim are eligible for subsidy up to the ceiling limit",
+    "The date of commencement as admitted by the entrepreneur is subject to verification by officials of the Industries Department",
+    "If two or more industrial undertakings are set up by the same person with common partners or directors, they are eligible as separate entities provided they are located at different sites and have separate licenses/clearances/registrations",
+    "Application deadline for new units is within one year from the date of commencement of obtaining the Entrepreneur’s Memorandum Part‑2 / Permanent Registration / Commencement of Production Certificate; for existing units, within one year of completion of expansion, diversification or modernization",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small",
+    "Eligibility category noted in source: Medium",
+    "Eligibility category noted in source: Large"
+  ],
+  "benefits_summary": "50 % subsidy up to ₹5,00,000 per annum per industrial unit for the purchase and installation of a generator purchased on or after 1 April 2017.",
+  "documents_required": [
+    "Prescribed application form",
+    "Mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

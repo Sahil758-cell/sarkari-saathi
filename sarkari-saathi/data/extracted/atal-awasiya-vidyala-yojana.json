@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Atal Awasiya Vidyala Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": 16,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Children for the Chief Minister Child Service Scheme (General) are eligible",
+    "Eligibility is limited to orphan children and offspring of duly registered construction workers who have completed at least one year (365 days) membership period of the board after registration",
+    "A maximum of two children per registered worker can avail educational benefits",
+    "Children must be identified by the Women Welfare Department, Lucknow",
+    "Eligibility category noted in source: children destitute during the Corona period",
+    "Eligibility category noted in source: orphan children",
+    "Eligibility category noted in source: children of duly registered construction workers"
+  ],
+  "benefits_summary": "Free residential education, accommodation, meals, medical facilities and sports/recreational activities for eligible children.",
+  "documents_required": [],
+  "application_link": null
+}

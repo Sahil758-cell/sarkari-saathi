@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Medhavi Putra/Putri Chhatravritti Yojana",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Jharkhand",
+    "Applicant must be a student",
+    "Applicant must be a child of a worker registered with the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)",
+    "Scholarship can be availed by up to two children of the registered worker",
+    "Applicant must have passed the previous examination with at least Second Division or 45% marks (except classes 1st to 5th) or be admitted on the basis of a competitive examination"
+  ],
+  "benefits_summary": "Provides scholarships ranging from ₹5,000 for classes 1‑8 up to ₹50,000 for engineering and medical graduate courses.",
+  "documents_required": [],
+  "application_link": "http://shramadhan.jharkhand.gov.in"
+}

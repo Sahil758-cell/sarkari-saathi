@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Marriage Assistance (K.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker under the Karnataka Building and Other Construction Workers Welfare Board or a dependent child of such a worker.",
+    "Must have at least one year of board membership before the marriage.",
+    "Must have engaged in building and construction work for at least 90 days in a given year.",
+    "The family can avail the assistance only twice.",
+    "The son or daughter must be of legal age for marriage.",
+    "Application for the benefit should be submitted within 6 months of the marriage.",
+    "Registration renewal required every 3 years with a 1‑year grace period."
+  ],
+  "benefits_summary": "Financial assistance of ₹60,000 for the worker's own marriage or for two dependent children's marriages.",
+  "documents_required": [],
+  "application_link": null
+}

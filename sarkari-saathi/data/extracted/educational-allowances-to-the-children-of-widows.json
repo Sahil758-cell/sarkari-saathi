@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Educational Allowances to the Children of Widows",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Pondicherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native of the Union Territory of Pondicherry by birth or have continuous residence there for at least 3 years",
+    "Applicant must be a widow",
+    "Child of the applicant must be a student",
+    "Child must have obtained at least 50% marks in every class"
+  ],
+  "benefits_summary": "Financial assistance ranging from ₹25 to ₹125 for purchase of textbooks, notebooks, etc.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

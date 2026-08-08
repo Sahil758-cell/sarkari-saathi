@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhymantri Sarthi Yojana - Jharkhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to one of the priority groups: SC, ST, women, persons with disability (PwD), or transgender.",
+    "Aadhaar number (Aadhaar card) is mandatory for registration."
+  ],
+  "benefits_summary": "Free industry‑aligned skill training with provided uniforms, tools, and stipends, plus transport allowance and monthly financial support for unemployed trainees.",
+  "documents_required": [
+    "Aadhaar number (Aadhaar card)"
+  ],
+  "application_link": null
+}

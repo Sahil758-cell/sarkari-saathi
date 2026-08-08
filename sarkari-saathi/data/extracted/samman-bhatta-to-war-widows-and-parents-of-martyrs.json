@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Samman Bhatta to War Widows and Parents of Martyrs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Applicant must be either a war widow of a martyr or a parent of an unmarried martyr who died before 31 March 1999"
+  ],
+  "benefits_summary": "A lifelong financial assistance of ₹5,000 per month is deposited directly into the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy on Stamp Duty and Registration Fee (SDRFS)",
+  "occupation": [
+    "Micro Enterprise",
+    "Small Enterprise",
+    "Medium Enterprise"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must belong to the manufacturing sector.",
+    "The business/organization should be in the private sector, cooperative sector, joint sector undertaking, or be a company/undertaking owned and managed by the State Government or Industrial SHGs.",
+    "Production must have started on or after 1 April 2019.",
+    "Date of Commencement of Commercial Production (DOCCP) must be between 1 April 2020 and 31 March 2025.",
+    "First application must be submitted within 12 months from the DOCCP or within 12 months from the date of notification of Banglashree, whichever is later."
+  ],
+  "benefits_summary": "Provides a subsidy on stamp duty and registration fees for eligible MSMEs, with reimbursement rates ranging from 25% to 100% based on enterprise size and zone.",
+  "documents_required": [],
+  "application_link": null
+}

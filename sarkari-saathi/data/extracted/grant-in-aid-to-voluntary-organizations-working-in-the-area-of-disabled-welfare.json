@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Grant-In-Aid to Voluntary Organizations Working In The Area of ​​Disabled Welfare",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Institutions must be registered and accredited by the Department and have at least three years of work experience."
+  ],
+  "benefits_summary": "Provides financial grants covering up to 70% of operational expenses, education, training, rent, and 100% of employee salaries for institutions serving disabled individuals.",
+  "documents_required": [],
+  "application_link": null
+}

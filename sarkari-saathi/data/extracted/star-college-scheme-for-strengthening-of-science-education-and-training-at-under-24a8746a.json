@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Star College Scheme For Strengthening Of Science Education And Training At Undergraduate Level",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "College must be government or government‑aided (including autonomous) and recognised under Section 2(f)/12(B) of the UGC Act 1956.",
+    "Must offer at least 4‑5 undergraduate science courses (e.g., botany, zoology, applied life science, microbiology, physiology/biochemistry, biotechnology) and 1‑2 applied/PG diploma courses.",
+    "Must have adequate in‑house faculty expertise in each science department.",
+    "Must have independent laboratories and lecture halls with capacity for the sanctioned student strength.",
+    "Must have basic laboratory and library infrastructure, LCD/overhead projection facilities, and computers with internet access.",
+    "Colleges discontinued after a support round can re‑apply only after a two‑year cooling period; colleges already supported can apply for additional departments after completing one three‑year support cycle."
+  ],
+  "benefits_summary": "Provides a one‑time grant of ₹10 lakh per science department plus an annual recurring grant of ₹3 lakh for three years, along with additional mentoring, monitoring and contingency funds.",
+  "documents_required": [
+    "Signed and stamped hardcopy proposal",
+    "Online application via EproMIS portal"
+  ],
+  "application_link": null
+}

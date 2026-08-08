@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Karmaveer Padmashri Dadasaheb Gaikwad Birth Centenary And Prize Distribution",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have performed social movement work",
+    "Applicant must be from a Social Welfare Sector or Institute and be registered",
+    "Applicant must have at least 15 years of social service experience",
+    "Male applicants must be at least 50 years old",
+    "Female applicants must be at least 40 years old",
+    "Applicant must be a citizen of India",
+    "Applicant must be a permanent resident of Maharashtra"
+  ],
+  "benefits_summary": "Recipient receives ₹51,000 along with memorabilia, shawl and coconut.",
+  "documents_required": [],
+  "application_link": null
+}

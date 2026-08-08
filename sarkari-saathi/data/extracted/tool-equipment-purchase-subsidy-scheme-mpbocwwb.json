@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Tool/Equipment Purchase Subsidy Scheme (MPBOCWWB)",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Madhya Pradesh",
+    "Must be registered under the Building and Other Construction Workers Welfare Board of Madhya Pradesh",
+    "Must possess a valid identity card issued by the Mandal",
+    "Must have engaged in building or other construction work for at least 90 days during the preceding 12 months",
+    "Registration is renewed annually",
+    "Subsidy is available only once in a lifetime for the worker"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 10% of the loan amount for tool/equipment purchase, capped at ₹5,000.",
+  "documents_required": [
+    "Valid identity card issued by the Mandal",
+    "Passport-sized photograph",
+    "Completed application form"
+  ],
+  "application_link": null
+}

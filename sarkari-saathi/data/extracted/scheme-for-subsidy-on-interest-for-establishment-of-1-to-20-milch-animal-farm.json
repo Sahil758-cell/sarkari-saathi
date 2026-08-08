@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scheme For Subsidy On Interest For Establishment Of 1 To 20 Milch Animal Farm",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only one member of the family can be the beneficiary of the scheme",
+    "Land must be owned by the family member or the beneficiary",
+    "Applicant must have obtained a loan for setting up the unit in the financial year 2023‑24 through a nationalized bank or a financial institution approved by the Reserve Bank of India",
+    "Establishment of the livestock unit requires a certificate from the Animal Husbandry Authority",
+    "Application must be confirmed within seven days of saving the online application and signed/fingerprinted by the beneficiary"
+  ],
+  "benefits_summary": "Interest subsidy up to 12 % on the loan for purchasing 1‑20 dairy animals, payable for five years.",
+  "documents_required": [
+    "Application form (scanned copy)",
+    "Supporting documents"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

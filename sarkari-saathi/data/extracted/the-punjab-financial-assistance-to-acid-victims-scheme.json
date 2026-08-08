@@ -1,0 +1,23 @@
+{
+  "scheme_name": "The Punjab Financial Assistance to Acid Victims Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be an acid attack victim with at least 40% disability"
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹8,000 transferred directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "Medical certificate issued by the Civil Surgeon"
+  ],
+  "application_link": null
+}

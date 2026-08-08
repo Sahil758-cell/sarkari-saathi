@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Distribution of Gypsum",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a resident of Tamil Nadu.",
+    "Beneficiary must grow pulse crops.",
+    "Special provisions allocate 24% of benefits to SC/ST farmers and 20% to women farmers."
+  ],
+  "benefits_summary": "Provides a 50% subsidy on gypsum material cost and up to ₹750 per hectare for transportation.",
+  "documents_required": [],
+  "application_link": null
+}

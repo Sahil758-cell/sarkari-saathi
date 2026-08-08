@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Skill Upgradation and Vocational Education Scheme: For Worker's Childrens (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/ Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Punjab.",
+    "The applicant must be a Building/ Construction Worker (Unorganised Worker).",
+    "The applicant must have worked in building and construction for at least 90 days in a given year.",
+    "The applicant must have a monthly income of ₹15,000 or below.",
+    "The applicant must not be a member of any other Welfare Fund established under any law.",
+    "The applicant must not be a member of the Employees' Provident Fund (EPF), National Pension System (NPS), or Employees' State Insurance Corporation (ESIC).",
+    "The applicant must not be an income tax payer.",
+    "The applicant must be a child of a registered construction worker under the Building and Other Construction Workers Welfare Board of Punjab.",
+    "The applicant must have acquired skill training from technical institutions such as ITIs or Polytechnic colleges."
+  ],
+  "benefits_summary": "Full course fee and hostel boarding/lodging assistance for children of registered workers.",
+  "documents_required": [],
+  "application_link": null
+}

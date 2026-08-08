@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Tagore National Fellowship for Cultural Research",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Fellows must have sound academic or professional credentials with significant contributions in their field",
+    "Preferably at least 5 years of experience in conducting or guiding research or in performing/other arts",
+    "Must have at least two single‑authored monographs (publications)",
+    "Should have a strong reputation in the area covered by the chosen Nodal Institution",
+    "Applicants who have previously engaged with major projects at the Nodal Institution are encouraged to apply",
+    "A candidate who has received a Tagore National Fellowship cannot apply again for the scheme, either at the same or any other institution",
+    "The proportion of foreign nationals among awardees should not normally exceed one‑third of the total fellowships in a year",
+    "Applicants must be able to devote approximately two years to the research project"
+  ],
+  "benefits_summary": "Offers a high honorarium equivalent to the fellow's parent organization salary, along with allowances, contingency grant, housing support, and research infrastructure.",
+  "documents_required": [
+    "Research proposal prepared as per Appendix A guidelines",
+    "Short write‑up on how the proposed research will benefit the Nodal Institution",
+    "Biocatalyst of publications (list of publications)",
+    "Declaration stating the candidate will complete the full tenure of the Fellowship"
+  ],
+  "application_link": null
+}

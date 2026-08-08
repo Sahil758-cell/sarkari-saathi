@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mahila Bakri Palan",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should be interested in goat rearing",
+    "Applicant should be a widow, abandoned, destitute, living alone, or disaster‑affected woman",
+    "Selection of beneficiaries is on a first‑come first‑served basis"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹35,000 for purchase of one goat unit (3 females and 1 male) aged 12‑18 months.",
+  "documents_required": [],
+  "application_link": null
+}

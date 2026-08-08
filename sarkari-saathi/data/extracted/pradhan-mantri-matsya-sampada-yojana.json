@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana",
+  "occupation": [
+    "Fisher",
+    "Fish Farmer",
+    "Fish Worker",
+    "Fish Vendor",
+    "Fisheries Development Corporation",
+    "Self Help Group (SHG)",
+    "Joint Liability Group (JLG)",
+    "Fisheries Cooperative",
+    "Fisheries Federation",
+    "Entrepreneur",
+    "Private Firm",
+    "Fish Farmers Producer Organization (FFPO)",
+    "State Government/UT Entity",
+    "State Fisheries Development Board",
+    "Central Government Entity"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility includes fishers, fish farmers, fish workers, fish vendors, fisheries development corporations, SHGs/JLGs in the fisheries sector, fisheries cooperatives, fisheries federations, entrepreneurs and private firms, fish farmer producer organisations/companies, SC/ST/Women/Differently Abled persons, state governments/UTs and their entities, state fisheries development boards, and central government and its entities"
+  ],
+  "benefits_summary": "Provides financial assistance for fishing infrastructure, fish farming activities, fisheries management, credit‑linked subsidies, and marketing/export support.",
+  "documents_required": [
+    "Self‑Contained Proposal/Detailed Project Report (DPR)"
+  ],
+  "application_link": "secy-fisheries@gov.in"
+}

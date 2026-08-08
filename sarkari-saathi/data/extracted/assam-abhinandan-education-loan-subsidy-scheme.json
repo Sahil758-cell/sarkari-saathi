@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Assam Abhinandan Education Loan Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Education loan must be availed from a scheduled commercial bank or regional rural bank within Assam recognized by the Reserve Bank of India.",
+    "Minimum loan amount must be ₹1,00,000.",
+    "Applicant must pay 25% of the loan amount to apply for the subsidy."
+  ],
+  "benefits_summary": "Provides a loan subsidy of up to ₹50,000 per student.",
+  "documents_required": [
+    "Loan Sanction Letter",
+    "Loan Account Passbook",
+    "Statement of Loan",
+    "Address Proof",
+    "PAN Card"
+  ],
+  "application_link": null
+}

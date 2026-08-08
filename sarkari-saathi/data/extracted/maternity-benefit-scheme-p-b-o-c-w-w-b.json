@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Maternity Benefit Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker",
+    "Unorganised Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Punjab",
+    "Applicant must be a Building/Construction Worker (Unorganised Worker)",
+    "Applicant must have worked in building and construction for at least 90 days in a given year",
+    "Applicant must have a monthly income of ₹15,000 or below",
+    "Applicant must not be a member of any other Welfare Fund",
+    "Applicant must not be a member of EPF, NPS, or ESIC",
+    "Applicant must not be an income tax payer",
+    "Beneficiary must have been registered with the Board for at least 6 months prior to the child's birth",
+    "Beneficiary must have regularly deposited his contribution",
+    "Scheme applies up to two living children"
+  ],
+  "benefits_summary": "Female workers receive ₹21,000 per child (maximum two children); male workers receive ₹5,000 per child for their spouse’s children (maximum two children).",
+  "documents_required": [],
+  "application_link": null
+}

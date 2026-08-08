@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme of Post Matric Scholarship to Lower Income Group Student for Studies in India",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a national of India.",
+    "Applicant must permanently reside in Haryana.",
+    "Applicant must belong to the lower‑income group as defined under the scheme guidelines.",
+    "Applicant must have passed the matriculation or equivalent examination from a recognized board or university.",
+    "Applicant must be enrolled in a recognized post‑matriculation course (e.g., National Fire Service College, Aircraft Maintenance Engineer's Course, Training Ship Dufferin, Military College, etc.).",
+    "Students in Class XI/XII under continuous school courses are ineligible unless the 10th class is equivalent to matriculation."
+  ],
+  "benefits_summary": "Provides monthly maintenance allowances, tuition fee coverage and other reimbursements for post‑matriculation students from lower‑income groups.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

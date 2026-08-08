@@ -1,0 +1,29 @@
+{
+  "scheme_name": "CM’s Lairik Heiminnashi Programme (CMLH): Pre-Matric Remedial Coaching",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India.",
+    "Must be a resident of the state of Manipur.",
+    "Must be a student of Class 8th to Class 10th studying in a government academic institution or an institution receiving grant‑in‑aid support from the government.",
+    "Must belong to Scheduled Caste (SC), Other Backward Class (OBC), or Minority Community as defined by the Government of India.",
+    "At least 30% of seats are reserved exclusively for girl students.",
+    "Selection is based on a combined economic and academic merit ranking."
+  ],
+  "benefits_summary": "Free‑of‑cost remedial coaching for six months in English, Mathematics and Science for eligible SC, OBC and minority students of Manipur.",
+  "documents_required": [],
+  "application_link": "https://www.manipurobcsc.gov.in, https://www.manipurminority.gov.in"
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": [
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian national belonging to the General Category (not SC, ST, or OBC).",
+    "Must be permanently settled in a State/UT of India and studying a recognized post‑matriculation or post‑secondary course in a government institution.",
+    "For employed students, combined annual income of the student and parents/guardians must not exceed ₹1,00,000; same limit applies to unemployed students based on parents’ income.",
+    "Only up to two boys from the same parents/guardians can receive scholarships (no restriction for girls).",
+    "Recipients cannot hold any other scholarship or stipend simultaneously.",
+    "Correspondence course students are eligible for reimbursement of non‑refundable fees and an annual book allowance of Rs. 900; students receiving coaching assistance are ineligible for coaching stipends; certain rules on course changes and subsequent failures apply."
+  ],
+  "benefits_summary": "Provides a maintenance allowance, reimbursement of non‑refundable fees, and additional allowances for books, readers, study tours, and thesis printing for eligible post‑matriculation EBC students.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/fresh/newstdRegfrmInstruction"
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Shahari Waqf Sampatti Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "Applicant must be a Waqf Board or a registered Waqf institution possessing the property to be developed.",
+    "The institution must be solvent (not insolvent) and eligible in the opinion of the Central Waqf Council.",
+    "Projects must be approved by the Central Waqf Council and be for construction or reconstruction of economically viable buildings or non‑commercial purposes on Waqf land."
+  ],
+  "benefits_summary": "Provides interest‑free loans up to ₹2 crore (or 75 % of project cost) for construction of economically viable projects on Waqf land, enhancing income and welfare activities.",
+  "documents_required": [
+    "Prescribed application form",
+    "Loan agreement",
+    "Memorandum of Deposit of Title Deed or State Government Guarantee or Bank Guarantee or State Waqf Board Guarantee"
+  ],
+  "application_link": null
+}

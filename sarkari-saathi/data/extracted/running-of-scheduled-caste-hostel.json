@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Running of Scheduled Caste Hostel",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enrolled in a recognized institution"
+  ],
+  "benefits_summary": "Provides free hostel accommodation and meals along with scholarships, sports equipment, toiletries, and library access.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Free Supply of Note Books to the Children of Poor Widows",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child of a poor widow",
+    "Student",
+    "Studying up to higher secondary level",
+    "Children residing in government children’s homes and service homes"
+  ],
+  "benefits_summary": "Free notebooks are supplied annually, with values ranging from ₹50 for 1st‑2nd standards up to ₹600 for 11th‑12th standards.",
+  "documents_required": [],
+  "application_link": null
+}

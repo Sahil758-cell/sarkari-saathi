@@ -1,0 +1,19 @@
+{
+  "scheme_name": "SVAMITVA Yojana (Survey of Villages and Mapping with Improvised Technology in Village Areas)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "The applicant must own a property in a rural inhabited (Abadi) area."
+  ],
+  "benefits_summary": "Provides legally recognized property cards to rural household owners, enabling them to use land as a financial asset and reducing property disputes.",
+  "documents_required": [],
+  "application_link": null
+}

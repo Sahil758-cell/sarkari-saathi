@@ -1,0 +1,27 @@
+{
+  "scheme_name": "TEC Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant should be studying at a recognized university in India or abroad",
+    "Applicant should be in the 3rd or 4th year (final or pre‑final year) of a Bachelor's degree in Electronics, Communications, Telecommunication, Radio, Information Technology, Computers, Electrical Engineering or a related discipline and have secured at least 60% marks",
+    "Applicant may have completed the Bachelor's degree in the last year with at least 60% marks",
+    "Applicant may have completed a Post‑Graduate/Master's degree in the specified disciplines in the last year with at least 60% marks",
+    "Qualifications may be relaxed in deserving cases based on TEC's needs, as recommended by the Selection Committee and approved by the Head of TEC"
+  ],
+  "benefits_summary": "Interns receive a monthly stipend of ₹15,000 and a certificate upon completion.",
+  "documents_required": [
+    "Scanned copy of the duly filled Application Form (Annexure‑II) in PDF format",
+    "Supporting documents (as required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Agriculture Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Loanee farmers must have taken a seasonal agricultural operations (SAO) loan from a financial institution (bank, co‑operative society, etc.).",
+    "Non‑loanee farmers must apply voluntarily before the deadline for each crop season.",
+    "Eligible crops and areas are announced by the government each year."
+  ],
+  "benefits_summary": "Provides comprehensive crop insurance coverage with subsidized premiums and fast claim settlement directly to the farmer’s bank account.",
+  "documents_required": [
+    "Aadhaar card or any government‑issued identity proof",
+    "Proof of land ownership or tenancy",
+    "Crop sowing details (if applicable)",
+    "Bank account details for claim disbursement"
+  ],
+  "application_link": "https://www.pmfby.gov.in/"
+}

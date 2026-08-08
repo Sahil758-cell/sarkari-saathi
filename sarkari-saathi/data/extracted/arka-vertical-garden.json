@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Arka Vertical Garden",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have availed Arka Vertical Garden structure during the previous year.",
+    "Applicant can apply for only a single unit of the structure."
+  ],
+  "benefits_summary": "Beneficiary receives a subsidy of ₹15,525 per unit for a one‑square‑meter vertical garden, contributing ₹6,575 towards the total cost of ₹22,100.",
+  "documents_required": [
+    "Aadhaar Number"
+  ],
+  "application_link": null
+}

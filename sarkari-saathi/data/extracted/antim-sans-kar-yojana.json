@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Antim Sans‍kar Yojana",
+  "occupation": [
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered with the labour department.",
+    "The beneficiary must not have received assistance for last rites from any other department."
+  ],
+  "benefits_summary": "A lump‑sum financial assistance of ₹6,000 is provided to the family of a deceased registered construction worker to cover funeral expenses.",
+  "documents_required": [
+    "Application form",
+    "Photocopy of the first page of the applicant's bank passbook",
+    "Verification by the management of the institution/establishment at the designated place on the application form",
+    "Death certificate of the worker"
+  ],
+  "application_link": null
+}

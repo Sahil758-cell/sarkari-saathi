@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistance for Artificial Limbs to Workers and their Dependents- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana",
+    "Applicant must be registered with the Haryana Labour Welfare Board",
+    "Monthly salary of the worker must not exceed ₹20,000",
+    "Service period of the worker is fixed for one year",
+    "Application must be submitted within one year from the date of purchase of artificial limbs",
+    "Assistance is available to workers and their dependents who become disabled due to loss of vital organs in an accident"
+  ],
+  "benefits_summary": "Financial assistance up to the rates fixed by Saket Hospital, Chandimandir (Panchkula) for artificial limbs to eligible workers or their dependents.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

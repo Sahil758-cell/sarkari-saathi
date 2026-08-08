@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Term Loan Scheme- Credit Line 2 for Minority Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a minority community (Muslims, Sikhs, Christians, Buddhists, Parsis, Jains)",
+    "Income thresholds differ for rural (₹98,001–₹8,00,000) and urban (₹1,20,001–₹8,00,000) areas",
+    "Applicant must have a Parivar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Loans up to ₹30,00,000 at a concessional interest rate are provided to individuals from minority communities to enhance employability.",
+  "documents_required": [
+    "Parivar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

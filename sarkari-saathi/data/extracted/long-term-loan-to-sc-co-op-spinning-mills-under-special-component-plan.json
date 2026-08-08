@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Long Term-Loan to SC Co-op Spinning Mills under Special Component Plan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Spinning mill must collect a minimum of ₹80,00,000 or at least 5% of the project cost as member shares",
+    "Project must be enumerated by recognized financial institutions/banks (e.g., MITCON, Agriculture Financial Corporation, Dattajirao Technical Institute)",
+    "Engage with recognized institutions early in the project planning phase to facilitate enumeration"
+  ],
+  "benefits_summary": "Loan covering 50% of the project cost.",
+  "documents_required": [],
+  "application_link": null
+}

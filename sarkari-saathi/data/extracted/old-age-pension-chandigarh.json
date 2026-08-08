@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Old Age Pension - Chandigarh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have been resident in Chandigarh UT for more than 3 years"
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹1000 to eligible senior citizens.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "AICTE-SHORT TERM TRAINING PROGRAMME (STTP) (UT-J&K,LADAKH AND NER)",
+  "occupation": [
+    "teachers",
+    "supporting technical staff",
+    "administrative staff"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be AICTE approved.",
+    "Maximum 5 proposals per institute per year; only up to 3 proposals may be approved."
+  ],
+  "benefits_summary": "Provides up to ₹5,00,000 to host institutions for faculty training in technical education, covering pedagogical, subject‑related and values‑based programs.",
+  "documents_required": [
+    "Utilization certificate",
+    "Detailed expenditure statement",
+    "Feedback form",
+    "Copy of proceedings",
+    "Completion report",
+    "Mandate Form"
+  ],
+  "application_link": "http://portal.aicte-india.org/partnerportal_enu/start.swe"
+}

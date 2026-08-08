@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance To Gad-Hanjis",
+  "occupation": [
+    "Fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 3600,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a licensed Gad-Hanji (Fisherman) for the last three consecutive years.",
+    "Applicant must not have received assistance under this scheme in the last two years.",
+    "Applicant must be a permanent resident of Jammu & Kashmir."
+  ],
+  "benefits_summary": "Provides a one-time financial assistance for Nylon Twine purchase ranging from ₹200 to ₹500 depending on licence fee paid.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)",
+    "Self-attested mandatory documents"
+  ],
+  "application_link": null
+}

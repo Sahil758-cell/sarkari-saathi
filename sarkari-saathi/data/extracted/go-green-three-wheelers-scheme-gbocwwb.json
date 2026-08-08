@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Go-Green Three Wheelers Scheme (GBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Gujarat Building and Other Construction Worker’s Welfare Board",
+    "Must have become disabled or incapacitated due to an accident while working at a construction site",
+    "Must have purchased a lithium‑ion battery‑operated vehicle in his own name",
+    "Must hold a tri‑cycle license to operate a tri‑cycle",
+    "Benefit is available only once per registered construction disabled worker"
+  ],
+  "benefits_summary": "One‑time subsidy of up to 50% of the ex‑showroom price or ₹48,000 (whichever is less), plus reimbursement of registration fee and road tax for the new e‑rickshaw.",
+  "documents_required": [],
+  "application_link": null
+}

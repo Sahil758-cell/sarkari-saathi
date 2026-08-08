@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Mahalaxmi Kit Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a permanent resident of Uttarakhand",
+    "Beneficiary must be a postpartum woman",
+    "Beneficiary must not be an income tax payer",
+    "Beneficiary must be registered in any Anganwadi centre",
+    "Beneficiary daughter must be the first or second daughter of the mother",
+    "For twins, both daughters and their mother receive one kit"
+  ],
+  "benefits_summary": "Provides kits with essential nutritional items, clothing, and hygiene products for postpartum mothers and their first two girl children.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Mukhyamantri Mahila Udyami Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have passed at least 10+2, Intermediate, ITI, Polytechnic Diploma, or equivalent.",
+    "Business unit must be a proprietorship or partnership firm."
+  ],
+  "benefits_summary": "Up to ₹10,00,000 financial assistance, split equally between a non‑repayable grant and an interest‑free loan.",
+  "documents_required": [],
+  "application_link": null
+}

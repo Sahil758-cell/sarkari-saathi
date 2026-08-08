@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Pradhan Mantri Ujjwala Yojana 2.0",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an adult woman (minimum age 18).",
+    "Must belong to any of the following categories: Pradhan Mantri Awas Yojana (Gramin), Most Backward Classes, Antyodaya Anna Yojana (AAY), Tea and Ex‑Tea Garden tribes, Forest Dwellers, People residing on Islands and River Islands, SECC Households (AHL TIN), Poor Household as per 14‑point declaration.",
+    "No other LPG connections should exist in the same household."
+  ],
+  "benefits_summary": "Provides a free LPG connection with a cash subsidy covering cylinder deposit, regulator, hose, consumer card, installation charges, and includes a free first LPG refill and stove.",
+  "documents_required": [
+    "Proof of identity",
+    "Proof of address",
+    "Proof of BPL category"
+  ],
+  "application_link": null
+}

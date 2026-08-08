@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Promotion of Energy Audit and Conservation of Energy (PEACE): Detailed Energy Audit",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All existing manufacturing MSMEs in Tamil Nadu undertaking energy audits for the first time are eligible.",
+    "MSMEs may undertake subsequent energy audits after a minimum gap of three years.",
+    "Enterprises with more than one unit can avail the concession separately for each unit.",
+    "The subsidy applies only to professional charges incurred for conducting an energy audit."
+  ],
+  "benefits_summary": "75% subsidy of the audit cost up to ₹1,00,000 per energy audit.",
+  "documents_required": [],
+  "application_link": null
+}

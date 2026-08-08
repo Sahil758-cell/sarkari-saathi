@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Hita-dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana",
+  "occupation": [
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the labor board",
+    "Must be depositing contributions regularly"
+  ],
+  "benefits_summary": "Provides financial assistance ranging from ₹5,000 to ₹5,00,000 depending on the nature of death or injury, including death, permanent or partial disability, and serious or minor injuries.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Integrated Horticulture Development Plan Scheme for Scheduled Caste Families",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should own or lease agricultural land",
+    "The scheme targets families with small landholdings"
+  ],
+  "benefits_summary": "Provides up to 90% subsidy on inputs such as mushroom trays, bamboo stacking, and protected structures, along with training on horticultural practices.",
+  "documents_required": [],
+  "application_link": null
+}

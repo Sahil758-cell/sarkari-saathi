@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Pension Scheme for the Tappers in Small Rubber Plantations",
+  "occupation": [
+    "tapper"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have at least 90 days of tapping experience in the preceding 12 months.",
+    "Must be engaged in tapping jobs throughout the year in small rubber plantations for wages or self‑tapping in own plantation up to 1 hectare.",
+    "Must be certified under Recognition of Prior Learning (RPL) of PMKVY or have completed training by the Rubber Board (e.g., TSS, TISP).",
+    "Must be enrolled in the tapper bank under Rubber Producers Societies (RPS).",
+    "Not eligible if already a member of any Central/State government pension scheme.",
+    "Not eligible if tapping in rubber plantation larger than 5 hectares.",
+    "Must regularly remit the annual contribution on time to receive the Board’s 50 % matching for the initial 5 years."
+  ],
+  "benefits_summary": "Pension of ₹1300 per month after age 60, along with family pension, disability, maternity, and medical assistance benefits.",
+  "documents_required": [
+    "Duly filled application form countersigned by the employer/RPS President/Field Officer",
+    "Relevant supporting documents",
+    "Forwarding letter showing applicant details (Name, Address, Age, Category, UTR No.)"
+  ],
+  "application_link": "Step 1: Submit a duly filled application form countersigned by the employer/RPS President/Field Officer along with all relevant documents. Step 2: Supply the application forms to the Regional Offices of the Labour Welfare Division. Step 3: Forward hard copies of original application forms and documents to Labour Welfare Division, Kottayam with a forwarding letter containing applicant details."
+}

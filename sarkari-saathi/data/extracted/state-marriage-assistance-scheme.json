@@ -1,0 +1,27 @@
+{
+  "scheme_name": "State Marriage Assistance Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Ladakh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Antodaya Anna Yojana (AAY) or Priority Household (PHH) ration cardholder families",
+    "Both bride and groom must be permanent residents of Ladakh",
+    "Marriage must be the first marriage for both parties",
+    "Bride must be above 18 years of age; groom above 21 years",
+    "Divyangjan applicants must have benchmark disabilities as defined in the Rights of Persons with Disabilities Act, 2016"
+  ],
+  "benefits_summary": "One-time financial assistance of ₹50,000 to female beneficiaries and ₹1,00,000 to Divyangjan beneficiaries.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

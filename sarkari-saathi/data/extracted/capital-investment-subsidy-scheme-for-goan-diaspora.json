@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Capital Investment Subsidy Scheme for Goan Diaspora",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a new or existing business unit",
+    "Operations must be based in Goa",
+    "Applicant must be one of the following entity types: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership",
+    "Bank accounts of the unit and/or its partners/directors must be linked to Aadhaar",
+    "The unit must have operated from the intended office space for more than one year",
+    "The company or firm must be registered in Goa",
+    "The CEO/Head or Majority Stakeholder(s) must be part of the Goan Diaspora",
+    "The unit must employ at least 15 people, with at least 60% being of Goan origin",
+    "Employees must remain on the company’s payroll for a minimum of one year"
+  ],
+  "benefits_summary": "Provides a capital investment subsidy of up to 20% on eligible investments, with additional 10% incentives for mega units, key focus areas, and Goan diaspora ownership, subject to caps based on unit size.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,45 @@
+{
+  "scheme_name": "Shravanbal Seva State Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 65,
+  "age_max": null,
+  "max_annual_income": 21000,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Applicant must be a permanent resident of Maharashtra for at least 15 years",
+    "Applicant must be destitute",
+    "Applicant must be 65 years or older",
+    "Applicant’s family must be listed as Below Poverty Line (BPL) or have an annual family income less than or equal to ₹21,000"
+  ],
+  "benefits_summary": "Monthly pension of ₹600 per beneficiary (₹200 from the Indira Gandhi Old Age Pension Scheme for BPL families and ₹400 from the Shravanbal State Pension Scheme, or full ₹600 from the State scheme for non‑BPL families with income ≤₹21,000).",
+  "documents_required": [
+    "PAN Card",
+    "Voter ID Card (POI)",
+    "Passport (POI)",
+    "Aadhaar Card (POI)",
+    "Driving License (POI)",
+    "Government / Semi-Government ID",
+    "Proof MNREGA Job Card",
+    "RSBY Card",
+    "Ration Card Passport (POA)",
+    "Aadhaar Card (POA)",
+    "Driving License (POA)",
+    "Voter ID Card (POA)",
+    "Extracts of 7/12 and 8 A",
+    "Property Tax Receipt",
+    "Property Agreement Copy",
+    "Water Bill",
+    "Electricity Bill",
+    "Telephone Bill",
+    "Rent Receipt"
+  ],
+  "application_link": null
+}

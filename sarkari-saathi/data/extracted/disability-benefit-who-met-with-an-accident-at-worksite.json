@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Disability Benefit Who Met With an Accident at Worksite",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker at the time of the accident",
+    "Disablement must have occurred due to an accident at the worksite",
+    "Temporary disablement requires a loss of earning ability for at least one month",
+    "Permanent disablement requires a disability exceeding 90% certified by a competent authority, resulting in complete loss of earning ability",
+    "The injured worker or a representative must notify the Labour Inspector of the area about the accident as soon as possible, in writing or orally",
+    "Application for temporary disablement must be submitted within two months of the accident with medical reports certified by an ESI doctor or a board‑appointed doctor",
+    "Application for permanent disablement must be submitted within 90 days of disability certification with a disablement certificate and a recommendation from the Medical Board"
+  ],
+  "benefits_summary": "Provides 50% of the minimum wage for up to 3 months for temporary disablement, and ₹3,000 per month until age 60 for permanent disablement.",
+  "documents_required": [
+    "Medical report certified by an ESI doctor or a doctor appointed by the board",
+    "Disablement certificate from a competent authority",
+    "Recommendation from the Medical Board"
+  ],
+  "application_link": null
+}

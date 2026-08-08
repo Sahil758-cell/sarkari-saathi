@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Generator Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a micro, small or medium industrial unit operating in the manufacturing or service sector, and it must have made an investment in generator sets on or after 5 March 2009."
+  ],
+  "benefits_summary": "50% subsidy on generator set investment up to ₹5,00,000 per industrial unit.",
+  "documents_required": [],
+  "application_link": null
+}

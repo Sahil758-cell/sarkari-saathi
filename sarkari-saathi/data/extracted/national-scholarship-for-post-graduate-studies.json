@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Scholarship For Post Graduate Studies",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 29,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be pursuing the first postgraduate degree",
+    "Applicants who have already completed a postgraduate degree are not eligible",
+    "Applicant must be enrolled in the first year of the postgraduate program",
+    "Applicant must be enrolled in a full‑time program",
+    "Applicant must be pursuing a recognized postgraduate degree program"
+  ],
+  "benefits_summary": "Scholarship of Rs.15,000 per month for 10 months",
+  "documents_required": [
+    "Aadhaar Details",
+    "Bank Account Details"
+  ],
+  "application_link": null
+}

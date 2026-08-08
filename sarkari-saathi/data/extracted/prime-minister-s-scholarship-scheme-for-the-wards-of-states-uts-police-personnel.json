@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Prime Minister’s Scholarship Scheme for the Wards of States/UTs Police Personnel",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks are eligible",
+    "Applicant must be pursuing a first professional degree programme such as Engineering, Medicine, Dental, Veterinary, BBA, BCA, B.Pharm, B.Sc (Nursing, Agriculture, etc.), MBA, MCA, etc.",
+    "For new applicants, a minimum of 60% marks in the Minimum Entry Qualification (10+2/Diploma/Graduation) is required",
+    "For renewal applicants, each subsequent academic year must be passed with at least 50% marks, with a one‑year grace period for delayed renewal applications",
+    "No rank restriction for the police personnel parent",
+    "Scholarship is admissible for a maximum of two children per family",
+    "Marital status of the applicant is not a restriction",
+    "Lateral entry students admitted to the second year of a technical/professional Bachelor degree after completing a diploma are eligible",
+    "Only first professional degree courses are covered; integrated programmes (e.g., BA+B.Ed) are excluded, while integrated ME/M.Tech/M.Pharma are eligible for the initial three/four years"
+  ],
+  "benefits_summary": "Scholarship of ₹3,000 per month for girls (₹36,000 per year) and ₹2,500 per month for boys (₹30,000 per year) for up to 5 years.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

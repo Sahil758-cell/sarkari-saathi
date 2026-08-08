@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mahtari Vandan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a married woman, widow, divorced or abandoned woman",
+    "Applicant must possess an EPIC Card"
+  ],
+  "benefits_summary": "₹1,000 per month transferred to the applicant's Aadhaar-linked bank account.",
+  "documents_required": [
+    "EPIC Card"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Interest Subsidy to Micro, Small and Medium Enterprise (Manufacturing Sector)",
+  "occupation": [
+    "Micro enterprise",
+    "Small enterprise",
+    "Medium enterprise"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Micro, Small or Medium enterprise with acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT).",
+    "New enterprises or existing enterprises undertaking expansion or diversification are eligible.",
+    "Must commence commercial production or rendering services during the scheme's operative period.",
+    "Must submit an online application within one year of the first loan disbursement, commencement of commercial production/services, or GR issue date, whichever is later, and before the scheme's last operative date.",
+    "Must pay regular installments and interest to the bank/financial institution."
+  ],
+  "benefits_summary": "Interest subsidy on term loans ranging from 5% to 7% with maximum amounts up to ₹35 lakh per annum for periods of 5‑7 years.",
+  "documents_required": [],
+  "application_link": null
+}

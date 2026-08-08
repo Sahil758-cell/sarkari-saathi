@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Minister’s Paryatan Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Arunachal Pradesh domicile.",
+    "Homestay beneficiaries must be registered with the Department of Tourism.",
+    "Preference is given to Homestay operators who have been trained by the Department of Tourism.",
+    "Cab service operators, patisseries, and food courts must be registered as tour operators with the Department of Tourism."
+  ],
+  "benefits_summary": "Direct loan subsidy of up to ₹5 lakh for opening patisseries, homestays, and procuring adventure tourism equipment.",
+  "documents_required": [],
+  "application_link": null
+}

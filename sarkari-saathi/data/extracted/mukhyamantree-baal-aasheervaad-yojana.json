@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantree Baal Aasheervaad Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 24,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "After‑care eligibility requires continuous residence in a childcare institution for at least 5 years (or exemption for orphans).",
+    "For sponsorship, the child must be under 18 years, parents deceased, and living with a relative or guardian who is not eligible under the Mukhyamantri Covid‑19 Bal Seva Yojana.",
+    "Financial assistance for after‑care is provided only until the child reaches 24 years of age.",
+    "Sponsorship benefits cease after the child turns 18 years.",
+    "The child must be declared as a child in need of care and protection by the Child Welfare Committee to receive benefits."
+  ],
+  "benefits_summary": "Provides monthly financial assistance, internships, vocational and technical education support to orphaned or care‑leaver children up to age 24.",
+  "documents_required": [
+    "Home study report",
+    "Social investigation report"
+  ],
+  "application_link": null
+}

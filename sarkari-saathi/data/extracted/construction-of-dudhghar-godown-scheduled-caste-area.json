@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Construction of Dudhghar/ Godown (Scheduled Caste Area)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered Village Milk Producer Co-operative Society.",
+    "Must be located in Scheduled Caste areas of Gujarat.",
+    "Must not already own a Dudhghar or Godown.",
+    "Must have its own land available for construction of the Dudhghar or Godown.",
+    "Must not have availed the benefit earlier under this or any other scheme for a similar purpose."
+  ],
+  "benefits_summary": "Up to 50% of the construction cost, capped at ₹5,00,000, payable once in the society’s lifetime.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

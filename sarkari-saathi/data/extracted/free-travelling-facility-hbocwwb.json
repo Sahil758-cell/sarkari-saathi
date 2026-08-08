@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Free Travelling Facility (HBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Haryana Building & Other Construction Workers Welfare Board",
+    "Must have a minimum of two years regular membership with the Board",
+    "Must have an active membership with the Board",
+    "Must have a work experience of at least 90 days in the preceding year, approved by the Officer",
+    "Worker plus up to four family members are eligible for the travel benefit",
+    "Benefits can be availed once every four years for a visit not exceeding ten days",
+    "Must pay the registration fee before availing benefits"
+  ],
+  "benefits_summary": "Free travelling to religious or historical places for the registered construction worker and up to four family members, with fare paid as per Haryana Roadways ordinary fare or actual second‑class railway fare.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar number",
+    "OTP verification (mobile)"
+  ],
+  "application_link": null
+}

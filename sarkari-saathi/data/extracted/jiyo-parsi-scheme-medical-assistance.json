@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Jiyo Parsi Scheme – Medical Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Couple must be Parsi/Zoroastrian (a notified minority community)",
+    "Both partners must be Indian residents"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹6 lakh for infertility treatment and up to ₹4 lakh for post‑conception medical expenses, with reimbursement percentages based on family income.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": "https://serviceonline.gov.in/dbt/"
+}

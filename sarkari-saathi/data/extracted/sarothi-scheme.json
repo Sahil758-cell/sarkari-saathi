@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Sarothi Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an innovative startup industrial activity or a new individual applicant.",
+    "Applicant must be a new MSME unit in Assam.",
+    "Priority is given to applicants who have undergone any skill development training.",
+    "Applicant must not be a defaulter of any bank or financial institution."
+  ],
+  "benefits_summary": "Provides a loan up to Rs 10 lakh with a 5 % interest subvention.",
+  "documents_required": [],
+  "application_link": null
+}

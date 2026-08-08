@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Incentive To Saharia Students For B.Ed",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a native of Rajasthan",
+    "Student must belong to the Saharia class, a tribe of Baran district, Rajasthan",
+    "Student must be a regular trainee in a government or non‑government B.Ed training institute",
+    "Student's mother, father, guardian, or guardian should not be a taxpayer",
+    "Students residing in a government‑run hostel are not eligible for the scheme",
+    "Student must possess a Vaidya Bhamashah card and Aadhaar"
+  ],
+  "benefits_summary": "Eligible Saharia tribe students pursuing regular B.Ed training receive up to Rs.30,000 per year (covering college fees, books, house rent, food, and clothing).",
+  "documents_required": [
+    "Vaidya Bhamashah card",
+    "Aadhaar"
+  ],
+  "application_link": null
+}

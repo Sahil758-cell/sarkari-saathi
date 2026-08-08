@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Institutions of Eminence scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a government institution (central university, deemed university, institution of national importance, government‑owned standalone institution, or state university)",
+    "Must be among the top 50 in its category on the latest National Ranking Framework, or rank within the top 500 in Times Higher Education, QS, or Shanghai Ranking",
+    "Only 10 institutions will be selected as Institutions of Eminence"
+  ],
+  "benefits_summary": "Provides up to ₹1000 crore in financial assistance and grants extensive autonomy over fees, curriculum, and foreign collaborations.",
+  "documents_required": [],
+  "application_link": null
+}

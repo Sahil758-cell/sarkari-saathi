@@ -1,0 +1,22 @@
+{
+  "scheme_name": "The Andaman & Nicobar Islands Old Age Assistance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman and Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Andaman and Nicobar Islands or have resided there for at least 10 years",
+    "Must not be receiving any other financial assistance, pension, or grant from the government or any other source"
+  ],
+  "benefits_summary": "Provides monthly assistance of ₹2,500 for ages 60‑79 and ₹3,000 for ages 80 and above.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Pashu Bima Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a farmer owning milch cattle.",
+    "The applicant must be a member of the Milk Producer Cooperation Committee.",
+    "The milch cattle must be healthy and certified by a veterinary doctor at the time of insurance."
+  ],
+  "benefits_summary": "Insurance coverage up to ₹60,000 per milch cattle with a 75% premium subsidy provided by the government.",
+  "documents_required": [
+    "Milk Producer Society membership receipt",
+    "Passport‑sized photograph of the proposer"
+  ],
+  "application_link": "https://misdairy.bihar.gov.in/Registration/Register"
+}

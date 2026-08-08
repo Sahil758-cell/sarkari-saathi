@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Bharati Scheme for Education Professional Education Course - Chartered Accountancy Final",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student and his/her parents must belong to the Brahmin community",
+    "Parents should reside in Andhra Pradesh",
+    "Student must have cleared both groups of CA‑Inter (IPCC) after 2014 and must be registered and have paid fees for the CA Final exam",
+    "Student must not have previously benefited from Andhra Pradesh Brahmin Welfare Corporation for the CA Final exam",
+    "Student must be enrolled in the Praja Sadhikara Survey (PSS)"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 for the Chartered Accountancy Final course.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature"
+  ],
+  "application_link": null
+}

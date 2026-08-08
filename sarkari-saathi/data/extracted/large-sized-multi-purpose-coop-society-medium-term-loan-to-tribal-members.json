@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Large Sized Multi-Purpose Coop. Society: Medium Term Loan to Tribal Members",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a member of a Large Sized Multi Purpose Cooperative Society",
+    "Must be interested in availing a Medium Term Loan from the Large Sized Multi Purpose Cooperative Society"
+  ],
+  "benefits_summary": "Loan up to ₹60,000 with zero interest.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Self-attested copies of all mandatory documents (if required)"
+  ],
+  "application_link": "https://www.rcs.tn.gov.in/mpd_cooperative_4.php"
+}

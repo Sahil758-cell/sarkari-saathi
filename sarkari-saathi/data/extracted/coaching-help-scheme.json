@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Coaching Help Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to a non‑reserved category.",
+    "Must have scored 70% or more in Standard 10th.",
+    "Must be currently studying in the science stream in Standard 11th or Standard 12th.",
+    "Can avail the assistance only once per academic year."
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000 per year for coaching expenses outside school/college.",
+  "documents_required": [
+    "Certificates",
+    "Mark sheets"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Janani Bal Suraksha Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a pregnant woman or nursing mother",
+    "Must be willing to undergo institutional delivery",
+    "Must follow health protocols set by the health department",
+    "Must be a member of a marginalized community to receive additional benefits under the scheme"
+  ],
+  "benefits_summary": "Improves maternal and child health by increasing institutional deliveries and providing additional support to women from SC/ST communities.",
+  "documents_required": [],
+  "application_link": null
+}

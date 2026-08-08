@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pre-Matric Scholarship Scheme for the Children of Parents/Guardians Engaged in Unclean and Hazardous Occupations - Goa",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student studying full‑time in Class I to X.",
+    "The applicant must be a resident of Goa.",
+    "The applicant’s parents/guardians must be engaged in an unclean or hazardous occupation (e.g., manual scavengers, tanners, waste pickers, hazardous cleaning).",
+    "The applicant must not be holding any other educational scholarship for studying in Class I to X (or must inform the awarding authority if they hold another).",
+    "A certificate from the District Social Welfare Officer or the designated authority must be submitted to verify the parents’/guardians’ occupation."
+  ],
+  "benefits_summary": "Provides a consolidated academic allowance of ₹3,500 per annum for day scholars and ₹8,000 per annum for hostellers (Class III‑X), with an additional 10% allowance for disabled students.",
+  "documents_required": [
+    "Certificate from District Social Welfare Officer or designated authority"
+  ],
+  "application_link": "https://cmscholarship.goa.gov.in/"
+}

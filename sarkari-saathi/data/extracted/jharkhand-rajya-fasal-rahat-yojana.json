@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Jharkhand Rajya Fasal Rahat Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a small or marginal farmer",
+    "Applicant must be a ‘Raiyat’ or ‘Bataidaar’ farmer",
+    "Applicant must have a valid Aadhaar Number",
+    "Applicant must possess requisite land papers (LPC/Land Receipts)",
+    "Farmers cultivating on government or non‑majorua land with lease or settlement documents from the Revenue Department are eligible",
+    "Crop assistance is available for agricultural land between a minimum of 10 decimals and a maximum of 5 acres",
+    "Crop loss must be at least 20% to qualify for assistance",
+    "Scheme is voluntary for all farmers"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹3,000 per acre for 30‑50% crop loss or ₹4,000 per acre for >50% loss, applicable for up to 5 acres.",
+  "documents_required": [
+    "Aadhaar Number",
+    "Land papers (LPC/Land Receipts)",
+    "Lease or settlement documents from Revenue Department",
+    "Declaration"
+  ],
+  "application_link": null
+}

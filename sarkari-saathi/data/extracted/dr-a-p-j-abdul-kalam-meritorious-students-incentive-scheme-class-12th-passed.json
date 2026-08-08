@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Dr. A.P.J. Abdul Kalam Meritorious Students Incentive Scheme (Class 12th Passed)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have achieved the highest marks in the district in the Class 12 examination",
+    "Must have passed Class 12 from a government school in Madhya Pradesh",
+    "Must be a permanent resident of Madhya Pradesh"
+  ],
+  "benefits_summary": "Cash award of ₹5,000 transferred directly to the student's bank account.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

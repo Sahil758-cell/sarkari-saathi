@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Andaman & Nicobar Bed & Breakfast / Home Stay Establishment Scheme",
+  "occupation": [
+    "owner",
+    "promoter"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman & Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Owner/promoter and immediate family must physically reside in the establishment",
+    "Must let out at least one room and at most six rooms (maximum 12 beds)"
+  ],
+  "benefits_summary": "Allows owners to obtain official classification for their Bed & Breakfast/Homestay, enabling them to operate legally and charge guests for up to three years.",
+  "documents_required": [],
+  "application_link": null
+}

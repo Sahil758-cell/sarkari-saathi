@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Denture, Spectacles & Hearing Aid Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/ Construction Worker",
+    "Unorganised Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must not be a member of any other welfare fund established under any law",
+    "Must not be a member of the Employees' Provident Fund (EPF), National Pension System (NPS), or Employees' State Insurance Corporation (ESIC)",
+    "Must not be an income tax payer",
+    "Must be a registered member of the Building and Other Construction Workers Welfare Board of Punjab or a family member of such a worker",
+    "Must be paying the contribution regularly"
+  ],
+  "benefits_summary": "Financial assistance up to ₹800 for spectacles, ₹5,000 for dentures, and ₹6,000 for hearing aids, provided once per beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

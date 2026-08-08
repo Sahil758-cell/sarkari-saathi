@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Godhan Nyay Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a valid Aadhaar card",
+    "Must have his own bank account",
+    "Must possess an identity card",
+    "Must have a mobile number",
+    "Must register the number of his animals"
+  ],
+  "benefits_summary": "The scheme purchases cow dung from cattle rearers at Rs 2 per kg, increasing their income and generating employment through organic fertilizer production.",
+  "documents_required": [
+    "Aadhaar card",
+    "Identity card"
+  ],
+  "application_link": null
+}

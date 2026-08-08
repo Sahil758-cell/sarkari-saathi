@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Balika Samrithi Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 15000,
+  "category": null,
+  "state": [
+    "Pondicherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Girl child must be born on or after 15-08-1997",
+    "Applicant must be a native of the Union Territory of Pondicherry by birth or have continuous residence for at least 3 years"
+  ],
+  "benefits_summary": "Provides a ₹500 National Savings Certificate to the lactating mother of the eligible girl child.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Completed application form"
+  ],
+  "application_link": null
+}

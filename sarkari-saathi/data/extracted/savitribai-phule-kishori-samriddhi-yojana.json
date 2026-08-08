@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Savitribai Phule Kishori Samriddhi Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 19,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be one of the first two daughters of the mother",
+    "Mother or father must not be permanently employed or retired from Central/State Government or Public Sector Undertakings, and must not receive any pension or family pension from such employers",
+    "Mother must not be an income taxpayer and must submit a self‑declaration confirming the above",
+    "Beneficiary must be studying in schools run or aided by the Government/Scheduled Tribes, Scheduled Castes, Minority or Backward Classes Welfare Department of Jharkhand"
+  ],
+  "benefits_summary": "Cash assistance of ₹2,500–₹5,000 for schoolgirls (classes 8‑12) and a one‑time grant of ₹20,000 for girls aged 18‑19.",
+  "documents_required": [
+    "Self-declaration form"
+  ],
+  "application_link": null
+}

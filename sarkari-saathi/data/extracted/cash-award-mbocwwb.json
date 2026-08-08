@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Cash Award (MBOCWWB)",
+  "occupation": [
+    "building or other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Meghalaya",
+    "Engaged in any building or other construction work",
+    "Registered under the Meghalaya Building & Other Construction Workers Welfare Board",
+    "Active membership of the Board required",
+    "Child must achieve the highest marks in the SSLC examination in their district"
+  ],
+  "benefits_summary": "Cash prizes of ₹1000, ₹750 and ₹500 are awarded annually to the top three male and top three female SSLC scorers in each district.",
+  "documents_required": [
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

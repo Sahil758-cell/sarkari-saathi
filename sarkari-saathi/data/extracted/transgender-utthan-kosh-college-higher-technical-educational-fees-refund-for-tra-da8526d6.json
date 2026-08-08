@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Transgender Utthan Kosh - College/Higher/Technical Educational Fees Refund for Transgender Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the transgender community",
+    "Applicant must be pursuing a higher or technical course",
+    "Applicant must be enrolled in a recognized school, college, or technical education institute in Rajasthan"
+  ],
+  "benefits_summary": "Full refund of prescribed educational fees for transgender students, transferred directly to their bank account.",
+  "documents_required": [],
+  "application_link": null
+}

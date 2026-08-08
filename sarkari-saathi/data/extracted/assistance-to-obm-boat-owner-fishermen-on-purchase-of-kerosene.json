@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Assistance to OBM Boat Owner Fishermen on Purchase of Kerosene",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Gujarat",
+    "Must be a Kerosene Card holder",
+    "Must own a small boat operated by an Outboard Motor (OBM)"
+  ],
+  "benefits_summary": "Provides a subsidy of ₹50 per litre on the purchase of kerosene or petrol for eligible fishermen.",
+  "documents_required": [
+    "Original bills of purchase"
+  ],
+  "application_link": null
+}

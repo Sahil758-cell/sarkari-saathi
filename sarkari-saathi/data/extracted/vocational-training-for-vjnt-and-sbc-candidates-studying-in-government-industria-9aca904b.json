@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Vocational Training For VJNT And SBC Candidates Studying In Government Industrial Training Institute",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student belonging to VJNT or SBC category",
+    "Selection is made by the Principal of the concerned Government I.T.I. and the Assistant Commissioner of Social Welfare"
+  ],
+  "benefits_summary": "Training fees (₹400‑₹2400) are covered and a ₹1000 tool kit is provided upon completion.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph (signed across)",
+    "Self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

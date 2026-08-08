@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Videsh Siksha Yojana (MPBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a child of a construction worker.",
+    "Either parent of the applicant must be registered with the Madhya Pradesh Building & Other Construction Workers Welfare Board and hold a valid identity card for a continuous period of 5 years.",
+    "For postgraduate programmes, the applicant must have passed graduation with at least 60% marks in the first division or an equivalent grade.",
+    "For PhD programmes, the applicant must have passed a postgraduate degree with at least 60% marks and have 2 years of teaching, research or M.Phil experience in the relevant field.",
+    "Applicant must not be receiving benefits from any other source."
+  ],
+  "benefits_summary": "Scholarship covering tuition up to $40,000 and a subsistence allowance up to $10,000 per year, plus travel expenses.",
+  "documents_required": [],
+  "application_link": "Shram Sewa Portal of Madhya Pradesh Building and Other Construction Workers Welfare Board"
+}

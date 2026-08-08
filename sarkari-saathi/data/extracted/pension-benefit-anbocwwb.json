@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pension Benefit (ANBOCWWB)",
+  "occupation": [
+    "building",
+    "other construction"
+  ],
+  "gender": null,
+  "age_min": 55,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman & Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Must have been engaged in building or other construction work for a continuous period of at least five years",
+    "Must be registered under the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board",
+    "Must have made regular contributions to the welfare fund for at least 5 years"
+  ],
+  "benefits_summary": "Provides a pension of ₹1,000 per month to eligible construction workers aged 55 or above.",
+  "documents_required": [],
+  "application_link": "https://serviceonline.gov.in/login.do"
+}

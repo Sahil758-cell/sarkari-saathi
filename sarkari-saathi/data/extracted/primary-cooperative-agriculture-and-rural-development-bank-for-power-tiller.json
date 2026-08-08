@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Power Tiller",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a farmer.",
+    "The beneficiary must be engaged in agricultural activities.",
+    "The beneficiary must be interested in availing a loan for purchasing a power tiller.",
+    "The beneficiary must intend to use the loan specifically for purchasing a power tiller."
+  ],
+  "benefits_summary": "Provides a loan covering up to 90% of the power tiller cost at an interest rate of 11%–12.25%.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Distribution of Manually Operated Plant Protection Equipment",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Raise seed farms with pulses crop"
+  ],
+  "benefits_summary": "Provides a subsidy of 50% of equipment cost, up to a maximum of ₹800.",
+  "documents_required": [],
+  "application_link": null
+}

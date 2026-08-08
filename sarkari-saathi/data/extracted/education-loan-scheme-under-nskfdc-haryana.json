@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Education Loan Scheme under NSKFDC- Haryana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Safai Karamchari or a dependent of a Safai Karamchari",
+    "Applicant must produce a Certificate of Safai Karamchari or dependent issued by a government authority such as a gazetted officer, municipal elected member, gram panchayat pradhan, local revenue officer, cantonment officer or railway officer",
+    "Loan can be availed only once at either Diploma/Graduation level or Post‑graduation level, unless the course is an integrated program covering both levels",
+    "Applicant must have secured admission in a regular full‑time recognized professional/technical course in India or abroad",
+    "Applicants who secured admission before 01‑12‑2009 must not have availed an educational loan from any other institution"
+  ],
+  "benefits_summary": "Education loans up to ₹10 lakhs for studies within India and up to ₹20 lakhs for studies abroad, with repayment over 5 years after a 6‑month moratorium.",
+  "documents_required": [
+    "Certificate of Safai Karamchari or dependent issued by a gazetted government authority"
+  ],
+  "application_link": null
+}

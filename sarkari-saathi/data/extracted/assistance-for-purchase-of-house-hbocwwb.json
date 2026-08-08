@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Assistance for Purchase of House (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 52,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Haryana Building & Other Construction Workers Welfare Board",
+    "Must have at least 5 years of regular membership",
+    "Age must be 52 years or younger (so that 8 years remain until age 60)",
+    "Facility can be availed only once in a lifetime",
+    "Must add a minimum of 90 days work experience of the preceding year"
+  ],
+  "benefits_summary": "Interest‑free loan up to ₹2,00,000 for purchase or construction of a house.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Subsidy for Developing Business Premises for Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of at least 40% is required",
+    "For persons with mental retardation, the minimum age is reduced to 14 years",
+    "The land for the business premises must be the applicant's own or leased on a long‑term lease of more than 20 years from a government agency",
+    "The lease period must be at least 20 years on the date of application"
+  ],
+  "benefits_summary": "Loans up to ₹3 lakh are provided to persons with disabilities to develop business premises on their own land and start self‑employment activities.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

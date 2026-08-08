@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Cash Incentive to Wards of ESM (Academic Scholarship)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a ward of an ESM or a ward of the widow of an ESM",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "Applicant must have scored at least 95% in Class 11th/12th",
+    "Applicant must have scored at least 90% in the semester/annual exam of a non‑professional course (or 80% for a professional course)",
+    "Applicant must not be receiving any other academic scholarship"
+  ],
+  "benefits_summary": "Cash incentive of ₹1,000 per month.",
+  "documents_required": [
+    "Prescribed application form (printed)",
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

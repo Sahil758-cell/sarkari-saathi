@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Education Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants may be individuals, partnership firms, or co‑operative societies undertaking income‑generating activities",
+    "Application must be made through the concerned State Channelizing Agencies or Channelizing Agencies",
+    "The loan is only for full‑time professional or technical courses approved by the Government in recognized institutions, both in India and abroad",
+    "Income limit of Rs 3 lakh applies to both rural and urban applicants for credit‑based schemes"
+  ],
+  "benefits_summary": "Provides education loans up to ₹30 lakhs for studies in India or up to ₹40 lakhs abroad (max 90% of course fee) with interest rates of 5.5‑6% for females and 6‑7% for males, and repayment periods of up to 10‑12 years.",
+  "documents_required": [],
+  "application_link": null
+}

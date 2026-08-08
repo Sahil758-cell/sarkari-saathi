@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Laptop Supply Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student.",
+    "The applicant must be a permanent resident of Madhya Pradesh.",
+    "The applicant must have passed the 12th Standard with 80% or above marks."
+  ],
+  "benefits_summary": "Provides a cash grant of ₹25,000 for purchasing a laptop to eligible students.",
+  "documents_required": [],
+  "application_link": null
+}

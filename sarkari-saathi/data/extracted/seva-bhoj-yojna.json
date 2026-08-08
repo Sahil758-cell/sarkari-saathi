@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Seva Bhoj Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a public trust, society, body corporate, organization or institution covered under section 10 (23BBA) of the Income Tax Act, 1961, or registered under section 12AA of the Income Tax Act, 1961, for charitable/religious purposes; or a company formed and registered under section 8 of the Companies Act, 2013 or section 25 of the Companies Act, 1956, for charitable/religious purposes; or a public trust or society registered under the respective laws for charitable/religious purposes",
+    "Must be involved in charitable/religious activities by way of free and philanthropic distribution of food, Prasad, Langar or Bhandara without discrimination",
+    "Must have been in existence for at least three years prior to applying",
+    "Must have been distributing free food, Langar, or Prasad to the public for at least the past three years on the day of application",
+    "Must not be receiving any financial assistance from the Central/State Government for the purpose of distributing free food",
+    "Must serve free food to at least 5,000 people in a calendar month"
+  ],
+  "benefits_summary": "Reimbursement of CGST and the central share of IGST paid on raw food items used for free food distribution.",
+  "documents_required": [
+    "Self‑certificate confirming three‑year history of free food distribution",
+    "Registration certificate issued by the Ministry of Culture"
+  ],
+  "application_link": null
+}

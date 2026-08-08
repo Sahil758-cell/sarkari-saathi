@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Sabji Shetra Vistar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmer must not be currently cultivating vegetables",
+    "Farmer must possess a forest rights certificate to be eligible",
+    "Grant is provided only once per farmer",
+    "Grant is payable for a minimum of 0.25 hectares and a maximum of 2.00 hectares"
+  ],
+  "benefits_summary": "The scheme provides a 50% subsidy on seed and planting material costs, up to ₹10,000 per hectare for seeds and up to ₹30,000 per hectare for planting material, whichever is less.",
+  "documents_required": [],
+  "application_link": null
+}

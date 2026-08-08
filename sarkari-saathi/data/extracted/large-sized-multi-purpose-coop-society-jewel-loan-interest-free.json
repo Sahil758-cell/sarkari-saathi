@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Large Sized Multi Purpose Coop. Society: Jewel Loan (Interest Free)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a member of a Large Sized Multi Purpose Cooperative Society",
+    "Must be interested to avail Jewel Loan from the Large Sized Multi Purpose Cooperative Society"
+  ],
+  "benefits_summary": "Interest‑free loan up to ₹1,00,000",
+  "documents_required": [
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": "https://www.rcs.tn.gov.in/mpd_cooperative_4.php"
+}

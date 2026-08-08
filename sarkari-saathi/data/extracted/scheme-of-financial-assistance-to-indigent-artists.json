@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme of Financial Assistance to Indigent Artists",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": 58,
+  "age_max": null,
+  "max_annual_income": 12000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should be in indigent circumstances",
+    "Applicant should have professionally served for the enrichment of one or more art disciplines such as music, dance, drama, film folk arts, etc."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport-sized photograph (signed across, if required)",
+    "Self‑attested copies of all mandatory documents (if required)"
+  ],
+  "application_link": null
+}

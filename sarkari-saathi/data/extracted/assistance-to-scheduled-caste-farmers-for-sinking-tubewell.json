@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Assistance to Scheduled Caste Farmers for Sinking Tubewell",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian National",
+    "Applicant must be native of the Union Territory of Puducherry by birth or have continuous residence for the past 5 years",
+    "Applicant must obtain the mandatory permit from Pondicherry Ground Water Authority for constructing a new or replacement tubewell/filter point",
+    "Tubewell must be constructed using departmental power rig/hand bore set or, if using private machinery, must have a No Objection Certificate (NOC) and the machinery must be registered with Pondicherry Ground Water Authority under departmental supervision",
+    "Applicant must hold a minimum of 1.5 acres of land in the command area of the tubewell/filter point",
+    "Applicant must have ownership of the land for at least 2 years and possess a clear ownership title deed in his/her name",
+    "The eligible land holding of 1.5 acres can be in the name of the applicant, spouse, or a member of the joint/undivided family",
+    "Farmers who have availed subsidy for the same purpose within the last 5 years are not eligible",
+    "Casing pipes must have a BIS certificate and be purchased from an authorized dealer or M/s. PASIC Ltd",
+    "Applicant must not convert the land for a minimum period of 10 years from the date of construction and must execute a bond accordingly"
+  ],
+  "benefits_summary": "90% subsidy up to ₹1,80,000 per tubewell/filter point for eligible Scheduled Caste farmers.",
+  "documents_required": [
+    "Clear ownership title deed",
+    "Permit from Pondicherry Ground Water Authority",
+    "No Objection Certificate (NOC)",
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

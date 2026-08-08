@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Odisha State Treatment Fund",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Annual family income must not exceed Rs.40,000 in rural areas or Rs.60,000 in urban areas",
+    "Eligibility is confirmed by BPL/AAY card, RSBY card, or an annual income certificate issued by the concerned Tahasildar",
+    "Patients referred from registered destitute homes, orphanages, mental asylums, or child care institutions are eligible",
+    "The patient must be admitted as an in‑patient in a government or empanelled private hospital (except cancer patients may receive chemo in Govt. Day Care Centres without formal admission and kidney‑transplant patients can receive post‑operative care up to 6 months after discharge)",
+    "Eligibility is limited to patients suffering from life‑threatening diseases as listed in Annexure‑D of the scheme guidelines"
+  ],
+  "benefits_summary": "Provides financial assistance up to Rs.3 lakh for in‑patient treatment of life‑threatening diseases, with a top‑up over RSBY limits and defined sanction ceilings.",
+  "documents_required": [
+    "BPL card or AAY card",
+    "Annual income certificate issued by the Tahasildar",
+    "RSBY card"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana",
+  "occupation": [
+    "farmers",
+    "agricultural laborers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a farmer or agricultural laborer residing in Rajasthan",
+    "Applicant must hold a licence from the market committee (e.g., Hammal, Palledar, Tulara)",
+    "Marriage assistance is available only for a licensed woman and her two daughters",
+    "Scholarships are granted to students whose guardian is a licensed Hammal or Palledar in the mandi",
+    "Medical aid is provided to a licensed Hammal or Palledar who becomes gravely ill"
+  ],
+  "benefits_summary": "Provides healthcare insurance, marriage assistance, scholarships for students, and financial support for obstetric and paternity leave for licensed mandi workers.",
+  "documents_required": [
+    "Bhamashah ID or Janaadhaar ID",
+    "Aadhaar authentication",
+    "Bank details",
+    "Disability details",
+    "Verification details",
+    "Upload Documents"
+  ],
+  "application_link": null
+}

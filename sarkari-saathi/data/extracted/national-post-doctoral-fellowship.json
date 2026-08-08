@@ -1,0 +1,38 @@
+{
+  "scheme_name": "National Post Doctoral Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Must possess a PhD/M.D/M.S degree from a recognised university or have submitted the thesis and be awaiting award",
+    "Only one fellowship can be availed in a career",
+    "Mentor must hold a regular academic/research position in a recognised Indian institution and have a Ph.D. in Science or Engineering",
+    "Mentor cannot supervise more than two SERB NPDF fellows simultaneously",
+    "Fellow cannot work with the Ph.D. guide/co‑guide and cannot be placed in the same department/institution where the degree was earned",
+    "Fellowship is tenable only in India at recognised academic, national laboratory or R&D institutions",
+    "Applicants must not hold any other fellowship from any Government or Non‑Government source during the tenure",
+    "Age relaxation of 5 years for candidates belonging to SC, ST, OBC, physically challenged and women"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹55,000 (₹35,000 for candidates awaiting degree award) plus an annual research grant of ₹2,00,000 and overheads of ₹1,00,000.",
+  "documents_required": [
+    "Online application form",
+    "Research proposal detailing objectives, methodology and work plan (PDF, max 10 MB)",
+    "Applicant bio‑data",
+    "Applicant photograph",
+    "Institute address details",
+    "Mentor bio‑data and photograph"
+  ],
+  "application_link": "https://www.serbonline.in"
+}

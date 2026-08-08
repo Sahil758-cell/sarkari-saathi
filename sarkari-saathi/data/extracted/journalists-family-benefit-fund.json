@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Journalists’ Family Benefit Fund",
+  "occupation": [
+    "editor",
+    "sub‑editor",
+    "reporter",
+    "photographer",
+    "proofreader"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The benefit is given only on the death of the journalist while working in journalism.",
+    "The deceased must have worked full‑time for a newspaper or daily periodical published in Tamil Nadu.",
+    "In case of sudden death due to an accident or fatal disease, a minimum of five years of service is required.",
+    "Financial assistance amount depends on the total years of service of the deceased (20 years, 15 years, 10 years, or 5 years)."
+  ],
+  "benefits_summary": "Financial assistance ranging from ₹50,000 to ₹2,00,000 based on the deceased journalist’s years of service.",
+  "documents_required": [
+    "Two completed application forms",
+    "Relevant certificates and any self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Mukhyamantri Kanya Vivah Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The age of the boy to whom the girl will be married must be at least 21 years."
+  ],
+  "benefits_summary": "Provides a ₹5,000 financial assistance to the girl at the time of her marriage.",
+  "documents_required": [],
+  "application_link": null
+}

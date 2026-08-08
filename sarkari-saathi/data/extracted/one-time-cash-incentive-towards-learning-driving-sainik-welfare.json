@@ -1,0 +1,27 @@
+{
+  "scheme_name": "One Time Cash Incentive towards Learning Driving (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex-Serviceman.",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry.",
+    "Applicant must be unemployed.",
+    "Applicant must obtain prior permission from the Department of Sainik Welfare, Puducherry to take the course.",
+    "Applicant must apply within three years of discharge from service.",
+    "Driving course must be taken from a Government-recognized school/institution."
+  ],
+  "benefits_summary": "One-time cash incentive of ₹4,000 credited to the beneficiary’s bank account.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self-attested, if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Livelihood Support To Marine Fishermen During Fishing Ban Period",
+  "occupation": [
+    "boat owner (motorized)",
+    "crew member of a motorized boat",
+    "fish trader",
+    "sorting and grading fish",
+    "other ancillary activities"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 70,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be an active marine fisherman",
+    "Only one member per family is eligible",
+    "Beneficiary must be a permanent resident of Odisha and provide identity and residence proof such as Aadhaar card",
+    "Beneficiary must have a bank account in his/her own name in Odisha",
+    "If the beneficiary is a boat owner, he/she must have a valid boat registration (Real Craft) and a valid fishing license",
+    "If the beneficiary is a crew member, he/she must work on a registered fishing boat with a valid fishing license and provide a certificate from the boat owner",
+    "If the beneficiary is a fish trader or involved in sorting/grading, he/she must provide a certificate from a registered boat owner",
+    "Beneficiary must not belong to the automatically excluded households under SECC‑2011"
+  ],
+  "benefits_summary": "One member per family receives ₹15,000 annually, disbursed as a single Direct Benefit Transfer payment.",
+  "documents_required": [
+    "Aadhaar card (identity and residence proof)",
+    "Bank account statement or passbook in applicant’s name",
+    "Valid boat registration (Real Craft) (for boat owners)",
+    "Valid fishing licence (for boat owners and crew)",
+    "Certificate from registered boat owner (for crew members and fish traders)"
+  ],
+  "application_link": null
+}

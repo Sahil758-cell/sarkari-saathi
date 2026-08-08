@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Chief Minister’s Health Insurance Scheme - Nagaland",
+  "occupation": [
+    "government employee",
+    "pensioner",
+    "dependent family member"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent or indigenous resident of Nagaland",
+    "For CMHIS (EP) the applicant must be a government employee, pensioner, or dependent family member",
+    "For CMHIS (GC) the applicant must be an Indigenous Inhabitant or Permanent Resident not covered under AB PM‑JAY",
+    "Certificates for dependents are required for EP applicants",
+    "Indigenous Inhabitant Certificate (IIC) or Permanent Resident Certificate (PRC) issued after 2016 is required for GC applicants",
+    "Aadhaar card and a valid mobile number are required"
+  ],
+  "benefits_summary": "Provides cashless hospitalisation up to ₹20 lakhs for employees/pensioners and ₹5 lakhs for general residents, covering inpatient and select daycare procedures across empanelled hospitals.",
+  "documents_required": [
+    "PIMS Code",
+    "PPO book",
+    "Aadhaar card",
+    "Certificates for dependents",
+    "Indigenous Inhabitant Certificate (IIC)",
+    "Permanent Resident Certificate (PRC)"
+  ],
+  "application_link": null
+}

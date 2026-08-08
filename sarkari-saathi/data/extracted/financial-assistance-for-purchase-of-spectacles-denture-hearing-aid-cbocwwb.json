@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Financial Assistance for Purchase of Spectacles, Denture, Hearing Aid (CBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be working in an establishment and registered under the Punjab Labour Welfare Fund Act, 1965 with regular contribution to the labour welfare fund.",
+    "The applicant must have been a member of the Chandigarh Building and Other Construction Workers Welfare Board for at least 6 months before applying.",
+    "The financial assistance is granted only on the prescription of a Government Medical Officer/Chief Medical Officer/Principal Medical Officer of any Government Institute in the tri‑city region and is limited to once in a lifetime.",
+    "The application must be submitted within one year of eligibility together with all required documents.",
+    "Beneficiaries who are covered under ESIC are not eligible for the assistance."
+  ],
+  "benefits_summary": "Provides up to ₹1500 for spectacles, ₹5000 for dentures, and ₹4000 for hearing aids to eligible workers.",
+  "documents_required": [
+    "Clear picture of both sides of the Aadhaar Card",
+    "Clear picture of the Bank Passbook",
+    "Clear picture of all pages filled on the BOCW Copy issued by the Board"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

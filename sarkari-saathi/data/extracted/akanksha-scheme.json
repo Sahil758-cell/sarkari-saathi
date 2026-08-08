@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Akanksha Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bank account must be linked with Aadhaar number",
+    "Applicant must have a digital caste certificate",
+    "Class 10th examination result must be 60% or higher",
+    "Student must be eligible to take admission in class 10th after passing class 11th"
+  ],
+  "benefits_summary": "Coaching, accommodation and teaching facilities for scheduled‑tribe students in classes 11‑12 to prepare for national entrance examinations (JEE, NEET/AIIMS, CLET) at reputed institutes in Bhopal, Indore, Jabalpur and Gwalior.",
+  "documents_required": [
+    "Digital caste certificate"
+  ],
+  "application_link": "http://www.tribal.mp.gov.in/MPTAAS"
+}

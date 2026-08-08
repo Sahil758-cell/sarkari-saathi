@@ -1,0 +1,25 @@
+{
+  "scheme_name": "State Government ST Scholarship (Class 1 to 8)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in Classes 1 to 8",
+    "Eligibility is not affected by a one‑year failure in studies",
+    "Re‑application is not required for renewal of the scholarship"
+  ],
+  "benefits_summary": "Scholarship of ₹250 per year for classes 1‑5 and ₹200 per year for boys or ₹600 per year for girls in classes 6‑8, paid directly into the student's bank account.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

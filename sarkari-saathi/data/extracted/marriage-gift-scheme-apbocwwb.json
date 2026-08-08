@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Marriage Gift Scheme (APBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered under the Andhra Pradesh Building and Other Construction Workers Welfare Board",
+    "The construction worker applicant must be a woman and unmarried",
+    "A construction worker can avail benefits for up to two daughters",
+    "Each daughter must be at least 18 years old at the time of marriage",
+    "The application must be submitted within 6 months of the marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 for marriage.",
+  "documents_required": [],
+  "application_link": null
+}

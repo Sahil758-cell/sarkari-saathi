@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Foster Care Scheme (Vatsalaya)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child must meet at least one of the listed vulnerability conditions (family breakdown, crisis, safety at risk, disaster, orphaned/abandoned, not eligible for adoption, institutionalised child needing reinstatement, or in conflict with law)",
+    "Foster parents must have stable emotional adjustment and be physically, mentally, and emotionally stable",
+    "Foster parents must have sufficient income to meet the basic needs of the child",
+    "Medical fitness of all family members must be verified (including HIV, TB, Hepatitis B tests)",
+    "Foster parents must have adequate exposure, orientation and capacity in child caring",
+    "The home should have adequate space and basic facilities",
+    "Foster family must agree to regular paediatrician visits, immunizations and maintain the child's health records",
+    "Foster family must sign an agreement and return the child to the Child Welfare Committee if directed",
+    "Foster parents must attend training or orientation programmes on child care and health",
+    "Foster parents must motivate the child to study and ensure schooling or vocational training",
+    "No discrimination on the basis of caste, religion, ethnic status, disability or health status",
+    "Not more than two children may be placed in a foster family unless they are siblings"
+  ],
+  "benefits_summary": "Foster families receive a monthly allowance of ₹2,500, plus a maintenance allowance based on the child’s age (₹1,500 for 0‑6 years, ₹2,000 for 6‑14 years, ₹2,500 for 14‑18 years).",
+  "documents_required": [
+    "Medical reports of all family members (including HIV, TB, Hepatitis B tests)",
+    "Passport-sized photograph (signed)"
+  ],
+  "application_link": null
+}

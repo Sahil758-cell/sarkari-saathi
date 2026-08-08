@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Assistance to Logistic Park",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Industries Association or any enterprise registered under the Societies Act, Partnership Act, Trust Act, Companies Act or a Special Purpose Vehicle (SPV)",
+    "Must intend to develop a logistic park as per the approved guidelines of the State Level Empowered Committee (SLEC)",
+    "Must possess 100% ownership of the land required for the project",
+    "Projects under execution before obtaining registration are not eligible for assistance",
+    "Assistance is only available for infrastructure‑related Fixed Capital Investment (excluding land cost and vehicles)",
+    "Projects must be completed within 3 years from the date of approval, with a possible 1‑year extension under exceptional circumstances"
+  ],
+  "benefits_summary": "Provides financial assistance of up to 25% of eligible Fixed Capital Investment (maximum ₹15 crore) and up to 60% of total project cost when combined with central funding, along with 100% reimbursement of land stamp duty, disbursed in milestone‑linked installments.",
+  "documents_required": [
+    "Affidavit",
+    "Detailed Project Report (DPR)",
+    "Approved layout plan",
+    "Other mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Special Scholarship to SC Students in Selected Schools",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 6000000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in one of the specified selected private schools.",
+    "Eligibility is limited to students admitted to Class 8 or Class 11 (one‑time per year).",
+    "Assistance is also available for Class 6 at Balachadi School, Jamnagar, and Sainik School, Kherwa."
+  ],
+  "benefits_summary": "Financial assistance up to ₹50,000 per year or the actual amount of annual fees, whichever is lower, covering tuition, hostel, food, books, uniforms and related expenses.",
+  "documents_required": [],
+  "application_link": null
+}

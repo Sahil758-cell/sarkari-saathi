@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Free Education For Sports Medal Winners / Participants Of National/ International Events",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a medal winner of National Games or a participant in recognized international sporting events (World University Service, International Olympic Committee, Olympic Council of Asia).",
+    "Must be admitted to a university/college/institution covered under sections 2(f) and 12(b) of the UGC Act, 1956, or deemed universities under section 3, or funded by Central/State Government, or Institutes of National Importance.",
+    "Subsequent years’ scholarship depends on the sportsperson’s subsequent sports performance."
+  ],
+  "benefits_summary": "Provides full tuition fee coverage, monthly stipend, hostel facilities, and a kit allowance for eligible sportspersons pursuing higher education.",
+  "documents_required": [
+    "Prescribed application form",
+    "Certificate of participation or medal‑winning attested by the Registrar or Principal of the institution"
+  ],
+  "application_link": null
+}

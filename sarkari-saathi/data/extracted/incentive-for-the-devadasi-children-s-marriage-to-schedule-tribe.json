@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Incentive For The Devadasi Children’s Marriage to Schedule Tribe",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both spouses must belong to the Hindu religion",
+    "Marriage must have taken place on or after 1 April 2019",
+    "Application must be submitted within 18 months of the marriage",
+    "One spouse must belong to the Scheduled Tribe community and be a resident of Karnataka",
+    "The marriage must be between an ST individual and a non‑ST individual, or between two ST individuals",
+    "Both spouses must be residents of Karnataka"
+  ],
+  "benefits_summary": "A cash incentive of ₹8,00,000 is provided to the married couple, with ₹5,00,000 for the bride and ₹3,00,000 for the groom.",
+  "documents_required": [],
+  "application_link": null
+}

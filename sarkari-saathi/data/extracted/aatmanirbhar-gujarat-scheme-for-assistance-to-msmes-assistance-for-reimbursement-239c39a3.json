@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Reimbursement of CGTMSE Fees",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must have availed a collateral‑free term loan under the Credit Guarantee Scheme of CGTMSE.",
+    "The application must be submitted to the concerned District Industries Centre (DIC) within one year from the first disbursement of the loan or before the commencement of commercial production, whichever is later.",
+    "The enterprise must have paid the annual service fee for the CGTMSE‑backed loan."
+  ],
+  "benefits_summary": "100% reimbursement of the annual service fees paid for CGTMSE collateral‑free loans for up to five years.",
+  "documents_required": [],
+  "application_link": null
+}

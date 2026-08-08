@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Annai Teresa Ninaivu Marriage Assistance Scheme for Orphan Girls-I",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an orphan."
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 and one 8 gm 22‑carat gold coin for the Thirumangalyam.",
+  "documents_required": [],
+  "application_link": null
+}

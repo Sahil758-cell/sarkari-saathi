@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Credit Card Scheme For Artisans And Weavers Of Handicrafts And Handloom Sector",
+  "occupation": [
+    "Artisan",
+    "Weaver"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Must be duly registered with the Handicrafts and Handloom Department of Jammu & Kashmir",
+    "Must be involved in production and manufacturing processes related to handicrafts or handloom",
+    "Selection of beneficiaries is made by a District-level Selection Committee headed by the General Manager of the District Industries Centre"
+  ],
+  "benefits_summary": "Provides a maximum credit limit of ₹2,00,000 with no collateral, including a loan component of ₹1,80,000 and a beneficiary contribution of ₹20,000, plus a 7% interest subvention for up to 5 years.",
+  "documents_required": [],
+  "application_link": null
+}

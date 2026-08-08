@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Nanaji Deshmukh Krishi Sanjivani Prakalp",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility is limited to Farmer Producer Companies (FPCs) registered under the project in the district or registered farmer groups/self‑help groups in the project village.",
+    "FPCs must have a minimum of 100 members to be eligible for agribusiness component benefits.",
+    "Groups must consist of at least 11 members per family, with family composition defined as husband, wife, and dependent children over 18 years of age.",
+    "Applicants must demonstrate financial capacity to establish and operate agricultural input service centers or related industries.",
+    "Loans sanctioned to FPCs or groups exceeding Rs 20 lakhs must be approved, and the approved loan amount must be at least 1.25 times the minimum grant aid.",
+    "Proposals for Rs 20 lakhs must be self‑financed, with assurance that funds are available in the group's registered bank account or will be raised from members, as reflected in the group/company resolution.",
+    "If a loan is involved, the FPC or group must enter into a tripartite agreement with the lending bank/financial institution and the project management authority."
+  ],
+  "benefits_summary": "Provides back‑ended financial subsidies and grants for climate‑resilient farming practices, protected cultivation, water‑conservation, seed production, and support to farmer producer organisations, disbursed via Aadhaar‑linked accounts.",
+  "documents_required": [],
+  "application_link": "https://dbt.mahapocra.gov.in"
+}

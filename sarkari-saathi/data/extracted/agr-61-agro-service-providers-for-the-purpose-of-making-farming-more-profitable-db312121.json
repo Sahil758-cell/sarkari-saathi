@@ -1,0 +1,32 @@
+{
+  "scheme_name": "AGR-61 Agro Service Providers for the Purpose of Making Farming More Profitable With the Help of Farm Mechanization",
+  "occupation": [
+    "Primary Agricultural Cooperative Society (PACS)",
+    "Farmer Groups",
+    "Farmer Producer Companies",
+    "Cooperative Institutions",
+    "Self-Help Groups (SHGs)",
+    "Sakhi Mandals",
+    "Individuals with Diploma in Agriculture",
+    "Individuals with Graduate in Agriculture",
+    "Individuals with Postgraduate in Agriculture",
+    "Individuals with Bachelor of Rural Studies (B.R.S.)"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Assistance is available only once in a lifetime for eligible applicants."
+  ],
+  "benefits_summary": "Provides up to 75% (maximum ₹7.5 lakh) financial assistance for agro service providers, with higher assistance (up to 85% / ₹8.5 lakh) for tribal areas.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Incentive To Girls",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Rajasthan.",
+    "Must be enrolled in a school, college or university recognized by the state government.",
+    "Must be a girl student pursuing senior secondary (agriculture subjects in 11th/12th), agricultural graduate education, postgraduate agriculture, or a PhD in agriculture.",
+    "Must not have failed in the last year.",
+    "Incentive is not payable if the student leaves the institution in the middle of the class session."
+  ],
+  "benefits_summary": "Provides financial assistance ranging from ₹15,000 to ₹40,000 per annum depending on the level of agricultural education (senior secondary, graduate, postgraduate, or PhD).",
+  "documents_required": [],
+  "application_link": null
+}

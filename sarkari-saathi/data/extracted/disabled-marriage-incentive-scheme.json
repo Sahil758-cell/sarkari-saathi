@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Disabled Marriage Incentive Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "At least one partner in the couple must be a native of Chhattisgarh.",
+    "Applicant must have a disability of 40% or above as per the Persons with Disabilities Act, 1995.",
+    "Marriage must be conducted according to social customs or legally solemnized by a competent court.",
+    "Applicant must not be an income taxpayer.",
+    "Application must be submitted within six months of the marriage.",
+    "The incentive amount is payable only once in a lifetime.",
+    "If the marriage is dissolved without a valid reason within five years, the incentive amount will be recovered as land revenue."
+  ],
+  "benefits_summary": "Provides a lump‑sum incentive of ₹1,00,000 for a couple with one disabled partner, or ₹50,000 if both partners are disabled.",
+  "documents_required": [
+    "Prescribed application form with joint signature/thumb impression"
+  ],
+  "application_link": null
+}

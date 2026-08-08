@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Post-Matric Scholarship To VJNT Students - Maharashtra",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the VJNT category",
+    "Applicant must be a resident of Maharashtra",
+    "Applicant must be pursuing a post‑matric course approved by the government",
+    "Minimum 75 % attendance required each year",
+    "Applicants must be selected through CAP round for professional courses",
+    "Only up to two children per parent are eligible; any number of girl applicants are allowed and boys are limited to two per parent",
+    "Scholarship continues only while the student remains in the same course; changing from professional to non‑professional or vice‑versa forfeits further benefits",
+    "Benefits are paid only after promotion to the next higher class; if the student fails, benefits for that year are withheld until promotion",
+    "Renewal requires passing the previous year’s examination; repeated failures mean the student must bear his/her own expenses",
+    "Medical proof may be accepted for exemption from an exam"
+  ],
+  "benefits_summary": "Provides 100 % tuition, exam fees and a monthly maintenance allowance (hosteller and day‑scholar rates vary by course group) to eligible VJNT students.",
+  "documents_required": [],
+  "application_link": "https://mahadbt.maharashtra.gov.in/RegistrationLogin/RegistrationLogin"
+}

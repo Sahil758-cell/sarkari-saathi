@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Work Force Welfare Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprises must be micro, small or medium enterprises (MSMEs) in the powerloom sector",
+    "Production must have started between 01‑01‑2022 and 31‑12‑2024",
+    "A four‑party agreement with the Directorate of Textiles, a financial institution and Tantuja must be executed",
+    "Units can be private, cooperative, joint‑sector, or owned/managed by the State Government and Industrial SHGs",
+    "The project must be supported by a detailed feasibility report",
+    "The project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution",
+    "At least 50 % of the employees must be recruited from persons registered with the State Employment Bank"
+  ],
+  "benefits_summary": "Provides 100 % reimbursement of ESI and EPF contributions in the first year and 75 % thereafter, for a duration of 5–9 years depending on the zone.",
+  "documents_required": [
+    "Form‑A2"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Grant for Sports Associations",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a recognized state sports association registered under the Jharkhand State Registration Department.",
+    "Must be affiliated with the Jharkhand Olympic Association and the relevant National Sports Federation.",
+    "Must have district-level units functioning in at least 18 districts of the state (or at least 15 districts for sports other than Olympics/Asian/Commonwealth Games).",
+    "Para‑sports associations and those related to Olympic, Asian Games, or Commonwealth Games are eligible.",
+    "Associations receiving central government grants for the same project cannot apply for state grants.",
+    "Must have a functional independent website.",
+    "Must have a PAN card and a nationalized bank account.",
+    "Must submit the audit report of the last three years."
+  ],
+  "benefits_summary": "Provides financial grants to recognized state‑level sports associations for organizing competitions, training camps, and administrative support.",
+  "documents_required": [
+    "audit reports",
+    "PAN card",
+    "bank account details"
+  ],
+  "application_link": null
+}

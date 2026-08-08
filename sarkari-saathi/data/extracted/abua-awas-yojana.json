@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Abua Awas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Family should not have benefited from existing housing schemes like PMAY-R, Indira Awas Yojana, or Birsa Awas Yojana.",
+    "Families living in kutcha houses or without permanent housing are eligible.",
+    "Eligibility category noted in source: PVTG",
+    "Eligibility category noted in source: victims of natural calamities",
+    "Eligibility category noted in source: released bonded laborers"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,00,000 per beneficiary for house construction and up to 95 days of unskilled labour wages under MGNREGA.",
+  "documents_required": [],
+  "application_link": null
+}

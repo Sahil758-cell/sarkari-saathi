@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Merit cum Means Scholarship: Polytechnic Institutions",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "A student cannot receive more than one scholarship simultaneously without special government approval.",
+    "If the institution grants a fee concession, the student may continue receiving the scholarship.",
+    "Vacant scholarships may be re‑allocated to eligible candidates from the merit list.",
+    "Only students who passed the qualifying examination from any testing body of Chhattisgarh are eligible, except children of permanent government employees of Chhattisgarh on deputation to the Government of India or other state governments.",
+    "Students in full‑time employment are not eligible.",
+    "A student regularly studying in a recognized institution and receiving any scholarship may be allowed to do part‑time work (one concession).",
+    "Special scholarships may be provided in special cases based on poverty and merit, subject to budget limits."
+  ],
+  "benefits_summary": "Scholarship of ₹600 per month.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

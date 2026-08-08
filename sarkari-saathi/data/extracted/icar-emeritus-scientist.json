@@ -1,0 +1,33 @@
+{
+  "scheme_name": "ICAR Emeritus Scientist",
+  "occupation": [
+    "Scientist",
+    "Teacher"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an outstanding superannuated teacher or scientist with a minimum of 5 years of teaching/research experience.",
+    "Must be at the level of Principal Scientist/Professor or equivalent.",
+    "Must be retired or set to retire within the next 12 months.",
+    "Maximum age for application is 65 years; can work up to age 70 or for three years, whichever is earlier.",
+    "Must have at least 5 refereed research papers in the last five years, or have received a national/international award, or for teachers, have national/university teaching excellence awards or appreciation letter.",
+    "Project proposal must be of national importance and no regular scientist of equal competence is available in the institute.",
+    "Must work under the executive authority where the proposal is submitted and attach to an agricultural university or ICAR institute.",
+    "Must not hold any other regular or part‑time remunerative job during the tenure.",
+    "Must not receive financial assistance for the same work from any other source while receiving Council assistance."
+  ],
+  "benefits_summary": "Recipients receive an honorarium of Rs. 50,000 per month plus a contingent grant of Rs. 2,00,000 per annum and allowances for research support.",
+  "documents_required": [
+    "Prescribed application proforma (15 copies) submitted to the Deputy Director General (Education), ICAR",
+    "Recommendation/justification from the executive authority where the work will be carried out"
+  ],
+  "application_link": null
+}

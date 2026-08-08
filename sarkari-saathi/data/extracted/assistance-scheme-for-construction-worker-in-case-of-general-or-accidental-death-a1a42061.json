@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Assistance Scheme For Construction Worker In Case Of General Or Accidental Death Or Injury",
+  "occupation": [
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "No assistance shall be payable in the event of death or injury caused by suicide, consumption of drugs or substances, or assault in contravention of law for the purpose of committing an offence.",
+    "Applicant must be registered as a Construction Worker under labor laws/with the Construction Workers Welfare Board in Rajasthan."
+  ],
+  "benefits_summary": "Provides up to Rs 5 lakhs for accidental death, up to Rs 3 lakhs for permanent total disability, and additional amounts for partial disability and injuries.",
+  "documents_required": [
+    "Affidavit"
+  ],
+  "application_link": null
+}

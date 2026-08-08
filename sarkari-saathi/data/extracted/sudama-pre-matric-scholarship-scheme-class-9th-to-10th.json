@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Sudama Pre-Matric Scholarship Scheme (Class 9th to 10th)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in Class 9 or Class 10",
+    "Student must be enrolled in a government school",
+    "Student must have passed the previous year's class"
+  ],
+  "benefits_summary": "Girl students receive a scholarship of ₹400 per year, while boy students receive ₹300 per year.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

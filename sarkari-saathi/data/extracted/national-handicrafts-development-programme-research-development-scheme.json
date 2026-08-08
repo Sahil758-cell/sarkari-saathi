@@ -1,0 +1,25 @@
+{
+  "scheme_name": "National Handicrafts Development Programme: Research & Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a public body or institution with a distinct legal entity (e.g., autonomous organization, society registered under the Societies Registration Act 1860, trust under the Indian Trusts Act 1882, producer company, Section‑8 company, non‑government organisation, educational or other institution, urban or rural local self‑government institution, export promotion council, Central Cottage Industries Emporium, National Crafts Museum & Hastkala Academy, or any state/central government agency).",
+    "No financial assistance should have been received from any other source for the same purpose.",
+    "The organization must understand the scheme provisions and take responsibility for successful completion of the project within the sanctioned duration.",
+    "All necessary infrastructure must be available with the organization to conduct the program.",
+    "There must be no duplication of efforts with existing schemes of the ministries.",
+    "No utilization certificate (UC) is pending in any scheme of the Handicrafts Division.",
+    "The organization must be registered with the Public Finance Management System (PFMS) and adhere to the guidelines of the Department of Expenditure."
+  ],
+  "benefits_summary": "Eligible organizations receive 100% grant‑in‑aid financial assistance, disbursed in two installments (75% advance and 25% reimbursement) for surveys, studies, and workshops.",
+  "documents_required": [],
+  "application_link": null
+}

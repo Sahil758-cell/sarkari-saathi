@@ -1,0 +1,23 @@
+{
+  "scheme_name": "World War II Pension",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Applicant must be an ex‑serviceman who served during World War II (1 September 1939 to 15 August 1945) or his widow",
+    "Applicant must not be receiving any pension or financial assistance from any other source"
+  ],
+  "benefits_summary": "Lifelong pension of ₹15,000 per month deposited directly into the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

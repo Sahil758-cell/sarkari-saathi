@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Maternity Benefit Scheme - Telangana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered woman worker under the Telangana Building & Other Construction Workers Welfare Board",
+    "If applying as a wife or daughter, the related construction worker must be registered under the same board",
+    "The worker must have been registered for at least 12 months before the date of delivery",
+    "Assistance can be received only twice (up to two deliveries or two daughters)",
+    "If both parents are registered workers, only one parent is eligible for the scheme amount",
+    "Applications must be submitted within one year from the date of delivery"
+  ],
+  "benefits_summary": "Provides up to ₹30,000 per delivery (₹10,000 at the 7th month of pregnancy and ₹20,000 after delivery)",
+  "documents_required": [],
+  "application_link": null
+}

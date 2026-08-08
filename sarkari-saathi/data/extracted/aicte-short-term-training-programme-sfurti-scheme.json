@@ -1,0 +1,26 @@
+{
+  "scheme_name": "AICTE SHORT TERM TRAINING PROGRAMME-SFURTI SCHEME",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be AICTE approved."
+  ],
+  "benefits_summary": "Provides up to ₹4,00,000 financial assistance to AICTE‑approved institutions for conducting short‑term training programmes.",
+  "documents_required": [
+    "utilization certificate",
+    "detailed expenditure statement",
+    "feedback form",
+    "copy of proceedings",
+    "completion report",
+    "Mandate Form"
+  ],
+  "application_link": "http://portal.aicte-india.org/partnerportal_enu/start.swe"
+}

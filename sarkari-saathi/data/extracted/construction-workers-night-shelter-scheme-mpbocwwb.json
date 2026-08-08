@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Construction Workers Night Shelter Scheme (MPBOCWWB)",
+  "occupation": [
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Madhya Pradesh",
+    "Must have engaged in any building or other construction work for at least 90 days during the preceding 12 months",
+    "Registration must be renewed annually",
+    "Construction worker and family members must possess valid identity cards",
+    "Construction worker and family members must have temporarily relocated from other places for work"
+  ],
+  "benefits_summary": "Provides night shelters for construction workers and their families.",
+  "documents_required": [
+    "Valid identity cards",
+    "Passport-sized photograph",
+    "Other mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

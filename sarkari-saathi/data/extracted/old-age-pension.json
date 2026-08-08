@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Old Age Pension",
+  "occupation": null,
+  "gender": null,
+  "age_min": 55,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have any relation capable of providing financial support (Son, Grand Son, Husband, Wife, Unmarried daughter, Parents)",
+    "Applicant must not be a recipient of any other Government pension",
+    "Applicant must have been residing in West Bengal for at least ten years on the date of application (the state may relax this condition in cases of undue hardship)"
+  ],
+  "benefits_summary": "₹1,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Tool Kit Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker",
+    "Unorganised Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered member under the Building and Other Construction Workers Welfare Board of Punjab and pay contributions regularly",
+    "Must not be a member of any other Welfare Fund established under any law",
+    "Must not have membership of the Employees' Provident Fund (EPF), National Pension System (NPS) or Employees' State Insurance Corporation (ESIC)",
+    "Must not be an income tax payer",
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must have received training under the “Skill Upgradation” or “Recognition of Prior Learning” scheme of the Board",
+    "Purchased tools must be relevant to the applicant's profession"
+  ],
+  "benefits_summary": "Up to ₹5,000 reimbursement for tool purchase, available once every three years.",
+  "documents_required": [
+    "Application Form No 28"
+  ],
+  "application_link": null
+}

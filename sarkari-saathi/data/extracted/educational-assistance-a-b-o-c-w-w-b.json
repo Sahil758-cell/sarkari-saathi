@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Educational Assistance (A.B.O.C.W.W.B)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant’s parent must be engaged in building and other construction work",
+    "The applicant’s parent must be registered with the Assam Building and Other Construction Workers Welfare Board",
+    "The applicant’s parent must have an active membership with the Board",
+    "The student must be a permanent resident of Assam",
+    "The student must be enrolled in educational programmes from Class I up to postgraduate or higher studies"
+  ],
+  "benefits_summary": "Provides annual scholarships ranging from ₹1,500 to ₹20,000 based on the student's education level, and covers all expenses for higher studies in government institutions.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

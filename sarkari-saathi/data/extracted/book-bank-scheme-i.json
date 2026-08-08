@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Book Bank Scheme: I",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a resident of Tamil Nadu",
+    "Beneficiary must be a student",
+    "Beneficiary must belong to the Adi Dravidar or Tribal communities",
+    "Beneficiary must be receiving any scholarship from the Government of India",
+    "Beneficiary must be enrolled in specified professional courses",
+    "Beneficiary must return the books after completing the course"
+  ],
+  "benefits_summary": "Students receive free textbooks for the entire duration of their professional courses.",
+  "documents_required": [],
+  "application_link": null
+}

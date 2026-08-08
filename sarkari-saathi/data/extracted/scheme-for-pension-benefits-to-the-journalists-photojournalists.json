@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme for Pension Benefits to the Journalists/Photojournalists",
+  "occupation": [
+    "journalist",
+    "photojournalist"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have retired from the job as an accredited journalist or photojournalist in Tripura.",
+    "Must have completed at least 10 years of service in Tripura.",
+    "Must not have received a pension from any other source, except under the Employees Provident Fund (EPF).",
+    "Beneficiary must be 60 years or older to receive the pension."
+  ],
+  "benefits_summary": "Pension of ₹10,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

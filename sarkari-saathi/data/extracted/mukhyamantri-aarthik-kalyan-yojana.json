@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Aarthik Kalyan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must not be a defaulter or insolvent of any nationalized bank, financial institution, or cooperative bank.",
+    "The applicant must not be receiving assistance under any other government entrepreneur or self‑employment scheme.",
+    "The applicant is eligible for assistance under this scheme only once.",
+    "The enterprise must be established within the limits of Madhya Pradesh.",
+    "The scheme is intended for the industry or service business sector."
+  ],
+  "benefits_summary": "Provides margin money assistance up to ₹15,000 (50% of project cost, with a maximum project cost of ₹50,000), a 6‑month moratorium, and loan repayment over 5 years.",
+  "documents_required": [],
+  "application_link": null
+}

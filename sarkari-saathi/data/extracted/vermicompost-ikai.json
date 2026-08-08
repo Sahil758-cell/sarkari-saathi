@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Vermicompost Ikai",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Cultivate horticultural crops on at least 0.4 hectares of own land",
+    "Must have livestock, water, and fossils available"
+  ],
+  "benefits_summary": "Subsidy covering 50% of installation cost up to ₹50,000 for RCC vermicomposting units and up to ₹8,000 for HDPE units.",
+  "documents_required": [
+    "Bhamashah ID or Janaadhaar ID",
+    "Bank Details",
+    "Disability Details",
+    "Verification Details",
+    "Upload Documents",
+    "Pensioner Details"
+  ],
+  "application_link": null
+}

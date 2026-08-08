@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Lakshadweep Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Lakshadweep"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both parents and the student must be born in Lakshadweep or have at least one parent from Lakshadweep.",
+    "The student and the Islander parent must reside in Lakshadweep.",
+    "Scholars cannot receive any other scholarships; they must surrender any awards and repay any received funds.",
+    "Retention of institutional or administrative concessions is allowed.",
+    "Eligible courses include Arts, Science, Engineering, Medicine, Agriculture, Law, Commerce, and related professional degrees in recognized Indian institutions.",
+    "Educational concessions on the mainland are allowed only for courses not available in Lakshadweep.",
+    "Stipends may be granted or renewed for health reasons or disability."
+  ],
+  "benefits_summary": "Provides monthly scholarships and lump‑sum grants ranging from ₹600 to ₹3,000 per month depending on the course level, and up to ₹9,000 lump sum for postgraduate and research studies.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

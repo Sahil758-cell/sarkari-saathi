@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Prime Minister Early Career Research Grant",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 42,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen; OCI/PIO candidates are eligible as Principal Investigator only when collaborating with an Indian Co‑PI.",
+    "Applicant must hold a Ph.D. in Science or Engineering or an MD/MS/MDS/MVSc degree.",
+    "Applicant must be in a regular academic/research position at a recognized academic institution, national laboratory, or other recognized R&D institution.",
+    "Applicant must apply within two years of joining the institution.",
+    "Applicant must not have received funding under YSS, ECR, SRG, CRG (erstwhile EMR), EMEQ, or any other project grant from SERB or ANRF.",
+    "Only one proposal can be submitted per call and only a one‑time career grant is provided; the project cannot be extended or transferred except in specified institutional transfers.",
+    "If the Principal Investigator wishes to terminate the project, immediate notice must be given to ANRF and the institute must cease all related expenditures."
+  ],
+  "benefits_summary": "Research grant of up to ₹60 lakh plus overheads for three years, covering personnel, consumables, travel, equipment, contingency, and providing flexibility for international travel, open‑access publications and patent filing.",
+  "documents_required": [
+    "Technical Document (single PDF file, ≤10 MB)"
+  ],
+  "application_link": "https://www.anrfonline.in"
+}

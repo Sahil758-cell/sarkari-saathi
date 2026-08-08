@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Internship Programme Of The Department Of Expenditure",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Indian national pursuing post‑graduation research courses in Economics, Finance or Management",
+    "Students in the 4th or 5th year of a 5‑year integrated law or other professional course",
+    "Post‑graduate students must have obtained a first‑class graduate degree",
+    "Research scholars must have at least 50 % marks in post‑graduation",
+    "Students in the 5th year of the integrated law course must have at least 80 % marks in 12th class examination",
+    "Interns must furnish a declaration of secrecy before reporting"
+  ],
+  "benefits_summary": "Interns receive a token remuneration of ₹10,000 per month and a certificate upon satisfactory completion of the internship.",
+  "documents_required": [
+    "Declaration of secrecy",
+    "Curriculum Vitae (CV)",
+    "Application proforma"
+  ],
+  "application_link": null
+}

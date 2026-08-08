@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Diwali Gift Benefit Scheme (PBAOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The construction worker must have been registered with the Puducherry Building and Other Construction Workers Welfare Board for at least six months.",
+    "The beneficiary must be contributing to the Board's Fund."
+  ],
+  "benefits_summary": "₹2,000 credited as Direct Benefit Transfer to the registered construction worker’s bank account.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

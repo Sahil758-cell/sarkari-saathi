@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Kisan Vikas Patra Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a resident of India",
+    "A parent or guardian may invest on behalf of a minor or a person of unsound mind",
+    "The minor investor must be at least 10 years old",
+    "Minimum deposit is ₹1000 and subsequent deposits must be in multiples of ₹100",
+    "There is no maximum limit on the amount that can be deposited",
+    "An individual may open any number of accounts",
+    "Joint accounts can be opened by up to three adults"
+  ],
+  "benefits_summary": "The investment amount doubles on maturity, offering a 7.5% annual compounded interest.",
+  "documents_required": [],
+  "application_link": null
+}

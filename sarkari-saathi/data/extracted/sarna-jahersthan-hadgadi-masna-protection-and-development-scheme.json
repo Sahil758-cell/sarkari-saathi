@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Sarna /Jahersthan/Hadgadi & Masna Protection and Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The site must be an officially recorded Sarna, Jahersthan, Hadgadi, or Masna location",
+    "The site should be under tribal community usage and have cultural significance",
+    "The beneficiary community must form a designated committee consisting of tribal members only",
+    "Gram Sabha selection and approval are mandatory for project initiation",
+    "The site must be registered under Revenue, Registration & Land Reforms Department records"
+  ],
+  "benefits_summary": "Provides fencing, infrastructure development, beautification, solar lighting, and up to INR 5 crore per unit to preserve sacred tribal sites",
+  "documents_required": [],
+  "application_link": null
+}

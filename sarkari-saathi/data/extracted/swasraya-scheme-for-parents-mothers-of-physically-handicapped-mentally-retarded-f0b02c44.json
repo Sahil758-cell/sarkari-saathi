@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Swasraya Scheme For Parents/Mothers Of Physically Handicapped/Mentally Retarded Persons",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Single or unwed mothers, wives abandoned by husbands, legally divorced women, and separated women are eligible",
+    "Close female relatives acting as caretakers of severely disabled or mentally challenged patients can also apply",
+    "Applicants must have children with 70% or more disability or mental retardation",
+    "Beneficiaries of the Aswasakiranam Scheme are also eligible",
+    "Mothers of severely disabled or mentally challenged bedridden patients will be given priority"
+  ],
+  "benefits_summary": "A one‑time financial assistance of ₹35,000 is provided to eligible women of BPL families to support self‑employment.",
+  "documents_required": [],
+  "application_link": null
+}

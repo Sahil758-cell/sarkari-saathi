@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for General Category (HRT-2)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Tools/equipment must be purchased from an authorised dealer of the empanelled manufacturer as notified by the Department of Agriculture",
+    "Companies empanelled for tarpaulin seats must follow the Department’s regulations",
+    "Companies empanelled for plastic crates must follow the Department’s regulations",
+    "Eligibility category noted in source: General Category"
+  ],
+  "benefits_summary": "Provides up to 75% assistance (maximum ₹3,750) for individual General Category farmers and up to 90% assistance (maximum ₹7,50,000) for farmer groups/cooperative societies for tools, equipment or PHM equipment.",
+  "documents_required": [
+    "Caste certificate",
+    "Signed copy of application print"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

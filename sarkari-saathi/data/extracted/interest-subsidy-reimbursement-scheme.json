@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Interest Subsidy Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Startup must be certified by the Start‑up Promotion Cell (SPC) and possess a valid start‑up certificate number",
+    "Expenditure must be incurred after the notification of Goa Start‑up Policy 2017 and within the policy’s validity period",
+    "Expenditure must be paid digitally; if digital payment is not possible, SPC may approve based on its due diligence",
+    "Application must be made within six months of incurring the relevant expenditure"
+  ],
+  "benefits_summary": "Grants 30% of loan interest up to ₹5 lakh per annum for up to two years for up to three recommended startups, and 10% up to ₹2 lakh per annum for two years for other startups.",
+  "documents_required": [
+    "Start‑up certificate (valid certificate number)"
+  ],
+  "application_link": null
+}

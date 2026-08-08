@@ -1,0 +1,26 @@
+{
+  "scheme_name": "SEBI ITD Internship Program",
+  "occupation": [
+    "student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student pursuing a full‑time MBA/MCA or equivalent two‑year degree or diploma from an eligible institute",
+    "Must hold a full‑time graduate degree in engineering or a BCA degree",
+    "Must have a strong aptitude for computer programming and data analytics",
+    "Must have a minimum 60% aggregate marks at graduate level or equivalent CGPA",
+    "Must be an Indian citizen",
+    "A basic understanding of financial markets is desirable but not mandatory"
+  ],
+  "benefits_summary": "Interns receive a stipend of ₹25,000 (3 days/week) or ₹30,000 (4 days/week), along with paid leaves, accommodation for out‑station candidates, a completion certificate, and additional perks such as public holidays and lunch at the SEBI office.",
+  "documents_required": [],
+  "application_link": null
+}

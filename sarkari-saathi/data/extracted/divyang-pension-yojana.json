@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Divyang Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Minimum disability of 40 percent is required.",
+    "Applicant must not be receiving any other pension or grant such as old age pension, widow pension, socialist pension, or any similar scheme.",
+    "Applicant must not be receiving free maintenance in government institutions or homes.",
+    "Annual income of the applicant or family must be within the defined poverty line (₹46,080 per year in rural areas or ₹56,460 per year in urban areas)."
+  ],
+  "benefits_summary": "Provides a monthly grant of Rs. 1,000 to each eligible disabled beneficiary.",
+  "documents_required": [
+    "Photograph",
+    "Age Certificate",
+    "Disability Certificate"
+  ],
+  "application_link": null
+}

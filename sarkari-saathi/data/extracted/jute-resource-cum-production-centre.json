@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Jute Resource-Cum-Production Centre",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Agency and its functionaries must be bonafide Indian agencies and Indian citizens.",
+    "Applicants may include registered jute entrepreneurs/manufacturers, exporters, merchant traders, NGOs, cooperative societies, federations, PSUs/organizations of central or state government, and other firms engaged in product identification, bulk production, skill training and marketing of Jute Diversified Products for at least the last three years.",
+    "Recognized agencies should have at least three years of experience in training, promotion and development of women self‑help groups in jute product production and marketing.",
+    "The collaborating agency must have its own office of at least 250 sq ft with telephone/mobile connection, computer/laptop and email facilities, and at least 500 sq ft space for setting up the JRCPC."
+  ],
+  "benefits_summary": "Provides training, design, production, raw material and market support to artisans and women self‑help groups to set up Jute Diversified Product units, creating employment and promoting eco‑friendly jute alternatives.",
+  "documents_required": [
+    "Ownership document (MoU/AoA of Companies/Registered Deed of Partnership/Registration of Societies or Trade License) and Aadhaar Card / Address Proof of the authorized representative of the agency",
+    "Income Tax Return for last financial year along with PAN number",
+    "Details of PAN, GST returns for the last 3 financial years",
+    "Annual Reports for last three financial years",
+    "Audited financial statements for last three years",
+    "Any other documents establishing the credential of the agency",
+    "Other supporting documents (Project experience certificates etc.)",
+    "Recommendation from District Magistrate/District Collector/DIC/NABARD/DRDA/BDO",
+    "Details of experience in trainings, designing/product development, production and marketing of JDP sector including awards and creativity",
+    "Proof of experience and handling relevant activities",
+    "Concept/Approach note highlighting the need for quality training and development of JDP sector",
+    "Undertaking from the agency that the JRCPC will be operated for at least one year"
+  ],
+  "application_link": null
+}

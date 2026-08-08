@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Deendayal Antyodaya Yojana - National Rural Livelihoods Mission",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Self Help Groups (SHGs) must have been active for at least the last 6 months as per their books of account.",
+    "SHGs must practice the ‘Panchasutras’: regular meetings, regular savings, regular inter‑loaning, timely repayment, and maintain up‑to‑date books of accounts.",
+    "SHGs must be qualified as per grading norms fixed by NABARD.",
+    "Defunct SHGs can be eligible if revived and remain active for a minimum of 3 months.",
+    "Grading of federated SHGs may be performed by the federations to support banks."
+  ],
+  "benefits_summary": "Creates bank‑linked Self Help Groups for rural poor households, especially women, providing financial inclusion, livelihood support, and institutional capacity building.",
+  "documents_required": [],
+  "application_link": "https://aajeevika.gov.in/en/member/register"
+}

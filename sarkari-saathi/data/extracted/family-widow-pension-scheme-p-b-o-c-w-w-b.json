@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Family/ Widow Pension Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker (Unorganised Worker)"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Punjab",
+    "Applicant must be a Building/Construction Worker (unorganised sector)",
+    "Applicant must have worked at least 90 days in a year in building and construction work",
+    "Applicant's monthly income must be ₹15,000 or below",
+    "Applicant must not be a member of any other welfare fund established under any law",
+    "Applicant must not be a member of EPF, NPS, or ESIC",
+    "Applicant must not be an income tax payer",
+    "Applicant must be the spouse of a deceased registered construction worker under the Board",
+    "The deceased worker must have completed at least one year of membership with the Board"
+  ],
+  "benefits_summary": "A family pension of ₹1,000 per month is provided to the surviving spouse until remarriage or until the spouse becomes eligible for their own pension.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,36 @@
+{
+  "scheme_name": "House Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have availed any such subsidy earlier",
+    "Applicant must have a bonafide Himachali certificate of the couple",
+    "Applicant must possess a valid Scheduled Caste/Other Backward Classes/Minority Community/Single Women or Handicapped certificate",
+    "Applicant must provide income and revenue papers (Record of Right – Parcha & Tatima)",
+    "Applicant must obtain a recommendation from the concerned Gram Panchayat"
+  ],
+  "benefits_summary": "Provides a subsidy of Rs. 1,30,000 for the construction of a house to eligible marginalized sections.",
+  "documents_required": [
+    "Bonafied Himachali Certificate of the couple",
+    "Scheduled Caste/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate",
+    "Income Certificate",
+    "Revenue Papers (Record of Right – Parcha & Tatima)",
+    "Recommendation from the concerned Gram Panchayat",
+    "Certificate stating that the applicant has not availed any such subsidy earlier",
+    "Latest photographs of the present house"
+  ],
+  "application_link": null
+}

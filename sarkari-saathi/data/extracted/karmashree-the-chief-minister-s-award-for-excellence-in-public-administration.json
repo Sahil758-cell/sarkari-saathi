@@ -1,0 +1,31 @@
+{
+  "scheme_name": "KARMASHREE- The Chief Minister's Award For Excellence In Public Administration",
+  "occupation": [
+    "Officer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Group size limited to a maximum of 4 officers including the applicant",
+    "Nomination for the Priority Programme award must be from a district or implementing unit",
+    "Nomination for the Innovation award must be from a department/organization of the State Government or a district",
+    "Selection based on innovativeness, sustainability, scalability, impact on service delivery, improvement in efficiency and effectiveness, social or economic benefits, improved transparency and objectivity, and any other criteria decided by the Screening and Selection Committees"
+  ],
+  "benefits_summary": "The award consists of a citation and recognises extraordinary, exemplary and innovative work of State Government officers.",
+  "documents_required": [
+    "Recommendation letter from the competent authority",
+    "Completed application form",
+    "Legend for abbreviations/acronyms used in the application",
+    "Supporting documents (PDFs, JPG images, video clips)"
+  ],
+  "application_link": "http://webservers.amtron.in/karmaShree"
+}

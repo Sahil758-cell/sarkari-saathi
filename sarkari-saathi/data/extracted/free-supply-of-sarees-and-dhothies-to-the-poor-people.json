@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Free Supply of Sarees and Dhothies to the Poor People",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Pondicherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native of the Union Territory of Pondicherry by birth or have continuous residence for at least 5 years",
+    "Benefits are provided to holders of red ration cards who have registered with the area Anganwadi"
+  ],
+  "benefits_summary": "Two sarees, blouse pieces, lungis, and towels are provided once a year.",
+  "documents_required": [],
+  "application_link": null
+}

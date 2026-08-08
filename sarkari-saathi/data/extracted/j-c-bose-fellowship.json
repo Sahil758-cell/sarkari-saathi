@@ -1,0 +1,24 @@
+{
+  "scheme_name": "J.C. Bose Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 68,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Active scientist with a record of outstanding performance evident from the award of the S.S. Bhatnagar prize and/or fellowship of science academies (including engineering, agriculture, and medicine).",
+    "Must be in service at the time of nomination.",
+    "Must be an Indian national working in institutions/universities in India.",
+    "Must not be receiving any other fellowship or research grant from government sources."
+  ],
+  "benefits_summary": "Monthly fellowship of ₹25,000 plus a research grant of ₹15 lakhs per annum and an overhead of ₹1 lakh per annum for the host institute.",
+  "documents_required": [
+    "Research contribution PDF (last 5 years) – max 10 MB"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Family Pension (MBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The surviving spouse of the deceased pensioner is eligible",
+    "The deceased worker must have been receiving a pension from the Meghalaya Building & Other Construction Workers Welfare Board",
+    "The spouse must not be receiving any pension from any Government, Semi‑Government or Private organization",
+    "The spouse must not be receiving any salary from any Government, Semi‑Government or Private organization"
+  ],
+  "benefits_summary": "A family pension of 50% of the deceased’s pension or ₹100, whichever is higher, is paid to the surviving spouse.",
+  "documents_required": [],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

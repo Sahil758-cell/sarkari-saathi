@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Educational Assistance (ANBOCWWB)",
+  "occupation": [
+    "building & other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman & Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Andaman & Nicobar Islands",
+    "Applicant must be engaged in any building and other construction work",
+    "Applicant must be registered under the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board",
+    "Applicant must have an active membership of the Board",
+    "The son or daughter must be enrolled in any grade from Class I to Post Graduate Level/Professional Course"
+  ],
+  "benefits_summary": "Provides a monthly educational allowance ranging from ₹300 to ₹2,000 depending on the child’s class or course of study.",
+  "documents_required": [],
+  "application_link": "https://serviceonline.gov.in/login.do"
+}

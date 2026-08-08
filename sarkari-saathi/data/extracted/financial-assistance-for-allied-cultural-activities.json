@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance For Allied Cultural Activities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Organization must be a not‑for‑profit entity (registered as a society under the Registration of Societies Act, a trust or a not‑for‑profit company) that has been in existence for at least three years",
+    "The organization must have been engaged for at least the past three years in presenting allied cultural spectacles on a regular basis and during festivals",
+    "A recommendation letter in the prescribed format must be obtained from the District Authority (District Magistrate/District Collector/Deputy Commissioner) or the relevant State/Union Territory authority",
+    "The organization must register on the NGO Darpan portal (https://ngodarpan.gov.in) and obtain a Unique ID before applying"
+  ],
+  "benefits_summary": "Up to ₹100 lakh for audio‑only equipment or ₹150 lakh for audio‑video equipment, covering up to 90 % of the project cost plus taxes and five years of operation & maintenance expenses.",
+  "documents_required": [
+    "Recommendation letter from District Authority or State/UT authority in prescribed format",
+    "Completed application proforma (prescribed form)",
+    "Checklist of required documents",
+    "Proof of registration as a society, trust or not‑for‑profit company",
+    "NGO Darpan portal Unique ID certificate"
+  ],
+  "application_link": "http://nscd.gov.in"
+}

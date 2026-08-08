@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Jharkhand International Migrant Workers Grant Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 72000,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a dependent of the deceased worker (spouse, child, parent or legal heir).",
+    "Deceased worker must be a Jharkhand resident and an Indian citizen.",
+    "Death must be certified by the Ministry of External Affairs, Government of India.",
+    "Scheme covers deaths due to accidents, violence, natural causes, animal attacks, road accidents, terrorism, nuclear radiation, and war."
+  ],
+  "benefits_summary": "Financial assistance of ₹5,00,000 to dependents of deceased workers.",
+  "documents_required": [],
+  "application_link": null
+}

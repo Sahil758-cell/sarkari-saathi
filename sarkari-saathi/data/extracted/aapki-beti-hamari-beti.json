@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Aapki Beti Hamari Beti",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parents must be residents of Haryana or have Haryana domicile, with at least one parent and the girl child residing in Haryana",
+    "The girl child must be registered at the nearest Anganwadi Centre or Health Department at birth",
+    "The birth of the girl child must be registered and the child must have an Aadhaar number (parents' Aadhaar also acceptable at enrollment)",
+    "Immunization records must be attached with the application form",
+    "Beneficiary must be unmarried when she turns 18 to encash the membership certificate",
+    "Any change of address must be reported to the Women and Child Development Project Officer/District Programme Officer and Civil Surgeon concerned",
+    "If the beneficiary dies before turning 18, enrollment is cancelled and the invested funds are reclaimed"
+  ],
+  "benefits_summary": "Each eligible girl child receives a one‑time grant of ₹21,000 (or annual grants for certain cases) invested with LIC and payable when she turns 18, provided she remains unmarried.",
+  "documents_required": [
+    "Self‑attested copy of the birth certificate",
+    "Immunization card of the beneficiary",
+    "Aadhaar number of the child or of the parents"
+  ],
+  "application_link": null
+}

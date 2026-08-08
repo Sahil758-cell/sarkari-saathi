@@ -1,0 +1,27 @@
+{
+  "scheme_name": "State Post-metric Scholarship For Disabled",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a permanent resident (domicile) of the state of Maharashtra",
+    "Applicant must be enrolled in a school/college recognized by the Government of Maharashtra",
+    "Applicant must be a Person with Disability (e.g., visually handicapped, low vision, hearing impaired, orthopedically handicapped, etc.) with disability percentage of 40% or above",
+    "Applicant must have passed the 10th standard examination",
+    "Applicant must not have failed in the last qualifying examination",
+    "Applicant must be pursuing a post‑metric qualification such as Higher Secondary (Class 11th/12th) or a technical/professional degree in fields like medical, engineering, etc."
+  ],
+  "benefits_summary": "Provides monthly scholarship allowances for hostellers and day scholars across various academic groups, along with reader allowances, tuition fee support, study‑tour and project‑typing expenses.",
+  "documents_required": [],
+  "application_link": "Step 1: Request a hard copy of the format of the application form for the scheme from the concerned authority at your school/college. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self-attested) mandatory documents. Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority at your school/college. Step 4: Acquire the receipt/acknowledgment of the successful submission of the application form from the concerned authority at your school/college."
+}

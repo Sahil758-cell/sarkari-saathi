@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Feed And Fodder Entrepreneurship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have obtained training or have trained experts or have sufficient experience in the relevant field for managing and running the project.",
+    "Must have a sanctioned loan for the project by a bank or financial institution, or provide a bank guarantee from a scheduled bank with project appraisal.",
+    "Must own or lease land where the project will be established.",
+    "Must possess all relevant KYC documents."
+  ],
+  "benefits_summary": "Provides up to 50% direct capital subsidy and 100% subsidy on fodder seed production, together with assistance for procuring machinery such as bailers, block making machines, TMR equipment, and forage harvesters.",
+  "documents_required": [
+    "KYC documents"
+  ],
+  "application_link": "https://nlm.udyamimitra.in/"
+}

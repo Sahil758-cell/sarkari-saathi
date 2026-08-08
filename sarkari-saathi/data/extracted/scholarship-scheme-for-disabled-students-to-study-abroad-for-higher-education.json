@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scholarship Scheme For Disabled Students To Study Abroad For Higher Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": 96000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of at least 40%",
+    "Applicant's name must be registered on the Sparsh portal",
+    "Only one child per family is eligible, and only once",
+    "Eligibility for postgraduate degree requires first class or 60% marks (or equivalent) in the bachelor's degree",
+    "Eligibility for research degree (PhD) requires first class or 60% marks in the relevant postgraduate examination plus either two years of teaching/research/professional experience in the relevant field or an M.Phil degree",
+    "Eligibility for studies after the research degree requires first class or 60% marks (or equivalent) in the relevant postgraduate examination and a research degree (PhD) with relevant experience"
+  ],
+  "benefits_summary": "Scholarship for higher education abroad",
+  "documents_required": [],
+  "application_link": null
+}

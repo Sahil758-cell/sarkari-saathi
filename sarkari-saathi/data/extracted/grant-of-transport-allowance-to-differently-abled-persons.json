@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Grant of Transport Allowance to Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have orthopaedic disability of 40% or above",
+    "Applicant must not be receiving any other financial assistance for conveyance purpose",
+    "Applicant must not have any formal education qualification",
+    "Applicant must surrender any free bus pass to the Directorate of Social Welfare",
+    "Applicant must be a native/resident of Puducherry for at least 5 years"
+  ],
+  "benefits_summary": "₹300 per month transport allowance paid through Anganwadi Centres.",
+  "documents_required": [
+    "Hard copy of the prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

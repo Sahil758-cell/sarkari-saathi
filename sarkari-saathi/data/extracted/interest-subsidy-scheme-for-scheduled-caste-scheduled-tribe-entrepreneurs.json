@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Interest Subsidy Scheme for Scheduled Caste/Scheduled Tribe Entrepreneurs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The business unit must be fully owned by SC/ST entrepreneurs; all promoters must belong to SC or ST community.",
+    "Any ownership or shareholding by persons other than SC/ST disqualifies the unit.",
+    "Entrepreneurs can belong to SC, ST, or both categories.",
+    "Units that have already received interest subsidy under any other Karnataka or India government scheme are ineligible.",
+    "The unit must not be in default on repayments to KSFC.",
+    "The interest subsidy is limited to loans up to ₹1,000 lakhs; interest on amounts beyond this is borne by the entrepreneur."
+  ],
+  "benefits_summary": "Provides an interest subsidy with an effective rate of 4% on loans ranging from ₹20 lakhs to ₹1,000 lakhs, with repayment periods of up to 10 years.",
+  "documents_required": [],
+  "application_link": null
+}

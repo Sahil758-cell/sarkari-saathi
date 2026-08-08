@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Skill Development Training - 90 Days Residential Skill Development Training Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Dependent of a registered construction worker",
+    "Unemployed youth",
+    "Must have knowledge of Telugu, Hindi, and English languages"
+  ],
+  "benefits_summary": "A 90‑day residential program providing hands‑on training in various construction trades to enhance employability.",
+  "documents_required": [],
+  "application_link": null
+}

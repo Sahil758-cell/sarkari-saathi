@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Incentive for Inter-Caste Marriage Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "NCT of Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The marriage must be legally performed and registered at the Office of the Registrar, Marriages",
+    "The marriage must be between a Scheduled Caste (SC) spouse and a non‑SC spouse",
+    "At least one spouse must be a permanent resident of NCT of Delhi",
+    "If the non‑SC spouse belongs to another state, their parents must have resided in NCT of Delhi for at least five years",
+    "The non‑SC spouse must provide proof that their caste is not listed under untouchability in their home state and that they follow the Hindu religion",
+    "After marriage, the couple must reside in the NCT of Delhi",
+    "The couple must provide proof of living together at the time of fund disbursement",
+    "A widow of up to 35 years of age with no children can avail of the incentive upon inter‑caste remarriage"
+  ],
+  "benefits_summary": "One‑time financial incentive of ₹50,000 per eligible inter‑caste couple.",
+  "documents_required": [
+    "Marriage registration certificate from the Office of the Registrar, Marriages",
+    "Proof of residence in NCT of Delhi",
+    "Proof of living together at the time of disbursement",
+    "Proof that the non‑SC spouse’s caste is not listed under untouchability in their home state",
+    "Proof of Hindu religion of the non‑SC spouse",
+    "Passport‑size photograph",
+    "Attested application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme For Welfare Of Children In Need Of Care And Protection",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a Voluntary Organization registered with the Government of Goa.",
+    "The child must have no parents or near relatives, or be from a single‑parent family where the remaining parent is deceased, deserted, long‑term ill, or imprisoned.",
+    "The family’s income must be less than ₹500 per month."
+  ],
+  "benefits_summary": "Financial assistance of ₹400 per child per month if housed on the organization’s own premises, or ₹500 per child per month if housed in rented premises.",
+  "documents_required": [
+    "Passport‑sized photograph",
+    "Application form"
+  ],
+  "application_link": null
+}

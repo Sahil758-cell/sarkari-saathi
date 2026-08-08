@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Disability Pension (MBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a resident of Meghalaya",
+    "The beneficiary must be engaged in building or other construction work",
+    "The beneficiary must be registered under the Meghalaya Building & Other Construction Workers Welfare Board (MBOCWWB)",
+    "The beneficiary must have an active membership of the Board",
+    "The beneficiary must be permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, or similar conditions"
+  ],
+  "benefits_summary": "A disability pension of ₹150 per month plus a possible ex‑gratia payment of up to ₹5,000 depending on the percentage of disability.",
+  "documents_required": [
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance for Hostel Facility in Professional/Technical Institutions (HBOCWWB)",
+  "occupation": [
+    "building work",
+    "construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be registered with the Haryana Building & Other Construction Workers Welfare Board",
+    "The registered worker must have at least one year of regular, active membership with the Board",
+    "Benefits are available for the children of construction workers who stay in hostels while pursuing regular technical or professional courses",
+    "Financial assistance is limited to a maximum of three children per worker",
+    "To avail the benefit, the worker must add a minimum of 90 days of work experience in the preceding year and pay the registration fee"
+  ],
+  "benefits_summary": "Financial assistance up to ₹1,20,000 per child for hostel facilities in recognized professional/technical institutions.",
+  "documents_required": [
+    "Attested copy of the original receipt",
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar number"
+  ],
+  "application_link": null
+}

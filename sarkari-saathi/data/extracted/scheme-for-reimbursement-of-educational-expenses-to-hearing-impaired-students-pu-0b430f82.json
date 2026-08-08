@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme for Reimbursement of Educational Expenses to Hearing Impaired Students Pursuing Special Higher Education Courses Inside or Outside the Union Territory of Puducherry",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of 40% or more",
+    "Applicant must have resided in the Union Territory of Puducherry for at least 5 years",
+    "Applicant must be enrolled in a full‑time special higher education course in a government‑recognized institution"
+  ],
+  "benefits_summary": "Reimbursement of entire fees from the first year of the course",
+  "documents_required": [
+    "passport-sized photograph",
+    "copies of mandatory documents"
+  ],
+  "application_link": null
+}

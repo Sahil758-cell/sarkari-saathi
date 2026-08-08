@@ -1,0 +1,27 @@
+{
+  "scheme_name": "International Cooperation Scheme- Capacity Building of First Time MSE Exporters",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Micro and Small Enterprises with a valid Udyam Registration are eligible to apply",
+    "Applicant's Importer Exporter Code (IEC) must not be older than 3 years on the date of export shipment",
+    "Targeted at first‑time MSE exporters"
+  ],
+  "benefits_summary": "Provides financial reimbursement (up to 75% of costs) for first‑time MSE exporters on RCMC fees, export insurance premiums, and testing/quality certification, subject to specified caps.",
+  "documents_required": [
+    "Udyam Registration certificate",
+    "Importer Exporter Code (IEC)",
+    "Registration‑cum‑Membership Certificate (RCMC)",
+    "Export Insurance Premium documentation",
+    "Testing & Quality Certification documents"
+  ],
+  "application_link": "https://ic.msme.gov.in"
+}

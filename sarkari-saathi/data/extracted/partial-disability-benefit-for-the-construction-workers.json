@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Partial Disability Benefit for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Served the Board for at least 90 days in a given year",
+    "Registered worker of the Sikkim Building and Other Construction Workers Welfare Board",
+    "Partially disabled due to an accident during the course of employment"
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 to ₹1,00,000 is provided for partial disability.",
+  "documents_required": [],
+  "application_link": null
+}

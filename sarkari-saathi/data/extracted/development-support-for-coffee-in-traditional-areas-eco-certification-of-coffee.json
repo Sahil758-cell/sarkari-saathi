@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Development Support for Coffee in Traditional Areas: Eco-certification of Coffee",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual growers owning up to 10 hectares of coffee holdings are eligible",
+    "Groups of small growers (SHGs, collectives) are eligible",
+    "Non-tribal coffee growers in Non-Traditional Areas with holdings up to 10 hectares are eligible",
+    "Beneficiaries must obtain certification for sustainability or quality standards from accredited certification agencies",
+    "For organic certification, growers must be certified under the National Programme for Organic Production (NPOP) or equivalent standards",
+    "A grower who has already received subsidy for the same activity/component during the MIDH period cannot apply again unless they are a new beneficiary"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 50% of certification costs (maximum ₹50,000), with an additional 10% (maximum ₹55,000) for SC/ST growers with holdings up to 4 hectares.",
+  "documents_required": [
+    "Copy of the certification",
+    "Other relevant documents"
+  ],
+  "application_link": null
+}

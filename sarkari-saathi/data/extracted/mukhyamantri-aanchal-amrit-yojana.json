@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Mukhyamantri Aanchal Amrit Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 3,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides fortified aromatic milk with vitamins A and D on four days per week.",
+  "documents_required": [],
+  "application_link": null
+}

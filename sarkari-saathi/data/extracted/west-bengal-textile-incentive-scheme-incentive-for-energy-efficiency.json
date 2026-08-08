@@ -1,0 +1,28 @@
+{
+  "scheme_name": "West Bengal Textile Incentive Scheme: Incentive for Energy Efficiency",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be engaged in manufacturing or processing of textiles, apparel or technical textiles products.",
+    "Production must have started on or after 1 April 2022.",
+    "Units may be from private, co‑operative, joint sectors or companies/undertakings owned or managed by the State Government.",
+    "The scheme does not apply to industrial units/enterprises.",
+    "The project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution.",
+    "The unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the West Bengal Tourism Development Corporation Limited."
+  ],
+  "benefits_summary": "Reimbursement of up to 50% (maximum ₹2,00,000) for the cost of an energy audit and up to 25% (maximum ₹10,00,000) for energy‑conservation installation costs.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate"
+  ],
+  "application_link": null
+}

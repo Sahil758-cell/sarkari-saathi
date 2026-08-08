@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Disability Assistance For Registered Worker (HBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered under the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB) with regular membership",
+    "The disability must be caused by an accident at the workplace during the course of employment",
+    "Application must be made within one year of becoming disabled",
+    "A disability certificate issued by the Government Medical Board is required",
+    "The applicant must add a minimum of 90 days of work experience from the preceding year after registration",
+    "A registration fee must be paid before availing benefits"
+  ],
+  "benefits_summary": "A lump‑sum assistance of ₹1.50 lakh to ₹3.00 lakh is provided based on the percentage of disability (up to 50%, 51‑75%, and 76%+).",
+  "documents_required": [
+    "Disability Certificate issued by the Government Medical Board",
+    "Aadhaar card for verification",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,45 @@
+{
+  "scheme_name": "Industrial R&D Promotion Programme: Recognition Of In-House R&D Units",
+  "occupation": [
+    "corporate industry",
+    "biotech start-up"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a company registered under the Companies Act, 1956 or 2013",
+    "The company must have completed three financial years after formation",
+    "The company should have a regular source of income for at least the last two years",
+    "The company must be engaged in manufacturing, production, technical services, or contract research with independent research infrastructure",
+    "The R&D unit(s) must not be located in residential areas and must be on‑premises authorized by the central or state government",
+    "Minimum area for R&D activities must be at least 1000 sq ft",
+    "The R&D unit(s) must be functional at the time of application with well‑defined, time‑bound programmes",
+    "Biotech start‑up must conduct high‑end research with potential IP generation and revenue",
+    "Biotech start‑up must have qualified R&D manpower and basic infrastructure",
+    "Biotech start‑up must provide details of collaborations, agreements or MOUs with incubator centres or technology parks",
+    "Biotech start‑up must submit a list of biotechnology‑based project proposals approved for Government of India funding",
+    "The company must have a long‑term R&D policy displayed prominently in the R&D unit(s)",
+    "R&D activities must be separate from routine production and quality‑control activities",
+    "The R&D unit must have separate, identifiable infrastructure (may be in a separate building, floor or room)",
+    "Qualified staff exclusively engaged in R&D must be headed by a full‑time qualified R&D person with direct access to the Chief Executive or Board of Directors",
+    "The number of R&D personnel must be commensurate with the company’s overall S&T manpower size",
+    "Separate books of accounts must be maintained for all R&D expenditures, reflected in the annual report and statement of accounts"
+  ],
+  "benefits_summary": "Recognised in‑house R&D units become eligible for government fiscal incentives and can receive research funding from multiple ministries and agencies where DSIR recognition is a prerequisite.",
+  "documents_required": [
+    "Cover letter",
+    "Fully filled‑in application form (signed by Managing Director or any Director on Board)",
+    "Requisite annexures in PDF format (single attachment <20 MB)",
+    "Proof of authorization for the R&D premises",
+    "Documents/details of collaborations, agreements and MOUs with Incubator Centres or Technology Parks",
+    "List of Biotechnology‑based project proposals submitted/approved for Government of India funding"
+  ],
+  "application_link": null
+}

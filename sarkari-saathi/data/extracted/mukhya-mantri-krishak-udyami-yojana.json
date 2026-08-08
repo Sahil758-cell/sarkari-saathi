@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhya mantri Krishak Udyami Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Madhya Pradesh",
+    "Must be a son or daughter of a farmer",
+    "Minimum educational qualification of 10th class",
+    "Parents of the beneficiary should not have agricultural land",
+    "Applicant should not be an income taxpayer"
+  ],
+  "benefits_summary": "Provides capital subsidies of up to 20% of project cost (maximum ₹18 lakh) and interest subsidies of 5‑6% per annum for up to 7 years for eligible farmer‑son/daughter entrepreneurs.",
+  "documents_required": [],
+  "application_link": null
+}

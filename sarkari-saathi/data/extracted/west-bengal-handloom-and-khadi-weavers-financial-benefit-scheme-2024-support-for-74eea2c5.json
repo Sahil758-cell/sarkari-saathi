@@ -1,0 +1,27 @@
+{
+  "scheme_name": "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Support for One Time Settlement (OTS) of NPA Accounts of PWCS",
+  "occupation": [
+    "Handloom Weavers",
+    "Khadi Weavers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Primary Weavers’ Cooperative Society (PWCS), a Khadi society, or an individual weaver",
+    "The PWCS must be viable as of 31/03/2024",
+    "Application must be submitted in the prescribed format before the Director, Textiles",
+    "Application can be made online or offline"
+  ],
+  "benefits_summary": "Provides 100% of the overdue principal plus 25% of the overdue interest for NPA accounts of viable PWCS, with the remaining interest written off by the bank.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Bebe Nanki Laadli Beti Kalyan Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 30000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl must be born after 1.1.2011",
+    "Parents must be permanent residents of Punjab",
+    "Girls residing in orphanages or Children’s Homes in Punjab are eligible",
+    "Family’s annual income must be less than Rs.30,000 and must be proven by the blue card issued by the Food and Supply Department, Punjab",
+    "Benefit is not provided to newly born boys",
+    "If the girl child drops out of school, benefits cease for the family"
+  ],
+  "benefits_summary": "Provides up to Rs 61,000 in financial assistance per girl, disbursed in stages up to age 18, along with education scholarships.",
+  "documents_required": [
+    "Blue card issued by the Food and Supply Department, Punjab (proof of income)",
+    "Application form (provided by District Program Officer)"
+  ],
+  "application_link": null
+}

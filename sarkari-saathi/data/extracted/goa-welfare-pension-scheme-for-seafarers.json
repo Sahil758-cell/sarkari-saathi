@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Goa Welfare / Pension Scheme For Seafarers",
+  "occupation": [
+    "retired seaman"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 120000,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India",
+    "Must be a retired seaman who was employed on board a ship",
+    "Seamen invalidated from sea service on medical grounds before retirement are also eligible",
+    "Retired seaman must have rendered a total of 120 months of actual service on board the ship (a break of up to 6 months is allowed)",
+    "Widow of a deceased seaman is eligible on compassionate grounds provided she has been a resident of Goa for 15 years and her annual income does not exceed ₹1,20,000",
+    "Beneficiary must be a bonafide resident of Goa by birth, or have birth registered in Goa, or have at least one parent born in Goa"
+  ],
+  "benefits_summary": "Provides a gross pension of ₹2,500 per month (or only the difference if the applicant already receives a lower pension under other schemes).",
+  "documents_required": [],
+  "application_link": null
+}

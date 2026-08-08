@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Ramanujan Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen who is a scientist or engineer working abroad at the time of nomination",
+    "Must be below 40 years of age",
+    "Must possess a higher degree (e.g., Ph.D., M.Tech, MD) and have adequate professional experience",
+    "Must not hold any permanent, tenure‑track, or contractual position in any Indian institute or university",
+    "Nomination must not come from the candidate’s Ph.D. guide or from the same institute where the candidate earned the doctorate",
+    "Research work must be in a new area or laboratory different from the one where the doctorate was obtained",
+    "If a fellow later obtains a permanent/tenure‑track/contractual position, the fellowship becomes forfeited"
+  ],
+  "benefits_summary": "Monthly stipend of ₹1,35,000 plus an annual research grant of ₹7 lakh and an overhead of ₹60,000.",
+  "documents_required": [
+    "Research proposal PDF (maximum 5 pages)"
+  ],
+  "application_link": "https://www.serbonline.in"
+}

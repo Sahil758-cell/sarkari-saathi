@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Himachal Pradesh Maharishi Valmiki Sampoorn Swachata Puraskar (state Sanitation Reward Scheme)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "The Gram Panchayat must be open defecation‑free (ODF).",
+    "Gram Panchayats that have won at a particular level are ineligible to compete at the same level for the next three years, but may compete at higher levels.",
+    "The state‑level winner is ineligible to participate in the MVSSP competition for three years after winning."
+  ],
+  "benefits_summary": "Cash prize ranging from ₹1 lakh at block level to ₹10 lakh at state level for the winning Gram Panchayat.",
+  "documents_required": [
+    "Gram Panchayat resolution to participate",
+    "Application form attested by the Gram Panchayat head and three other members"
+  ],
+  "application_link": null
+}

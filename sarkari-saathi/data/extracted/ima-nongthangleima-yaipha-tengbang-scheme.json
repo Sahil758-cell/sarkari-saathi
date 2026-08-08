@@ -1,0 +1,23 @@
+{
+  "scheme_name": "IMA Nongthangleima Yaipha Tengbang Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be a beneficiary of any existing government scheme for individual beneficiaries.",
+    "Applicant must be living without any source of income or livelihood.",
+    "Applicant must belong to one of the following groups: widows, divorcees, separated women, deprived and marginalized women such as ex‑drug users, single women, single transgender women, women from low‑income households, or other marginalized groups."
+  ],
+  "benefits_summary": "Financial assistance of ₹500 per month.",
+  "documents_required": [],
+  "application_link": null
+}

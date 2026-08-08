@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Marathi Drama Competition ‘A’ & ‘B’ Group",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The institution must be registered under the Societies Registration Act, 1860 and the registration must be valid and renewed periodically."
+  ],
+  "benefits_summary": "Financial assistance includes transport reimbursement, free auditorium use, 80% of gate collection, and cash prizes for groups and individuals.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

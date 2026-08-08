@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Marriage Grant to War Widows’ Daughters of Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the widow of an ex‑serviceman who died in the war",
+    "Applicant must be a bonafide resident of Haryana",
+    "Benefit can be availed for up to two dependent daughters"
+  ],
+  "benefits_summary": "Financial assistance of ₹21,000 is provided for the marriage of each eligible daughter (up to two daughters).",
+  "documents_required": [],
+  "application_link": null
+}

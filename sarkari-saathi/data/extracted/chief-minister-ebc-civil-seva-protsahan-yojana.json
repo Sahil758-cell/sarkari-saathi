@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Minister EBC Civil Seva Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Bihar.",
+    "The applicant must belong to the Extremely Backward Class (EBC) category.",
+    "The applicant must have passed the preliminary examination of a competitive exam such as UPSC, BPSC, Bihar Judicial Service, NDA, CDS, Banking, Railway, SSC, etc.",
+    "The applicant must not have previously received the same incentive from any other source."
+  ],
+  "benefits_summary": "Provides a cash incentive ranging from ₹30,000 to ₹1,00,000 for candidates who clear the preliminary examination of various competitive exams.",
+  "documents_required": [],
+  "application_link": null
+}

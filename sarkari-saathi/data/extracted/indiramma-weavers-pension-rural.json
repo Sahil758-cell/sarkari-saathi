@@ -1,0 +1,25 @@
+{
+  "scheme_name": "INDIRAMMA Weavers Pension (Rural)",
+  "occupation": [
+    "Weaver"
+  ],
+  "gender": null,
+  "age_min": 50,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must be a local resident of the district",
+    "Applicant must not be covered under any other Pension Scheme",
+    "Applicant must be destitute"
+  ],
+  "benefits_summary": "Monthly pension (amount to be notified by the Government of Andhra Pradesh) disbursed on the first day of each month.",
+  "documents_required": [],
+  "application_link": null
+}

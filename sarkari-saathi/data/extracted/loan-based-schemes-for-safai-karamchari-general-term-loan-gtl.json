@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Loan Based Schemes For Safai Karamchari - General Term Loan (GTL)",
+  "occupation": [
+    "Safai Karamcharis",
+    "Manual Scavengers",
+    "Wastepickers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be Safai Karamcharis (including wastepickers), identified manual scavengers, or their dependents",
+    "Registered co‑operative societies of the target group are eligible",
+    "Legally constituted associations or firms promoted by the target group are eligible",
+    "Applicants may need to produce a certificate from a local Revenue Officer, Municipal Officer, Cantonment Executive Officer, Railway Officer, or a Gazetted‑rank Head of a Government Department",
+    "Mukhia/Sarpanch/President or equivalent authority can issue an Occupation Certificate for Safai Karamcharis/dependents",
+    "If the applicant is identified as a manual scavenger in the survey, no certificate is required once their name appears in the final list prepared by the State/UT"
+  ],
+  "benefits_summary": "Term loan up to 90 % of project cost (maximum Rs 15 lakh) at 6 % interest, repayable over up to 10 years after a short implementation and moratorium period.",
+  "documents_required": [
+    "Certificate from local Revenue Officer",
+    "Certificate from local Municipal Officer",
+    "Certificate from Cantonment Executive Officer",
+    "Certificate from Railway Officer",
+    "Certificate from Head of Government Department (Gazetted rank)",
+    "Occupation Certificate issued by Mukhia/Sarpanch/President",
+    "Certificate of inclusion in the final list of Manual Scavengers prepared by State/UT"
+  ],
+  "application_link": "https://nskfdc.nic.in/en/content/home/list-channelizing-agencies"
+}

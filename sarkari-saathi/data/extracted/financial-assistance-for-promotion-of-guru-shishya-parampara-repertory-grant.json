@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance For Promotion Of Guru-Shishya Parampara (Repertory Grant)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Organization must have a repertoire of adequate number and quality and have performed on an all‑India basis",
+    "Only one grant per financial year per organization",
+    "Physical verification is compulsory after every fourth year for continuation of assistance",
+    "For renewal, the organization must stage at least two productions in the financial year, one of which must be a new production",
+    "The organization must organize at least two cultural activities in schools and obtain a certificate from the school principal for renewal",
+    "Videos of productions or activities must be uploaded on YouTube and links to Ministry of Culture’s social media pages must be provided for renewal",
+    "Application must be recommended by the concerned State Government/UT Administration or recognised academies (e.g., NSD, Kalakshetra, CCRT, IGNCA, ZCCs)",
+    "All applicant organizations must register on the NGO‑PS portal (https://ngodarpan.gov.in/) to obtain a system‑generated Unique ID and must include “Art and Culture” as a key working area",
+    "Aadhaar and PAN numbers of board members/office bearers must be updated on the NGO‑PS portal"
+  ],
+  "benefits_summary": "Provides monthly financial assistance of ₹15,000 per Guru/Director and ₹2,000‑₹10,000 per artist depending on age category.",
+  "documents_required": [
+    "Hard copy of the application form with checklist enclosures",
+    "Certificate from the principal of the school confirming two cultural activities",
+    "Proof of registration on the NGO‑PS portal (Unique ID)",
+    "Aadhaar and PAN numbers of board members/office bearers"
+  ],
+  "application_link": "https://nsd.gov.in/delhi/"
+}

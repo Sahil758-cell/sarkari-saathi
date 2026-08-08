@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme of Personal Assistance Allowance to Differently Abled Persons with High Support Need",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a differently abled person with high support needs."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per month transferred directly to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

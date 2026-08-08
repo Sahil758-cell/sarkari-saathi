@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Technical Education Scholarship Scheme For Degree Level",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 36000,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a bonafide Himachali resident",
+    "Must be a ward of a Himachal Pradesh Government employee",
+    "Must be pursuing a PG/Degree course in Engineering/Technology (including Architecture) approved by AICTE",
+    "Parents' total annual income must not exceed ₹36,000 (exempt for SC/ST students)",
+    "Must have secured at least 60% marks in the qualifying examination (exempt for SC/ST students)",
+    "Scholarship awarded based on poverty‑cum‑brilliance or brilliance criteria",
+    "Requires a recommendation from the principal or an authorized institute officer for award/renewal",
+    "Must execute a bond to serve Himachal Pradesh for at least five years after completion if required by the state government",
+    "Scholarship may be discontinued on failure in examinations or lack of satisfactory progress"
+  ],
+  "benefits_summary": "General category students receive ₹300 per month, while SC/ST students receive ₹500 per month (full scholarship).",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in"
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "WISE Fellowship for Ph.D.",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 27,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unemployed women are eligible; women in regular employment are not eligible",
+    "Applicant must hold a postgraduate degree (M.Sc., M.Tech., B.Tech., M.Phil., M.Pharm., etc.) in basic or applied sciences from a recognized university/institute",
+    "Candidate must not have completed two years of Ph.D. study as of the application date",
+    "Applicant must not be receiving any other fellowship or sponsorship",
+    "Age must be between 27 and 45 years (relaxed by up to 3 years for SC, ST, or PH candidates)"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹37,000 plus HRA, along with an annual research grant of ₹1 lakh and institutional overhead of ₹0.5 lakh.",
+  "documents_required": [],
+  "application_link": "https://onlinedst.gov.in"
+}

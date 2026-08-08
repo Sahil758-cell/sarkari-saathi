@@ -1,0 +1,27 @@
+{
+  "scheme_name": "West Bengal Artisans Financial Benefit Scheme 2024: Grant to Industrial Cooperative Society",
+  "occupation": [
+    "traditional craft/trade"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to any group of artisans",
+    "Applicant must be enlisted in the State Portal for artisans & weavers",
+    "Industrial cooperative society must possess a piece of land for work shed or machine installation",
+    "Applicant must be an Indian citizen permanent resident of West Bengal for the past 10 years",
+    "Cooperative society must consist of at least 10 artisans"
+  ],
+  "benefits_summary": "Grant up to ₹3,00,000 for tools/equipment and up to ₹7,00,000 for work shed and other fixed assets.",
+  "documents_required": [],
+  "application_link": null
+}

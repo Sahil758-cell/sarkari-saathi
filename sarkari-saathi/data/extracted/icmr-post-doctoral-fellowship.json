@@ -1,0 +1,36 @@
+{
+  "scheme_name": "ICMR- Post Doctoral Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 32,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Open to Indian nationals only",
+    "Fresh PhDs/MD/MS candidates within three years of degree completion or holders of provisional degree",
+    "Proposed research must be a continuation of the candidate’s PhD/MD/MS work",
+    "Maximum age limit 32 years, relaxable up to 5 years for SC/ST/OBC/PH and women candidates",
+    "Deserving candidates may receive up to 3 additional years of age relaxation based on prior work, publications, awards, and sponsoring director’s request",
+    "PDF guide must have a minimum designation of Scientist‑C grade",
+    "Post‑graduate medical students may apply in MCI‑recognised postgraduate medical colleges having at least three graduating batches",
+    "Result notification, viva‑voce or thesis submission notifications are not considered",
+    "Submission of a plagiarism check report is mandatory"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹65,000 plus HRA and NPA, an annual contingency grant of ₹3,00,000 (with 25% usable for travel), and medical benefits as per ICMR rules.",
+  "documents_required": [
+    "Application form",
+    "Plagiarism check report",
+    "Self‑attested photocopies of all documents",
+    "Recommendation letter from the Director/Officer‑in‑Charge of the sponsoring ICMR institute/center"
+  ],
+  "application_link": null
+}

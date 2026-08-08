@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Financial Assistance to Integrated Logistics Facilities: Reimbursement of Stamp Duty",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only new units/projects are eligible for reimbursement.",
+    "Developer must have paid Stamp Duty on the purchase of required land during the operative period of the scheme.",
+    "Reimbursement is tied to the completion of specific project milestones, such as purchasing all required land and completing at least 40% of construction."
+  ],
+  "benefits_summary": "Developers can recover the Stamp Duty paid on land purchase for new logistics projects.",
+  "documents_required": [],
+  "application_link": null
+}

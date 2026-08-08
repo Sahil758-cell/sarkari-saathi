@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Grant Scheme for Marriage of Daughters of Destitute Widow",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 48000,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow",
+    "Applicant must be sanctioned for widow pension from the district probation office",
+    "Bride (daughter) must be between 18 and 45 years of age",
+    "Groom must be between 21 and 45 years of age",
+    "Applicant may belong to BPL category if monthly family income exceeds ₹4,000"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 to eligible beneficiaries.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Hathkargha Samvardhan Sahayata",
+  "occupation": [
+    "Handloom Weaver"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Orissa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have undergone weaving training in the last 2 years under government programmes, including Block Level Clusters.",
+    "Must be willing to contribute 10% of the total cost."
+  ],
+  "benefits_summary": "Financial assistance covering 90% of the cost of technological up‑gradation items, with the beneficiary contributing the remaining 10%.",
+  "documents_required": [],
+  "application_link": null
+}

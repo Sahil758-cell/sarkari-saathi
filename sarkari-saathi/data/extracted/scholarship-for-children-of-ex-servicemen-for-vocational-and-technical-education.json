@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Scholarship for Children of Ex-Servicemen for Vocational and Technical Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": false,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ex‑serviceman of rank Havildar or below, or his widow/dependent",
+    "Applicant must be pursuing a vocational or technical education course included in the Prime Minister Scholarship Scheme (PMSS)",
+    "Applicant must not be receiving benefits under the Prime Minister’s Scholarship Scheme or any other scholarship scheme",
+    "Applicant must have passed the previous academic year; failure results in cancellation of the scholarship",
+    "Scholarship is not payable to more than two children of the same ex‑serviceman",
+    "Scholarship is not admissible for battle casualty/disability or physical casualty cases",
+    "Only 50 students are selected each year based on merit",
+    "Scholarship continues for the duration of the course subject to annual renewal"
+  ],
+  "benefits_summary": "Scholarship of ₹15,000 per year per student, disbursed online to the beneficiary’s bank account.",
+  "documents_required": [
+    "Filled application form",
+    "Copies of mandatory documents (self‑attested)",
+    "Original marks sheet (required for annual renewal)"
+  ],
+  "application_link": null
+}

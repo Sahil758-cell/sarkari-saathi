@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Chief Minister Housing Assistance Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Beneficiary must be a bonafide resident of Meghalaya",
+    "Must produce EPIC or any other related document as proof of residence/address proof",
+    "Only one beneficiary per family may receive assistance under this scheme",
+    "Beneficiary must own land at the location where the house will be constructed",
+    "For Credit Linked Subsidy, beneficiary must not own any house anywhere in Meghalaya in their own name, spouse’s name, or that of dependent family members",
+    "For Credit Linked Subsidy, beneficiary must not have received any loan or advance from the State Government, Housing Cooperative, or any other financing institution for house construction",
+    "Income proof is required at the discretion of the bank for Credit Linked Subsidy",
+    "On completion of construction, the house must not be sublet or sold",
+    "Selection of beneficiaries will be done block‑wise"
+  ],
+  "benefits_summary": "Financial assistance up to Rs. 75,000 with the beneficiary contributing the remaining amount to construct a durable house costing Rs. 2.30 lakh.",
+  "documents_required": [
+    "EPIC (Electoral Photo Identity Card)",
+    "any other related document as proof of residence/address proof"
+  ],
+  "application_link": "The applications under the chief minister's Housing Assistance Program should be submitted only in the prescribed printed forms which will be supplied by Directorate of Housing through the respective Block Development Officer/District Housing Officer/Inspector of Housing, according to the requirement in each Block and District."
+}

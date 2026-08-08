@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme of Pension for Eminent Sports Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have represented India in at least one of the following international competitions: Olympic Games, Official World Cup, Commonwealth Games, Asian Games, Davis Cup (tennis), or Test/One‑Day International matches (cricket).",
+    "Must be a veteran sportsperson (men or women) who has brought laurels to the nation or the state.",
+    "Must be a Punjab domicile (belonging to Punjab).",
+    "Candidates receiving any sports pension from the Government of India are also eligible."
+  ],
+  "benefits_summary": "Monthly pension of ₹1,000 for Olympic Games, Official World Cup, Davis Cup and Test/ODI cricket, and ₹600 for Commonwealth and Asian Games.",
+  "documents_required": [],
+  "application_link": null
+}

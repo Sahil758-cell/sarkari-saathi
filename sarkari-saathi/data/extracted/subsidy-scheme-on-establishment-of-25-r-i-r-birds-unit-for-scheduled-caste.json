@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Subsidy Scheme On Establishment Of 25 R.I.R. Birds’ Unit For Scheduled Caste",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Adult member of the Scheduled Caste category",
+    "Only one member per family can benefit",
+    "Beneficiary must provide income proof and caste certificate",
+    "Females and Below Poverty Line beneficiaries are given priority",
+    "Beneficiary must have completed poultry‑keeping training",
+    "Must keep the birds safe during night hours",
+    "Unit must be maintained for two years",
+    "Beneficiary must show income and expenditure statement when visited by a government officer"
+  ],
+  "benefits_summary": "Provides a 25 R.I.R birds unit with a subsidy covering up to 75% (maximum ₹4500) of the cost in the form of birds and poultry feed.",
+  "documents_required": [
+    "Income proof",
+    "Caste certificate"
+  ],
+  "application_link": null
+}

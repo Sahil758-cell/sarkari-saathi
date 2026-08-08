@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Kisan Vriksha Mitra Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmers must have private land.",
+    "Beneficiaries must be willing to plant commercially viable tree species such as eucalyptus, bamboo, etc."
+  ],
+  "benefits_summary": "Offers up to 100% financial assistance for plantation on up to 5 acres (or 50% beyond), with buyback assurance for tree produce, disbursed over three years.",
+  "documents_required": [],
+  "application_link": null
+}

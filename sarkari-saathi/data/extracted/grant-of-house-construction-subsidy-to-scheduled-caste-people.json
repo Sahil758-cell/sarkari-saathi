@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Grant of House Construction Subsidy to Scheduled Caste People",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native or permanent resident of the Union Territory of Puducherry",
+    "Applicant must not already possess a house",
+    "For Scheduled Caste applicants: must have a house site of at least 450 sq.ft and annual income not exceeding ₹200,000",
+    "For Other Economically Backward Class applicants: must have a house site granted by the Adi Dravidar Welfare Department and annual income not exceeding ₹24,000"
+  ],
+  "benefits_summary": "Provides a construction subsidy of up to ₹4,00,000 in three installments and additional building materials worth ₹1,00,000.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

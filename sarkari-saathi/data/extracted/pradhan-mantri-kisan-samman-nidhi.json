@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pradhan Mantri Kisan Samman Nidhi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have cultivable land holding in the farmer's name"
+  ],
+  "benefits_summary": "Financial benefit of Rs. 6000 per annum per family, paid in three equal installments of Rs 2000 each.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Landholding paper",
+    "Bank passbook"
+  ],
+  "application_link": null
+}

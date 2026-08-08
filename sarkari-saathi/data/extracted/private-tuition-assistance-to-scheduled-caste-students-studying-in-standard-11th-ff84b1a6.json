@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Private Tuition Assistance to Scheduled Caste Students Studying in Standard 11th & 12th (General Stream)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to the Scheduled Caste of Gujarat",
+    "Student must be studying in Standard 11th & 12th General Stream",
+    "Student must have obtained 75% or more marks in Standard 10th",
+    "Assistance is given to the first 100 eligible students based on merit"
+  ],
+  "benefits_summary": "₹8,000 per annum for private tuition in Standard 11th and ₹4,000 per annum for private tuition in Standard 12th.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Dr. Ambedkar Foundation Essay Competition Scheme for Class 10th-12th & Colleges/Universities/Institutions Students in 22 Indian Languages and English",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a bonafide student enrolled in 10th or 12th standard of a state board or any central board, or a student of a UGC‑recognized college/university in India",
+    "Must submit a certificate confirming the essay is the participant’s original work",
+    "Must submit one clean typed copy of the essay containing name, address, institution details, topic, language, e‑mail, phone number, bank account details, and signatures of the participant and the Head of the Institution",
+    "Only one essay entry per participant is allowed",
+    "Plagiarism exceeding 20 % results in immediate disqualification",
+    "Essay word limit: up to 3500 words in English or 2500 words in Indian languages",
+    "No entry fee"
+  ],
+  "benefits_summary": "Cash prizes up to ₹1 lakh for winners, plus travel and accommodation allowance, citation, books and felicitation at the Dr. Ambedkar International Centre, Delhi.",
+  "documents_required": [
+    "Certificate of originality",
+    "Clean typed copy of the essay with required details and signatures"
+  ],
+  "application_link": null
+}

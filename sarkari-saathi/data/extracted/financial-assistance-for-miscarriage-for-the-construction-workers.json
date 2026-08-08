@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Financial Assistance for Miscarriage for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Delhi.",
+    "Must have served the Board for at least 90 days in a given year.",
+    "Must be a registered women member under the Delhi Building and Other Construction Workers Welfare Board, or the wife of a registered male member.",
+    "Must have suffered a miscarriage during delivery."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹3,000 to a female member or the wife of a male member in case of miscarriage.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof (Proof of 90 Days Employment)",
+    "Bank Account details",
+    "Affidavit of the Applicant",
+    "Photograph",
+    "Applicant’s Video",
+    "Previous/Current Employer Details"
+  ],
+  "application_link": null
+}

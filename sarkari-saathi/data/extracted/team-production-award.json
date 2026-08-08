@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Team Production Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The group must have more than two artisans as members.",
+    "The group should be manufacturers of handicrafts in Tamil Nadu.",
+    "The craft submitted for the award must be produced by the group."
+  ],
+  "benefits_summary": "Cash prize of ₹40,000, a 4‑gram gold medal, a Thamirapattiram and a certificate.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

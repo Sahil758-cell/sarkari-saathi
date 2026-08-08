@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Coir Vikas Yojana-Skill Upgradation and Mahila Coir Yojana",
+  "occupation": [
+    "Coir workers",
+    "Entrepreneurs",
+    "Women artisans"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicants must be Self Help Groups (SHGs), NGOs registered in the Darpan Portal of NITI Aayog, or Government Organizations",
+    "Applicants should have adequate infrastructural facilities such as work sheds, power connections, equipment, and raw materials"
+  ],
+  "benefits_summary": "Provides skill development training and financial assistance for coir workers and women artisans, including monthly stipends and subsidies for equipment",
+  "documents_required": [
+    "self‑certification of expenditure",
+    "application forms"
+  ],
+  "application_link": null
+}

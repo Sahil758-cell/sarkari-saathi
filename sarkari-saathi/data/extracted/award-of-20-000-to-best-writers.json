@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Award of ₹20,000/- to Best Writers",
+  "occupation": [
+    "writer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be unemployed",
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal",
+    "Eligibility category noted in source: Adi Dravidar Christian-converted"
+  ],
+  "benefits_summary": "Cash prize of ₹20,000 and state recognition for each selected writer.",
+  "documents_required": [],
+  "application_link": "Step 1: The scheme will be advertised in newspapers during April/May. Step 2: Interested candidates must submit their literary works along with the required documents to the designated authority as mentioned in the advertisement."
+}

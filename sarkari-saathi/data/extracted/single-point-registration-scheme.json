@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Single Point Registration Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a Udyam Registration",
+    "Must be a Micro or Small Enterprise engaged in manufacturing or services",
+    "Traders are not eligible",
+    "For provisional registration, enterprise must have commenced commercial production but be less than one year old",
+    "Full registration is available after completing one year of existence",
+    "Applications are submitted online using PAN and Udyam Registration Number"
+  ],
+  "benefits_summary": "Provides free tender notices, exemption from Earnest Money Deposit, and preferential procurement quotas for MSEs, including reserved portions for SC/ST and women entrepreneurs.",
+  "documents_required": [
+    "Udyam Registration Certificate",
+    "PAN card"
+  ],
+  "application_link": null
+}

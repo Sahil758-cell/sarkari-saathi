@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Sathya Ammaiyar Ninaivu Government Children Homes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Destitute, deserted and abandoned children are eligible",
+    "Children without parents or with a single parent are eligible",
+    "Children of ailing parents, prisoners, or where parents are unable to care for them due to severe disability are eligible",
+    "Boys are eligible up to the 5th Standard",
+    "Girl children must be between 5 and 18 years old; if they are without father and mother, they may be admitted up to 21 years for higher studies"
+  ],
+  "benefits_summary": "Provides free food, accommodation, education, uniforms, textbooks, medical care, chappals and bedding to eligible children.",
+  "documents_required": [],
+  "application_link": null
+}

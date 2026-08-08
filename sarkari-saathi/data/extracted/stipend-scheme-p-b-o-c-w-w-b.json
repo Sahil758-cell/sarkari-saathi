@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Stipend Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Punjab",
+    "Applicant must be a Building/Construction Worker (unorganised)",
+    "Must have worked in building and construction for at least 90 days in a year",
+    "Monthly income must not exceed ₹15,000",
+    "Applicant must not be a member of any other welfare fund",
+    "Applicant must not be a member of EPF, NPS or ESIC",
+    "Applicant must not be an income‑tax payer",
+    "For scheme benefits, applicant must be a registered construction worker under the Board or the child of such a worker",
+    "Applicant must be enrolled in an approved institute or university",
+    "Applicant must be pursuing education in the specified classes or vocational/technical courses",
+    "Stipend will not be granted for students who have failed in the final class of a level"
+  ],
+  "benefits_summary": "Provides stipends ranging from ₹3,000 to ₹70,000 depending on education level, with higher amounts for hostel residents",
+  "documents_required": [
+    "Application Form No 28"
+  ],
+  "application_link": null
+}

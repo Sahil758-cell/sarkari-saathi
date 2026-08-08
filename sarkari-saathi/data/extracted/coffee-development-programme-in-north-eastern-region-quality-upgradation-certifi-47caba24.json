@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Supply of Baby Pulpers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant is eligible for only one unit."
+  ],
+  "benefits_summary": "Subsidy of 75% of the unit cost, capped at ₹16,000 per unit.",
+  "documents_required": [
+    "Land records",
+    "Application in prescribed format (duplicate)"
+  ],
+  "application_link": null
+}

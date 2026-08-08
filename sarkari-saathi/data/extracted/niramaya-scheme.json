@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Niramaya Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Patients must have registered at a government hospital to be eligible.",
+    "Beneficiaries must be residents of Odisha."
+  ],
+  "benefits_summary": "Provides free medicines to registered patients at government health facilities, eliminating out‑of‑pocket costs.",
+  "documents_required": [],
+  "application_link": "https://www.e-niramaya.odisha.gov.in/Login.aspx"
+}

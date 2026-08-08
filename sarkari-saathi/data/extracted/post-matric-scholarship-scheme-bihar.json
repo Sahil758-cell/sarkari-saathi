@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Post-Matric Scholarship Scheme-Bihar",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be studying in higher classes after passing the Matriculation/Entry Examination.",
+    "Scholarship is limited to two sons per family; daughters are not eligible."
+  ],
+  "benefits_summary": "Provides scholarship and maintenance allowance as prescribed by the Government of India.",
+  "documents_required": [
+    "Aadhaar card",
+    "Certificates"
+  ],
+  "application_link": null
+}

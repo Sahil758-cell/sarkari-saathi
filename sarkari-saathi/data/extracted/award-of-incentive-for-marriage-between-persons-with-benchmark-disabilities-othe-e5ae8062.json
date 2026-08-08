@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Award Of Incentive For Marriage Between Persons With Benchmark Disabilities & Other Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Both spouses must be residents of Odisha State",
+    "The bridegroom must be at least 21 years old and the bride at least 18 years old at the time of marriage",
+    "The marriage must be dowry‑free",
+    "Neither spouse should have previously availed the incentive under this scheme",
+    "The incentive is payable to either spouse who has a benchmark disability (disability ≥40%) when married to a non‑disabled person",
+    "Beneficiaries must choose a single department (either ST & SC Development, Minorities, and Backward Class Welfare Department or the Department of SSEPD) to avoid duplication",
+    "The incentive amount is locked for 3 years with phased withdrawals (10% after 6 months, another 10% after one year, and the remaining 80% after 3 years)"
+  ],
+  "benefits_summary": "A cash incentive of ₹2,50,000 is disbursed to the couple, locked for three years with phased withdrawals.",
+  "documents_required": [
+    "UDID Certificate Number",
+    "Signature of applicant",
+    "Signature of spouse"
+  ],
+  "application_link": "https://ssepd.odisha.gov.in/"
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistance to Widower and Unmarried Persons Scheme : For Widower",
+  "occupation": null,
+  "gender": "male",
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a widower (cannot be a divorcee or in a live‑in relationship).",
+    "The applicant must have a Family ID, verified through the Haryana Parivar Pehchaan Authority (HPPA).",
+    "The applicant must have been residing in Haryana for at least the last 15 years (or be a domicile of the state).",
+    "The applicant must not have more than one bank account under the PFMS; multiple accounts will be terminated and the applicant will become ineligible for future social security benefits."
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹2,750 payable until the beneficiary turns 60 years old.",
+  "documents_required": [
+    "Family ID"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Grant for Purchase of Bicycle (BBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be engaged in building or construction work.",
+    "The worker must be registered with the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB).",
+    "The registered worker must have a minimum of one year of continuous membership with the Board.",
+    "The worker's membership with the Welfare Board must be active at the time of application."
+  ],
+  "benefits_summary": "Financial assistance up to ₹3,500 is provided to registered construction workers for purchasing a bicycle.",
+  "documents_required": [],
+  "application_link": null
+}

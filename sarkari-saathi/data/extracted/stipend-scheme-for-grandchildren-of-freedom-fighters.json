@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Stipend Scheme for Grandchildren of Freedom Fighters",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a grandchild (third generation) of a freedom fighter",
+    "Applicant must be resident of Haryana",
+    "Applicant must be enrolled in a government or government‑aided college/university in Haryana",
+    "Applicant must be pursuing a non‑professional course",
+    "Applicant must have passed the previous examination on which admission was granted",
+    "Applicant must maintain satisfactory attendance and conduct",
+    "Applicant must not have failed the previous year’s university examination",
+    "If a student drops out but re‑joins and maintains at least 50% attendance for three months, the previous and current quarter’s stipend is released"
+  ],
+  "benefits_summary": "Eligible students receive ₹1,000 per month for 12 months and a ₹2,000 annual allowance for books.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar Number"
+  ],
+  "application_link": null
+}

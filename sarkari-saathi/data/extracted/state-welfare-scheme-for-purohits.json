@@ -1,0 +1,31 @@
+{
+  "scheme_name": "State Welfare Scheme For Purohits",
+  "occupation": [
+    "purohit",
+    "priest"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a resident of West Bengal on the date of making an application",
+    "Applicant must not be a beneficiary under any other Social Security pension scheme or a recipient of any government or other organization pension",
+    "Applicant must be a financially distressed/economically backward practicing priest attached to any place of worship",
+    "For the housing grant, the applicant must not own a pucca dwelling house unless they own a piece of land in their name; if land is not owned, the government may provide land"
+  ],
+  "benefits_summary": "Eligible poor priests receive a monthly financial assistance of ₹1,000 and a one‑time housing grant of ₹1,20,000 for house construction.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Document proving residential status in West Bengal",
+    "Land ownership document (if any)"
+  ],
+  "application_link": "https://wb.gov.in/pdf/state_welfare_scheme.pdf"
+}

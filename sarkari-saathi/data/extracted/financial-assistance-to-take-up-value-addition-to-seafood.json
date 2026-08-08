@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistance to Take up Value Addition to Seafood",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual interested in setting up a unit for value‑added fisheries products",
+    "Applicant must have been a resident of Goa for the last 15 years",
+    "Preference given to self‑help groups, women entrepreneurs, and youth who have completed fishermen training courses or short‑term training programs conducted by the Directorate of Fisheries"
+  ],
+  "benefits_summary": "Provides a 50% subsidy up to ₹5,00,000 for construction/renovation and up to ₹2,00,000 for equipment purchase.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

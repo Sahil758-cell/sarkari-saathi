@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Saraswati Cycle Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl students of class 9th",
+    "Must be a native of Chhattisgarh"
+  ],
+  "benefits_summary": "Free cycles are distributed to eligible girl students.",
+  "documents_required": [
+    "Caste certificate",
+    "BPL certificate"
+  ],
+  "application_link": null
+}

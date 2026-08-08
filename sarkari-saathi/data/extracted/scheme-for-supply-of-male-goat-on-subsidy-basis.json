@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme for Supply of Male Goat on Subsidy Basis",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Madhya Pradesh",
+    "Applicant must be actively involved in goat rearing",
+    "Applicant must be a goat rearer of any category",
+    "Applicant must possess a minimum of 5 goats"
+  ],
+  "benefits_summary": "One improved‑breed male goat (valued at ₹8,300) provided on a 75% grant, including insurance, mineral mixture, training booklet and monitoring card.",
+  "documents_required": [],
+  "application_link": "Contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary for application approvals."
+}

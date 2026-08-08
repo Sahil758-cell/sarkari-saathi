@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Medical Assistance/Wage Compensation during Illness (HBOCWWB)",
+  "occupation": [
+    "building work",
+    "construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be registered with the Haryana Building & Other Construction Workers Welfare Board",
+    "A minimum of one year of regular membership with the Board is required",
+    "The worker must have an active membership at the time of claim",
+    "The worker must be admitted to a government or government‑approved private hospital for treatment for 4 to 30 days due to an accident or illness",
+    "Assistance can be availed for a period not exceeding one month in a year",
+    "To claim benefits, the worker must have at least 90 days of work experience in the preceding year and pay the registration fee"
+  ],
+  "benefits_summary": "Provides wage compensation or financial assistance to registered construction workers admitted to a government or empanelled private hospital for 4 to 30 days.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID) number",
+    "Aadhaar number"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Supply of Dhotis and Sarees to Scheduled Caste (SC) People",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant’s name must appear on the yellow or red ration card issued by the Civil Supplies Department",
+    "Applicant must have continuous residence in Puducherry for at least 5 years"
+  ],
+  "benefits_summary": "Male members receive a lungi and shirt; female members receive a saree and blouse annually.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

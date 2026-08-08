@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Kanya Saksharta Protsahan Yojana (For Scheduled Caste Girls)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed Class 10 and be entering Class 11",
+    "Must be enrolled in a government or recognized school/institution and attend regularly",
+    "Parents or guardians should not be income taxpayers",
+    "Must pursue education continuously"
+  ],
+  "benefits_summary": "Eligible SC girl students entering Class 11 receive a ₹3,000 per year incentive paid into their bank accounts.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

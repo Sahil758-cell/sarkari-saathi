@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Deen Dayal Upadhyaya Antyodaya Parivar Suraksha Yojana (DAYALU-II)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Haryana.",
+    "Applicant must possess a Family ID/Parivar Pehchan Patra (PPP) number.",
+    "Accidental death or permanent disability (70% or above) must be caused by a stray cattle/animal bite.",
+    "Claim must be filed within three months of the accident.",
+    "Death or disability must have occurred on or after 24 May 2023.",
+    "For death cases, assistance is paid to the head of the family or an eligible family member below 60 years, otherwise to the next eligible member.",
+    "If all family members are under 18, assistance is deferred until a member turns above 18 years.",
+    "Incorrect claims may lead to recovery of assistance with 12% annual interest."
+  ],
+  "benefits_summary": "Financial assistance ranging from ₹1 lakh to ₹5 lakh based on the beneficiary’s age at the time of death or permanent disability.",
+  "documents_required": [
+    "Death certificate",
+    "Disability certificate"
+  ],
+  "application_link": null
+}

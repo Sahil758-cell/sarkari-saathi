@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance under Odisha Working Journalist Welfare Scheme",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Journalist must be working in Odisha",
+    "Journalist must be employed by a media house registered with the Information & Public Relations Department of Odisha",
+    "Applicant must be the legal heir of the working journalist in case of death or permanent incapacitation"
+  ],
+  "benefits_summary": "Ex‑gratia of ₹4,00,000 for death of a working journalist and ₹2,00,000 for permanent incapacitation",
+  "documents_required": [],
+  "application_link": "https://owjws.odisha.gov.in/"
+}

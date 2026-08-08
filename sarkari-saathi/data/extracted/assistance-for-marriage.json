@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Assistance for Marriage",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a differently abled person.",
+    "The applicant must have attained the legal marriageable age as prescribed by law.",
+    "If applying on behalf of a son or daughter, the child must possess a valid identity card."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹2,000 for marriage expenses of a differently abled person or their child.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "State Government Backward Class Scholarship (Class 6 to 10)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student studying in classes 6 to 10",
+    "Applicant must be a permanent resident of Madhya Pradesh",
+    "Applicant must belong to the Backward Classes or Minorities community",
+    "Parents or guardians must not be income taxpayers",
+    "Parents or guardians must not own more than 10 acres of land",
+    "There should be no increase in the income of parents or guardians in the past year"
+  ],
+  "benefits_summary": "Scholarships of ₹200–₹300 per year for boys and ₹300–₹400 per year for girls in classes 6‑10, transferred directly to the student's bank account.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

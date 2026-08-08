@@ -1,0 +1,37 @@
+{
+  "scheme_name": "National Technology Awards",
+  "occupation": [
+    "private limited company",
+    "public limited company",
+    "startup with DPIIT registration",
+    "regular position in Indian Institute of repute",
+    "Indian organization/institution (e.g., science and technology parks, incubation centers)"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only private and public limited companies registered under the Companies Act may apply for the Main, MSME and Startup categories",
+    "Startup applications must have DPIIT registration",
+    "Women‑led enterprises are eligible as per Government of India norms",
+    "Applicants for the Translational Research category must hold a regular position in a reputable Indian Institute and have patents/technology transfer/licensing to Indian industry with commercial revenue and socio‑economic impact",
+    "Technology Business Incubator award is limited to Indian organizations/institutions that have been operating for more than 5 years (registered on or before March 2017) and are not‑for‑profit entities; individual applicants are not considered"
+  ],
+  "benefits_summary": "Cash prizes ranging from ₹5 lakh to ₹25 lakh (plus trophies for Main and Translational Research awards) are awarded to the selected winners.",
+  "documents_required": [
+    "Aadhaar or other valid identity proof",
+    "Date of birth",
+    "Mobile number",
+    "Email ID",
+    "Aadhaar number of authorized person (for organization applicants)",
+    "Type of organization (for organization applicants)",
+    "Brief description of the organization"
+  ],
+  "application_link": null
+}

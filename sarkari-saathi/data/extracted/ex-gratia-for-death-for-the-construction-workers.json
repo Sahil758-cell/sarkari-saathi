@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Ex-gratia for Death for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "U.T. Administration of Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in any building or other construction work for at least 90 days in a given year.",
+    "The applicant must be a nominee or dependent of a deceased registered member of the Board.",
+    "The deceased member must have died either during the course of employment or due to any other reason."
+  ],
+  "benefits_summary": "₹4,00,000 for death during employment and ₹2,00,000 for death due to any other reason.",
+  "documents_required": [],
+  "application_link": null
+}

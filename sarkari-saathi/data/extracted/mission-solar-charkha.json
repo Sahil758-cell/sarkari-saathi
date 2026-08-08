@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mission Solar Charkha",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Existing Khadi and Village Industry Institution (KVI) can apply if it has a positive balance sheet and assets, an artisan base of at least 200, sales turnover of at least ₹1.00 crore in each of the preceding three financial years, and an increase in the number of new artisans in the last three years.",
+    "Other institutions such as SPV, Society, Trust, Section 8 Company or LLP can apply if they have a Vision and Mission Board and Governing Structure with sufficient experience, a proper Management Information System (MIS), adequate financial resources (equity and debt), and demonstrated financial performance (profitability and IRR) for the last three years.",
+    "First‑time applicants can apply if they demonstrate highest commitment to social and rural upliftment, obtain funding commitment from scheduled commercial banks/NBFC/Venture Capital/Private Equity funds, have a proper MIS, and meet any additional criteria approved by the governing council.",
+    "Promoter must conduct a baseline survey identifying at least 200 members with Aadhaar numbers, with at least 50 % women.",
+    "Promoter must provide land of minimum 20,000 sq ft (up to 2 acres) either owned or on a long‑term lease of at least 15 years, and bear all related expenditures.",
+    "Promoter must deposit at least 15 % of the required working capital (or three months’ projected working capital) in a separate dedicated account after final selection and before the first fund release.",
+    "Promoter must form a Special Purpose Vehicle (SPV), preferably a Section‑8 Company or a Producer Company, before the release of the first installment of funds."
+  ],
+  "benefits_summary": "Provides up to ₹9.599 crore subsidy per cluster covering capital subsidies for solar charkhas, looms, work sheds, solar grid, equipment, an 8 % interest subvention on working capital, and capacity‑building courses.",
+  "documents_required": [],
+  "application_link": "https://kviconline.gov.in/msc/view1.jsp"
+}

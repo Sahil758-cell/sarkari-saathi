@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Sanctioning Spectacles to Senior Citizens",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have previously availed the benefit of this scheme."
+  ],
+  "benefits_summary": "Provides spectacles to senior citizens, with the cost fully covered for parents/guardians earning up to ₹15,000 per month, half covered for incomes ₹15,001–₹20,000, and the beneficiary bears the cost above ₹20,000.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

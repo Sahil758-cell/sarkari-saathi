@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Nawabihan Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have experienced domestic violence as defined under the Protection of Women from Domestic Violence Act 2005",
+    "Must be in need of legal advice, counselling, medical aid, transportation, or shelter"
+  ],
+  "benefits_summary": "Provides legal advice, counselling, medical aid, transportation, and shelter facilities to women affected by domestic violence.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Lakshya Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 1000000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must be a domicile (permanent resident) of Tripura",
+    "Candidate must have cleared the Civil Services Examination Prelims conducted by UPSC",
+    "Candidate can receive assistance only twice, irrespective of the number of attempts"
+  ],
+  "benefits_summary": "₹1,00,000 for candidates clearing UPSC Prelims (coaching and travel expenses) and ₹20,000 for candidates clearing UPSC Mains and invited for interview, both disbursed via Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "Photograph (jpg format)",
+    "Bank Passbook",
+    "Income Certificate from SDM/DCM",
+    "UPSC Prelims/Mains Clearance Proof"
+  ],
+  "application_link": null
+}

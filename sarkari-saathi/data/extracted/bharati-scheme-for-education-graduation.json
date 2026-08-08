@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Bharati Scheme for Education - Graduation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student and his/her parents must belong to the Brahmin community",
+    "Student must be studying in any recognized and reputed college in Andhra Pradesh for the academic year",
+    "Parents should be residing in Andhra Pradesh",
+    "Student must have cleared all subjects of the previous year",
+    "Student must be enrolled in the Praja Sadhikara Survey (PSS)",
+    "Student must not have availed any amount under any other government scheme for the same purpose, except benefits from Archaka Welfare Trust"
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000 for graduation students.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook"
+  ],
+  "application_link": null
+}

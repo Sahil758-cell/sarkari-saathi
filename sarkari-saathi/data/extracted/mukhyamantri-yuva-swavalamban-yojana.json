@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Yuva Swavalamban Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed Std X with a minimum 80 percentile in the Gujarat board examination for diploma admissions",
+    "Must have passed Std XII (Science/General) with a minimum 80 percentile in the Gujarat board examination for bachelor's degree programmes",
+    "For diploma‑to‑degree students, a minimum of 65% marks at the diploma level examination from a recognized university in Gujarat is required",
+    "Parents' annual income must not exceed Rs 6,00,000",
+    "A valid income certificate is accepted for three financial years from the date of issue",
+    "Hostel grant is applicable only for admissions in other Taluka",
+    "Tuition fee grant is applicable only for self‑finance courses"
+  ],
+  "benefits_summary": "Provides financial assistance for tuition fees, hostel accommodation, and books/instruments to eligible students pursuing higher education in Gujarat.",
+  "documents_required": [],
+  "application_link": null
+}

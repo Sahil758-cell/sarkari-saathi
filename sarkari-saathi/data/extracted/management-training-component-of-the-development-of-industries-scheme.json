@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Management Training Component of the Development of Industries Scheme",
+  "occupation": [
+    "entrepreneur",
+    "industrialist",
+    "representative"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "90% of the training expenditure is subsidized for micro and small scale entrepreneurs/industrialists or their representatives.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

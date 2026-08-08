@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Subsidy Scheme For Establishment Of 100 Broiler Birds' Farm For Schedule Caste",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed poultry‑keeping training.",
+    "Must own land or lease land for two years.",
+    "Must construct a poultry shed of at least 100 square feet.",
+    "Must acquire 100 low‑input broiler birds, poultry feed, and water/feed utensils.",
+    "Must maintain regular vaccination of the birds.",
+    "Must present income and expenditure statements to government officers upon inspection.",
+    "Must operate the unit for a minimum of two years.",
+    "Must provide income proof and caste certificate with the application."
+  ],
+  "benefits_summary": "Provides a 75% subsidy (up to ₹27,000) for establishing a 100‑bird broiler farm, credited directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "Income proof",
+    "Caste certificate"
+  ],
+  "application_link": null
+}

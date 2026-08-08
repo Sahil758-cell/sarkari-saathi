@@ -1,0 +1,30 @@
+{
+  "scheme_name": "West Bengal Migrant Workers’ Welfare Scheme: Cremation",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of West Bengal",
+    "Applicant must be ordinarily a worker employed or likely to be employed in any State/UT other than West Bengal or outside India",
+    "Beneficiary must be the nominee nominated by the registered migrant worker",
+    "The migrant worker must have died during the course of employment at the workplace or place of stay",
+    "Registration and claim must be processed through the KARMASATHI (PARIJAYEE SHRAMIK) mobile app",
+    "Registered migrant workers must renew their registration on a yearly basis"
+  ],
+  "benefits_summary": "A financial assistance of ₹3,000 is provided to the nominee of a deceased registered migrant worker for cremation.",
+  "documents_required": [
+    "bank account details",
+    "ration card",
+    "nominee details"
+  ],
+  "application_link": null
+}

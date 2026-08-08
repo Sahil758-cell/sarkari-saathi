@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Swachh Bharat Mission – Urban 2.0",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "Household must not have an existing individual household toilet or must have an insanitary toilet"
+  ],
+  "benefits_summary": "Financial support for toilet construction ranging from Rs 5,333 to Rs 12,000 depending on the state/UT.",
+  "documents_required": [
+    "ID proof (ID Type and ID Number)",
+    "Aadhaar number",
+    "Bank account details",
+    "Photograph"
+  ],
+  "application_link": null
+}

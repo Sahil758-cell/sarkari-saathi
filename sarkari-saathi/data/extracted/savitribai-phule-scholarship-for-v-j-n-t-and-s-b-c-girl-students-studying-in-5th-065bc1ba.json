@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Savitribai Phule Scholarship For V.J.N.T. And S.B.C. Girl Students Studying In 5th To 7th Standard",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Studying in Class 5th to 7th",
+    "Studying in a government recognized school",
+    "Belonging to Vimukta Jati and Nomadic Tribes (VJNT) or Special Backward Classes (SBC)"
+  ],
+  "benefits_summary": "The beneficiary receives a scholarship of ₹60 per month, totaling ₹600 for ten months.",
+  "documents_required": [
+    "Personal Details",
+    "Address Information",
+    "Other Information",
+    "Current Course",
+    "Past Qualification",
+    "Hostel Details"
+  ],
+  "application_link": "https://mahadbt.maharashtra.gov.in/Login/Login"
+}

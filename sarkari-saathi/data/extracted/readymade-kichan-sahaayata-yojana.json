@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Readymade Kichan Sahaayata Yojana",
+  "occupation": [
+    "Unorganized workers selling tea and snacks or food items",
+    "Commercial vehicle drivers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Chhattisgarh Unorganized Workers State Social Security Board",
+    "Must have been registered with the board at least 90 days before application",
+    "Commercial vehicle drivers must possess a health certificate from the RTO",
+    "Applicants can receive benefits only once",
+    "Applicants who have already received benefits from any other parallel state scheme are ineligible"
+  ],
+  "benefits_summary": "A grant of ₹30,000 is provided, and the remaining amount is extended as a bank loan after submission of required loan documents.",
+  "documents_required": [
+    "Health certificate from RTO",
+    "Loan-related documents"
+  ],
+  "application_link": null
+}

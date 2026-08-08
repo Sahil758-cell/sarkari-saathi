@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Assistance to Traditional Pottery Makers",
+  "occupation": [
+    "traditional pottery-making"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Financial assistance of ₹25,000 is provided to traditional pottery makers for upgrading the occupation and purchasing machinery.",
+  "documents_required": [],
+  "application_link": null
+}

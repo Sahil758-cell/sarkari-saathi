@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Research Fellowship In Sciences For Meritorious Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must be registered for Ph.D. in science subjects at a University with Potential for Excellence, Centre with Potential for Excellence, Centre of Advance Studies, or Department of Special Assistance identified by UGC."
+  ],
+  "benefits_summary": "The scheme provides a monthly fellowship of ₹8,000 (plus an annual contingency) for up to five years, with leave benefits including maternity leave.",
+  "documents_required": [
+    "Application form",
+    "Supporting documents"
+  ],
+  "application_link": null
+}

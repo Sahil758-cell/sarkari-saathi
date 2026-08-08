@@ -1,0 +1,22 @@
+{
+  "scheme_name": "National Youth Corps",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 29,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have passed Class 10th.",
+    "Applicant should be IT‑savvy and able to prepare and upload reports/documentation of youth programmes.",
+    "Applicant should be familiar with preparing reports for media or news statements.",
+    "Applicant must know how to use required mobile apps such as DigiDhan, Digital India, etc."
+  ],
+  "benefits_summary": "An honorarium of ₹5,000 per month is provided for up to two years of full‑time service.",
+  "documents_required": [],
+  "application_link": "www.nyks.nic.in"
+}

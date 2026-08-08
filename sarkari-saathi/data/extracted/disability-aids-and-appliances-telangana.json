@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Disability Aids and Appliances - Telangana",
+  "occupation": [
+    "building worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be registered with the Telangana Building and Other Construction Workers Welfare Board",
+    "Disablement must have occurred due to an accident at the worksite or anywhere"
+  ],
+  "benefits_summary": "Free artificial limbs, wheelchairs/tricycles, and fabricated appliances are provided to eligible workers.",
+  "documents_required": [],
+  "application_link": null
+}

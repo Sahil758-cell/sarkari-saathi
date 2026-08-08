@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Assistance For Delivery / Miscarriage Of Pregnancy / Termination Of Pregnancy To Female Differently Abled Person",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold the identity card issued by the welfare board for the differently abled.",
+    "Eligibility category noted in source: Differently Abled"
+  ],
+  "benefits_summary": "Provides a total of ₹6,000 (₹1,000 per month) for delivery and ₹3,000 for miscarriage/termination of pregnancy to a female differently abled person.",
+  "documents_required": [
+    "Identity card issued by the welfare board for the differently abled"
+  ],
+  "application_link": null
+}

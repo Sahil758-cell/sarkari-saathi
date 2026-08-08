@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Border Areas Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both father's and mother's income from all sources must be derived from Border Area",
+    "Individuals employed in government service are not eligible for the scholarship",
+    "Ph.D. and M.Phil students are not entitled to the scholarship",
+    "Only B.Ed and M.Ed students who are currently pursuing the course and are not already in service are eligible",
+    "The applicant's village must be listed among the notified border‑area villages issued by the Border Area Department",
+    "Participation in any government political activities or demonstrations will result in loss of the scholarship",
+    "The scholarship is contingent on good conduct, regular attendance and satisfactory academic progress",
+    "If the scholar leaves the course before completion, the scholarship will be suspended",
+    "The scholarship holder may receive other scholarships in addition to this grant/subsidy"
+  ],
+  "benefits_summary": "Financial assistance is provided to eligible B.Ed and M.Ed students from notified border‑area villages.",
+  "documents_required": [],
+  "application_link": null
+}

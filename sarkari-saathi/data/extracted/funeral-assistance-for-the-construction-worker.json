@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Funeral Assistance for the Construction Worker",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year",
+    "Applicant must be a nominee or dependent of a registered worker of the Sikkim Building and Other Construction Workers Welfare Board",
+    "Nominee/dependent must have lost the registered member/worker due to death"
+  ],
+  "benefits_summary": "Provides a funeral assistance of ₹10,000 to eligible nominees/dependents.",
+  "documents_required": [],
+  "application_link": null
+}

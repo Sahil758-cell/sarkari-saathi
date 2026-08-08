@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant of Subsidy for Procurement of Vehicle",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the fishermen's community",
+    "Applicant must be a member of a Fishermen Cooperative Society and have no overdue with the society/department",
+    "Applicant must possess a valid driving license issued by the Transport Authority for driving a moped, auto goods carrier or transport vehicle",
+    "Applicant must not have previously availed a loan/subsidy under this scheme for the same purpose",
+    "Applicant must not be employed in any Government, Government undertaking or Society on a regular, part‑time or temporary basis"
+  ],
+  "benefits_summary": "Provides a 50% subsidy on purchase of specified fish‑transport vehicles, with maximum subsidy amounts up to ₹5,00,000 per vehicle.",
+  "documents_required": [
+    "Driving license issued by the Transport Authority",
+    "Passport‑sized photograph"
+  ],
+  "application_link": null
+}

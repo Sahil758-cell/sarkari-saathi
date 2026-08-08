@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Widow Daughter Marriage Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum residence of 5 years in Delhi before the date of application",
+    "Applicant must have an Aadhaar number",
+    "Applicant must have a single‑operated Aadhaar‑linked bank account in Delhi only",
+    "Applicant must not be receiving any assistance from the discretionary fund of the Lt. Governor or the Chief Minister for the same purpose",
+    "Applicant must not be receiving any pension from Central, State, MCD or NDMC for this purpose",
+    "Application must be submitted within 60 days before or after the date of marriage",
+    "Grant is limited to up to two daughters and is a one‑time grant"
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹30,000 per eligible case.",
+  "documents_required": [
+    "Aadhaar number"
+  ],
+  "application_link": "https://edistrict.delhigovt.nic.in/Account/Login"
+}

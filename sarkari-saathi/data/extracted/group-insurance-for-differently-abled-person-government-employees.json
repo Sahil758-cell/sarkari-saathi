@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Group Insurance for Differently Abled Person Government Employees",
+  "occupation": [
+    "government servant"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of at least 40%"
+  ],
+  "benefits_summary": "Provides a lump‑sum sum insured to the family of a government employee who dies in service due to an accident, with amounts ranging from ₹15,000 to ₹1,20,000 depending on the group.",
+  "documents_required": [
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Capital Investment Subsidy: 5% Additional Capital Investment Subsidy to Karaikal Region",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have an industrial unit located in the Karaikal Region of Puducherry.",
+    "The applicant must be engaged in a priority industry announced by the Government and set up in Karaikal."
+  ],
+  "benefits_summary": "Provides an extra 5% incentive on existing subsidy schemes for units in Karaikal, with caps ranging from ₹25 lakhs to ₹40 lakhs depending on sector and entrepreneur category.",
+  "documents_required": [],
+  "application_link": null
+}

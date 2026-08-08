@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Providing Tin stalls to Gatai Kamgar",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Maharashtra.",
+    "If residing in a rural area, total household income must be less than ₹40,000.",
+    "If residing in an urban area, total household income must be less than ₹50,000.",
+    "Stall location must be on rent/lease/purchased/official free hand by Gram Panchayat, Municipality, Cantonment Board, Municipal corporation, or on the applicant's own property."
+  ],
+  "benefits_summary": "Provides a 100% government‑funded tin stall and a ₹500 financial assistance to eligible applicants.",
+  "documents_required": [
+    "Application form",
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

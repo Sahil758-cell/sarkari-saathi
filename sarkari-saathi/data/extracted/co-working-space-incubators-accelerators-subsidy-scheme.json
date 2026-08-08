@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Co-Working Space/ Incubators/ Accelerators Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Startup must be certified by the Startup Promotion Cell (SPC).",
+    "Bank account of the startup must be linked to Aadhaar.",
+    "Payments to co‑working spaces, incubators or accelerators must be made digitally, unless SPC decides otherwise."
+  ],
+  "benefits_summary": "Startups receive reimbursement of up to 50 % of seat costs (capped at ₹3000 for co‑working spaces, ₹5000 for incubators, ₹6000 for accelerators) for up to 8 seats, with duration limits of two years, one year and three months respectively.",
+  "documents_required": [],
+  "application_link": null
+}

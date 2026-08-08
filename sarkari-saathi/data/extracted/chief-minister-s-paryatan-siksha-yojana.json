@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Chief Minister’s Paryatan Siksha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed Class XII in any stream or equivalent for B.Sc. in Hospitality and Hotel Administration at the Institute of Hotel Management.",
+    "Must have passed Class X or XII in any stream or equivalent for Diploma courses in tourism or hospitality related subjects such as Food Production, Food & Beverage Service, Front Office, Housekeeping, Bakery & Confectionaries.",
+    "Must be a graduate in any stream for Post Graduate Diploma in tourism or hospitality related subjects.",
+    "Merit list is drawn based on the percentage of marks obtained under the criteria."
+  ],
+  "benefits_summary": "Sponsorship for selected students to pursue B.Sc., Diploma or PG Diploma courses in tourism and hospitality.",
+  "documents_required": [],
+  "application_link": null
+}

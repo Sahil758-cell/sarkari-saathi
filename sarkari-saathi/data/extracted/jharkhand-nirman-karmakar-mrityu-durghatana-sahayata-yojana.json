@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana",
+  "occupation": [
+    "Nirman Shramik",
+    "Nirman Karmakar"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Must be a registered construction worker (Nirman Shramik / Nirman Karmakar)",
+    "Must have worked for at least 90 days"
+  ],
+  "benefits_summary": "Provides cash assistance up to ₹5,00,000 for death, ₹3,00,000 for total disability, ₹2,00,000 for partial disability, and ₹1,00,000 for normal death.",
+  "documents_required": [],
+  "application_link": "http://shramadhan.jharkhand.gov.in"
+}

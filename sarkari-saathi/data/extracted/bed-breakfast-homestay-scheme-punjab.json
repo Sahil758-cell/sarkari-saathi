@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Bed & Breakfast/Homestay Scheme- Punjab",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "House construction must be not more than 20 years old for Gold Category",
+    "Property must have at least 25% open area (lawn/green area/outside terrace) for Gold Category",
+    "Provision for hygienic food storage is required",
+    "Adequate parking space inside the premises is required",
+    "Owner must have at least one let‑able room and at most six let‑able rooms (maximum 12 beds)",
+    "Owner must be physically residing in the same property",
+    "Each bedroom must have an attached bathroom with 24‑hour hot and cold water, Western‑style toilet, and proper power, ventilation, and lighting",
+    "Premises must be structurally safe, hygienic, clean and meet safety standards",
+    "Registered units must maintain standards as per checklist and are subject to surprise inspections"
+  ],
+  "benefits_summary": "Offers owners additional income and branding/marketing support from Punjab Tourism, including use of the tourism logo and promotion on official channels.",
+  "documents_required": [],
+  "application_link": "https://punjabtourism.punjab.gov.in/"
+}

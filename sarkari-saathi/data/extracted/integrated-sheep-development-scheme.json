@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Integrated Sheep Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary can be an Individual, Group of Individuals, Self Help Group, Cooperative Society, or Farmers Producer Organization",
+    "For shearing units, the beneficiary must be an individual trained in MSS or intending to undergo training in MSS",
+    "Beneficiary must have basic infrastructure and grazing avenues available to maintain the unit"
+  ],
+  "benefits_summary": "Beneficiaries receive free ewes and up to 50% subsidy for establishing sheep/goat units or shearing units, subject to cost ceilings per unit.",
+  "documents_required": [],
+  "application_link": "Submit Annexure B to the respective District Sheep Husbandry Officer (DSHO)"
+}

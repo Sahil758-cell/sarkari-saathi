@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Artificial Limbs and Assistive Devices Supply Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess a Disability Certificate or a UDID Card",
+    "Disability must be 40% or more",
+    "Monthly income of applicant or parents/guardian must not exceed ₹8,000",
+    "Applicant must be a member of a BPL family or have a recommendation from the Collector or Sub‑Divisional Officer (Revenue)"
+  ],
+  "benefits_summary": "Provides artificial limbs or assistive devices worth up to ₹6,900, either free of cost for low‑income beneficiaries or at 50% cost for those with monthly income between ₹5,001 and ₹8,000.",
+  "documents_required": [
+    "Disability Certificate",
+    "UDID Card"
+  ],
+  "application_link": null
+}

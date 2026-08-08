@@ -1,0 +1,25 @@
+{
+  "scheme_name": "PM Vishwakarma",
+  "occupation": [
+    "artisan",
+    "craftsperson"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be engaged in the unorganized sector on a self‑employment basis",
+    "The applicant must be engaged in one of the 18 family‑based traditional trades listed in the scheme",
+    "The applicant must not have availed loans under similar central or state credit‑based schemes (e.g., PMEGP, PM SVANidhi, Mudra) in the past 5 years",
+    "Registration and benefits are restricted to one member of the family"
+  ],
+  "benefits_summary": "Provides collateral‑free credit up to ₹2 lakhs, skill training, tool grants, digital transaction incentives and marketing support.",
+  "documents_required": [],
+  "application_link": null
+}

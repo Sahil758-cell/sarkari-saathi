@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Kisan Kaleva Yojana",
+  "occupation": [
+    "Hamal",
+    "Palledar",
+    "Tulara",
+    "market member",
+    "license holder"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Hamal, Palledar, or Tulara of farmers selling agricultural commodities",
+    "Applicant must be a member of the market premises",
+    "Applicant must hold a market licence"
+  ],
+  "benefits_summary": "Provides subsidized meals at ₹5 per plate to eligible farmers and their helpers at the market",
+  "documents_required": [],
+  "application_link": null
+}

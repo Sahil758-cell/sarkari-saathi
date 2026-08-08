@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Grant of Margin Money for Availing Capital Loan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Coir unit must be established in Puducherry.",
+    "Commercial production must commence within six months of the Margin Money Grant release."
+  ],
+  "benefits_summary": "Provides 25% margin money up to ₹25,00,000 on receipt of a financial institution’s sanction order for projects worth ₹1,00,00,000.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

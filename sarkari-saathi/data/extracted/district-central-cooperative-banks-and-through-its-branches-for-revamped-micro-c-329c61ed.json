@@ -1,0 +1,23 @@
+{
+  "scheme_name": "District Central Cooperative Banks and through its Branches: For Revamped Micro Credit Loan for Women Vendors of Flower, Vegetable, Fruit etc.",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Engaged in vending activities of flowers, vegetables, fruits, etc."
+  ],
+  "benefits_summary": "Micro‑credit loans ranging from ₹100 to ₹5,000 at an interest rate of 11%.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

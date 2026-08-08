@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Dr. Savitaben Ambedkar Inter Caste Marriage Assistance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The marriage must be between a Scheduled Caste individual and a non‑Scheduled Caste Hindu.",
+    "The marriage must be legally registered.",
+    "Application must be submitted within two years of the marriage date.",
+    "At least one spouse must be a native of Gujarat.",
+    "Parents of the couple must have resided in Gujarat for at least five years.",
+    "Non‑Scheduled Caste spouse who is a migrant must provide a certificate stating they are not untouchable and that they practice Hinduism.",
+    "Widowers or widows without children may remarry and be eligible."
+  ],
+  "benefits_summary": "A total assistance of ₹2,50,000 is provided to the couple – ₹1,00,000 for domestic expenses and ₹1,50,000 in the form of National Savings Certificates.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

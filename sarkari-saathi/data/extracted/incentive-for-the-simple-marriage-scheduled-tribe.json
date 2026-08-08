@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Incentive For The Simple Marriage (Scheduled Tribe)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Application must be submitted within one year of marriage.",
+    "Marriage must have taken place on or after 11th August 2015."
+  ],
+  "benefits_summary": "An incentive of ₹50,000 is provided to the married couple.",
+  "documents_required": [],
+  "application_link": null
+}

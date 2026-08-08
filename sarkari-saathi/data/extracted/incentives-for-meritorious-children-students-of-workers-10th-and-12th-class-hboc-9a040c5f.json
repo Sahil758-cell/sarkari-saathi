@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Incentives for Meritorious Children (Students) of Workers (10th and 12th Class) (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be engaged in building or construction work.",
+    "Applicant must be registered with the Haryana Building & Other Construction Workers Welfare Board.",
+    "Applicant must have at least one year of regular active membership with the Board.",
+    "Applicant must have a Parivar Pehchan Patra (Family ID) or obtain one through the PPP portal.",
+    "Applicant must complete Aadhaar verification.",
+    "Applicant must pay the registration fee and add a minimum of 90 days of work experience in the preceding year.",
+    "Scholarship can be availed for up to three children who have achieved academic excellence (minimum 60% marks) in Class X/XII examinations, with higher amounts for higher marks."
+  ],
+  "benefits_summary": "Fixed‑deposit scholarship awarded to meritorious children of construction workers, ranging from ₹21,000 to ₹51,000 based on exam marks.",
+  "documents_required": [
+    "Aadhaar number",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": null
+}

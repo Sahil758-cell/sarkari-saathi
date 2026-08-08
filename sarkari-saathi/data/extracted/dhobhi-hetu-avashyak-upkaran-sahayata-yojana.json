@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Dhobhi Hetu Avashyak Upkaran Sahayata Yojana",
+  "occupation": [
+    "Dhobhi"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered unorganized worker of the State Social Security Board."
+  ],
+  "benefits_summary": "Provides materials worth ₹1,500, including electronic/coal iron, clothespins, and a washing paddle.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Award of Adhoc Merit Grant (Special Incentive) to Scheduled Caste Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have secured 65% or above marks in the 10th Standard/Matriculation/SSLC Board of Examination",
+    "Must be a permanent resident of the Union Territory of Puducherry by birth or continuous residence for at least five years",
+    "Must pursue higher studies in a recognized university, college or institution"
+  ],
+  "benefits_summary": "A one‑time cash award of ₹1,000 is given to eligible Scheduled Caste students who meet the academic criteria.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

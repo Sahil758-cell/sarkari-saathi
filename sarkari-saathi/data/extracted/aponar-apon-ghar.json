@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Aponar Apon Ghar",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 2000000,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Assam",
+    "Must obtain the housing loan from any Scheduled Commercial Bank, Regional Rural Bank, or Assam Cooperative Apex bank within Assam",
+    "Total family income must not exceed ₹20,00,000",
+    "Loan amount must be more than ₹5,00,000 and up to ₹40,00,000, sanctioned on or after 1st April 2019",
+    "Loan accounts must not be under NPA (Non Performing Assets) status",
+    "Must be the first home for the composite family and not have availed loans under the previous Apun Ghar Scheme"
+  ],
+  "benefits_summary": "Subsidy of up to ₹2,50,000 on home loans ranging from ₹5,00,000 to ₹40,00,000.",
+  "documents_required": [
+    "Land Proof",
+    "Address Proof",
+    "PAN Card Proof"
+  ],
+  "application_link": null
+}

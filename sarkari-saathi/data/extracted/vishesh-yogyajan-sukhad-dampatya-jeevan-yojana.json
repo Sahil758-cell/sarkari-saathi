@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Vishesh Yogyajan Sukhad Dampatya Jeevan Yojana",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a specially‑abled individual (male or female).",
+    "Applicant must possess a disability certificate showing at least 40% disability, issued by a Medical Officer or Medical Board.",
+    "Groom must be at least 21 years old and bride must be at least 18 years old.",
+    "Application must be submitted within six months of the date of marriage."
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 per couple is provided.",
+  "documents_required": [
+    "Disability certificate"
+  ],
+  "application_link": null
+}

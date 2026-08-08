@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Family Pension (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the surviving spouse of the deceased pensioner",
+    "Deceased pensioner must have been registered as a worker with the Goa Building and Other Construction Workers Welfare Board",
+    "Application must be submitted offline within three months of the pensioner’s death"
+  ],
+  "benefits_summary": "The surviving spouse receives a pension equal to 50% of the deceased pensioner's pension or ₹200, whichever is higher.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (if required)",
+    "Copies of all mandatory documents (self-attested if required)"
+  ],
+  "application_link": null
+}

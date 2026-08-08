@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Merit Cum Means Linked Financial Assistance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in an undergraduate programme in any Delhi State Public University or affiliated college/institute.",
+    "Student must belong to one of the income categories: (i) Beneficiary under National Food Security Scheme with a valid card, (ii) family income up to Rs.2.50 lakh per annum, or (iii) family income between Rs.2.50 lakh and Rs.6 lakh per annum.",
+    "Student must achieve a qualifying aggregate percentage of at least 60% in all subjects (55% for SC/ST students)."
+  ],
+  "benefits_summary": "Provides tuition fee reimbursement of up to 100% for meritorious students from economically weaker sections, with 50% or 25% reimbursement for those with higher family incomes.",
+  "documents_required": [],
+  "application_link": null
+}

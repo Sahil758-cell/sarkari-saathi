@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Unemployment Allowance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 34,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be unemployed and not employed in government, PSU, private sector, or self‑employed",
+    "Must be a bonafide Himachali resident",
+    "Must have passed at least 10+2 from a board/university recognised by the Himachal Pradesh Government",
+    "Must be registered with an Employment Exchange in Himachal Pradesh for at least one year as on the date of application",
+    "Must not be a dismissed government employee",
+    "Must not have any conviction resulting in imprisonment of 48 hours or more",
+    "Must not be a regular student pursuing any course",
+    "Must not be availing the Skill Development Allowance"
+  ],
+  "benefits_summary": "Monthly allowance of ₹1,000 for eligible unemployed youth, or ₹1,500 for physically challenged persons, payable for up to two years.",
+  "documents_required": [
+    "Attested Copy of Employment Registration Card",
+    "Attested Copy of Income Certificate (not more than 6 months old)",
+    "Himachal Pradesh Unemployment Allowance Scheme Self Certified Declaration Form C",
+    "Attested Copy of Domicile of Himachal Pradesh",
+    "Attested Copy of all the Educational Qualification Certificates",
+    "Attested Copy of Aadhar Card"
+  ],
+  "application_link": null
+}

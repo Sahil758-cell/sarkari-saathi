@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Households identified by the Gram Panchayat are eligible",
+    "Cluster households must have a minimum of 3 to 4 cattle",
+    "Villages with a high population of cattle are given priority",
+    "Entrepreneurs, cooperatives, Gaushalas, dairies are eligible under the Commercial Model to set up large biogas/Compressed Bio‑gas plants"
+  ],
+  "benefits_summary": "The scheme converts cattle and organic waste into biogas and organic manure, generating income, reducing LPG expenses and improving sanitation in villages.",
+  "documents_required": [],
+  "application_link": null
+}

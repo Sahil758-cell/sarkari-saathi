@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Biotechnology Post-Doctoral Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Kerala state",
+    "Must possess a first‑class Master’s degree in Life Sciences (including Veterinary Science, Agriculture, Forestry, Fisheries) or a Master’s in Medicine followed by a PhD in a biotechnologically relevant field",
+    "Candidate must have submitted their PhD thesis and have quality publications in indexed (SCI) journals",
+    "Must not be receiving any fellowship or grant from any other source",
+    "Cannot have previously availed a post‑doctoral fellowship from KSCSTE or any other agency",
+    "Age limit is below 35 years, with an additional relaxation of up to 5 years for SC, ST, women and physically handicapped candidates",
+    "Post‑doctoral fellow must join a suitable institution other than the parent institution unless justified"
+  ],
+  "benefits_summary": "Monthly stipend of ₹32,000 plus 10% HRA and an annual contingent grant of ₹50,000 (₹22,000 plus 10% HRA for candidates awaiting PhD award).",
+  "documents_required": [],
+  "application_link": null
+}

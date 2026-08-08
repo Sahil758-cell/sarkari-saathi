@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Assistance to Persons with Disabilities for Purchase/Fitting of Artificial Limbs/Appliances",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan.",
+    "Applicant must be a disabled person with at least 40% disability.",
+    "Applicant’s family should not be an income tax payer."
+  ],
+  "benefits_summary": "Financial assistance up to ₹10,000 for purchase of artificial limbs or related equipment.",
+  "documents_required": [],
+  "application_link": null
+}

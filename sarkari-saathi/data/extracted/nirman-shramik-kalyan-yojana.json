@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Nirman Shramik Kalyan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child must be a ward/child of a building and other construction (BoC) worker who is a registered beneficiary of the Odisha Building and Other Construction Workers Welfare Board",
+    "The beneficiary must have completed at least one year as a registered beneficiary under the Board",
+    "A maximum of two children per family are eligible for assistance",
+    "For classes 6th and 7th, assistance is only for girl children; from class 8th onward, both girls and boys are eligible",
+    "Both parents cannot claim separate assistance for the same child if both are registered beneficiaries",
+    "The beneficiary must have made up‑to‑date annual contributions to the Board",
+    "The student must have at least 50 % attendance in the class for the academic year",
+    "The beneficiary must have an active bank account with DBT enabled in his/her name"
+  ],
+  "benefits_summary": "Annual educational assistance ranging from ₹2,000 to ₹40,000 per student, with an extra 20 % benefit for girl children from class 8 onward.",
+  "documents_required": [],
+  "application_link": "https://scholarship.odisha.gov.in"
+}

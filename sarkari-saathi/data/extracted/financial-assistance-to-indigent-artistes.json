@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance to Indigent Artistes",
+  "occupation": null,
+  "gender": null,
+  "age_min": 50,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an indigent artist",
+    "Applicant must contribute to music, dance, drama, folk, painting, or sculpture",
+    "Applicant must not be a recipient of any other assistance from any other organizations",
+    "Applicant must be a resident of the Union Territory of Puducherry either by birth or by domicile",
+    "Applicant’s wife/children shall be eligible to receive assistance after the death of the indigent artist"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

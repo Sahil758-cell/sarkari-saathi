@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance for Setting up Crab Culture Unit",
+  "occupation": [
+    "Fish Farmer",
+    "Individual",
+    "Registered Self Help Group",
+    "Societies"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Goa for the last fifteen years",
+    "Must undergo a training programme on Crab Farming organized by the Fisheries Department, MPEDA, ICAR or other institutes",
+    "Application must be submitted offline"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹1,50,000 per hectare (25% of cost) for setting up crab culture units and up to ₹75,000 per hectare (50% of cost) for seed and feed, each for up to 2 hectares.",
+  "documents_required": [],
+  "application_link": null
+}

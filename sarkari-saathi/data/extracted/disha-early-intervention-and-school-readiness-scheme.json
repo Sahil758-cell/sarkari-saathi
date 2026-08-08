@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Disha - Early Intervention and School Readiness Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 10,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "PwD must have one of the disabilities covered under the National Trust Act: Autism, Cerebral Palsy, Mental Retardation, or Multiple Disabilities."
+  ],
+  "benefits_summary": "Provides day‑care, therapy, training, counselling and transport facilities for children with disabilities aged 0‑10 years.",
+  "documents_required": [],
+  "application_link": null
+}

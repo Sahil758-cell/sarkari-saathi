@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Vasantrao Naik Tanda / Basti Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Tanda/Basti must have at least 51 residents belonging to Vimukta Jatis and Nomadic Tribes (VJNT)",
+    "Area must lack basic infrastructure amenities such as drinking water, sanitation, or electrification"
+  ],
+  "benefits_summary": "Grant up to ₹10 Lakhs based on VJNT population size (₹4 Lakhs for 51‑100 people, ₹6 Lakhs for 101‑150, and ₹10 Lakhs for more than 151).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Kalyanamastu Pathakam Scheme - Andhra Pradesh",
+  "occupation": [
+    "Pourohityam",
+    "Veda Parayanam",
+    "Archakatvam"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bride must be at least 18 years old at the time of marriage",
+    "Bride must belong to the Brahmin community and be enrolled in the Praja Sadhikara Survey (PSS)",
+    "Bridegroom must be at least 21 years old at the time of marriage",
+    "Bridegroom must be a Brahmin resident of Andhra Pradesh",
+    "Bridegroom's livelihood must be from Pourohityam, Veda Parayanam, or Archakatvam",
+    "Bridegroom must not be a full‑time employee, businessman, professional in other professions, or an industrialist",
+    "Application must be submitted 15 days before the marriage or within 30 days after the marriage"
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹75,000.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhar Card",
+    "Caste Certificate",
+    "Bank Passbook"
+  ],
+  "application_link": "https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#"
+}

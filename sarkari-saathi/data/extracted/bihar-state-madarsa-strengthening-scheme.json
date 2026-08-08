@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Bihar State Madarsa Strengthening Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Madarsa must be located in Bihar",
+    "Madarsa must be recognized by the Bihar State Madarsa Board or other government‑recognized Madarsas",
+    "The Madarsa Management Committee must not have been subject to any disciplinary actions in the past three years",
+    "Madarsa must possess sufficient land that is legally owned and free from disputes",
+    "Enrollment must be more than 70 students",
+    "The Madarsa must have been recognized for at least two years",
+    "Madarsa must adhere to all relevant state regulations and guidelines for educational institutions"
+  ],
+  "benefits_summary": "Provides construction, renovation, and equipment of infrastructure such as buildings, labs, libraries, hostels, and utilities for eligible madrasas.",
+  "documents_required": [],
+  "application_link": null
+}

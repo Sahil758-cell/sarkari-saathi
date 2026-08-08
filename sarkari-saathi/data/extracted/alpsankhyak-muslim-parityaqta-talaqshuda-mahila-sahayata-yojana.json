@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Alpsankhyak Muslim Parityaqta/Talaqshuda Mahila Sahayata Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 400000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must not have remarried",
+    "Widows are not eligible for the scheme",
+    "Benefits are available only once in a lifetime",
+    "Eligibility category noted in source: Divorced",
+    "Eligibility category noted in source: Abandoned by husband for more than 2 years",
+    "Eligibility category noted in source: Husband is completely mentally handicapped"
+  ],
+  "benefits_summary": "Provides a one-time financial assistance of ₹25,000 to eligible minority Muslim abandoned or divorced women to strengthen their economic condition.",
+  "documents_required": [],
+  "application_link": null
+}

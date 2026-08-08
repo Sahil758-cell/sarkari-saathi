@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Samruddhi Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have qualified SSLC (Secondary School Leaving Certificate)",
+    "Applicant must be a permanent resident of Karnataka",
+    "Applicant must belong to the SC community",
+    "Applicant will be selected based on merit, must undergo district‑level screening and obtain franchisor approval",
+    "Beneficiary must compulsorily undergo the orientation program conducted by the franchisor",
+    "If the selected candidate is found ineligible at any stage, the sanction will be cancelled",
+    "For franchisor empanelment, the company must be registered in India",
+    "The company must provide a franchise/dealership opportunity",
+    "The company must have a strong brand and market presence for at least three years",
+    "The company must have a minimum of ten franchisees/dealerships",
+    "The company must provide marketing training to the entrepreneurs"
+  ],
+  "benefits_summary": "Provides up to ₹10 lakh initial capital along with training, mentorship and capacity‑building support to the selected entrepreneur.",
+  "documents_required": [],
+  "application_link": null
+}

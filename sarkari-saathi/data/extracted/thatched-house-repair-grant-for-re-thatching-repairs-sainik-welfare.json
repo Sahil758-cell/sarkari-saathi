@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Thatched House Repair Grant for Re-thatching & Repairs (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex‑serviceman, Widow of an Ex‑serviceman, or Dependent of an Ex‑serviceman.",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry.",
+    "Applicant must be receiving a Subsistence Allowance.",
+    "Applicant must be living in a thatched house.",
+    "Applications are accepted offline."
+  ],
+  "benefits_summary": "Up to ₹40,000 is provided for re‑thatching and repair of the house, credited to the beneficiary’s bank account via RTGS/NEFT.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across if required)",
+    "Completed application form",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

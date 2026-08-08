@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheduled Tribe Relief Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a destitute tribal bride or an individual who is disabled, destitute, elderly, blind, or extremely destitute.",
+    "Must hold a valid caste certificate confirming Scheduled Tribe status."
+  ],
+  "benefits_summary": "Cash relief of up to ₹15,000 for house burning and ₹5,000 for loss of livelihood, damages to wells, tube wells, motors, or other economic resources.",
+  "documents_required": [
+    "Caste certificate confirming Scheduled Tribe status",
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

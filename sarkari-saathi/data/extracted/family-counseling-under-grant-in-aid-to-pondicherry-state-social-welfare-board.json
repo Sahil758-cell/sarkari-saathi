@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Family Counseling under Grant-in-Aid to Pondicherry State Social Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native or resident of the Union Territory of Puducherry."
+  ],
+  "benefits_summary": "Provides counselling, rehabilitative and referral services to address psychological, social, educational and economic issues of individuals.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Prescribed application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Banishree Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide resident of Odisha.",
+    "Applicant must be a regular student of a recognized educational institution.",
+    "Applicant must not be covered by any Government of India Scholarship.",
+    "Applicant must not be receiving any other financial assistance, stipend or scholarship from the State or Central Government.",
+    "Eligibility includes students in primary (Std I‑V), middle & high school (Std VI‑X), colleges/universities, technical/vocational/professional institutes, distance education programmes, and special schools registered under the PWD Act 1995 that are not receiving grant‑in‑aid from the State/Central Government.",
+    "Scholarship continues even if the student does not pass the academic year, provided regular attendance is maintained."
+  ],
+  "benefits_summary": "Provides monthly scholarships ranging from ₹400 to ₹700 for eligible disabled students in Odisha, with additional allowances for visually challenged and orthopedically handicapped students.",
+  "documents_required": [
+    "Aadhaar details",
+    "UDID Certificate Number",
+    "Signature of applicant",
+    "Signature of spouse"
+  ],
+  "application_link": "https://ssepd.odisha.gov.in/"
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Micro Nutrient Spray",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "50% subsidy or ₹70 per hectare for micro-nutrient sprays.",
+  "documents_required": [],
+  "application_link": null
+}

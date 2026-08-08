@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Technology Acquisition",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro/Small/Medium enterprise.",
+    "Technology must be acquired from a recognized institution or technology provider.",
+    "Applicant must obtain prior approval from the MSME Commissionerate within one year of signing the MoU.",
+    "Technology should be related to product or process improvement."
+  ],
+  "benefits_summary": "Provides financial support covering 65% of technology acquisition cost up to ₹5,000,000 and assistance for royalty payments for the first two years.",
+  "documents_required": [],
+  "application_link": null
+}

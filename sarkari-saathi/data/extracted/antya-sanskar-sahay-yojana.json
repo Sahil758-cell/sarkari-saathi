@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Antya Sanskar Sahay Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "If the applicant is not from a Scheduled Tribe, they must establish a first relationship with the deceased who is from a Scheduled Tribe.",
+    "The claim must be made within 12 months from the occurrence of death."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹20,000 or the actual funeral cost, whichever is lower.",
+  "documents_required": [],
+  "application_link": null
+}

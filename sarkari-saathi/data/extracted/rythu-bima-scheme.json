@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Rythu Bima Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must possess a Domicile certificate of Telangana",
+    "Must own a piece of agricultural land in their name"
+  ],
+  "benefits_summary": "Provides a death or permanent disability benefit of ₹5 lakhs to eligible farmers' families, with premium largely subsidized by the government.",
+  "documents_required": [
+    "Domicile certificate",
+    "Aadhar Card",
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

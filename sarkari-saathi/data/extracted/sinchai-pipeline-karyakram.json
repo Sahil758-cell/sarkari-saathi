@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Sinchai Pipeline Karyakram",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must own the agricultural land.",
+    "The applicant must be a farmer residing in Rajasthan.",
+    "The applicant must have a diesel engine, electric pump, or tractor‑driven pump set on a borewell or well.",
+    "The applicant must own at least 2 bighas of cultivable agricultural land.",
+    "The farmer's bank account must be linked to an Aadhaar card.",
+    "The applicant cannot reapply for the benefit within 10 years of receiving it.",
+    "The application must be submitted within 30 days of purchasing the pipe.",
+    "The pipes must be BIS‑marked and purchased from a manufacturer or authorised dealer registered with the Agriculture Department.",
+    "The pipe diameter must be 63 mm or greater.",
+    "The grant is only for pipes manufactured and sold in the eligible year, with provisions for remaining stock from the previous year."
+  ],
+  "benefits_summary": "The scheme provides a subsidy of up to 50% of water‑transport cost (capped at ₹1,000) and a per‑metre reimbursement for pipe material (₹50/m for HDPE, ₹35/m for PVC, ₹20/m for HDPE laminated tube) capped at ₹15,000 total.",
+  "documents_required": [
+    "Jan Aadhaar number (Aadhaar verification)",
+    "Bhamashah ID or Janaadhaar ID"
+  ],
+  "application_link": null
+}

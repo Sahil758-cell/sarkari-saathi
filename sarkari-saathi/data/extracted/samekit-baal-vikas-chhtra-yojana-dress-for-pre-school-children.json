@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Samekit Baal Vikas Chhtra Yojana: Dress for Pre-school Children",
+  "occupation": null,
+  "gender": null,
+  "age_min": 3,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a child",
+    "The beneficiary must be enrolled at an Anganwadi Centre and receiving pre‑school education",
+    "The beneficiary must be a resident of Bihar"
+  ],
+  "benefits_summary": "₹400 per child per year is provided for uniforms to children aged 3‑6 attending Anganwadi pre‑school education.",
+  "documents_required": [],
+  "application_link": null
+}

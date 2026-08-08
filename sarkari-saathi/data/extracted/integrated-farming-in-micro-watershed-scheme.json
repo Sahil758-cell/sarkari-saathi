@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Integrated Farming in Micro Watershed Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide farmer engaged in agriculture",
+    "Own or lease land of at least 0.025 hectares",
+    "Selection on a first‑come‑first‑serve basis"
+  ],
+  "benefits_summary": "Provides training, awareness programs, extension services, technology support and input subsidies to eligible farmers.",
+  "documents_required": [],
+  "application_link": null
+}

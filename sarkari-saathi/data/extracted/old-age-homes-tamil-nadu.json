@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Old Age Homes - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "NGO must be registered under the Societies Act, Trust Act, Company Act or a similar legislation",
+    "NGO must operate as an Old Age Home for senior citizens",
+    "NGO must be registered under the Tamil Nadu Maintenance and Welfare of Parents and Senior Citizens Rules, 2009",
+    "Senior citizens must be destitute"
+  ],
+  "benefits_summary": "Provides a grant-in-aid of ₹5,60,000 per home (with a ₹1,12,000 contribution from the institution) and offers food, shelter, medical care, and recreational facilities to senior citizens.",
+  "documents_required": [],
+  "application_link": null
+}

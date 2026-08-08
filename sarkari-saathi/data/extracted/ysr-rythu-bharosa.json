@@ -1,0 +1,42 @@
+{
+  "scheme_name": "YSR Rythu Bharosa",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a landholder farmer family that collectively owns cultivable land (any size) as per land records",
+    "Landowner families with ROFR lands and D Patta lands are eligible",
+    "Farmers cultivating acquired lands without compensation are eligible",
+    "For joint holdings, benefit goes to the family member with the highest landholding; if tied, to the eldest member",
+    "Landless tenants must have no own agriculture/horticulture/sericulture land",
+    "Lease agreements within the family are not eligible",
+    "Minimum lease area: 1.0 acre for all crops, 0.5 acre for vegetables/flowers/fodder, 0.1 acre for betel vine",
+    "Only one cultivator per landowner family receives benefit",
+    "Only one tenant/cultivator belonging to SC, ST, BC, or Minority category per landowner family receives benefit; preference order ST, then SC, then BC, then Minority",
+    "In tribal areas, only tribal cultivators/tenants are recognized",
+    "A landless tenant with multiple lease agreements is treated as a single unit",
+    "Lease agreements with a marginal farmer residing in the same village are not entertained",
+    "Tenants cultivating Inam or endowment lands receive benefits as per recorded evidence"
+  ],
+  "benefits_summary": "Eligible farmer families (landowners or landless tenants) receive ₹13,500 per year in three installments, along with crop insurance, interest‑free loans, free electricity and other agrarian support.",
+  "documents_required": [
+    "Aadhar number",
+    "Ration Card",
+    "Bank account details",
+    "Crop Cultivator Rights Card (CCRC)",
+    "Land records as per Webland data"
+  ],
+  "application_link": "https://ysrrythubharosa.ap.gov.in/RBApp/index.html"
+}

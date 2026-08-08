@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Scheme of Grant-in-Aid to Voluntary and other Organizations Working for Scheduled Castes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Organization must be registered under the Societies Registration Act, 1860, a public trust, a charitable company under Section 25 of the Companies Act, 1956, the Indian Red Cross Society or any other public body with legal status",
+    "Organization must have been registered for at least three years (the Ministry may waive this requirement in exceptional cases)",
+    "At least 60% of the beneficiaries must belong to the Scheduled Castes for voluntary organizations",
+    "The organization must have maintained a bank account in its own name for the last three years",
+    "The organization must not operate for profit for any individual or body of individuals, except training institutions of repute",
+    "Must have a minimum of two years of experience in the relevant field",
+    "Projects must be located in Educationally Backward Blocks (EBBs), Service Deficient blocks with ≥40% SC population, or Backward/Integrated Action Plan districts identified by the Planning Commission or Government of India",
+    "Organization must demonstrate financial viability to contribute its share and continue work without Ministry assistance",
+    "Must have good reputation, capability to mobilize the community, and networking with other institutions"
+  ],
+  "benefits_summary": "Provides financial assistance to voluntary organisations for educational, health, childcare, capacity‑building and other livelihood‑generating activities benefitting Scheduled Castes",
+  "documents_required": [
+    "Application-cum-Monitoring Form",
+    "Checklist of required documents (as per the website)"
+  ],
+  "application_link": null
+}

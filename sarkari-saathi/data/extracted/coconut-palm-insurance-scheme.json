@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Coconut Palm Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 4,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum of 5 healthy nut‑bearing coconut palms required",
+    "Palms must be in the specified age groups (4‑60 years for dwarf/hybrid, 7‑60 years for tall)",
+    "Palms must be in a contiguous area/plot; partial insurance of the plantation is not allowed",
+    "Insurance is for individual palms, not area‑based",
+    "Self‑declaration of age group is acceptable, but false declaration voids the policy",
+    "Franchise applies: claim assessed only if loss exceeds 1 palm for <30 palms, 2 palms for 31‑100 palms, 3 palms for >100 palms in a contiguous area",
+    "Waiting period: loss/death of palms within 30 days from policy inception is not payable (except on renewal)"
+  ],
+  "benefits_summary": "Provides insurance coverage for coconut palms against natural perils with a premium subsidy (50% by CDB, 25% each by state and farmer) and sum insured up to ₹900 for palms aged 4‑15 years and ₹1,750 for palms aged 16‑60 years.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "National Water Awards",
+  "occupation": [
+    "State Governments",
+    "District Administrations",
+    "Village Panchayats",
+    "Urban Local Bodies",
+    "Schools",
+    "Colleges",
+    "Institutions (other than schools/colleges)",
+    "Industries",
+    "Civil Society Organizations",
+    "Water User Associations",
+    "Individuals"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Trophies, citations and cash prizes are awarded to states, districts and a range of individual and institutional categories for outstanding water management practices.",
+  "documents_required": [],
+  "application_link": null
+}

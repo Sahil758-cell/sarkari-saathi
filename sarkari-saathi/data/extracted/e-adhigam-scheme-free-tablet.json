@@ -1,0 +1,24 @@
+{
+  "scheme_name": "e-Adhigam Scheme - Free Tablet",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in a government school in Haryana",
+    "Student must be studying in Class 8, 9, 10, 11, or 12",
+    "Student must be part of the phased distribution plan as per the Haryana Government’s rollout strategy",
+    "Class 11 tablets are issued only after the student clears the Class 10 board examinations"
+  ],
+  "benefits_summary": "Free Android tablets with pre‑loaded educational content and 2 GB of free data per month are provided to eligible students in Classes 8‑12.",
+  "documents_required": [],
+  "application_link": null
+}

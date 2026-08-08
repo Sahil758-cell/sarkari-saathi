@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Rehabilitation of Sick Enterprise",
+  "occupation": [
+    "Micro enterprise",
+    "Small enterprise",
+    "Medium enterprise"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must have obtained acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT).",
+    "Enterprise must be a new manufacturing enterprise or an existing enterprise undertaking expansion or diversification.",
+    "Enterprise should have commenced commercial production during the operative period (October 5, 2022 to October 4, 2027).",
+    "Enterprise must be classified as a sick industrial enterprise as per RBI guidelines.",
+    "Diagnostic reports must be prepared by an expert or expert agency.",
+    "Application must be submitted during the scheme's operative period."
+  ],
+  "benefits_summary": "Provides 50% reimbursement of the cost for preparing the Draft Rehabilitation Scheme and a financial assistance of ₹1,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

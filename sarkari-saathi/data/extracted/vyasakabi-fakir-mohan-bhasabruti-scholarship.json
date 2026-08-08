@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Vyasakabi Fakir Mohan Bhasabruti Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed +2 examination with at least 60% aggregate marks conducted by CHSE, Odisha",
+    "For UG level: must be admitted to +3 Arts with Odia as Honours subject in a Degree/Autonomous College or State University (Odisha or other states)",
+    "For PG level: must be admitted to M.A. (Odia) in a State University/Degree/Autonomous College in Odisha after securing at least 60% marks in Odia Honours subject",
+    "Students pursuing distance learning or correspondence courses are not eligible",
+    "Students receiving other scholarships are still eligible"
+  ],
+  "benefits_summary": "One‑time scholarship of ₹20,000 per student, with 1,500 awards annually (1,200 for UG and 300 for PG).",
+  "documents_required": [],
+  "application_link": "https://scholarship.odisha.gov.in/"
+}

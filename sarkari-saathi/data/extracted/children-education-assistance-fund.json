@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Children Education Assistance Fund",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a merit student selected through an exam conducted by the Directorate of School Education",
+    "Not applicable to students studying in private schools",
+    "Not applicable to students receiving financial assistance from other government education schemes",
+    "Not applicable to students who have repeated classes or are over‑age for their class",
+    "Not applicable to students with poor academic performance",
+    "Not applicable to students who are absent from school for a significant period of time"
+  ],
+  "benefits_summary": "Provides financial assistance covering tuition fees, textbooks, uniforms and other education expenses to eligible children.",
+  "documents_required": [],
+  "application_link": null
+}

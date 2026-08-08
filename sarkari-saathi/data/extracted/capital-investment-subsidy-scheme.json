@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Capital Investment Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have its operations located in Goa.",
+    "The applicant must be a Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership.",
+    "Bank accounts of the unit and/or its partners/directors must be linked to Aadhaar.",
+    "The unit must have operated from the intended office space for more than two years to qualify for the subsidy.",
+    "Employees must have been on the company’s payroll for at least one year to receive the benefit.",
+    "For expansion units, new employees must have been on the payroll for at least one year prior to application.",
+    "Applications can be submitted on a quarterly, bi‑annual, or annual basis after the relevant expenditure is incurred.",
+    "Benefits are subject to the availability of budgetary allocation."
+  ],
+  "benefits_summary": "Provides a subsidy of up to 20% on capital investments (plus an additional 10% for Mega Business Units or key focus areas), with maximum rebates ranging from ₹10 lakh to ₹1 crore depending on the business size.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Accident Assistance (K.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in building and construction work for at least 90 days in a given year.",
+    "The applicant must be a registered construction worker under the Building and Other Construction Workers Welfare Board of Karnataka.",
+    "The accident must occur either during the course of employment or outside of work."
+  ],
+  "benefits_summary": "Provides monetary compensation for death (₹5 lakhs), permanent total disablement (₹2 lakhs) and permanent partial disablement (₹1 lakhs) to eligible workers.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries: Assistance of Interest Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must operate as a manufacturing unit",
+    "Minimum investment of INR 2,500 crore in plant and machinery",
+    "Must provide direct employment to at least 2,500 persons",
+    "Must belong to one of the thrust sectors defined in the Guidelines",
+    "Eligible for new industrial units or expansion projects",
+    "Must avail term loans for fixed capital investment from recognized financial institutions",
+    "Unit must bear at least 2% interest on term loans, even if availing other subsidies",
+    "Must ensure regular repayment of loan installments"
+  ],
+  "benefits_summary": "Provides an interest subsidy of 7% on term loans, capped at 1.2% of eligible fixed capital investment per annum for up to 10 years.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Subsistence Allowance (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex‑Serviceman or the widow of an Ex‑Serviceman",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "Applications are accepted offline"
+  ],
+  "benefits_summary": "Provides monthly financial assistance of ₹10,000 to WWII veterans and ₹9,000 to eligible non‑pensioner ex‑servicemen above 60 years (BPL) and their widows.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport‑sized photograph",
+    "Mandatory documents (self‑attested copies)"
+  ],
+  "application_link": null
+}

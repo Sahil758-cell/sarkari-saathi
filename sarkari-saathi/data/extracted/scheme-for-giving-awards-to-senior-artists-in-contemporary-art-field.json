@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme for Giving Awards to Senior Artists in Contemporary Art Field",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": 30,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must pay an entry fee of ₹20"
+  ],
+  "benefits_summary": "Award of ₹15,000 prize money.",
+  "documents_required": [
+    "self-attested documents"
+  ],
+  "application_link": null
+}

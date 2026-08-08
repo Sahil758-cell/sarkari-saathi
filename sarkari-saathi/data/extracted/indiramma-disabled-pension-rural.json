@@ -1,0 +1,21 @@
+{
+  "scheme_name": "INDIRAMMA Disabled Pension (Rural)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must be a resident of the district",
+    "Applicant must not be covered under any other Pension Scheme",
+    "Eligibility will be identified by the respective Gram Sabhas"
+  ],
+  "benefits_summary": "Monthly pension amount (as notified by the Government of Andhra Pradesh) disbursed on the first day of each month",
+  "documents_required": [],
+  "application_link": null
+}

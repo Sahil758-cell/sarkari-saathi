@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Chetan Chauhan Labor Sports Promotion Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be employed in an establishment registered under the Factories Act, 1948",
+    "Monthly salary (basic + dearness allowance) must not exceed ₹15,000",
+    "Worker must have worked continuously for at least six months in the establishment/factory and be in service at the time of applying",
+    "Benefit is admissible only to the worker or his two daughters (or two children)",
+    "Only players selected on or after 23 March 2021 are eligible",
+    "Female workers who are players themselves are also eligible"
+  ],
+  "benefits_summary": "One-time financial assistance ranging from ₹25,000 to ₹1,00,000 per son/daughter based on the level of sporting achievement (district, state, national, or international).",
+  "documents_required": [
+    "Recent photograph of the applicant",
+    "Scanned copy of the verified application form"
+  ],
+  "application_link": "https://skpuplabour.in/"
+}

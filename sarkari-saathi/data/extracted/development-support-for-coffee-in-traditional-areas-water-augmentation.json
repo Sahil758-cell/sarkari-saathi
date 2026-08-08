@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Development Support for Coffee in Traditional Areas: Water Augmentation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual growers, joint owners, or family members (mother, father, wife, children) may apply jointly",
+    "Applicant must have coffee holdings of up to 10 hectares",
+    "Non‑tribal coffee growers in Non‑Traditional Areas with holdings up to 10 hectares are eligible",
+    "A grower who has availed subsidy for a specific activity cannot avail it again for the same activity within 10 years",
+    "During the Multi‑Year Thrust Plan period a beneficiary cannot claim the same component again unless new beneficiaries are included",
+    "Infrastructure must be created within the coffee estate or its vicinity and the land must be in the name of the grower or the specified family members"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 40% of unit cost, capped at ₹2,50,000 per beneficiary, with an additional 10% for SC/ST growers with holdings up to 4 hectares.",
+  "documents_required": [
+    "Mandatory documents as specified in the online application form",
+    "Technical Feasibility Report (TFR)",
+    "Physical Verification Report",
+    "Subsidy claim in prescribed formats (in duplicate)"
+  ],
+  "application_link": null
+}

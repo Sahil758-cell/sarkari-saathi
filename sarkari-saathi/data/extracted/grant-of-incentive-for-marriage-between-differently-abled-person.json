@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant of Incentive for Marriage Between Differently Abled Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of both bride and bridegroom must be 40% or above",
+    "Marriage must be the first marriage for both parties",
+    "Marriage must be registered",
+    "Application must be submitted within 120 days after marriage",
+    "Application should be submitted at least 30 days before the proposed marriage date"
+  ],
+  "benefits_summary": "Incentive of ₹2,00,000 (₹40,000 cash and ₹1,60,000 as NSC)",
+  "documents_required": [
+    "passport-sized photograph",
+    "copies of mandatory documents"
+  ],
+  "application_link": null
+}

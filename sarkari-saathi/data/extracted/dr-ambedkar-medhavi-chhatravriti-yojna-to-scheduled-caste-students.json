@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Dr. Ambedkar Medhavi Chhatravriti Yojna to Scheduled Caste Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Scholarship is limited to a maximum of two successive years after matriculation",
+    "Renewal for the second year is subject to satisfactory performance in the first year of the course",
+    "The student must take admission to any professional/technical course after Matric in a recognized institution within or outside the state",
+    "Eligibility is based on being among the top 1250 meritorious SC students as per Matric Examination results"
+  ],
+  "benefits_summary": "Each eligible student receives ₹18,000 per year for up to two years.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

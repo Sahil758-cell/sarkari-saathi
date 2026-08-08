@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Refund of Subscriptions for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must be a registered member under the Building and Other Construction Workers Welfare Board of West Bengal",
+    "Benefit is payable upon reaching age 60, or after 3 years of registration if the subscriber chooses not to continue, or to the nominee in case of death"
+  ],
+  "benefits_summary": "Refund of the deposited subscription with 8% interest.",
+  "documents_required": [
+    "Form-27",
+    "Form-27A",
+    "self‑attested documents"
+  ],
+  "application_link": null
+}

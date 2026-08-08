@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Chai Vikas Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum land area of 2 acres (higher thresholds apply for certain machines)",
+    "Must be registered on the DBT portal",
+    "Women beneficiaries limited to 30% of allocations",
+    "Selection is on a first‑come, first‑served basis"
+  ],
+  "benefits_summary": "Provides up to 75% subsidy on planting materials and up to 50% subsidy (subject to caps) on various horticultural machines for eligible farmers.",
+  "documents_required": [
+    "Aadhaar (for verification)",
+    "Kisan Credit Card (KCC) details",
+    "Farmer details",
+    "Land information",
+    "Bank account details"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Subsidy for Disabled Young Professionals",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of at least 40% required",
+    "Professional degree from a recognized institute required",
+    "Applicant must be unemployed",
+    "Proposed activity must be directly relevant to the professional degree",
+    "Applicant must belong to OH, VH, HH, or MR disability categories"
+  ],
+  "benefits_summary": "Loans up to ₹25,00,000 are provided at interest rates ranging from 4.5% to 8% per annum.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

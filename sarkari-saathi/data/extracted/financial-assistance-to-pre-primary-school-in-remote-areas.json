@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance To Pre-primary School In Remote Areas",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "No pre‑primary school should already exist in the locality",
+    "The school must have at least ten Scheduled Tribe (ST) students in a class of twenty students",
+    "Teacher qualification must meet the requirements set by the Education Department for Primary/Pre‑Primary teachers; if an untrained teacher is appointed, they must obtain the necessary qualification within three years",
+    "Eligible applicants include existing primary schools (government or high schools) in the locality, NGOs with at least three years of experience managing pre‑primary schools, and trained teachers with experience teaching pre‑primary students"
+  ],
+  "benefits_summary": "Provides up to ₹2,000 per month for rent, monthly remuneration for a trained teacher (₹10,000, or ₹8,000 if untrained) with annual increments, helper wages as per Minimum Wages Act, snacks for students, and teaching aids/materials.",
+  "documents_required": [
+    "Completed application form",
+    "Passport‑sized photograph (signed across)",
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

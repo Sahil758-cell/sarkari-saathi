@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Coir Udyami Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Project must be for the production of coir fibre, yarn or related products within the coir sector",
+    "Eligible applicants include individuals, companies, self‑help groups, NGOs, societies registered under the Societies Registration Act 1860, production co‑operative societies, joint liability groups and charitable trusts",
+    "Project cost includes capital expenditure such as building and machinery; working capital (max 25% of project cost) is not considered for subsidy",
+    "If the applicant already has a workshed, only the cost of required machinery constitutes the project cost",
+    "Beneficiary must provide records of shed construction and machinery purchase to determine grant amount",
+    "Beneficiary must execute a bond with the Coir Board agreeing to maintain the equipment, use it for running the coir unit, not shift or dispose of it without approval, insure it for at least the grant amount, and allow inspection by board or government officers",
+    "Unit must be operated for a minimum of 5 years and comply with all instructions from the Coir Board and governments"
+  ],
+  "benefits_summary": "Provides up to 40% subsidy on the project cost (maximum Rs 10 lakhs) with a 5% beneficiary contribution and 55% bank credit.",
+  "documents_required": [
+    "Construction records of the shed",
+    "Purchase receipts of machinery"
+  ],
+  "application_link": null
+}

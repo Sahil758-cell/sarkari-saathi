@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance for Education for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered member of the Building and Other Construction Workers Welfare Board of the UT",
+    "Applicant must have engaged in building or other construction work for at least 90 days in a given year",
+    "Beneficiary child must be one of the first two children of the registered member",
+    "Member must not have claimed this reimbursement before from any other source and will not claim it in future",
+    "Child must be studying in Class 1‑12, Graduation/ITI/Polytechnic/Technical courses, or preparing for competitive exams",
+    "For competitive exams, the student must be in Class IX‑XII or have passed Class XII not more than 2 years prior to the claim period"
+  ],
+  "benefits_summary": "Provides fee reimbursement for up to two children of registered construction workers, covering school tuition, higher‑education courses and up to 75% of competitive‑exam fees (maximum ₹50,000 per year).",
+  "documents_required": [
+    "Prescribed registration form",
+    "Prescribed documents",
+    "Form‑VII"
+  ],
+  "application_link": null
+}

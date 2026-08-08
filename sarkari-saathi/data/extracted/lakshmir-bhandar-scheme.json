@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Lakshmir Bhandar Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 25,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of West Bengal",
+    "Applicant must be a woman",
+    "Applicant must be enrolled under the \"Swasthya Sathi\" scheme",
+    "Applicant must not be a permanent or retired government employee of Central/State Government, statutory bodies, government undertakings, panchayats, municipal corporations/municipalities, local bodies, or teaching and non-teaching staff of government‑aided educational institutions"
+  ],
+  "benefits_summary": "Women from SC/ST households receive ₹1,200 per month; women from other categories receive ₹1,000 per month.",
+  "documents_required": [
+    "Self‑attested copies of the required documents"
+  ],
+  "application_link": null
+}

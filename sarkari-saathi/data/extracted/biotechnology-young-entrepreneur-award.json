@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Biotechnology Young Entrepreneur Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be students pursuing post‑graduate programmes (including integrated PG), doctoral degrees, B.E. or B.Tech. in Biotechnology or related life‑science subjects such as bioinformatics, molecular biology, microbiology, biochemistry or genetics",
+    "Teams must consist of exactly five students, with at least three members having a life‑science background",
+    "Each team may submit only one entry and a participant can belong to only one team",
+    "Each team must nominate a team leader and may identify a mentor",
+    "Proposals must be in the core areas of biotechnology (e.g., agriculture, aquaculture, bio‑energy, biologicals, bioprocess engineering, biosensors, drug discovery, environment, food, medical diagnostics, nanobiology, nutraceuticals, vaccines, etc.)"
+  ],
+  "benefits_summary": "Cash awards of up to ₹1,00,000 for first prize, with second and third prizes of ₹50,000 and ₹25,000, plus start‑up facilitation and support for the winners.",
+  "documents_required": [
+    "Application form",
+    "Concept Note"
+  ],
+  "application_link": null
+}

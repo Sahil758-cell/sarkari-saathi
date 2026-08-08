@@ -1,0 +1,21 @@
+{
+  "scheme_name": "LLB Internship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian student who has completed the 2nd year and written the examination to enter the 3rd year, or is studying in the 3rd year of a three‑year degree course, or is in the 4th year having written the examination to enter the 5th year, or is studying in the 5th year of a five‑year degree course.",
+    "Internship is full‑time and must be attended physically.",
+    "A minimum of 90% attendance is mandatory for satisfactory completion."
+  ],
+  "benefits_summary": "Interns receive a ₹5,000 honorarium upon completion along with a certificate of internship.",
+  "documents_required": [],
+  "application_link": "https://dashboard.doj.gov.in/internship/"
+}

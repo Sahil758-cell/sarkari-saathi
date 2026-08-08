@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Nagaland State Merit Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident or citizen of Nagaland",
+    "Must be enrolled in a post‑matric class (class 11, 12, undergraduate or postgraduate)",
+    "Must secure at least 70 % to 80 % marks in the previous year’s exam",
+    "Scholarship renewal requires submission of the last year’s mark sheet",
+    "Students belonging to the ST category are eligible"
+  ],
+  "benefits_summary": "Provides a scholarship amount to eligible Nagaland students in post‑matric courses, payable monthly or yearly.",
+  "documents_required": [
+    "Marksheet"
+  ],
+  "application_link": null
+}

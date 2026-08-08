@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Marriage Grant for the Marriage of the Daughter of War Disabled Ex-Servicemen above 50% Disability",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide resident of Haryana.",
+    "Applicant must be a war‑disabled ex‑serviceman with disability assessed above 50%.",
+    "Benefit can be claimed for up to two daughters only.",
+    "Each eligible daughter must be at least 18 years old."
+  ],
+  "benefits_summary": "Financial assistance of ₹21,000 per daughter for the marriage of up to two eligible daughters.",
+  "documents_required": [],
+  "application_link": null
+}

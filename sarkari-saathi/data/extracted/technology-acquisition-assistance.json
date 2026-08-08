@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Technology Acquisition Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must be a Micro or Small Enterprise registered in Rajasthan.",
+    "Must possess a Udyam Registration Certificate (URC) as per the MSME Development Act 2006.",
+    "The technology or software acquired must be directly related to the enterprise’s production/manufacturing process.",
+    "The applicant must demonstrate a performance improvement (at least 10% increase in production rate, or 5% decrease in cycle time, or 2.5% decrease in rejection rate, or 10% decrease in waste generation) certified by a Chartered Engineer.",
+    "The enterprise must be in commercial production at the time of disbursement; assistance will not be released to closed units.",
+    "Only one machine/equipment per enterprise is eligible; multiple similar machines are not entertained."
+  ],
+  "benefits_summary": "One‑time reimbursement up to 50 % of the technology acquisition cost, capped at ₹5,00,000 per unit.",
+  "documents_required": [
+    "Udyam Registration Certificate (URC)",
+    "Chartered Engineer’s certificate",
+    "Application form (Annexure 3.1)"
+  ],
+  "application_link": null
+}

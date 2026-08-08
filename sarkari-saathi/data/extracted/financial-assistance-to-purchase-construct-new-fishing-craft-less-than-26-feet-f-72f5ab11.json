@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Financial Assistance to Purchase/Construct New Fishing Craft less than 26 feet for Fishing in Inland Waters of Goa",
+  "occupation": [
+    "traditional fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional fisherman by birth or profession",
+    "Fishing canoe must be registered with the Department of Captain of Ports, Government of Goa",
+    "Benefits can be availed only once every 7 years against replacement of the existing canoe"
+  ],
+  "benefits_summary": "50% subsidy up to ₹30,000 for general category and 60% subsidy up to ₹36,000 for SC/ST/Women on a unit cost of ₹60,000 (excluding GST), available once every 7 years",
+  "documents_required": [
+    "Prescribed format of the application form (obtained by paying ₹50)",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

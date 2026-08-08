@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Maternity Assistance Scheme (GBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board and have an active membership of the Board.",
+    "Financial assistance is available for the first two births of a registered female construction worker or the wife of a registered construction worker.",
+    "The application must be made within 12 months after delivery (or up to six months from the date of conception, as per the rules).",
+    "A doctor’s certificate approved by a Surgeon/Gynecologist/PHC and, where applicable, a copy of the Mamta card must be submitted with the application."
+  ],
+  "benefits_summary": "Financial assistance of ₹6,000 for the wife of a registered construction worker and ₹37,500 for a registered female construction worker for the first two deliveries.",
+  "documents_required": [
+    "Surgeon/Gynecologist/Gynecology PHC‑approved doctor’s certificate",
+    "Copy of Mamta card (for registered female workers)",
+    "Doctor’s certificate"
+  ],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

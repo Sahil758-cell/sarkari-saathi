@@ -1,0 +1,24 @@
+{
+  "scheme_name": "AICTE-IDEA (Idea Development, Evaluation & Application) LAB SCHEME",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "AICTE‑approved engineering colleges or university departments must have been in existence for at least 10 years",
+    "The institution must have at least one course with live NBA accreditation",
+    "The institution must contribute financially at least 50% of the IDEA Lab cost, with higher weightage for additional industry funds",
+    "The institution must provide a built‑up and furnished space of at least 3000 sq. ft. for the lab",
+    "The institution must provide all support staff, facilities and amenities required to operate and maintain the lab",
+    "The institution must comply with AICTE guidelines and other Government of India rules pertaining to the IDEA Lab"
+  ],
+  "benefits_summary": "AICTE provides up to 50 % financial assistance (up to ₹55,00,000) and training for faculty and students to develop ideas into prototypes.",
+  "documents_required": [],
+  "application_link": "https://idealnet.aicte-india.org/"
+}

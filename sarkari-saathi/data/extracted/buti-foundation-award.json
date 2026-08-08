@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Buti Foundation Award",
+  "occupation": [
+    "Scientist",
+    "Engineer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have conducted innovative and outstanding research in the field of Plasma Science & Technology in India.",
+    "Age should be 45 years as of 1st January 2021 (born on or after 02.01.1976)."
+  ],
+  "benefits_summary": "The award includes a cash prize of ₹50,000 and a medal.",
+  "documents_required": [],
+  "application_link": "DIRECTOR@PRL.RES.IN"
+}

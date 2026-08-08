@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the preliminary examination of the Civil Services Competitive Examination conducted by either the Bihar Public Service Commission or the Union Public Service Commission.",
+    "Scheme benefit is available to each candidate only once.",
+    "Applicant should not have received the same incentive from any other sources previously."
+  ],
+  "benefits_summary": "One-time financial assistance of ₹50,000 for SC/ST candidates who passed the Bihar PSC preliminary exam, or ₹1,00,000 for those who passed the UPSC preliminary exam.",
+  "documents_required": [
+    "photograph",
+    "signature",
+    "necessary documents"
+  ],
+  "application_link": null
+}

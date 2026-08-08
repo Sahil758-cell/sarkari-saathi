@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Patrakar Kritadnyata Nidhi Scheme (Journalist Benevolent Fund)",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be born and brought up in Goa",
+    "The applicant must have worked continuously for at least three years in a newspaper establishment in Goa",
+    "The applicant must be registered with the Department of Information and Publicity, Government of Goa and renew the registration by 30 June each year",
+    "The applicant must not be engaged in any other profession"
+  ],
+  "benefits_summary": "Financial assistance up to ₹2,00,000 per case for emergencies such as medical treatment, marriage, funeral, self‑employment and scholarships for journalists' wards.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of mandatory documents (self‑attested, if required)",
+    "Original bills and photocopies of hospital/institution documents for medical claims"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Kisan Samriddhi Yojana Jharkhand",
+  "occupation": [
+    "farmer",
+    "self-help group",
+    "cooperative",
+    "farmer producer organization"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only one member per family is eligible for benefits",
+    "Applicant must own or have access to land near a water source",
+    "Applicant must have a valid Aadhaar card and Aadhaar‑linked mobile number",
+    "Applicant must link their ration card with Aadhaar for e‑KYC verification",
+    "Applicant must pay a 10% contribution fee as per the unit cost",
+    "Registered office of the group/organization must be located in Jharkhand"
+  ],
+  "benefits_summary": "Farmers receive a 90% subsidy on solar‑powered irrigation units, lowering agricultural costs and promoting sustainable irrigation.",
+  "documents_required": [
+    "Aadhaar card",
+    "Ration card"
+  ],
+  "application_link": null
+}

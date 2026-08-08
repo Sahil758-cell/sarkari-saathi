@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Grant of Marriage Allowance to the Widow's Daughter",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow with Indian citizenship.",
+    "Applicant must be a native of Puducherry by birth or have continuous residence of at least 5 years.",
+    "Allowance is only for the first marriage of the daughter.",
+    "Marriage must be performed in accordance with the law.",
+    "Allowance is granted for the marriage of only one daughter.",
+    "Bride's age must be above 18 years.",
+    "Bridegroom's age must be above 21 years."
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 for marriage expenses.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

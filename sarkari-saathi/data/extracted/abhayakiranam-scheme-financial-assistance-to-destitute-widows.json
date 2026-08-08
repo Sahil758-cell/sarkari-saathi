@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Abhayakiranam Scheme-Financial Assistance To Destitute Widows",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 51,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should not be receiving a service pension or family pension.",
+    "Applicant should not be a beneficiary of schemes implemented through the Social Justice Department (Aswasakiranam, Samashwasam)."
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹1,000 for six months to the close relatives of destitute widows.",
+  "documents_required": [],
+  "application_link": null
+}

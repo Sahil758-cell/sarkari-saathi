@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Indian Community Welfare Fund",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Overseas Indian.",
+    "The applicant must be in a distress situation as defined under scheme benefits."
+  ],
+  "benefits_summary": "Provides financial and consular assistance to overseas Indian nationals in distress, including transportation, medical care, legal aid, and welfare activities.",
+  "documents_required": [],
+  "application_link": "https://www.mea.gov.in/images/pdf/compendium.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "SERB - POWER Research Grants",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Applicant must hold a regular academic or research position in a recognized academic institution, national laboratory or other recognized R&D institution in India",
+    "Applicants from IITs, IISERs, IISc, NITs, Central Universities and National Labs of Central Government Institutions are eligible under Level I; applicants from State Universities/Colleges and Private Academic Institutions are eligible under Level II",
+    "Faculties recruited through the UGC‑Faculty Recharge Program are eligible",
+    "INSPIRE Faculty, Ramanujan Fellows and Ramalingaswamy Fellows are eligible provided they have at least three and a half years of tenure remaining at the time of application",
+    "A female Co‑Principal Investigator from the same institute is mandatory; male Co‑PI is not allowed",
+    "The PhD guide cannot be a Co‑PI",
+    "A PI who has already received a POWER Grant is not eligible to apply again",
+    "JC Bose fellows and PIs who have already completed two CRG are not eligible",
+    "The number of Co‑PIs must not exceed two per project",
+    "Women scientists cannot hold a POWER Fellowship and a POWER Grant simultaneously"
+  ],
+  "benefits_summary": "Funding up to ₹60 lakhs for three years (Level I) or up to ₹30 lakhs for three years (Level II) covering equipment, manpower, consumables, travel, contingency and overheads.",
+  "documents_required": [
+    "Proposal PDF (maximum 10 MB)"
+  ],
+  "application_link": null
+}

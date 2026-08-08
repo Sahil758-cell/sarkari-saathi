@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Stipend to Scheduled Caste Trainees in Technical Training Institutions",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be undergoing training in a Government Technical Training Institution of Puducherry"
+  ],
+  "benefits_summary": "A stipend of ₹170 per month is paid to each trainee for the entire training period.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

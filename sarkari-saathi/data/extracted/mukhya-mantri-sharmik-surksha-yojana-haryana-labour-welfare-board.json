@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhya Mantri Sharmik Surksha Yojana- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the widow or dependent of the deceased worker",
+    "The deceased worker must have been employed in an industrial or commercial establishment in Haryana",
+    "No minimum service period is required for the worker",
+    "No minimum monthly salary is required for the worker",
+    "Application must be submitted within two years from the date of the worker's death",
+    "Death must be caused by workplace incidents within the organization's premises or on the way to the hospital for treatment, including natural disasters, heart attacks, snake or other poisonous creature bites, fire, or building collapses within the organization",
+    "Assistance also extends to widows/dependents of unregistered workers who die or become disabled due to such incidents"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,00,000 is provided to widows/dependents of workers who die while working at the workplace.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

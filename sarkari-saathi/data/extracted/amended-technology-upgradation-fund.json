@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Amended Technology Upgradation Fund",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only individual entities (not units) are eligible."
+  ],
+  "benefits_summary": "Provides a credit‑linked subsidy of 10‑15% on capital investment, capped at Rs 20‑30 crore depending on the sector.",
+  "documents_required": [],
+  "application_link": null
+}

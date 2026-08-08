@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Legal Aid To Scheduled Castes And Vimukat Jatis Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "₹22,000 is paid to eligible Scheduled Caste and Vimukat Jatis members for defending their land, rent and related legal cases.",
+  "documents_required": [],
+  "application_link": null
+}

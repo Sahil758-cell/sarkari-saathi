@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Sudama Shishyavritti Scheme (Class 11th and 12th)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the Class 10th board exam with first division",
+    "Must be currently enrolled in 11th or 12th grade",
+    "Must reside in a hostel",
+    "Must be studying in a government school located at the district or development block headquarters in Madhya Pradesh"
+  ],
+  "benefits_summary": "Girl students receive a scholarship of ₹5250 per year, while boy students receive ₹5000 per year.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

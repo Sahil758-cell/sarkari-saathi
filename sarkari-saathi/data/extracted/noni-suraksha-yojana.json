@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Noni Suraksha Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl must be born on or after April 1, 2014",
+    "Benefit limited to two daughters per family; a third daughter is not eligible (except special inclusion for HIV‑affected couples born after April 1, 2016)",
+    "If the family has two sons, a third daughter is not eligible for the benefit",
+    "For the second girl child, at least one parent must have adopted a permanent family planning method before applying",
+    "All girls born as twins or multiple births in the first or second delivery are eligible",
+    "A third girl born after benefit has been given to twin girls in the first delivery is not eligible",
+    "Legally adopted girls are eligible if they meet all other criteria",
+    "Girl must not marry before reaching 18 years of age",
+    "Girl must have completed 12th standard education",
+    "Application must be submitted within 1 year of the girl’s birth (extendable up to 2 years, with special provisions for orphaned or deceased parents)"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,00,000 at age 18 and a LIC investment of ₹25,000 over 5 years.",
+  "documents_required": [
+    "12th‑standard mark sheet",
+    "Affidavit of being unmarried until 18 years of age (verified by Child Development Project Officer or authorised officer)",
+    "Bank account details",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of mandatory documents",
+    "Proof of inclusion in the current poverty‑line survey list of the Rural Development Department"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Gaon Ki Beti",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Must have secured 60% or more marks in the 12th standard",
+    "Must possess a Gaon Ki Beti certificate",
+    "Must be enrolled in a recognized institution for higher education"
+  ],
+  "benefits_summary": "Scholarship of ₹500 per month for up to 10 months per year.",
+  "documents_required": [
+    "Gaon Ki Beti certificate"
+  ],
+  "application_link": null
+}

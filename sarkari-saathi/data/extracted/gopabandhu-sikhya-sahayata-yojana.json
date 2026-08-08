@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Gopabandhu Sikhya Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Belongs to a family that is HIV/AIDS‑affected, without shelter, destitute/living on alms, manual scavenger, a Particularly Vulnerable Tribal Group, a legally released bonded labourer, or a single‑mother family",
+    "Permanent resident of Odisha",
+    "Enrolled in regular graduate or postgraduate courses at a college/institute/university recognized by the Odisha government",
+    "Household income from all sources is less than ₹10,000 per month"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 per annum for graduate and postgraduate courses.",
+  "documents_required": [],
+  "application_link": "https://scholarship.odisha.gov.in/"
+}

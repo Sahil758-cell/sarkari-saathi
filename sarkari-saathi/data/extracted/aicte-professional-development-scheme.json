@@ -1,0 +1,31 @@
+{
+  "scheme_name": "AICTE-PROFESSIONAL DEVELOPMENT SCHEME",
+  "occupation": [
+    "faculty",
+    "AICTE officer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institute/University department must have existed for at least 5 years",
+    "Applicant must not have availed the grant under this scheme during the last three years",
+    "Applicant must have received acceptance of paper from the conference organizer",
+    "Only one proposal may be submitted at a time",
+    "If an application for a particular event is rejected, the same event cannot be reapplied for",
+    "Application must be submitted three months in advance",
+    "Journey must be performed by Air India unless an official certificate states otherwise",
+    "For online mode conferences only the registration fee will be reimbursed"
+  ],
+  "benefits_summary": "Provides up to ₹1,50,000 reimbursement for travel, registration, and per‑day allowance for faculty and AICTE officers presenting papers at conferences, with the amount varying by destination group.",
+  "documents_required": [
+    "Mandate Form"
+  ],
+  "application_link": "http://portal.aicte-india.org/partnerportal_enu/start.swe"
+}

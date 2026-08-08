@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Karma Veer Dadasaheb Gaikwad Sabalikaran & Swabhiman Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a permanent resident of Maharashtra",
+    "Applicant must be landless",
+    "Applicant may be from Scheduled Caste or a Nav‑Buddhist"
+  ],
+  "benefits_summary": "Provides 2‑acre irrigated land or 4‑acre non‑irrigated land with 50% subsidy and 50% loan.",
+  "documents_required": [
+    "passport-sized photograph (signed across)",
+    "self‑attested mandatory documents"
+  ],
+  "application_link": "Step 1: Visit the District Social Welfare Office and request a hard copy of the format of the application form for the scheme from the concerned authority. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self‑attested) mandatory documents. Step 3: Submit the duly filled and signed application form along with the documents to the Assistant Commissioner, District Social Welfare Office. Step 4: Acquire the receipt/acknowledgment of the successful submission of the application form from the District Social Welfare Office."
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Pratibha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student.",
+    "The applicant must be a native of Madhya Pradesh.",
+    "The applicant must have qualified in any national competitive examination such as JEE, NEET, CLAT, AIIMS, or NDA.",
+    "The applicant must have been admitted to an IIT/NIT (via JEE), a government college in Madhya Pradesh for NEET (MBBS only), AIIMS, NLU (via CLAT), or NDA (via UPSC).",
+    "The applicant's Aadhaar must be linked to the bank account.",
+    "The applicant must have the receipt of admission to the institute.",
+    "Registration of a beneficiary profile is mandatory before applying for the scheme."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹50,000 to students whose parental income is up to ₹3 lakh, and ₹25,000 to those with parental income above ₹3 lakh.",
+  "documents_required": [
+    "Aadhaar card",
+    "Admission receipt"
+  ],
+  "application_link": null
+}

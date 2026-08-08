@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: State Capital Investment Subsidy (CIS)",
+  "occupation": [
+    "manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a Micro, Small or Medium Enterprise (MSME) operating in the manufacturing sector.",
+    "The enterprise should have started production on or after 1 April 2019.",
+    "The enterprise must be in the private, cooperative, joint sector undertaking or a company/undertaking owned and managed by the State Government or Industrial SHGs.",
+    "Date of Commencement of Commercial Production (DOCCP) must fall between 1 April 2020 and 31 March 2025.",
+    "The enterprise must be located in Zone C, D or E of West Bengal (additional provisions apply for Zones A and B).",
+    "Application must be submitted within 12 months of the DOCCP or within 12 months of the Banglashree notification, whichever is later."
+  ],
+  "benefits_summary": "Provides a capital investment subsidy ranging from 15% to 60% for eligible MSMEs, with extra subsidies up to an additional 20% for enterprises wholly owned by women, SC/ST or minority entrepreneurs.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Dr. Ambedkar Medhavi Chattar Sansodhit Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum academic performance for eligible caste groups: 70% for matric (urban) and 60% for matric (rural).",
+    "Minimum academic performance for eligible caste groups: 75% for 10+2 (urban) and 70% for 10+2 (rural).",
+    "Minimum academic performance for eligible caste groups: 65% for graduation (urban) and 60% for graduation (rural).",
+    "Backward Classes Block A students require 70% (urban) or 60% (rural) in matric.",
+    "Backward Classes Block B students require 80% (urban) or 75% (rural) in matric.",
+    "Meritorious students of other social classes receive scholarship at par with Block B criteria (80% urban, 75% rural) for matric."
+  ],
+  "benefits_summary": "Scholarship of Rs 8,000‑12,000 per annum is awarded to meritorious students from class 11th to postgraduate level, with amounts varying by caste and education level.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

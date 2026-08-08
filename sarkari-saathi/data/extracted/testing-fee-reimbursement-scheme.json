@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Testing Fee Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a micro or small scale industry.",
+    "Enterprise must be registered with the Udyam portal or any other valid registration platform recognized by the MSME Ministry."
+  ],
+  "benefits_summary": "Reimbursement of up to 80% or ₹1,00,000 (whichever is lower) of testing fees for SC/ST micro and small enterprises.",
+  "documents_required": [],
+  "application_link": "https://www.scsthub.in"
+}

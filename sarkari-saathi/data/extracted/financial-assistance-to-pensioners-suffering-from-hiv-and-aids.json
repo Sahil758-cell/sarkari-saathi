@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance to Pensioners Suffering From HIV and AIDS",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should be suffering from HIV/AIDS",
+    "The applicant should receive Antiretroviral Therapy (ART)/Antiretroviral Drugs (ARD) from the District AIDS Control Society",
+    "The applicant should have a Voter ID card and Aadhar Card (for applicants aged 18 years and above)",
+    "The applicant or their spouse should not be a beneficiary under any other Social Security pension scheme",
+    "The applicant or their spouse should not be retired or permanently employed in Central and State Government or in public sector undertakings",
+    "The applicant or their spouse should not be a recipient of any family pension or pension from Central and State Government or from public sector undertakings",
+    "Applicant’s family is not an income tax payee"
+  ],
+  "benefits_summary": "₹1,000 per month transferred directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "Voter ID card",
+    "Aadhar Card"
+  ],
+  "application_link": null
+}

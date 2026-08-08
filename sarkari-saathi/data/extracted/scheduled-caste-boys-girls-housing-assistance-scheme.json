@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scheduled Caste Boys/Girls Housing Assistance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Scheduled Caste (SC) category",
+    "Applicant must be a native of Madhya Pradesh",
+    "Applicant must be a college student",
+    "Applicant must meet the income limit prescribed under the Post Matric Scholarship Scheme",
+    "Applicant must be residing outside their native city or village"
+  ],
+  "benefits_summary": "Provides a monthly housing allowance of ₹2,000 in divisional headquarters, ₹1,250 in other district headquarters, and ₹1,000 in tehsil/development block headquarters.",
+  "documents_required": [
+    "ID proof",
+    "other relevant certificates"
+  ],
+  "application_link": null
+}

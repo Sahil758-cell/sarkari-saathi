@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Bunkar Parivar Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Weaver family includes husband, wife, and their children",
+    "The heir (wife, son, or daughter) of a deceased working weaver can apply for the assistance",
+    "Application must be made through the weaver's primary cooperative society"
+  ],
+  "benefits_summary": "Provides a one-time financial assistance of ₹20,000 to the heir of a deceased working weaver.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Rehabilitation of Sick Enterprises",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must be a Micro, Small, or Medium Enterprise (MSME).",
+    "Enterprise must satisfy RBI guidelines for sickness.",
+    "Application must be submitted with audited balance sheets for verification."
+  ],
+  "benefits_summary": "Financial reimbursement of 50% of the cost of preparing the Draft Rehabilitation Scheme, up to ₹1,00,000.",
+  "documents_required": [
+    "audited balance sheets"
+  ],
+  "application_link": null
+}

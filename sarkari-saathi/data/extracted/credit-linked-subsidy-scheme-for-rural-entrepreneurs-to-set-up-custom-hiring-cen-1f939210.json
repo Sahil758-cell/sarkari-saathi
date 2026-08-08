@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Credit Linked Subsidy Scheme for Rural Entrepreneurs to set up Custom Hiring Centres (CHC) of Farm Machinery",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual farmers must be registered under the Krishak Bandhu (New) Scheme or belong to approved groups such as SKUS, PACS, FPO, FPC, FIG, SHG, etc.",
+    "Project cost/Total Financial Outlay must be at least ₹20,00,000 and not exceed the maximum specified in SMAM guidelines and SPMT recommendation",
+    "Applicant must have sufficient land (own, leased or hired) classified as commercial, bastu, or viti for setting up the CHC",
+    "Beneficiary or spouse cannot apply for a new CHC within four years of the last subsidy release for this scheme"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 40% of the project cost, capped at ₹16 lakhs, to help set up custom hiring centres for farm machinery.",
+  "documents_required": [
+    "Printout of application with acknowledgement receipt",
+    "Recent passport size photograph",
+    "Other prescribed documents (self‑attested)"
+  ],
+  "application_link": null
+}

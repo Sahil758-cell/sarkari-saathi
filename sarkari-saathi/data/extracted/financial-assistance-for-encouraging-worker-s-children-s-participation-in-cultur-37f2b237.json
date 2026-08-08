@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance for Encouraging Worker's Children's Participation in Cultural Activities- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana",
+    "Applicant must be registered with the Haryana Labour Welfare Board",
+    "Applicant's monthly salary must not exceed ₹25,000",
+    "Application must be submitted within one year from the date of issue of the certificate for participation in cultural competitions",
+    "No minimum service period required for the worker",
+    "There is no limit on the number of workers' children eligible under this scheme",
+    "Benefits are provided to children of registered workers"
+  ],
+  "benefits_summary": "Financial assistance is provided to the children of workers for participating in or securing positions in cultural competitions, with amounts varying by competition level and type.",
+  "documents_required": [
+    "Photograph"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

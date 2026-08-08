@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Durghatana Mein Chikitsa Sahaayata Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered in any district",
+    "Must have completed 90 days as a laborer in the board"
+  ],
+  "benefits_summary": "Medical assistance up to ₹20,000 or the actual expenditure incurred, whichever is less.",
+  "documents_required": [],
+  "application_link": null
+}

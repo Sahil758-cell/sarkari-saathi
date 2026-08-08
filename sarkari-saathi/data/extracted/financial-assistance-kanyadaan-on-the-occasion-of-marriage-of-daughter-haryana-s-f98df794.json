@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Financial Assistance (Kanyadaan) on the Occasion of Marriage of Daughter- Haryana Silicosis Board",
+  "occupation": [
+    "factory worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be employed in a factory or at a construction site",
+    "The worker must be suffering from silicosis as confirmed by the Silicosis Diagnosis Board, Haryana",
+    "The worker must be registered with the Haryana Silicosis Board",
+    "Assistance is available for the marriage of up to three daughters only"
+  ],
+  "benefits_summary": "Financial assistance of ₹51,000 per worker for the marriage of up to three daughters.",
+  "documents_required": [
+    "medical certificates",
+    "proof of identity",
+    "certificate of being the widow/widower or nominee (if applicable)"
+  ],
+  "application_link": null
+}

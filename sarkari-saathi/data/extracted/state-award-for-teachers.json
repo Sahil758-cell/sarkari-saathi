@@ -1,0 +1,37 @@
+{
+  "scheme_name": "State Award for Teachers",
+  "occupation": [
+    "school teachers",
+    "special educators",
+    "heads of schools"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an in‑service school teacher, special educator, or head of school working in recognized government or aided primary/middle/high or secondary schools in Goa.",
+    "Must have at least 5 years of regular teaching service as of 30 June 2019 after probation, within the State of Goa.",
+    "Must not be retired or due for retirement in the award year.",
+    "Must not have any pending vigilance or criminal case.",
+    "Must not have indulged in private tuition.",
+    "Contractual teachers, para teachers, part‑time instructors and NSQF instructors are ineligible.",
+    "Applicants who have previously received the State Teacher Award are ineligible."
+  ],
+  "benefits_summary": "Each awardee receives a monetary award of ₹100,000 along with a citation.",
+  "documents_required": [
+    "Application form (PDF)",
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents",
+    "Curriculum vitae (CV)",
+    "1000‑word write‑up"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Ex-gratia Payment for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year",
+    "Must be permanently disabled",
+    "Must be a registered worker of the Delhi Building and Other Construction Workers Welfare Board"
+  ],
+  "benefits_summary": "Ex-gratia payment of ₹1,00,000 in case of permanent disability.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Affidavit of the Applicant",
+    "Proof of 90 Days Employment"
+  ],
+  "application_link": null
+}

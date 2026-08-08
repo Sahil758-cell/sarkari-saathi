@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Self-Employment Scheme For Dependents Of Prisoners",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native and resident of Kerala",
+    "Applicant must belong to the Below Poverty Line (BPL) category",
+    "Family must have a convict who has served imprisonment of 5 years or more",
+    "Assistance is available only during the period of the convict’s imprisonment",
+    "Applicant must not have previously received financial assistance for the same purpose",
+    "Priority is given to dependents such as husband/wife, unemployed and unmarried son/daughter",
+    "Other eligible dependents include widowed/divorced/abandoned daughters and parents (father/mother) below 55 years of age"
+  ],
+  "benefits_summary": "Maximum financial assistance of ₹30,000 per family, provided only once.",
+  "documents_required": [],
+  "application_link": null
+}

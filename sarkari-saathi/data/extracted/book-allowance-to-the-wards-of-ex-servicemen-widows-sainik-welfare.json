@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Book Allowance to the Wards of Ex-Servicemen/Widows (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a ward of an unemployed Ex‑Serviceman or a ward of the widow of an Ex‑Serviceman",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "The ward must be studying in a Government‑recognized institution",
+    "The scheme is applicable for up to two wards per unemployed Ex‑Serviceman or widow",
+    "Application must be submitted offline within three months from the date of completion of the education"
+  ],
+  "benefits_summary": "Provides a book allowance of ₹2,000–₹4,000 per annum depending on the level of education, reimbursed up to the actual cost of the books.",
+  "documents_required": [
+    "Prescribed application form (printout)",
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "CBSE Merit Scholarship Scheme For Single Girl Child",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the only (single) girl child of her family",
+    "Applicant must have secured 60% or more marks in the CBSE Class 10th Examination",
+    "Applicant must have passed the CBSE Class 10th Examination in 2019",
+    "Applicant must be studying in Classes 11th or 12th in a CBSE‑affiliated school",
+    "Tuition fee should not exceed ₹1,500 per month (₹6,000 per month for NRI students)",
+    "Total enhancement in tuition fees over the two‑year period must not exceed 10% of the original tuition fee",
+    "Applicant must be an Indian National (NRI applicants of the Board are also eligible)"
+  ],
+  "benefits_summary": "₹500 per month scholarship paid for a maximum period of two years.",
+  "documents_required": [
+    "Undertaking document (as per Guidelines)",
+    "Affidavit (as per Guidelines)",
+    "Photograph",
+    "Scanned PDF of the undertaking and affidavit (≤ 1 MB)"
+  ],
+  "application_link": "https://www.cbse.gov.in/"
+}

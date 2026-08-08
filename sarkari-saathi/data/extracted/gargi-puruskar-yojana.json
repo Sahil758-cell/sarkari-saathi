@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Gargi Puruskar Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must have secured minimum 75% marks in class 10th.",
+    "The girl student should be studying regularly in class 11 or 12.",
+    "The girl child must have a bank account to receive the benefit.",
+    "Application must be made online through the school principal on the Shaladarpan portal."
+  ],
+  "benefits_summary": "Rs. 3,000 per year paid to eligible 11th and 12th grade girl students on Basant Panchami.",
+  "documents_required": [],
+  "application_link": null
+}

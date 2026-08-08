@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Merit Based Scholarship Scheme for Dhangar Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Dhangar community",
+    "Applicant must be among the top 5 rank holders in SSC or HSSC examinations",
+    "Applicant must achieve the minimum qualifying percentage as per the benefit slabs"
+  ],
+  "benefits_summary": "Financial awards ranging from ₹5,000 to ₹20,000 based on rank and exam percentage, disbursed via electronic bank transfer.",
+  "documents_required": [],
+  "application_link": null
+}

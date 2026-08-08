@@ -1,0 +1,29 @@
+{
+  "scheme_name": "State Research Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be pursuing an M.Phil, Ph.D, or D.Litt. course from a recognized university in India.",
+    "Applicants who have received this scholarship three times are ineligible.",
+    "Applicant must not be a beneficiary of any other fellowship or scholarship scheme.",
+    "Applicant must not be an employee of any government or semi‑government establishment."
+  ],
+  "benefits_summary": "Recipients receive cash awards and financial aid to support their research work and complete their studies.",
+  "documents_required": [
+    "Printed application form",
+    "Signed document"
+  ],
+  "application_link": "https://scholarship.nagaland.gov.in/"
+}

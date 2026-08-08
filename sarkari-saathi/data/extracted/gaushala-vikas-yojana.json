@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Gaushala Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Gaushala must have ownership or leased land approved by a competent authority, with lease term of at least 20 years.",
+    "Gaushala must have consistently maintained at least 100 cattle for the past two years.",
+    "Gaushala must have no pending cases of financial irregularity or embezzlement.",
+    "Gaushala must be registered under the Rajasthan Gaushala Act, 1960, the Rajasthan Society Registration Act, 1958, or Lalsamay Pravat Law.",
+    "Institutions recommended or approved by the District-Level Gaushala Committee in exceptional circumstances are eligible.",
+    "Basic infrastructure should not have been previously constructed; if existing infrastructure is insufficient relative to cattle numbers, additional construction may be granted.",
+    "Gaushala should be committed to developing its own resources for self‑reliance and cooperate by sharing information on relevant initiatives."
+  ],
+  "benefits_summary": "Provides up to ₹10 lakh financial assistance for infrastructure development.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Sanction of Enhancement of Marriage Incentive Awards for Marriages Between Persons with Differently Abled and Normal Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The marriage must be between a differently abled person and a normal person",
+    "The couple must not have previously availed the incentive under this scheme",
+    "Both bridegroom and bride must be present at the time of verification with original certificates"
+  ],
+  "benefits_summary": "Marriage incentive award of ₹1,00,000 (previously ₹50,000) for eligible couples",
+  "documents_required": [],
+  "application_link": null
+}

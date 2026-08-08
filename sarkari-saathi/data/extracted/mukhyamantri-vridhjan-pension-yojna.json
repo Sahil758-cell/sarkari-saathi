@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Vridhjan Pension Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be a retired government employee",
+    "Applicant must not be receiving any pension from government service, family pension or social security pension"
+  ],
+  "benefits_summary": "Monthly pension of ₹400 for ages 60‑79 and ₹500 for ages 80 and above, transferred directly to the beneficiary’s bank account via DBT.",
+  "documents_required": [
+    "Aadhaar"
+  ],
+  "application_link": null
+}

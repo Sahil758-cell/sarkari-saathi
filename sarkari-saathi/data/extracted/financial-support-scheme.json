@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Financial Support Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide student studying in any UG/PG degree program at a Department/Institution/Centre of University of Delhi",
+    "Family income less than ₹8,00,000 per annum"
+  ],
+  "benefits_summary": "Provides fee waiver up to 100% for families earning ≤₹4,00,000 and up to 50% for families earning between ₹4,00,000 and ₹8,00,000.",
+  "documents_required": [
+    "Application Form"
+  ],
+  "application_link": null
+}

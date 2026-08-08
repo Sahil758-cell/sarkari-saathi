@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Shramik Auzaar Sahayata Yojana",
+  "occupation": [
+    "Construction Worker",
+    "Mason",
+    "Carpenter",
+    "Electrician",
+    "Porter",
+    "Painter"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have previously availed the benefits of this scheme."
+  ],
+  "benefits_summary": "Reimbursement of the occupation‑related toolkit or the equivalent amount, whichever is less.",
+  "documents_required": [],
+  "application_link": "https://shramadhan.jharkhand.gov.in/home"
+}

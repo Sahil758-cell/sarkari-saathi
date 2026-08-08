@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Marriage Gift Scheme - Telangana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unmarried registered woman worker under the Telangana Building & Other Construction Workers Welfare Board",
+    "Daughter(s) of registered construction workers are eligible",
+    "A construction worker can receive the scheme benefits for up to two daughters",
+    "If both parents are registered workers, only one parent is eligible for the scheme amount",
+    "The scheme applies to the applicant's first marriage",
+    "Applications must be submitted within one year from the date of marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹30,000 as a marriage gift.",
+  "documents_required": [],
+  "application_link": null
+}

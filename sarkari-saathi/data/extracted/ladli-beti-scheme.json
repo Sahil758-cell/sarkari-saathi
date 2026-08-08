@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Ladli Beti Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl child must be born on or after 01/04/2015"
+  ],
+  "benefits_summary": "The scheme provides a government‑funded recurring deposit of ₹1000 per month for 14 years, followed by a 7‑year cumulative term deposit, payable when the girl turns 21.",
+  "documents_required": [
+    "Application Form",
+    "KYC Norms of the Parent/ Guardian",
+    "Sanction letter from the CDPO (Child Development Project Officer)"
+  ],
+  "application_link": "https://www.jansugam.jk.gov.in"
+}

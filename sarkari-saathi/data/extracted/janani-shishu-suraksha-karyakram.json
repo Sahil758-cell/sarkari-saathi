@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Janani Shishu Suraksha Karyakram",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a pregnant woman",
+    "Applicant must be admitted in a government health facility",
+    "Sick newborns up to 30 days (or infants up to one year) must be treated at public health institutions"
+  ],
+  "benefits_summary": "Provides free and cashless delivery, including C‑section, drugs, diagnostics, diet, blood, transport and other services for pregnant women, and free treatment for sick newborns/infants at public health institutions.",
+  "documents_required": [],
+  "application_link": null
+}

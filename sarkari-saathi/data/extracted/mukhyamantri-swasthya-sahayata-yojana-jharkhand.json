@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhyamantri Swasthya Sahayata Yojana Jharkhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST",
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be suffering from an illness or require surgery",
+    "Applicants already receiving financial assistance from other government schemes are ineligible",
+    "Applicant must hold one of the following ration cards: Priority Household Ration Card (PHH), Antyodaya Ration Card, or Green Card"
+  ],
+  "benefits_summary": "Provides cash assistance ranging from ₹1,500 to ₹25,000 depending on illness type, treatment duration, and whether the beneficiary is an adult or minor.",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

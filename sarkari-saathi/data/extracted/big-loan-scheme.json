@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Big Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be a defaulter under any scheme of DSFDC, Nationalized Bank, Financial Institution, or Co‑operative Bank",
+    "Applicant must possess knowledge and experience as required by the scheme",
+    "Applicant must obtain required permissions such as SSI Certificate or Pollution Control Certificate where applicable",
+    "For manufacturing units, the workplace must be in an approved industrial area",
+    "Target groups include Minorities, Safai Karamcharis, and Persons with Disabilities",
+    "Income ceiling for SC, OBC and Minority categories is ₹1,20,000 per annum (₹6,00,000 for the creamy layer of Minority); no income limit for Persons with Disabilities and Safai Karamcharis"
+  ],
+  "benefits_summary": "Term loan up to ₹5,00,000 with repayment over 60 months (ten years for persons with disabilities) and a short moratorium period.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)",
+    "Guarantor details",
+    "Affidavits and other required proofs"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Transport Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide valid commercial driving licence and badge required for Light Motor Vehicle",
+    "Applicant must not have been declared a defaulter under any scheme of DSFDC, Nationalized Bank, Financial Institution, or Co‑operative Bank",
+    "Annual family income should not exceed ₹1,20,000 per annum for SC, OBC and Minority categories",
+    "For the creamy layer of the Minority category, the maximum income ceiling is ₹6,00,000 per annum",
+    "No income limit prescribed for Safai Karamchari category"
+  ],
+  "benefits_summary": "Term loans up to ₹5,00,000 for purchase of Light Motor Vehicles, repaid over 60 months with a six‑month moratorium.",
+  "documents_required": [
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Demand draft of ₹350 processing fee in favor of DSFDC",
+    "Guarantor details",
+    "Post‑dated cheques (if applicable)",
+    "Group photographs"
+  ],
+  "application_link": null
+}

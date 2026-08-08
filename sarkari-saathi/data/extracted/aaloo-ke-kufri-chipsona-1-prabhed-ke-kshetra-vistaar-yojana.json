@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Aaloo Ke Kufri Chipsona-1 Prabhed Ke Kshetra Vistaar Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum agricultural land required is 0.25 acres (0.1 ha) and maximum is 5 acres (2 ha).",
+    "Applicant must be registered on the DBT portal.",
+    "Benefits can be taken by ryot farmers based on land documents and by non‑ryot farmers based on a contract form.",
+    "Beneficiaries will be selected on a first‑come‑first‑serve basis."
+  ],
+  "benefits_summary": "Farmers receive subsidized high‑quality Kufri Chipsona‑I potato seeds and financial assistance up to ₹93,863 per hectare over two years.",
+  "documents_required": [
+    "Land documents",
+    "Contract form"
+  ],
+  "application_link": null
+}

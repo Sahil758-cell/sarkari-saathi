@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Accident Medical Assistance Scheme (PBAOCWWB)",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board",
+    "Applicant must be contributing to the Board's Fund",
+    "Applicant must not have defaulted in payment of contribution to the Board for more than one continuous year",
+    "Applicant must have met an accident and sustained fracture(s)",
+    "Applicant must not be physically fit to resume normal work"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,500 per month until the worker becomes physically fit to resume normal work.",
+  "documents_required": [
+    "passport-sized photograph",
+    "self‑attested mandatory documents",
+    "medical certificate issued by a prescribed doctor"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Distress Relief Fund For The Differently Abled (Medical Treatment)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a native and resident of Kerala",
+    "Applicant must be a disabled person or have become handicapped due to an accident",
+    "Annual income must not exceed ₹20,000 in rural areas or ₹22,375 in urban areas",
+    "Disability categories include blind, deaf and dumb, orthopedically handicapped, mentally challenged, or BPL with at least 40% disability"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 per person per year for medical treatment, including surgery.",
+  "documents_required": [],
+  "application_link": null
+}

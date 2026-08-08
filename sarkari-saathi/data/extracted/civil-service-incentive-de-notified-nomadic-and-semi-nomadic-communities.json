@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Civil Service Incentive (De-Notified, Nomadic and Semi-nomadic communities )",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to De‑notified, Nomadic, or Semi‑Nomadic communities.",
+    "Applicant must have cleared either the Preliminary, Main or Interview stage of the MPPSC or UPSC examination."
+  ],
+  "benefits_summary": "Provides a cash incentive ranging from ₹20,000 to ₹50,000 depending on the examination level and whether it is conducted by MPPSC or UPSC.",
+  "documents_required": [],
+  "application_link": null
+}

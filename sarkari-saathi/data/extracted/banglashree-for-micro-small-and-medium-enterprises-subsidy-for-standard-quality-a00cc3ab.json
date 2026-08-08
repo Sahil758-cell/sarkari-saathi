@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Standard Quality Compliance (SCCS)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a Micro, Small, or Medium Enterprise",
+    "The enterprise must belong to the manufacturing sector",
+    "Production must have started on or after 1st April 2019",
+    "The enterprise may be in the private, cooperative, or joint sector undertaking, or a company/undertaking owned and managed by the State Government or the Industrial SHGs",
+    "Date of Commencement of Commercial Production (DOCCP) must be between 1st April 2020 and 31st March 2025"
+  ],
+  "benefits_summary": "Eligible micro or small enterprises receive reimbursement of 50% of certification expenses, up to a maximum of ₹5,00,000, for specified quality certifications.",
+  "documents_required": [],
+  "application_link": null
+}

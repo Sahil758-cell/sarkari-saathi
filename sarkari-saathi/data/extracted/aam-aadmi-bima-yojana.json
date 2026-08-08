@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Aam Aadmi Bima Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant should normally be the head of the family or an earning member.",
+    "Applicant must belong to an identified occupational or vocational group."
+  ],
+  "benefits_summary": "Provides life insurance coverage (up to ₹75,000), disability benefits, and scholarships for children, with a subsidised annual premium of ₹200 per member.",
+  "documents_required": [],
+  "application_link": null
+}

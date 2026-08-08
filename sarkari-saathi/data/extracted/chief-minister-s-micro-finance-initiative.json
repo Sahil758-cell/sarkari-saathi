@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Chief Minister's Micro Finance Initiative",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual farmers must not be defaulters to any bank",
+    "Individual farmers must have sufficient land in the name of the borrower or on lease, with the remaining lease period not less than the loan tenure",
+    "Individual farmers should have adequate experience or training for the activity they seek assistance for",
+    "Self‑Help Groups must adhere to the Panchasutra concept (regular meetings, regular savings, regular inter‑loaning, timely repayment, and up‑to‑date books of accounts)",
+    "Self‑Help Groups should be financed by the bank where they hold their bank account",
+    "Members of Self‑Help Groups must have sufficient land, either self‑owned or on lease, to carry out land‑based activities",
+    "Farmer Producer Organizations must be registered under the Societies Act, Co‑operative Societies Act or Company Act",
+    "FPOs must have at least three years of audited balance sheets",
+    "All board members and members of the FPO must be non‑defaulters to any bank or financial institution",
+    "FPOs must not be operating at a loss",
+    "FPOs must have at least 100 shareholders and a minimum paid‑up capital of Rs 1,00,000",
+    "The activity funded must be relevant to the prime activity of the FPO",
+    "Maximum borrowing by the FPO is restricted to two‑thirds of its paid‑up share capital or as per its bye‑laws",
+    "At least 80% of FPO members should participate in and benefit from the FPO through input supply or aggregation/marketing of produce"
+  ],
+  "benefits_summary": "Enhances farmers' and entrepreneurs' income by providing subsidised credit and support for agricultural, allied, and micro‑enterprise activities.",
+  "documents_required": [
+    "Village Council land‑holding certificate countersigned by area administrative officer",
+    "Audited balance sheet (minimum three years)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Walking Device - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Child must be orthopedically differently‑abled and have difficulty walking."
+  ],
+  "benefits_summary": "Free distribution of a rollator/walker to eligible children.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Lakshmi Bai Samajik Suraksha Pension Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be a widow"
+  ],
+  "benefits_summary": "Financial assistance of Rs. 300 per month.",
+  "documents_required": [],
+  "application_link": null
+}

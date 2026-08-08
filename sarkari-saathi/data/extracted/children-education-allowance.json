@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Children Education Allowance",
+  "occupation": [
+    "building",
+    "construction"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be engaged in building or construction work",
+    "Worker must be registered with the Nagaland Building and Other Construction Workers' Welfare Board",
+    "Child must be studying between Nursery and 10th Class",
+    "A maximum of two children per family are eligible"
+  ],
+  "benefits_summary": "Provides ₹500 per month per child (up to two children) as education assistance for children studying from Nursery to Class 10.",
+  "documents_required": [],
+  "application_link": null
+}

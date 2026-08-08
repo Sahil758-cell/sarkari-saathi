@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mamata Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable only for the first two live births of the mother",
+    "Employees of Government/Public Sector Undertakings and their wives are excluded from eligibility",
+    "Must be a resident of Odisha"
+  ],
+  "benefits_summary": "Cash incentive of up to Rs 5,000 paid in two installments of Rs 3,000 and Rs 2,000 upon meeting health and immunisation conditions.",
+  "documents_required": [],
+  "application_link": "https://play.google.com/store/apps/details?id=com.emamata.odisha&hl=en_IN&pli=1, https://emamata.odisha.gov.in/login"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Disability Pension (HPBOCWWB)",
+  "occupation": [
+    "Building or Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have worked in building or construction activities for at least 90 days in the preceding 12 months",
+    "The registration must be renewed annually",
+    "The worker must have an active membership with the Himachal Pradesh Building and Other Construction Workers Welfare Board",
+    "The worker must be registered under the Himachal Pradesh Building and Other Construction Workers Welfare Board",
+    "The disability must be caused by an accident or an illness"
+  ],
+  "benefits_summary": "Monthly pension of ₹500, plus a lump‑sum ₹50,000 for disability >50% or ₹25,000 for disability ≤50%.",
+  "documents_required": [],
+  "application_link": null
+}

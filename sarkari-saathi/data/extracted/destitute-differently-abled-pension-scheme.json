@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Destitute Differently Abled Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 45,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be hearing and speech‑impaired",
+    "Disability must be 60% or above",
+    "Applicant must have no source of income or means of subsistence",
+    "Applicant must not be a habitual beggar",
+    "Applicant must not be supported by a son or grandson aged 20 years or above",
+    "Applicant must not own property valued over ₹5,000"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,000 plus free clothing during festivals and free rice as per the nutrition scheme.",
+  "documents_required": [],
+  "application_link": null
+}

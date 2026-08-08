@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Subsidy for Fund Raising from SME Exchange",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a newly established micro or small enterprise set up in one of the declared 254 industrially backward blocks.",
+    "Applicant must qualify for listing on the SME Exchange in accordance with NSE/BSE norms.",
+    "Only merchant banker fees, due diligence fees, registrar and transfer agent fees, peer review auditor fees, exchange fees, and listing charges are eligible for reimbursement.",
+    "Application must be submitted within 6 months from the date of listing on the SME Exchange."
+  ],
+  "benefits_summary": "Assistance up to ₹30,00,000, covering up to 50% of the total SME IPO expenditure.",
+  "documents_required": [],
+  "application_link": null
+}

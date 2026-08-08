@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Super IAS 500 Scholarship Manipur",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must be a domicile of India.",
+    "Candidate must be a permanent resident of the state of Manipur.",
+    "Applicant must be a civil service student.",
+    "Candidate must be a meritorious and brilliant IAS aspirant of Manipur."
+  ],
+  "benefits_summary": "Provides offline IAS coaching to the top 500 candidates, with full scholarships for the top 200 and partial grants (40‑75%) for ranks 201‑500.",
+  "documents_required": [
+    "Applicant’s passport size photograph",
+    "Any valid identification proof (Aadhaar Card, PAN Card, passport, driver’s license, bank passbook, etc.)",
+    "Birth certificate or Class 10th mark sheet",
+    "Qualification certificates",
+    "Residential proof",
+    "Income certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Paramparagat Krishi Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Maximum land holding is 2 hectare"
+  ],
+  "benefits_summary": "Promotes organic farming, improves soil health, and provides direct market linkages and capacity building for farmers.",
+  "documents_required": [],
+  "application_link": null
+}

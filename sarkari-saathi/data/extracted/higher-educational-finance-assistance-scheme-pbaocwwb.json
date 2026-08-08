@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Higher Educational Finance Assistance Scheme (PBAOCWWB)",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be a ward of a Construction Worker.",
+    "The Construction Worker must be registered with the Puducherry Building and Other Construction Workers Welfare Board.",
+    "The applicant must have secured admission into a higher education program through CENTAC, Puducherry."
+  ],
+  "benefits_summary": "Provides a one‑time grant (₹20,000‑₹1,50,000) for specified professional courses and an annual stipend (₹2,000‑₹4,000) for UG/PG programs.",
+  "documents_required": [],
+  "application_link": null
+}

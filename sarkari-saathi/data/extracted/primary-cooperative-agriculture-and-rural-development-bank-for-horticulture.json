@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Horticulture",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be engaged in horticultural activities",
+    "Must be interested in availing loan for horticultural activities",
+    "Must intend to use the loan specifically for horticultural activities"
+  ],
+  "benefits_summary": "Provides loans ranging from ₹25,000 to ₹2,00,000 per 0.4 hectare for horticultural activities at interest rates between 11% and 12.5%.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)",
+    "Application form"
+  ],
+  "application_link": null
+}

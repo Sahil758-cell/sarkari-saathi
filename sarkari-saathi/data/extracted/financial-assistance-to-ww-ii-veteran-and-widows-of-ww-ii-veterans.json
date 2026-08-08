@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance to WW II Veteran and Widows of WW II Veterans",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ex‑serviceman of the Pre‑Independence Era (World War II veteran) who enrolled before 31 August 1945, or the widower of such a veteran",
+    "Only other ranks (Havildar and below) are eligible",
+    "Applicant must have an annual income from all sources below ₹2,00,000",
+    "Applicant must not be receiving any pension, financial assistance, or maintenance allowance from any Government department or any organization controlled by the Government",
+    "Applicants with any income from a job, profession, or business are not eligible",
+    "The applicant must be a bonafide resident of Haryana and provide a domicile certificate issued by the competent authority and an attested copy of the Ration Card",
+    "Survival verification proof must be submitted every year in April; failure to do so will stop payments"
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 per month is provided to eligible World War II veterans and their widows.",
+  "documents_required": [
+    "Domicile certificate issued by the competent authority as authorized by the Haryana Government",
+    "Attested copy of the Ration Card"
+  ],
+  "application_link": null
+}

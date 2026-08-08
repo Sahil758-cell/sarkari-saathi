@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Delhi Family Benefit Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Delhi for more than 5 years before the application date.",
+    "The deceased primary breadwinner must have been aged between 18 and 60 years at the time of death.",
+    "Applicant must have an Aadhaar number.",
+    "Applicant must have a singly‑operated bank account in Delhi for receiving the payment through PFMS.",
+    "Relaxations are allowed for minors, mentally challenged applicants, or those under legal guardianship as per National Trust rules."
+  ],
+  "benefits_summary": "One-time cash assistance of Rs 20,000 transferred to the beneficiary's bank account via PFMS.",
+  "documents_required": [
+    "Self‑attested documentary"
+  ],
+  "application_link": "www.edistrict.delhigovt.nic.in"
+}

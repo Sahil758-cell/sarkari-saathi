@@ -1,0 +1,25 @@
+{
+  "scheme_name": "ICRO Amrit Internship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant should be a 12th Pass/Diploma Holder/Graduate or in the final year of graduation.",
+    "Preference is given to candidates with agriculture or related sector qualification."
+  ],
+  "benefits_summary": "Interns receive a stipend of ₹6,000 per month and an internship completion certificate.",
+  "documents_required": [
+    "Passport size photo in JPG/JPEG format (<2 MB)",
+    "Letter of recommendation in PDF format (<2 MB)",
+    "Mark sheet or Certificate of Qualification in PDF format (<2 MB)"
+  ],
+  "application_link": null
+}

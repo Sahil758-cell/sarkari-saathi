@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Medical Assistance (MBOCWWB)",
+  "occupation": [
+    "building or other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be engaged in building or other construction work",
+    "The beneficiary must be registered under the Meghalaya Building & Other Construction Workers Welfare Board (MBOCWWB)",
+    "The beneficiary must have an active membership of the Board",
+    "The beneficiary must be hospitalized for five or more days due to an accident or any disease"
+  ],
+  "benefits_summary": "₹200 per day for the first 5 days and ₹20 per additional day (minimum ₹1,000), with up to ₹5,000 assistance for disability based on percentage of disability.",
+  "documents_required": [
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

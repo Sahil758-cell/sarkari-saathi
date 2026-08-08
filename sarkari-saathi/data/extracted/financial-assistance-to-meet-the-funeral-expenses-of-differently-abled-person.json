@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance to Meet the Funeral Expenses of Differently Abled Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the legal heir of the differently abled person",
+    "The differently abled person must be deceased",
+    "The differently abled person must have been a registered member of the Welfare Board for the Differently Abled"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 is provided to the legal heir of the deceased differently abled person to meet funeral expenses.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

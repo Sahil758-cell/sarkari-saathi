@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Indian Agricultural Research Institute - Scholarship",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility requires a Bachelor's degree under 10+2+4, 10+2+3, 10+1+4 or pre‑1985 10+2+2 system for M.Sc./M.Tech. programmes",
+    "Ph.D. candidates must have at least 60% marks or the specified OGPA thresholds (relaxed to 55%/OGPA 7.0 for SC/ST/PC candidates) in their M.Sc./M.Tech. degree",
+    "Applicants must be Indian citizens or domiciled persons as defined in the Constitution of India",
+    "Candidates must devote their full time to the approved study and cannot hold any other paid or unpaid appointment",
+    "In‑service or departmental candidates must be employed by the ICAR/SAU system and meet specific salary allowance conditions to receive the adjusted scholarship amount"
+  ],
+  "benefits_summary": "Monthly scholarship of ₹7,560 for M.Sc. and ₹10,500 for Ph.D., plus an annual contingent grant of ₹6,000 (M.Sc.) or ₹10,000 (Ph.D.) towards study expenses.",
+  "documents_required": [
+    "Crossed Demand Draft for application fee",
+    "Completed Application Form"
+  ],
+  "application_link": "http://www.iari.res.in"
+}

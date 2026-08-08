@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Ambedkar DBT Voucher Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Rajasthan but cannot be a resident of the Municipal Corporation, Municipal Council, or Municipality of the district where they are studying",
+    "Parent/guardian must not own a house in the city or town where the student is studying",
+    "Student must not be residing in a government‑run hostel",
+    "Student must be regularly enrolled in an undergraduate or postgraduate course at a government college located at the district level",
+    "Benefit is available for a maximum of five years per student",
+    "Eligibility category noted in source: Scheduled Caste (SC)",
+    "Eligibility category noted in source: Scheduled Tribe (ST)",
+    "Eligibility category noted in source: Most Backward Class (MBC)",
+    "Eligibility category noted in source: Economically Weaker Section (EWS)"
+  ],
+  "benefits_summary": "Provides ₹2,000 per month for up to 10 months each academic year, for a maximum of five years per student.",
+  "documents_required": [],
+  "application_link": null
+}

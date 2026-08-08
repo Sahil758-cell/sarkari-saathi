@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Organizing Block Demonstration",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must cultivate seed farms with Pulses crops"
+  ],
+  "benefits_summary": "Provides a subsidy of 50% of input costs up to ₹2,000 per demonstration.",
+  "documents_required": [],
+  "application_link": null
+}

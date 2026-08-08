@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Aaws Bhatta Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be admitted as a regular student in a government or recognized non‑government college",
+    "Applicant must not be admitted to any government hostel",
+    "College or the student's permanent residence should not be located within the geographical limits of the same local body (urban body/gram panchayat)",
+    "If examination results are delayed or the student fails, they become ineligible for the scheme in the following year"
+  ],
+  "benefits_summary": "Provides monthly rent assistance ranging from ₹1,000 to ₹2,000 per student depending on the location (city, district headquarters, tehsil/block).",
+  "documents_required": [
+    "photo",
+    "signature",
+    "important documents"
+  ],
+  "application_link": null
+}

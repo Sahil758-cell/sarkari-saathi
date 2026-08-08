@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Yatra Pass in DTC non AC Buses for the Construction Workers",
+  "occupation": [
+    "Building Worker",
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year",
+    "Must be above 5 years of age for application"
+  ],
+  "benefits_summary": "Provides a ₹2400 pass valid for three months for non‑AC DTC buses.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Photograph",
+    "Applicant’s Video"
+  ],
+  "application_link": null
+}

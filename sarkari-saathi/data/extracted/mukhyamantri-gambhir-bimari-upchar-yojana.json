@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Gambhir Bimari Upchar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Jharkhand.",
+    "Applicant must suffer from one of the specified illnesses: any type of cancer, kidney transplant, severe liver diseases, or be an acid‑attack victim.",
+    "Applicant’s gross annual income must be below ₹8,00,000 for three consecutive years (exempted for acid‑attack victims)."
+  ],
+  "benefits_summary": "Financial assistance up to ₹5,00,000 per case for treatment of critical illnesses, disbursed directly to hospitals.",
+  "documents_required": [
+    "Prescribed application form",
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

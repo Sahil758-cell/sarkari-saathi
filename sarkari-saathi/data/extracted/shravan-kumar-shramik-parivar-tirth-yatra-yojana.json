@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Shravan Kumar Shramik Parivar Tirth Yatra Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be employed in an establishment registered under the Factories Act, 1948",
+    "The worker's combined basic salary and dearness allowance must not exceed ₹15,000 per month",
+    "The worker must have completed at least six months of continuous service in the establishment and must be in service at the time of application",
+    "If both the worker and his wife are employed as workers in factories/establishments, only one of them is eligible for the benefit",
+    "The family may include the worker, wife, up to two unmarried children, the worker's parents, and mother‑in‑law and father‑in‑law in case of a female worker, with the total number of members not exceeding six",
+    "Only two children of the worker’s family and the dependent mother/father can be included",
+    "The worker can avail the benefit only once during his entire service period",
+    "If applications exceed the budget for the financial year, workers with the maximum age will be selected on a priority basis",
+    "The last date for receiving applications in each financial year is 30 September"
+  ],
+  "benefits_summary": "A lump‑sum assistance of up to ₹12,000 for travel expenses.",
+  "documents_required": [
+    "Recent photograph of the applicant",
+    "Scanned copy of the verified application form and supporting documents"
+  ],
+  "application_link": "https://skpuplabour.in/"
+}

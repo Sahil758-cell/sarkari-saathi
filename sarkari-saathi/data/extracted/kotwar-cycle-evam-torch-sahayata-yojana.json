@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Kotwar Cycle Evam Torch Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered as an unorganized worker in any district of Chhattisgarh.",
+    "Applicant must not have received a cycle or torch under any previous assistance scheme of the state government."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per person for a bicycle or ₹750 per person for a torch.",
+  "documents_required": [],
+  "application_link": null
+}

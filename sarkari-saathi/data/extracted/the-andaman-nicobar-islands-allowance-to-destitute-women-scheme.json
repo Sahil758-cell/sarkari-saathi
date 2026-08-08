@@ -1,0 +1,26 @@
+{
+  "scheme_name": "The Andaman & Nicobar Islands Allowance to Destitute Women Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman and Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of the Union Territory of Andaman and Nicobar Islands or have resided there for more than 10 years at the time of application",
+    "Applicant must be a poor and destitute woman",
+    "Household income must not exceed ₹4000 per month",
+    "Applicant must not be receiving any other government assistance or pension",
+    "Beneficiary must inform the Director of Social Welfare about any change of address or employment status within 15 days",
+    "Failure to inform within 15 days may lead to recovery of the allowance paid"
+  ],
+  "benefits_summary": "An allowance of ₹2500 per month is provided, paid directly to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

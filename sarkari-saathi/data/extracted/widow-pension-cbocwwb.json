@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Widow Pension (CBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased worker must have been working at an establishment registered under the Punjab Labour Welfare Fund Act, 1965 and his contributions to the labour welfare fund should have been regularly received by the board",
+    "A death certificate issued by the competent authority must be produced",
+    "A self‑declaration stating that the widow is not receiving pension from any other source is required",
+    "The beneficiary must not be covered under EPF",
+    "The male construction worker must have been a member of the Board for at least the last six months",
+    "The widow must apply for the benefit within one year of the worker’s death"
+  ],
+  "benefits_summary": "A monthly pension of ₹1000 is provided to widows of male registered construction workers of the Board.",
+  "documents_required": [
+    "Death certificate",
+    "Self‑declaration"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

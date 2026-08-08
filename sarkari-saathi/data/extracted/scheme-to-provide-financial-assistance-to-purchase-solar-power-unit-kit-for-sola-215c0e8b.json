@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme to Provide Financial Assistance to Purchase Solar Power Unit/Kit for Solar Fencing around the Farm",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a farmer",
+    "For joint landholder farmers, only the landholder named in the 8‑A land record is eligible",
+    "The selected joint landholder must obtain consent of all other joint landholders"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 50% of the cost or ₹15,000 (whichever is lower) for a solar power unit/kit, grantable once every ten years.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

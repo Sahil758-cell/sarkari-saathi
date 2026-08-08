@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Community Based Training Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must belong to a religious minority community of Karnataka",
+    "Applicant must be a permanent resident of Karnataka",
+    "Applicant must be unemployed",
+    "Applicant must have at least SSLC qualification",
+    "Applicant must not have previously taken training under any state or central government scheme",
+    "Applicant must compulsorily complete the training"
+  ],
+  "benefits_summary": "Provides training in Heavy Vehicle Driving, Short Hand, Security Services, Office Soft Skills, Retail Sales, and Beauty Parlor courses for both males and females.",
+  "documents_required": [
+    "Passport-size photo",
+    "Educational document",
+    "Income certificate"
+  ],
+  "application_link": null
+}

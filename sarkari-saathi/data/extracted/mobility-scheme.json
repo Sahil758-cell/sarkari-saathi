@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mobility Scheme",
+  "occupation": [
+    "scientist",
+    "academician"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a woman scientist or academician employed in a permanent position in a government institution, R&D lab, or university",
+    "Must be willing to resign from the permanent position or take a long leave to avail the fellowship and return to the parent organization after the tenure",
+    "The new location must be at least 500 km away from the current city",
+    "Relocation may be due to marriage, husband’s transfer, caring for ailing parents, or accompanying children studying elsewhere"
+  ],
+  "benefits_summary": "Awardees receive a monthly salary plus a research grant of ₹5,00,000 per annum for a maximum tenure of five years.",
+  "documents_required": [
+    "Research proposal",
+    "Application form (5 copies)"
+  ],
+  "application_link": "https://dst.gov.in"
+}

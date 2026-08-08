@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Phool Vikash Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must own agricultural land between 0.25 acres (0.1 ha) and 10 acres (4 ha).",
+    "Must be registered on the DBT portal of the Agriculture Department.",
+    "Ryot farmers can claim benefits based on land documents; non‑ryot farmers based on contract form.",
+    "Beneficiaries will be selected on a first‑come‑first‑served basis."
+  ],
+  "benefits_summary": "Provides a 50% subsidy up to ₹80,000 per hectare for marigold cultivation (maximum 4 hectares).",
+  "documents_required": [
+    "Land documents",
+    "Contract form"
+  ],
+  "application_link": null
+}

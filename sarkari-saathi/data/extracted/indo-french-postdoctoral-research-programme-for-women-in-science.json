@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Indo-French Postdoctoral Research Programme for Women in Science",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be women and Indian or French citizens.",
+    "Applicants must be affiliated with a recognized university or research institution in India or France.",
+    "Indian applicants must hold a PhD degree and have a sanctioned/tenured post in a scientific/academic institution.",
+    "French applicants must hold a PhD degree and be currently completing a postdoctoral project.",
+    "The mobility period must occur during the applicant's employment at the institution.",
+    "Applicants must not have received any postdoctoral fellowship in France or India in the last 5 years.",
+    "The fellowship cannot be taken simultaneously with any other fellowship.",
+    "Preference is given to candidates without prior international exposure.",
+    "Preference is given to candidates with prior R&D experience and publications.",
+    "CEFIPRA may relax eligibility conditions for potential candidates."
+  ],
+  "benefits_summary": "Indian nationals receive €2000 per month plus allowances and travel; French nationals receive ₹90,000 per month plus allowances and travel.",
+  "documents_required": [],
+  "application_link": "https://www.cefipra.org/"
+}

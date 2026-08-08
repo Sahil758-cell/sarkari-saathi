@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Marriage Benefit (MBOCWWB)",
+  "occupation": [
+    "building work",
+    "other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a resident of Meghalaya",
+    "The beneficiary must be engaged in building or other construction work",
+    "The beneficiary must be registered under the Meghalaya Building & Other Construction Workers Welfare Board",
+    "The beneficiary must have continuous membership for 3 years",
+    "A registered worker can avail of financial assistance for their own marriage only once",
+    "A registered worker can apply for financial assistance for the marriage of all their adult children",
+    "Proper documentation such as marriage certificates must be produced for the marriage of adult children"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 is provided for the worker's own marriage and for the marriage of all their adult children.",
+  "documents_required": [
+    "Marriage Certificate",
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

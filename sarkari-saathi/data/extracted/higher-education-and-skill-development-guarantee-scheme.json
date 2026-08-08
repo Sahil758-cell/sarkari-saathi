@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Higher Education And Skill Development Guarantee Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed Class‑X and Class‑XII examinations in Delhi.",
+    "Must have secured admission to a higher education or specified skill development course (diploma, degree, postgraduate, etc.) in a recognized institution in Delhi.",
+    "Must be a child of an employee of the Government of NCT of Delhi or a government official posted with the Government of NCT of Delhi.",
+    "The course must be approved by the relevant regulatory bodies (UGC, AICTE, ICMR, etc.) and may include professional courses such as CA, CFA, ICWA, or courses offered by IIT, NIFT, NLU, IIFT, etc.",
+    "Institutions may be government, private/self‑financed with NAAC/NBA/SFRC accreditation, or technical/skill‑development centres specified by the Government of NCT of Delhi."
+  ],
+  "benefits_summary": "Education loan guarantee up to Rs. 10 Lakhs.",
+  "documents_required": [],
+  "application_link": null
+}

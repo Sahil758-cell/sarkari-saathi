@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Avivahita Pension Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 50,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unmarried",
+    "Applicant must not be an income taxpayer",
+    "Applicant must not be a government employee or officer",
+    "Applicant must not be an honorary employee in government or non‑government offices"
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹600 to eligible women.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Fruit Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide farmer engaged in agriculture",
+    "Own or leased land of at least 0.2 hectares",
+    "First‑come‑first‑serve basis for beneficiary selection"
+  ],
+  "benefits_summary": "Up to 50% subsidy on quality planting materials (free under convergent mode with MGNREGA), with additional 100% assistance for citrus rejuvenation and up to 75% subsidy (limited to 500 sqm) for creeper fruit plants.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

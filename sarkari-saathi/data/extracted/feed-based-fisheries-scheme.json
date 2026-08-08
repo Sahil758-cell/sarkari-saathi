@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Feed Based Fisheries Scheme",
+  "occupation": [
+    "fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have at least one year of previous crop records.",
+    "Applicant must not be enrolled in other overlapping schemes for the same purpose."
+  ],
+  "benefits_summary": "Provides a subsidy of up to 50% of fish feed cost (maximum ₹22 per kg) for eligible fish farmers using cage, RAS, or Biofloc systems.",
+  "documents_required": [],
+  "application_link": null
+}

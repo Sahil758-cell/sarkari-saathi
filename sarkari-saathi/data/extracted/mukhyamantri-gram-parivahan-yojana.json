@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Mukhyamantri Gram Parivahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must not have benefited from a similar scheme previously",
+    "For ambulance purchases, applicant must be willing to use it for public health services"
+  ],
+  "benefits_summary": "Provides 50% financial assistance for vehicle purchase up to ₹1,00,000 for standard vehicles, ₹70,000 for e‑rickshaws, and ₹2,00,000 for ambulances.",
+  "documents_required": [],
+  "application_link": null
+}

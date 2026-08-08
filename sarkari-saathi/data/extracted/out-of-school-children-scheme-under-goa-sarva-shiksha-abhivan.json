@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Out of School Children scheme under Goa Sarva Shiksha Abhivan",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": 14,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The child should not be enrolled in a school."
+  ],
+  "benefits_summary": "NGOs receive sanctions/grants to provide special training to out‑of‑school children as per Sarva Shiksha Abhiyan norms.",
+  "documents_required": [],
+  "application_link": null
+}

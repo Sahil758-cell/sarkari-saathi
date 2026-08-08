@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Minister Drought Relief Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The farmer’s crops must be damaged due to drought.",
+    "The family must reside in officially declared drought‑hit areas."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,500 per affected farmer family.",
+  "documents_required": [],
+  "application_link": null
+}

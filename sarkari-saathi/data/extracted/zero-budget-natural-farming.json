@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Zero Budget Natural Farming",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum land ownership of one acre (or family account holder)",
+    "Must have a special interest in natural farming",
+    "Must be selected by the Regional Assistant Agriculture Officer or Agriculture Supervisor",
+    "Horticulture crops and animal husbandry should be included in natural farming",
+    "Priority is given to SC, ST, BPL, small and marginal farmers",
+    "Youth up to 35 years are eligible",
+    "Farmers already selected under Paramparagat Krishi Vikas Yojana are excluded",
+    "Eligible farmers may be from the same village or neighboring villages"
+  ],
+  "benefits_summary": "Eligible farmers receive a 50% subsidy on inputs (up to Rs.600 per farmer) along with equipment such as drums, buckets, and training support.",
+  "documents_required": [],
+  "application_link": null
+}

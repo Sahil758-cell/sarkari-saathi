@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student enrolled in a recognized school, institution or university",
+    "Must be at least 18 years of age",
+    "Preference is given to applicants who submit a clear Statement of Purpose (≤1000 words) indicating their area of interest",
+    "Applicants can apply for a maximum of three disciplines",
+    "Eligibility is limited to candidates pursuing specified courses such as Science, Forestry, Ecology, Computer Science, Electronic Engineering, Commerce, Economics, Management, Law, etc.",
+    "Applicants must submit supporting documents of qualification/enrolment and may submit additional skill‑set documents"
+  ],
+  "benefits_summary": "Interns receive a performance‑graded certificate and logistical support (transport, study material), but no monetary stipend.",
+  "documents_required": [
+    "Proof of qualification or enrolment in an educational institute",
+    "Document supporting additional skill sets (optional)"
+  ],
+  "application_link": "https://internship.eforest.delhi.gov.in/"
+}

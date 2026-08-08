@@ -1,0 +1,27 @@
+{
+  "scheme_name": "National Family Benefit Scheme (Jammu and Kashmir)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu and Kashmir"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Jammu and Kashmir",
+    "Applicant must be a family member or dependent of the deceased primary breadwinner",
+    "Application must be submitted within one year of the death of the primary breadwinner"
+  ],
+  "benefits_summary": "One-time financial assistance of ₹20,000 to the bereaved family.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Self-attested copies of required documents",
+    "Prescribed application form"
+  ],
+  "application_link": null
+}

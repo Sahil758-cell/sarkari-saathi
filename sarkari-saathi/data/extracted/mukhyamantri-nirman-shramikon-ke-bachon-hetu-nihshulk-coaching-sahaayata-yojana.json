@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Nirman Shramikon Ke Bachon Hetu Nihshulk Coaching Sahaayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered under the Building and Other Construction Workers Welfare Board.",
+    "The registered worker should have at least one year of regular membership.",
+    "Only the first two children of the worker are eligible for the scheme."
+  ],
+  "benefits_summary": "Free coaching assistance is provided to the first two children of registered construction workers for competitive examinations.",
+  "documents_required": [],
+  "application_link": null
+}

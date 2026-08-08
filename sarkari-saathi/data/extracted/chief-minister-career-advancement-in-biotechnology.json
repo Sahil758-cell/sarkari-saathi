@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Chief Minister Career Advancement in Biotechnology",
+  "occupation": [
+    "scientist",
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 37,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent employee of an academic or research institute in Kerala",
+    "Must be officially sponsored by the employer/head of the institution with a commitment to depute the candidate for research/training",
+    "Must possess a Ph.D. degree in biotechnology‑related subjects",
+    "Must have a proven record of independent research evidenced by publications in peer‑reviewed indexed journals and patents",
+    "Must not discontinue the fellowship without prior approval of KSCSTE/KBC; if discontinued, the fellow must refund the expenditure incurred",
+    "Pay and allowances during the fellowship period will be paid by the institution"
+  ],
+  "benefits_summary": "USD 1500 per month for overseas host institutions or INR 50,000 per month for domestic hosts, plus a contingency grant up to INR 50,000 for travel and related expenses.",
+  "documents_required": [
+    "Consent letter from host faculty/scientist",
+    "Application in the prescribed format"
+  ],
+  "application_link": null
+}

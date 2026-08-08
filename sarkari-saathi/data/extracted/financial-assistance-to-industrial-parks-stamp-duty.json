@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Financial Assistance to Industrial Parks: Stamp Duty",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility is limited to Industries Associations or any enterprise registered under the Societies Act, Partnership Act, Trust Act, Companies Act, or a Special Purpose Vehicle (SPV) constituted for setting up an industrial park"
+  ],
+  "benefits_summary": "Developers receive 100% reimbursement of stamp duty on land purchase for the industrial park, while individual units in the park get 50% reimbursement of stamp duty on plot purchase.",
+  "documents_required": [],
+  "application_link": null
+}

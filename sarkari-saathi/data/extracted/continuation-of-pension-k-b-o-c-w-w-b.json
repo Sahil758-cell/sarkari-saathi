@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Continuation of Pension (K.B.O.C.W.W.B)",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered construction worker under the Karnataka Building and Other Construction Workers Welfare Board.",
+    "Must have paid subscription fees for at least three continuous years.",
+    "Must have engaged in building and construction work for at least 90 days in a given year.",
+    "Must remain an active construction worker.",
+    "Must not be receiving a similar pension from any other government scheme."
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000 to eligible registered workers.",
+  "documents_required": [],
+  "application_link": null
+}

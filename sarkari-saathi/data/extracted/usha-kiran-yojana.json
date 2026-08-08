@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Usha Kiran Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All women of all age groups are eligible.",
+    "All children under the age of 18 are eligible."
+  ],
+  "benefits_summary": "Provides protection and support against domestic violence.",
+  "documents_required": [],
+  "application_link": null
+}

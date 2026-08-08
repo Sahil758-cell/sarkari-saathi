@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Maternity Assistance for the Construction Worker",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Sikkim",
+    "Served the Board for at least 90 days in a given year",
+    "Women must be pregnant",
+    "Benefit applicable only for the first two children",
+    "Must be a registered woman member under the Sikkim Building and Other Construction Workers Welfare Board"
+  ],
+  "benefits_summary": "Provides a maternity assistance of ₹10,000 to each eligible woman, payable up to two times.",
+  "documents_required": [
+    "Application form",
+    "Identity Card (Form XXVIII)",
+    "Mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

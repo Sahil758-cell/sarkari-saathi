@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Rashtriya Vigyan Puraskar",
+  "occupation": [
+    "scientist",
+    "technologist",
+    "innovator"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Scientists, technologists and innovators working in government or private organizations, as well as individuals of Indian origin residing abroad, who have made path‑breaking research, technology‑led innovation or discovery in any field of science are eligible",
+    "Team award (Vigyan Team) requires a team comprising three or more scientists/researchers/innovators"
+  ],
+  "benefits_summary": "Awardees receive a President‑signed certificate, a medallion, and a commemorative brochure",
+  "documents_required": [
+    "Aadhaar card or other valid identity proof"
+  ],
+  "application_link": null
+}

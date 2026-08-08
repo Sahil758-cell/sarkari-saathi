@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Award of Pre-matric Scholarship to the Students Whose Parents Are Engaged in Unclean Occupation",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Either or both parents must be engaged in an unclean occupation (Scavenger, Flayer, or Tarner)."
+  ],
+  "benefits_summary": "₹1850 per annum scholarship.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Self-attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

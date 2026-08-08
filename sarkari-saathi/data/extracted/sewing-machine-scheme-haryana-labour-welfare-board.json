@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Sewing Machine Scheme- Haryana Labour Welfare Board",
+  "occupation": [
+    "worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be registered with the Haryana Labour Welfare Board.",
+    "Monthly income of the applicant must not exceed ₹18,000.",
+    "The applicant must be employed in an industrial or commercial establishment in Haryana.",
+    "The service period for the applicant is fixed at 2 years, and benefits are received after every five years of service."
+  ],
+  "benefits_summary": "Financial assistance of ₹4,500 is provided to eligible women workers to purchase a sewing machine for domestic use.",
+  "documents_required": [
+    "Photograph"
+  ],
+  "application_link": "https://hrylabour.gov.in/"
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "West Bengal Artisans Financial Benefit Scheme 2024: Grant to Individual Artisans",
+  "occupation": [
+    "handicrafts artisan"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be engaged in a traditional craft or trade using hand tools, equipment, or small machines",
+    "Applicant must be enlisted in the State Portal for artisans & weavers",
+    "Applicant must be an Indian citizen who has been a permanent resident of West Bengal for the past 10 years",
+    "For work sheds, the industrial cooperative society representing eligible artisans must own a piece of land where sheds can be constructed or machines installed"
+  ],
+  "benefits_summary": "One‑time grant of up to ₹15,000 for purchase and repair of tool kits/equipment.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Nariwal Paudha Vitaran Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered on the DBT portal.",
+    "Must be interested in planting coconut saplings.",
+    "Benefit is given to the farmer family (husband, wife, and minor child).",
+    "Selection is on a first‑come‑first‑serve basis."
+  ],
+  "benefits_summary": "75% subsidy on each sapling (₹63.75 off ₹85) and provision of 5 to 712 saplings per beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

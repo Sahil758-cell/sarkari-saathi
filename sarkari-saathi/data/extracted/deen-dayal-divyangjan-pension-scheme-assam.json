@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Deen Dayal Divyangjan Pension Scheme - Assam",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a Disability Certificate showing 40% or more disability issued by the competent government health authority of the district",
+    "No educational qualification is required",
+    "Applicant must possess his/her own bank account number in any nationalized bank"
+  ],
+  "benefits_summary": "The beneficiary receives a monthly pension of ₹1,000.",
+  "documents_required": [
+    "Disability Certificate"
+  ],
+  "application_link": null
+}

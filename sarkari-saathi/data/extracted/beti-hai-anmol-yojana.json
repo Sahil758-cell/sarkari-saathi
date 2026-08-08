@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Beti Hai Anmol Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only two girl children per BPL family are eligible.",
+    "Beneficiary girl must not be married before completing 18 years.",
+    "Eligibility limited to girls born after July 5, 2010."
+  ],
+  "benefits_summary": "The scheme provides a one‑time grant of Rs 21,000 at birth and annual scholarships ranging from Rs 450 to Rs 5,000 through schooling and higher education.",
+  "documents_required": [],
+  "application_link": null
+}

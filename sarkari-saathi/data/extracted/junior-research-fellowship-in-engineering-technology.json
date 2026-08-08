@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Junior Research Fellowship In Engineering & Technology",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a master's degree in engineering, technology or pharmacy with at least 55% marks.",
+    "Must hold an M.E. or M.Tech. degree (or equivalent).",
+    "GATE examination is not required.",
+    "Age limit is 40 years as on 1 July of the award year; can be extended by five years for women and SC/ST candidates.",
+    "Reservation of 22.5% of fellowships for SC/ST candidates; if not filled, slots go to general candidates.",
+    "Candidates from subjects such as geology and geo‑physics are excluded."
+  ],
+  "benefits_summary": "Provides a fellowship of Rs 14,000 per month for the first two years and Rs 15,000 per month thereafter, along with contingency, departmental assistance and other allowances.",
+  "documents_required": [
+    "Prescribed application format (Annexure II)",
+    "Joining Report signed by the supervisor/head of department",
+    "Annexure III required documents"
+  ],
+  "application_link": null
+}

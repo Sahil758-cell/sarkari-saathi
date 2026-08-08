@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Internship",
+  "occupation": [
+    "school student"
+  ],
+  "gender": null,
+  "age_min": 16,
+  "age_max": 17,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be in the top 1% ranking in the 10th Board Examination",
+    "Applicant must be pursuing Science in Class 11th",
+    "Applicant must not have attended a similar INSPIRE camp earlier",
+    "Applicant must be a school student",
+    "Applicant must be within the same State or Union Territory as the camp"
+  ],
+  "benefits_summary": "A 5‑day residential science camp with lectures, hands‑on experiments and mentorship, plus an allowance of up to ₹6,500 per student.",
+  "documents_required": [
+    "Online proposal submission",
+    "Endorsement Letter signed by the Head of the Institute",
+    "PFMS Unique Agency code"
+  ],
+  "application_link": "www.online-inspire.gov.in"
+}

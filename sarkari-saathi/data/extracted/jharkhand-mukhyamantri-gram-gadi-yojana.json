@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Jharkhand Mukhyamantri Gram Gadi Yojana",
+  "occupation": [
+    "private bus operator"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must operate new light/medium commercial four-wheeled vehicles with seating capacity ranging from 7 to 42 (excluding driver)",
+    "Vehicles must comply with the Motor Vehicles Act, 1988 and have either a Hard Top or Soft Top body",
+    "Must agree to operate vehicles on approved routes and adhere to the fare structure prescribed by the government",
+    "Operators who have previously violated permit conditions may be excluded from the scheme"
+  ],
+  "benefits_summary": "Financial assistance per kilometre based on bus seating capacity, along with tax and fee waivers, priority at government bus stands, and subsidies for operational costs.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Funeral Expenses",
+  "occupation": [
+    "unorganized worker",
+    "commercial vehicle operator"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an unorganized worker employed in the operation of commercial vehicles.",
+    "The applicant’s vehicle must be used for commercial purposes and not solely for personal or family use."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 for funeral expenses.",
+  "documents_required": [],
+  "application_link": null
+}

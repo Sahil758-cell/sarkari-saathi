@@ -1,0 +1,25 @@
+{
+  "scheme_name": "GST Exemption Certificate Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Orthopedic physically handicapped person with a permanent disability of 40% or more",
+    "Applicant may be the driver or not",
+    "Car length must be less than or equal to 4 metres",
+    "Engine capacity must not exceed 1200 cc for petrol/LPG/CNG cars or 1500 cc for diesel cars",
+    "Certificate is valid for six months from the date of issuance",
+    "Vehicle must be purchased within three months of certificate issuance",
+    "Applicant must inform the Department of Heavy Industry of the purchase and provide the vehicle registration number within 30 days of registration"
+  ],
+  "benefits_summary": "A 10% GST concession (paying 18% GST instead of 28%) and zero cess on eligible car purchases.",
+  "documents_required": [],
+  "application_link": null
+}

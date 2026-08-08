@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Shilp Guru Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": 55,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Indian citizen.",
+    "The applicant must be a master craftsperson who is either a National Awardee or State Awardee of exceptional standing, or possesses extraordinary skills and a significant contribution to the handicrafts sector.",
+    "The applicant must have a minimum of 20 years of experience in the craft as of 31 December of the previous year.",
+    "The applicant should have made significant contributions to the welfare and development of the craft and its community."
+  ],
+  "benefits_summary": "Cash prize of ₹2 lakh along with a gold coin, shawl and Tamrapatra, plus additional financial assistance for innovation, seminars and related activities.",
+  "documents_required": [],
+  "application_link": null
+}

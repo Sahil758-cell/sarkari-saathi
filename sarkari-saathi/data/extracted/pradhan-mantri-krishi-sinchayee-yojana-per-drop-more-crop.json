@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a farmer of any State or Union Territory.",
+    "Subsidy is limited to a maximum of 5 hectares per beneficiary.",
+    "Beneficiary must purchase only BIS‑marked irrigation systems/components.",
+    "Aadhaar details are required to access the benefit.",
+    "The scheme is implemented through Direct Benefit Transfer (DBT)."
+  ],
+  "benefits_summary": "Financial assistance is provided for installing drip or sprinkler micro‑irrigation systems (up to 55% subsidy for small and marginal farmers and 45% for others) transferred directly to the farmer’s account via DBT.",
+  "documents_required": [
+    "Aadhaar details",
+    "Passport-sized photograph (signed)"
+  ],
+  "application_link": null
+}

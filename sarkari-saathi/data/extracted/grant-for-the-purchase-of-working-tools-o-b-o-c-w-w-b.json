@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Grant for the Purchase of Working Tools (O.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should have engaged in building and construction work for at least 90 days in a given year",
+    "The applicant should not be a member of any other Welfare Fund established under any law",
+    "The applicant must be a registered member of the Odisha Building and Other Construction Workers Welfare Board",
+    "The applicant must be registered with the board for a period of one year or more",
+    "Items purchased by the beneficiary must be related to his/her nature of job/occupation or trade as mentioned in the Identity Card"
+  ],
+  "benefits_summary": "One‑time reimbursement of ₹4,000 for purchase of tools.",
+  "documents_required": [
+    "Original bill/voucher",
+    "Identity Card"
+  ],
+  "application_link": null
+}

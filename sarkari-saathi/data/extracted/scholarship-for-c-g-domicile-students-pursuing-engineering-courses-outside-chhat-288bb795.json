@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scholarship for C.G. Domicile Students Pursuing Engineering Courses Outside Chhattisgarh State",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in a recognized engineering college outside Chhattisgarh",
+    "Must be studying in IIT/NIT/IISc or an AICTE‑approved institution",
+    "Must be enrolled in the first year of a B.E./B.Tech course",
+    "Must have secured at least 60% marks in the 12th examination",
+    "Must not be receiving any other scholarship from the state/central government or other sources"
+  ],
+  "benefits_summary": "Financial assistance of ₹2000 per month to cover educational expenses.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": "http://www.egdleraipur.ac.in"
+}

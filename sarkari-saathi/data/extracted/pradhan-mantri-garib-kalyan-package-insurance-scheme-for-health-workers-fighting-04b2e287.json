@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Garib Kalyan Package : Insurance Scheme For Health Workers Fighting COVID-19",
+  "occupation": [
+    "doctors",
+    "nurses",
+    "paramedics",
+    "support staff"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be registered under a government health program",
+    "Applicant must be working in a COVID-19‑designated hospital or care facility",
+    "Applicant must be directly involved in COVID-19 duties"
+  ],
+  "benefits_summary": "Provides an insurance cover of ₹5,000,000 for death or permanent disability due to COVID-19.",
+  "documents_required": [],
+  "application_link": "nia.312000@newindia.co.in"
+}

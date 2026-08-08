@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Mukhyamantri Chiranjeevi Swasthya Beema Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Families covered under the National Food Security Act are eligible for free benefits",
+    "Families identified in the Socio‑Economic Census (SECC) 2011 are eligible for free benefits",
+    "Contract workers employed in state government departments, boards, corporations or companies are eligible for free benefits",
+    "Small marginal farmers are eligible for free benefits",
+    "Beneficiaries who received Covid‑19 ex‑gratia last year, destitute and helpless families are eligible for free benefits",
+    "All Economically Weaker Sections (EWS) families are proposed to receive the benefit free of cost",
+    "Families not falling in the free‑benefit categories, who are not government employees or pensioners and are not availing benefits under the Medical Attendance Rules can avail the scheme by paying a premium of Rs. 850 per family per year"
+  ],
+  "benefits_summary": "Cashless medical treatment up to Rs 25,00,000 per family; premium fully funded for eligible families, others pay Rs 850 per year",
+  "documents_required": [
+    "Jan Aadhar card",
+    "Jan Aadhar card number",
+    "Jan Aadhar card registration receipt number",
+    "Aadhaar card number"
+  ],
+  "application_link": "https://chiranjeevi.rajasthan.gov.in/"
+}

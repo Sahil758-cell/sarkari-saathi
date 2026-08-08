@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Kanya Abhibhawak Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary couple must be residents of Madhya Pradesh (native place).",
+    "The couple must have only daughters as children, and those daughters must be married.",
+    "Neither member of the couple should be income‑tax payers.",
+    "Either spouse must be at least 60 years old."
+  ],
+  "benefits_summary": "₹600 per month is paid to the eligible couple.",
+  "documents_required": [
+    "Prescribed application form"
+  ],
+  "application_link": null
+}

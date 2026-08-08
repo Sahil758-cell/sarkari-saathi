@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance to GIDC for Developing Multi-Storied Shed in Estates",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro/Small/Medium enterprise.",
+    "The enterprise must be run by an SC/ST entrepreneur with at least 51% contribution from the SC/ST owner.",
+    "The applicant must apply for a shed in a Gujarat Industrial Development Corporation (GIDC) multi‑storied complex.",
+    "The enterprise should be engaged in manufacturing or service activities (trading activities are not eligible).",
+    "The business must commence production within the time limit fixed by GIDC."
+  ],
+  "benefits_summary": "SC/ST entrepreneurs receive a subsidy of up to 70% of the allotment price, paying only 30% to take possession of the shed.",
+  "documents_required": [],
+  "application_link": null
+}

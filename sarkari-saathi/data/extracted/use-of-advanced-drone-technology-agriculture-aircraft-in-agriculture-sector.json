@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Use of Advanced Drone Technology (Agriculture Aircraft) in Agriculture Sector",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a land holder.",
+    "Beneficiary must own at least 1 acre of agricultural land.",
+    "Beneficiary must have a bank account (bank passbook and cancelled cheque).",
+    "Beneficiary must have an Aadhar card as identity proof.",
+    "Beneficiary must possess a certified bill of purchase for the equipment/items."
+  ],
+  "benefits_summary": "Provides 90% financial assistance up to ₹500 per acre per spraying, with a maximum benefit for five acres per account.",
+  "documents_required": [
+    "Aadhar card",
+    "Bank passbook",
+    "Cancelled cheque",
+    "Certified bill of purchase of equipment/items"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

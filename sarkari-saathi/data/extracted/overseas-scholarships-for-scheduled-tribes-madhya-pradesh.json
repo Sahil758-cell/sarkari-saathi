@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Overseas Scholarships For Scheduled Tribes-Madhya Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": 1000000,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only one child of a parent will be eligible for the scholarship, and only once.",
+    "For post‑graduation, applicants must have passed their graduation degree or its equivalent with at least 55% marks in second class.",
+    "Applicants are not eligible for the scholarship for an equivalent postgraduate degree.",
+    "For PhD, applicants must have completed a Master’s degree with at least 50% marks and have 2 years of teaching/research or an M.Phil."
+  ],
+  "benefits_summary": "Scholarship for Higher Education.",
+  "documents_required": [],
+  "application_link": null
+}

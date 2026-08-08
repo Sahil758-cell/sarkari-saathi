@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Financial Assistance as Shagun in Marriage of Man Workers or Son of Workers - Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": "male",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana",
+    "Applicant must be registered with the Haryana Labour Welfare Board",
+    "Monthly salary of the applicant must not exceed ₹25,000",
+    "Applicant must have at least three years of regular membership with the Board up to the marriage date",
+    "Application must be submitted within six months after the marriage date",
+    "Benefit is available for the marriage of up to two sons and for the self‑marriage of male workers only",
+    "Applicant must provide an undertaking confirming they have not previously availed the Shagun benefit",
+    "If the marriage registration certificate is not presented to the Board within six months, the amount received must be returned"
+  ],
+  "benefits_summary": "Financial assistance of ₹21,000 is provided as Shagun for the marriage of eligible male workers and their sons.",
+  "documents_required": [
+    "Marriage registration certificate",
+    "Undertaking confirming no prior benefit receipt",
+    "Parivar Pehchan Patra (Family ID)",
+    "Photograph"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

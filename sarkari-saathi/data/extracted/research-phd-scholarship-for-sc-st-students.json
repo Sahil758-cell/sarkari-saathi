@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Research (PhD) Scholarship for SC/ST Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered for PhD research at a recognized university in India after an interview with the Research Degree Committee.",
+    "Applicant must have obtained the minimum qualifying marks in the postgraduate degree as prescribed for SC/ST students by UGC guidelines.",
+    "Scholarship is payable for a maximum period of three years, subject to continued eligibility.",
+    "A yearly quota of 100 scholarships for Scheduled Castes and 56 scholarships for Scheduled Tribes is fixed."
+  ],
+  "benefits_summary": "Recipients receive ₹16,000 per month (₹1,92,000 per year) for up to three years.",
+  "documents_required": [],
+  "application_link": null
+}

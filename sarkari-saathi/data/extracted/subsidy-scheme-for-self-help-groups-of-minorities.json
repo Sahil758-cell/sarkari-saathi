@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Subsidy Scheme for Self-help Groups of Minorities",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The SHG must have between 10 and 20 women members.",
+    "Only one member per family is allowed in the women’s SHG.",
+    "All members must belong to the minority community.",
+    "All members must be permanent residents of Karnataka.",
+    "Family income of members must not exceed ₹6,00,000 per year.",
+    "Members or their family members must not be employees of the State or Central Government.",
+    "Members or their family members must not have availed any loan or subsidy from the corporation in the last 5 years, except for the Arivu or foreign education loan schemes.",
+    "Members should not be receiving any other support from the corporation.",
+    "The SHG must be registered with the Deputy Registrar.",
+    "The SHG must hold at least one regular meeting per month.",
+    "The SHG must be operational for at least 6 months before qualifying for the subsidy.",
+    "The SHG must maintain adequate bookkeeping records."
+  ],
+  "benefits_summary": "Provides a subsidy of 50% of the unit cost up to ₹2,00,000, adjusted against the repayment of the loan taken by the SHG.",
+  "documents_required": [
+    "passport-size photo",
+    "educational document",
+    "income certificate"
+  ],
+  "application_link": null
+}

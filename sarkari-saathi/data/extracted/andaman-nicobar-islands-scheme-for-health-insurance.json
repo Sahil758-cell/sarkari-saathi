@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Andaman & Nicobar Islands Scheme for Health Insurance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andaman & Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be settled in the Andaman & Nicobar Islands",
+    "Government pensioners must have dependent family members",
+    "Beneficiary must be referred by a specialist of GB Pant Hospital, Port Blair and complete codal formalities at the Nodal Cell (ANISHI)",
+    "Travel expense reimbursement is not provided for emergency treatment during a personal mainland visit",
+    "Eligibility category noted in source: Below Poverty Level",
+    "Eligibility category noted in source: Government pensioners",
+    "Eligibility category noted in source: Permanent resident"
+  ],
+  "benefits_summary": "Cashless medical treatment up to ₹5 lakh per patient per illness, with travel expense reimbursements for one attendant (bunk class fare or flight ticket for critically ill patients).",
+  "documents_required": [],
+  "application_link": null
+}

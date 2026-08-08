@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance for Registered Fishermen Society",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Society must be a fisheries co‑operative society/association registered with the Fisheries Co‑operative Societies",
+    "Society must produce an audited statement of accounts",
+    "Society must employ at least one personnel for the maintenance of records",
+    "Society must produce books of accounts for inspection when called for by department authorities",
+    "Society must have more than 25 members"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹50,000 as a grant‑in‑aid.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport‑sized photograph (signed across, if required)",
+    "Audited statement of accounts",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Prime Minister’s Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 24,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian national.",
+    "Must not be full-time employed.",
+    "Must not be engaged in full-time education.",
+    "Candidates enrolled in online or distance learning programmes are eligible.",
+    "Must have completed High School, Higher Secondary School, an ITI certificate, a diploma from a Polytechnic Institute, or hold a graduate degree (e.g., BA, B.Sc, B.Com, BCA, BBA, B.Pharma)."
+  ],
+  "benefits_summary": "12‑month real‑life internship with monthly assistance of ₹4,500 from the Government and ₹500 from industry, plus a one‑time ₹6,000 grant and insurance coverage under PM Jeevan Jyoti Bima Yojana and PM Suraksha Bima Yojana.",
+  "documents_required": [
+    "Mobile number linked to Aadhaar",
+    "Aadhaar",
+    "DigiLocker security PIN",
+    "Certificates (education, etc.)"
+  ],
+  "application_link": null
+}

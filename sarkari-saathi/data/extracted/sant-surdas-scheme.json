@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Sant Surdas Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 17,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of 80% or more, or inability to move independently even with artificial limbs",
+    "BPL score up to 20",
+    "Must possess a disability card issued by the Gujarat state government"
+  ],
+  "benefits_summary": "Monthly assistance of ₹1,000 is provided to eligible disabled persons.",
+  "documents_required": [
+    "Disability card issued by the state government"
+  ],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

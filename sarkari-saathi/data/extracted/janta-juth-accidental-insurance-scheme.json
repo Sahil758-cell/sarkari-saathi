@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Janta Juth Accidental Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": 70,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a registered farmer (individual or joint land holder) or a child (son/daughter) of a registered farmer or the farmer’s spouse",
+    "Death or permanent disability must be caused by an accident",
+    "Applicant must submit the application within 150 days of the death or accidental disability",
+    "Suicide or natural death are not covered",
+    "Beneficiary succession follows the order: spouse, children, parents, grandchildren, unmarried/widow/exiled sister, then other heirs as per the Heirs Act"
+  ],
+  "benefits_summary": "Provides up to ₹2,00,000 assistance for accidental death or permanent disability, and 50% (₹1,00,000) assistance for loss of one eye or one limb.",
+  "documents_required": [],
+  "application_link": null
+}

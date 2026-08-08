@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme For Providing Assistive Devices To Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of at least 40%",
+    "Medical Board must certify that the applicant is capable of using the assistive device"
+  ],
+  "benefits_summary": "Provision of various assistive devices (e.g., joystick‑operated wheelchair, smart phone with screen reader, Daisy player, CP wheelchair, talking calculator) to eligible persons with disabilities.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scheme of Encouragement to Young Artists",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a domicile of Tamil Nadu",
+    "Must be an artist",
+    "Age must be above 16 years and within 30 years for music artists",
+    "Age must be over 15 years and within 30 years for Bharatanatyam artists",
+    "Must participate in any one of the following performances: Vocal, Bharatanatyam, Kathakalakshepam, Veena, Violin (solo), Nadaswaram, Flute, Jalatharangam, Gottuvadhyam, Clarinet, Guitar, Mandolin, Saxophone",
+    "Artists already selected in one discipline can apply for another as well"
+  ],
+  "benefits_summary": "Remuneration ranging from ₹5,000 to ₹10,000 per performance.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS): Environment Protection Infrastructure Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Should be a new manufacturing or service unit or an existing manufacturing or service unit undertaking expansion or diversification in the MSME sector",
+    "Unit must have commenced commercial production between 20‑05‑2022 and 19‑05‑2027",
+    "Unit must be located in the Union Territory of Dadra and Nagar Haveli & Daman and Diu",
+    "Unit should not be mandated to set up Zero Liquid Discharge (ZLD) by the Pollution Control Committee (PCC)"
+  ],
+  "benefits_summary": "Subsidy up to ₹30,00,000 or 25 % of capital cost of the facility, whichever is lower",
+  "documents_required": [],
+  "application_link": null
+}

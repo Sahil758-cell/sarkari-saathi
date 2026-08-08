@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Credit Linked Subsidy Scheme for Middle Income Group",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 1800000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary family must not own a pucca (all‑weather) house anywhere in India",
+    "The family must not have availed any central housing assistance from the Government of India",
+    "Annual household income must be between ₹6,00,001 and ₹12,00,000 (MIG‑I) or between ₹12,00,001 and ₹18,00,000 (MIG‑II)",
+    "For a married couple, either spouse or both together can be eligible for a single house, subject to the income eligibility",
+    "A beneficiary family includes husband, wife, unmarried sons and/or unmarried daughters; an adult earning member can be treated as a separate household",
+    "Preference may be given to women (especially widows and single working women), SC/ST/OBC beneficiaries, persons with disabilities, and transgender applicants, but this is not a mandatory eligibility criterion"
+  ],
+  "benefits_summary": "Interest subsidy on housing loans up to 4% for MIG‑I and 3% for MIG‑II, with eligible loan amounts of up to ₹9 lakh and ₹12 lakh respectively for a tenure of up to 20 years",
+  "documents_required": [],
+  "application_link": null
+}

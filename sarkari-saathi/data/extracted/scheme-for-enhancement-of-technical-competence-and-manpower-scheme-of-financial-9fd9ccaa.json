@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Enhancement of Technical Competence and Manpower: Scheme of Financial Assistance for Setting-up of Specialized Skill Development Centers at Industry",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Industry partner must be an industry or association with at least 10 years of experience in skill development",
+    "Both the industry partner and the training centre must be legally registered under the Societies Act, Trust Act, or Companies Act",
+    "Courses offered must be aligned with NSDC, NCVT, GCVT, or Sector Skill Council guidelines",
+    "At least 25% of the course intake must be industry‑sponsored",
+    "A minimum of 75% of industry‑sponsored trainees must be provided employment",
+    "The training centre must have been operational for at least 5 years"
+  ],
+  "benefits_summary": "Financial assistance of up to 50% of project cost (maximum ₹2 crore) for setting up or refurbishing the training centre, plus up to ₹1 lakh per centre per year for awareness programmes and seminars.",
+  "documents_required": [
+    "application form"
+  ],
+  "application_link": null
+}

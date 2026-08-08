@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Atal Shresth Shahar Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All Urban Local Bodies (ULBs) in Himachal Pradesh must participate in the scheme",
+    "No exclusion for ULBs that have previously won the prize in earlier years",
+    "False claims may result in deduction of grant and disciplinary action",
+    "Claims must be submitted online on the prescribed application form by 30th September each year",
+    "Top‑scoring ULBs are selected based on Swachh Survekshan scores and five state parameters",
+    "Field verification of top‑scoring ULBs is carried out by a Third Party Agency"
+  ],
+  "benefits_summary": "Cash prizes up to ₹1.25 crore for Municipal Corporations, ₹1 crore for Municipal Councils and ₹75 lakh for Nagar Panchayats are awarded to the best‑performing Urban Local Bodies each year.",
+  "documents_required": [
+    "supporting documents"
+  ],
+  "application_link": null
+}

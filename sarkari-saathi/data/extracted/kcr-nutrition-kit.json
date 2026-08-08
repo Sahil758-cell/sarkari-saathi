@@ -1,0 +1,24 @@
+{
+  "scheme_name": "KCR Nutrition Kit",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Must be a pregnant woman",
+    "Resident of Telangana",
+    "Family monthly income less than Rs. 10,000",
+    "Identified by Anganwadi workers"
+  ],
+  "benefits_summary": "Provides monthly nutrition kits to improve nutritional status and reduce anemia among pregnant women in Telangana.",
+  "documents_required": [],
+  "application_link": null
+}

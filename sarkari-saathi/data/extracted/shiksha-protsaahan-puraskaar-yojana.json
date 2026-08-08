@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Shiksha Protsaahan Puraskaar yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be employed in an industrial unit or establishment located within the jurisdiction of the Madhya Pradesh Shram Kalyan Mandal",
+    "Up to two children of such workers who have studied in educational institutions of Madhya Pradesh are eligible for the award",
+    "Children must have secured at least 70% marks in their graduation, post‑graduation, and BE examinations; for MBBS students, the minimum required marks is 60% in the previous year's examination"
+  ],
+  "benefits_summary": "Financial assistance ranging from ₹10,000 to ₹25,000 per student depending on the course of study.",
+  "documents_required": [
+    "Original copy of the prescribed application form filled by the student (including certificate by employer, declaration form by student, and authentication by college)",
+    "Photocopy of the self‑attested mark sheet of the class passed by the applicant (previous year)",
+    "Photocopy of the first page of the applicant's bank passbook clearly showing their name, bank account number, and IFSC code",
+    "Photocopy of the applicant's student/student's overall family card",
+    "Photocopy of the applicant's Aadhar card",
+    "Photocopy of the applicant's parents' Aadhar card"
+  ],
+  "application_link": null
+}

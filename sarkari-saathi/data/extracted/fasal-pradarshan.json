@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Fasal Pradarshan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmers must be able to bear additional costs as per departmental recommendations.",
+    "The selected demonstration area must have irrigation facilities in addition to dryland farming.",
+    "Only one member from a farmer's family is eligible for demonstration.",
+    "Demonstrations are organized at the block level.",
+    "Selected seeds, fertilizers, and other inputs must be used according to guidelines.",
+    "A farmer can set up a demonstration plot of up to 1 hectare, or less on a pro‑rated basis.",
+    "Under the National Food Security Mission, the plot must be at least 0.4 hectares.",
+    "Farmers who have not benefited from crop demonstration programs in the past three years are eligible."
+  ],
+  "benefits_summary": "Grants covering up to 100% of actual input costs for a range of crops, with a 50% contribution for oilseed crops up to specified monetary limits.",
+  "documents_required": [],
+  "application_link": null
+}

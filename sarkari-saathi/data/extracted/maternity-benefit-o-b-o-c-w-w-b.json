@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Maternity Benefit (O.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building and construction work for at least 90 days in a given year.",
+    "Must not be a member of any other Welfare Fund established under any law.",
+    "Must be a registered member of the Odisha Building and Other Construction Workers Welfare Board.",
+    "Must be registered for a period of one year or more under the board.",
+    "Must be pregnant.",
+    "Benefit is limited to a maximum of two children."
+  ],
+  "benefits_summary": "Financial assistance of ₹8,000‑₹10,000 per child (up to two children), with a combined amount of ₹15,000 under the Mamata scheme.",
+  "documents_required": [],
+  "application_link": null
+}

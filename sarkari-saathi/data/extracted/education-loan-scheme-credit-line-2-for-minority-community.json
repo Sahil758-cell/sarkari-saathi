@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Education Loan Scheme- Credit Line 2 for Minority Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": 16,
+  "age_max": 32,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a minority community: Muslims, Sikhs, Christians, Buddhists, Parsis, or Jains.",
+    "Applicant must have admission to a professional or technical course approved by agencies such as AICTE, Medical Council of India, UGC, etc., in an accredited institute.",
+    "Applicant must have secured at least 50% marks in the qualifying examination.",
+    "Applicant must possess a Parivaar Pehchan Patra (PPP ID).",
+    "Annual family income must be at least ₹98,001 (rural) or ₹1,20,001 (urban) and not exceed ₹8,00,000."
+  ],
+  "benefits_summary": "Loans up to ₹20 lakh for courses in India and up to ₹30 lakh for courses abroad, with interest rates of 8% for males and 5% for females.",
+  "documents_required": [
+    "Parivaar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

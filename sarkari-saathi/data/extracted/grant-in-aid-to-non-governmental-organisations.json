@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Grant-in-aid to Non-governmental Organisations",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be a registered NGO",
+    "must have a sound financial position",
+    "must have facilities and resources for running residential homes",
+    "must be non‑sectarian, offering services irrespective of religion, caste, colour or creed",
+    "must not be run for profit of any individual or a body of individuals",
+    "must be free from corrupt practices"
+  ],
+  "benefits_summary": "90% of the estimated maintenance cost is covered.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Chief Minister Help Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "No family member should be employed in government service (Class 1/2/3) or a higher category post.",
+    "Benefits on birth of a child are limited to the first or second child of a couple.",
+    "Applicant must have either the birth of a child or the death of a family member to be eligible.",
+    "Benefits are distributed only in the specified districts for each case."
+  ],
+  "benefits_summary": "Provides 50 kg of wheat, rice and cooking utensils on the birth of a child, and 1 quintal of rice or wheat to families on the death of a member, depending on the district.",
+  "documents_required": [
+    "Self‑attested documents"
+  ],
+  "application_link": null
+}

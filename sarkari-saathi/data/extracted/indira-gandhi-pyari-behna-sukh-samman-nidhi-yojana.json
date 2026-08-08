@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Indira Gandhi Pyari Behna Sukh-Samman Nidhi Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Himachal Pradesh.",
+    "Family members must not be central or state government employees or pensioners.",
+    "Family members must not be contract, outsourced, daily wage earners, or part‑time workers.",
+    "Family members must not be category employees, serving or ex‑servicemen, military widows, or honorarium‑receiving Anganwadi/Asha/Mid‑Day Meal/Multi‑Task workers.",
+    "Family members must not be social security pension beneficiaries.",
+    "Family members must not be employees of Panchayat Raj Institutions or Urban Local Bodies.",
+    "Family members must not be pensioners working in public undertakings, boards, councils, or agencies under central/state government.",
+    "Family members must not be registered persons or income‑tax payers under GST.",
+    "Family members must not be Buddhist nuns (Chomo) living permanently in Buddhist monasteries."
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹1500.",
+  "documents_required": [],
+  "application_link": null
+}

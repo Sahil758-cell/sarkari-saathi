@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Maintenance Of Pregnant Desi Indigenous Cows Ration For BPL Families",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "EWS",
+    "general"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a livestock owner rearing Desi/Indigenous or crossbred cows.",
+    "Maximum subsidy provided for up to two cows per BPL family.",
+    "Applicant must provide the ear tag number for each cow."
+  ],
+  "benefits_summary": "Provides a 50% subsidy on a 3 kg daily balanced ration for up to two pregnant Desi/Indigenous cows during the last trimester, enhancing cow health and milk production.",
+  "documents_required": [
+    "proof of BPL status",
+    "land documents",
+    "bank account details"
+  ],
+  "application_link": null
+}

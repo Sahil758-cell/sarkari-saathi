@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Economic Help To Sahariya Tribal Girl Students (Class 11 And 12)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must belong to the Saharia tribe of Baran district, Rajasthan",
+    "She must be studying regularly in a government school in classes 11th or 12th",
+    "The student's mother/father/guardian must not be an income taxpayer",
+    "She must not be residing in government residential schools or ashram hostels",
+    "She must possess a Vaidya Bhamashah card and Aadhaar",
+    "She must be a native of Rajasthan"
+  ],
+  "benefits_summary": "Students receive ₹3,500 total, paid as ₹350 per month for 10 months.",
+  "documents_required": [
+    "Vaidya Bhamashah card",
+    "Aadhaar"
+  ],
+  "application_link": null
+}

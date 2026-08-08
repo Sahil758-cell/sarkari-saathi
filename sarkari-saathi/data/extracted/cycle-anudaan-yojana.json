@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Cycle Anudaan Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker with a valid identity card.",
+    "Applicant must have worked as a registered construction worker for three consecutive years.",
+    "Benefits can be received only once.",
+    "The bicycle purchased under the scheme cannot be sold for three years.",
+    "Application must be submitted within three months from the date of purchase of the cycle."
+  ],
+  "benefits_summary": "Financial assistance of up to 90% of actual bicycle expenditure or ₹4,000, whichever is lower.",
+  "documents_required": [
+    "application form"
+  ],
+  "application_link": null
+}

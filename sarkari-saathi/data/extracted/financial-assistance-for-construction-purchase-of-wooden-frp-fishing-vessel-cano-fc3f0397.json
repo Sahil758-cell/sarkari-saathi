@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Financial Assistance for Construction/ Purchase of Wooden/ FRP Fishing Vessel (Canoe) for Fishermen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a traditional fisherman by birth or profession.",
+    "The applicant must be a resident of Goa.",
+    "The applicant or any household member must not be a defaulter with the Directorate of Fisheries, Goa.",
+    "The purchased canoe must be registered with the Directorate of Fisheries under the Marine Fishing Regulation Act 1980 / Merchant Shipping Act.",
+    "The applicant shall not sell, lease, mortgage, or transfer the craft for 5 years from the date of purchase.",
+    "The craft must be used exclusively for fishing purposes only.",
+    "Only one subsidy grant is allowed per family household once every four years."
+  ],
+  "benefits_summary": "50% subsidy on the fishing vessel, capped at ₹60,000 for general applicants and ₹80,000 for SC/ST applicants.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

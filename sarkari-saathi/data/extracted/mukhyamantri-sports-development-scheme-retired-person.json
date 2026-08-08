@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Sports Development Scheme - Retired Person",
+  "occupation": [
+    "retired sportsperson"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 63,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Fixed remuneration of ₹30,000 per month.",
+  "documents_required": [
+    "prescribed application form",
+    "passport-sized photograph",
+    "self-attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Award of Post-Matric Scholarship to Scheduled Caste Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of the Union Territory of Puducherry for at least 5 years.",
+    "The applicant must be a student studying at the Post‑Matric level or Post‑Secondary stage."
+  ],
+  "benefits_summary": "Fee fixed by the Fee Committee is reimbursed, and a maintenance allowance is provided to hostellers or day scholars.",
+  "documents_required": [
+    "passport‑sized photograph",
+    "application form"
+  ],
+  "application_link": null
+}

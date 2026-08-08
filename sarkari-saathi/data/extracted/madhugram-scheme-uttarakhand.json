@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Madhugram Scheme Uttarakhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Only one applicant is allowed per family.",
+    "Applicants must have prior beekeeping training from KVIC, NABARD, KVK, or other approved training centres.",
+    "Applicants must be farmers engaged in beekeeping on their own land or on registered lease land."
+  ],
+  "benefits_summary": "Provides up to 80% subsidy on beekeeping inputs (Rs 350 per box, up to 4 boxes per beneficiary) along with training support and financial assistance for beekeepers.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Support for Group Nurseries",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Self-Help Group (SHG) or a collective of tribal growers.",
+    "Applicant must have procured seed material for the coffee nursery exclusively from the Coffee Board."
+  ],
+  "benefits_summary": "Each coffee seedling receives a support of ₹5.",
+  "documents_required": [],
+  "application_link": null
+}

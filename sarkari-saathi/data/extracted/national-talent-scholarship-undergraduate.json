@@ -1,0 +1,27 @@
+{
+  "scheme_name": "National Talent Scholarship Undergraduate",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student pursuing a Bachelor’s degree from an Agricultural University recognized by ICAR, located outside his/her state of domicile.",
+    "Applicant must be admitted into the university through the All India Entrance Examination (AIEE).",
+    "The university must be funded under the “Strengthening and Development of Higher Agricultural Education in India” scheme of the Education Division, ICAR.",
+    "Applicant must maintain merit and good conduct as certified by the Head of the College/University/Institution.",
+    "Applicant must not be absent without prior permission and must not participate in any agitation or strike during the period.",
+    "Studies must be taken on a whole‑time basis; the applicant must not take up any job, even part‑time.",
+    "Applicant must not accept any other financial assistance or scholarship during the undergraduate study.",
+    "Applicant must not leave the course of study within one month of admission.",
+    "Applicant must not change the initial subject allocated for which the scholarship was awarded."
+  ],
+  "benefits_summary": "Scholarship of ₹2,000 per month for undergraduate students.",
+  "documents_required": [],
+  "application_link": "https://icar.nta.ac.in"
+}

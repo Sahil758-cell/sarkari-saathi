@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scheme for Grant of Additional Scholarship to the Students Belonging to Scheduled Tribes of Andaman and Nicobar Islands for Pursuing Higher Studies Anywhere in India Post-Senior Secondary Courses (Post-10+2 Courses)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Andaman and Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to the Scheduled Tribes of Andaman and Nicobar Islands as notified under the Scheduled Tribes Order No. 58.",
+    "Student must be a domicile of Andaman and Nicobar Islands.",
+    "Student must have passed Senior Secondary (10+2) from a recognized board or any higher examination from a recognized university.",
+    "Scholarship is applicable only for regular, full‑time post‑senior secondary courses (graduate, postgraduate, diploma, degree, M.Phil, Ph.D., post‑doctoral, professional/technical courses).",
+    "Student must maintain good conduct and regular attendance as certified by the Head of the Institution.",
+    "Any change of course or institution without prior approval of the Andaman & Nicobar Administration may lead to cancellation of the scholarship.",
+    "Scholarship may be cancelled for providing false information, and the amount may be recovered.",
+    "If the student discontinues studies, the scholarship amount may be refunded at the discretion of the Administration.",
+    "Scholarship is renewable annually subject to promotion to the next class and meeting examination requirements."
+  ],
+  "benefits_summary": "An additional scholarship of ₹1,000 per month payable for ten months, directly credited to the beneficiary's bank account.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

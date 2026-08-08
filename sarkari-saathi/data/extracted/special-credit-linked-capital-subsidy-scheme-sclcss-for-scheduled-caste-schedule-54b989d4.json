@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste/Scheduled Tribe",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a valid Udyam Registration.",
+    "Applicable to sole proprietorships, partnerships, co‑operatives, private or public limited companies owned by SC/ST entrepreneurs.",
+    "Enterprises must be in the manufacturing or service sectors.",
+    "SC/ST units must have graduated from small to medium scale within three years of graduation.",
+    "New industries graduating to medium scale due to the loan are eligible."
+  ],
+  "benefits_summary": "Offers a 25% capital subsidy (up to ₹25 lakh) on institutional finance for purchase of plant and machinery/equipment to SC/ST micro and small enterprises.",
+  "documents_required": [
+    "Udyam Registration"
+  ],
+  "application_link": null
+}

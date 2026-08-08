@@ -1,0 +1,29 @@
+{
+  "scheme_name": "YSR EBC Nestham",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 45,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Total family income less than Rs.10,000 per month in rural areas and Rs.12,000 per month in urban areas",
+    "Total land holding less than 3 acres of wet land or 10 acres of dry land or 10 acres total",
+    "No family member should be a government employee or pensioner (sanitary workers are exempt)",
+    "Family should not own a four‑wheeler (excluding taxis, tractors and autos)",
+    "Monthly electricity consumption of the dwelling unit should be less than 300 units",
+    "No family member should be an income‑tax payee",
+    "Built‑up area should be less than 750 sq ft",
+    "Applicant must be a permanent resident of Andhra Pradesh",
+    "Category: Economically Backward Classes"
+  ],
+  "benefits_summary": "₹45,000 paid in three annual installments of ₹15,000 over three years.",
+  "documents_required": [],
+  "application_link": null
+}

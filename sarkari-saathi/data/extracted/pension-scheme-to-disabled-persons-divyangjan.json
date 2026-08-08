@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pension Scheme to Disabled Persons (Divyangjan)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Dadra & Nagar Haveli and Daman & Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be availing financial assistance under any other Divyang Pension schemes",
+    "If age proof is unavailable, the beneficiary shall be referred to the Medical Board of the concerned district for verification of age",
+    "After attaining age of 60 years, the beneficiary shall be transferred to the Pension Scheme to Old Age Persons (Senior Citizen)"
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a financial assistance of ₹1,000 per month transferred via Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "application form",
+    "life certificate"
+  ],
+  "application_link": null
+}

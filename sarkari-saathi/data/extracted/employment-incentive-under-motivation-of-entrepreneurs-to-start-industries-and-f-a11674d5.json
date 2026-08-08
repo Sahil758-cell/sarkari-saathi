@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Employment Incentive",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a new unit that commences production on or after 2-8-2004 and will be eligible for the incentive for 5 years from the date of commencement of production.",
+    "The unit must provide direct employment to at least 10 persons.",
+    "At least 60% of the employment created by the unit must be to people of the UT of Puducherry.",
+    "For new units, the application must be submitted within one year from the date of obtaining the Entrepreneurs Memorandum Part‑2/ Permanent Registration/ Commencement of Production Certificate; for existing units, within one year of completion of expansion/diversification/modernization."
+  ],
+  "benefits_summary": "Provides a wage/employment subsidy of 20% of salary up to ₹5,00,000 per annum for workers covered under the Provident Fund, subject to the unit meeting specific employment criteria.",
+  "documents_required": [
+    "Prescribed application form (available on the Official Website of the Directorate of Industries and Commerce, Puducherry)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

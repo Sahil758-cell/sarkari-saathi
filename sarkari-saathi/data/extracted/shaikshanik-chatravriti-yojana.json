@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Shaikshanik Chatravriti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a permanent resident of Madhya Pradesh",
+    "Parents must be working in a factory or institution established in Madhya Pradesh under the Labor Welfare Fund Act 1982",
+    "Only two children in a family are eligible for the scheme",
+    "Children of officers and employees in managerial capacities are not eligible"
+  ],
+  "benefits_summary": "The scheme provides a fixed scholarship amount to students studying from Class 5th up to postgraduate courses, including ITI, Polytechnic, B.E., M.B.B.S., M.Sc., etc.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Gopal Ratna Award Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a dairy farmer.",
+    "The applicant must have made extraordinary contributions in dairy farming by achieving the highest milk production in the State of Goa.",
+    "The applicant must be a member of a Dairy Co‑operative Society, Bachat Gat or Self Help Group registered with the concerned Department.",
+    "The applicant must register his dairy farm with the Department of Animal Husbandry and Veterinary Services through the respective Area Officers of Veterinary Dispensary/Hospital.",
+    "The applicant must be a bonafide resident of Goa for at least the preceding five years and own a cattle shed with milch animals in Goa.",
+    "The applicant must produce and pour a minimum of 100,000 litres of milk in the preceding year (April to March) with an average of at least 250 litres per day to the Dairy Co‑operative Society/Bachat Gat/Self Help Group."
+  ],
+  "benefits_summary": "The award includes a Certificate of Appreciation, a memento and a cash prize of ₹1,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

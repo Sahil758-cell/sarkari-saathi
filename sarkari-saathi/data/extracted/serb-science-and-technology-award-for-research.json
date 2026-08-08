@@ -1,0 +1,23 @@
+{
+  "scheme_name": "SERB Science and Technology Award for Research",
+  "occupation": null,
+  "gender": null,
+  "age_min": 40,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed an individual‑centric SERB project in the previous three financial years with an “Excellent” grade",
+    "Only the Principal Investigator of such projects is eligible, not Co‑Principal Investigators",
+    "Applicant must hold a regular academic/research position in a recognized academic institution, national laboratory, or other recognized R&D institution (regular meaning appointment to a sanctioned post or tenure post likely to be renewed)",
+    "Principal Investigators with an ongoing fellowship/honorarium such as the JC Bose Fellowship, Shanti Swarup Bhatnagar Prize, Swarnajayanti Fellowship, etc., are not eligible",
+    "Unsuccessful nominees may be re‑nominated in the following year if they meet all other eligibility criteria"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹15,000, plus an annual research grant of ₹10 lakh and ₹1 lakh overhead for three years.",
+  "documents_required": [],
+  "application_link": "https://www.serbonline.in"
+}

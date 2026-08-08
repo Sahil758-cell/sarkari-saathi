@@ -1,0 +1,27 @@
+{
+  "scheme_name": "National Handloom Development Programme: Concessional Credit/Weaver MUDRA Scheme",
+  "occupation": [
+    "Handloom Weaver",
+    "Weaver Entrepreneur"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual weavers who have already received margin money assistance are not eligible for further margin money assistance, interest subvention, or credit guarantee fee under organisational schemes",
+    "Fresh loans can be sanctioned only after one year of repayment of any previous Mudra loan",
+    "Loans up to ₹10 lakh are covered under MUDRA, while loans above ₹10 lakh are covered under concessional credit",
+    "Margin money assistance for handloom organisations is provided on recommendation of the State Director of Handlooms",
+    "Interest subvention and credit guarantee fee are available only to eligible handloom organisations",
+    "Benefits for individual weavers (interest subsidy and credit guarantee fee) are limited to three years from the first disbursal and are not available for fresh loans thereafter"
+  ],
+  "benefits_summary": "Provides margin money assistance up to ₹25,000 for individual weavers and up to ₹20 lakh for handloom organisations, together with a 6% concessional interest rate for three years and credit guarantee coverage for loans up to ₹1 crore.",
+  "documents_required": [],
+  "application_link": "https://cocd.mypnb.in/login.aspx"
+}

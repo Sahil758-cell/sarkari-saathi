@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Chief Minister’s Yuva Kaushal Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Arunachal Pradesh",
+    "Minimum qualification of class X"
+  ],
+  "benefits_summary": "Provides high‑end vocational training with a guaranteed 70% placement and a ₹3,000 stipend, covering training, uniforms, books, and boarding/lodging costs.",
+  "documents_required": [],
+  "application_link": null
+}

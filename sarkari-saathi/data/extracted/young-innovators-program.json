@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Young Innovators Program",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have passed the 10th standard or above (with possible relaxations).",
+    "Applicant must have innovative and creative endeavors in art, skills, crafts, literature, research, and science."
+  ],
+  "benefits_summary": "Financial assistance up to ₹5,00,000 per applicant, available only once per innovation.",
+  "documents_required": [
+    "Applicant Photograph",
+    "Birth Certificate of Applicant",
+    "Domicile Certificate",
+    "Qualification Certificate",
+    "Applicant Signature"
+  ],
+  "application_link": null
+}

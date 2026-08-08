@@ -1,0 +1,28 @@
+{
+  "scheme_name": "State Medical Scholarship (Scholarship Scheme for MBBS & Allied Courses, Nursing and Paramedical Students)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be selected through NEET, NSEE or State Departmental Examination only.",
+    "Applicant must be pursuing medical, nursing or paramedical courses.",
+    "Students who repeat the course (repeaters) are not eligible for an additional stipend.",
+    "Applications must be submitted online through the Common Scholarship Portal; hard‑copy applications will not be accepted.",
+    "Incomplete or unclear documents will lead to rejection of the application.",
+    "Applications submitted after the last date of submission will be rejected.",
+    "False statements or fraudulent documents may result in blacklisting and recovery of any scholarship already paid.",
+    "Applicant must provide correct bank account details; the department is not responsible for non‑receipt due to incorrect bank information."
+  ],
+  "benefits_summary": "Financial assistance/scholarships are provided to eligible students based on the medical, nursing or paramedical course they are enrolled in.",
+  "documents_required": [],
+  "application_link": "https://scholarship.nagaland.gov.in"
+}

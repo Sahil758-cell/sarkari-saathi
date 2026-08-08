@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhya Mantri Hamari Betiyan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be studying in a government school under the scheme",
+    "Must be a girl student who secures at least 75% marks in Class 10 board examination",
+    "Two meritorious students (first and second position) per district are selected",
+    "One BPL student (first position) per district is selected",
+    "One orphan girl (first position) per district is selected",
+    "The selected students must continue regular studies up to postgraduate level"
+  ],
+  "benefits_summary": "One‑time financial assistance up to ₹1,00,000 per year for class 11‑12 students and up to ₹2,00,000 per year for graduate and postgraduate students.",
+  "documents_required": [],
+  "application_link": null
+}

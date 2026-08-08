@@ -1,0 +1,29 @@
+{
+  "scheme_name": "AICTE – Mitacs Globalink Research Internship (GRI) Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a 3rd‑year full‑time student of an undergraduate B.E/B.Tech program in an AICTE‑approved institution",
+    "Must have a minimum CGPA/GPA of 85 % in the 2nd year",
+    "Must be able to spend twelve weeks between May and September at a university in Canada on a research project related to the applicant’s area of interest and expertise",
+    "Must demonstrate oral and written fluency in English or French, as required by the Canadian host professor",
+    "Must apply directly through the MITACS Canada portal",
+    "Must have a valid passport and obtain all necessary documents and permissions, including a visa and air tickets, before traveling"
+  ],
+  "benefits_summary": "The scheme provides a total funding of $12,000 CAD per student (₹9,000 CAD from MITACS and $3,000 CAD from AICTE) covering airfare, visa, medical, stipend, accommodation, mentorship and related activities.",
+  "documents_required": [
+    "Valid passport",
+    "Visa",
+    "Air tickets",
+    "Notarized transcripts (if application materials are not in English or French)"
+  ],
+  "application_link": null
+}

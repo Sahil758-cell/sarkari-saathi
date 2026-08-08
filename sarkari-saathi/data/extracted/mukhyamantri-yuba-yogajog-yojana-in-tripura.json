@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Yuba Yogajog Yojana In Tripura",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Tripura state",
+    "Must be studying in a college located in Tripura",
+    "Must be an undergraduate student in the final year of the graduation course",
+    "Benefits can be availed only once in a lifetime",
+    "Applicant must purchase a smartphone in his/her name after the scheme announcement"
+  ],
+  "benefits_summary": "The scheme provides a one‑time scholarship of ₹5,000 and a grant for purchasing a smartphone to final‑year undergraduate students in Tripura.",
+  "documents_required": [],
+  "application_link": null
+}

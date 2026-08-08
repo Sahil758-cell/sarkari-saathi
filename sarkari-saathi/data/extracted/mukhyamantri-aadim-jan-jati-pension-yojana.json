@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhyamantri Aadim Jan Jati Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an adult married woman",
+    "Applicant must belong to a recognized primitive tribal group (e.g., Asur, Birhor, Hill‑Kharia, Korwa, Mal‑Paharia, etc.)",
+    "No family member should hold a government or public sector job that provides a regular salary",
+    "Family should not have a steady income from any government or public sector employment",
+    "Applicant cannot be receiving benefits from other pension schemes such as Indira Gandhi National Old Age Pension or Indira Gandhi National Widow Pension",
+    "If there is no married adult woman in the family, the male head of the family may receive the pension"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per month transferred directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

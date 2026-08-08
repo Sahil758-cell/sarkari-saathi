@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Rajbhasha Gaurav Puraskar Scheme for writing original book in Hindi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The author or co‑author must be a citizen of India.",
+    "The book must be written originally in Hindi; translated books are not eligible.",
+    "The subject of the book must belong to the specified genres such as engineering, science, forensic science, police administration, culture, religion, arts, heritage, or law.",
+    "Books previously awarded by any government organization are ineligible.",
+    "The author must inform the Department of Official Language if the book receives any other award before the scheme’s award declaration.",
+    "Only books published between 1 January and 31 December are eligible.",
+    "The book must be an analytical review; theses, poems, novels, stories, plays, and textbooks are excluded.",
+    "At least 100 pages are required and the book must have a valid ISBN.",
+    "If the author has received a prize under any Department of Official Language scheme in the preceding three years, the entry is disqualified (co‑authors may still participate).",
+    "Each co‑author must submit a separate proforma if there are multiple authors.",
+    "An author may submit only one entry, accompanied by three copies of the book."
+  ],
+  "benefits_summary": "Cash awards up to ₹2,00,000 along with a certificate and memento are given for original Hindi books in the specified subject areas.",
+  "documents_required": [
+    "Application proforma",
+    "Three copies of the book"
+  ],
+  "application_link": null
+}

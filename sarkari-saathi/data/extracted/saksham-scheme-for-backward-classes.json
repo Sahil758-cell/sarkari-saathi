@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Saksham Scheme for Backward Classes",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": 300000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should have professional and academic training."
+  ],
+  "benefits_summary": "Provides loans up to ₹10,00,000 to young professionals for setting up medical, legal, engineering, and related enterprises.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

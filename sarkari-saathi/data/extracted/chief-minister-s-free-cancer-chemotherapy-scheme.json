@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Minister’s Free Cancer Chemotherapy Scheme",
+  "occupation": [
+    "Regular State Government Employee"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Regular State Government Employees and their dependents are eligible for the scheme",
+    "The scheme is limited to 1,000 patients per year"
+  ],
+  "benefits_summary": "Provides free chemotherapy medicines up to ₹10 lakh per person per year, along with free consultation and counseling.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Swami Vivekananda Post-Matric Scholarship Scheme (Class 11th & 12th)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Madhya Pradesh.",
+    "Student must be enrolled in a government school and be studying in Class 11 or Class 12.",
+    "Student must have passed the preceding examination with first division (Class 10 for Class 11 students, Class 11 for Class 12 students)."
+  ],
+  "benefits_summary": "Girl students receive ₹550 per year and boy students receive ₹500 per year, transferred directly to the student’s bank account.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

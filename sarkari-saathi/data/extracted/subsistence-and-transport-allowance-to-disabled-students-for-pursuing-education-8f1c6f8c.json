@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Subsistence and Transport Allowance to Disabled Students for Pursuing Education in Computer and Management",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Student must be studying a Computer or Management subject/course at a government college"
+  ],
+  "benefits_summary": "Reimbursement of course fees along with a monthly subsistence allowance of ₹1,500 and a transport allowance of ₹500 (₹300 in municipal council areas).",
+  "documents_required": [],
+  "application_link": null
+}

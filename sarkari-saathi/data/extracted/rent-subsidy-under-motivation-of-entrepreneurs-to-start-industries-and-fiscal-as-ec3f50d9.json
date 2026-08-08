@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Rent Subsidy",
+  "occupation": [
+    "Entrepreneur"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Production must have started on or after 27 March 2002",
+    "Production must be in a rented building"
+  ],
+  "benefits_summary": "Provides a rent subsidy for up to five years, covering 50% of rent for the first two years, 40% for the third year, and 25% for the fourth and fifth years, capped at ₹5,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

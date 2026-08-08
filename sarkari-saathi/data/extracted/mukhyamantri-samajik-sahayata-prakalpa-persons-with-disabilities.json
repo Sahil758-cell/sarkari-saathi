@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Samajik Sahayata Prakalpa - Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": 10,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Person with Disability",
+    "Disability must be one of: Blindness, Low‑Vision, Leprosy‑cured persons, Hearing Impairment (deaf & Hard of hearing), Locomotor Disability, Dwarfism, Intellectual Disability, Mental Illness, Autism Spectrum Disorder, Cerebral Palsy, Muscular Dystrophy, Chronic Neurological Condition, Specific Learning Disabilities, Multiple Sclerosis, Speech and Language disability, Thalassemia, Hemophilia, Sickle Cell Disease, Multiple Disabilities including deaf‑blindness, Acid attack Victim, Parkinson's Disease",
+    "If the family has children aged 6 to 14 years, those children must be enrolled in a school recognized by the Government of Tripura"
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000 transferred directly to the applicant’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

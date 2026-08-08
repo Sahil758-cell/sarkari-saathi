@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Maternity Benefit/Delivery Assistance (K.B.O.C.W.W.B)",
+  "occupation": [
+    "building construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must be a registered woman construction worker under the Building and Other Construction Workers Welfare Board of Karnataka",
+    "Must be pregnant at the time of application",
+    "Assistance is only for the first two deliveries",
+    "Registration must be renewed every 3 years, with a 1‑year grace period"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 for each of the first two deliveries.",
+  "documents_required": [],
+  "application_link": null
+}

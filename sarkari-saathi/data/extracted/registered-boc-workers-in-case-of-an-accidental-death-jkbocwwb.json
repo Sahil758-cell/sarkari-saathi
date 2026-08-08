@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Registered BOC Workers in case of an Accidental Death (JKBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a nominee or dependent of a registered worker who died in an accidental death",
+    "Applicant must have worked in building or other construction work for at least 90 days in the preceding 12 months",
+    "Registration of the worker is renewed annually"
+  ],
+  "benefits_summary": "A financial assistance of ₹4,00,000 is provided to the nominee or dependents of the deceased worker.",
+  "documents_required": [],
+  "application_link": null
+}

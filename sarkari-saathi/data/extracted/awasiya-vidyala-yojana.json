@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Awasiya Vidyala Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 6,
+  "age_max": 14,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parent must be a registered construction worker."
+  ],
+  "benefits_summary": "Free residential education with accommodation, clothing, food and other facilities for children of registered construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

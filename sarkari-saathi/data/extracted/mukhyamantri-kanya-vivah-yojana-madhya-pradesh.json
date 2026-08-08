@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Mukhyamantri Kanya Vivah Yojana- Madhya Pradesh",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parents of the bride or groom must be natives of Madhya Pradesh; otherwise benefits are not available",
+    "Bride must be at least 18 years old and must not have been previously married",
+    "Groom must be at least 21 years old",
+    "Marriage must take place in a mass marriage ceremony organized under the scheme, not a single ceremony",
+    "Abandoned women are eligible only if they have been legally divorced",
+    "A minimum of five couples is required for a mass marriage ceremony to be organized"
+  ],
+  "benefits_summary": "Each eligible bride receives a total of ₹49,000 as a lump‑sum payment on the day of the mass marriage ceremony (₹55,000 total per beneficiary including the organizing body).",
+  "documents_required": [],
+  "application_link": null
+}

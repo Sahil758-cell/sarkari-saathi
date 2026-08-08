@@ -1,0 +1,32 @@
+{
+  "scheme_name": "MeitY - Visvesvaraya PhD Scheme For Electronics & IT",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum Grade Point Average of 6.5/10 (60%) in relevant M.E./M.Tech/M.S. programmes (55% marks for SC/ST candidates)",
+    "Minimum Grade Point Average of 6.5/10 (60%) in relevant Bachelor’s programmes with a valid GATE score",
+    "Minimum CGPA of 8.0 in a relevant Bachelor’s degree from an Indian Institute of Technology (IIT)",
+    "First Class (6.5 GPA) or 60% marks (55% for SC/ST) in relevant Masters or equivalent science/engineering degrees with a valid GATE/UGC/CSIR‑NET qualification",
+    "Institutions must comply with UGC’s minimum standards and procedures for M.Phil./Ph.D. awards (Regulation 2009)",
+    "Eligible institutions include IITs, NITs, IISc, IISERs, Central Universities, Deemed Universities, State Universities, Private Universities, and other recognized academic/research institutions",
+    "Institutions must have existing postgraduate streams in ESDM/IT/ITES and have produced PhDs in these areas for the last three years",
+    "Institutions should be recognized by AICTE and NBA accredited for ESDM/IT programmes, or accredited by NAAC"
+  ],
+  "benefits_summary": "Provides fellowship up to ₹43,750 per month for full‑time PhDs, a one‑time incentive of ₹2.5  lakh for part‑time PhDs, and a monthly fellowship of ₹20,000 plus an annual research grant of ₹5  lakh for young faculty fellows.",
+  "documents_required": [
+    "Printed application form from institute website",
+    "Self‑attested documents",
+    "Original reference letter (sealed envelope)",
+    "Original transcripts",
+    "Reference letter with subject line “Reference letter for [Your Name]”"
+  ],
+  "application_link": null
+}

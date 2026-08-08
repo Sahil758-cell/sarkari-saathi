@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Marriage Grant Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a daughter of a poor individual belonging to Other Backward Classes (excluding minorities within backward classes)",
+    "Maximum of two daughters per family are eligible for the grant",
+    "Priority is given to destitute women who are widows; they are exempted from providing a caste certificate",
+    "Applicants must apply online within 90 days before or after the date of marriage",
+    "Eligibility depends on annual income: not exceeding Rs. 56,460 in urban areas or Rs. 46,080 in rural areas"
+  ],
+  "benefits_summary": "Provides a marriage grant of ₹20,000 per marriage.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Income Certificate",
+    "Caste Certificate",
+    "Marriage Invitation Card",
+    "Widow/Person with Disability (PwD) Certificate (if applicable)",
+    "Bank account documents"
+  ],
+  "application_link": null
+}

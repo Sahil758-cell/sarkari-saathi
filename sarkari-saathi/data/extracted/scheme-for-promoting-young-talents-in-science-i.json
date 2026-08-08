@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scheme for Promoting Young Talents in Science-I (SPYTiS-I)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must be enrolled in schools in Kerala and studying in classes VIII to XII.",
+    "Groups can contain a maximum of 5 students.",
+    "Each school may submit up to 10 proposals, and each teacher supervisor may submit up to 2 proposals.",
+    "Applications must be signed and forwarded by the Head of the Institution.",
+    "Proposals must follow the prescribed format and be submitted by the stated deadline."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹5,000 per group of up to 5 students for a one‑year science project.",
+  "documents_required": [
+    "Signed terms and conditions",
+    "Final project report",
+    "Statement of Expenditure (SE)",
+    "Utilization Certificate (UC)"
+  ],
+  "application_link": null
+}

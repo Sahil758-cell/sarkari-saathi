@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Export Oriented Production: Large Cardamom Certified Nursery (Unit)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Sikkim",
+    "West Bengal",
+    "Other NE States"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual growers or farmer groups must have suitable land and facilities for irrigating the nursery",
+    "Units must be allocated in multiples of 500 with a minimum of 1000 and a maximum of 5000 units per beneficiary",
+    "Farmer groups must be a legal entity such as a registered Society, FPC, FPO, SHG, or SPS",
+    "Planting materials produced must be used for replanting by the applicant, with any surplus supplied to neighboring or needy farmers at a price not exceeding the market price",
+    "Eligibility is confirmed through inspections and follows a first‑come‑first‑serve basis for sanction"
+  ],
+  "benefits_summary": "33.33% subsidy up to ₹3 per seedling for the general category and 75% subsidy up to ₹6.75 per seedling for SC/ST beneficiaries.",
+  "documents_required": [
+    "SC/ST certificates",
+    "legal heirship certificates",
+    "agreement on ₹200 stamp paper"
+  ],
+  "application_link": null
+}

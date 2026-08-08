@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Mukhyamantri Medhavi Vidhyarti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have secured at least 70% marks in the 12th examination conducted by the Board of Secondary Education, or at least 85% marks in the 12th examination conducted by CBSE/ICSE.",
+    "Must have secured a rank up to 150,000 in JEE Mains and taken admission in a BE/B.Tech program, or have taken NEET for admission to MBBS/BDS, or have taken admission in a law course through CLAT, or have taken admission in Central Government medical institutions based on other entrance examinations, or have taken admission to a law course at the National Law Institute Delhi or the University of Delhi based on a personal entrance examination."
+  ],
+  "benefits_summary": "The scheme reimburses the admission fee and actual tuition fee (excluding mess fee and caution money) as approved by the Fee Regulatory Committee or the relevant university/government authority.",
+  "documents_required": [],
+  "application_link": null
+}

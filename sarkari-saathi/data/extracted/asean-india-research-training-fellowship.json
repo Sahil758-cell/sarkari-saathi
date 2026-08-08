@@ -1,0 +1,30 @@
+{
+  "scheme_name": "ASEAN-India Research Training Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold the nationality of an ASEAN Member Country (Indian nationals are not eligible)",
+    "Must possess at least a Master’s degree in Natural Sciences or an equivalent degree in Technology/Engineering/Medicine/allied disciplines",
+    "Must be working, studying, or affiliated with a national R&D or academic institution in the home ASEAN country",
+    "Application must be endorsed by the Head of the applicant’s institution confirming leave for the fellowship period",
+    "Applicant must be fluent in English",
+    "Applicants who have received any fellowship from the Government of India in the last 3 years are ineligible",
+    "Proposed research in India must be linked to an ongoing project at the host Indian institute",
+    "A prior consent letter from the Indian host institution/scientist must be enclosed with the application"
+  ],
+  "benefits_summary": "Full financial assistance covering international airfare, a monthly stipend of INR 60,000, a one‑time research grant of INR 40,000, institutional overhead charges, and health‑insurance coverage.",
+  "documents_required": [
+    "Endorsement letter from the head of the applicant’s institution",
+    "Consent letter from the Indian host institution/scientist",
+    "Research proposal PDF (single file, ≤10 MB)"
+  ],
+  "application_link": "www.aistic.gov.in"
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Vocational Training to the Dependents",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a dependent (spouse or adolescent child) of a registered construction worker.",
+    "Construction worker must be registered with the A.P. Building & Other Construction Workers Welfare Board."
+  ],
+  "benefits_summary": "Free residential vocational training worth ₹15,000 per trainee, including boarding, lodging, and placement‑linked support.",
+  "documents_required": [],
+  "application_link": null
+}

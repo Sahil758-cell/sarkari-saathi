@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scholarship for Fatherless Girls",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a girl student who has lost her father.",
+    "She must be a permanent resident of Madhya Pradesh.",
+    "She must be studying in a government school in Madhya Pradesh.",
+    "She must be enrolled in classes 1 to 12.",
+    "She must have passed the previous class.",
+    "She must not be a beneficiary of any other scholarship."
+  ],
+  "benefits_summary": "Scholarships of ₹350 per year for classes 1‑5, ₹400 per year for classes 6‑8, and ₹450 per year for classes 9‑12, deposited directly into the student's bank account.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

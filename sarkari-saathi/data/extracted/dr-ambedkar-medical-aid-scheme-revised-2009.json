@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Dr. Ambedkar Medical Aid Scheme (Revised – 2009)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be suffering from a major ailment requiring surgery of the kidney, heart, liver, cancer, brain, knee, spinal or any other life‑threatening disease"
+  ],
+  "benefits_summary": "Provides medical treatment for serious ailments requiring surgery to eligible SC/ST patients whose family income is below ₹1,00,000 per annum.",
+  "documents_required": [
+    "Application form (prescribed)",
+    "Caste certificate",
+    "Income certificate",
+    "Ration card",
+    "Estimated cost certificate (certified by Medical Superintendent)"
+  ],
+  "application_link": "http://haryanascbc.gov.in/sites/default/files/documents/application_form_for_medical_aid.pdf"
+}

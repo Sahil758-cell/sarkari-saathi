@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Economic Help To Tribal Girls For Higher Education (Class 11 & 12)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying regularly in 11th and 12th in government schools",
+    "Parent/guardian/husband should not be an income tax payer",
+    "Student must be a native of Rajasthan",
+    "Students residing in government-run hostels are not eligible for the benefit"
+  ],
+  "benefits_summary": "One‑time payment of Rs. 3,500 in July.",
+  "documents_required": [
+    "Vaidya Bhamashah card",
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

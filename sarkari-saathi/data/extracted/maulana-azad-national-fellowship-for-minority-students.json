@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Maulana Azad National Fellowship For Minority Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a minority community (Buddhist, Christian, Jain, Muslim, Sikh, or Zoroastrian (Parsi)).",
+    "Applicant must qualify the UGC-NET or Joint CSIR-UGC NET examination.",
+    "Applicants who have completed their research work during the fellowship period are not eligible to apply again.",
+    "Applicants who have previously availed any fellowship, fully or partially, are not eligible.",
+    "Employees of any university, college, educational institution, or central, state, or union territory government are not eligible, even on study or EOL leave."
+  ],
+  "benefits_summary": "Monthly stipend of ₹31,000 for JRF and ₹35,000 for SRF, with additional contingency and assistance for physically and visually disabled candidates.",
+  "documents_required": [],
+  "application_link": "https://nta.ac.in/, https://csirhrdg.res.in/"
+}

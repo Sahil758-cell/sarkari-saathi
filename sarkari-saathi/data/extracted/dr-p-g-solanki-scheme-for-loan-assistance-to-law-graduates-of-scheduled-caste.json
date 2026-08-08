@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Dr. P. G. Solanki Scheme for Loan/Assistance to Law Graduates of Scheduled Caste",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a law graduate"
+  ],
+  "benefits_summary": "Provides ₹12,000 assistance (₹7,000 loan at 4% interest and ₹5,000 subsidy) for purchasing a business premises or shop.",
+  "documents_required": [
+    "Attested copy of Bar Council registration certificate"
+  ],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

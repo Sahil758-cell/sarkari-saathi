@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Naunihal Scholarship Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only two children per family are eligible for the scheme",
+    "Beneficiary must have a bank account to receive the scholarship",
+    "The beneficiary must have worked as a construction worker for at least 90 days in the year preceding the application",
+    "After admission to college/polytechnic or other professional courses, the scholarship holder must study for a minimum of one year in that course; if the student drops out in the first year, the received amount must be returned"
+  ],
+  "benefits_summary": "The scheme provides an annual scholarship ranging from ₹1,000 to ₹10,000 depending on class, gender and level of study.",
+  "documents_required": [
+    "Original scanned copy of the beneficiary's surviving labor registration identity card",
+    "Original scanned copy of Aadhaar card of the beneficiary's sons/daughters",
+    "Original scanned copy of the Principal's admission certificate in the prescribed format",
+    "Original scanned copy of the mark sheet of the previous class passed",
+    "Original scanned copy of the bank passbook"
+  ],
+  "application_link": null
+}

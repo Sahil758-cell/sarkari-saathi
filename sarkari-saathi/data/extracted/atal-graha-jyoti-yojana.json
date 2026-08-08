@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Atal Graha Jyoti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a domestic consumer with monthly electricity consumption up to 150 units.",
+    "Must have an approved load of 1 kilowatt for the electricity connection."
+  ],
+  "benefits_summary": "Subsidized electricity bills for domestic consumers using up to 150 units per month.",
+  "documents_required": [],
+  "application_link": null
+}

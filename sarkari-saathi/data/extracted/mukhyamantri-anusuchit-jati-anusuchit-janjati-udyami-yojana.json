@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Anusuchit Jati / Anusuchit Janjati Udyami Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed at least 10+2, Intermediate, ITI, Polytechnic Diploma, or equivalent.",
+    "Business unit must be a proprietorship or partnership firm.",
+    "Permanent resident of Bihar."
+  ],
+  "benefits_summary": "Up to ₹10,00,000 financial assistance, with 50% as a grant and 50% as an interest‑free loan, plus mandatory skill‑development training.",
+  "documents_required": [],
+  "application_link": null
+}

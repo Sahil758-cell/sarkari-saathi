@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Pension Plan (MBOCWWB)",
+  "occupation": [
+    "building worker",
+    "other construction work"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Meghalaya Building & Other Construction Workers Welfare Board",
+    "Must have worked as a building worker for at least one year",
+    "Must be engaged in building or other construction work"
+  ],
+  "benefits_summary": "Provides a pension of ₹1,000 per month to eligible workers.",
+  "documents_required": [
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

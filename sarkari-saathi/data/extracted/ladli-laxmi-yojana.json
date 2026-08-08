@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Ladli Laxmi Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl child must be born on or after January 1, 2006",
+    "Girl child must be registered in the local Anganwadi centre",
+    "Parents must be natives of Madhya Pradesh",
+    "Parents should not be income taxpayers",
+    "Family planning must be adopted after the birth of the second child for eligibility of the second girl child",
+    "The first girl child (from the first delivery) is eligible without family planning, but family planning is required for a second girl child",
+    "In special cases where one parent is deceased, registration can be done until the girl child is 5 years old",
+    "If a widowed parent remarries and already has two children, a girl born from the second marriage is not eligible",
+    "All three girls born together in the first delivery are eligible",
+    "Girls born to women prisoners are eligible",
+    "Girl child born to a rape victim is eligible",
+    "The collector may extend approval period to two years where family planning is not adopted due to health reasons",
+    "Orphanage or protection home applications must be made within one year of admission and before the girl turns 5, or within one year of adoption"
+  ],
+  "benefits_summary": "The scheme provides a total benefit of up to ₹1,43,000 per girl, including annual deposits, education incentives, and a final payment of ₹1,00,000 upon completion of education, age 21, or marriage.",
+  "documents_required": [],
+  "application_link": null
+}

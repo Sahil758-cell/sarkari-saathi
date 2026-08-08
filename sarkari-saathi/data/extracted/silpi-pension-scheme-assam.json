@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Silpi Pension Scheme - Assam",
+  "occupation": [
+    "artist",
+    "technician"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Assam",
+    "Applicant must have a recognition proof certificate",
+    "Applicant must have outstanding contributions in Music, Dance, Fine Arts, Puppetry, Musk making, Mobile Theatre, Amateur Theatre or Films",
+    "Indigent families of artists with outstanding contributions are eligible"
+  ],
+  "benefits_summary": "Provides monthly pensions of ₹8,000 for artists and ₹4,000 for families, and one‑time grants of ₹50,000 under two separate schemes.",
+  "documents_required": [
+    "recognition proof certificate"
+  ],
+  "application_link": "https://www.silpisanmanassam.com"
+}

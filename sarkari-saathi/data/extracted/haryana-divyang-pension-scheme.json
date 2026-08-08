@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Haryana Divyang Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have been residing in Haryana for at least 3 years at the time of application",
+    "Self‑income from all sources must not exceed the minimum wage for unskilled labour as notified by the Labour Department",
+    "Disability must be between 60 % and 100 %",
+    "Applicant must have one of the following disabilities: blindness, low vision, cured leprosy, hearing impairment, locomotor disability, intellectual disability (mental retardation), or mental illness"
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month as a pension.",
+  "documents_required": [],
+  "application_link": null
+}

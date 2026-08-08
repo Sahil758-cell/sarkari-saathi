@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Loan for the Purchase of Work Tool for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year.",
+    "Must be registered under the Delhi Building and Other Construction Workers Welfare Board for at least one year.",
+    "Must remit contributions regularly."
+  ],
+  "benefits_summary": "Loan up to ₹20,000 for purchase of work‑related tools, to be repaid in up to sixty installments.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Photograph",
+    "Applicant’s Video",
+    "Proof of 90 Days Employment",
+    "Affidavit of the Applicant"
+  ],
+  "application_link": null
+}

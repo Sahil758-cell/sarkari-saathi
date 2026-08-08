@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Chief Minister Ekal Nari Samman Pension Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 48000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow, abandoned, or divorced woman",
+    "Applicant must have no regular source of income for subsistence"
+  ],
+  "benefits_summary": "Monthly pension ranging from Rs. 500 to Rs. 1500 depending on the beneficiary's age.",
+  "documents_required": [],
+  "application_link": null
+}

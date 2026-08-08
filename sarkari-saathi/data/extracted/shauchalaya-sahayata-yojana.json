@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Shauchalaya Sahayata Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with Uttar Pradesh Building and Other Construction Workers Welfare Board",
+    "Must own a home but have no toilet in it",
+    "Must not have received similar benefits from any other government scheme",
+    "Must be regularly depositing contributions",
+    "Must have an Aadhaar card",
+    "Must have a bank account in a CBS branch of a nationalized bank"
+  ],
+  "benefits_summary": "Provides a grant of ₹12,000 in two installments of ₹6,000 each for constructing a toilet.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

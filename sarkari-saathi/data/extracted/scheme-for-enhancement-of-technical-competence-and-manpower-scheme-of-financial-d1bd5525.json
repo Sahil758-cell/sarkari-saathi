@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Enhancement of Technical Competence and Manpower: Scheme of Financial Assistance for Skill Development to MSME Sector",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant unit must belong to the MSME sector.",
+    "The MSME must sponsor a candidate from its own workforce.",
+    "The candidate must have at least one year of experience in the MSME.",
+    "The training partner/organization must have at least 10 years of experience."
+  ],
+  "benefits_summary": "Provides up to ₹10,000 per trainee as 100% course‑fee reimbursement, plus additional support such as transport reimbursement and up to ₹1,00,000 per training centre for awareness programmes.",
+  "documents_required": [],
+  "application_link": "http://www.ced.gujarat.gov.in"
+}

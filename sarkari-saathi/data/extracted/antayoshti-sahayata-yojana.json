@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Antayoshti Sahayata Yojana",
+  "occupation": [
+    "masons",
+    "carpenters",
+    "electricians",
+    "porters",
+    "painters"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased should have been a domicile in the state of Jharkhand.",
+    "The deceased should have been a worker registered with the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)."
+  ],
+  "benefits_summary": "Provides a one‑time benefit of ₹10,000 for the last rites of a deceased registered beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

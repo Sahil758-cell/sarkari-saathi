@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Term Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Charmakar community",
+    "Applicant must have knowledge of the business for which the loan is sought",
+    "Income must be below the poverty line for the 50% Subsidy Scheme and Margin Money",
+    "For NSFDC scheme, income must be below ₹98,000 in rural areas or below ₹1,20,000 in urban areas",
+    "Applicant must provide an Income Certificate and a Caste Certificate issued by an authorized government officer"
+  ],
+  "benefits_summary": "Offers term loans of ₹1,00,000‑₹2,50,000 covering up to 75% of project cost with interest rates of 7‑8% per annum and repayment periods of up to 60 months.",
+  "documents_required": [
+    "Income Certificate",
+    "Caste Certificate",
+    "Passport‑sized photograph"
+  ],
+  "application_link": null
+}

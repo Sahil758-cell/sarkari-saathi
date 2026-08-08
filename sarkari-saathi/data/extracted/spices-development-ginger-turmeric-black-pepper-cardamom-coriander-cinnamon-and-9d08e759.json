@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Spices Development Ginger, Turmeric, Black Pepper, Cardamom, Coriander, Cinnamon and Chillies",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Meghalaya.",
+    "Applicant must be a bonafide farmer engaged in agriculture.",
+    "Applicant must own or lease land of at least 0.2 hectares.",
+    "Beneficiary selection is on a first‑come‑first‑serve basis."
+  ],
+  "benefits_summary": "Produce from the Government Farm at Umsning is sold directly to growers at full rate through District Horticulture Officers.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

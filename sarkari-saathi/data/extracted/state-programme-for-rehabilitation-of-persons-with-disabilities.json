@@ -1,0 +1,22 @@
+{
+  "scheme_name": "State Programme For Rehabilitation Of Persons With Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a 100% degree of disability",
+    "Applicant must be a permanent resident of Arunachal Pradesh"
+  ],
+  "benefits_summary": "Provides free aids and appliances such as tricycles, wheelchairs, crutches, walking sticks, blind sticks, rollators, and hearing aids, along with free physiotherapy services.",
+  "documents_required": [],
+  "application_link": null
+}

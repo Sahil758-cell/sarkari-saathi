@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Bhavantar Bharpai Yojana",
+  "occupation": [
+    "landowner",
+    "lessee",
+    "tenant farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The farmer must cultivate one of the 21 specified horticultural crops.",
+    "Registration on the Meri Fasal, Mera Byora portal during the sowing period is mandatory.",
+    "Land and crop details must be certified by the Horticulture Department.",
+    "Registration is open only during the stipulated period and may be done at designated centers or online."
+  ],
+  "benefits_summary": "The scheme compensates registered horticultural farmers for the price difference up to a protected price for 21 specified crops, with payments made to the farmer's Aadhar‑linked bank account.",
+  "documents_required": [
+    "Land and crop certification by the Horticulture Department"
+  ],
+  "application_link": "http://www.bby.hortharyana.gov.in/"
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Summer Internship Programme (PRL)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India.",
+    "Must be pursuing or have completed an undergraduate/post‑graduation degree from a recognized university/institution (India or abroad) within six months of award.",
+    "Must have a minimum aggregate of 60% or CGPA 6.32/10 at all levels.",
+    "Eligible disciplines include optics, laser physics, space physics, geology, geophysics, atmospheric sciences, environmental sciences, meteorology, chemistry, ocean sciences and related subjects.",
+    "Preference is given to KVPY/DST INSPIRE fellows.",
+    "Should have reasonable proficiency in basic physics and mathematics.",
+    "Teachers must have an academic background in physics, applied physics, astronomy, space physics, geology or related fields.",
+    "Teachers must have at least five years of teaching experience at the graduate/post‑graduate level.",
+    "Teachers must hold a PhD degree.",
+    "Teachers must demonstrate research interest through publications or ongoing projects."
+  ],
+  "benefits_summary": "Participants receive a certificate, limited paid accommodation (₹100 per day), mentorship and access to PRL facilities, but no stipend or financial assistance.",
+  "documents_required": [],
+  "application_link": null
+}

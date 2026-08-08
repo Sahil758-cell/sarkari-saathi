@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Disability Relief Allowance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 35000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "must not receive any other pension or allowance from the state or central government",
+    "must have a permanent disability certificate of 40% or more issued by a Medical Board",
+    "must not have any adult children"
+  ],
+  "benefits_summary": "Monthly allowance of ₹1150 for 40‑69% disability, ₹1700 for 70% or higher disability, and ₹1500 for disability beneficiaries aged 70 years or more.",
+  "documents_required": [
+    "application form",
+    "disability percentage certificate"
+  ],
+  "application_link": null
+}

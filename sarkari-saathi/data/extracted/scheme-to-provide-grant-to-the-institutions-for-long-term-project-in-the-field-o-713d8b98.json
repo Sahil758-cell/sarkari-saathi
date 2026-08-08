@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scheme to Provide Grant to the Institutions for Long Term Project in the Field of Art and Culture (Sarjansheel Goa)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be registered under the Society’s Registration Act, 1860 or Indian Trust Act",
+    "Institution must be involved in long‑term projects in the field of Art and Culture",
+    "Individual must be from the Goan community and have resided in Goa for at least 15 years",
+    "Individual must be involved in a long‑term project in the field of Art and Culture and have contributed at least 15 years in the relevant field"
+  ],
+  "benefits_summary": "Grant covering up to 80% of project expenditure, capped at ₹5,00,000 per annum.",
+  "documents_required": [
+    "Hard copy of the proforma",
+    "Passport‑sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

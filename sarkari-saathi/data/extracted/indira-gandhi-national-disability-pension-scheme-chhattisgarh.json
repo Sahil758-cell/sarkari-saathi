@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme- Chhattisgarh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 79,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have multiple disabilities (more than one type)",
+    "Applicant must have a severe disability of 80% or above in any one type",
+    "Applicant must not be receiving pension benefits from any other Central or State Government pension scheme"
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a monthly pension of ₹500 (₹300 Central contribution + ₹200 State contribution).",
+  "documents_required": [],
+  "application_link": null
+}

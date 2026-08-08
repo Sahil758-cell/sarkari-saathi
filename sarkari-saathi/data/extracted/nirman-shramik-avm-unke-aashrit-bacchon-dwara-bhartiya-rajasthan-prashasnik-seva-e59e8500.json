@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Nirman Shramik Avm Unke Aashrit Bacchon Dwara Bhartiya Rajasthan Prashasnik Seva Hetu Aayojit Pratibhabhik Yojana",
+  "occupation": [
+    "registered construction workers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker who continuously deposits contributions",
+    "Parents' total annual income from all sources must not exceed ₹2,50,000",
+    "Applicants already working in government services are ineligible for benefits",
+    "Applicant must have passed the preliminary competitive examination for Indian Administrative Service or Rajasthan Administrative Service",
+    "No benefit is payable for examinations of states other than Rajasthan",
+    "Incentive amount is given only once per examination; if already received for a particular exam, no further incentive will be paid for that exam",
+    "If any false information is provided, the beneficiary must repay the entire assistance amount with interest"
+  ],
+  "benefits_summary": "₹1,00,000 incentive for passing the IAS preliminary exam and ₹50,000 incentive for passing the RAS preliminary exam",
+  "documents_required": [],
+  "application_link": null
+}

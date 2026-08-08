@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Alpsankhyak Merit-Cum-Means Chatravriti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh belonging to a minority community",
+    "Must have secured at least 50% marks in the last qualifying examination",
+    "Eligibility category noted in source: minority"
+  ],
+  "benefits_summary": "Hostel students receive a maintenance allowance of ₹1,000 per month (for 10 months) and non‑hostel students ₹500 per month (for 10 months), plus reimbursement of actual course fees up to ₹20,000.",
+  "documents_required": [],
+  "application_link": null
+}

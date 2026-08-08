@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Maternity Assistance Scheme (PBAOCWWB)",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board",
+    "Applicant must be pregnant",
+    "Applicant must not have defaulted in payment of contribution to the Board for a continuous period of more than one year",
+    "Applicant must be contributing to the fund until the age of 60 years",
+    "Applicant must not have already received the benefit of this scheme two times",
+    "Spouse of a male employee who is a beneficiary of the fund is also eligible"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 credited within 15 days via DBT to eligible women or the spouse of a male employee, with the benefit available twice per beneficiary.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

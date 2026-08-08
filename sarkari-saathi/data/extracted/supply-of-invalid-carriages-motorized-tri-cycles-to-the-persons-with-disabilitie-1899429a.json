@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Supply of Invalid Carriages (Motorized Tri-cycles) to the Persons With Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Must have a locomotor disability affecting lower limbs of at least 65% severity",
+    "Must be certified by the Medical Authority as fit to operate the motorized tricycle",
+    "Must not be receiving any transport allowance from the Department or any other source",
+    "Must be in gainful employment or pursuing higher studies"
+  ],
+  "benefits_summary": "Invalid carriages (Motorized Tricycles) are provided free of cost to the persons with disabilities.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

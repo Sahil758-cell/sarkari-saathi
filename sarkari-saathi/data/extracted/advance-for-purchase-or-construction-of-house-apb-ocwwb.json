@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Advance For Purchase Or Construction Of House (APB&OCWWB)",
+  "occupation": [
+    "Building and Other Construction works"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Arunachal Pradesh",
+    "The applicant must be registered with the Labour Welfare Board (APB&OCWWB)",
+    "The applicant must have an active registered worker membership for at least 5 years",
+    "The applicant must have at least 15 years of service before superannuation/retirement",
+    "The applicant must be able to repay the principal amount of the loan with a minimum interest rate or with interest in equal installments as may be fixed by the board"
+  ],
+  "benefits_summary": "Registered workers receive a cash assistance of ₹1.00 lakh.",
+  "documents_required": [
+    "Application form",
+    "Relevant documents"
+  ],
+  "application_link": null
+}

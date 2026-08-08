@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Marriage Assistance to Normal Persons Marrying Speech and Hearing Impaired Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both spouses must be married to each other, with one being a normal person and the other a speech and hearing impaired person.",
+    "Both spouses must be older than 18 years.",
+    "Increased assistance is available if either spouse holds a degree or diploma."
+  ],
+  "benefits_summary": "Provides ₹25,000 assistance (₹12,500 National Savings Certificate + ₹12,500 cash) to eligible couples, with the amount doubled to ₹50,000 for couples where either spouse has a degree or diploma, along with a certificate of appreciation and an 8‑gram gold coin.",
+  "documents_required": [],
+  "application_link": null
+}

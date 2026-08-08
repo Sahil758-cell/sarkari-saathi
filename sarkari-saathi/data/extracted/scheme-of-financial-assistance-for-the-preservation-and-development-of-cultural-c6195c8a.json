@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Scheme Of Financial Assistance For The Preservation And Development Of Cultural Heritage Of The Himalayas",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir",
+    "Ladakh",
+    "Himachal Pradesh",
+    "Uttarakhand",
+    "Sikkim",
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The voluntary organization must be registered as a society under the Societies Registration Act 1860 or as a public trust under the Indian Trust Act 1882",
+    "The organization must have been functioning for at least three years",
+    "The organization must have capacity, facilities, resources, and personnel to undertake and promote research projects related to the scheme",
+    "Colleges and universities are eligible only if they are affiliated with a university and introduce Himalayan art and culture topics into their curriculum or research courses",
+    "Grants will be given only to organizations not receiving grants from any other source for similar purposes",
+    "Grants are ad‑hoc and non‑recurring",
+    "Preference is given to organizations that have good work in the field and can provide matching funds"
+  ],
+  "benefits_summary": "Provides financial assistance of up to ₹10 lakhs per organization for research, preservation, dissemination and training related to the cultural heritage of the Himalayas.",
+  "documents_required": [
+    "Bond",
+    "Resolution",
+    "Bank Authorization letter",
+    "Agency registration form",
+    "Unique ID of NITI Ayog",
+    "PFMS User ID"
+  ],
+  "application_link": "http://www.indiaculture.nic.in"
+}

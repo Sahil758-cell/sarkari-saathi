@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Natural Calamity Relief to Fishermen of State",
+  "occupation": [
+    "Fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be contributing to the Fishermen Corpus Relief Fund",
+    "Fishing vessel (canoe or mechanized) must be registered with the Department of Fisheries",
+    "Applicant must not be a defaulter of the department",
+    "Loss or damage must be verified by the competent authority",
+    "Loss or damage must be due to natural calamities such as floods, cyclones, tsunamis, or accidental fire",
+    "Application must be submitted offline within one week of the incident"
+  ],
+  "benefits_summary": "Offers financial compensation up to ₹5 lakhs for death or total disability and up to ₹10 lakhs for loss of fishing vessels, as assessed by authorized surveyors.",
+  "documents_required": [],
+  "application_link": null
+}

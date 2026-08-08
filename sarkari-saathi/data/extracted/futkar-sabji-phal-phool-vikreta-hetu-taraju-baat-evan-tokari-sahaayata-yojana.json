@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Futkar Sabji, Phal-Phool Vikreta Hetu Taraju, Baat Evan Tokari Sahaayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered as an unorganized worker in any district of Chhattisgarh.",
+    "Applicant should not have received similar benefits from any other schemes."
+  ],
+  "benefits_summary": "Provides a financial assistance of Rs 700 per beneficiary for scales, weights and two baskets.",
+  "documents_required": [],
+  "application_link": null
+}

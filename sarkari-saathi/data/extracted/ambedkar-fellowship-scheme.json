@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Ambedkar Fellowship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 34,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Postgraduate degree with at least 55% marks is required",
+    "Priority is given to candidates enrolled in central or state government universities in Rajasthan",
+    "A maximum of two children from a single family can apply",
+    "Applicant must have secured admission to a Ph.D. program in a recognized university in Rajasthan in one of the specified subjects (Sociology, Public Administration, Law, Economics, Political Science, Anthropology)",
+    "Applicant must submit a certificate of admission from the Head of the concerned University or Institute",
+    "Applicant must submit a certificate of attendance as prescribed by the University Grants Commission (UGC)",
+    "An annual progress report of the research work must be submitted to the department"
+  ],
+  "benefits_summary": "Recipients receive a monthly fellowship of ₹15,000 for up to three years, directly transferred to their bank account.",
+  "documents_required": [
+    "Prescribed application form",
+    "Certificate of admission from the Head of the concerned University or Institute",
+    "Certificate of attendance as prescribed by the University Grants Commission (UGC)",
+    "Annual progress report",
+    "Undertaking on a non‑judicial stamp of ₹100"
+  ],
+  "application_link": null
+}

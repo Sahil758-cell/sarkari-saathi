@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Widow Pension - Uttar Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow (husband deceased)",
+    "Applicant must be a permanent resident of Uttar Pradesh"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,000.",
+  "documents_required": [
+    "Passport size color photograph",
+    "Birth/Age certificate",
+    "Husband Death certificate",
+    "Declaration"
+  ],
+  "application_link": null
+}

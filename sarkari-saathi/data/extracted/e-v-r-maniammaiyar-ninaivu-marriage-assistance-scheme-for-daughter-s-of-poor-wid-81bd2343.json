@@ -1,0 +1,22 @@
+{
+  "scheme_name": "E.V.R. Maniammaiyar Ninaivu Marriage Assistance Scheme for Daughter’s of Poor Widows: Scheme-II",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": 72000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow and the mother of a girl child",
+    "Assistance is granted for the marriage of only one daughter per mother",
+    "Bride must be either a degree holder from regular colleges, distance education or a government‑recognized open university, or a diploma holder from an institution recognized by the Directorate of Technical Education, Government of Tamil Nadu",
+    "Benefit may be given to the bride in case of the death of the widowed mother"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 along with a 22‑carat (8 gm) gold sovereign for the bride’s Thirumangalyam.",
+  "documents_required": [],
+  "application_link": null
+}

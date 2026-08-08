@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Micro Credit Finance (NSFDC)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "All members of partnership firms or co‑operative societies must belong to the Scheduled Caste community",
+    "Annual family income of each member/applicant must not exceed ₹3,00,000",
+    "Loans are limited to units costing up to ₹1,40,000 (maximum loan amount ₹1.25 lakhs)",
+    "Applicants must apply through State Channelizing Agencies or other authorized Channelizing Agencies; direct contact with NSFDC is not permitted"
+  ],
+  "benefits_summary": "Provides loans up to 90% of project cost (maximum ₹1.25 lakhs) at 2.5% interest to SC applicants for income‑generating activities, repayable over three years.",
+  "documents_required": [
+    "caste certificate",
+    "income certificate",
+    "experience documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Mukhya Mantri Himachal Health Care Scheme-HIMCARE",
+  "occupation": [
+    "registered street vendor",
+    "MNREGA worker",
+    "daily wage worker",
+    "part‑time worker",
+    "contractual employee",
+    "outsourced employee"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Himachal Pradesh",
+    "Family must not be covered under the Ayushman Bharat (Pradhan Mantri Jan Arogya Yojana) scheme",
+    "Applicant must be a HIMCARE card holder",
+    "Scheme is open to Below Poverty Line (BPL) families as well as Above Poverty Line (APL) families",
+    "Senior citizens (including those above 70 years) are eligible",
+    "Daily wage earners, widows, and single women are eligible",
+    "Persons with disabilities are eligible",
+    "Registered street vendors are eligible",
+    "MNREGA workers who have worked at least 50 days in the previous or current financial year are eligible",
+    "Children living in orphanages are eligible"
+  ],
+  "benefits_summary": "Provides cashless medical treatment up to ₹5,00,000 per year per family at empanelled hospitals.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scheme For Award Of Stipend To The Schedule Tribe Students Of Arunachal Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students in full‑time employment are not eligible for the stipend",
+    "A student who fails a class and is re‑admitted in the same level of study for a different course/stream is not eligible for the stipend for that class",
+    "Students against whom disciplinary action is taken are not eligible for the stipend",
+    "Students whose attendance is below 75 % in any month (unless for certified health or bereavement reasons) are not eligible for the stipend",
+    "Students pursuing their studies through correspondence or distance‑education mode are not eligible for the stipend",
+    "Students studying in institutions not recognized by the State or Central regulators such as UGC, AICTE, MCI, DCI, BCI, CCH are not eligible for the stipend"
+  ],
+  "benefits_summary": "Provides monthly stipends and annual book grants to eligible Scheduled Tribe students of Arunachal Pradesh pursuing higher, technical, or professional courses.",
+  "documents_required": [
+    "Attested copy of Arunachal Pradesh Scheduled Tribe Certificate",
+    "Attested copy of Mark sheet of last examination passed"
+  ],
+  "application_link": null
+}

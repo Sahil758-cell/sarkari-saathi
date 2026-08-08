@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Dr. YSR Aarogyasri Health Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Holders of Rice Card (BPL) are eligible",
+    "Families eligible for YSR Pension Kanuka Card, Jagananna Vidya Card or Vasathi Deevena Card are eligible",
+    "Landowners with less than 12 acres of wet land, less than 35 acres of dry land, and total land less than 35 acres",
+    "Households with annual income up to Rs.5 lakh (salary certificate evidence required)",
+    "Income‑tax‑paying families filing returns with annual income up to Rs.5 lakh (income‑tax‑return evidence required)",
+    "Employees (excluding permanent government employees/pensioners) with annual income up to Rs.5 lakh, including contract, part‑time, outsourcing, sanitary, honorarium and private‑sector workers",
+    "Households paying municipal property tax for property area less than 3000 sq ft",
+    "Families/households not owning more than one personal car"
+  ],
+  "benefits_summary": "Cashless coverage of up to ₹5 lakh per family for inpatient and outpatient treatment, including pre‑existing diseases, across a wide range of specialties.",
+  "documents_required": [
+    "Salary certificate",
+    "Income Tax Return"
+  ],
+  "application_link": null
+}

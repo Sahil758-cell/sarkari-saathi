@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Rehabilitation Treatment For The Disabled",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have a disability certificate issued by a registered medical practitioner",
+    "Disability percentage must be more than 40%"
+  ],
+  "benefits_summary": "Provides medical treatment, assistive devices, rehabilitation services, and training/education to persons with disabilities.",
+  "documents_required": [
+    "Disability certificate issued by a registered medical practitioner"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Establishment of 50 Milch Animals Dairy Unit",
+  "occupation": [
+    "livestock farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must purchase 50 dairy animals (cows or buffaloes).",
+    "The applicant must establish a new dairy farm.",
+    "The applicant must have ownership, inheritance, or leasehold rights to the land (lease minimum 7 years if land is not owned).",
+    "The applicant must take a loan from a Reserve Bank‑recognised institution or bank."
+  ],
+  "benefits_summary": "Offers a 7.5% interest subsidy for up to 5 years on loans for 50 dairy animals, plus subsidies on shed construction, animal insurance, and key equipment up to specified maximum amounts.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

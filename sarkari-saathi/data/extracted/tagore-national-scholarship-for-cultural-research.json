@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Tagore National Scholarship for Cultural Research",
+  "occupation": [
+    "scholar",
+    "artist",
+    "performer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have good academic credentials",
+    "At least one publication (book or research paper) in a reputed journal is required",
+    "Two years of research or teaching experience is required",
+    "Young artists and performers are also eligible to apply",
+    "Applicant must identify and select a nodal institution for the research project",
+    "The research project should primarily use the resources of the selected nodal institution",
+    "Applicant should be able to devote about two years to the project"
+  ],
+  "benefits_summary": "Monthly honorarium of ₹50,000 plus contingency grant, house‑rent allowance, settling allowance, travel support and infrastructural assistance for research.",
+  "documents_required": [
+    "application form",
+    "list of publications (biocatalyst)",
+    "write‑up of the proposed work",
+    "declaration of commitment"
+  ],
+  "application_link": null
+}

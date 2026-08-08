@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Thayi Bhagya Scheme(comprehensive Maternal Healthcare)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Benefit limited to the first two live deliveries",
+    "Hospitals must have a minimum of 10 inpatient beds",
+    "Hospitals must have a functional operation theatre and delivery room",
+    "24‑hour availability of gynecologists, anesthetists and pediatricians is required",
+    "Hospitals must have a linkage with blood banks",
+    "The District Health Officer identifies eligible hospitals and invites them for partnership"
+  ],
+  "benefits_summary": "Cashless delivery services (including normal and complicated deliveries) up to the first two live births for BPL women at registered private hospitals in Karnataka.",
+  "documents_required": [
+    "ANC card"
+  ],
+  "application_link": null
+}

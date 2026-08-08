@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Jeevanam Self-Employment Scheme To Dependents Of Crime Victims",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be native and resident of Kerala.",
+    "Applicant must be either the person seriously injured in a crime or a dependent (wife, husband, unmarried son or daughter) of the crime victim.",
+    "Application must be submitted within 5 years of the crime.",
+    "Beneficiary must execute an agreement with the Department of Social Justice on a ₹200 stamp paper."
+  ],
+  "benefits_summary": "One-time financial assistance of ₹20,000 transferred to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Assistance for Purchase of Spectacles - Folk Artists",
+  "occupation": [
+    "folk artist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered folk artist",
+    "Applicant should not have any dues payable to the board",
+    "Applicant must not have availed similar benefits from any other government scheme",
+    "Assistance limited to the first 2,000 registered folk artists per year on a first‑come‑first‑serve basis",
+    "Benefit is given only once per applicant"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹500 for purchase of spectacles, provided once per applicant.",
+  "documents_required": [],
+  "application_link": null
+}

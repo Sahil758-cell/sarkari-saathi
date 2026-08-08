@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Educational Assistance for Degree Course",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parents or guardians must be registered under the Maharashtra Building and Other Construction Workers Welfare Board.",
+    "Student must be enrolled in a degree course (1st to 4th year) at the undergraduate level.",
+    "Benefit is limited to a maximum of two children per registered worker.",
+    "The wife of a registered male worker is also eligible."
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 per year for undergraduate students.",
+  "documents_required": [],
+  "application_link": null
+}

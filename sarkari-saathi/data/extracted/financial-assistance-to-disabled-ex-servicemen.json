@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance to Disabled Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a disabled ex‑serviceman discharged from the Armed Forces on medical grounds with disability not attributable to service",
+    "Must be a bonafide resident of Haryana",
+    "Must not be receiving any financial assistance or pension from any source",
+    "Must produce a certificate from the District Social Welfare Officer confirming no receipt of financial assistance or pension",
+    "Receiving old age pension, financial assistance, or maintenance allowance from any other department will lead to permanent debarment",
+    "Payment will be discontinued for persons in civil employment",
+    "Survival verification proof must be submitted annually in April"
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month, with an annual increase of ₹400.",
+  "documents_required": [
+    "Certificate from District Social Welfare Officer confirming no receipt of financial assistance or pension"
+  ],
+  "application_link": null
+}

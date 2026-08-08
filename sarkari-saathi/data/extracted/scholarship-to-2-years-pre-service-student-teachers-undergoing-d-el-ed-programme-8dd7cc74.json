@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scholarship To 2 Years Pre-Service Student Teachers Undergoing D.El.Ed Programme At DIETs And CTTC Sohra",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 27,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Meghalaya",
+    "Must have passed Class XII or equivalent with at least 50% marks (5% relaxation for SC/ST/OBC/PWD)",
+    "Candidates awaiting Class XII results may apply if they can produce provisional/original documents at counseling",
+    "At least 30% of seats are reserved for candidates with Science and Mathematics backgrounds at Class XII level"
+  ],
+  "benefits_summary": "Scholarship of ₹5000 per month for 2 years (10 months per year).",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

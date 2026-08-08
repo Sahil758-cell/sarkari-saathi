@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistive Devices for Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana.",
+    "Disability of at least 40% is required.",
+    "Age must be above 18 years, except for persons with mental retardation where the minimum age is 14 years.",
+    "Applicant must be employed in a reputable organization or have a confirmed appointment letter.",
+    "For self‑employment, the need for an assistive device will be assessed by the authority (SCA/RRB, etc.).",
+    "The head of the organization must certify that the proposed assistive device will improve employability and that the device is not provided by the organization."
+  ],
+  "benefits_summary": "Loans up to ₹5 lakh are provided for purchase of assistive devices to enhance employability or self‑employment prospects.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

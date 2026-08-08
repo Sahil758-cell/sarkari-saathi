@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Dr. P. G. Solanki Scheme for Loan/Assistance to Medical Post Graduate Doctors of Scheduled Caste",
+  "occupation": [
+    "Medical Post Graduate (M.D/M.S) Doctor"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have received any benefit under a similar government scheme",
+    "Applicants who have previously obtained loan/assistance for starting an independent profession after completing a graduate medical degree (MBBS, B.S.A.M., B.A.M.S., B.D.S.) are ineligible",
+    "Loan assistance must be used only for the purpose for which it is provided; misuse will attract penal interest"
+  ],
+  "benefits_summary": "Provides a subsidy of ₹50,000 and a loan up to ₹3,00,000 at an interest rate of 4%.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

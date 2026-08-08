@@ -1,0 +1,30 @@
+{
+  "scheme_name": "The West Bengal Incentive Scheme: Additional Incentive on Generation of Employment",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible tourism projects/units/expansion projects of existing units set up on or after 22 February 2021 must apply.",
+    "Eligible hotel units that started commercial operation between 7 January 2015 and 31 December 2020 and could not apply under the 2015 scheme due to absence of a Bar in the hotel are also eligible.",
+    "Units may be in the private sector, co‑operative sector, joint sector, or companies/undertakings owned or managed by the State Government.",
+    "The project must be covered by a detailed feasibility report/project prepared for the purpose.",
+    "The project must have been approved and sanctioned by a Central Financial Institution, Commercial Bank, or State Financial Institution.",
+    "The unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the West Bengal Tourism Development Corporation Limited."
+  ],
+  "benefits_summary": "Provides an additional incentive of 60% of eligible project cost for 5 years in Group A‑D areas and for 10 years in Special Areas.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate"
+  ],
+  "application_link": null
+}

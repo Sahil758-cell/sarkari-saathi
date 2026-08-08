@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Small Industries Unit for Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana.",
+    "Applicant must have a disability of at least 40%.",
+    "Applicant must be over 18 years old, except for persons with mental retardation where the minimum age is 14 years."
+  ],
+  "benefits_summary": "Loan assistance of up to ₹25 lakh for setting up manufacturing, fabrication, and production units.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

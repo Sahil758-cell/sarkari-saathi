@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Goa State Best Library and Best Librarian Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The library must have been in existence for at least 15 years.",
+    "The library must have a minimum of 100 registered members for the last 5 years.",
+    "The library must hold at least 2,500 books, periodicals, etc., in readable condition.",
+    "The library must have proper infrastructure with retrieval facilities and a minimum area of 40 sq. mts with adequate ventilation.",
+    "The library must conduct regular programmes to enhance reading habits and maintain up‑to‑date records.",
+    "The librarian must be born in Goa or have resided in Goa for at least 15 years.",
+    "The librarian must have at least 10 years of continuous service as a librarian or section‑in‑charge in a Goa government or government‑aided library.",
+    "The librarian must have taken initiatives for library development or reading‑culture promotion.",
+    "The award is not conferred posthumously except if death occurs after nomination, in which case it may be awarded within one year of death or retirement."
+  ],
+  "benefits_summary": "Cash prize of ₹50,000 with a memento, citation and certificate for the best library, and cash prize of ₹25,000 with a memento, citation and certificate for the best librarian.",
+  "documents_required": [
+    "Passport-sized photograph (signed)",
+    "Copies of mandatory documents"
+  ],
+  "application_link": "https://www.artandculture.goa.gov.in"
+}

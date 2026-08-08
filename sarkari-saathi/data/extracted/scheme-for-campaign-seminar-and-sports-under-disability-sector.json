@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Campaign, Seminar and Sports under Disability Sector",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Institutions or an individual person with disabilities working for the welfare of Persons with Disabilities are eligible for financial support.",
+    "Events must be at the State or District level."
+  ],
+  "benefits_summary": "Financial assistance up to ₹1,00,000 per state‑level event and up to ₹50,000 per district‑level event.",
+  "documents_required": [
+    "proposal"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance To Self-Employment For Trained Disabled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Completed vocational training in a Government or Government‑recognized institution",
+    "Indian citizen",
+    "Permanent resident of Maharashtra",
+    "Person with disability (e.g., visually handicapped, low vision, hearing impaired, orthopedically handicapped, etc.)",
+    "Disability percentage of 40% or above"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 for purchase of tool kits/equipment to start own business.",
+  "documents_required": [
+    "Hard copy of the application form format",
+    "Passport‑sized photograph (signed across)",
+    "Self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

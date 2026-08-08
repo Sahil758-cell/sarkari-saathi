@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Distribution of Free Books and Stationery to SC/ST Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular (full‑time) student",
+    "Must be studying in a government college",
+    "Must be pursuing a graduation or post‑graduation course"
+  ],
+  "benefits_summary": "Free books worth ₹1,500 and stationery worth ₹500 per year are provided to eligible SC/ST students.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Ex-Gratia Grant for Disability to CAPF Personnel",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Haryana",
+    "Must be a disabled CAPF personnel permanently disabled due to war/operation, operational areas, terrorist activities, natural calamities, etc.",
+    "Must have been discharged from service because of the disability",
+    "Application must be submitted within three years of the disability onset"
+  ],
+  "benefits_summary": "Ex‑gratia grant ranging from ₹15 lakh to ₹35 lakh depending on disability percentage (25‑49%: ₹15 lakh; 50‑74%: ₹25 lakh; 75% and above: ₹35 lakh).",
+  "documents_required": [],
+  "application_link": null
+}

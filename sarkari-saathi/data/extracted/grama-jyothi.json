@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Grama Jyothi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Priority given to households below the poverty line or belonging to marginalized communities",
+    "Women-headed households and women/girl children are given priority",
+    "Small and marginal farmers are eligible",
+    "Landless labourers, migrant workers, and people with disabilities may be covered depending on the state or district",
+    "Village panchayats with a high percentage of households lacking basic amenities are prioritized",
+    "Eligibility criteria may vary by state or district"
+  ],
+  "benefits_summary": "Provides basic amenities such as electricity, water supply, and sanitation to rural households, improving overall village development",
+  "documents_required": [
+    "proof of identity",
+    "proof of residence",
+    "income certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Reimbursement of Stamp Duty and Registration Charges",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a manufacturing enterprise classified as micro or small scale.",
+    "The enterprise must be set up in the declared backward blocks of Tamil Nadu.",
+    "Eligible land area is up to five times the plinth area of the factory building, with possible extensions on a case‑by‑case basis.",
+    "Application must be submitted within 6 months from the commencement of commercial production."
+  ],
+  "benefits_summary": "50% reimbursement of stamp duty and registration charges on land purchased for industrial use.",
+  "documents_required": [],
+  "application_link": null
+}

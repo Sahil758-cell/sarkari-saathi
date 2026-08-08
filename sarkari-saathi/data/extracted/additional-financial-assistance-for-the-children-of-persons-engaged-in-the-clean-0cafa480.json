@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Additional Financial Assistance for the Children of Persons Engaged in the Cleaning Profession",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Applicant must be eligible for or currently receiving a scholarship under the Post‑Matric Scholarship Scheme",
+    "Parent or guardian must be engaged in the cleaning or sanitation profession and belong to the scavenger class",
+    "If the applicant’s parent is deceased, the eligible guardian must satisfy the cleaning‑profession and scavenger‑class criteria",
+    "Eligibility category noted in source: Economically Backward Classes",
+    "Eligibility category noted in source: Extremely Backward Classes"
+  ],
+  "benefits_summary": "Provides an additional ₹500 per month (up to 10 months a year) to students receiving Post‑Matric scholarships whose parents/guardians work in the cleaning/sanitation sector.",
+  "documents_required": [],
+  "application_link": null
+}

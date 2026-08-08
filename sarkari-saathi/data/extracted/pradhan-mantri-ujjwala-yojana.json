@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Pradhan Mantri Ujjwala Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an adult woman",
+    "Must belong to a poor household and not have an existing LPG connection in the household",
+    "Should be eligible as per SECC 2011 list",
+    "Should be a beneficiary of Pradhan Mantri Awas Yojana (PMAY) or Antyodaya Anna Yojana (AAY)",
+    "Should be a forest dweller or belong to Most Backward Classes (MBC) or Tea and Ex‑Tea Garden Tribes",
+    "People residing in river islands must submit a supporting document",
+    "If not covered by the above categories, must claim eligibility under a poor household by submitting a 14‑point declaration as per prescribed format",
+    "Special facility is provided to migrant families"
+  ],
+  "benefits_summary": "Beneficiaries receive a subsidised LPG connection (Rs. 1600 for a 14.2 kg cylinder or Rs. 1150 for a 5 kg cylinder) along with the first LPG refill and a free stove.",
+  "documents_required": [
+    "Aadhar Card",
+    "Ration Card",
+    "Address Proof",
+    "Passport size photograph",
+    "Bank Details"
+  ],
+  "application_link": null
+}

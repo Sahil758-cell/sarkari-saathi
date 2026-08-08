@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Horticulture Mission for North Eastern Hill Scheme- Meghalaya",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of Meghalaya",
+    "Bonafide farmer engaged in agriculture",
+    "Must own or lease land of at least 200 sq m"
+  ],
+  "benefits_summary": "Provides training, extension services, technology support, input subsidies, and marketing assistance to eligible farmers.",
+  "documents_required": [
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

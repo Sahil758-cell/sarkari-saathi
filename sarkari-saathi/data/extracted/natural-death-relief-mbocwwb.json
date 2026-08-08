@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Natural Death Relief (MBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the nominee, dependent, or legal heir of the deceased construction worker.",
+    "Deceased construction worker must be registered with the Manipur Building and Other Construction Workers' Welfare Board.",
+    "Death must be due to natural causes."
+  ],
+  "benefits_summary": "Financial assistance of ₹30,000 is provided as a one-time relief for natural death of a registered construction worker.",
+  "documents_required": [],
+  "application_link": null
+}

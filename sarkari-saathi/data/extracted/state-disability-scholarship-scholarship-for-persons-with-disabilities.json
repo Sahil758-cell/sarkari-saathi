@@ -1,0 +1,26 @@
+{
+  "scheme_name": "State Disability Scholarship (Scholarship for Persons with Disabilities)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in Class I to Class VIII",
+    "Disability must be at least 40% as per benchmark disability",
+    "Student must be enrolled in an institution that has a valid AISHE/UDISE code",
+    "Students who have failed in their last examination (repeaters) are not eligible",
+    "Applicant must not be a beneficiary of any other scholarship scheme",
+    "Scholarship applies to all types of disabilities as defined in the Rights of Persons with Disabilities Rules 2017"
+  ],
+  "benefits_summary": "Scholarships of ₹200 (subject to variation as per Government of Nagaland guidelines) are provided to eligible physically disabled students in Classes I to VIII.",
+  "documents_required": [],
+  "application_link": "https://scholarship.nagaland.gov.in"
+}

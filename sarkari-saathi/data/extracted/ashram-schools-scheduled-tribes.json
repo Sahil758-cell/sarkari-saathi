@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Ashram Schools (Scheduled Tribes)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in a government school in Madhya Pradesh."
+  ],
+  "benefits_summary": "Free accommodation, mess, and education facilities are provided to eligible Scheduled Tribe students.",
+  "documents_required": [
+    "ID proof",
+    "relevant certificates"
+  ],
+  "application_link": null
+}

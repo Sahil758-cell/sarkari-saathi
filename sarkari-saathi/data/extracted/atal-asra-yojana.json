@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Atal Asra Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Financial assistance up to ₹3,00,000 for construction or reconstruction of a house, and ₹1,50,000 for repairs of an existing house.",
+  "documents_required": [],
+  "application_link": null
+}

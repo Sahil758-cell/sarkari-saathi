@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Bhausaheb Fundkar Falbag Lagvad Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a permanent resident of Maharashtra State",
+    "The applicant must be a farmer and possess an Aadhaar Card",
+    "The applicant must provide a 7/12 land ownership certificate",
+    "The applicant must provide an 8‑A certificate",
+    "Farmers from the Konkan division are eligible for land parcels between 0.10 and 10.00 hectares",
+    "Farmers from the rest of Maharashtra are eligible for land parcels between 0.20 and 6.00 hectares",
+    "The farmer must maintain a fruit plant survival rate of at least 80% in the first year and 90% in the second year"
+  ],
+  "benefits_summary": "Direct Benefit Transfer subsidy for planting 16 perennial fruit crops, covering activities such as pit digging, planting grafts/seedlings, fertilizer application, crop protection and gap filling.",
+  "documents_required": [
+    "Aadhaar Card",
+    "7/12 land ownership certificate",
+    "8‑A certificate"
+  ],
+  "application_link": "https://mahadbt.maharashtra.gov.in/"
+}

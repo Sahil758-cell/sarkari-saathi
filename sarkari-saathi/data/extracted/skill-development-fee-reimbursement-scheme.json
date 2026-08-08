@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Skill Development Fee Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an educational institution registered or operating in Goa.",
+    "The technical skill training program must be approved by SPC and fall under one of the approved domains such as Internet of Things, Artificial Intelligence, Machine Learning, Interaction Design, Big Data Analytics, Robotics, 3-D Printing, Data Science, Drones, Virtual Reality/Augmented Reality/Merged Reality, or others approved by SPC.",
+    "Students must be currently pursuing their graduation or within two years of receiving their graduate degree.",
+    "Students must satisfy at least one of the following: be born in the State of Goa and studying anywhere, have domicile in Goa for ten years or more and studying anywhere, or be a non‑resident studying in a Goan educational institute.",
+    "Expenditure must be incurred after the notification of Goa Startup Policy 2017, be within the validity period of the policy, and be paid digitally (or be approved by SPC if digital payment is not possible).",
+    "A maximum of 1000 students can benefit per year, and each student may avail the benefit for up to two courses in a year."
+  ],
+  "benefits_summary": "Reimbursement of 50% of training fees up to ₹50,000 per student, with a cap of 1000 students per year.",
+  "documents_required": [],
+  "application_link": null
+}

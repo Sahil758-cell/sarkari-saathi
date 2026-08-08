@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Chief Minister’s Free Diagnostic Services",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides free CT scan, X‑Ray and laboratory diagnostic services to all patients at government health institutions in Assam.",
+  "documents_required": [],
+  "application_link": null
+}

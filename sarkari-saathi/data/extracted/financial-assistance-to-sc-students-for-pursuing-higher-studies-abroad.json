@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Financial Assistance to SC Students for Pursuing Higher Studies Abroad",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 29,
+  "max_annual_income": 800000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a bonafide resident of Delhi (or domicile) for at least five years",
+    "Applicant must be the only child eligible under this scheme",
+    "Employed applicants must apply through their employer and provide a No Objection Certificate (NOC)",
+    "Applicant must not have already completed the same level of education (Master’s/Ph.D.) in India or abroad",
+    "For Ph.D. applicants, at least 55% marks or equivalent grade in the relevant Master’s degree is required",
+    "For Master’s applicants, at least 55% marks or equivalent grade in the relevant Bachelor’s degree is required",
+    "Recipients must return to India after completion and stay for at least five years"
+  ],
+  "benefits_summary": "Provides up to ₹20 lakhs for Ph.D. programmes and up to ₹10 lakhs for Masters programmes abroad, covering tuition and living expenses.",
+  "documents_required": [
+    "No Objection Certificate (NOC) (if employed)",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

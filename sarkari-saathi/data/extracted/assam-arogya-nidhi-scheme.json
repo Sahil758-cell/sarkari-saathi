@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Assam Arogya Nidhi Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Government employees, government pensioners, and their family members are not eligible."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹3 lakh for treatment of life‑threatening diseases and disaster injuries.",
+  "documents_required": [],
+  "application_link": "https://nhm.assam.gov.in/schemes/assam-arogya-nidhi"
+}

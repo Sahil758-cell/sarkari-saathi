@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Baristha Nagarika Tirtha Yatra Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": 75,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be physically fit and free from communicable diseases",
+    "Attendant (if any) must be over 18 years old and pay 50% of travel cost via a bank draft",
+    "Joint applications of married couples are allowed, and one spouse may be under 60 years",
+    "Pilgrims can avail the benefit only once in a lifetime",
+    "False information will lead to debarment from the scheme"
+  ],
+  "benefits_summary": "Provides a one‑time fully funded pilgrimage journey for senior citizens (60‑75 years) from Odisha, covering travel, accommodation, meals and related support.",
+  "documents_required": [
+    "Antyodaya/Annapurna card",
+    "Ration Card under NFSA",
+    "Widow Pension document",
+    "Old Age Pension document",
+    "MGNREGS Job Card",
+    "Any other State Government document indicating weak economic status",
+    "Proof of identity",
+    "Proof of address",
+    "Medical fitness undertaking",
+    "Proof of age",
+    "Two passport‑size photographs",
+    "Emergency contact details",
+    "Bank draft (for attendant)"
+  ],
+  "application_link": "http://www.odishatourism.gov.in"
+}

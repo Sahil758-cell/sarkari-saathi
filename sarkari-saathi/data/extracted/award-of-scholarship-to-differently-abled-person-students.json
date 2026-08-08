@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Award of Scholarship to Differently Abled Person Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native or resident of the Union Territory of Puducherry for at least 5 years.",
+    "Disability must be 40% or greater.",
+    "Student must be enrolled in studies from Class 1 up to postgraduate or professional courses."
+  ],
+  "benefits_summary": "Scholarship amounts range from ₹1,000 to ₹6,800 per year, varying with the student’s educational level.",
+  "documents_required": [
+    "Prescribed application form (hard copy or printed)",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,34 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Assistance for Purchase of Spectacles",
+  "occupation": [
+    "car driver",
+    "taxi driver",
+    "luxury taxi driver",
+    "light commercial vehicle driver",
+    "van driver",
+    "auto‑rickshaw driver",
+    "tempo driver",
+    "lorry driver",
+    "truck driver",
+    "bus driver"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unorganized worker employed in the operation of commercial vehicles",
+    "Vehicle must be used for commercial purposes and not solely for personal or family use"
+  ],
+  "benefits_summary": "Financial assistance of ₹500 for purchasing spectacles",
+  "documents_required": [
+    "Valid prescription",
+    "Proof of purchase"
+  ],
+  "application_link": null
+}

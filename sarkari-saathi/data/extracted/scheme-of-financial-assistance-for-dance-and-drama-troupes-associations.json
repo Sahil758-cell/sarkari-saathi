@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme of Financial Assistance for Dance and Drama Troupes/Associations",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The troupe must present new classical or folk dance programs or stage new dramas",
+    "The troupe/association must be a cultural body registered in the territory of Puducherry",
+    "The troupe/association must have a standing of at least two years",
+    "The theme of the dance or the story and dialogue of the drama must be new and original, created by an artist who is a native of the territory by birth or domicile"
+  ],
+  "benefits_summary": "Grant of ₹2,000/- is provided to eligible dance and drama troupes/associations.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self-attested, if required)"
+  ],
+  "application_link": null
+}

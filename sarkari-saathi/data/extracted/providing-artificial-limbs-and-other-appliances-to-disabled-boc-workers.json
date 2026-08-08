@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Providing Artificial Limbs and Other Appliances to Disabled BOC Workers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered under the Andhra Pradesh Building & Other Construction Workers Welfare Board."
+  ],
+  "benefits_summary": "Free artificial limbs and other fabricated appliances are provided, with replacement every three years as needed.",
+  "documents_required": [],
+  "application_link": null
+}

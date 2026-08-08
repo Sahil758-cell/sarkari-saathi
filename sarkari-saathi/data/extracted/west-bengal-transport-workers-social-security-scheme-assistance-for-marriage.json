@@ -1,0 +1,36 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Assistance for Marriage",
+  "occupation": [
+    "cars",
+    "taxis",
+    "luxury taxis",
+    "light commercial vehicles",
+    "vans",
+    "auto-rickshaws",
+    "tempos",
+    "lorries",
+    "trucks",
+    "buses"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be between 18 and 60 years of age at the time of enrolment.",
+    "Applicant must be an unorganized worker employed in the operation of commercial vehicles.",
+    "Vehicle must be used for commercial purposes and not solely for personal or family use.",
+    "Maximum of two beneficiaries per family.",
+    "Benefit is provided for the marriage of the beneficiary or their dependent children."
+  ],
+  "benefits_summary": "Provides ₹10,000 for the marriage of the beneficiary and an additional ₹10,000 for each of up to two dependent children.",
+  "documents_required": [],
+  "application_link": null
+}

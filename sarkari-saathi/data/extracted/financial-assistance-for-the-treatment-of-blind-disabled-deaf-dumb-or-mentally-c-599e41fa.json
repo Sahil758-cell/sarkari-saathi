@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Financial Assistance for the Treatment of Blind, Disabled, Deaf, Dumb, or Mentally Challenged Ex-Servicemen and their Dependents (Wife and Children)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan.",
+    "Applicant must be either an ex‑serviceman of rank Havildar or below, or a dependent (wife, widow, son, or daughter) of such ex‑serviceman.",
+    "The ex‑serviceman or dependent must have a disability of 40% or more.",
+    "Parents are not eligible as dependents.",
+    "Both pensioners and non‑pensioners are eligible, but an ex‑serviceman receiving a disability pension cannot apply for himself and may only apply on behalf of a disabled family member.",
+    "A valid recommendation from the District Sainik Welfare Officer (DSWO) is mandatory.",
+    "Assistance can be availed by a maximum of two eligible family members per ex‑serviceman.",
+    "Application must be submitted through the District Sainik Welfare Office that issued the identity card.",
+    "Renewals are required every three years."
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹3,000, ₹2,000 or ₹1,000 for three years, based on disability percentage (≥80%, 60‑79%, 40‑59% respectively).",
+  "documents_required": [
+    "Application form (hard copy or downloaded)",
+    "Copies of mandatory documents as required by the application form",
+    "Recommendation letter from the District Sainik Welfare Officer (DSWO)",
+    "Discharge book or Part II Order showing the name of the disabled family member"
+  ],
+  "application_link": null
+}

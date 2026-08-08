@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Maharashtra)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability percentage must be 80% or more",
+    "Applicant must not be receiving pension benefits under any other social security scheme"
+  ],
+  "benefits_summary": "Monthly pension of ₹600.",
+  "documents_required": [],
+  "application_link": null
+}

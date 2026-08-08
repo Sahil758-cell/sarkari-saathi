@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Skill Development Training - 15 Days Recognition of Prior Learning (RPL) Training Programme at Work Site",
+  "occupation": [
+    "Masonry",
+    "Bar Bending",
+    "Plumbing & Sanitation",
+    "Electrical House Wiring",
+    "Painting",
+    "Welding",
+    "Drywall",
+    "False Ceiling",
+    "Building Carpentry",
+    "Formwork Carpentry"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered with the Telangana Building & Other Construction Workers Welfare Board.",
+    "The worker should have knowledge of Telugu, Hindi, and English language."
+  ],
+  "benefits_summary": "Stipend of ₹35 per hour for 120 hours (15 days) of training.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pension Scheme for Cancer Patients",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be suffering from cancer",
+    "No family member (father, mother, son(s), or unmarried daughter(s)) should be in government service"
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Marketing Development Assistance Scheme",
+  "occupation": [
+    "travel agents",
+    "inbound tour operators",
+    "tourist transport operators",
+    "classified hotels",
+    "classified bed & breakfast units",
+    "classified home stays",
+    "classified motels",
+    "guest houses",
+    "tented accommodation units",
+    "standalone restaurants",
+    "convention centers",
+    "online aggregators"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Provider must be approved by the Ministry of Tourism, Government of India, or the concerned State/UT Tourism Department.",
+    "Must have shown a minimum fee of ₹1.00 crore–₹2.00 crore in either 2018‑19 or 2019‑20 to be eligible for up to two tours in a financial year.",
+    "Must have shown a minimum fee of ₹2.00 crore or more in either 2018‑19 or 2019‑20 to be eligible for up to three tours in a financial year.",
+    "Tourism departments of State Governments/UT Administrations are eligible without having to meet the above fee and tour‑count conditions."
+  ],
+  "benefits_summary": "Financial support up to ₹3,50,000 per tour for eligible tourism service providers, up to ₹3,50,000 overall for state tourism departments, and 50% up to ₹1,00,000 per year for online promotion.",
+  "documents_required": [
+    "Prior approval application form (Annexure-I)",
+    "Claim application forms (Annexure-II, Annexure-III, Annexure-IV)",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

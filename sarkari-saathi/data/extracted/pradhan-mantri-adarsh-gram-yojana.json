@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pradhan Mantri Adarsh Gram Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Village must have Scheduled Caste population greater than 50% of its total population",
+    "Village total population must be greater than 500",
+    "Eligibility applies to villages across 25 States & UTs",
+    "Selection is made in descending order of SC population"
+  ],
+  "benefits_summary": "Provides comprehensive infrastructure and social development support to SC‑majority villages, covering roads, water, electricity, housing, sanitation, education, health, livelihood and community facilities.",
+  "documents_required": [],
+  "application_link": null
+}

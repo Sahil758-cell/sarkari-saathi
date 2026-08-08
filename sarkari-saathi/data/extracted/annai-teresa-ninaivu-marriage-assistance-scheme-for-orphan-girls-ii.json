@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Annai Teresa Ninaivu Marriage Assistance Scheme for Orphan Girls-II",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an orphan",
+    "Applicant must have a degree from regular colleges, distance education or a government‑recognized open university",
+    "Applicant must have a diploma from an institution recognized by the Directorate of Technical Education, Government of Tamil Nadu"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 and an 8 g 22‑carat gold coin for Thirumangalyam.",
+  "documents_required": [],
+  "application_link": null
+}

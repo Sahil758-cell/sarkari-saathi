@@ -1,0 +1,24 @@
+{
+  "scheme_name": "West Bengal Artisans Financial Benefit Scheme: Support for Digital Marketing",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an artisan or belong to any group of artisans of an industrial cooperative society",
+    "Applicant must be engaged in traditional craft/trade using hand tools, equipment, or small machines",
+    "Applicant must be enlisted in the State Portal for artisans & weavers",
+    "Applicant must be an Indian citizen and a permanent resident of West Bengal for the past 10 years"
+  ],
+  "benefits_summary": "Individual artisans receive ₹2,000, while industrial cooperative societies receive ₹10,000.",
+  "documents_required": [],
+  "application_link": null
+}

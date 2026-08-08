@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Laxman Award / Rani Laxmi Bai Award Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The sportsperson must be a bonafide native of Uttar Pradesh",
+    "Must have been a member of the state senior team for at least three consecutive years (e.g., 2018‑19, 2019‑20, 2020‑21)",
+    "Must have participated in the National Games or National Senior Championship and have won a medal in the award year",
+    "Participation in any listed international competitions (Olympic Games, World Championship/World Cup, Asian Games, Commonwealth Games, Asian Championship, Commonwealth Championship, SAF Games) makes the candidate eligible",
+    "Must submit an affidavit affirming no consumption of prohibited drugs in any competition",
+    "Must submit an oath confirming no criminal conviction or involvement in sexual harassment cases",
+    "Only one award can be given to a person and the award is not repeatable",
+    "Players who have only participated in National Senior Championships/National Games without international exposure are ineligible"
+  ],
+  "benefits_summary": "Recipients receive a citation, a bronze statue, a scroll, and a cash prize of ₹311,000.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport‑sized photograph",
+    "Affidavit confirming no drug use",
+    "Oath confirming no criminal or sexual harassment convictions",
+    "Copies of mandatory supporting documents (self‑attested)"
+  ],
+  "application_link": null
+}

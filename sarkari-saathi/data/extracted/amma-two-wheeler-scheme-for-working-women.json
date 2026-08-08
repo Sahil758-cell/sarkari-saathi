@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Amma Two Wheeler Scheme for Working Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must know how to drive and possess a valid Two Wheeler/Learner License Registration (LLR) at the time of applying",
+    "If applying with a Learner License, a valid Two Wheeler Driving License must be obtained before submitting the subsidy claim form",
+    "Applicant must attach a copy of the Two Wheeler Driving License with the claim form and produce the original for verification when required",
+    "Applicant must have appeared for the class 8th examination (passed or failed)",
+    "Only one woman per family is eligible for the benefit",
+    "Priority is given to women residing in remote or hilly areas, women‑headed households, deserted women, destitute widows, differently‑abled women, unmarried women above 35 years, Scheduled Caste/Tribe members, and transgender persons"
+  ],
+  "benefits_summary": "Provides up to 50% subsidy (maximum ₹25,000) for a gearless/auto‑geared two‑wheeler to eligible working women.",
+  "documents_required": [
+    "Copy of Two Wheeler Driving License",
+    "Original Driving License for verification",
+    "Learner License Registration (LLR)",
+    "Passport‑sized photograph",
+    "Aadhaar number",
+    "Proof of education (class 8th certificate)",
+    "Community certificate",
+    "Vehicle invoice quotation",
+    "Bank details for loan (if applicable)"
+  ],
+  "application_link": "https://pmmodiyojana.in/wp-content/uploads/2020/01/Application-Form-Rural.pdf, https://pmmodiyojana.in/wp-content/uploads/2020/01/Application-Form-Urban.pdf"
+}

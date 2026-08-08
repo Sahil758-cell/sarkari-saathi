@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Outstanding Exporter",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be functioning profitably.",
+    "The unit must have been exporting for at least 3 years.",
+    "The exporting industry must be a direct manufacture exporter.",
+    "At least 60% of the unit’s employment must be provided to people of the UT of Puducherry."
+  ],
+  "benefits_summary": "Cash award of ₹2,00,000 and a citation.",
+  "documents_required": [],
+  "application_link": null
+}

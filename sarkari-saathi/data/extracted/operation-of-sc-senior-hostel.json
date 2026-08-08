@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Operation of SC Senior Hostel",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh.",
+    "Applicant must be a regular student of a recognized institution.",
+    "Application must be submitted within one month after the fixed date for school admissions."
+  ],
+  "benefits_summary": "Provides free accommodation, boarding and lodging in separate hostels for SC students, along with sports equipment, library facilities and a scholarship.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

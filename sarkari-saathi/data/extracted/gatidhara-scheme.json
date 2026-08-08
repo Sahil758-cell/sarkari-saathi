@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Gatidhara Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 25,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of West Bengal.",
+    "Applicant must be enrolled in the Employment Bank of Labour Department, GOWB.",
+    "Family income must be less than ₹25000 per month.",
+    "More than one member of the same family is not eligible.",
+    "Age relaxation of 5 years for SC/ST and 3 years for OBC."
+  ],
+  "benefits_summary": "Provides a subsidy of 30% of the ex‑showroom price of a commercial vehicle, up to a maximum of ₹1,00,000.",
+  "documents_required": [],
+  "application_link": "https://employmentbankwb.gov.in/index.php"
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Sweekruti: Pre & Post Matric Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 240000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a transgender person.",
+    "Applicant must be a regular student at a recognized educational institution.",
+    "Applicant must not be receiving financial assistance from any other State or Central Government scheme.",
+    "Scholarship is applicable only for studies conducted in India."
+  ],
+  "benefits_summary": "Monthly scholarship ranging from ₹1,000 to ₹3,000 depending on the level of study.",
+  "documents_required": [],
+  "application_link": null
+}

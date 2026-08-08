@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Bihar Rajya Fasal Sahayata Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmer must be cultivating own land or land of others and be affected by a natural calamity such as flood or drought",
+    "Crop must be one of the covered crops: Aghani paddy in specified gram panchayats of 527 circles across 38 districts (excluding certain circles), Bhadai‑Maize in all gram panchayats of 534 circles across 38 districts, or soybean in Begusarai, Samastipur, and Khagaria districts",
+    "Farmer must be located in the notified districts/gram panchayats for the respective crop"
+  ],
+  "benefits_summary": "Assistance of up to ₹15,000 (₹7,500 per hectare) for up to 2 hectares if yield loss is 20%, or up to ₹20,000 (₹10,000 per hectare) for up to 2 hectares if loss exceeds 20%.",
+  "documents_required": [],
+  "application_link": "https://dbtagriculture.bihar.gov.in/"
+}

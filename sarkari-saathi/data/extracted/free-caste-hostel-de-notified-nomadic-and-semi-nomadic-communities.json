@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Free Caste Hostel (De-Notified, Nomadic and Semi-Nomadic Communities)",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student belonging to the De-Notified, Nomadic, or Semi-Nomadic tribes",
+    "Applicant must be studying in a local educational institution",
+    "Applicant must apply for admission before the new academic session",
+    "Applicant must secure a vacant seat as new admissions depend on availability",
+    "Applicant must have a higher percentage in the last passed examination for priority admission"
+  ],
+  "benefits_summary": "Scholarship of ₹1,230 per month for boys and ₹1,270 per month for girls, payable for 10 months.",
+  "documents_required": [],
+  "application_link": null
+}

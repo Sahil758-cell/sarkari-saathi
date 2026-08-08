@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Buffalo Entrepreneurship Development Scheme",
+  "occupation": [
+    "farmer",
+    "entrepreneur",
+    "SHG member"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must purchase two graded Murrah She Buffaloes, preferably in the 1st or 2nd lactation, yielding at least 8 litres of milk per day",
+    "Only one individual per family can avail assistance",
+    "For PwD applicants, disability must be more than 40%"
+  ],
+  "benefits_summary": "Back-ended subsidy of 60% for SC, ST, PwD, Women and Transgender beneficiaries and 50% for General category, released in two phases to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

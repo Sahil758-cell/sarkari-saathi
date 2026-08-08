@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Transgender Utthan Kosh - Post Matric Scholarship for Studying Transgender",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the transgender community",
+    "Applicant must be studying at the post-matric level",
+    "Applicant must be enrolled in a recognized school or college in Rajasthan"
+  ],
+  "benefits_summary": "Monthly scholarship of ₹1,000 for up to 10 months per student.",
+  "documents_required": [],
+  "application_link": null
+}

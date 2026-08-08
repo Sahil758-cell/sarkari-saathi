@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Minor Irrigation",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "engaged in agriculture",
+    "in need of support for minor irrigation",
+    "interested in availing of the loan for minor irrigation",
+    "intention to use the loan specifically for minor irrigation"
+  ],
+  "benefits_summary": "Loan of ₹65,000 to ₹1,20,000 at an interest rate of 11% to 11.75%.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

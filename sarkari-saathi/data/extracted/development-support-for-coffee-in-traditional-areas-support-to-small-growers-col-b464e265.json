@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Development Support for Coffee in Traditional Areas: Support to Small Growers' Collectives/ SHGs/ Cooperatives for Coffee Marketing",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must belong to Small Growers' Collectives, Self Help Groups (SHGs) or Co‑operatives operating in traditional coffee‑growing states",
+    "Applicants must engage in marketing of clean (green bean) coffee only, under the name of the respective collective/SHG/co‑operative",
+    "Marketing must be conducted through recognized public auction platforms (e.g., Indian Coffee Trade Association), direct export, or recognized commodity exchanges that allow physical delivery of coffee",
+    "Applicants who have already received a subsidy for the same activity/component under the MIDH period are not eligible for another subsidy unless they represent new beneficiaries"
+  ],
+  "benefits_summary": "Subsidy of ₹4 per kilogram of clean (green bean) coffee is provided to eligible collectives.",
+  "documents_required": [
+    "Prescribed application form for claim reimbursement",
+    "Proofs/supportive documents accompanying the application",
+    "Sale note issued by the auctioneers or commodity exchange"
+  ],
+  "application_link": null
+}

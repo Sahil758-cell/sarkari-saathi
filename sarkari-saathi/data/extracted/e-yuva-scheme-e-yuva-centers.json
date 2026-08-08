@@ -1,0 +1,29 @@
+{
+  "scheme_name": "E-YUVA Scheme: E-YUVA Centers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "University/Institution must be a legal entity under Indian law with at least 51% Indian stakeholders",
+    "Applicant institution should be located in Tier II/III cities (encouraged)",
+    "Institution may be public (Central/State) or private owned",
+    "Must have a Department in the Life Sciences stream (Biotechnology, Biosciences, Agriculture, Horticulture, Food Technology, etc.)",
+    "Institution age must be at least 3 years",
+    "Must have an innovation‑supporting body such as an E‑Cell, Institutional Innovation Council, IP Cell, TTO or Incubation centre",
+    "Must provide dedicated space of approximately 3,000 sq ft. with relevant infrastructure ready for use",
+    "Must be connected with a Bio‑incubator",
+    "Must have a network of experts for technical/business mentorship to fellows",
+    "Head of the University/Institution must appoint/nominate a Project Lead as the contact point for BIRAC EYC",
+    "Applications must be routed through the Head of the University/Institution and submitted online via the BIRAC website"
+  ],
+  "benefits_summary": "Provides up to INR 107.5 lakh over three years for infrastructure setup, recurring operational costs, workshops and mentorship to E‑YUVA Centers",
+  "documents_required": [],
+  "application_link": "https://www.birac.nic.in"
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Incentive Scheme For The Electricity Consumers Under Various Categories In Andaman & Nicobar Islands",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have installed Solar Water Heating System, Rooftop Solar or Ground Mounted Solar for domestic requirements.",
+    "Energy meter must be in running condition.",
+    "Electricity bills must be paid up to date.",
+    "Meter ownership must be in the name of the beneficiary, who must be present if called for evaluation.",
+    "Minimum energy savings must exceed 30% based on past three months average consumption."
+  ],
+  "benefits_summary": "Monetary incentives up to ₹75,000 are offered to domestic, commercial, and industrial consumers based on achieved energy savings.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Social Security Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Chhattisgarh",
+    "Applicant must be a person with a disability or a dwarf",
+    "Applicant must be listed in the Below Poverty Line (BPL) families",
+    "Children with disabilities aged 6-17 are eligible; those aged 6-14 must be attending school",
+    "Persons with disabilities aged 18 or above must have a disability of 40% or more",
+    "Applicant must not be receiving pension benefits from any other central or state government pension scheme"
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a pension of ₹500 per month, directly transferred to their bank account.",
+  "documents_required": [],
+  "application_link": null
+}

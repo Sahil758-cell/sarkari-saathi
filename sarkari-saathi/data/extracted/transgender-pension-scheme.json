@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Transgender Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a transgender identity certificate issued by the District Magistrate or Sub-Divisional Magistrate."
+  ],
+  "benefits_summary": "Monthly pension of Rs. 650 for transgender BPL beneficiaries above 18, and Rs. 1200 for those above 80 years or with 70% disability.",
+  "documents_required": [
+    "BPL card",
+    "bank account details",
+    "transgender identity certificate"
+  ],
+  "application_link": null
+}

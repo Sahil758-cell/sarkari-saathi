@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Haryana Shubhra Jyotsna Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have actively participated and struggled during the emergency period (25‑06‑1975 to 21‑03‑1977) and have been imprisoned for any duration under the MISA Act, 1971 and/or the Defence of India Act, 1962",
+    "Widows of such persons are also eligible",
+    "Beneficiary must be a resident of Haryana (or a person domiciled in another state who was arrested and jailed in Haryana)",
+    "Must produce a jail certificate issued by the Jail Superintendent and countersigned by the District Magistrate, or if unavailable, a certificate from two co‑prisoners authenticated by an MLA or MP of the concerned district",
+    "Must open an Aadhaar‑linked savings bank account in any nationalised bank and provide a yearly “live certificate” in January",
+    "If the beneficiary dies, the monthly pension continues to the surviving spouse",
+    "Applicant can apply from only one district and must submit an affidavit confirming no application has been made in any other district",
+    "If receiving a pension from another State Government for the same purpose, the amount received will be deducted from the ₹10,000 pension (except for old‑age pension)"
+  ],
+  "benefits_summary": "Eligible emergency sufferers receive a monthly pension of ₹10,000.",
+  "documents_required": [
+    "Jail certificate issued by the Jail Superintendent and countersigned by the District Magistrate",
+    "Certificate from two co‑prisoners authenticated by an MLA or MP (if jail certificate is unavailable)",
+    "Affidavit confirming the applicant has not applied from any other district",
+    "Proof of Aadhaar‑linked savings bank account (bank account details)"
+  ],
+  "application_link": null
+}

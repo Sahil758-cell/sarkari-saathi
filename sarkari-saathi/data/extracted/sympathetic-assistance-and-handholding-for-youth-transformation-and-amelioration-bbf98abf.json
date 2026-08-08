@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Sympathetic Assistance and Handholding for Youth Transformation and Amelioration - SAHAYTA",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu and Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Jammu and Kashmir and be a victim of an insurgency‑related incident (loss of a family member or permanent incapacitation) in that region.",
+    "Permanent incapacitation is defined as a disability of 50% or more that is permanent and prevents the victim from working.",
+    "Persons involved in anti‑national activities, directly or indirectly, and their family members are not eligible for assistance."
+  ],
+  "benefits_summary": "Provides up to ₹2,00,000 financial assistance for setting up a self‑employment venture; any cost exceeding this amount must be self‑financed or obtained as a Mudra loan.",
+  "documents_required": [
+    "Certificate regarding non‑involvement in militancy/anti‑national activities from the concerned SDPO",
+    "Death cum Post Mortem Certificate (if applicable)",
+    "Medical Certificate (in case of incapacitation of 50% and above)",
+    "Proof showing relationship of the beneficiary with the victim (not required if victim is the claimant)",
+    "Date of Birth Certificate",
+    "Unemployment certificate from Employment Department",
+    "Project report/details about the self‑employment unit to be set up by the applicant",
+    "Undertaking/NOC from other family members that they have no objection to the benefit under the scheme"
+  ],
+  "application_link": null
+}

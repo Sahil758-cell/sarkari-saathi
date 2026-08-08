@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Security Related Expenditure (Relief and Rehabilitation)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a Kashmir or Jammu migrant.",
+    "Next of Kin of civilians killed in militancy‑related incidents are eligible for compensation.",
+    "Widows of civilians killed in militancy‑related violence are eligible for a monthly pension.",
+    "Orphans affected by militancy are eligible for scholarships and vocational training support.",
+    "Individuals with over 50% disability due to cross‑border firing are eligible for ex‑gratia cash relief.",
+    "Families of West Pakistani refugees are eligible for financial assistance.",
+    "Former militants who surrender may receive a stipend and grant."
+  ],
+  "benefits_summary": "Provides cash relief, pensions, scholarships, compensation and rehabilitation assistance to Kashmir and Jammu migrants and related beneficiaries, including housing, employment support and ex‑gratia payments.",
+  "documents_required": [
+    "Prescribed proforma for claims"
+  ],
+  "application_link": null
+}

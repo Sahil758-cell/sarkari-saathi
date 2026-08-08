@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Minister Sustainable Agriculture Irrigation Scheme - Magel Tyala Shettale (Individual Farm Pond)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmer must hold a minimum of 0.20 ha land in the Kokan region or 0.40 ha land elsewhere in Maharashtra",
+    "The applicant's land must be technically suitable for digging a farm pond to store runoff rainwater",
+    "For ponds without inlet and outlet, there must be a natural source to lift and store extra runoff during the rainy season",
+    "The farmer must not have previously availed any subsidy for a farm pond, community tank, bodi in paddy bunding, or any other government scheme"
+  ],
+  "benefits_summary": "Provides a financial subsidy of Rs 14,433 to Rs 75,000 per farmer for constructing an individual farm pond.",
+  "documents_required": [],
+  "application_link": "https://mahadbt.maharashtra.gov.in/"
+}

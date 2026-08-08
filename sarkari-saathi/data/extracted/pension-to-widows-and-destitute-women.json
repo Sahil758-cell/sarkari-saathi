@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pension to Widows and Destitute Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a widow or a destitute woman without a husband, parents, or children",
+    "Must be a destitute woman due to desertion or the physical/mental incapacity of her husband (for married women) or parents (for other women)",
+    "Must be a permanent resident of Haryana and have resided in the state for at least one year at the time of application"
+  ],
+  "benefits_summary": "A pension of ₹2,500 per month is provided to eligible widows and destitute women.",
+  "documents_required": [
+    "Application form in the prescribed format",
+    "Recent passport-size photograph"
+  ],
+  "application_link": null
+}

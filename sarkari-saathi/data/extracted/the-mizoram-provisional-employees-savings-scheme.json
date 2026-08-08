@@ -1,0 +1,27 @@
+{
+  "scheme_name": "The Mizoram Provisional Employees Savings Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Provisional employees must have their engagement approved by the Department of Personnel & Administrative Reforms (DP&AR) and the Finance Department of Mizoram",
+    "Employees must be registered under the Mizoram Employee Provident Scheme",
+    "Employees must nominate family members as beneficiaries",
+    "Contribution starts from the month following the month of joining the service",
+    "Partial withdrawals are allowed only after a minimum of 5 years of participation and are limited to ¼ of the account balance, up to two times during the entire service"
+  ],
+  "benefits_summary": "Provides provisional employees with a pension through mandatory monthly contributions and offers flexible partial and exit withdrawals for education, marriage, housing, and medical needs.",
+  "documents_required": [
+    "Form-I"
+  ],
+  "application_link": null
+}

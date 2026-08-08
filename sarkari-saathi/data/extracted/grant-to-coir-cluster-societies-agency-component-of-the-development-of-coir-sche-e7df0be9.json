@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant to Coir Cluster/Societies/Agency Component of the Development of Coir Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should be a cluster/society/agency.",
+    "Applicant should be engaged in coir product activities.",
+    "Members of the organization should be coir artisans.",
+    "Applicant should be registered under the Co-operative Act or any other Societies Act."
+  ],
+  "benefits_summary": "Grant of ₹2,00,000 per year for five years for administrative and developmental expenses.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

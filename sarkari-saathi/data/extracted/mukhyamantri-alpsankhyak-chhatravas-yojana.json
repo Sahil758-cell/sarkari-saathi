@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Alpsankhyak Chhatravas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Bihar.",
+    "Must be a student.",
+    "Must belong to a minority community.",
+    "Must be enrolled in a recognized institution, school, college, university, or technical institution in their respective district.",
+    "Must be pursuing a course recognized by the Government.",
+    "Must reside in a hostel operated by the Minority Welfare Department, Government of Bihar."
+  ],
+  "benefits_summary": "Monthly stipend of ₹1,000 along with essential hostel facilities and a monthly allocation of 9 kg rice and 6 kg wheat.",
+  "documents_required": [],
+  "application_link": null
+}

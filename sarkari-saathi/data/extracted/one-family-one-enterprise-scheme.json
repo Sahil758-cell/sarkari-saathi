@@ -1,0 +1,31 @@
+{
+  "scheme_name": "One Family One Enterprise Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must be a new micro, small or medium enterprise engaged in manufacturing, service or trading activities",
+    "The enterprise must have availed a Term Loan and/or Working Capital Loan",
+    "Operations/production must have commenced on or after 01/04/2022",
+    "The unit must have a valid Udyam Registration",
+    "Loan accounts must not be classified as NPA at the time of claim submission",
+    "The unit must be operational at the time of application",
+    "The unit must not have received any grant assistance under any Central, State or Local government scheme, except for units covered under the PMFME scheme as described",
+    "Units supported under the PMFME scheme are eligible for the working‑capital portion up to ₹10 lakh if they commenced production after expansion/modernisation/diversification on or after 01/04/2022"
+  ],
+  "benefits_summary": "Interest subvention of up to 6% (difference between bank rate and 4%) on loans up to ₹10 lakh for a five‑year period.",
+  "documents_required": [
+    "Loan remittance particulars",
+    "Bank certificate for loan remittance",
+    "Udyam Registration certificate",
+    "Relevant documents submitted with the application to the Recommending Authority"
+  ],
+  "application_link": null
+}

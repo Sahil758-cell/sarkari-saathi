@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Family Pension (DBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased should have been a pensioner of the Board.",
+    "The applicant should be a family member or a dependent of the deceased."
+  ],
+  "benefits_summary": "Family pension provides 50% of the pension amount or ₹1,500, whichever is higher.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Additional Pension to 100% Disabled Ex-Serviceman having No Child",
+  "occupation": [
+    "Ex-serviceman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have 100% disability attributable to service",
+    "Applicant must have no children",
+    "Applicant must be a permanent resident of Haryana"
+  ],
+  "benefits_summary": "An additional ₹100 per month is paid to 100% disabled ex‑servicemen with no children, for life.",
+  "documents_required": [],
+  "application_link": null
+}

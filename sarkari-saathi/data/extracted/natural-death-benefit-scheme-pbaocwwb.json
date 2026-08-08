@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Natural Death Benefit Scheme (PBAOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the nominee or dependent of the deceased construction worker.",
+    "The deceased construction worker must have been a citizen of India.",
+    "The deceased must have been registered as a construction worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+    "The deceased must have been at least 18 years old during their lifetime.",
+    "The deceased must not have turned 60 years old within the 12 months preceding the application.",
+    "The deceased must have contributed regularly to the welfare fund.",
+    "The deceased must not have defaulted on contributions for a continuous period of more than one year.",
+    "The application must be submitted within two months of the worker's death."
+  ],
+  "benefits_summary": "Financial assistance of ₹70,000 is transferred directly to the nominee’s bank account within one month of application.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

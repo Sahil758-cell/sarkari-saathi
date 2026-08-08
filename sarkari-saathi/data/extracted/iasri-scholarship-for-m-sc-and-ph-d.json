@@ -1,0 +1,33 @@
+{
+  "scheme_name": "IASRI Scholarship For M.Sc And Ph.D",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Minimum residential requirement of 2 academic years from the date of admission",
+    "Maximum time limit for completion of the M.Sc. programme is 4 years (2 years for agricultural stream, 3 years for non‑agricultural stream)",
+    "Applicants must hold a B.Sc. degree in Agriculture/Horticulture/Forestry/Agroforestry/Sericulture/Agricultural Marketing or a 10+2+3 system B.Sc. with at least 60% marks for general category or 55% for SC/ST/PH candidates",
+    "Age is reckoned as of 31 July of the year of admission",
+    "Foreign student applicants must be sponsored by the Government of India/DARE/ICAR and apply through their respective embassies or Indian missions abroad",
+    "Foreign students are exempted from the written test and interview; admission is based on biodata and professor recommendation"
+  ],
+  "benefits_summary": "Scholarship of Rs.7,500 per month plus a contingent grant of Rs.6,000 per annum for eligible M.Sc. students.",
+  "documents_required": [
+    "Matriculation certificate",
+    "Qualifying degree certificate",
+    "Photograph (10‑100 KB)",
+    "Signature (10‑20 KB)"
+  ],
+  "application_link": "http://pgs.iasri.res.in"
+}

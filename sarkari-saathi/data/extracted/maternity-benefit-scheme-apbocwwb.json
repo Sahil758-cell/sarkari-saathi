@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Maternity Benefit Scheme (APBOCWWB)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered woman construction worker under APBOCWWB, or the wife of a registered male worker, or their daughter.",
+    "Applicant must be pregnant.",
+    "Benefit is available only for the first two live births.",
+    "The worker must have completed at least one year of registration with the board before applying.",
+    "The claim must be submitted within six months of childbirth."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹20,000 to support women workers, their wives, and daughters during maternity.",
+  "documents_required": [],
+  "application_link": null
+}

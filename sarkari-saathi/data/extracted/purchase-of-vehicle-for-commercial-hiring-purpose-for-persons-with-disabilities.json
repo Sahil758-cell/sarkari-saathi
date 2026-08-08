@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Purchase of Vehicle for Commercial Hiring Purpose for Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of at least 40% required",
+    "Age must be above 18 years; for persons with mental retardation, minimum age is 14 years",
+    "The applicant must be a permanent resident of Haryana",
+    "License must comply with the policy of the National Corporation"
+  ],
+  "benefits_summary": "Loans up to ₹10 lakh for commercial hiring and up to ₹25 lakh for purchase of special category vehicles for persons with disability of ≥40%.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

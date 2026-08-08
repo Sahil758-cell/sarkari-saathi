@@ -1,0 +1,28 @@
+{
+  "scheme_name": "IVRI Institute Scholarship For M.V.Sc. And Ph.D.",
+  "occupation": null,
+  "gender": null,
+  "age_min": 23,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Admission must be through a competitive entrance examination for MVSc/PhD programmes",
+    "Applicants must hold a Bachelor’s degree in Veterinary Science with at least 60% marks (55% for SC/ST or sponsored candidates)",
+    "PhD applicants must hold an MVSc degree with minimum CGPA of 6.50/10 (General/OBC) or 5.50/10 (SC/ST/physically‑challenged/sponsored) or equivalent marks (60% for General/OBC, 50% for SC/ST/physically‑challenged/sponsored)",
+    "Scholarship recipients must maintain a CGPA of 7.00 out of 10 at the end of each semester for Masters or Doctoral programmes",
+    "Minimum qualifying marks in the entrance examination are 50% for General candidates, 48% for OBC candidates, and 45% for SC/ST candidates"
+  ],
+  "benefits_summary": "Masters scholars receive ₹7,560 per month for two years plus a ₹6,000 per annum contingent grant; PhD scholars receive ₹13,125 per month for three years plus a ₹10,000 per annum contingent grant.",
+  "documents_required": [],
+  "application_link": "http://www.ivri.nic.in"
+}

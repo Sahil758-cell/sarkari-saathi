@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Samagr Samajik Suraksha Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Destitute‑aged persons above 60 years",
+    "Widows (Kalyani) above 18 years who are not income taxpayers",
+    "Unmarried women above 50 years who are not income taxpayers",
+    "Abandoned women aged 18 to 59 years living below the poverty line",
+    "Disabled persons aged 6 to 18 years with disability 40% or more who are not income taxpayers",
+    "Inmates living in old age homes who are more than 60 years old"
+  ],
+  "benefits_summary": "Pension amount of Rs. 600 per month.",
+  "documents_required": [],
+  "application_link": null
+}

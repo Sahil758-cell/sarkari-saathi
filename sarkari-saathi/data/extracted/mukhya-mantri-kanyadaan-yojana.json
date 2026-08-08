@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhya Mantri Kanyadaan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 35000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Father is not alive or is incapacitated/bedridden due to physical or mental disability",
+    "Guardian/family annual income must not exceed ₹35,000 (excluding MNREGA income)",
+    "Orphan or neglected girls/women, including inmates of Nari Niketan or former inmates of Balika Ashrams, with no regular source of income",
+    "Deserted or divorced women whose income does not exceed ₹35,000 per annum",
+    "Girls/women in moral danger or rescued from trafficking",
+    "Destitute women or girls released after imprisonment",
+    "Daughters of divorced or deserted women with family income not exceeding ₹35,000 per annum"
+  ],
+  "benefits_summary": "A marriage grant of ₹40,000 for eligible girls/women (₹51,000 for inmates of Nari Sewa Sadan/Nari Niketan) is provided to cover marriage expenses.",
+  "documents_required": [],
+  "application_link": null
+}

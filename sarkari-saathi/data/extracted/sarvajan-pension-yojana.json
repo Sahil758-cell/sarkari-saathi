@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Sarvajan Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a resident of Jharkhand",
+    "Beneficiary must be one of the following: elderly (age 60 years or above), widows, destitute women (age 18 years or above), differently‑abled persons (age 5 years or above), members of primitive tribes, or HIV/AIDS patients"
+  ],
+  "benefits_summary": "A monthly pension of ₹1,000 is provided to each eligible beneficiary.",
+  "documents_required": [],
+  "application_link": "Step 1: The interested applicant should visit (during office hours) the Block Development Officer in the rural area and the Circle Officer in the urban area and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the Block Development Officer in the rural area and the Circle Officer in the urban area. Step 4: Request a receipt or acknowledgment from the Block Development Officer in the rural area and the Circle Officer in the urban area to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+}

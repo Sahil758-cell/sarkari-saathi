@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Housing Assistance Scheme (UKBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board",
+    "Must have been a member of the fund for five years",
+    "Must have at least 15 years remaining before reaching superannuation/retirement",
+    "Must have worked as a construction worker for at least 90 days during the preceding year"
+  ],
+  "benefits_summary": "Advance loan up to ₹50,000 for house purchase or construction with interest of at least 5% per annum.",
+  "documents_required": [],
+  "application_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+}

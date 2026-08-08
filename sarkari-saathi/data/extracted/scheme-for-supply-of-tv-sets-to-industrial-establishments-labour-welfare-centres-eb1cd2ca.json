@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme for Supply of TV Sets to Industrial Establishments/Labour Welfare Centres/Clubs/Recreation Rooms",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Industrial Establishment or Labour Welfare Centre run by the Government of Goa",
+    "The applicant may be a Club or Recreation Room run by a Registered Trade Union that has 300 or more members",
+    "Preference is given to applicants situated in labour‑concentrated areas",
+    "The beneficiary establishment must enter into an agreement with the Goa Labour Welfare Board to keep the TV set in good working condition and exhibit programmes for workers on a daily basis"
+  ],
+  "benefits_summary": "One coloured TV set (up to ₹25,000) including all accessories is provided to the eligible establishment.",
+  "documents_required": [],
+  "application_link": null
+}

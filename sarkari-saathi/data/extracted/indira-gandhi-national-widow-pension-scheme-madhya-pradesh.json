@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme-Madhya Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 40,
+  "age_max": 79,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow"
+  ],
+  "benefits_summary": "Monthly pension of ₹600",
+  "documents_required": [
+    "Prescribed application form",
+    "Three photographs",
+    "Certificate for confirmation of age",
+    "Samagra ID",
+    "BPL card"
+  ],
+  "application_link": null
+}

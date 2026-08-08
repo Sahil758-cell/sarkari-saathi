@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Free Motorized Tricycle Scheme for Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": 16,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have good eyesight, mental capacity, and sufficient upper‑body strength to operate the tricycle while seated",
+    "Applicant must not have previously received a motorized tricycle from any government or government‑funded source",
+    "Only one benefit can be received per eligible person"
+  ],
+  "benefits_summary": "Provides a free motorized tricycle up to a maximum grant of ₹25,000 per eligible person with disability; any cost beyond this amount is borne by the beneficiary.",
+  "documents_required": [
+    "Finality certificate",
+    "Address proof",
+    "Income certificate",
+    "Aadhaar Card/Other Certificate",
+    "Caste certificate",
+    "Certificate given by START organization"
+  ],
+  "application_link": null
+}

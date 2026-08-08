@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Accidental Death Assistance Scheme- Gujarat Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker (Shramyogi) must be employed in a factory/company/organisation that has regularly paid its Labour Welfare Fund.",
+    "Benefit is available only for deaths caused by accidents occurring during the course of employment; deaths due to sickness or natural causes are excluded.",
+    "The benefit entitlement starts from the day after the worker joins the job.",
+    "The application must be submitted within 2 years from the date of the worker’s death; applications received later are processed at the office.",
+    "For accidental deaths occurring inside the factory, an accident report must be submitted by the Director, Office of Industrial Safety and Health.",
+    "For accidental deaths occurring outside the factory, an affidavit must be provided by the owner/manager of the concerned factory/company/organisation.",
+    "The final decision on assistance is taken by the Welfare Commissioner located in Ahmedabad."
+  ],
+  "benefits_summary": "Families of workers who die in an accident during employment receive a financial assistance of ₹2,00,000.",
+  "documents_required": [
+    "Accident report from the Director, Office of Industrial Safety and Health",
+    "Affidavit from the owner/manager of the factory/company/organization"
+  ],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

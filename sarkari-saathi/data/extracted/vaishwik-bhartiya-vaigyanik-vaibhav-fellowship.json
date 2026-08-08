@@ -1,0 +1,27 @@
+{
+  "scheme_name": "VAIshwik BHArtiya Vaigyanik (VAIBHAV) Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Non‑Resident Indian (NRI), Person of Indian Origin (PIO) or Overseas Citizen of India (OCI) currently working abroad.",
+    "Applicant must hold a Ph.D., M.D., M.S. or M.Tech degree from a recognized university.",
+    "Applicant must be engaged in active research.",
+    "Applicant must have worked for at least 5 years in an Institute/University that is ranked in the top‑200 of the QS World University Ranking (subject‑wise) in a regular/tenure position, or at least 5 years in a reputable foreign industry or research laboratory (cannot be a Ph.D. or post‑doctoral fellow).",
+    "Host Indian institution must be a Higher Educational Institution/University ranked in the top 200 in NIRF overall rankings or have NAAC ‘A+’ grade or above, or be a public‑funded scientific institute/national laboratory.",
+    "A consent letter from the Head of the Host Institute is mandatory.",
+    "Application must be submitted online through the DST e‑PMS portal after registering with an active e‑mail ID."
+  ],
+  "benefits_summary": "The fellowship provides up to ₹4,00,000 per month for a maximum of 2 months per year, along with travel, accommodation, and a research grant of up to ₹5 Lakhs per year for a period of up to 3 years.",
+  "documents_required": [
+    "Consent letter from the Head of the Host Institute"
+  ],
+  "application_link": null
+}

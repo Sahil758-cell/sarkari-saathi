@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Shaheed Gram Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST",
+    "SC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The family must reside in one of the selected Shaheed villages.",
+    "The family must live in a kutcha house.",
+    "The family should not have availed any housing scheme benefits in the last 5 years.",
+    "Priority is given to descendants of freedom fighters from the selected villages."
+  ],
+  "benefits_summary": "Housing assistance of ₹2,63,000 per family along with infrastructure development such as roads, drains, Anganwadi centres, libraries, sports resources, solar lamps, piped water supply, and cooking gas connections.",
+  "documents_required": [],
+  "application_link": null
+}

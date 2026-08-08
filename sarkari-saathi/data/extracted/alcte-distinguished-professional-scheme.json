@@ -1,0 +1,28 @@
+{
+  "scheme_name": "AlCTE - Distinguished Professional Scheme",
+  "occupation": [
+    "professionals",
+    "emeritus professors",
+    "eminent personalities"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 75,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have made unparalleled technical or professional contributions to society in their respective field",
+    "Applicant should be an acknowledged leader in their particular field with active engagement in research, technology development, and innovation",
+    "Applicant must conduct at least 2 visits per month with a maximum of 12 visits per year",
+    "Professionals are encouraged to visit at least three rural institutions per year"
+  ],
+  "benefits_summary": "Honorarium of ₹15,000 per day for full‑day interactions with faculty/students; travel and local hospitality arranged by the host institution.",
+  "documents_required": [
+    "Honorarium form"
+  ],
+  "application_link": null
+}

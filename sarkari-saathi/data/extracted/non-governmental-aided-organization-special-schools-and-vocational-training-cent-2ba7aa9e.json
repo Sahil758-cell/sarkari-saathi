@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Non-Governmental Aided Organization (Special Schools And Vocational Training Centre) For Disabled",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India",
+    "Must be a permanent resident of Maharashtra",
+    "Must be enrolled in a Non‑Government Institution/Residential Institution",
+    "Must be a person with disability having at least 40% disability (including visual, hearing, orthopaedic, etc.)"
+  ],
+  "benefits_summary": "Free special education for disabled children up to age 18 and free vocational training for disabled youth 18 years and above, with food, shelter and education provided in residential institutions.",
+  "documents_required": [],
+  "application_link": null
+}

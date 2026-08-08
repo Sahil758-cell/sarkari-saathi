@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Cash Award (APB&OCWWB)",
+  "occupation": [
+    "Building and Other Construction"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be a permanent resident of Arunachal Pradesh",
+    "The worker must be employed in building and other construction works",
+    "The worker must be registered with the Labour Welfare Board (APB&OCWWB)",
+    "The worker’s membership must be active",
+    "Children must have passed the Class X and XII board or equivalent examinations",
+    "One son and one daughter of the registered worker, who secure the highest marks in their district in the Metric examination, are eligible"
+  ],
+  "benefits_summary": "Cash assistance of ₹500, ₹750 and ₹1000.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Manav Garima Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants who have previously benefited from this scheme or whose family members have already benefited are not eligible.",
+    "Applicants belonging to the Most Backward Caste among the Scheduled Castes category have no income limit."
+  ],
+  "benefits_summary": "Provides tool kits for 28 types of trades to self‑employed Scheduled Caste individuals.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

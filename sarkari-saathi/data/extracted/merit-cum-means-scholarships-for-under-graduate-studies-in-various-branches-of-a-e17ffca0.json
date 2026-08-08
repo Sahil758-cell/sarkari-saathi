@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Merit·cum·Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domiciled Indian student pursuing undergraduate studies in Agriculture, Agricultural Engineering, Home Science, Dairy or Animal Husbandry",
+    "Must have secured at least 60% marks or equivalent grade points in the qualifying examination",
+    "Family's annual income must not exceed ₹1,00,000 (Means Test)",
+    "In case of a tie, merit is considered on inter‑se merit with preference to higher marks in science subjects",
+    "No provision for a half scholarship; if income exceeds the limit, the applicant is not eligible for the scholarship"
+  ],
+  "benefits_summary": "₹1,000 per month scholarship for the full duration of the undergraduate degree.",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": "https://education.icar.gov.in/pdf/format-MCM-2017.pdf"
+}

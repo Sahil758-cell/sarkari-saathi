@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Sikkim Grant Of Award To Transgender",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be transgender.",
+    "Applicant must not be a recipient of salary, pension, or family pension from the Central or any State Government.",
+    "Applicant must have an active bank account under the Pradhan Mantri Jan Dhan Yojana scheme.",
+    "Grant payments cease upon the beneficiary’s death or permanent migration outside Sikkim."
+  ],
+  "benefits_summary": "Monthly cash assistance of ₹12,000 for transgender children (0‑6 years) and ₹500 for unemployed qualified individuals, plus free education up to graduation.",
+  "documents_required": [],
+  "application_link": null
+}

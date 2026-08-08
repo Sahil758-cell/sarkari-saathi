@@ -1,0 +1,24 @@
+{
+  "scheme_name": "National Awards to Teachers",
+  "occupation": [
+    "School teacher",
+    "Head of School"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a regular school teacher or Head of School with at least ten years of service",
+    "Retired teachers are generally ineligible, except if they served at least four months of the relevant calendar year",
+    "School must be a recognised primary, middle, secondary or higher secondary school under categories such as State/UT government schools, local‑body schools, aided schools, private schools affiliated to State/UT boards, Central Government schools (KVs, JNVs, Sainik Schools, AEES, EMRS), CBSE‑affiliated schools (excluding the Central Government schools listed), and CISCE‑affiliated schools (excluding the Central Government schools listed)"
+  ],
+  "benefits_summary": "Public recognition by the President or Vice President of India on Teacher's Day for meritorious teachers",
+  "documents_required": [],
+  "application_link": null
+}

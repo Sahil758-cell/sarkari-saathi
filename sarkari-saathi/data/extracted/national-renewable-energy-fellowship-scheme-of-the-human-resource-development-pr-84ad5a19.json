@@ -1,0 +1,25 @@
+{
+  "scheme_name": "National Renewable Energy Fellowship Scheme of the Human Resource Development Programme in New and Renewable Energy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be pursuing higher studies in renewable energy (M.Sc, M.Tech, PhD) or be a Research Associate/post‑doctoral fellow",
+    "Fellowships are only for courses on renewable energy subjects",
+    "Selection for M.Tech/PhD programmes must be through GATE, CSIR, CSIR‑JRF, AICTE or NET qualified scores",
+    "M.Sc fellowships are limited to students pursuing an M.Sc in renewable energy who have qualified NET",
+    "Eligibility for JRF/SRF/RA/PDF follows CSIR/DST/UGC norms",
+    "Eligibility for M.Tech follows AICTE guidelines and for M.Sc follows Department of Biotechnology norms",
+    "Institutes must be within the Top 100 of the NIRF rankings and have the required faculty and infrastructure for renewable energy education and research"
+  ],
+  "benefits_summary": "Monthly fellowship stipends ranging from ₹4,000 to ₹54,000 depending on the programme, with HRA and contingency benefits where applicable.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Minister’s Scheme For Wood Carving Artists",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": 25,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Preference given to candidates who have at least Class‑VIII education (though no minimum qualification is required)",
+    "Preference given to candidates possessing an experience certificate in trading"
+  ],
+  "benefits_summary": "Provides training, tools, equipment, raw materials, and market‑linking support to wood carving artisans.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Mai Ramabai Ambedakar Saat Phera Samuh Lagna Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Remarriage is not eligible for the scheme",
+    "Applications for assistance must be made within two years of the marriage",
+    "Benefit is available only to the beneficiary girl participating in the group marriage",
+    "Assistance is available to girls from Kunwar Bai Nu Mameru Yojana",
+    "Marriage registration certificate must be submitted to avail the benefits",
+    "The organizing institution must apply within two years from the date of marriage",
+    "The bride must produce a certified copy of the caste certificate obtained from the competent authority"
+  ],
+  "benefits_summary": "Couples receive ₹12,000 per marriage, and organizers receive ₹3,000 per couple up to a maximum of ₹75,000.",
+  "documents_required": [
+    "Proof of age of bride and groom",
+    "Marriage registration certificate",
+    "Caste certificate of bride"
+  ],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "LIDCOM Training Scheme",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 100000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must belong to the Charmakar community (Scheduled Caste) such as Dhor, Chambhar, Holar, Mochi, etc.",
+    "Applicant must have knowledge of the business for which the loan is applied."
+  ],
+  "benefits_summary": "Provides training programmes to enable students to start businesses, pursue trade, or secure employment.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph (signed across)",
+    "Self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Nikshay Poshan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Patient must be a tuberculosis (TB) patient notified to the government on or after 1 April 2018 (including those already under treatment).",
+    "Patient must be registered or notified on the NIKSHAY portal."
+  ],
+  "benefits_summary": "Financial incentive of Rs.500 per month for each notified TB patient while on anti‑TB treatment.",
+  "documents_required": [],
+  "application_link": null
+}

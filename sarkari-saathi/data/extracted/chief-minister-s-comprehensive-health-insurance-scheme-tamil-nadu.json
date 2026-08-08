@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Chief Minister’s Comprehensive Health Insurance Scheme - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 120000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Tamil Nadu",
+    "Applicant's name must be included in the family card",
+    "Applicant must submit a family card, Aadhaar card, income certificate issued by VAO/Revenue Authorities, and a self‑declaration"
+  ],
+  "benefits_summary": "Cashless hospitalization with coverage up to ₹5,00,000 per family per year on a floater basis for covered procedures.",
+  "documents_required": [
+    "Family card",
+    "Aadhaar card",
+    "Income certificate issued by VAO/Revenue Authorities",
+    "Self‑declaration"
+  ],
+  "application_link": null
+}

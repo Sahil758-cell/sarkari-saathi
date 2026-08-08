@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Employee Health Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All regular State Government employees and provincialised employees of local bodies are eligible",
+    "All retired service pensioners, family pensioners, and re‑employed service pensioners are eligible",
+    "Dependent family members of employees and pensioners are eligible",
+    "The scheme applies to both serving and retired employees of the state government of Andhra Pradesh"
+  ],
+  "benefits_summary": "Provides cashless hospitalization and outpatient care up to Rs 2 lakhs per episode, with ward benefits based on pay grade.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Gharaunda-Group Home for Adults Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "PwD must be older than 18 years",
+    "PwD must have a disability covered under the National Trust Act (Autism, Cerebral Palsy, Mental Retardation or Multiple Disabilities)",
+    "The applicant organization must be registered with the National Trust and hold a valid registration under the PwD Act 1995 at the time of enrolment",
+    "The group home land must be owned by the organization or leased for at least 10 years with a provision for renewal",
+    "The organization must have at least 2 years of experience working with persons with disabilities, including at least one year of experience with one of the four specified disabilities",
+    "The organization must not be blacklisted by the National Trust or any other Government organization on the date of submission"
+  ],
+  "benefits_summary": "Provides an assured home with quality care services, including basic medical care and vocational support, throughout the life of the person with disability.",
+  "documents_required": [],
+  "application_link": null
+}

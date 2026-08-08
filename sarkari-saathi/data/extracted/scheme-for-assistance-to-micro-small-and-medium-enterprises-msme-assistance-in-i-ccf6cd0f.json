@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance in Implementation of Information and Communication Technology (ICT)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small, or Medium enterprise.",
+    "The enterprise should have a project plan for implementing ICT infrastructure."
+  ],
+  "benefits_summary": "Financial assistance covering up to 65% of ICT capital expenditure, capped at ₹5,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

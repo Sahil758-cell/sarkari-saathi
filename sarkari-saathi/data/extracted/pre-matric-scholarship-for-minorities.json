@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pre Matric Scholarship For Minorities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student in a class between Class 1st to 10th.",
+    "The applicant must be from a Minority Community.",
+    "The applicant must have secured not less than 50 % marks in the previous final examination.",
+    "The applicant must not be availing any other scholarship by the government.",
+    "The applicant must not be the third sibling in his/her family who has been given this scholarship."
+  ],
+  "benefits_summary": "Provides financial assistance covering admission fee, tuition fee and maintenance allowance for minority students studying classes 1 to 10.",
+  "documents_required": [],
+  "application_link": null
+}

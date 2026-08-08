@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Overseas Scholarship For Scheduled Caste Etc. Candidates",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to Scheduled Caste, Denotified Nomadic, Semi Nomadic Tribe, Landless Agricultural Labourer, or Traditional Artisan.",
+    "Must have admission or an unconditional offer for a Master's or Ph.D. programme at a foreign university accredited by the host country's government/authorized body.",
+    "Must have secured at least 60% marks (or equivalent grade) in the qualifying examination (Bachelor’s degree for Master’s programmes, Master’s degree for Ph.D. programmes).",
+    "Family’s total annual income must be less than or equal to ₹8 lakh per annum.",
+    "Two or more siblings of the applicant must not already be availing this scholarship.",
+    "For candidates who completed a Bachelor of Engineering after a Diploma (lateral entry), the percentage of marks obtained in the Bachelor’s degree will be considered."
+  ],
+  "benefits_summary": "Provides annual maintenance, contingency, tuition, visa, medical insurance, equipment allowance and airfare reimbursements for studying abroad.",
+  "documents_required": [],
+  "application_link": "https://nosmsje.gov.in"
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Small Business in Service/Trading Sector for Persons with Disabilities (Divyangjan Swavalamban Yojana)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Disability of at least 40% is required",
+    "For persons with mental retardation, the eligible age is above 14 years",
+    "Must have Unique Disability ID (UDID) registration for loan amounts of ₹15 lakhs and above",
+    "Applicant must have a Parivar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Loans up to ₹50 lakh are offered to persons with disabilities for self‑employment in various sectors.",
+  "documents_required": [
+    "Age certificate issued by a competent authority authorized by the State Government",
+    "Unique Disability ID (UDID) registration proof (required for loans ≥ ₹15 lakh)",
+    "Parivar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

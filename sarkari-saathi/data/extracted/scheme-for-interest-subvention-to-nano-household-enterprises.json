@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scheme for Interest Subvention to Nano Household Enterprises",
+  "occupation": [
+    "manufacturing",
+    "services",
+    "job work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Fixed capital investment must be 10 lakh rupees or less",
+    "Must comply with white or green pollution‑control category",
+    "Connected load must be 5 horsepower or less",
+    "Units listed in the negative list (e.g., photo studios, breweries, sawmills, etc.) are not eligible"
+  ],
+  "benefits_summary": "Provides interest subvention of 6% per annum for up to three years (8% for women and SC/ST enterprises) on term loans to eligible Nano household enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

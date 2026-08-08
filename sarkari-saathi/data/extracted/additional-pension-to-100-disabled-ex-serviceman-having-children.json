@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Additional Pension to 100% Disabled Ex-Serviceman having Children",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ex‑serviceman released from the Armed Forces due to 100% disability or permanent incapacity attributable to service",
+    "Benefit is limited to a maximum of three children per eligible person",
+    "The additional pension terminates for a child when the child dies, reaches 20 years of age, gets married, or becomes employed, whichever occurs first",
+    "The eligible person must submit a half‑yearly certificate of eligibility in Form III to the Secretary of the District Sainik Board during June or December",
+    "The eligible person/guardian must inform the Secretary of any change in the status of the children (death, age, marriage, or employment)"
+  ],
+  "benefits_summary": "Provides an additional monthly pension of ₹100‑₹200 per child (up to three children) to eligible 100% disabled ex‑servicemen.",
+  "documents_required": [
+    "Form III certificate of eligibility (half‑yearly)",
+    "Affidavit form/template (filled‑in and signed)"
+  ],
+  "application_link": null
+}

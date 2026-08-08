@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Rehabilitation Assistance- Haryana Silicosis Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be confirmed as suffering from silicosis by the Silicosis Diagnosis Board, Haryana",
+    "Must be registered with the Haryana Silicosis Board",
+    "Must be employed in a factory or at a construction site",
+    "If the worker dies before receiving assistance, the benefit is payable to the widow/widower if married, or to one of the living parents if unmarried"
+  ],
+  "benefits_summary": "One-time assistance of ₹5,00,000 is provided to silicosis‑affected workers, or to their widow/widower or parents if the worker dies before receiving the amount.",
+  "documents_required": [],
+  "application_link": null
+}

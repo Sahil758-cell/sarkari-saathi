@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme of Assistance for Environment Protection Measures: Scheme for assistance to Environment Management",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The industry/unit must be registered under relevant industrial laws in Gujarat.",
+    "The industry/unit must comply with existing environmental regulations and standards.",
+    "The industry/unit must be engaged in manufacturing or production activities.",
+    "The industry/unit must undertake projects focused on environmental protection measures."
+  ],
+  "benefits_summary": "Assistance up to 35% (MSME) or 10% (large) of plant and machinery cost, with a ceiling of ₹35,00,000, for cleaner production technologies or pollution control equipment.",
+  "documents_required": [],
+  "application_link": null
+}

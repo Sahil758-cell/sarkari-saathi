@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Capital Investment Subsidy (for New and Existing Industries)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Investment must be made on or after 1 April 2017",
+    "Unit must provide at least 60% employment to residents of Puducherry",
+    "The 60% local employment must be maintained for the period specified in the affidavit",
+    "Fixed assets (plant and machinery) cannot be transferred or disposed of for 5 years from the date of application or disbursement, whichever is later",
+    "For partnership or private limited companies, all partners, shareholders and board members must belong to the same category (Women, SC, or ST)",
+    "For SC/ST/Women entrepreneurs, only investments in units fully owned by the respective category are eligible",
+    "Units established by the same proprietor with common partners or board are eligible as separate entities if they are located at different sites and have separate licences/clearances",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small",
+    "Eligibility category noted in source: Medium",
+    "Eligibility category noted in source: Large",
+    "Eligibility category noted in source: Women"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 45% on capital investments, with caps of ₹40 lakh for Micro/Small enterprises, ₹35 lakh for Medium/Large enterprises, and ₹75 lakh for Women/SC/ST entrepreneurs.",
+  "documents_required": [
+    "Prescribed application form",
+    "Mandatory supporting documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

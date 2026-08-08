@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Spectacles Scheme- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a worker employed in an industrial or commercial establishment in Haryana",
+    "The worker must be registered with the Haryana Labour Welfare Board",
+    "Monthly salary of the worker must not exceed ₹25,000",
+    "The worker must have a minimum service period of one year",
+    "Benefit is available only once every five years for each beneficiary",
+    "Application must be submitted within three months from the date of the bill after obtaining a doctor's prescription",
+    "The scheme is available to the worker or his/her dependents"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹1,500 for the purchase of spectacles for workers or their dependents, provided once every five years.",
+  "documents_required": [
+    "Doctor's prescription",
+    "Photograph",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": "https://hrylabour.gov.in/"
+}

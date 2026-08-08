@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Kaimagga Vikasa Yojana - Karnataka",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a member of Handloom Weaver Co‑operative Societies, Handloom Associations/Organisations, or Karnataka Development Corporation",
+    "Must reside in own house or rented house",
+    "Traditional weavers must be currently practising handloom weaving",
+    "Must possess a Weaver’s Identity Card",
+    "Young entrants must have completed handloom weaving training under any government scheme and hold the relevant certificate",
+    "For purchase of a warping machine, the weaver must have a certificate of experience in washing and sufficient space to install the machine"
+  ],
+  "benefits_summary": "Provides a 50% subsidy on the cost of new handloom equipment, disbursed in two halves after verification and purchase.",
+  "documents_required": [],
+  "application_link": null
+}

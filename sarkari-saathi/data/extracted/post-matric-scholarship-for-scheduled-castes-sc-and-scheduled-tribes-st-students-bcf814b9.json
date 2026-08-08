@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Post-Matric Scholarship for Scheduled Castes (SC) and Scheduled Tribes (ST) Students-Bihar",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Bihar state.",
+    "The applicant must be studying in higher classes after passing the Matriculation/Entry Examination."
+  ],
+  "benefits_summary": "Provides a scholarship and maintenance allowance to eligible SC/ST students as per government resolution.",
+  "documents_required": [],
+  "application_link": null
+}

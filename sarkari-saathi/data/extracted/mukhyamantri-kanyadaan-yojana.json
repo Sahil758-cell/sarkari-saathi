@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Mukhyamantri Kanyadaan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Bride should have completed 10th standard education",
+    "Family should have no other source of income (not an income taxpayer)",
+    "Applicant must be a resident of Rajasthan",
+    "Scheme is for BPL families belonging to Scheduled Tribe or Minority categories",
+    "Divyang (persons with disability) are eligible",
+    "Female applicant (including self‑married) is eligible",
+    "Beneficiary must be part of Palanhar Yojana"
+  ],
+  "benefits_summary": "Financial assistance of ₹31,000 to ₹41,000 (approximately ₹40,000) is provided to eligible families for the marriage of their daughters.",
+  "documents_required": [
+    "Aadhaar (Jan Aadhaar) authentication",
+    "Bank details",
+    "Disability details",
+    "Verification details",
+    "Pensioner details",
+    "Upload documents"
+  ],
+  "application_link": null
+}

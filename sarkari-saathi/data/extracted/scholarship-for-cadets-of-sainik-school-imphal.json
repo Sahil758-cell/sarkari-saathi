@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scholarship For Cadets Of Sainik School Imphal",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Mizo students permanently residing in Mizoram studying at Sainik School, Imphal",
+    "Applicant must not be covered under any other scholarship scheme",
+    "Scholarship is granted for one year per class and may be renewed as per rules",
+    "If the cadet is found medically unfit for entry into the NDA, the scholarship will be discontinued"
+  ],
+  "benefits_summary": "Provides financial assistance covering tuition fees, boarding and lodging charges, uniforms and other necessary expenses for eligible cadets.",
+  "documents_required": [
+    "Income certificate",
+    "Academic certificates"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "General Pre Matric Scholarship-Uttar Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 12,
+  "age_max": 20,
+  "max_annual_income": 250000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiaries must be dependents of people in occupations traditionally considered untouchable.",
+    "Students cannot receive other scholarships alongside this one (with some exceptions).",
+    "All children of the applicant's parents are eligible."
+  ],
+  "benefits_summary": "₹3,000 per year for the complete course duration.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Block Level Institute for Rural Skill Acquisition (BIRSA)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Age up to 35 years for general category and up to 50 years for SC/ST/OBC categories",
+    "Aadhaar number mandatory at registration",
+    "Registration must be done at the nearest Training Service Provider Center"
+  ],
+  "benefits_summary": "Free localized skill training with materials provided and post‑training job support.",
+  "documents_required": [],
+  "application_link": "Candidate visits the nearest Training Service Provider Center for registration under the Mukhymantri Sarthi Yojna scheme."
+}

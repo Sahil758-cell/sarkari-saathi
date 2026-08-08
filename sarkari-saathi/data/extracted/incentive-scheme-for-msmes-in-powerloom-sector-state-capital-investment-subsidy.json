@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: State Capital Investment Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprises must have started production between 01.01.2022 and 31.12.2024",
+    "Enterprises should have executed a four‑party agreement with the Directorate of Textiles, a financial institution and Tantuja",
+    "Units may be private sector, cooperative sector, joint sector undertaking, companies/undertakings owned and managed by the State Government, or Industrial SHGs",
+    "The project must be covered by a detailed feasibility report/project prepared for the purpose",
+    "The project must be approved and sanctioned by a Central Financial Institution or Commercial Bank or State Financial Institution"
+  ],
+  "benefits_summary": "Provides a 20% subsidy on the fixed capital investment for plant and machinery (new age shuttleless powerloom).",
+  "documents_required": [
+    "Form-A1"
+  ],
+  "application_link": null
+}

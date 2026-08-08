@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Natural Death and Funeral Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the nominee of the registered folk artist.",
+    "The registered folk artist must have died a natural death."
+  ],
+  "benefits_summary": "Provides financial assistance of ₹2,000 for funeral expenses and ₹15,000 for natural death assistance.",
+  "documents_required": [
+    "Application form (VIII)",
+    "Claim Form (VII)",
+    "Accident Information Form (VI)"
+  ],
+  "application_link": null
+}

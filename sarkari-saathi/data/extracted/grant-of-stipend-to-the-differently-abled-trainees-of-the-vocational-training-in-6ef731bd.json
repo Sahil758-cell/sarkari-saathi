@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Grant of Stipend to the Differently Abled Trainees of the Vocational Training Institutes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Applicant must be differently abled",
+    "Applicant must have undertaken a full‑time vocational training course in a recognized centre (ITI, vocational training centre, workshop, or any centre run by Central/State Government, local body, or a voluntary organization)"
+  ],
+  "benefits_summary": "₹1,000 per month stipend is provided to eligible trainees.",
+  "documents_required": [],
+  "application_link": null
+}

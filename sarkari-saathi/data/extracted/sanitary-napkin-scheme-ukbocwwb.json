@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Sanitary Napkin Scheme (UKBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Uttarakhand",
+    "Applicant must be engaged in any building or construction work",
+    "Applicant must be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board",
+    "Applicant must have an active membership of the Board",
+    "Eligibility begins only after three months from registration",
+    "Applicant must not be receiving the same benefits under any other central or state scheme",
+    "Applicant must not have applied for the same benefits in any other department",
+    "For registration, the worker must have completed 18 years of age and not completed 60 years",
+    "The worker must have worked as a construction worker for at least 90 days during the preceding one year"
+  ],
+  "benefits_summary": "Sanitary napkins are provided to daughters of registered construction workers and to women construction workers.",
+  "documents_required": [],
+  "application_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+}

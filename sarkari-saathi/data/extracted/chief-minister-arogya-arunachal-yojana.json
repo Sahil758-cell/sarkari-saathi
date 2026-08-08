@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Chief Minister Arogya Arunachal Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to one of the tribal communities recognized by the state of Arunachal Pradesh",
+    "Applicant must be legally residing in the Changlang, Lohit, or Namsai districts of Arunachal Pradesh",
+    "Applicant must be a member of a backward community",
+    "If the applicant is employed by the state government, the scheme’s benefits are also available to their dependents"
+  ],
+  "benefits_summary": "Provides cashless coverage up to ₹5,00,000 per family per year, including pre‑ and post‑hospitalization expenses.",
+  "documents_required": [],
+  "application_link": null
+}

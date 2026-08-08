@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance for Professional/Technical Courses (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be registered with the Haryana Building & Other Construction Workers Welfare Board",
+    "Worker must have at least one year of regular membership and an active membership",
+    "Worker must add a work experience of at least 90 days in the preceding year to avail the benefit",
+    "Worker must pay the registration fee before accessing benefits",
+    "Benefits are available for up to three children per worker",
+    "Children must be pursuing regular technical/professional courses"
+  ],
+  "benefits_summary": "Full reimbursement of educational expenses for children of registered construction workers pursuing professional/technical courses, up to three children per worker.",
+  "documents_required": [
+    "Aadhaar number",
+    "Parivar Pehchan Patra (Family ID)",
+    "Attested copy of original receipt"
+  ],
+  "application_link": null
+}

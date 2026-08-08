@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Certification Program for Goan IT Professionals",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be of Goan origin.",
+    "Applicant must have qualifications suitable for employment in the IT industry.",
+    "Applicant's bank account must be linked to Aadhaar.",
+    "Certifications must be obtained from OEM vendors or their authorized training partners.",
+    "Certifications must be directly relevant to the IT industry.",
+    "Certification must be completed during the policy's operation period.",
+    "Only approved certifications (as listed) are eligible.",
+    "Application can be submitted quarterly, bi‑annually, or annually after incurring the expenditure."
+  ],
+  "benefits_summary": "Reimbursement of up to 50% of the expenditure incurred for obtaining IT‑related certifications.",
+  "documents_required": [],
+  "application_link": null
+}

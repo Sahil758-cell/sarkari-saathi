@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Paternity Benefit Scheme (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "male",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a male construction worker",
+    "Must be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB)",
+    "Must have a minimum of one‑year regular membership",
+    "Wife must have delivered a baby",
+    "Wife must not have claimed maternity benefit from any other employer",
+    "Benefits are payable for up to two children, expandable up to three daughters irrespective of birth order",
+    "All required documents must be submitted within one year of the wife's delivery date",
+    "Birth certificate must be attached with the application"
+  ],
+  "benefits_summary": "Financial assistance of ₹21,000 (₹15,000 for newborn care and ₹6,000 for wife's nutritious food) per eligible male construction worker.",
+  "documents_required": [
+    "birth certificate"
+  ],
+  "application_link": null
+}

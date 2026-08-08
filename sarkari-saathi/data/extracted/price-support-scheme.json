@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Price Support Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmers must sell their produce at the support price in APMC centers opened by the nodal procurement agency.",
+    "The scheme is open only to farmers residing in Assam.",
+    "Government employees are not eligible to apply."
+  ],
+  "benefits_summary": "Procurement of eligible crops at the Minimum Support Price (MSP) when market prices fall below MSP, providing price stability to farmers.",
+  "documents_required": [],
+  "application_link": null
+}

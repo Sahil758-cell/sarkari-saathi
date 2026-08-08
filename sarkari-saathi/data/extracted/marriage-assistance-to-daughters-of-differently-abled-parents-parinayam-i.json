@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Marriage Assistance To Daughters Of Differently Abled Parents (Parinayam-I)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Kerala.",
+    "The parents must be differently‑abled and eligible to apply under the scheme.",
+    "Assistance can be sought for up to two daughters, with the second daughter’s assistance eligible only after three years from the first grant.",
+    "If a daughter remarries after a divorce, the family income is calculated including any compensation received from the ex‑husband.",
+    "If the differently‑abled parent dies before the daughters’ marriage, the assistance may be given to the elder or any responsible family member.",
+    "If the parent dies after the daughter’s marriage but before receiving assistance, the senior or married family member may receive the assistance.",
+    "The application must be submitted at least one month before the scheduled marriage date (for Muslim brides, the date after the Nikah ceremony is considered)."
+  ],
+  "benefits_summary": "One‑time assistance of ₹30,000 per daughter for the marriage of up to two daughters of differently‑abled parents.",
+  "documents_required": [],
+  "application_link": null
+}

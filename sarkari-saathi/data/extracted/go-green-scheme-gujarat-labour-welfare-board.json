@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Go Green Scheme- Gujarat Labour Welfare Board",
+  "occupation": [
+    "Labourer",
+    "Industrial Worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in a factory or institute in Gujarat",
+    "Applicant must have regularly contributed to the Labour Welfare Fund",
+    "The two‑wheeler must be empanelled with FAME‑2 and GEDA",
+    "Vehicle must be manufactured in India under the Make in India and Aatma Nirbhar Bharat initiatives",
+    "The two‑wheeler must be battery‑operated with a lithium‑ion battery capable of running at least 50 km on a single charge",
+    "The vehicle should not require a separate charging station and must be recognized under the Motor and Vehicle Act"
+  ],
+  "benefits_summary": "A subsidy of 30% of the purchase price up to ₹30,000 is provided for eligible battery‑operated two‑wheelers, along with a one‑time subsidy for RTO registration and road tax.",
+  "documents_required": [],
+  "application_link": "https://gogreenglwb.gujarat.gov.in/"
+}

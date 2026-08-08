@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mini Sprinkler Sanyantr",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a farmer residing in Rajasthan",
+    "The agricultural land must be owned by the applicant",
+    "The farmer must have at least 0.2 hectares of irrigated cultivable land",
+    "Installation must follow departmental norms after administrative approval of the Horticulture Department"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 70% for general farmers and up to 75% for small and marginal (including SC/ST women) farmers.",
+  "documents_required": [],
+  "application_link": null
+}

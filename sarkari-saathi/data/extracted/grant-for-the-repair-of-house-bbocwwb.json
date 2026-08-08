@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Grant for the Repair of House (BBOCWWB)",
+  "occupation": [
+    "construction"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Bihar Building & Other Construction Workers Welfare Board.",
+    "Must have at least three years of continuous membership, active at the time of application.",
+    "Must not have already received financial assistance for house construction, bicycles, or tools.",
+    "Assistance is provided only once per eligible worker."
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 is provided to registered construction workers for house repairs.",
+  "documents_required": [],
+  "application_link": null
+}

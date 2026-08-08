@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Banglar Awaas Yojana (BAY)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Indian citizen.",
+    "The applicant must be enlisted in the Permanent Waiting List (PWL) based on SECC 2011 data.",
+    "The applicant must be from a houseless household or living in a kutcha or dilapidated house."
+  ],
+  "benefits_summary": "Provides ₹130,000 financial assistance for constructing a pucca house, along with wage support and assistance for toilet construction.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Kanya Vivaah / Nikaah Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Guardian of the bride/groom must be a native of Madhya Pradesh",
+    "Beneficiary must get marriage done only by participating in the group (mass) marriage program; single marriages are not eligible",
+    "Abandoned women who are legally divorced are eligible",
+    "Beneficiary should be a needy girl, widow, or abandoned sister"
+  ],
+  "benefits_summary": "Financial assistance of up to Rs. 55,000 (Rs. 11,000 to the bride’s account, Rs. 38,000 as a marriage gift, and Rs. 6,000 to the mass‑marriage organizing body) for eligible participants.",
+  "documents_required": [],
+  "application_link": null
+}

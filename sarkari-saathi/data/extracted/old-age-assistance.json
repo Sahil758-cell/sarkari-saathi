@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Old Age Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have resided in Delhi for at least five years before the date of application.",
+    "Must have an Aadhaar number.",
+    "Must have a single bank account in Delhi for receiving payment through the Public Financial Management System (PFMS).",
+    "Must not be receiving any pension or financial assistance from the Central Government, State Government, other governmental local bodies, or any other source for this purpose.",
+    "Applicants may submit the application even if they do not have proof of residence."
+  ],
+  "benefits_summary": "Monthly pension of Rs. 2,000 for ages 60–69, Rs. 2,500 for those over 70, with an additional Rs. 500 for SC/ST/Minority members.",
+  "documents_required": [
+    "Aadhaar card",
+    "Voter ID (optional)",
+    "Proof of residential address",
+    "Photograph"
+  ],
+  "application_link": "https://edistrict.delhigovt.nic.in/"
+}

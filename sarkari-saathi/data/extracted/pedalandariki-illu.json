@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Pedalandariki Illu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Beneficiary must not own any house or house site anywhere in the state of Andhra Pradesh",
+    "Beneficiary must not have been covered in any previous housing scheme of the state or central government",
+    "Beneficiary must not have more than 2.5 acres of wet land or 5.0 acres of dry land",
+    "For urban beneficiaries, total household annual income must not exceed Rs.3,00,000",
+    "For rural beneficiaries, the household must belong to the identified Below Poverty Line (BPL) category"
+  ],
+  "benefits_summary": "Eligible households receive a house site patta (1.5 cents in rural areas, 1.0 cent in urban areas) and, for urban areas, a G+3 housing unit, both allocated in the name of the woman beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

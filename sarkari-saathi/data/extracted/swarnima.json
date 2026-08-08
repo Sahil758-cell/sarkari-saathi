@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Swarnima",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a female beneficiary",
+    "Applicant must be a domicile of Maharashtra",
+    "Family annual income must not exceed ₹98,000 in rural areas or ₹1,20,000 in urban areas"
+  ],
+  "benefits_summary": "Provides low‑interest loans up to ₹5,00,000 per Self‑Help Group (₹25,000 per beneficiary) at 5% interest for up to 3 years with no beneficiary contribution required.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

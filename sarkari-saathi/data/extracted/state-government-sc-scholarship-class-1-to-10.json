@@ -1,0 +1,25 @@
+{
+  "scheme_name": "State Government SC Scholarship (Class 1 to 10)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl students eligible for classes 1‑5; both boys and girls eligible for classes 6‑10.",
+    "One‑time failure in a class is allowed.",
+    "No need to reapply for renewal within the same level (Class 1‑10)."
+  ],
+  "benefits_summary": "Scholarship amounts range from ₹250 to ₹1,200 per year depending on class and gender, deposited directly into the student's bank account.",
+  "documents_required": [],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

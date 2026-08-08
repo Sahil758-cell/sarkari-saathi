@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scholarship/Stipend to SC Students for ITI/Professional Courses (Swami Vivekanand Scholarship)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Student must belong to the Scheduled Caste of Gujarat",
+    "Student must be studying a professional course in a Government or Private Industrial Training Institute (ITI)"
+  ],
+  "benefits_summary": "A monthly stipend of ₹400 is provided to eligible students.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in/"
+}

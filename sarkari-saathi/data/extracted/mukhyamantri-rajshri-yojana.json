@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Rajshri Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl child must be born on or after June 1, 2016",
+    "Girl child must be born in a government or private medical institution registered with Janani Suraksha Yojana (JSY)",
+    "Only two girl children per family are eligible",
+    "Parents must have an Aadhar Card and a Bhamashah Card"
+  ],
+  "benefits_summary": "Financial support ranging from ₹2,500 at birth to ₹25,000 at 12th class admission for eligible girl children.",
+  "documents_required": [
+    "Aadhar Card",
+    "Bhamashah Card"
+  ],
+  "application_link": null
+}

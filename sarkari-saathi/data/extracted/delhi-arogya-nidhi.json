@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Delhi Arogya Nidhi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Patient must possess a National Food Security Card",
+    "Treatment must be received at a Government Hospital in Delhi",
+    "Applicant must provide domicile proof of continuous residence in Delhi for the last 3 years"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹1.5 lakh for treatment of diseases in Delhi government hospitals for patients holding a National Food Security Card.",
+  "documents_required": [
+    "National Food Security Card",
+    "Domicile proof (continuous residence in Delhi for last 3 years)",
+    "Photocopies of all documents",
+    "Undertaking for signature verification"
+  ],
+  "application_link": null
+}

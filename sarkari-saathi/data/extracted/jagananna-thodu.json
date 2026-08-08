@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Jagananna Thodu",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Monthly income must be less than ₹10,000 in rural areas or less than ₹12,000 in urban areas",
+    "Family land holding must be less than 3 acres of wetland or less than 10 acres of dry land, or a combined total of less than 10 acres",
+    "Applicant must not have a built‑up shop larger than 5 × 5 sq ft"
+  ],
+  "benefits_summary": "Financial assistance up to ₹10,000 at 0 % interest for eligible hawkers, street vendors and artisans.",
+  "documents_required": [],
+  "application_link": null
+}

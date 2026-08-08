@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Grant to Silk Societies/Agency",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Society/Agency must be registered under the Co-operative Society Act or the Society Act.",
+    "Members must be silk‑weaving artisans.",
+    "Society/Agency must exclusively deal with silk products produced by artisans in Puducherry."
+  ],
+  "benefits_summary": "Grant of ₹2,00,000 per annum for 5 years for administrative and marketing expenses.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

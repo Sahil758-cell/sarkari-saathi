@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Chief Minister’s White Revolutions Scheme",
+  "occupation": [
+    "dairy farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Preference given to women",
+    "Must be genuinely poor",
+    "Selection on a cluster basis by the District Dairy Development Committee",
+    "Minimum unit of 2 cows required for capital subsidy"
+  ],
+  "benefits_summary": "Provides up to 50% capital subsidy (maximum ₹3 lakh) for a minimum of 2 cows, along with working‑capital loans, interest subsidies, and additional subsidies for dairy infrastructure.",
+  "documents_required": [
+    "Aadhar Card",
+    "BPL Card"
+  ],
+  "application_link": null
+}

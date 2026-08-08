@@ -1,0 +1,26 @@
+{
+  "scheme_name": "AICTE - Research Promotion Scheme (RPS)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "AICTE approved Technical Institutions/University Departments with relevant PG programmes are eligible",
+    "Full‑time regular faculty with research experience and publications must be involved",
+    "Preliminary research facilities must be available in the institute",
+    "Only one proposal per Principal Investigator can be sanctioned at any point in time",
+    "Maximum of five proposals (including pending ones) may be submitted per institute, with a limit of three from government institutes and three from private institutes, and only two proposals can be approved simultaneously for each institute"
+  ],
+  "benefits_summary": "Provides up to ₹25,00,000 funding for research projects over three years, with 75% non‑recurring and 25% recurring grant disbursement.",
+  "documents_required": [
+    "Verified Bank Mandate Form (PDF, max 10 MB)",
+    "Declaration Certificate"
+  ],
+  "application_link": "https://www.aicte-india.org"
+}

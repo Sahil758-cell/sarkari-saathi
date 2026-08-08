@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Yashwantrao Chavan Mukta Vasahat Yojana for VJNTs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Family must belong to the original VJNT (Vimukta Jati and Nomadic Tribes) category",
+    "Family must not own a house",
+    "Family must be residing in a tent house or hut",
+    "Family must be landless",
+    "Family must have been residing in one place for at least six months and wandering from village to village for livelihood during the remaining months",
+    "Annual income of the family must be less than ₹1,00,000 per year",
+    "Family must not have availed benefits of any other housing scheme such as Gharkul",
+    "Benefit of the scheme is given to only one member of the eligible family",
+    "Priority is given to families living in tents, with no‑earning hand widows, divorcees, handicapped and flood‑affected persons"
+  ],
+  "benefits_summary": "Each eligible VJNT family receives a 5‑guntha (≈500 m²) land plot with a 269‑sq‑ft house and basic amenities such as roads, drainage, water, electricity and a community hall.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

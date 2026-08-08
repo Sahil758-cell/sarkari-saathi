@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Shubhshakti Yojana",
+  "occupation": [
+    "Construction worker",
+    "Laborer"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "One parent (father or mother) must be registered as a beneficiary/construction worker for at least one year in the board",
+    "Beneficiary must have worked as a construction worker for at least 90 days during the year before the application date",
+    "A maximum of two daughters of the beneficiary (or the female beneficiary and her one daughter) are eligible for the incentive",
+    "The female beneficiary must be unmarried, or the daughter must be at least 18 years old and unmarried",
+    "The daughter must have passed at least the 8th standard",
+    "There must be a savings bank account in the name of the daughter",
+    "If the beneficiary owns a house, it must have a toilet",
+    "Beneficiary’s identity card must be valid/active at the time of application",
+    "Girls who have already received assistance under the Board’s Marriage Assistance Scheme are not eligible",
+    "Incentive amount is payable only after physical verification of the beneficiary’s status as a construction worker",
+    "Application must be submitted after completing one year as a registered beneficiary"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹55,000, directly transferred to the beneficiary’s bank account, to be used for higher education, vocational training, starting a business, skill development, or marriage expenses.",
+  "documents_required": [
+    "Beneficiary identity card (valid/active)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Supplementary Nutrition Programme- Bihar",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Bihar",
+    "Must be enrolled in an Anganwadi centre",
+    "Applicable to children aged 6 months to 6 years, pregnant women, and lactating mothers"
+  ],
+  "benefits_summary": "Provides hot cooked meals and take‑home rations to children (6 months–6 years), pregnant and lactating women through Anganwadi centres.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Sweekruti: Assistance to Parents of Transgender Children",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the parent or legal guardian of the transgender child",
+    "The transgender child must be under 18 years of age",
+    "The child must exhibit gender non‑conforming behavior",
+    "Assistance terminates when the child reaches 18 years of age",
+    "In case of death of the parent, assistance may be provided to the guardian upon production of a Certificate of Guardianship issued by the Competent Authority"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,500 per transgender child per month until the child turns 18 years old.",
+  "documents_required": [
+    "Application form (Annexure A)",
+    "Certificate of Guardianship (if applicable)"
+  ],
+  "application_link": null
+}

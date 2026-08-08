@@ -1,0 +1,34 @@
+{
+  "scheme_name": "MMKY-New Tank Excavation Under Brackish Water Aquaculture",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must have requisite land free from all encumbrances",
+    "Beneficiary must have a bank account in his/her name in Odisha",
+    "Beneficiary must provide identity and residential proof, including an Aadhaar Card",
+    "One beneficiary family can receive the subsidy only once; no family member should have received a subsidy under this scheme in the last three years",
+    "Preference will be given to beneficiaries selected in cluster mode"
+  ],
+  "benefits_summary": "Provides up to 40% subsidy for general category and 60% for SC/ST/Women/Transgender/PwD on the cost of excavating a new brackish water tank (up to 2 ha).",
+  "documents_required": [
+    "Aadhaar Card",
+    "Bank account proof",
+    "Copy of RoR",
+    "Lease agreement (minimum 7 years)"
+  ],
+  "application_link": "https://sugam.odisha.gov.in/website/home"
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Gharelu Mahila Kamgar Cycle, Chhatari, Chappal/Joota Sahayta Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered in any district of Chhattisgarh.",
+    "If the applicant has received any other parallel scheme of the State Government, they are not eligible."
+  ],
+  "benefits_summary": "Provides a cycle, umbrella, and slipper/shoe assistance to eligible women.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Interest Free Loan (CBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be working in an establishment registered under the Punjab Labour Welfare Fund Act, 1965",
+    "Beneficiary must have regular contributions to the labour welfare fund received by the Board",
+    "Beneficiary must not be a defaulter under any earlier loan from the Board",
+    "Beneficiary must have a standing guarantee from the employer",
+    "Beneficiary must be a member of the Board for at least six months before applying",
+    "Loan can be taken for only one item at a time"
+  ],
+  "benefits_summary": "Interest‑free loan up to ₹25,000 for purchase of items such as motorcycle/scooter, fridge, TV/LCD, cooler, fan or bicycle, repayable in equal monthly installments.",
+  "documents_required": [
+    "Clear picture of both sides of the Aadhaar card",
+    "Clear picture of the Bank Passbook",
+    "Clear picture of all pages of the BOCW copy issued by the Board"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

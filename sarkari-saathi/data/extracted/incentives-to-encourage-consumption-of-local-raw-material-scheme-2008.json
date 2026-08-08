@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Incentives to Encourage Consumption of Local Raw Material Scheme, 2008",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Units must have gone into production on or after 6th August 2008",
+    "Units must be under green or specified orange categories",
+    "Units must be permanently registered with the Directorate of Industries, Trade and Commerce or cleared by the High Powered Co‑ordination Committee or any other authorized committee",
+    "Units must be Micro, Small, or Medium Enterprises as defined under the MSMED Act",
+    "Units must consume a minimum of 50% of raw material value from local sources (60%+ for full benefit)",
+    "Units must provide documentary evidence proving the raw material was locally produced or mined",
+    "Interpretation of eligibility clauses is final and binding by the Director, Directorate of Industries, Trade and Commerce"
+  ],
+  "benefits_summary": "Up to 90% reimbursement of sales tax and a 25% subsidy on power and water bills (capped at ₹2,00,000 per year) based on the proportion of local raw material consumed.",
+  "documents_required": [
+    "Specified proforma obtained from the Directorate of Industries, Trade and Commerce (or downloaded from the official website)",
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Documentary evidence proving that the raw material was locally produced or mined"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Establishment of Backyard Poultry Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "No mandatory educational qualifications or training requirements are specified.",
+    "Applicants who have previously availed benefits under any Departmental Scheme for the establishment of a livestock unit are ineligible.",
+    "Any unemployed person desirous of establishing backyard poultry may apply."
+  ],
+  "benefits_summary": "Each beneficiary family receives 50 day‑old chicks along with two feeders and two drinkers delivered free to their doorstep.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

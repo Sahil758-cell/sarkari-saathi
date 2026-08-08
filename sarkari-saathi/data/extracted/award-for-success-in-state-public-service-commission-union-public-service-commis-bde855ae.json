@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Award for Success in State Public Service Commission, Union Public Service Commission Examination (MPBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have engaged in any building or other construction work for at least 90 days during the preceding 12 months.",
+    "Registration of the applicant must be renewed annually.",
+    "Applicant must possess a valid identity card issued by the Labour Department.",
+    "Applicant must be a son or daughter of a registered Building/Construction Worker.",
+    "Applicant must be selected at the Preliminary or Main level of either the State Public Service Commission Examination or the Union Public Service Commission Examination."
+  ],
+  "benefits_summary": "Incentives ranging from ₹15,000 to ₹50,000 for selected candidates in SPSC or UPSC examinations.",
+  "documents_required": [
+    "Valid identity card issued by the Labour Department",
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Agri-Clinics And Agri-Business Centres Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a graduate or diploma holder in agriculture or allied subjects from recognized universities or agencies",
+    "Diploma holders must have at least 50% marks",
+    "Intermediate (plus two) agriculture‑related courses require at least 55% marks",
+    "Qualifications may require approval of the Department of Agriculture & Cooperation based on state government recommendation"
+  ],
+  "benefits_summary": "Provides full financial support, training, and credit‑linked subsidies to set up agri‑clinics and agri‑business centres offering extension services and entrepreneurship opportunities for farmers.",
+  "documents_required": [],
+  "application_link": null
+}

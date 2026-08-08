@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Civil Services Incentive Scheme for Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of 40% or more as defined under the Persons with Disabilities Act, 1995.",
+    "Candidate must be a native of Madhya Pradesh.",
+    "Eligibility is limited to candidates who pass any stage (preliminary, main, or final) of the Civil Services Examination conducted by UPSC or MPPSC.",
+    "Application form must be submitted within 6 months of the examination result declaration.",
+    "Incentive amount is provided only once per candidate at each stage of the examination."
+  ],
+  "benefits_summary": "Financial incentives of ₹20,000 for the preliminary exam, ₹30,000 for the main exam, and ₹20,000 for final selection, transferred directly to the applicant's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

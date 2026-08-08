@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Santwana Scheme - Karnataka",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to a religious minority in Karnataka.",
+    "Must be a permanent resident of Karnataka.",
+    "No family member should be employed in the Central or State Government.",
+    "No loan from Karnataka Minorities Development Corporation in the last five years, except the Arivu Education Loan Scheme."
+  ],
+  "benefits_summary": "Loan up to ₹5,00,000 per unit, with 50% provided as subsidy and 50% as a repayable loan.",
+  "documents_required": [
+    "passport-size photo",
+    "educational document",
+    "income certificate"
+  ],
+  "application_link": null
+}

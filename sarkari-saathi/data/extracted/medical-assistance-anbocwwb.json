@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Medical Assistance (ANBOCWWB)",
+  "occupation": [
+    "building construction",
+    "other construction"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman & Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be a resident of the Union territory of Andaman & Nicobar Islands",
+    "must be engaged in building or other construction work",
+    "must be registered under the A&N Islands Building and Other Construction Workers Welfare Board",
+    "must have an active membership of the Board",
+    "hospitalization due to an accident or illness of the beneficiary or their dependent is required to avail assistance",
+    "must produce a medical certificate",
+    "must produce a referral letter from the competent authority"
+  ],
+  "benefits_summary": "Provides up to ₹5,000 per hospitalization (₹200 per day for the first 5 days, ₹100 thereafter) and additional allowances up to ₹1,00,000 for referred cases, plus emergency and referral benefits.",
+  "documents_required": [
+    "medical certificate",
+    "referral letter from the competent authority"
+  ],
+  "application_link": "https://serviceonline.gov.in/login.do"
+}

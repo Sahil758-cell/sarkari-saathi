@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Bihar Shatabdi AIDS Pirit Kalyan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an AIDS patient"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,500 per month is provided to eligible AIDS patients.",
+  "documents_required": [],
+  "application_link": null
+}

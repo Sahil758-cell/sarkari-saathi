@@ -1,0 +1,23 @@
+{
+  "scheme_name": "60% and above Disability Allowances",
+  "occupation": null,
+  "gender": null,
+  "age_min": 10,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "None of the family members of the applicant should be a government employee."
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Book Binder Training by Department for the Welfare of Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a visually impaired person.",
+    "Beneficiary must have passed the 8th standard."
+  ],
+  "benefits_summary": "Free book binding training is provided annually to visually impaired individuals.",
+  "documents_required": [],
+  "application_link": null
+}

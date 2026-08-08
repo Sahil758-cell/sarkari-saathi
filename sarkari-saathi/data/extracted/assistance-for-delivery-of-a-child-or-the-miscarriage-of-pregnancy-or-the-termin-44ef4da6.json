@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Assistance for Delivery of a Child or the Miscarriage of Pregnancy or the Termination of Pregnancy",
+  "occupation": [
+    "folk artist"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have no dues payable to the board",
+    "Applicant must be giving birth to a child, or have a miscarriage, or have undergone termination of pregnancy",
+    "Applicant must not already have two children"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹6,000 for child delivery or ₹3,000 for miscarriage or termination, disbursed in monthly installments (₹1,000 per month for six months for delivery).",
+  "documents_required": [],
+  "application_link": null
+}

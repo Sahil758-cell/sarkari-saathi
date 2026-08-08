@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana - Special Projects",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to marginalized or vulnerable groups such as Scheduled Castes, Scheduled Tribes, transgender, persons with disabilities, women, economically backward people, or any other recognized marginalized/vulnerable category",
+    "Must be from difficult or remote geographies such as Left Wing Extremist areas, aspirational districts, J&K, Ladakh, North East states, or Island territories",
+    "Must have an Aadhaar ID during enrolment",
+    "Must maintain at least 70% attendance to be eligible for assessments"
+  ],
+  "benefits_summary": "Provides training, financial incentives, insurance, accommodation and travel support, and placement assistance for marginalized and remote candidates.",
+  "documents_required": [
+    "Aadhaar ID"
+  ],
+  "application_link": "https://skillindia.nsdcindia.org"
+}

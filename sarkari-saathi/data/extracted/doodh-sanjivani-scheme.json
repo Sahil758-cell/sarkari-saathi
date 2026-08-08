@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Doodh Sanjivani Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a child aged 6 months to 6 years or a pregnant or lactating mother.",
+    "Applicant must be registered at an Anganwadi center."
+  ],
+  "benefits_summary": "Provides fortified flavored milk (100 ml for children 5 days a week and 200 ml for pregnant/lactating mothers 2 days a week).",
+  "documents_required": [],
+  "application_link": null
+}

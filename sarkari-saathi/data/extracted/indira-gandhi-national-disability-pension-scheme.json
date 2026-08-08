@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be physically or mentally disabled with a disability of more than 80%",
+    "Dwarfs are also eligible",
+    "Applicant must belong to the Below Poverty Line"
+  ],
+  "benefits_summary": "Monthly pension of Rs.300 for ages 18‑79 and Rs.500 for ages 80 and above.",
+  "documents_required": [],
+  "application_link": "https://web.umang.gov.in/web_new/home"
+}

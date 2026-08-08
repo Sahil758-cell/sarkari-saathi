@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Goa Mediclaim Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Goa and have lived there for at least 15 years.",
+    "Must be listed in the voters' list and possess a permanent ration card.",
+    "Income must be less than ₹1,50,000 per annum, except retired state government employees who are exempt.",
+    "Must require a medical facility not available in Government Hospitals of Goa (except NICU, ventilatory support, and kidney dialysis where any empanelled hospital can be chosen).",
+    "Must be suffering from a sickness requiring one of the listed super‑specialty treatments (CAPD, dialysis, plastic surgery, ICU, NICU, PICU, trauma care, CABG/PTCA, open heart surgery, kidney transplantation, neurosurgery, radiotherapy/chemotherapy, cochlear implant, spastic child, cerebral palsy, skeletal deformities, bone marrow transplant)."
+  ],
+  "benefits_summary": "Provides financial assistance for a range of super‑specialty treatments with ceiling limits from ₹15,000 per month up to ₹8,00,000 per treatment.",
+  "documents_required": [],
+  "application_link": null
+}

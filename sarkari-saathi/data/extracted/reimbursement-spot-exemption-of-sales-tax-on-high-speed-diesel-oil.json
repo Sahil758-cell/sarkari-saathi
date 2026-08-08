@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Reimbursement/ Spot Exemption of Sales Tax on High-Speed Diesel Oil",
+  "occupation": [
+    "fishing",
+    "fish trade"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the fishermen community or be professionally engaged in fishing/fish trade on a full‑time basis or be a prospective entrepreneur",
+    "Applicant must have resided in the Union territory of Puducherry continuously for at least five years at the time of applying",
+    "Applicant must be enrolled as a member of the Fishermen Co‑operative Society",
+    "Applicant must be above 23 years of age and below 60 years of age",
+    "Applicant must not have been a recipient of Old Age Pension issued by the department",
+    "Applicant must not be employed in Government, Government Undertakings, or Fishermen Co‑operative Society",
+    "Applicant must have no dues payable to the Department or Fishermen Co‑operative Societies at the time of application",
+    "Applicant must possess a registered mechanized boat or motorized fishing craft that is renewed annually",
+    "Applicant must renew the diesel passbook on a monthly basis",
+    "Applicant must submit bills as proof of diesel drawn from authorised bunkers",
+    "Applicant must not undertake fishing during notified fish‑ban periods"
+  ],
+  "benefits_summary": "Sales tax on high‑speed diesel oil used by a registered boat is reimbursed/spot‑exempted up to 15,000 liters per boat per year.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph",
+    "Mandatory supporting documents (self‑attested)",
+    "Bills as proof of diesel purchase"
+  ],
+  "application_link": null
+}

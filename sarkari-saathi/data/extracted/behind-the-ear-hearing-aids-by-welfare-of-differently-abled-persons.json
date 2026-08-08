@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Behind the Ear Hearing Aids by Welfare of Differently Abled Persons",
+  "occupation": [
+    "Student",
+    "Self-Employed",
+    "Employed Persons"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a hearing‑impaired person",
+    "Beneficiary must be studying from 6th standard and above"
+  ],
+  "benefits_summary": "Free distribution of behind the ear hearing aids.",
+  "documents_required": [],
+  "application_link": null
+}

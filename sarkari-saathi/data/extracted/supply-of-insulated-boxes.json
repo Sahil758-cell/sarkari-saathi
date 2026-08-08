@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Supply of Insulated Boxes",
+  "occupation": [
+    "fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Fisherman engaged in selling and marketing fish",
+    "Fisherman engaged in fishing at sea with a canoe",
+    "Fisherman engaged in fishing at sea with a mechanized fishing vessel with up to 6‑cylinder engines"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 75 % of the cost of insulated fish boxes, with maximum subsidy limits of ₹1,500 for a 50 L box, ₹7,000 for 100 L and 220 L boxes, and ₹15,000 for 220 L and 400 L boxes depending on the fisherman's activity.",
+  "documents_required": [],
+  "application_link": null
+}

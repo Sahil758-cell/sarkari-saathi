@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pre-Matric Scholarships to the Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a child or ward of an Indian national whose parent/guardian belongs to one of the following occupations: tanner, flayer, waste picker, manual scavenger, or engaged in hazardous cleaning as defined under the Manual Scavengers Act 2013.",
+    "Student may not take up employment or assist parents in their work during the period of study.",
+    "Student must maintain regular attendance as determined by the competent school authority.",
+    "Scholarship will be discontinued if the student fails to secure annual promotion unless unavoidable reasons are certified by the Head of the Institution.",
+    "Scholarship may be suspended or cancelled for violation of school discipline or any other terms and conditions of the scheme.",
+    "Migration from one institution to another during the academic year is not normally allowed except under exceptional circumstances.",
+    "Beneficiary is not allowed to avail benefits under any other pre‑matric scholarship scheme.",
+    "Student must be enrolled in class 1st‑10th (day scholars) or class 3rd‑10th (hostellers)."
+  ],
+  "benefits_summary": "Provides a monthly scholarship of ₹110 for day scholars (class 1‑10) and ₹700 for hostellers (class 3‑10) for ten months, plus ad‑hoc grants and additional allowances for students with disabilities.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Market Support Scheme for Smaller Business Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit (new or existing) must have its operations located in Goa.",
+    "The applicant must be a Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership as defined under the relevant Indian Acts.",
+    "The bank account(s) of the unit and/or its partner(s)/director(s) must be linked to Aadhaar.",
+    "Pre‑approval from the Empowered Committee is required before attending an exhibition to claim reimbursement.",
+    "Application must be submitted at least 60 days prior to the exhibition date."
+  ],
+  "benefits_summary": "Provides 50% reimbursement of exhibition rental cost up to 9 sq m for national/international exhibitions, subject to pre‑approval.",
+  "documents_required": [],
+  "application_link": null
+}

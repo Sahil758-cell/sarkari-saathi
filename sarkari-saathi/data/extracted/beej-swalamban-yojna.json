@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Beej Swalamban Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmers must be interested in progressive and crop‑specific farming."
+  ],
+  "benefits_summary": "Farmers receive free certified seeds and training, enabling lower‑cost production and higher income.",
+  "documents_required": [],
+  "application_link": null
+}

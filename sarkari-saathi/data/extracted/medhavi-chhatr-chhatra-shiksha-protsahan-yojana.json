@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Medhavi Chhatr/Chhatra Shiksha Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "First two children from a family where a parent is a factory worker must be registered",
+    "Applicants must score more than 75% marks in their examination",
+    "Beneficiaries become eligible for benefits after 90 days of registration",
+    "Applicant should be studying in class 10th, 12th, graduate, post‑graduate or selected courses"
+  ],
+  "benefits_summary": "Cash incentives ranging from ₹5,000 for class 10th/12th up to ₹12,500 for vocational/professional courses, plus reimbursement of admission fees, hostel, food and an annual Rs 2,000 for books and stationery.",
+  "documents_required": [],
+  "application_link": null
+}

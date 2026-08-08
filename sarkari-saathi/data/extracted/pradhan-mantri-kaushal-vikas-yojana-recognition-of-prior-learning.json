@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana - Recognition Of Prior Learning",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian national.",
+    "Must be between 18 and 45 years of age (unless higher age is approved by the PMKVY Executive Committee/State level Empowered Committee).",
+    "Must have prior experience in the specific job role as defined by the respective Sector Skill Council (SSC).",
+    "Must possess an Aadhaar and an Aadhaar‑linked bank account.",
+    "Must fulfill any additional work‑experience criteria specified by the SSCs for the respective job role."
+  ],
+  "benefits_summary": "Certified candidates receive a cash reward of Rs. 500, a 3‑year accidental insurance cover of Rs. 2 lakh, and an RPL kit including apparel and study material.",
+  "documents_required": [
+    "Aadhaar",
+    "Aadhaar linked bank account"
+  ],
+  "application_link": "https://www.pmkvyofficial.org/trainingcenter"
+}

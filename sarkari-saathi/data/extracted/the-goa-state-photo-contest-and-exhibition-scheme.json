@@ -1,0 +1,23 @@
+{
+  "scheme_name": "The Goa State Photo Contest And Exhibition Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Born and residing in Goa for at least 15 years (preference), but the scheme does not bar others."
+  ],
+  "benefits_summary": "Cash prizes of ₹20,000, ₹16,000 and ₹12,000 per category, plus five consolation prizes of ₹2,000, certificates and exhibition opportunities for selected entries.",
+  "documents_required": [
+    "Soft copy of high-resolution photographs"
+  ],
+  "application_link": null
+}

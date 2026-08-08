@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pradhan Mantri Awas Yojana - Urban",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "EWS"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "The family must not own a pucca house in any part of the country.",
+    "The family must consist of husband/wife and unmarried children.",
+    "The residence must be in a town or city that is covered under the scheme.",
+    "The family must not have previously availed benefits of any other government housing-related schemes.",
+    "Applicants and family members must have an Aadhaar or Aadhaar Virtual ID."
+  ],
+  "benefits_summary": "Provides interest subsidies and affordable housing to eligible urban households (EWS, LIG, MIG‑1, MIG‑2) through the Credit Linked Subsidy Scheme.",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

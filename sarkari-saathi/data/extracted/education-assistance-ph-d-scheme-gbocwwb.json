@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Education Assistance/Ph.D Scheme (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child must be the son or daughter of a construction worker registered with the Gujarat Building and Other Construction Workers Welfare Board (GBOCWWB).",
+    "Child must be enrolled in any grade from Class I up to higher education or professional courses.",
+    "Assistance is limited to two children per registered construction worker each year.",
+    "If a student fails in the same standard/class, they are not eligible for a second aid for that standard/class.",
+    "Assistance is not admissible if the child is admitted through the Right to Education, is studying in an Open University, is studying externally, or is receiving similar assistance from other departments.",
+    "Handicapped (disabled) children are exempt from the age limit of 30 years.",
+    "The application must be submitted within six months from the commencement of the academic session.",
+    "Separate application forms must be filled for each child.",
+    "All details in the application form must be completed accurately; otherwise the application will be considered invalid."
+  ],
+  "benefits_summary": "Provides annual financial assistance (₹1,800 to ₹2,00,000) plus hostel and book allowances for eligible children of registered construction workers pursuing education from Class I to postgraduate and professional courses.",
+  "documents_required": [],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

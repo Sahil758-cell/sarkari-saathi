@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries: Reimbursement of Stamp Duty and Registration Fees",
+  "occupation": [
+    "manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum investment of ₹2,500 crore in plant and machinery",
+    "Must provide direct employment to at least 2,500 persons",
+    "Must belong to one of the thrust sectors as defined in the Guidelines",
+    "Land must be purchased or leased during the eligible investment period",
+    "Unit must have commenced commercial production"
+  ],
+  "benefits_summary": "Eligible mega manufacturing units can claim 100% reimbursement of stamp duty and registration fees paid for land purchase or lease.",
+  "documents_required": [],
+  "application_link": null
+}

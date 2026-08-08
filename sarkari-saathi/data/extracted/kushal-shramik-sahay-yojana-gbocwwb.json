@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Kushal Shramik Sahay Yojana (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board",
+    "Eligibility limited to two children (son or daughter) of the registered worker",
+    "Children must be admitted to courses run by the Skill University or an affiliated institution",
+    "Age limit for children is a maximum of 30 years, with no age limit if the child is handicapped",
+    "Assistance is limited to the first trial in the academic year; a student who fails the same standard/class is not eligible for a second aid for that standard/class"
+  ],
+  "benefits_summary": "Full course fee reimbursed (entire fee for courses ≤1 year; fees reimbursed annually for courses >1 year)",
+  "documents_required": [],
+  "application_link": null
+}

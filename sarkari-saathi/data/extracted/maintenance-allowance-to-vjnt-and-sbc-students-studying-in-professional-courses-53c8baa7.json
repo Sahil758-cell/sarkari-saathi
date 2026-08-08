@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Maintenance Allowance To VJNT And SBC Students Studying In Professional Courses And Living In Hostel Attached To Professional Colleges",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must belong to the VJNT or SBC category",
+    "Students must be enrolled in professional courses such as Medical, Engineering, Animal Husbandry, etc.",
+    "Students must submit an application form for admission in a government hostel",
+    "Students must be admitted to hostels attached to professional colleges or approved private hostels"
+  ],
+  "benefits_summary": "Maintenance allowance of Rs. 700 per month for 4‑5 year professional courses and Rs. 500 per month for shorter courses, payable for 10 months.",
+  "documents_required": [
+    "Application form for admission in Govt. Hostel"
+  ],
+  "application_link": null
+}

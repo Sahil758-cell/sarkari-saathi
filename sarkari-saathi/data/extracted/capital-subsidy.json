@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Capital Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "All new micro manufacturing enterprises established anywhere in Tamil Nadu are eligible.",
+    "All new small and medium enterprises operating in any of the 24 listed thrust sectors are eligible.",
+    "All new small and medium manufacturing enterprises located in any of the 254 industrially backward blocks are eligible.",
+    "All new agro‑based small and medium manufacturing enterprises located in any of the 388 blocks are eligible.",
+    "Existing manufacturing enterprises of the above categories undertaking substantial expansion or diversification are eligible.",
+    "Enterprises set up by women, scheduled castes, scheduled tribes, differently‑abled and transgender entrepreneurs are eligible for an additional 5% subsidy.",
+    "The application must be submitted within one year from the commencement of commercial production."
+  ],
+  "benefits_summary": "25% capital subsidy on eligible plant and machinery up to ₹1.5 crore, plus additional subsidies of up to ₹5 lakhs for women, SC, ST, differently‑abled and transgender entrepreneurs and up to ₹5 lakhs for micro‑enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

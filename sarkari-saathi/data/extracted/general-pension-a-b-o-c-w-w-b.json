@@ -1,0 +1,27 @@
+{
+  "scheme_name": "General Pension (A.B.O.C.W.W.B)",
+  "occupation": [
+    "building worker",
+    "construction work"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Assam",
+    "Must be engaged in any building or other construction work",
+    "Must be registered with the Assam Building and Other Construction Workers Welfare Board",
+    "Must have worked as a building worker for at least one year before reaching 60 years of age"
+  ],
+  "benefits_summary": "A pension of ₹2,000 plus ₹100 for each completed year of service, payable from the month after the worker turns 60 years old.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

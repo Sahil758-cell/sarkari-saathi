@@ -1,0 +1,29 @@
+{
+  "scheme_name": "The West Bengal Incentive Scheme: Waiver of Electricity Duty",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Tourism projects/units/expansion projects must be set up on or after 22 February 2021, or eligible hotel units that started commercial operation between 7 January 2015 and 31 December 2020 but could not apply earlier due to absence of a Bar in the Hotel",
+    "Units may belong to private, co‑operative, joint sectors or be companies/undertakings owned or managed by the State Government",
+    "Project must be covered by a detailed feasibility report/project prepared for the purpose",
+    "Project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution",
+    "Unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the West Bengal Tourism Development Corporation Limited"
+  ],
+  "benefits_summary": "Waiver of electricity duty on electricity consumed by the approved tourism project for five years from the date of commercial operation.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate"
+  ],
+  "application_link": null
+}

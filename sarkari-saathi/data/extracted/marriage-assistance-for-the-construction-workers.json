@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Marriage Assistance for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered woman member under the Sikkim Building and Other Construction Workers Welfare Board",
+    "Must have served the Board for at least 90 days in a given year",
+    "Immediate dependants are also covered"
+  ],
+  "benefits_summary": "Provides a marriage assistance of ₹10,000 to eligible women construction workers.",
+  "documents_required": [
+    "Application form",
+    "Identity Card (Form XXVIII)",
+    "Form XXVII (registration as beneficiary)"
+  ],
+  "application_link": null
+}

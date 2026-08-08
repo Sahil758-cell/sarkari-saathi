@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Rajiv Gandhi National Fellowship For Scheduled Caste Candidates",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to Scheduled Caste (SC) or Scheduled Tribe (ST) category",
+    "Must have passed the post‑graduation examination in the concerned subject",
+    "Must be registered for a full‑time M.Phil. or Ph.D. programme",
+    "Must be pursuing full‑time research without having obtained a JRF from UGC‑NET or UGC‑CSIR NET",
+    "Transgender candidates are eligible to apply",
+    "Reservations will be applied as per Government of India norms"
+  ],
+  "benefits_summary": "Provides a five‑year fellowship with a monthly stipend (₹25,000–₹28,000) and additional allowances for eligible SC/ST candidates pursuing M.Phil. or Ph.D.",
+  "documents_required": [],
+  "application_link": "http://www.ugc.ac.in/ugc_schemes/"
+}

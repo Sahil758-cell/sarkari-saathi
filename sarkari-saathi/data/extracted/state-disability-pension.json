@@ -1,0 +1,21 @@
+{
+  "scheme_name": "State Disability Pension",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "must be entirely blind or bedridden due to a disability"
+  ],
+  "benefits_summary": "Monthly pension of ₹350 per month for eligible disabled individuals.",
+  "documents_required": [],
+  "application_link": null
+}

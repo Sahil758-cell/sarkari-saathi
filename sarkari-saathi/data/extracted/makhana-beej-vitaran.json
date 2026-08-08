@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Makhana Beej Vitaran",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to any of the following districts of Bihar: Katihar, Purnia, Madhubani, Kishanganj, Supaul, Araria, Madhepura, Saharsa, Darbhanga, Sitamarhi, Khagaria",
+    "Applicant must have agricultural land between 0.25 acres (0.1 ha) and 10 acres (4 ha)",
+    "Applicant must be registered on the DBT portal",
+    "Target women participation is 30%",
+    "Benefits can be taken by ryot farmers on the basis of land documents and by non‑ryot farmers on the basis of contract form",
+    "Beneficiaries will be selected on a first‑come‑first‑serve basis"
+  ],
+  "benefits_summary": "Subsidized seeds are provided at a 75% subsidy – ₹4,950 for Swarn Vaidehi and ₹5,737.50 for Sabour Makhana‑1 per hectare.",
+  "documents_required": [],
+  "application_link": null
+}

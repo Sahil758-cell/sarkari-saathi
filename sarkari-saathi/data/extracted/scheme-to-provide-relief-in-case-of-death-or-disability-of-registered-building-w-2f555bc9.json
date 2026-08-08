@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme to Provide Relief in Case of Death or Disability of Registered Building Workers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the nominee or dependent of the deceased construction worker.",
+    "The deceased construction worker must be registered with the Andhra Pradesh Building and Other Construction Workers Welfare Board.",
+    "The construction worker must be registered under the Andhra Pradesh Building and Other Construction Workers Welfare Board for permanent disability benefit.",
+    "The construction worker must be disabled to qualify for the permanent disability relief."
+  ],
+  "benefits_summary": "Provides ₹5,00,000 for accidental death or permanent disability and ₹60,000 for natural death relief.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Accidental Injuries",
+  "occupation": [
+    "worker",
+    "craftsman"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in the unorganized sector as a worker or craftsman within Bihar."
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000.",
+  "documents_required": [],
+  "application_link": null
+}

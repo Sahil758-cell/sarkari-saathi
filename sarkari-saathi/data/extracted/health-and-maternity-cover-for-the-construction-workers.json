@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Health and Maternity Cover for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "any",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "U.T. Administration of Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in any building or other construction work for at least 90 days in a given year",
+    "Benefits are limited to the first two children of the applicant",
+    "Applicant must be a registered member under the Building and Other Construction Workers Welfare Board of the UT"
+  ],
+  "benefits_summary": "Provides cash assistance of ₹30,000 for male workers and ₹40,000 for female workers per delivery (limited to the first two children), and enrolls beneficiaries under PM-JAY (Ayushman Bharat).",
+  "documents_required": [
+    "prescribed form",
+    "prescribed documents",
+    "mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

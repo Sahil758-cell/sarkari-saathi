@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Swami Vivekananda Single Girl Child Fellowship for Research in Social Sciences",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a single girl child (the only girl in the family; no brothers or sisters) – twin daughters/fraternal daughters are also eligible",
+    "Must be enrolled in a regular full‑time Ph.D. programme in Social Sciences at a UGC‑approved university/college/institute (section 2(f) and 12(b), deemed universities, central/state funded or Institutes of National Importance)",
+    "Distance‑education Ph.D. programmes are not eligible",
+    "Age limit: up to 40 years for general category and up to 45 years for SC, ST, OBC and PWD candidates as on the last date of online application",
+    "Transgender candidates are eligible to apply"
+  ],
+  "benefits_summary": "Provides a monthly fellowship of ₹25,000 for the first two years, rising to ₹28,000 thereafter, along with annual contingency funding and additional assistance for PWD candidates.",
+  "documents_required": [],
+  "application_link": "https://www.ugc.gov.in/"
+}

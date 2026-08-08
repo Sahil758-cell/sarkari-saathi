@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Pension Scheme (HPBOCWWB)",
+  "occupation": [
+    "Building or Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Himachal Pradesh",
+    "Must have worked in building or construction activities for at least 90 days in the preceding 12 months",
+    "Registration must be renewed annually",
+    "Worker must have continuous membership with the Welfare Board for three years before attaining age 60"
+  ],
+  "benefits_summary": "Monthly pension of at least ₹1,000 for eligible workers aged 60 and above.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph",
+    "Wage slip or appointment letter from employer",
+    "Certificate from local authority (e.g., councilor, executive officer, Panchayat Secretary)"
+  ],
+  "application_link": null
+}

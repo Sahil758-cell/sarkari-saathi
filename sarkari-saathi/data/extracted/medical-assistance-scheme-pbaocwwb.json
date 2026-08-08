@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Medical Assistance Scheme (PBAOCWWB)",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+    "The applicant must be contributing to the Board's Fund.",
+    "The applicant must not have defaulted in payment of contribution to the Board for more than one continuous year.",
+    "The applicant must have been hospitalized for five or more days due to an accident or any disease."
+  ],
+  "benefits_summary": "Financial assistance of ₹500 for the first 5 days and ₹50 per subsequent day up to a maximum of ₹1,500 per month, credited within 15 days via Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Self‑attested copies of mandatory documents",
+    "Completed registration/application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "NPS Vatsalya Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Any minor who is a Citizen of India is eligible to open an account under the scheme up to the age of eighteen years.",
+    "The account must be opened by a natural or legal guardian in the minor’s name.",
+    "The guardian must comply with KYC norms as per PFRDA requirements.",
+    "If the guardian is court‑appointed, a copy of the court order confirming guardianship must be submitted."
+  ],
+  "benefits_summary": "Provides a head start on retirement savings for children, with automatic transition to a regular NPS Tier‑I account at age 18.",
+  "documents_required": [
+    "Proof of Date of Birth of the minor",
+    "KYC details of the guardian (Name, Date of Birth, Gender, Address, Photo) fetched from UIDAI or CERSAI database",
+    "Court order confirming guardianship (if guardian is court‑appointed)"
+  ],
+  "application_link": "https://npstrust.org.in"
+}

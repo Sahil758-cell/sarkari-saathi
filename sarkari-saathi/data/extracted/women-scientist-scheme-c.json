@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Women Scientist Scheme-C",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 27,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a career break"
+  ],
+  "benefits_summary": "Monthly stipend of ₹35,000 for Ph.D., ₹30,000 for M.Phil/M.Tech/M.Pharm/M.VSc, and ₹25,000 for M.Sc/MBBS/B.Tech candidates.",
+  "documents_required": [],
+  "application_link": "http://115.112.95.114/wosc/online/Control.do?_mXpa=100&54003&$sa"
+}

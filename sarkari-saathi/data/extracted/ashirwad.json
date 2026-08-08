@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Ashirwad",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 32790,
+  "category": [
+    "SC",
+    "EWS"
+  ],
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Application can be submitted before the fixed date of marriage or up to 30 days after the marriage.",
+    "Financial assistance is limited to a maximum of two girls per family.",
+    "Eligibility category noted in source: Christian",
+    "Eligibility category noted in source: Backward Classes",
+    "Eligibility category noted in source: Daughters of widows",
+    "Eligibility category noted in source: Scheduled Castes widows/divorcees"
+  ],
+  "benefits_summary": "Provides financial assistance of ₹51,000 per eligible girl.",
+  "documents_required": [],
+  "application_link": null
+}

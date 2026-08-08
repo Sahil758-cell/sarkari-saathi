@@ -1,0 +1,42 @@
+{
+  "scheme_name": "Indira Gandhi Shehri Credit Card Yojana",
+  "occupation": [
+    "street vendor",
+    "hair dresser",
+    "rickshaw-puller",
+    "potter",
+    "eater",
+    "cobbler",
+    "mechanic",
+    "tailor",
+    "washerman",
+    "paint‑painter",
+    "plumbing‑electric repairman",
+    "unemployed"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Rajasthan",
+    "Monthly income of the applicant must not exceed Rs 15,000",
+    "Family monthly income must not exceed Rs 50,000",
+    "Must possess a certificate or identity card issued by the urban body",
+    "Alternatively, a recommendation letter from the Town Vending Committee is acceptable",
+    "Selection during the survey makes the applicant eligible"
+  ],
+  "benefits_summary": "Interest‑free loan up to Rs 50,000 to support informal sector businesses and promote self‑employment.",
+  "documents_required": [
+    "Certificate or identity card issued by the urban body",
+    "Recommendation letter from Town Vending Committee"
+  ],
+  "application_link": null
+}

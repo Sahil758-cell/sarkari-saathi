@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scholarship/Merit Scholarship Schools SC/ST/OBC/Min (Studying in College/Technical/ Professional Institutions)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student enrolled in a recognized school, college or institution in India.",
+    "The applicant must have secured at least 60% marks in the previous examination.",
+    "For OBC/Minority students, the annual family income must not exceed ₹2,00,000."
+  ],
+  "benefits_summary": "Monthly scholarship of ₹420–₹1,860 payable for 12 months, amount varies by course group and hosteller/day scholar status.",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

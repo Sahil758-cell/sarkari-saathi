@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Distribution of Soil Health Card",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must have provided soil samples for testing",
+    "The beneficiary must have paid the prescribed fee of ₹5 each for Macro and Micronutrient testing"
+  ],
+  "benefits_summary": "Soil Health Cards are provided to farmers.",
+  "documents_required": [],
+  "application_link": null
+}

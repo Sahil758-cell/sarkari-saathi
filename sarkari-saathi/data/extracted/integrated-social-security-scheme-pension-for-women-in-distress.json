@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Integrated Social Security Scheme: Pension for Women in Distress",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 40,
+  "age_max": 79,
+  "max_annual_income": 0,
+  "category": null,
+  "state": [
+    "Ladakh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a distressed woman (destitute, separated, divorced, or widow)"
+  ],
+  "benefits_summary": "₹1,000 per month pension paid to eligible women",
+  "documents_required": [
+    "Passport-size scan photo (jpg, <50 kB)"
+  ],
+  "application_link": null
+}

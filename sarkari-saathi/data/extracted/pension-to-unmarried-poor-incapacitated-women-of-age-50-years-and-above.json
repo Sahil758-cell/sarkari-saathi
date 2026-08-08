@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pension to Unmarried Poor, Incapacitated Women of Age 50 years and above",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 50,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "must be unmarried",
+    "must be destitute",
+    "fixed assets must not exceed ₹100,000"
+  ],
+  "benefits_summary": "A monthly pension of ₹1,000 along with one free saree and free rice allocation.",
+  "documents_required": [],
+  "application_link": null
+}

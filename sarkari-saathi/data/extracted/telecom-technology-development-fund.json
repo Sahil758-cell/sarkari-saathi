@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Telecom Technology Development Fund",
+  "occupation": [
+    "Domestic Company",
+    "Startup",
+    "MSME",
+    "Academic institution",
+    "R&D institution",
+    "Section 8 company",
+    "Society",
+    "Central government entity",
+    "State government entity",
+    "PSU",
+    "Autonomous Body",
+    "SPV",
+    "Limited liability partnership",
+    "Collaborative consortium"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only Indian entities are eligible.",
+    "Minimum Technology Readiness Level (TRL) of 7 is required for pilot applications.",
+    "For pilots, eligible entities may partner with PSUs, TSPs, central/state government entities, autonomous bodies, SPVs, etc."
+  ],
+  "benefits_summary": "Supports development, manufacturing, and deployment of indigenous telecom technologies and solutions for rural and remote areas.",
+  "documents_required": [],
+  "application_link": "https://usof.gov.in/en/home"
+}

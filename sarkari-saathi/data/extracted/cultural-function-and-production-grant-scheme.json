@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Cultural Function And Production Grant Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a voluntary organization or NGO.",
+    "The organization must have a properly constituted managing body with powers, duties and responsibilities defined in a written constitution.",
+    "The organization must be registered under the Societies Registration Act (XXI of 1860), Trusts Act, Companies Act, or any Central or State Act for at least three years.",
+    "The organization must register on the NGO Darpan Portal of NITI Aayog and obtain a Unique ID.",
+    "The Unique ID and the PAN Number of the organization must be provided while applying.",
+    "The organization must have matching resources amounting to at least 25 % of the project cost.",
+    "The organization should have facilities, resources, personnel, and experience to undertake the proposed event/project.",
+    "Past experience of organizing similar functions is given preference.",
+    "Foreign delegations may not be invited without prior permission from the Ministry of External Affairs routed through the Ministry of Culture."
+  ],
+  "benefits_summary": "Provides a grant covering up to 75 % of project expenditure, capped at ₹5 lakh per project, with possible increase up to ₹20 lakh for projects of outstanding merit.",
+  "documents_required": [
+    "NGO Darpan Portal Unique ID",
+    "PAN Number of the organization",
+    "Prescribed application proforma",
+    "Recommendation letter from a National Academy or other culture‑related organization"
+  ],
+  "application_link": null
+}

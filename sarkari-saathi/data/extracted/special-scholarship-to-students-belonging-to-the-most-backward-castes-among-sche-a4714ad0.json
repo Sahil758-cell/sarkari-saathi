@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Special Scholarship to Students Belonging to the Most Backward Castes among Scheduled Castes (Vandaniya Sant Shri Vasiyadada Scholarship)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to one of the most backward castes among Scheduled Castes in Gujarat (Valmiki, Hadi, Nadia, Senva, Turi, Garo, Harijan‑Bava, Vanker‑Sadhu)",
+    "Student must be studying in Standard I to X"
+  ],
+  "benefits_summary": "Scholarship of ₹1000 per year for students in Standards I‑VIII and ₹1500 per year for students in Standards IX‑X.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in"
+}

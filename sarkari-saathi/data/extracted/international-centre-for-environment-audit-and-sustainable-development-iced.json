@@ -1,0 +1,24 @@
+{
+  "scheme_name": "International Centre for Environment Audit and Sustainable Development (iCED)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian national.",
+    "Applicant must be a graduate or pursuing post‑graduate/doctoral studies in one of the specified fields such as Ocean Science, Environmental Science, Environmental Management, Environment Audit, Environmental Economics, Environmental Law, Public Administration, Public Policy, Sustainable Development, Information Technology, Data Analytics, Architecture, Human Resource Management, Disaster Management or related streams.",
+    "Applicant must be studying at a university/institution of national or international repute.",
+    "Applicants awarded a Junior Research Fellowship by the University Grants Commission for research in these subjects will be given preference."
+  ],
+  "benefits_summary": "Token remuneration of ₹10,000 per month (reduced to ₹5,000 if lodging is provided) and a certificate upon successful completion of the internship.",
+  "documents_required": [
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": "iced@cag.gov.in"
+}

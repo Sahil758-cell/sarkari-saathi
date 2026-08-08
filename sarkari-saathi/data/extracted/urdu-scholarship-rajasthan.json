@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Urdu Scholarship- Rajasthan",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Must be studying Urdu as an optional subject at the graduation or post‑graduation level",
+    "Must be regularly enrolled in a recognized college or university",
+    "Graduation‑level applicants need at least 50 % marks in the previous qualifying examination",
+    "Post‑graduation‑level applicants need at least a second division in the previous examination",
+    "For renewal, the student must have been sanctioned a scholarship in the previous year and must have secured at least 50 % marks and passed in second division in the last examination"
+  ],
+  "benefits_summary": "Monthly scholarship of ₹100 for undergraduate students and ₹150 for postgraduate students studying Urdu.",
+  "documents_required": [],
+  "application_link": null
+}

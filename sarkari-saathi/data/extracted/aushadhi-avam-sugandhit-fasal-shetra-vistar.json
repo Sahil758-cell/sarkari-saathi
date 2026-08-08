@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Aushadhi Avam Sugandhit Fasal Shetra Vistar",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable for all sections of farmers",
+    "Farmers who have obtained forest rights certificates are eligible",
+    "Grant is payable only once to a farmer",
+    "Grant is payable for a minimum of 0.25 hectare and a maximum of 2.00 hectare"
+  ],
+  "benefits_summary": "Provides a subsidy of 20‑50% (₹5,000–₹62,500 per hectare) for the cultivation of medicinal and aromatic crops.",
+  "documents_required": [],
+  "application_link": null
+}

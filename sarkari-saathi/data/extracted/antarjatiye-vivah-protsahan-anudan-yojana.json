@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Antarjatiye Vivah Protsahan Anudan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The marriage must be between individuals of different castes (inter‑caste marriage).",
+    "Both bride and groom must belong to poor families."
+  ],
+  "benefits_summary": "A one‑time grant of ₹1,00,000 payable to the bride.",
+  "documents_required": [],
+  "application_link": null
+}

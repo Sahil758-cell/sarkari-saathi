@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Shramik Parivahan Yojana (GBOCWWB)",
+  "occupation": [
+    "building work",
+    "other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be engaged in any building or other construction work",
+    "The applicant must be registered with the Gujarat Building and Other Construction Worker’s Welfare Board"
+  ],
+  "benefits_summary": "Registered construction workers receive a bus pass at a concessional rate, paying only 20% of the fare while the board covers the remaining 80%.",
+  "documents_required": [],
+  "application_link": null
+}

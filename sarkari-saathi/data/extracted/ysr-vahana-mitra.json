@@ -1,0 +1,36 @@
+{
+  "scheme_name": "YSR Vahana Mitra",
+  "occupation": [
+    "Auto driver",
+    "Taxi driver",
+    "Maxi cab driver"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must own and drive an auto‑rickshaw, taxi or maxi‑cab.",
+    "The vehicle must be in the possession of the owner and the owner’s name must match the bank account used for payment.",
+    "The applicant must possess a valid driving licence for an auto‑rickshaw or light motor vehicle.",
+    "The applicant must not be a beneficiary under any other Government of Andhra Pradesh scheme for the same occupational group.",
+    "The applicant and family members must not be government employees or pensioners (sanitary workers’ families are exempt).",
+    "The applicant and family members must not be income‑tax payees.",
+    "Average monthly electricity consumption of the family dwelling unit must be less than 300 units (based on the preceding six months).",
+    "The applicant must not own land exceeding 3 acres wet, 10 acres dry, or 10 acres wet & dry combined.",
+    "In municipal areas, the family must not own residential/commercial built‑up area exceeding 1,000 sq ft.",
+    "The applicant must not be a GSTN holder.",
+    "Only one vehicle per family (husband, wife and minor children) is eligible for benefits.",
+    "Eligibility is limited to one person per family on a white ration card, even if ownership or licence is in the name of different family members."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹10,000 per annum to self‑owned auto/taxi drivers for insurance, fitness certificates, repairs and related expenses, disbursed via bank transfer or AEPS.",
+  "documents_required": [
+    "Driving licence"
+  ],
+  "application_link": null
+}

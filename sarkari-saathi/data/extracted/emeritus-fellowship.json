@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Emeritus Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 70,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Highly qualified and experienced superannuated teachers of recognized universities/colleges/institutions are eligible",
+    "Applicant must not hold any other post or be gainfully employed at the time of joining the fellowship",
+    "The fellowship must be joined within three months of the award letter issuance",
+    "The awardee can work up to the age of 70 years or for a maximum of two years, whichever is earlier",
+    "No extension of the fellowship period is permitted",
+    "The fellow must submit a research report and upload the work to the INFLIBNET repository at the end of the tenure",
+    "The fellow must submit an Undertaking Certificate signed by the head of the research centre"
+  ],
+  "benefits_summary": "Provides a monthly honorarium of Rs 31,000 for two years plus a contingency grant of Rs 50,000 per year for research-related expenses.",
+  "documents_required": [
+    "Undertaking Certificate (Annexure‑I)",
+    "Award Letter",
+    "Joining Report with photograph, address and contact number (Annexure‑II)",
+    "Continuation Certificate (Annexure‑III)",
+    "Progress Report abstract (after one year)",
+    "Accounts of contingency grants (Annexure‑IV)"
+  ],
+  "application_link": "https://www.ugc.ac.in/"
+}

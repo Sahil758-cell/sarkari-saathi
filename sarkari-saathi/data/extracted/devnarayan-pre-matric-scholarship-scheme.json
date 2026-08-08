@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Devnarayan Pre-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to the listed Other Backward Classes: Banjara, Baladiya, Labana, Gadia‑Lohar, Gadolia, Gujar, Gurjar, Raika, Raibari (Debasi), Gadariya (Gadri), Gayari",
+    "If employed, the student must be a full‑time student taking leave without pay for the entire course",
+    "All children of the same parent/guardian are eligible",
+    "Must not be receiving any other scholarship or allowance from central, state or public sources"
+  ],
+  "benefits_summary": "Provides free education-related supplies and a monthly cash scholarship (₹50–₹120 per month, varying by class and gender) to eligible students.",
+  "documents_required": [],
+  "application_link": null
+}

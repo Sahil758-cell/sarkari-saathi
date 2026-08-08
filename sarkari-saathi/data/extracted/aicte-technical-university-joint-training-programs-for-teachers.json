@@ -1,0 +1,21 @@
+{
+  "scheme_name": "AICTE- TECHNICAL UNIVERSITY JOINT TRAINING PROGRAMS FOR TEACHERS",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only AICTE‑approved institutions affiliated with the partner university are eligible to participate."
+  ],
+  "benefits_summary": "AICTE provides a grant of up to ₹1,50,000 per training program, matched by the university, to cover expenses such as honorarium, travel, materials, and participant boarding.",
+  "documents_required": [
+    "Mandate Form"
+  ],
+  "application_link": "http://portal.aicte-india.org/partnerportal_enu/start.swe"
+}

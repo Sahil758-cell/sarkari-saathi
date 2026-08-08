@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan Scheme For Farmers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Individual farmer",
+    "Group of farmers",
+    "Farmer Producer Organization (FPO)",
+    "Panchayat",
+    "Co‑operatives",
+    "Water User Associations"
+  ],
+  "benefits_summary": "Provides a 60% subsidy and a 30% loan, so farmers bear only 10% of the cost for solar irrigation pumps and can sell excess power to the government.",
+  "documents_required": [],
+  "application_link": null
+}

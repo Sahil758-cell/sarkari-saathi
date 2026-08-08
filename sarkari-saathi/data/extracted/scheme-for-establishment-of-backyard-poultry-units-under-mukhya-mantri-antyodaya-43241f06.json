@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be unemployed",
+    "No mandatory educational qualifications or training requirements"
+  ],
+  "benefits_summary": "Free provision of 50 ten‑day‑old chicks along with two feeders and two water drinkers delivered to the beneficiary’s doorstep.",
+  "documents_required": [],
+  "application_link": null
+}

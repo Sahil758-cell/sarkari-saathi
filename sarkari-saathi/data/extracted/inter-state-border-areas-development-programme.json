@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Inter-state Border Areas Development Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be residents of Meghalaya living in remote and inaccessible areas situated near the international border."
+  ],
+  "benefits_summary": "Provides infrastructure and socio‑economic development projects to improve the lives of residents in Meghalaya's border areas.",
+  "documents_required": [],
+  "application_link": "The Directorate of Border Areas Development submits proposals to Border Areas Development Department, the Department then forwards the same to Planning and Finance Departments for approval and sanction."
+}

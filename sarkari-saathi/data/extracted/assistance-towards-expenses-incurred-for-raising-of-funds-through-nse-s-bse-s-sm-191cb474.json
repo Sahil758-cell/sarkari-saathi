@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Assistance Towards Expenses Incurred for Raising of Funds through NSE’s/ BSE’s SME Exchange Platform",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a Udyam Registration Certificate (URC) or MSME registration under the MSMED Act, 2006",
+    "Enterprise must be established in Rajasthan",
+    "Enterprise must have successfully raised capital through an SME Exchange platform during the scheme’s operative period and file the application within that period",
+    "Application must be submitted within one year from the date of successful listing on the SME Exchange platform",
+    "Enterprise must follow SEBI guidelines for raising capital through the SME Exchange",
+    "Only enterprises engaged in Manufacturing and Services are eligible",
+    "Enterprise must be in regular production/commercially active at the time of disbursement; assistance is not released to a closed unit"
+  ],
+  "benefits_summary": "Provides a one‑time financial support up to ₹15 lakh for expenses incurred in raising equity on NSE/BSE SME exchange platforms.",
+  "documents_required": [
+    "Udyam Registration Certificate (URC) or MSME registration under MSMED Act, 2006",
+    "Application form (Annexure 2.1)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

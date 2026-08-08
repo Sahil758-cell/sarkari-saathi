@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Sanctioning of Daisy Players to Visually Challenged",
+  "occupation": null,
+  "gender": null,
+  "age_min": 16,
+  "age_max": 23,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in classes 9th to degree courses",
+    "Student must be visually challenged (differently abled)",
+    "Laptop can be sanctioned only once in the student’s lifetime",
+    "Parent/Guardian income determines the level of cost coverage"
+  ],
+  "benefits_summary": "Free Daisy Players are provided, with cost coverage varying according to parent/guardian monthly income.",
+  "documents_required": [
+    "Aadhaar card",
+    "Mobile number",
+    "Email ID"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Gopinath Munde Shetkari Apghat Suraksha Sanugrah Audhan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 10,
+  "age_max": 75,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Registered farmer aged between 10 and 75 years.",
+    "Farmer must be registered in Maharashtra, evidenced by a 7/12 extract.",
+    "One family member of the farmer (who is not a registered account holder) is also eligible.",
+    "All 1.52 crore farmers of the state and one family member from their family are covered."
+  ],
+  "benefits_summary": "Compensation up to Rs. 2 lakh for death and up to Rs. 2 lakh for various disability categories.",
+  "documents_required": [
+    "7/12 extract"
+  ],
+  "application_link": null
+}

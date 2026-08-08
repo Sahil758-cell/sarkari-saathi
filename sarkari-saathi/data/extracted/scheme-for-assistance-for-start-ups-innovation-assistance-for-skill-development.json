@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for assistance for Start Ups/ Innovation: Assistance for Skill Development",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual or a group of individuals with an innovative idea or concept",
+    "The idea must be recommended by an approved Nodal Institution",
+    "Applicant must be a startup operating in any sector such as science, technology, engineering, agriculture, healthcare, etc.",
+    "Startups receiving benefits under the Student Startup and Innovation Policy (SSIP) are also eligible"
+  ],
+  "benefits_summary": "Financial assistance up to ₹1,00,000 on a reimbursement basis for skill‑development training programs.",
+  "documents_required": [],
+  "application_link": null
+}

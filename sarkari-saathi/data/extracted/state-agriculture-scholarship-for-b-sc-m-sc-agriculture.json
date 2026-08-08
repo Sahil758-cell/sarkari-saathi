@@ -1,0 +1,23 @@
+{
+  "scheme_name": "State Agriculture Scholarship for B.Sc. & M.Sc. Agriculture",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be from an institution with a valid AISHE/UDISE code.",
+    "Students who have failed in their last examination (repeaters) are not eligible.",
+    "Applicants must not be a beneficiary of any other scholarship scheme."
+  ],
+  "benefits_summary": "Scholarship of ₹700 per month for B.Sc. Agriculture and ₹900 per month for M.Sc. Agriculture, along with annual book grants and reimbursements.",
+  "documents_required": [],
+  "application_link": "https://scholarship.nagaland.gov.in"
+}

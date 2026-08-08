@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Modified Special Wheel Chairs for Persons Affected with Cerebral Palsy",
+  "occupation": null,
+  "gender": null,
+  "age_min": 12,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Affected with cerebral palsy.",
+    "Resident of a district/area in Tamil Nadu."
+  ],
+  "benefits_summary": "Free distribution of modified special wheel chairs.",
+  "documents_required": [],
+  "application_link": null
+}

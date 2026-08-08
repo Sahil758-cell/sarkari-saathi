@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Assistance for Funeral Expenses (O.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/ Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must not be a member of any other Welfare Fund established under any law",
+    "Applicant must be the nominee of a deceased registered member of the Board",
+    "The deceased member must have died"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹5,000 to the nominee of a deceased registered worker for funeral expenses.",
+  "documents_required": [],
+  "application_link": null
+}

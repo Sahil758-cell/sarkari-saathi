@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Chief Ministergi Artistesinggi Tengbang (CMAT): Support For Purchase Of Instruments / Equipment",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student at one of the following institutes: Government Dance College, Shree Shree Bal Mukunda Dev Music College, Imphal Art College, Manipur University of Culture, Jawaharlal Nehru Manipur Dance Academy, or Manipur University (Dance, Music, and Fine Art Department)",
+    "Applicant must be pursuing a course in an art form",
+    "Applicant may avail the scheme benefit twice during the period of studentship with a gap of one year"
+  ],
+  "benefits_summary": "Reimbursement towards the purchase of instruments or equipment for eligible students",
+  "documents_required": [
+    "Printed application form",
+    "Cover letter addressed to the Director (Art & Culture)"
+  ],
+  "application_link": null
+}

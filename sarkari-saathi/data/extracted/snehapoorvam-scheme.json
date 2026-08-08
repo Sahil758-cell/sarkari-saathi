@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Snehapoorvam Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The child must have lost either father or mother or both (orphan status)",
+    "Applicant must be a resident of Kerala state",
+    "Students from first standard to degree classes are eligible",
+    "For Above Poverty Line (APL) children, annual income must be below ₹20,000 in rural areas (Local body/Grama Panchayat)",
+    "For Above Poverty Line (APL) children, annual income must be below ₹22,375 in urban areas (Corporation/Municipality)",
+    "Children below 5 years of age are directly eligible"
+  ],
+  "benefits_summary": "Provides monthly financial assistance ranging from ₹300 for children below 5 years or classes I‑V up to ₹1,000 for degree or professional courses.",
+  "documents_required": [],
+  "application_link": null
+}

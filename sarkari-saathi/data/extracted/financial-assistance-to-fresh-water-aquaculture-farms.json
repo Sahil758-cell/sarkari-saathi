@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance to Fresh Water Aquaculture Farms",
+  "occupation": [
+    "Fish Farmer",
+    "Individual",
+    "Registered Self Help Group",
+    "Society",
+    "Association"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Goa for the last fifteen years",
+    "Applicant must be interested in freshwater fish or prawn farming"
+  ],
+  "benefits_summary": "Subsidies for construction/renovation (25% up to ₹2  lakh per hectare), equipment (50% up to ₹60 000 per hectare per year) and feed (25% up to ₹50 000 per hectare per year) for freshwater aquaculture farms.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

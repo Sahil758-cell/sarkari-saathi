@@ -1,0 +1,27 @@
+{
+  "scheme_name": "SMILE - Comprehensive Rehabilitation For Welfare Of Transgender Persons – Skill Development And Training",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold a valid Transgender Certificate and Identity Card issued by the National Portal for Transgender Persons",
+    "Applicant must belong to the transgender community as notified by the Government of India",
+    "Applicant must not be receiving benefits from any other Centre/State scheme",
+    "Each candidate can undergo training only once and can enroll in only one skill development programme",
+    "Passing a psychometric test is mandatory for enrollment",
+    "Maintaining at least 80% live attendance is required to receive the stipend and certificate of completion"
+  ],
+  "benefits_summary": "Free skill development training with a monthly stipend of Rs 1000 and post‑placement assistance for transgender candidates.",
+  "documents_required": [
+    "Transgender Certificate issued by the National Portal for Transgender Persons",
+    "Transgender Identity Card"
+  ],
+  "application_link": "https://transgender.dosje.gov.in/Applicant/Login/Index"
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Immediate Assistance for Severe Injury in Road/Fire Accident (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex‑serviceman or the widow of an Ex‑serviceman",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "Applicant must have suffered a severe injury in a road or fire accident",
+    "Applicant must not be a member of the Ex‑Servicemen Contributory Health Scheme (ECHS)"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 transferred to the beneficiary’s bank account via RTGS/NEFT.",
+  "documents_required": [],
+  "application_link": null
+}

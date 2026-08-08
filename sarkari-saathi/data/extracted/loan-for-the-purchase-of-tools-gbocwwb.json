@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Loan for the Purchase of Tools (GBOCWWB)",
+  "occupation": [
+    "Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered with the Goa Building and Other Construction Workers Welfare Board",
+    "The worker should have completed ninety days of service as a registered worker in the year",
+    "The worker should have completed three years of membership in the fund",
+    "The worker should be remitting regular contributions to the fund"
+  ],
+  "benefits_summary": "Loan of ₹5,000 for the purchase of tools.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

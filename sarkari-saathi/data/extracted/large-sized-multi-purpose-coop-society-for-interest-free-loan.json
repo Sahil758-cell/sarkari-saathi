@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Large Sized Multi Purpose Coop. Society For Interest Free Loan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a member of a Large Sized Multi Purpose Cooperative Society",
+    "Must be interested in availing a loan from the Large Sized Multi Purpose Cooperative Society"
+  ],
+  "benefits_summary": "Loan up to ₹45,000 with no interest charged.",
+  "documents_required": [],
+  "application_link": "https://www.rcs.tn.gov.in/mpd_cooperative_4.php"
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Term Loan Scheme- Credit Line 1 for Minority Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Age between 18 and 55 years",
+    "Annual family income not exceeding ₹98,000 in rural areas or ₹1,20,000 in urban areas",
+    "Belongs to a minority community (Muslims, Sikhs, Christians, Buddhists, Parsis, Jains)",
+    "Must have a Parivar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Loans up to ₹20,00,000 at a concessional interest rate for minority community members to enhance employability.",
+  "documents_required": [
+    "Parivar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": null
+}

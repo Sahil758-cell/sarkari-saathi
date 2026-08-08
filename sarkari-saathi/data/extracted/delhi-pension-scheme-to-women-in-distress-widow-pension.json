@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Delhi Pension Scheme To Women In Distress (Widow Pension)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Widow, divorced, separated, abandoned, deserted, or destitute woman",
+    "Minimum residence of 5 years in Delhi before application",
+    "Applicant must have an Aadhaar number",
+    "Applicant must have a single‑operated Aadhaar‑linked bank account with any bank in Delhi",
+    "Applicant must not be receiving any pension or financial assistance from Central, State, MCD, NDMC or any other governmental/local bodies"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,500 per month.",
+  "documents_required": [
+    "Aadhaar card",
+    "Voter ID",
+    "Photograph"
+  ],
+  "application_link": "https://edistrict.delhigovt.nic.in/"
+}

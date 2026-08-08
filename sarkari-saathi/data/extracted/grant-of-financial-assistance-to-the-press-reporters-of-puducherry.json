@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Grant of Financial Assistance to the Press Reporters of Puducherry",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a native of the Union Territory of Puducherry by birth or by continuous residence for at least five years.",
+    "Applicant must be a press reporter.",
+    "Applicant must have served in a newspaper or magazine registered with the Registrar of Newspapers, Government of India, New Delhi.",
+    "The newspaper or magazine must have been continuously registered for at least ten years."
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 is provided to eligible press reporters, disbursed by cheque within three weeks of application.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of mandatory documents (self-attested if required)"
+  ],
+  "application_link": null
+}

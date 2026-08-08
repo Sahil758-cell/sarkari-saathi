@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Chief Minister Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Chhattisgarh",
+    "Applicant must be a senior citizen (age 60 or older), widow, or abandoned woman (age 18 or older)",
+    "Applicant must not be receiving pension benefits from any other central or state government pension scheme",
+    "In urban areas, the applicant's name must be listed in the Socio-Economic and Caste Census 2011",
+    "In rural areas, the applicant's name must be in the list of households having at least one deprivation index in the Socio-Economic and Caste Census 2011"
+  ],
+  "benefits_summary": "Eligible beneficiaries receive a pension of ₹500 per month, transferred directly to their bank account.",
+  "documents_required": [],
+  "application_link": null
+}

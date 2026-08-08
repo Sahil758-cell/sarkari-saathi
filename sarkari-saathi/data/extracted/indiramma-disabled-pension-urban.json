@@ -1,0 +1,22 @@
+{
+  "scheme_name": "INDIRAMMA Disabled Pension (Urban)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": "urban",
+  "other_conditions": [
+    "Must be a resident of a district of Andhra Pradesh",
+    "Must not be covered under any other Pension Scheme"
+  ],
+  "benefits_summary": "Provides a monthly pension (amount to be notified by the Government of Andhra Pradesh) to eligible disabled persons.",
+  "documents_required": [],
+  "application_link": null
+}

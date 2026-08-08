@@ -1,0 +1,23 @@
+{
+  "scheme_name": "AICTE-Swanath Scholarship Scheme For Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must not be a recipient of any Central Government, State Government, or AICTE sponsored scholarships.",
+    "Candidate must be currently enrolled in an AICTE approved institution pursuing a degree or diploma in regular mode (1st to 4th year).",
+    "Eligibility category noted in source: orphan",
+    "Eligibility category noted in source: parents died due to Covid-19",
+    "Eligibility category noted in source: ward of Armed Forces and Central Paramilitary Forces martyred"
+  ],
+  "benefits_summary": "Provides a scholarship of Rs. 50,000 per annum for up to 4 years for degree students and up to 3 years for diploma students.",
+  "documents_required": [],
+  "application_link": null
+}

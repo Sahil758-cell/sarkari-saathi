@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Maternity Benefit to the Female Beneficiary",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Manipur Building and Other Construction Workers Welfare Board",
+    "Must have experienced a miscarriage or medical termination of pregnancy"
+  ],
+  "benefits_summary": "Financial assistance of ₹6,000 for miscarriage or medical termination.",
+  "documents_required": [],
+  "application_link": null
+}

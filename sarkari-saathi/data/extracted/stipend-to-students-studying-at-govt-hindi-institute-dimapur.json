@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Stipend To Students Studying At Govt. Hindi Institute Dimapur",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Nagaland"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled at the Government Hindi Institute in Dimapur"
+  ],
+  "benefits_summary": "Provides a monthly stipend of Rs. 400 to up to 150 students studying at the Government Hindi Institute in Dimapur.",
+  "documents_required": [
+    "proof of identity",
+    "proof of residence",
+    "proof of income",
+    "mark sheets of previous academic years",
+    "admission letter",
+    "bank account details"
+  ],
+  "application_link": null
+}

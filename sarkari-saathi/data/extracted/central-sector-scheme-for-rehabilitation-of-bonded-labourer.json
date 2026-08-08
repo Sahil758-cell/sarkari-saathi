@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Central Sector Scheme for Rehabilitation of Bonded Labourer",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a rescued bonded labour."
+  ],
+  "benefits_summary": "Provides rehabilitation assistance ranging from ₹30,000 to ₹3,00,000, with options for annuity or direct cash transfer, based on the beneficiary’s category (adult male, child, woman, transgender).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scholarship To Son And Daughter Of Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must possess an identity card issued by the welfare board for the Differently Abled persons",
+    "Student must be studying from Standard 11th to Postgraduate level, including ITI/Polytechnic diploma courses and other higher education programs"
+  ],
+  "benefits_summary": "Provides scholarships ranging from Rs.1,000 to Rs.6,000 to sons and daughters of differently abled persons based on education level and hostel facility",
+  "documents_required": [
+    "Identity card issued by the welfare board for the Differently Abled",
+    "Application form"
+  ],
+  "application_link": null
+}

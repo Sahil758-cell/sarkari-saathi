@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Jharkhand State Backward Classes Pre-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Jharkhand",
+    "Applicant must be a student enrolled in classes 1st to 10th in a state government‑recognized school",
+    "No income limit for students of classes 1st to 8th; for classes 9th‑10th the family’s annual income must not exceed ₹2,50,000"
+  ],
+  "benefits_summary": "Scholarships ranging from ₹1,500‑₹2,500 for classes 1‑8 and ₹4,500 for classes 9‑10 are provided, with direct bank transfers to beneficiaries.",
+  "documents_required": [
+    "Aadhaar",
+    "Caste certificate",
+    "Income certificate (if applicable)",
+    "Aadhaar‑linked bank account details"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Scheme For Campus Accommodation & Facilities Enhancing Social Experience",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Institute must be AICTE‑approved Government or Government‑aided engineering college, university department, or polytechnic.",
+    "Institute must have been in existence for at least five years.",
+    "Institute must have at least 200 SC/ST students on roll.",
+    "Institute must have at least 60 students from NER per year.",
+    "Institute must have at least 150 differently‑abled students on roll.",
+    "Annual Progress Report must be submitted within 2 months of year completion.",
+    "Project Completion Report must be submitted after project completion.",
+    "Utilization Certificate and Statement of Accounts must be submitted in prescribed proforma audited by the Finance Officer/Account Officer.",
+    "If construction work is not initiated within six months, the amount must be refunded to AICTE with accrued interest.",
+    "Any reduction in the construction plan or facilities is not allowed."
+  ],
+  "benefits_summary": "Provides up to ₹3.25 crore for construction of hostels, gyms, indoor sports clubs and libraries, with phased disbursement of funds.",
+  "documents_required": [
+    "Utilization Certificate",
+    "Statement of Accounts",
+    "Project Completion Report",
+    "Annual Progress Report"
+  ],
+  "application_link": null
+}

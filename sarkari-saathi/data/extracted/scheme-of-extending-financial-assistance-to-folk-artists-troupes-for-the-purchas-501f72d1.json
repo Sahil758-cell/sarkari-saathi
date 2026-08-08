@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme of Extending Financial Assistance to Folk Artists, Troupes for the Purchase of Musical Instruments, Costumes",
+  "occupation": [
+    "Folk Artist",
+    "Troupe"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be continuously performing in the programs",
+    "Applicant must have performed in the programs for more than three years"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 for individual folk artists and ₹6,000 for cultural troupes for purchase of musical instruments and costumes.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

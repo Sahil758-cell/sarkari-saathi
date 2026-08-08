@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Home for Visually Challenged Person",
+  "occupation": null,
+  "gender": "male",
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have total absence of sight.",
+    "Visual acuity not exceeding 6/60 (20/200) in the better eye with correcting lenses.",
+    "Field of vision limited to an angle of 20 degrees."
+  ],
+  "benefits_summary": "Free food and shelter, daily living needs, pocket money, vocational training, recreational activities, and annual tours.",
+  "documents_required": [
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

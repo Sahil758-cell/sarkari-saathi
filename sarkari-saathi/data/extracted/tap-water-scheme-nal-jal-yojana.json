@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Tap Water Scheme (Nal Jal Yojana)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must reside in a Gram Panchayat area where the scheme is implemented.",
+    "Application must be submitted to the concerned Gram Panchayat."
+  ],
+  "benefits_summary": "Provides a tap water connection to beneficiaries in Gram Panchayat areas.",
+  "documents_required": [],
+  "application_link": null
+}

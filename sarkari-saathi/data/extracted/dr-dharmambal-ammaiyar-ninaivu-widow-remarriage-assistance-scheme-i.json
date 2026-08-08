@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Dr. Dharmambal Ammaiyar Ninaivu  Widow Remarriage Assistance Scheme-I",
+  "occupation": null,
+  "gender": null,
+  "age_min": 20,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow.",
+    "Bridegroom must be less than 40 years old."
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 together with a 22‑carat gold coin (8 gm).",
+  "documents_required": [],
+  "application_link": null
+}

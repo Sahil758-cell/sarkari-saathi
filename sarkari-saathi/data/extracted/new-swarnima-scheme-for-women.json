@@ -1,0 +1,21 @@
+{
+  "scheme_name": "New Swarnima Scheme For Women",
+  "occupation": [
+    "Entrepreneur"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to backward classes (SC, ST, OBC, or EWS)"
+  ],
+  "benefits_summary": "Provides a subsidy loan up to ₹2,00,000 at 5% interest for self‑employment, with no upfront investment required from the beneficiary.",
+  "documents_required": [],
+  "application_link": "https://nsfdc.nic.in/channel-patrners/scas"
+}

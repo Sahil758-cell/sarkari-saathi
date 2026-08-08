@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Samagra Samajik Suraksha Parityakta Pension Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an abandoned woman",
+    "Applicant's name must be mentioned on the Samagr portal"
+  ],
+  "benefits_summary": "Provides a pension of ₹600 per month to eligible women.",
+  "documents_required": [],
+  "application_link": "Step 1: Go to the Samajik Suraksha portal. Step 2: Click on Samajik Suraksha pension avm arthik sahayata yojanaen. Step 3: Now click on the left on your screen Pension Yojana hetu online aavedan. Step 4: Fill in the required details and submit."
+}

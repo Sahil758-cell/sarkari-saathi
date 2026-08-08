@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Schemes Of H.P. Backward Classes Finance & Develpoment Corporation",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicants must belong to the notified backward classes.",
+    "Annual income must be exactly INR 98,000 for rural residents and less than INR 1,20,000 for urban residents."
+  ],
+  "benefits_summary": "Provides loans up to INR 5 lakh with subsidized interest rates to support the social, educational, and economic upliftment of backward‑class families living below the poverty line.",
+  "documents_required": [
+    "prescribed application form",
+    "caste certificate",
+    "income certificate",
+    "age certificate",
+    "Himachali certificate issued by the executive magistrate"
+  ],
+  "application_link": null
+}

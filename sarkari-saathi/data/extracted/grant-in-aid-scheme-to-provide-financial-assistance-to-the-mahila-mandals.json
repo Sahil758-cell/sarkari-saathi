@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant-in-Aid Scheme to Provide Financial Assistance to the Mahila Mandals",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Mahila Mandal must have valid registration with the competent authority",
+    "Must have been operating successfully within Goa for the last 2 years",
+    "Minimum of 20 members required for training/orientation",
+    "Must submit a project report specifying activities/training and a list of prospective beneficiaries with educational details",
+    "Each Mahila Mandal can opt for only one training program at a time"
+  ],
+  "benefits_summary": "Provides an annual grant of ₹5,000 to each registered Mahila Mandal and an additional ₹2,000 per training course for raw material purchase.",
+  "documents_required": [
+    "Project report",
+    "Utilization certificate"
+  ],
+  "application_link": null
+}

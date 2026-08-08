@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Entrepreneurship Development by SC & ST Women in Science Technology Engineering Mathematics",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Applicant must be a woman belonging to Scheduled Caste (SC) or Scheduled Tribe (ST)",
+    "Applicant must be working in Science, Technology, Engineering or Mathematics (STEM) areas in Kerala",
+    "Applicant must hold a Ph.D. in Science/Technology/Engineering or an M.Sc. in Basic/Natural Science or an M.Tech in Science/Technology/Engineering",
+    "Applicant must initially identify a host institution and a mentor (regular faculty of the host institute)",
+    "Application can also be submitted by nomination from the Head of S&T Institutions across Kerala",
+    "Applicant must join the host institute within 15 days of receiving the initial grant",
+    "Co‑mentorship is encouraged and the co‑mentor must have experience in enterprise creation"
+  ],
+  "benefits_summary": "Provides up to ₹20 lakh per grant, covering a monthly fellowship (₹35‑₹45 k) and project costs (capital, operational and overhead) for one year.",
+  "documents_required": [
+    "Application form (PDF)",
+    "Recommendation letter from Head of Institution (if nominated)",
+    "Technical documents as specified in the call"
+  ],
+  "application_link": "http://www.kscste.kerala.gov.in"
+}

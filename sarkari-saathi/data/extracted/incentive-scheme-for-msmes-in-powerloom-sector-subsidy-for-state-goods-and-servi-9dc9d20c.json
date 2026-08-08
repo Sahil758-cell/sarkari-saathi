@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for State Goods and Services Tax (SGST)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must be a micro, small or medium enterprise (MSME) operating in the powerloom sector.",
+    "Production must have started between 01‑01‑2022 and 31‑12‑2024.",
+    "A four‑party agreement must be executed with the Directorate of Textiles, a financial institution and Tantuja.",
+    "The unit may be a private sector, cooperative sector, joint sector undertaking, or a company/undertaking owned and managed by the State Government and Industrial SHGs.",
+    "The project must be covered by a detailed feasibility report/project prepared for the purpose.",
+    "The project must be approved and sanctioned by a Central Financial Institution, a Commercial Bank or a State Financial Institution."
+  ],
+  "benefits_summary": "Refund of 30% (zones B & C) or 50% (zones D & E) of net SGST paid for up to 8 years, subject to a cumulative cap of 75% of the fixed capital investment.",
+  "documents_required": [
+    "FORM‑E"
+  ],
+  "application_link": null
+}

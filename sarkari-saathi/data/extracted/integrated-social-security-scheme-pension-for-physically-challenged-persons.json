@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Integrated Social Security Scheme - Pension For Physically Challenged Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 79,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Jammu and Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have severe or multiple disabilities with a disability percentage of at least 40%.",
+    "Applicant’s annual income must be less than ₹75,000 or the applicant must belong to the Below Poverty Line (BPL) category."
+  ],
+  "benefits_summary": "A pension of ₹1000 per month is directly deposited into the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+}

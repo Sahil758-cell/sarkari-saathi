@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Bihar State Alpsankhyak Awasiya Vidyalaya Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 18,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Bihar",
+    "Applicant must be a student",
+    "Student must belong to a minority community",
+    "Admission will be based on merit list of examination marks"
+  ],
+  "benefits_summary": "Free residential education—including tuition, accommodation, food, clothing, medicine, books—and access to modern laboratories and vocational coaching for minority students from Class 9 to 12.",
+  "documents_required": [],
+  "application_link": null
+}

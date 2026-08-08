@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Loan Based Schemes For Safai Karamchari - Swachhta Udyami Yojana – Swachhta Se Sampannta Ki Aur",
+  "occupation": [
+    "Safai Karamchari",
+    "Manual Scavenger"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Safai Karamchari (including waste‑pickers), a manual scavenger, or a dependent of a manual scavenger",
+    "Must belong to a registered co‑operative society or a legally constituted association/firm of the target group",
+    "Must produce a certificate from an authorized local official such as a Revenue Officer, Municipal Officer, Cantonment Executive Officer, Railway Officer, or a Gazetted‑rank head of a government department, elected municipal member, Gram Panchayat Pradhan, or Regional Manager of an RRB/PSB",
+    "If identified as a manual scavenger in the 2013 MS Act survey, the certificate is not required once the name appears in the final state/UT manual scavenger list",
+    "An occupation certificate may be issued by the Mukhia/Sarpanch/President or any equivalent authority of the Gram Panchayat for Safai Karamchari or their dependents"
+  ],
+  "benefits_summary": "Term loan up to Rs 50 lacs at 4 % interest (with 1 % rebate for women and 0.5 % rebate for timely repayment) plus a capital subsidy of up to 50 % of the vehicle cost.",
+  "documents_required": [
+    "Certificate from local Revenue Officer/ Municipal Officer/ Cantonment Executive Officer/ Railway Officer/ Head of Government Department",
+    "Occupation certificate issued by the Gram Panchayat head (Mukhia/Sarpanch/President) or equivalent authority"
+  ],
+  "application_link": null
+}

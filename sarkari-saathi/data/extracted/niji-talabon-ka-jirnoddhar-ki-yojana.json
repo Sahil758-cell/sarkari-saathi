@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Niji Talabon Ka Jirnoddhar Ki Yojana",
+  "occupation": [
+    "fish farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "EWS",
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a private pond owner or lessee",
+    "Pond must not have been renovated under any government scheme in the last five years for Model‑1",
+    "Renovation of ponds constructed under government schemes is eligible only after five years of construction for Model‑2"
+  ],
+  "benefits_summary": "Provides subsidy for renovation of up to 150 hectares of private ponds, with 40% subsidy for extremely backward castes, scheduled castes and tribes, and 30% for other categories.",
+  "documents_required": [
+    "Affidavit form",
+    "Consent form"
+  ],
+  "application_link": null
+}

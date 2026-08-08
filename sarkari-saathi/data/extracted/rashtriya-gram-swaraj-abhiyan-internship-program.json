@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Rashtriya Gram Swaraj Abhiyan - Internship Program",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be enrolled in or have completed within the last 2 years an undergraduate, graduate, postgraduate, doctoral (Ph.D.) or post‑doctoral degree program from a recognized/reputed university or institution in India or abroad",
+    "Preferred academic disciplines include Public Policy Studies, Social Policy Studies, Development Studies, Economics, Governance and Public Administration Studies, Rural Development Management, Business Administration, Environment and Energy Studies, Public Health Studies, Sociology, Political Science, Social Work, Statistics, Data Analysis, and other relevant Social Sciences, Management, and Engineering streams",
+    "Interns are required to have their own laptop",
+    "A candidate can apply for an internship only once during a financial year",
+    "At the time of joining, applicants must provide a letter from their Principal/Head of Department/Supervisor and a No Objection Certificate (NOC)"
+  ],
+  "benefits_summary": "Selected interns receive a certificate of completion and a stipend of Rs 7,000 per month.",
+  "documents_required": [
+    "Letter from Principal/Head of Department/Supervisor",
+    "No Objection Certificate (NOC)",
+    "Photograph"
+  ],
+  "application_link": null
+}

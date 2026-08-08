@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Financial Assistance for Marriage of Poor Scheduled Caste Brides",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parent/guardian of the bride must be an Indian citizen",
+    "Parent/guardian must belong to Scheduled Caste",
+    "Parent/guardian must be a native of Puducherry",
+    "Assistance is provided only for the first marriage of each daughter",
+    "Marriage must be registered",
+    "Assistance is available for up to two daughters in a family",
+    "Application must be submitted at least 30 days before the marriage date",
+    "Applicant must not be receiving financial assistance from other sources",
+    "Marriage must be performed in accordance with the law",
+    "Bride must be at least 18 years old",
+    "Bridegroom must be at least 21 years old"
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000 for each of the first two daughters' marriages.",
+  "documents_required": [],
+  "application_link": null
+}

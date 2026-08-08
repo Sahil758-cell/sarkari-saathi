@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Vice Chancellor Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide full‑time regular student of the University of Delhi at undergraduate or postgraduate level",
+    "Students in their final year or final semester are not eligible",
+    "Applicant can be enrolled in any course or stream; no discipline restriction"
+  ],
+  "benefits_summary": "Stipend of ₹5,000 per month (₹10,500 per month for summer interns) and a certificate of experience from the Dean of Students' Welfare.",
+  "documents_required": [],
+  "application_link": null
+}

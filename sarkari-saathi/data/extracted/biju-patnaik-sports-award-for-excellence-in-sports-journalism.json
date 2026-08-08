@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Biju Patnaik Sports Award for Excellence in Sports Journalism",
+  "occupation": [
+    "Sports Journalist",
+    "Accredited Journalist",
+    "Freelance Reporter",
+    "Photo Journalist/Cameraman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of the State of Odisha",
+    "Applicant must not have been convicted of any criminal offence",
+    "Award can be conferred only once in the lifetime of the awardee for the concerned category",
+    "Award may be given posthumously to the next of kin of the selected awardee",
+    "Award may be cancelled and the amount recovered if obtained by fraudulent means"
+  ],
+  "benefits_summary": "Cash award of ₹1,00,000 along with a statue, scroll, blazer with tie, and travel & dearness allowances.",
+  "documents_required": [
+    "Application form",
+    "Relevant supporting documents (self‑attested)"
+  ],
+  "application_link": null
+}

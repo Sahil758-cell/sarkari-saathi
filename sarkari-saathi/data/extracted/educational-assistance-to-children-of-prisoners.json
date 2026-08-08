@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Educational Assistance To Children Of Prisoners",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be native and resident of Kerala.",
+    "Applicants must be from Below Poverty Line (BPL) category (or above poverty line if both parents are in jail and a District Probation Officer report is provided).",
+    "Applicants must be children of prisoners whose parents are currently incarcerated.",
+    "Applicants must be studying in Class I to Degree/Professional courses.",
+    "For Degree/Professional courses, the institute must be a Government or Aided college inside Kerala."
+  ],
+  "benefits_summary": "Scholarships ranging from ₹500 to ₹1500 per month are provided to children of prisoners for school and college expenses.",
+  "documents_required": [],
+  "application_link": null
+}

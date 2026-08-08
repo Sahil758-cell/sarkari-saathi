@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Unemployment Allowance to Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be differently abled",
+    "Applicant must be unemployed",
+    "Applicant must hold an education certificate, diploma, or degree",
+    "Applicant must be registered with the employment exchange for more than one year",
+    "The applicant’s status must be shown live in the employment exchange"
+  ],
+  "benefits_summary": "Monthly allowance ranging from ₹600 to ₹1,000 depending on the applicant’s education level",
+  "documents_required": [
+    "Education certificate/diploma/degree (copy)",
+    "Completed application form"
+  ],
+  "application_link": null
+}

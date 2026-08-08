@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Prime Minister’s Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicants can be of any gender; marital status does not affect eligibility.",
+    "The scheme is limited to wards or widows of Central Armed Police Forces and Assam Rifles personnel (including serving, retired, ex‑service and those killed in action or receiving gallantry awards).",
+    "Only first professional degree courses such as BE/B.Tech, BDS, MBBS, B.Ed, BBA, BCA, B.Pharm, B.Sc (Nursing, Agriculture, etc.) are eligible.",
+    "Applicants must have a minimum of 60% marks in the Minimum Entry Qualification (10+2/Diploma/Graduation) for fresh admission, and at least 50% in each subsequent year for renewal.",
+    "Scholarship is limited to a maximum of two children per family.",
+    "Preference order among categories A to G is applied for fresh applicants.",
+    "A one‑year grace period is allowed for delayed renewal applications."
+  ],
+  "benefits_summary": "Scholarship of ₹3,000 per month for girls (₹36,000 per year) and ₹2,500 per month for boys (₹30,000 per year) for up to 5 years.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

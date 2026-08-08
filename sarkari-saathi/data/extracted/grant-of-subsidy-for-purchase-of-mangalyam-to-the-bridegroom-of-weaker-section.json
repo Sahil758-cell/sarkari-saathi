@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant of Subsidy for Purchase of Mangalyam to the Bridegroom of Weaker Section",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Bridegroom must be a native of the Union Territory of Pondicherry",
+    "Bride must be at least 18 years old",
+    "Application must be submitted at least 15 days before the date of marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,500 to the bridegroom.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents",
+    "Completed application form"
+  ],
+  "application_link": null
+}

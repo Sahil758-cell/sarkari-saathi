@@ -1,0 +1,27 @@
+{
+  "scheme_name": "GROUP WORKSHED SCHEME",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Group must consist of at least four weavers/entrepreneurs each with a separate legal entity",
+    "Minimum of 24 shuttleless looms up to 230 cm width or 16 shuttleless looms of width 230 cm and above must be installed",
+    "Each beneficiary must have at least four looms",
+    "Only TUFS‑compatible machinery may be installed",
+    "Eligible beneficiaries include: State Government or its agency, a registered co‑operative society, a company formed under the Companies Act 1956, a firm under the Limited Liability Partnership Act 2008, or the local powerloom association"
+  ],
+  "benefits_summary": "Provides construction subsidy up to 40% for general beneficiaries, 75% for SC and 90% for ST, with maximum caps of ₹400, ₹750, and ₹900 per sq.ft respectively.",
+  "documents_required": [],
+  "application_link": null
+}

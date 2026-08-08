@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance Scheme For Higher Competitive/ Entrance Examination To Scheduled Castes/ Backward Classes Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The candidate must possess all requisite qualifications required for the examination.",
+    "The candidate cannot avail more than two chances for a particular competitive examination.",
+    "The candidate must attend all classes; if absent for more than 5 days at a time or a total of 15 days without valid reason, the coaching benefit will be discontinued.",
+    "Beneficial coaching can be availed by a candidate up to two times irrespective of the number of attempts for a particular exam.",
+    "The scheme applies only to courses not covered by any other scheme for Scheduled Castes and Backward Classes."
+  ],
+  "benefits_summary": "Free postal or classroom coaching for IAS, other civil services and related competitive examinations, including pre‑entrance and interview preparation, provided to SC/Backward Class candidates.",
+  "documents_required": [],
+  "application_link": null
+}

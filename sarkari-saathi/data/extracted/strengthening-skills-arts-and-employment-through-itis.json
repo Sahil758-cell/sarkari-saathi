@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Strengthening Skills, Arts and Employment through ITIs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should be from the De-notified, Nomadic, and Semi-Nomadic communities listed in Madhya Pradesh.",
+    "Applicant should be a native of Madhya Pradesh.",
+    "Applicant should not be an income taxpayer.",
+    "Applicant's educational qualification should meet the course requirements."
+  ],
+  "benefits_summary": "Provides short-term, employment-oriented training through ITIs, leading to employment or self‑employment opportunities.",
+  "documents_required": [],
+  "application_link": null
+}

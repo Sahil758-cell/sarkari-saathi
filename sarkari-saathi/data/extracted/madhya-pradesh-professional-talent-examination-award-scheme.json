@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Madhya Pradesh Professional Talent Examination Award Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have secured a first, second, or third position in PET, PPT or MCA entrance examinations conducted by the Professional Examination Board",
+    "Applicant must be pursuing technical and vocational subjects"
+  ],
+  "benefits_summary": "Monetary awards of ₹1,00,000 for first, ₹50,000 for second, and ₹25,000 for third positions.",
+  "documents_required": [
+    "Hard copy of the prescribed application form",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

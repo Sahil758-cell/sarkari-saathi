@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Capital Contribution Scheme (Goa)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Units must have been operating for at least 3 years",
+    "Units must not be covered under the Goa Sick Industrial Unit Revival and Rehabilitation Scheme, 2008 or any other scheme in force during the tenure of this scheme",
+    "Units must be permanently registered with the Directorate of Industries, Trade and Commerce",
+    "Eligibility includes partnership firms and private limited concerns"
+  ],
+  "benefits_summary": "Provides up to ₹1,00,00,000 capital contribution per unit with a guaranteed return of 6% for up to 5 years.",
+  "documents_required": [
+    "Post‑dated cheques for repayment",
+    "Collateral security documents"
+  ],
+  "application_link": null
+}

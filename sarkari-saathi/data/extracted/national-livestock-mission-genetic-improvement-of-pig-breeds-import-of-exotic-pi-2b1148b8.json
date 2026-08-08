@@ -1,0 +1,20 @@
+{
+  "scheme_name": "National Livestock Mission: Genetic Improvement of Pig Breeds - Import of Exotic Pig Germplasm",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a State Livestock Agency, State Livestock Board, or the State Animal Husbandry Department",
+    "State must formulate and notify a breeding policy for pigs before submitting the proposal for germplasm import"
+  ],
+  "benefits_summary": "One‑time financial assistance to states for importing exotic pig germplasm on a cost‑sharing basis (60:40 for most states, 90:10 for NER and Himalayan states) to develop superior cross‑bred pigs.",
+  "documents_required": [],
+  "application_link": null
+}

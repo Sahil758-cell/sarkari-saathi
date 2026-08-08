@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Union Territory of Lakshadweep Pension Scheme for Old Age",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 18000,
+  "category": null,
+  "state": [
+    "Lakshadweep"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of the Union Territory of Lakshadweep",
+    "Applicant must not have any source of income",
+    "Applicant must not be a beneficiary of any other similar government pension scheme",
+    "Priority is given to applicants who do not receive financial support from family members"
+  ],
+  "benefits_summary": "Beneficiaries receive a monthly pension of ₹1,500 (₹18,000 per annum) deposited directly into their bank accounts.",
+  "documents_required": [],
+  "application_link": null
+}

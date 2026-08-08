@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Dr. Bhimrao Ambedkar Aarthik Kalyan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be an income tax payer",
+    "Applicant must not be a defaulter of any bank or financial institution such as MFI, NBFC, SFB, or PACS",
+    "Applicant must not be a current beneficiary of any other self‑employment scheme from the state or central government",
+    "Family income definition: if unmarried, includes applicant and dependent parents; if married, includes applicant, spouse, and dependent children (no age limit for dependent, unmarried children)"
+  ],
+  "benefits_summary": "7% interest subsidy on loans for up to 5 years.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

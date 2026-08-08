@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Maternity Benefit",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered female member or the wife of a registered male member under the Building and Other Construction Workers Welfare Board of West Bengal",
+    "Applicant must be pregnant",
+    "Applicant must have worked in building and construction for at least 90 days in a given year",
+    "Female beneficiaries may receive the benefit up to two times in their lifetime"
+  ],
+  "benefits_summary": "Financial assistance of ₹6,000 per maternity, payable up to two times in a beneficiary's lifetime.",
+  "documents_required": [
+    "Form-27",
+    "Form-XII",
+    "mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

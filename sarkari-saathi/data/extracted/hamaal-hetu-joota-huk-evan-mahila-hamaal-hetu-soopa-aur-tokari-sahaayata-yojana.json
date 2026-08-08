@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Hamaal Hetu Joota, Huk Evan Mahila Hamaal Hetu Soopa Aur Tokari Sahaayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered in any district of Chhattisgarh",
+    "Applicant must not have received assistance from any other parallel scheme of the State Government",
+    "Applicant must be an unorganized worker"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹500 per beneficiary for shoes, lifting hooks, and baskets.",
+  "documents_required": [],
+  "application_link": null
+}

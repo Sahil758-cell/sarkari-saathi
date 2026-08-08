@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pandit Deen Dayal Upadhyay Samoohik Pashudhan Beema Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a livestock owner",
+    "Applicant must possess a Parivar Pehchan Patra (PPP) issued by the state of Haryana"
+  ],
+  "benefits_summary": "Provides financial protection against livestock death with subsidised premiums, covering up to five large animals (or equivalent small animals) per household.",
+  "documents_required": [
+    "Parivar Pehchan Patra (PPP)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

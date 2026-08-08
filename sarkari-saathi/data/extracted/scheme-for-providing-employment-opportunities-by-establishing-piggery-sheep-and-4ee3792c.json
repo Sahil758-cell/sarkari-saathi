@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme for Providing Employment Opportunities by Establishing Piggery, Sheep and Goat Units (General) under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed",
+    "Applicant must provide a Self-Declaration confirming unemployment and agreement to scheme conditions",
+    "Applicant must have a space or shed for keeping animals",
+    "No mandatory educational qualifications or training are required",
+    "Applicant must have taken a loan for establishing the specified piggery or sheep/goat unit"
+  ],
+  "benefits_summary": "Provides a 25% subsidy on livestock cost, up to ₹25,000 for a 10+1 piggery unit or up to ₹24,500 for a 15+1 sheep/goat unit.",
+  "documents_required": [
+    "Self-Declaration"
+  ],
+  "application_link": null
+}

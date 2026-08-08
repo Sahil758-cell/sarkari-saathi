@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Samajik Sahayata Prakalpa - Unorganized Workers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Tripura.",
+    "Applicant must be an unorganized worker (home‑based, self‑employed or wage worker) or a female domestic worker (Greha Shahayika).",
+    "Age must be 55 years or above, except for Greha Shahayika where age must be between 23 and 59 years.",
+    "If the family has children aged 6‑14 years, those children must be enrolled in a school recognized by the Government of Tripura.",
+    "Exclusion criteria: death of beneficiary, remarriage of a widow, a family member obtaining a government job, or family income exceeding ₹1,00,000."
+  ],
+  "benefits_summary": "A pension of ₹2,000 per month is transferred directly to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

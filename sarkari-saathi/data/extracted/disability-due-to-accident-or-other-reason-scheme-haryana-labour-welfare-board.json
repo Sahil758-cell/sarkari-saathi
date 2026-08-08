@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Disability (Due to Accident or Other Reason) Scheme- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana.",
+    "Applicant must be registered with the Haryana Labour Welfare Board.",
+    "Monthly salary must not exceed ₹25,000.",
+    "Applicant must apply within one year of the issuance of the disability certificate.",
+    "Applicant must not have previously received benefits under this scheme."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹1,00,000 for disability up to 50% and up to ₹1,50,000 for disability above 50%.",
+  "documents_required": [
+    "Disability certificate",
+    "Photograph",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

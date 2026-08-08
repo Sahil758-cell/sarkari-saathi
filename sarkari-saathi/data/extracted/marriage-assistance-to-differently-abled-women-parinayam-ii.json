@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Marriage Assistance To Differently Abled Women (Parinayam-II)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Kerala.",
+    "The applicant can be the differently-abled girl herself or her parents.",
+    "The girl must have completed 18 years of age.",
+    "Combined annual family income must not exceed ₹1,00,000.",
+    "Financial assistance can be provided again for a second marriage if the first marriage dissolves.",
+    "If the disabled applicant dies before the daughter’s marriage, assistance can be given to the eldest responsible family member.",
+    "If the disabled applicant dies after the daughter’s marriage but before receiving assistance, a senior family member or the married member can receive assistance on a suitable bond.",
+    "Application must be submitted at least one month before the scheduled marriage date; for Muslim brides, the date after the Nikah ceremony is considered."
+  ],
+  "benefits_summary": "A one‑time assistance of ₹30,000 is provided to eligible differently‑abled women for their marriage.",
+  "documents_required": [],
+  "application_link": null
+}

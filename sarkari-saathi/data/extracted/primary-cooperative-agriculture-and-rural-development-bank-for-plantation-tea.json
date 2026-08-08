@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Plantation (Tea)",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Interested in tea plantation",
+    "Interested in availing loan for tea plantation",
+    "Intends to use the loan specifically for tea plantation"
+  ],
+  "benefits_summary": "Loan up to ₹33,000 per acre at an interest rate of 11%–11.5%.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self-attest, if required)"
+  ],
+  "application_link": null
+}

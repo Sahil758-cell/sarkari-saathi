@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance to Mussel Culture and Oyster Farming in Goa",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Goa for the last fifteen years.",
+    "Applicant must have undergone a training programme on Mussel Culture/Oyster Farming organized by the Fisheries Department, MPEDA, ICAR or any other institute.",
+    "Applications are accepted only in offline mode."
+  ],
+  "benefits_summary": "50% subsidy up to ₹25,000 per unit for up to 2 estuarine units (4 m × 4 m) and up to ₹40,000 per unit for up to 2 open‑sea units (6 m × 6 m).",
+  "documents_required": [],
+  "application_link": null
+}

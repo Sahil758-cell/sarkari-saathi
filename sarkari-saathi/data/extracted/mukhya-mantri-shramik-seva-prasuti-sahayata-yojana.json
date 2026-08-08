@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhya Mantri Shramik Seva Prasuti Sahayata Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered as an unorganized worker",
+    "Delivery must be in a government hospital",
+    "Applicant must not have already had two live births (maximum two live births allowed)"
+  ],
+  "benefits_summary": "Provides ₹4,000 during pregnancy and ₹12,000 for delivery in a government hospital, subject to prenatal check-ups and post‑birth conditions.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

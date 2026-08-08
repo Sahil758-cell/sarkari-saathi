@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Post Office Monthly Income Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must reside in India",
+    "Applicant must be at least 18 years old",
+    "Account can be opened on behalf of a minor who is 10 years old or older",
+    "Minor must convert the account to his/her own name after reaching the age of majority (18)",
+    "Number of holders per account: minimum 1, maximum 3",
+    "Minimum investment amount is ₹1500",
+    "Maximum investment limits: Single account ₹4,50,000; Joint account ₹9,00,000; Minor account ₹3,00,000",
+    "Applicant must have a Post Office savings account before opening a POMIS account",
+    "Nomination details (name, DOB, mobile number) must be provided"
+  ],
+  "benefits_summary": "Low‑risk, government‑backed scheme offering guaranteed monthly income with capital protection.",
+  "documents_required": [
+    "self‑attested copies of required documents",
+    "original documents for verification"
+  ],
+  "application_link": "https://www.indiapost.gov.in/VAS/DOP_PDFFiles/form/Accountopening.pdf"
+}

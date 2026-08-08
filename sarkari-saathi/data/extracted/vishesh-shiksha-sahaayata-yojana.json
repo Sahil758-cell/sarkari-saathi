@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Vishesh Shiksha Sahaayata Yojana",
+  "occupation": [
+    "Construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The parent must be a registered construction worker with the Chhattisgarh Labour Department.",
+    "The registered construction worker (parent) must have died within one year of registration with the labour board.",
+    "Only the first two children of the deceased registered construction worker are eligible.",
+    "Children are ineligible if any other registered construction workers (parents) are present in the family besides the deceased worker."
+  ],
+  "benefits_summary": "Eligible children receive benefits under the Naunihal Scholarship Scheme, Meritorious Students Education Incentive Scheme, and Technical Education Scheme.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Rajasthan Chief Minister's Relief Fund - Kargil Package",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Application must be submitted within 6 months from the date of the accident (or from the date of death if death occurs during treatment).",
+    "The death or injury must have occurred on or after 18‑02‑2019.",
+    "Beneficiary must be a dependent of the deceased soldier or the disabled soldier."
+  ],
+  "benefits_summary": "Provides Rs 1 lakh to dependents of soldiers killed in an accident and up to Rs 20,000 for serious injuries, provided the application is made within 6 months.",
+  "documents_required": [
+    "Death or disability certificate of the soldier",
+    "Identity proof",
+    "Bank account details"
+  ],
+  "application_link": "http://cmrelief.rajasthan.gov.in/"
+}

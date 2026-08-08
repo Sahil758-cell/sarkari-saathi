@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Self-Employment Scheme: Transport/ Logistics/ Travels/ Food Court Wyaaj Sahaay",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 600000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a valid driving license.",
+    "The vehicle purchased must be mortgaged (hypothecated) to the corporation.",
+    "Applicant must be willing to repay the loan in equal monthly installments over 5 years.",
+    "Only one person per family can avail of the scheme benefits.",
+    "A maximum of 5 beneficiaries per village will be selected."
+  ],
+  "benefits_summary": "A 5% interest subsidy on a bank loan of up to ₹6 lakh for transport, logistics, travel and food‑court businesses.",
+  "documents_required": [
+    "certificates",
+    "mark sheets"
+  ],
+  "application_link": null
+}

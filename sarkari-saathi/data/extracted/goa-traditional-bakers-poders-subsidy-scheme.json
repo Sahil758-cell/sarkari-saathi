@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Goa Traditional Bakers (Poders) Subsidy Scheme",
+  "occupation": [
+    "traditional baker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The baker must be registered with the All Goa Bakers Association under the Societies Registration Act, 1860",
+    "The baker (or his/her family) must have been engaged in the business of making traditional Goan breads for at least the last 20 years",
+    "The baker must be a Goan resident by birth",
+    "The baker must be recommended by the All Goa Bakers Association",
+    "The baker must produce and sell Pao, Undho, Poie, Kakon or similar traditional breads"
+  ],
+  "benefits_summary": "Provides a cash subsidy on maida purchases up to 150 kg per day, with ₹4 per kg for the first 50 kg and lower rates for higher usage.",
+  "documents_required": [
+    "Application form (Annexure I)",
+    "Affidavit declaring the contents of the application as true",
+    "Bills of purchase of maida for the relevant quarter"
+  ],
+  "application_link": null
+}

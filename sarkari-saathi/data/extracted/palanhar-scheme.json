@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Palanhar Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 19,
+  "max_annual_income": 120000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Orphan boy or girl",
+    "Child of parents sentenced to death or life imprisonment",
+    "Child of a widowed mother receiving a pension (maximum three children at a time)",
+    "Child of remarried widowed mothers",
+    "Child of HIV/AIDS affected mother or father",
+    "Child of parents suffering from leprosy",
+    "Child of related mothers (maximum three children at a time)",
+    "Child of specially‑abled parents",
+    "Child of divorced or abandoned women receiving a pension",
+    "Child of parents suffering from silicosis",
+    "Child must be under 18 years; if 18 and still studying, benefit extended up to 19 years",
+    "Guardian must be a native of Rajasthan or have resided in the state for more than three years",
+    "Guardian family income must not exceed Rs 1.20 lakh per annum"
+  ],
+  "benefits_summary": "Monthly cash assistance of Rs 1500 (age 0‑6) or Rs 2500 (age 6‑18) for orphans, and Rs 500 or Rs 1000 respectively for other eligible children, plus an annual Rs 2000 for educational material.",
+  "documents_required": [],
+  "application_link": null
+}

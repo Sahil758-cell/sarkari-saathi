@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Scheme for Supportive Money to the Parents of Transgender Children",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 17,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parents must certify on an affidavit that they have a child exhibiting gender non-conforming behavior",
+    "Child's age must be less than 18 years"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 per transgender parent per child per month.",
+  "documents_required": [],
+  "application_link": null
+}

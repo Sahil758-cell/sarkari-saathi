@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Kailash Mansarovar Yatra- Madhya Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be selected by the Ministry of External Affairs, Government of India for the pilgrimage",
+    "Applicant must have completed the Kailash Mansarovar Yatra",
+    "Applicant must not be an income taxpayer",
+    "Each individual is eligible for the grant only once in their lifetime",
+    "If both husband and wife are selected, eligibility follows the guidelines of the Ministry of External Affairs",
+    "Application must be submitted within 60 days of completing the pilgrimage"
+  ],
+  "benefits_summary": "State reimburses 50% of pilgrimage expenses up to ₹30,000 per pilgrim.",
+  "documents_required": [
+    "Certificate of actual expenses incurred on the journey",
+    "Records of pilgrimage certified by the Ministry of External Affairs",
+    "Prescribed application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Biju Patnaik Bravery Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India.",
+    "Must perform a spectacular act of bravery either inside Odisha or by an Odisha resident outside the state.",
+    "The act of bravery must have occurred between 1 January and 31 December of the preceding year.",
+    "Applicant must not have been convicted of any criminal offence.",
+    "The award can be given only once to a person in his/her lifetime.",
+    "Award may be cancelled and recovered if obtained fraudulently.",
+    "The award can be given posthumously to the next of kin.",
+    "If more than one person is involved in the act, the cash award will be shared among them.",
+    "The department is not obligated to confer the award every year."
+  ],
+  "benefits_summary": "Cash award of ₹1,00,000, a silver medal, a scroll and travel & accommodation arrangements for the award ceremony.",
+  "documents_required": [
+    "Self-attested application form"
+  ],
+  "application_link": null
+}

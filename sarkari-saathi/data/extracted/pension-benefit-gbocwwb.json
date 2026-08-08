@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pension Benefit (GBOCWWB)",
+  "occupation": [
+    "Building Worker"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Registered as a Building Worker for at least one year with the Goa Building and Other Construction Workers Welfare Board",
+    "Member of the Fund of the Board"
+  ],
+  "benefits_summary": "Pension of ₹300 per month, increasing by ₹10 for each additional year of service beyond five years, payable until the beneficiary turns 60.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

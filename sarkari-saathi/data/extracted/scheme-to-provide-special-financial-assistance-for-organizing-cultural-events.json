@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme to Provide Special Financial Assistance for Organizing Cultural Events",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant may be an individual or a cultural group/organization/institution, registered or unregistered",
+    "The applicant must have experience organizing cultural events/programmes/exhibitions/festivals",
+    "The applicant must not be a defaulter of the Directorate of Art & Culture for non‑submission of utilization certificate or statement of accounts for any other grant received",
+    "Preference is given to registered institutions/organizations"
+  ],
+  "benefits_summary": "Financial grant up to ₹5,00,000 or 80% of the event expenditure (whichever is less), or up to 100% of the expenditure if the Directorate identifies the applicant suo‑moto, subject to Department discretion.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Filled application form"
+  ],
+  "application_link": "Step 1: Visit the Directorate Of Art & Culture, Government of Goa, 5th Floor, Shram Shakti Bhavan, Panaji, Patto, Panaji, Goa - 403001. Step 2: Take a print of the proforma of the application form, or request a hard copy from the concerned authority. Step 3: Fill in all mandatory fields, paste the passport‑sized photograph (signed across), and attach copies of all mandatory documents (self‑attest if required). Step 4: Submit the duly filled and signed application form along with the documents to the Director or to the ACO‑II, Directorate of Art & Culture, Phone: 0832‑2404623, Email: aco3‑dac.goa@nic.in"
+}

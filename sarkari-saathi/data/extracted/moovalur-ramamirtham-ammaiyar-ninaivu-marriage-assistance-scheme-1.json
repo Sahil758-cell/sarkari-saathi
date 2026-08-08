@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Moovalur Ramamirtham Ammaiyar Ninaivu Marriage Assistance Scheme-1",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 72000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only one girl from a family is eligible",
+    "The boy must be at least 21 years old",
+    "Marriage must be conducted from 17th May 2011 onwards",
+    "Bride must have studied up to 10th Standard (or a Scheduled Tribe bride with a minimum of 5th Standard)",
+    "In case of death of parents, assistance is given to the daughter"
+  ],
+  "benefits_summary": "Cash assistance of ₹25,000 and an 8‑gram gold coin",
+  "documents_required": [
+    "Passport‑sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

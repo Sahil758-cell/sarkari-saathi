@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Asangathit Karmakar Ke Bachcho Hetu Chhatravriti Yojana",
+  "occupation": [
+    "unorganized worker"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parent must be a registered unorganized worker in the Social Security Board",
+    "Scholarship is limited to the first two sons or daughters of a registered unorganized worker",
+    "Contract workers, domestic female workers, porters, and sanitation workers are explicitly excluded",
+    "Students must complete at least one year of engineering or medical education; dropping out within a year requires returning the scholarship money",
+    "Each student can receive only one scholarship, even if eligible for multiple"
+  ],
+  "benefits_summary": "Provides educational financial assistance ranging from ₹500 for primary classes up to ₹5,000 for postgraduate and professional courses to eligible children of registered unorganized workers.",
+  "documents_required": [],
+  "application_link": null
+}

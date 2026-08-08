@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme For Assistance For Start Ups/ Innovation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Startups must have an innovative idea or concept and be recommended by an approved Nodal Institution",
+    "Entities formed by splitting up or reconstruction of an existing business are not considered startups",
+    "Startups receiving incentives under any other Gujarat startup scheme are ineligible, except those under the Student Startup and Innovation Policy (SSIP)",
+    "Nodal Institutions must be a university, government‑approved/affiliated/recognized educational institution, incubation centre, PSU, R&D institution, or private establishment operating in Gujarat, registered under the Companies Act‑2013 Section 8 as a non‑profit company, with separate spaces and full‑time employees",
+    "Mentors must be resource persons registered under this scheme and associated/recommended by the Nodal Institution"
+  ],
+  "benefits_summary": "Provides up to ₹30 lakh seed support, monthly sustenance allowance, interest subsidy and other financial assistance to eligible startups and supporting Nodal Institutions.",
+  "documents_required": [],
+  "application_link": null
+}

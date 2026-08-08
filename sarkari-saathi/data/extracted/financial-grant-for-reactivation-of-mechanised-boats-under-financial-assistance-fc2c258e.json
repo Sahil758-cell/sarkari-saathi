@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Financial Grant for Reactivation of Mechanised Boats",
+  "occupation": [
+    "fishermen",
+    "fish trade",
+    "prospective entrepreneur"
+  ],
+  "gender": null,
+  "age_min": 24,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have resided in the Union territory of Puducherry for at least five continuous years at the time of applying",
+    "Applicant must be enrolled as a member of the Fishermen Co‑operative Society",
+    "Applicant must not be a recipient of Old Age Pension issued by the department",
+    "Applicant must not be employed in Government, Government Undertakings, or the Fishermen Co‑operative Society",
+    "Applicant must have no dues payable to the Department or Fishermen Co‑operative Societies at the time of application",
+    "Applicant must possess a registered mechanized boat",
+    "Applicant must have carried out overhauling/repairs to the engine or hull during the notified fishing ban period and must not have fished during that ban period"
+  ],
+  "benefits_summary": "A financial grant of ₹10,000 per registered wooden/steel mechanized boat or ₹5,000 per registered fiber‑reinforced plastic mechanized boat for reactivation.",
+  "documents_required": [
+    "Hard copy of the prescribed application form",
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

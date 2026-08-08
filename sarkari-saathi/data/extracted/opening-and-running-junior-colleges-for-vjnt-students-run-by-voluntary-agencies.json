@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Opening And Running Junior Colleges For VJNT Students Run By Voluntary Agencies",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must belong to the VJNT (Vimukta Jatis and Nomadic Tribes) category",
+    "Voluntary agency must be operating a secondary Ashram School",
+    "The secondary school result should not be below 60%",
+    "Voluntary agencies must be economically sound to run junior colleges",
+    "Required infrastructure such as building, water supply, and electricity must be available",
+    "Most of the population near the school should be VJNT",
+    "There should be no other junior colleges around the Ashram school",
+    "The voluntary agency must have no pending disputes or court matters"
+  ],
+  "benefits_summary": "Academic education, free lodging and boarding, medical facilities, bedding, clothing, uniforms, and educational supplies are provided to VJNT students in junior colleges.",
+  "documents_required": [],
+  "application_link": null
+}

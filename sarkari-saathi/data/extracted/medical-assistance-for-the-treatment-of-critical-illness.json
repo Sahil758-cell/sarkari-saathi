@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Medical Assistance for the Treatment of Critical Illness",
+  "occupation": [
+    "building or construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be registered under the Maharashtra Building and Other Construction Workers Welfare Board (MBOCWW).",
+    "Worker or family member must be undergoing treatment for a serious illness or critical medical condition.",
+    "Benefit can be availed only after 26 July 2014."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹1,00,000 for medical treatment of serious illnesses.",
+  "documents_required": [],
+  "application_link": null
+}

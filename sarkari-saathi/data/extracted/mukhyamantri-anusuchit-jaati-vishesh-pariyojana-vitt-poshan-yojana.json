@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Mukhyamantri Anusuchit Jaati Vishesh Pariyojana Vitt Poshan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must submit project proposals as per the norms set by the respective line departments",
+    "The project proposal must be recommended by the concerned department and approved by the State Project Implementation Committee",
+    "The applicant must meet any additional requirements specified by the line departments for the specific project",
+    "The project must align with the objectives of the Mukhyamantri Anusuchit Jaati Vishesh Pariyojana Vitt Poshan Yojana"
+  ],
+  "benefits_summary": "A 100% grant is provided, subject to government approval, for approved project proposals from line departments",
+  "documents_required": [
+    "Hard copy of the prescribed application form format",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

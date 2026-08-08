@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Design Development Training For Master Crafts Persons Component of the Development of Handicrafts Scheme",
+  "occupation": [
+    "Craftsperson",
+    "Artisan"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be literate",
+    "Applicant must have been carrying out craft activities for at least three years"
+  ],
+  "benefits_summary": "Monthly remuneration of ₹3,000 plus ₹1,000 accommodation allowance and travel fare, with training period and course fee as prescribed.",
+  "documents_required": [],
+  "application_link": null
+}

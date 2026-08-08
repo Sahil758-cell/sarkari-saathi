@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Conversion/Modernisation of Mechanised Fishing Boats for Deep Sea Fishing",
+  "occupation": [
+    "fishermen",
+    "fish trade"
+  ],
+  "gender": null,
+  "age_min": 24,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a member of the Fishermen Co-operative Society",
+    "Must not have received Old Age Pension from the department",
+    "Must not be employed in Government, Government Undertakings, or Fishermen Co-operative Society",
+    "Must have no dues payable to the Department or Fishermen Co-operative Societies at the time of application",
+    "The mechanised boat must be registered",
+    "Hull must be extended above 47 feet with specified equipment (hydraulic winch, steel ropes, GPS, echo sounder, insulated ice-box, life-saving appliances, etc.)",
+    "Must have obtained a provisional loan sanction order from the bank"
+  ],
+  "benefits_summary": "Provides a 50% subsidy up to ₹2,50,000 per boat linked to bank finance.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self-attested copies of mandatory documents",
+    "Provisional loan sanction order"
+  ],
+  "application_link": null
+}

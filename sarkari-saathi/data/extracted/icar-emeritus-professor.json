@@ -1,0 +1,32 @@
+{
+  "scheme_name": "ICAR Emeritus Professor",
+  "occupation": [
+    "teacher",
+    "scientist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a superannuated teacher or scientist with at least 5 years of teaching/training experience.",
+    "Applicant must be retiring within the next 12 months (or have one year of service left).",
+    "Preference is given to candidates who retire within one year from the date of notification.",
+    "Maximum age for applying is 65 years; the appointment can continue only up to age 70 or for three years, whichever is earlier.",
+    "Application must be submitted online through the RLBS portal using the prescribed format; no other modes are accepted.",
+    "Applicants must not hold any other regular or part‑time remunerative job during the tenure and must not receive assistance for the same work from any other source.",
+    "The applicant must submit the prescribed proforma to the Deputy Director General (Education), ICAR."
+  ],
+  "benefits_summary": "Honorarium of Rs. 50,000 per month plus a non‑lapsable contingency grant of Rs. 1,00,000 per year for travel, stationery, books, and other expenses, together with faculty privileges such as medical facilities.",
+  "documents_required": [
+    "Prescribed proforma/application form",
+    "NOC form (if the applicant is currently in service)",
+    "Signed print‑out PDF of the application"
+  ],
+  "application_link": "http://rlbs.icar.gov.in"
+}

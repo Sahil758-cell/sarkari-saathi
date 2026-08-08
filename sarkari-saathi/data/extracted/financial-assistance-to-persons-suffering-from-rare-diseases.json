@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance to Persons Suffering from Rare Diseases",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile and bonafide resident of Haryana",
+    "Applicant must possess a Parivar Pehchan Patra",
+    "Applicant must be suffering from a Rare Disease listed in the National Policy for Rare Diseases, 2021 and diagnosed at a designated Centre of Excellence"
+  ],
+  "benefits_summary": "Eligible patients receive a monthly financial assistance of ₹3,000.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

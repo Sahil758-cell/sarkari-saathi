@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for Energy Efficiency",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable to all micro, small, and medium enterprises (MSMEs) in the powerloom sector",
+    "Enterprises must have started production between 01‑01‑2022 and 31‑12‑2024",
+    "Enterprises must execute a four‑party agreement with the Directorate of Textiles, a financial institution and Tantuja",
+    "Units may be private, cooperative, joint‑sector undertakings, or companies/undertakings owned and managed by the State Government and Industrial SHGs",
+    "The project must be covered by a detailed feasibility report/project prepared for the purpose",
+    "The project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution"
+  ],
+  "benefits_summary": "Provides a 50% subsidy on the cost of an energy audit and a 25% subsidy (up to ₹2,00,000) on energy‑conservation installations.",
+  "documents_required": [
+    "Form-A2"
+  ],
+  "application_link": null
+}

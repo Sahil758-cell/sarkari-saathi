@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pravasi Bharatiya Bima Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Overseas Indian with emigration clearance under the Emigration Check Required (ECR) category, seeking overseas employment in ECR countries."
+  ],
+  "benefits_summary": "Provides up to ₹10 lakh insurance cover for accidental death or permanent disability abroad, along with medical, repatriation, family hospitalization, maternity, and legal expense benefits.",
+  "documents_required": [
+    "Passport",
+    "Visa",
+    "Work Permit"
+  ],
+  "application_link": null
+}

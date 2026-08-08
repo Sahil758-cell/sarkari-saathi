@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Financial Support To The Students Of N.E.R For Higher Professional Courses (NEC Merit Scholarship)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh",
+    "Assam",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Tripura",
+    "Sikkim"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of any North Eastern State",
+    "Admission must be in Diploma, Degree, Post‑graduate or registration in M.Phil/Ph.D. courses of a government‑recognized institute",
+    "Minimum 60% marks in the qualifying examination for the respective level",
+    "Applicant must not be receiving any other scholarship or financial assistance from any source",
+    "In case of a tie, preference is given to the candidate with lower family income",
+    "No reservation or quota based on category, religion, or gender",
+    "Scholarship is disbursed only through the National Scholarship Portal (NSP)"
+  ],
+  "benefits_summary": "Scholarship amounts up to ₹30,000 per annum (₹20,000 for Diploma, ₹22,000 for Degree, ₹25,000 for Post‑graduate and ₹30,000 for M.Phil/Ph.D.) are provided to eligible students and are paid via the National Scholarship Portal.",
+  "documents_required": [
+    "Previous exam marks sheet or pass certificate"
+  ],
+  "application_link": "http://www.scholarships.gov.in/"
+}

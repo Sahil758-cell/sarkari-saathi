@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Interest Subsidy Scheme, 2008",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only new Micro and Small Enterprises that commenced commercial production after the scheme’s launch are eligible",
+    "Units must be permanently registered with Entrepreneur Memorandum II by the Directorate of Industries, Trade and Commerce",
+    "Eligible units must belong to the “Green” list or the specified “Orange” list, excluding units covered under Orange II and II B",
+    "Units under a revival plan as defined in the sick unit revival policy are not eligible",
+    "The enterprise must have obtained a term loan and working capital from a nationalised bank, scheduled bank, co‑operative bank, Economic Development Corporation Ltd., or any other financial institution notified by the Government of Goa",
+    "The benefit is available for a period of five years (20 quarters) from the quarter in which commercial production started"
+  ],
+  "benefits_summary": "Interest subsidy of up to 1% of total net turnover or 30% of interest paid, whichever is lower, capped at ₹5,00,000 per annum for a period of five years.",
+  "documents_required": [
+    "Specified proforma from the Directorate of Industries, Trade and Commerce",
+    "Passport‑sized photograph",
+    "Self‑attested copies of all mandatory documents",
+    "Filled and signed application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Intensive Castration Scheme",
+  "occupation": [
+    "livestock owner",
+    "animal-rearing organization"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Male calf must be castrated through the closed or open method."
+  ],
+  "benefits_summary": "₹500 subsidy per male calf for castration using either the closed (Burdizo Castrator) or open (Surgical) method.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

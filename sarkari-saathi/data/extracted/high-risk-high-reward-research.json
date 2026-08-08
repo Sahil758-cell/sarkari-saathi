@@ -1,0 +1,24 @@
+{
+  "scheme_name": "High Risk - High Reward Research",
+  "occupation": [
+    "regular academic/research position in a recognized institution"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be an Indian citizen residing in India",
+    "Applicant must hold a regular academic or research position in a recognized institution",
+    "Proposals may be submitted by an individual or by a team of investigators",
+    "If submitted by a team, a Principal Investigator must be identified to lead the research and administer the grant"
+  ],
+  "benefits_summary": "No budget limit; the grant covers equipment, consumables, travel, contingency and overhead expenses.",
+  "documents_required": [],
+  "application_link": "www.serbonline.in"
+}

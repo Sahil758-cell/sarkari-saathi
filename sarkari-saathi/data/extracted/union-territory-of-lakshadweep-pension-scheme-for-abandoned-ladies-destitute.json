@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Union Territory of Lakshadweep Pension Scheme for Abandoned Ladies/Destitute",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 18000,
+  "category": null,
+  "state": [
+    "Lakshadweep"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of the Union Territory of Lakshadweep",
+    "Divorced, abandoned, or destitute woman",
+    "Has not remarried after separation or abandonment",
+    "No source of income or nominal income not exceeding ₹1,500 per month",
+    "Not a beneficiary of any other similar government pension scheme"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,500 (₹18,000 per annum) transferred directly to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

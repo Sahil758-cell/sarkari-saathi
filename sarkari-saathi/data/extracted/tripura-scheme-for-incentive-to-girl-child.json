@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Tripura Scheme For Incentive To Girl Child",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": 15,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Up to two girl children per mother in each BPL family.",
+    "Girl child must be born on or after 01/06/2009.",
+    "Application must be submitted to the Child Development Project Officer (CDPO) of the concerned AMC/Nagar Panchayat/RD Block using the prescribed application form."
+  ],
+  "benefits_summary": "₹300 per month per girl child up to age 15, paid to the mother via bank or post office account.",
+  "documents_required": [],
+  "application_link": null
+}

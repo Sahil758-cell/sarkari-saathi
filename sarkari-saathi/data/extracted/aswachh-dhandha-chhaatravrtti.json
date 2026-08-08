@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Aswachh Dhandha Chhaatravrtti",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only two children from one family are eligible",
+    "Parents must be engaged in unclean/hygienic occupations such as Scavenger, Flayers, or Tanner, or have left those occupations after 1997",
+    "Applicant must not be eligible for any other state scholarship",
+    "Eligibility category noted in source: Other deprived categories"
+  ],
+  "benefits_summary": "Students studying in Class 1‑10 receive a scholarship of ₹1,850 per annum.",
+  "documents_required": [
+    "photo",
+    "signature",
+    "important documents"
+  ],
+  "application_link": null
+}

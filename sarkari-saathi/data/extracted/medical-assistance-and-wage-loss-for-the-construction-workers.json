@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Medical Assistance and Wage Loss for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have been engaged in building or other construction work for at least 90 days in a given year",
+    "Must be a registered member under the Building and Other Construction Workers Welfare Board of the U.T. Administration of Dadra and Nagar Haveli and Daman and Diu",
+    "Must have undergone treatment for injuries caused during employment or have a period of disablement"
+  ],
+  "benefits_summary": "Provides reimbursement of actual medical expenses incurred due to job‑related injuries and pays half‑monthly wages during the period of disablement.",
+  "documents_required": [
+    "Prescribed registration form",
+    "Prescribed documents",
+    "Form‑VI (self‑attested if required)",
+    "Original medical bills"
+  ],
+  "application_link": null
+}

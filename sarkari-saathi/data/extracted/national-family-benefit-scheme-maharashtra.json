@@ -1,0 +1,22 @@
+{
+  "scheme_name": "National Family Benefit Scheme (Maharashtra)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a family member or dependent of the deceased breadwinner",
+    "Deceased breadwinner must have been between 18 and 59 years old"
+  ],
+  "benefits_summary": "One-time lump sum financial assistance of ₹20,000.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Award of Puduvai Kalaimamani",
+  "occupation": [
+    "artist",
+    "author/writer"
+  ],
+  "gender": null,
+  "age_min": 30,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have received any similar award from other governments, universities or organizations",
+    "Author/writer must have published books of high repute in poetry, prose, or research articles in their respective languages",
+    "Applicant must have participated in literary and research activities",
+    "Applicant must have continuous residence in Puducherry for at least 5 years",
+    "Eligibility category noted in source: Literature",
+    "Eligibility category noted in source: Music",
+    "Eligibility category noted in source: Dance",
+    "Eligibility category noted in source: Drama",
+    "Eligibility category noted in source: Painting and Sculpture",
+    "Eligibility category noted in source: Folk arts"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 per award.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

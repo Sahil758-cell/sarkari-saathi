@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Chief Minister’s Agriculture Mechanisation Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "First‑time buyers of tractors or farm machinery; applicants must not currently own or have previously owned a tractor or farm machinery in their own name or that of any family member",
+    "Eligibility includes all categories of farmers – marginal, small, medium, and large",
+    "All Self‑Help Groups (SHGs), cooperative societies, Farmer Producer Organizations (FPOs), and entrepreneurs identified by District Nodal Agencies are eligible",
+    "Applicants must belong to a group of farmers or be an individual farmer as identified by the district agencies",
+    "Facilities for after‑sale service and spare parts must be reasonably available in the implementing area/district",
+    "Each beneficiary is required to contribute ₹6.00 lakh per Custom Hiring Centre (CHC)"
+  ],
+  "benefits_summary": "Provides subsidized agricultural machinery—including tractors, combine harvesters, power tillers, and other equipment—to eligible farmers and registered farmer groups.",
+  "documents_required": [],
+  "application_link": null
+}

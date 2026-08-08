@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Post-Matric Scholarships for Scheduled Castes Students- Gujarat",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must belong to the Scheduled Caste category of Gujarat.",
+    "The student must have passed Matriculation, Higher Secondary or any higher examination of a recognized University or Board of Secondary Education.",
+    "Candidates who, after passing one stage of education, enroll in the same stage in a different subject (e.g., Intermediate Science after Intermediate Arts) are not eligible.",
+    "Students studying through correspondence/online courses are eligible for the scholarship but not for the academic allowance.",
+    "A scholarship holder cannot hold any other scholarship or stipend simultaneously.",
+    "Seats filled through arbitrary, non‑transparent processes such as management or NRI quota are not eligible.",
+    "Attendance of at least 75 % in each academic year is required for continuation of the award.",
+    "If a student misses an exam due to illness, renewal is possible upon submission of a medical certificate."
+  ],
+  "benefits_summary": "Provides yearly academic allowance ranging from ₹4,000 to ₹13,500 for hostellers and ₹2,500 to ₹7,000 for day scholars, with an additional 10 % allowance for disabled (Divyang) students.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in/"
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Reimbursement of the MS-CIT Course",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The child's parent or guardian must be a registered construction worker under the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW).",
+    "The applicant must be enrolled in a government‑recognized MS‑CIT course.",
+    "Reimbursement is available for up to two children per registered construction worker."
+  ],
+  "benefits_summary": "Reimbursement of MS‑CIT course fees for up to two children of registered construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

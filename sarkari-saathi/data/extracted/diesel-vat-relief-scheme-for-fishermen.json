@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Diesel VAT Relief Scheme for Fishermen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered diesel cardholder.",
+    "The applicant must own a mechanized fishing boat.",
+    "The boat must be less than 20 meters in length."
+  ],
+  "benefits_summary": "Provides up to ₹15 per litre of diesel as VAT assistance for fishermen with mechanized boats.",
+  "documents_required": [],
+  "application_link": "https://fisheries.gujarat.gov.in/Registration.aspx"
+}

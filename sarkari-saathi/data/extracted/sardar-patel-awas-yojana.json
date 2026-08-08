@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Sardar Patel Awas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must be registered Below Poverty Line (BPL) in a rural area",
+    "Applicant must not own any plot or house",
+    "Applicant must not have taken benefit of any other housing scheme",
+    "Applicant may own a maximum of half a hectare of irrigated land or a maximum of one hectare of unrelated land",
+    "If husband and wife live together in the same village for the last five years, either can apply even if a plot or house is in the name of the spouse",
+    "Applicant must be a native of the village and hold the village BPL card",
+    "Applicant must obtain a certificate from the village Sarpanch confirming no prior benefit under the scheme",
+    "Applicant must provide a certificate that there is no house in the name of the applicant or spouse in the native place",
+    "Benefit is available only once per villager"
+  ],
+  "benefits_summary": "Provides financial assistance/subsidy for economically weaker and low‑income groups to construct their own pucca houses, improving living standards.",
+  "documents_required": [
+    "BPL card of the village",
+    "Certificate from the Sarpanch stating no prior benefit under Sardar Patel Awas Yojana",
+    "Certificate confirming no house exists in the name of the applicant or spouse"
+  ],
+  "application_link": null
+}

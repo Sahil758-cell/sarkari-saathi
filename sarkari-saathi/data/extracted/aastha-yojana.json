@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Aastha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 120000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "At least two members of the family must be specially abled",
+    "The applicant must possess an Aastha Card"
+  ],
+  "benefits_summary": "Free medical treatment and ration supplies similar to BPL families.",
+  "documents_required": [],
+  "application_link": null
+}

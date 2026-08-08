@@ -1,0 +1,32 @@
+{
+  "scheme_name": "DEVELOPMENT OF HANDICRAFTS",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Puducherry Union Territory or a continuous resident for the past three years",
+    "Already trained candidates are not eligible to apply",
+    "Application must be submitted directly to the General Manager, District Industries Centre, Pondicherry; applications through any organization or association will not be accepted",
+    "Applicant must not be receiving financial assistance from any other source",
+    "Age certificate from the appropriate authority is required"
+  ],
+  "benefits_summary": "Provides a monthly stipend of Rs.1,500 to trainees along with trainer honorarium and raw‑material compensation for a six‑month training program.",
+  "documents_required": [
+    "Birth Certificate",
+    "Education Certificate",
+    "Residence Certificate",
+    "Certificate from the District Collector/Dy. Commissioner confirming financial position and that the applicant is not receiving financial assistance from any other source",
+    "Age certificate from the appropriate authority",
+    "Affidavit before a First class Magistrate (if income/age certificates are not furnished)"
+  ],
+  "application_link": null
+}

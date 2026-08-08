@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Gopal Incentive Scheme",
+  "occupation": [
+    "breeder",
+    "livestock farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have access to Indian advanced breed cows"
+  ],
+  "benefits_summary": "Cash awards ranging from ₹5,000 to ₹2,00,000 for breeders at block, district and state levels.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Centrally Sponsored Scheme of Post-Matric Scholarship for OBC Students for studying in India",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian national",
+    "Applicant must belong to OBC as notified by the respective State/UT",
+    "Applicant must be permanently settled in the State/UT to which they belong",
+    "Applicant must be pursuing post‑matriculation or post‑secondary courses in a recognized institution",
+    "Applicant must have passed a recognized Matriculation, Higher Secondary or any higher examination",
+    "Combined annual income of applicant and parents/guardians must not exceed Rs 1.5 lakh",
+    "Restriction applies to a maximum of two boys per the same parents/guardian (not applicable to girls)",
+    "Applicant cannot hold any other scholarship or stipend concurrently under this scheme",
+    "No subsequent failure will be condoned except for courses in Group ‘A’, and course change after admission is not allowed",
+    "Post‑graduate medical courses are eligible only if the student does not practice during the course period",
+    "Correspondence course applicants are eligible only for reimbursement of non‑refundable fees and a Rs 900 annual book allowance",
+    "Scholars receiving coaching from pre‑examination training centres are not eligible for a stipend"
+  ],
+  "benefits_summary": "Provides a maintenance allowance (varying by course group) along with reimbursement of tuition, registration and other compulsory fees, and additional allowances for blind students, study tours, and thesis printing.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/fresh/newstdRegfrmInstruction"
+}

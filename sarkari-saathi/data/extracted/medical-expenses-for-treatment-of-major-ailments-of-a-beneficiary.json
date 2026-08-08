@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Medical Expenses for Treatment of Major Ailments of a Beneficiary",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Construction worker must be registered under the Manipur Building and Other Construction Workers' Welfare Board.",
+    "Spouse and children of the construction worker are eligible for assistance.",
+    "Applicant must be suffering from any of the listed major ailments (TB, Cancer, Heart Disease, Kidney Disease, Eye Disease, Leprosy, HIV Disease, or Nerve Disease)."
+  ],
+  "benefits_summary": "Provides up to ₹2,000 per year for minor treatments and up to ₹45,000 per major surgery.",
+  "documents_required": [],
+  "application_link": null
+}

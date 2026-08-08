@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Old Age Pension Scheme (APB&OCWWB)",
+  "occupation": [
+    "Building and Other Construction works"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with Labour Welfare Board (APB&OCWWB)",
+    "Must have membership for at least 1 year after age 60"
+  ],
+  "benefits_summary": "Cash assistance of ₹500 per month, with an increment of ₹10 every 5 years.",
+  "documents_required": [],
+  "application_link": null
+}

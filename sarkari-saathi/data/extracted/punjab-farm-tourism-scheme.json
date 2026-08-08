@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Punjab Farm Tourism Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Gold Category: farm stay unit must have an area greater than 5 acres and provide up to 9 lettable rooms (maximum 18 beds) as per standards, must offer cooked meals and hygienic food storage, and the facility may be managed by a manager",
+    "Silver Category: farm stay unit must have an area up to 5 acres and provide up to 9 lettable rooms (maximum 18 beds) as per standards, must offer cooked meals and hygienic food storage, must be operated by the owner only, and can be run in an existing house in a village",
+    "All registered units must continuously maintain the standards prescribed in Annexure‑II of the scheme guidelines",
+    "Owners must allow tourists to venture into the fields during their stay and must provide assistance for transport and medical emergencies if required"
+  ],
+  "benefits_summary": "Provides farm owners with an additional source of income and marketing support, including use of the Punjab Tourism logo, promotion on official channels, and a lifetime certification",
+  "documents_required": [],
+  "application_link": "https://punjabtourism.punjab.gov.in/"
+}

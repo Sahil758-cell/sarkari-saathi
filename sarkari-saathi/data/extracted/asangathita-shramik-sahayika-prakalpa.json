@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Asangathita Shramik Sahayika Prakalpa",
+  "occupation": [
+    "wage‑employed",
+    "self‑employed"
+  ],
+  "gender": null,
+  "age_min": 21,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only workers not covered under the Employees' Provident Fund and Miscellaneous Provisions Act, 1952 are eligible",
+    "Initially only one person per family can obtain benefits",
+    "Family income is calculated as the average over the 12 months preceding the application month",
+    "The family includes the beneficiary, spouse, wholly dependent daughters, wholly dependent minor sons and wholly dependent parents",
+    "The major source of income of the beneficiary and family members must be from wage‑employment or self‑employment in unorganized sectors"
+  ],
+  "benefits_summary": "Provides a matching contribution and interest that is refunded at age 60 or upon death or permanent total disability, creating a financial safety net for unorganized workers in Tripura.",
+  "documents_required": [
+    "Application Form (Form I)",
+    "Three recent passport‑size photographs",
+    "Certificate issued by the concerned authority (e.g., Pradhan of the Gram Panchayat, CEO of Municipal Council, Mayor/Deputy Mayor, Member of Panchayat Samiti, or employer)"
+  ],
+  "application_link": null
+}

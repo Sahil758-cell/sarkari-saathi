@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Udyogini Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 150000,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a woman",
+    "Family income must be less than ₹1,50,000 for general and special categories (no income limit for widowed or disabled women)",
+    "Applicant must be a permanent resident of Karnataka",
+    "Applicant must not have defaulted on any past loan with any financial institution",
+    "Preference is given to extremely poor, destitute, widows, and physically challenged women",
+    "Preference may be given to candidates who have undergone prior skill development or vocational training conducted by KSWDC or any other department",
+    "Around 10% of the target is earmarked for members of World Bank‑assisted Swashakthi or Stree Shakthi groups"
+  ],
+  "benefits_summary": "Provides subsidized loans up to 50% for SC/ST women and up to 30% (maximum ₹90,000) for general and special category women, along with skill‑development training.",
+  "documents_required": [],
+  "application_link": "http://www.kswdc.com"
+}

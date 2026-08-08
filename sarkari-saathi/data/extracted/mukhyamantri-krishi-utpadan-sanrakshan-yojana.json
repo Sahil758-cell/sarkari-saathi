@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Mukhyamantri Krishi Utpadan Sanrakshan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a farmer",
+    "Priority given to small and marginal farmers"
+  ],
+  "benefits_summary": "Provides subsidies ranging from 70% to 85% for solar fencing, anti‑hail net structures, and greenhouse poly‑sheet replacement for eligible farmers.",
+  "documents_required": [],
+  "application_link": "https://agridbt.hp.gov.in/agri/#/Login"
+}

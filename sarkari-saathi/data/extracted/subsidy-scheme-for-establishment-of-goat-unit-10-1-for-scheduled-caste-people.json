@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Subsidy Scheme For Establishment Of Goat Unit (10+1) For Scheduled Caste People",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only one person per family can receive the benefit",
+    "Beneficiary must be an adult",
+    "Beneficiary must purchase 1‑2 year old female goats and a 2‑3 year old buck",
+    "Beneficiary must purchase the goat unit within 90 days of pre‑approval of the online application",
+    "Beneficiary must provide a photograph with the goat unit",
+    "The goat unit should be operated for a minimum of 3 years",
+    "Beneficiary must maintain records of milk production and provide information during the department technical officer’s visit"
+  ],
+  "benefits_summary": "Provides a 50% subsidy (up to ₹45,000) towards the cost of acquiring and maintaining a goat unit consisting of 10 female goats and 1 male goat.",
+  "documents_required": [
+    "Photograph with the goat unit",
+    "Printed application form with signature/thumb impression",
+    "Supporting documents as required"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

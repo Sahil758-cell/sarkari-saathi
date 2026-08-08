@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Deen Dayal Upadhyaya Antyodaya Parivar Suraksha Yojana (DAYALU)",
+  "occupation": [
+    "Construction workers",
+    "Industrial labourers",
+    "Other labourers",
+    "Private sector employee",
+    "Private contractual workers",
+    "Unorganised workers"
+  ],
+  "gender": null,
+  "age_min": 7,
+  "age_max": 60,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Haryana",
+    "Beneficiary must possess a Family ID/Parivar Pehchaan Patra (PPP) number",
+    "Beneficiary must be the family member with disability or an eligible relative in case of death",
+    "Family income must be verified in the Family Information Data Repository (FIDR) database",
+    "Applicants must be registered under Haryana Labour Welfare Board (HLWB) or Haryana Building and Other Construction Workers Welfare Board (HBOCW)",
+    "Claims for deaths or disabilities occurring before 1 April 2023 are not entertained",
+    "In case of death, assistance is paid to the head of the family or the eldest eligible family member as per age rules",
+    "If all family members are minors, assistance is released after any member turns 18",
+    "If a minor girl child is present and the beneficiary is aged 25‑45, half of the compensation (₹2.5 lakh) is paid to the girl’s Aadhaar‑linked bank account"
+  ],
+  "benefits_summary": "One‑time financial assistance ranging from ₹1 lakh to ₹5 lakh depending on the beneficiary’s age.",
+  "documents_required": [
+    "Parivar Pehchaan Patra (PPP) number",
+    "Death certificate",
+    "Disability certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,34 @@
+{
+  "scheme_name": "International Cooperation Scheme- Market Development Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant organization must be the Ministry of MSME, an organization under the Ministry, a State/Central Government organisation/institution, or a registered industry/enterprise association.",
+    "The applicant organization must be duly registered under the relevant Act (e.g., Companies Act, Societies Act) with the primary objective of promotion and development of MSMEs.",
+    "The applicant organization must have regular audited accounts for the past three years.",
+    "Events for which financial support is sought must be from the list of approved exhibitions/events/buyer‑seller meets finalized by the Ministry of MSME each financial year.",
+    "Financial assistance is normally limited to three events per applicant organization in a financial year, subject to possible relaxation by the Screening Committee.",
+    "Industry associations/organizations may participate in a particular event continuously for three years, after which a two‑year gap is required before further participation in the same event.",
+    "An MSME unit may not participate in more than two events in a financial year under the scheme.",
+    "Selection of participating MSME units is based on a scorecard with a minimum qualifying score of 60 %.",
+    "Adequate representation must be given to SC, ST, women and NER entrepreneurs, with priority to those who have not previously received a government grant for such events."
+  ],
+  "benefits_summary": "Provides reimbursement‑based financial assistance for expenses such as airfare, stall rent, freight, advertising, registration fees, and organization of international conferences and seminars.",
+  "documents_required": [
+    "Audited accounts for the past three years",
+    "Score Card",
+    "Self undertaking"
+  ],
+  "application_link": "https://ic.msme.gov.in/IC_APP/IC_Welcome.aspx"
+}

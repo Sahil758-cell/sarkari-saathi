@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Prathibha Scholarship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be of Kerala origin.",
+    "Applicant must have qualified the Higher Secondary Examination in Kerala.",
+    "Applicant must have secured minimum 90% marks overall and in all science subjects (or minimum 80% for SC/ST candidates).",
+    "Applicant must have secured admission to a 3‑year B.Sc., 5‑year Integrated M.Sc. or Integrated BS‑MS program in basic or natural sciences at any Indian institution/university.",
+    "Selection is based on aggregate marks in science subjects of the Higher Secondary Examination.",
+    "At least 50% of scholarship seats are reserved for female students.",
+    "A minimum of 75% marks in the undergraduate course is required to continue the scholarship for postgraduate studies."
+  ],
+  "benefits_summary": "Provides scholarship amounts ranging from ₹12,000 to ₹60,000 per year for undergraduate and postgraduate studies in basic/natural sciences, along with opportunities for science enrichment programmes and internships.",
+  "documents_required": [
+    "Passport size photograph (150W × 200H pixels)"
+  ],
+  "application_link": null
+}

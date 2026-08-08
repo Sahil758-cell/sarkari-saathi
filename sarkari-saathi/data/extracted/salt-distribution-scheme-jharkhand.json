@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Salt Distribution Scheme Jharkhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold an Antyodaya Anna Yojana (AAY) card, a Priority Household (PHH) card under the National Food Security Act, or a Green Card under the Jharkhand State Food Security Scheme (JSFSS).",
+    "Preference is given to economically disadvantaged households."
+  ],
+  "benefits_summary": "Subsidized salt provided at ₹1 per kilogram to eligible cardholders.",
+  "documents_required": [
+    "Aadhaar number",
+    "Aadhaar Enrolment Identification Slip"
+  ],
+  "application_link": null
+}

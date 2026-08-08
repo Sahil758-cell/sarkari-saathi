@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Nursing Kaushal College Jharkhand",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the 12th grade in any stream",
+    "Must clear the JCECEB entrance exam and attend a personal counseling session"
+  ],
+  "benefits_summary": "Free two-year residential ANM training with campus placement assistance and 15-day JCECEB exam coaching.",
+  "documents_required": [
+    "Photograph",
+    "Aadhaar Card"
+  ],
+  "application_link": "https://app.prejha.org/anm-home.php"
+}

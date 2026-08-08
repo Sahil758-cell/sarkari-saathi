@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Prakhand Parivahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of the block where the application is made",
+    "Must possess a valid driving licence",
+    "Should not be employed in any government service"
+  ],
+  "benefits_summary": "A subsidy of ₹5,00,000 is provided per bus to eligible beneficiaries.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scholarships for Meritorious Students to Study Abroad",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Must have at least 75% marks in graduation/postgraduate studies in the relevant subject",
+    "Must have secured admission to a study program abroad",
+    "Must have qualified for international tests such as GRE, GMAT, TOEFL, or IELTS",
+    "For PhD applicants, must have either two years of teaching experience or an M.Phil degree in the relevant subject from a recognized university or government college in Madhya Pradesh",
+    "Age limit: under 25 years for postgraduate studies and under 35 years for PhD research"
+  ],
+  "benefits_summary": "Provides up to $40,000 (or equivalent) annually for study abroad, covering expenses and an additional $2,000 for academic materials, subject to a bond.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self-attested)"
+  ],
+  "application_link": null
+}

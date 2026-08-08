@@ -1,0 +1,27 @@
+{
+  "scheme_name": "RMEWF-Financial Assistance To 100% Disabled Child Of Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Child must be a legitimate offspring of the ex‑serviceman or widow",
+    "Ex‑serviceman must be of rank JCO/equivalent of Navy/Air Force or below",
+    "Child must be 100 % disabled",
+    "Applicant must not be receiving any disability benefit from any official agency",
+    "Application must be recommended by the respective Zila Sainik Board (ZSB)"
+  ],
+  "benefits_summary": "Financial assistance of Rs.3000 per month (paid annually) per child, non‑transferable and ceases upon the child's death",
+  "documents_required": [
+    "Copies of supporting documents duly attested by the respective Zila Sainik Welfare Officer (ZSWO)",
+    "Disability Certificate in the Government‑prescribed format (required for renewal)",
+    "Life Certificate (required for renewal)"
+  ],
+  "application_link": "https://ksb.gov.in/"
+}

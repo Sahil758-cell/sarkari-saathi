@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Protected Cultivation Component of Establishment of New Gardens (Area Expansion) Scheme",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Subsidised poly houses, shade‑net houses and plastic mulching are provided to eligible farmers up to the prescribed area and monetary limits.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

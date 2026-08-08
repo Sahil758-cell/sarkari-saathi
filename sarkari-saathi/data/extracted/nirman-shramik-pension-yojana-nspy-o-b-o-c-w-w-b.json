@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Nirman Shramik Pension Yojana (NSPY) (O.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Odisha",
+    "Must be a Building/Construction Worker",
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must not be a member of any other Welfare Fund established under any law",
+    "Must not have been convicted of any criminal offense involving moral turpitude",
+    "Must not be in receipt of any other pension from the Union Government, the State Government or any organization aided by either Government",
+    "Applicant must be either a construction worker aged 60 years or above, a widow (any age), a widow of a registered construction worker, a leprosy patient with visible deformity, a physically challenged person, a widow of a HIV‑positive worker, or an HIV‑positive construction worker"
+  ],
+  "benefits_summary": "₹500 per month up to age 80, and ₹700 per month for beneficiaries aged 80 and above",
+  "documents_required": [],
+  "application_link": null
+}

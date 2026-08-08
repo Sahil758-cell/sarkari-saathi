@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Artisan Promotion",
+  "occupation": [
+    "Artisan"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a beneficiary of the Delhi Scheduled Castes, Scheduled Tribes, Other Backward Classes, Minorities, and Safai Karamchari Finance and Development Corporation (DSFDC).",
+    "Applicant must have availed a loan from DSFDC.",
+    "Applicant must be registered online under Micro, Small, and Medium Enterprises (MSME) at www.udyogaadhar.gov.in.",
+    "Eligibility category noted in source: Minority",
+    "Eligibility category noted in source: Safai Karamchari",
+    "Eligibility category noted in source: Persons with Disabilities"
+  ],
+  "benefits_summary": "Financial support is provided to artisans for participation in national fairs and exhibitions, covering travel, lodging, daily allowances and related expenses.",
+  "documents_required": [
+    "Prescribed application form (hard copy or downloaded)",
+    "Passport-sized photograph(s)",
+    "Self‑attested copies of mandatory documents (if required)",
+    "Original ID proof"
+  ],
+  "application_link": null
+}

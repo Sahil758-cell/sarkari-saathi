@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Uniform Allowance to the Wards of Ex-Servicemen/Widows (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a ward of an unemployed ex‑serviceman (ESM) or a ward of the widow of an ESM",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "Ward must be studying in a government‑recognized institution",
+    "Scheme is applicable for up to two wards per unemployed ESM or widow of an ESM",
+    "Application must be submitted offline within three months from the date of completion of the education"
+  ],
+  "benefits_summary": "Uniform allowance of ₹2,000 per annum for school‑level students and ₹2,500 per annum for other courses, reimbursed up to the actual cost, credited to the beneficiary’s bank account via RTGS/NEFT.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

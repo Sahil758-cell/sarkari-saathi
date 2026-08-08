@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Nirman Shramik Antrashtriya Khel Pratiyogiyo Hetu Protsahan Yojana",
+  "occupation": [
+    "construction workers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Rajasthan.",
+    "Must be a construction worker registered under labour law.",
+    "Must be registered as a beneficiary in the board under Section-12 of the Building and Other Construction Workers Act, 1996 and depositing contributions regularly.",
+    "Unmarried sons and daughters of construction workers are also eligible.",
+    "The scheme does not apply to any online gaming or betting related competition.",
+    "No incentive is payable if the sportsperson is declared invalid or medals withdrawn due to doping or other reasons stipulated by the organising committee.",
+    "If false information is found during scrutiny, the beneficiary must repay the assistance amount with interest."
+  ],
+  "benefits_summary": "Financial incentive of ₹2,00,000 for participation, increasing up to ₹11,00,000 for a gold medal in international sports competitions.",
+  "documents_required": [],
+  "application_link": null
+}

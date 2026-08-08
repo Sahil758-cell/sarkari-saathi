@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Insurance Scheme For Artisans Component of the Development of Handicrafts Scheme",
+  "occupation": [
+    "handicraft artisan"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must comply with the conditions stipulated under the insurance policy."
+  ],
+  "benefits_summary": "Provides insurance benefits up to ₹50,000 for death, accidental death, and disability (partial or total) for eligible artisans.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Family Assistance Scheme- Chhattisgarh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Chhattisgarh",
+    "Applicant must be a family member of the deceased primary breadwinner",
+    "The deceased must have been the primary breadwinner of the family",
+    "The death must be due to natural, unnatural, or accidental causes",
+    "If there is more than one earning member, assistance is given only for the death of the member whose income contributes the most to the family",
+    "The term “family” includes husband, wife, minor children, unmarried daughters, and dependent parents"
+  ],
+  "benefits_summary": "Eligible families receive a lump‑sum payment of ₹20,000.",
+  "documents_required": [],
+  "application_link": null
+}

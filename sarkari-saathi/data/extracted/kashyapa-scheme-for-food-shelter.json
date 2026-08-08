@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Kashyapa Scheme for Food & Shelter",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Brahmin community",
+    "Applicant must reside in Andhra Pradesh",
+    "Applicant must hold a white ration card",
+    "Applicant must not have availed any amount under any other Government scheme for the same purpose",
+    "Orphan children must be below 14 years of age as of 31 Jan 2019",
+    "Elderly applicants must be above 60 years of age as of 31 Jan 2019",
+    "Widows and destitute women must be separated from their husband and lack legal documents",
+    "Differently‑abled persons of any age are eligible"
+  ],
+  "benefits_summary": "Provides monthly financial assistance ranging from ₹2,000 to ₹4,000 for eligible orphan children, differently‑abled persons, widows, destitute women, and elderly Brahmins.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature"
+  ],
+  "application_link": "https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#"
+}

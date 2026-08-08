@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mushroom Kit Vitaran",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered on the DBT portal.",
+    "Cannot have availed the scheme in the last three fiscal years (2021-22, 2022-23, 2023-24).",
+    "Benefit can be given only once to one family member.",
+    "Selection is on a first‑come‑first‑serve basis."
+  ],
+  "benefits_summary": "Provides mushroom kits at 90% subsidy (₹60 per kit) along with 2‑day group training and a daily allowance of ₹1000 per farmer.",
+  "documents_required": [],
+  "application_link": null
+}

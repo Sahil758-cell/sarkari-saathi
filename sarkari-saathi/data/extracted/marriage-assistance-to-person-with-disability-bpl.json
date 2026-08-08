@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Marriage Assistance to Person with Disability / BPL",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 18000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Lakshadweep"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability certificate showing at least 40% disability is required",
+    "Valid ration card must be presented",
+    "Family income certificate must be certified by the Deputy Commissioner or Sub‑Divisional Officer of the island",
+    "Applicant must not have availed any similar scheme benefit from State/Central Government or any other agency",
+    "Beneficiary may marry either a differently‑abled person or a non‑disabled person, but it must be the first marriage for both individuals",
+    "Application must be made within 30 days of marriage and can be claimed up to one year after marriage"
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹30,000 transferred directly to the beneficiary’s bank account for the first marriage of a differently‑abled BPL individual.",
+  "documents_required": [
+    "Disability certificate (minimum 40% disability)",
+    "Valid ration card",
+    "Income certificate certified by DC/SDO"
+  ],
+  "application_link": null
+}

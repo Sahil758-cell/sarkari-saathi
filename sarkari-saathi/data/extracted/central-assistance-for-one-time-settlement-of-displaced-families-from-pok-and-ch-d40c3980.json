@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister's Development Package",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The claimant/head of the displaced persons family or their successor/heir must reside within Jammu & Kashmir.",
+    "The family must belong to one of the following categories: \"Pakistan occupied Jammu & Kashmir 1947 Displaced Persons\" or \"Chhamb 1965 and 1971 (camp/non-camp) Displaced Persons\"."
+  ],
+  "benefits_summary": "One-time settlement of up to Rs 5,50,000 per family for rehabilitation and livelihood support.",
+  "documents_required": [
+    "Copy of Aadhar card",
+    "Aadhar linked bank account number"
+  ],
+  "application_link": null
+}

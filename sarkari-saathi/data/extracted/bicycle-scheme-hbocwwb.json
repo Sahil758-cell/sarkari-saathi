@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Bicycle Scheme (HBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB)",
+    "Must have at least one year of continuous membership in the board",
+    "Benefit can be claimed only once every three years",
+    "Must submit an undertaking specifying bicycle price, trademark, source, and purchase date",
+    "Must pay the registration fee and have at least 90 days of work experience in the preceding year"
+  ],
+  "benefits_summary": "Provides ₹3,000 financial assistance for the purchase of a bicycle to eligible construction workers.",
+  "documents_required": [
+    "Undertaking for bicycle purchase",
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar verification"
+  ],
+  "application_link": null
+}

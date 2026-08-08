@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Exposure Visits To The Assam Legislative Assembly",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must be enrolled in High/Higher Secondary Schools or colleges in Assam.",
+    "Students should be studying Arts/Humanities subjects such as Political Science, Economics, or social sciences.",
+    "Selection is based on good academic performance and active participation in extracurricular activities like debates, mock parliament, etc.",
+    "Batch size must not exceed 50 students.",
+    "Participation is voluntary; only willing students should be selected."
+  ],
+  "benefits_summary": "Provides students practical exposure to the legislative process and opportunities to interact with state officials.",
+  "documents_required": [],
+  "application_link": null
+}

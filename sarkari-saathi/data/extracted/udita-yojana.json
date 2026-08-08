@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Udita Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 49,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides sanitary napkins and nutrition/health education, including training on menstrual hygiene, to adolescent girls and women.",
+  "documents_required": [],
+  "application_link": null
+}

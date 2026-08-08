@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Jharkhand Mukhyamantri Shramik Yojana",
+  "occupation": [
+    "unskilled worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "Resident of Jharkhand and living in an urban local body (own/rented/slum) since before April 1 2015",
+    "Women in special circumstances are eligible",
+    "Senior citizens above 65 years are eligible",
+    "Disabled persons are eligible",
+    "Willing to work in urban areas"
+  ],
+  "benefits_summary": "Guaranteed wage employment for up to 100 days per financial year in urban development projects.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": "msy.jharkhand.gov.in"
+}

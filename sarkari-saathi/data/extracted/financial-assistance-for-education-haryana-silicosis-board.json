@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Financial Assistance for Education- Haryana Silicosis Board",
+  "occupation": [
+    "factory",
+    "construction site"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be suffering from silicosis as confirmed by the Silicosis Diagnosis Board, Haryana",
+    "The worker must be registered with the Haryana Silicosis Board",
+    "Children must be studying in any class from Class I up to Master's Degree",
+    "Assistance is available for up to two boys and up to three girls per affected worker, irrespective of birth order"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000–₹12,000 per year is provided to children of affected workers studying from Class I to Master's Degree.",
+  "documents_required": [
+    "medical certificates",
+    "proof of identity",
+    "certificate of being the widow/widower or nominee (if applicable)"
+  ],
+  "application_link": null
+}

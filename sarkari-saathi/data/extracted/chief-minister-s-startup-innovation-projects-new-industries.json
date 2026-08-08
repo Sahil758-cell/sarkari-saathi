@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Chief Minister’s Startup/innovation Projects/new Industries",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Entity must be a startup, new industry, or innovation project as defined, proposing to set up an enterprise in the micro or small scale category in the services sector relating to the focus areas.",
+    "Incentives cannot be availed on the same component under both State and Central schemes."
+  ],
+  "benefits_summary": "Monthly sustenance allowance of ₹25,000 for one year, up to ₹10 lakh marketing assistance, and patent filing reimbursement up to ₹2 lakh (domestic) or ₹10 lakh (foreign).",
+  "documents_required": [],
+  "application_link": "https://startuphimachal.hp.gov.in/"
+}

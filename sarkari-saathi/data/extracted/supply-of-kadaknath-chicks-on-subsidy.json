@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Supply of Kadaknath Chicks on Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should have basic facilities for poultry farming",
+    "Applicant can be from any category of poultry farmers"
+  ],
+  "benefits_summary": "Beneficiaries receive 40 Kadaknath chicks with associated feed, medication, and transportation support, covering up to 75% of the total cost.",
+  "documents_required": [],
+  "application_link": null
+}

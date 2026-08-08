@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Payment of Funeral Assistance for the Construction Workers",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of the Union Territory of Dadra and Nagar Haveli and Daman and Diu",
+    "Applicant must be a registered building/construction worker",
+    "Must have been engaged in any building or other construction work for at least 90 days in a given year",
+    "Applicant (or nominee) must be a nominee/dependent of a deceased registered member or their spouse",
+    "Registration fee should not exceed ₹50"
+  ],
+  "benefits_summary": "Provides a one‑time financial assistance of ₹20,000 towards funeral expenses for the nominee/dependent of a deceased registered worker or spouse.",
+  "documents_required": [
+    "Prescribed registration form",
+    "Prescribed Form‑X (with mandatory self‑attested documents)",
+    "Fee receipt (not more than ₹50)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Awards To Teachers (Higher Education)",
+  "occupation": [
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular faculty member of a college/university/higher educational institution in India",
+    "Must have at least five years of full‑time teaching experience at the undergraduate and/or postgraduate level",
+    "Self‑nomination is not allowed; nominations must be made by the Vice‑Chancellor/Director/Principal of the institution, a colleague or former faculty member of the same institution, former Vice‑Chancellor/Director/Principal (if currently teaching full‑time), or search committee members",
+    "Vice‑Chancellor/Director/Principal (regular or officiating) are not eligible to apply"
+  ],
+  "benefits_summary": "A medal, a certificate and a cash prize of ₹ 50,000 are awarded to each recipient.",
+  "documents_required": [
+    "Aadhaar (valid identity proof)"
+  ],
+  "application_link": null
+}

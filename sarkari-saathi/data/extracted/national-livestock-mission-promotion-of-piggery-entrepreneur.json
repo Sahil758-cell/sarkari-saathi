@@ -1,0 +1,32 @@
+{
+  "scheme_name": "National Livestock Mission: Promotion of Piggery Entrepreneur",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Individual Entrepreneur, Self Help Group (SHG), Farmers Producer Organization (FPO), Farmers Cooperative (FCO), Joint Liability Group (JLG) or Section 8 Company",
+    "Must set up a breeder farm with at least 100 sows and 25 boars",
+    "Breeding animals must be sourced from Central/State Government farms, universities or local farmers with high genetic merit",
+    "Remaining project funds must be arranged through a bank loan, financial institution loan or self‑financing",
+    "Applicant must have received training or have technical experts or sufficient experience in the relevant field",
+    "A sanction loan and a bank guarantee from a scheduled bank, together with project appraisal by that bank, are required",
+    "Applicant must own or lease land where the project will be established",
+    "All relevant KYC documents must be available",
+    "Subsidy cannot be claimed for land purchase, rent, lease, working capital or personal vehicles",
+    "In self‑financing mode, a bank guarantee valid for three years for the remaining project cost must be submitted",
+    "The project must be appraised by a bank where the entrepreneur holds an account"
+  ],
+  "benefits_summary": "One‑time capital subsidy of up to ₹30 lakh (50 % of project cost) for infrastructure, breeding animals, equipment, transportation and insurance.",
+  "documents_required": [
+    "KYC documents",
+    "Bank Guarantee (for self‑financing mode)"
+  ],
+  "application_link": null
+}

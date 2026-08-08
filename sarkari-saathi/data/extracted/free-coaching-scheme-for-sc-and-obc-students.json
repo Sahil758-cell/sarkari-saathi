@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Free Coaching Scheme for SC and OBC Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student.",
+    "Must belong to Scheduled Caste or Other Backward Class.",
+    "Total annual family income must be ≤ ₹8,00,000.",
+    "For exams requiring class‑12 qualification, the candidate must have passed class 12 or be studying in class 12 at the time of receiving the benefit.",
+    "For exams requiring undergraduate qualification, the candidate must have completed the undergraduate course or be in the final year of the undergraduate programme at the time of receiving the benefit.",
+    "Benefits can be availed by a particular student not more than twice.",
+    "Applicant should not already be availing any other coaching scheme benefits.",
+    "Under each category, 30% of the slots are reserved for female candidates; if insufficient, male candidates from the same category may be considered."
+  ],
+  "benefits_summary": "Monthly stipend of ₹4,000 for up to 12 months plus a ₹15,000 incentive for students clearing the mains stage of civil services examinations.",
+  "documents_required": [],
+  "application_link": null
+}

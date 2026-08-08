@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Grant of Financial Incentives for Hotels, Resorts, and Tourism Projects",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The project must be a star‑classified hotel/resort or heritage hotel approved by the Ministry of Tourism, Government of India",
+    "The project must be completed, commissioned and in continuous commercial operation from 2005 onwards",
+    "The applicant must have financially invested in and developed the property",
+    "The project must not have received any other capital subsidy or incentive from the Government of Puducherry or the Government of India",
+    "The project must continue in the same name and style for eight years from the date of release of the incentive",
+    "The applicant must submit an undertaking on a ₹50 stamp paper confirming the eight‑year continuation"
+  ],
+  "benefits_summary": "Provides capital grants per room for star‑classified and heritage hotels (up to ₹30 lakh for one‑star, up to ₹1 crore for higher categories) and a 25% capital subsidy (up to ₹1 crore) for higher‑category tourism projects.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Undertaking on ₹50 stamp paper"
+  ],
+  "application_link": null
+}

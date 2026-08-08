@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme for Conservation and Development of Indigenous Cattle and Murrah Development",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Haryana (or the jurisdiction where the animals are kept if different from residence, within Haryana)",
+    "The animal to be recorded must be between 5 and 75 days old from its calving date at the time of application",
+    "Only indigenous breeds are eligible: Hariana, Sahiwal or Belahi cows and Murrah buffaloes",
+    "A maximum of two milch animals (any combination of two cows, two buffaloes, or one of each) can receive incentive per applicant per year",
+    "Incentive can be provided to a particular animal only twice in its lifetime",
+    "Beneficiary must not sell the recorded animal or its male progeny for at least one year and must breed the animal through artificial insemination by the government"
+  ],
+  "benefits_summary": "Cash incentives up to ₹30,000 for Murrah buffaloes and up to ₹20,000 for indigenous cows based on lactation yield, with a one‑year restriction on sale of the animal and its male progeny.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

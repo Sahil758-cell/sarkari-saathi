@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Death Benefit (O.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Odisha.",
+    "Must be a Building/Construction Worker.",
+    "Must be between 18 and 60 years old.",
+    "Must have engaged in building and construction work for at least 90 days in a given year.",
+    "Must not be a member of any other Welfare Fund established under any law.",
+    "Must be a nominee of a deceased registered member of the Board.",
+    "The deceased member must have died due to natural or accidental causes."
+  ],
+  "benefits_summary": "Provides ₹1,00,000 for natural death and ₹2,00,000 for accidental death to the nominee of a deceased registered worker.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Stipend to Educated Unemployed",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "must be educated",
+    "must be unemployed",
+    "must be registered with an Employment Exchange for at least three years"
+  ],
+  "benefits_summary": "Stipend of ₹650 per month to eligible educated unemployed persons with disabilities.",
+  "documents_required": [],
+  "application_link": null
+}

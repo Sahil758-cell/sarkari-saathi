@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Netaji Subhas - ICAR International Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Master’s degree in agriculture/allied sciences with OGPA ≥ 6.60 / 65 % or equivalent",
+    "Fresh candidates must have obtained the qualifying degree not more than two years before the admission date",
+    "In‑service Indian candidates must be employed in an ICAR‑AU institution",
+    "Indian fellows must return to India after completing the Ph.D. and serve a three‑year bond if employed in ICAR‑AU system",
+    "Indian selected fellows must provide a US$10,000 bank guarantee; foreign fellows will have ₹2,00,000 deducted from fellowship installments",
+    "Medical fitness test and insurance to be arranged by the fellow at his/her own cost",
+    "All host‑institution fees are to be borne by the fellow",
+    "Fellow must not change place of work or research area during the fellowship and must devote full time to the research",
+    "Progress report to be submitted every six months",
+    "Dissertation/thesis and brief activity report to be submitted within 15 days of program completion"
+  ],
+  "benefits_summary": "Monthly stipend (US$2,000 for Indian fellows abroad or INR 40,000 for overseas fellows in India) plus annual contingent‑expense allowance, travel tickets, and other allowances for a three‑year Ph.D. fellowship.",
+  "documents_required": [
+    "Letter of acceptance for Ph.D. admission",
+    "Deputation approval letter (for in‑service Indian candidates)"
+  ],
+  "application_link": "https://education2.icar.gov.in/FellowShip/registration"
+}

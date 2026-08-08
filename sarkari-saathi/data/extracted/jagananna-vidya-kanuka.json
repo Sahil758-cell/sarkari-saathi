@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Jagananna Vidya Kanuka",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student of Class 1st to Class 10th",
+    "Enrolled in a Government, MPP, Municipal, Residential School of Education & Welfare Departments, Ashram School, Aided School, Model School, KGBV or Registered Madarsa"
+  ],
+  "benefits_summary": "Provides school kits containing three pairs of uniforms, notebooks, textbooks, a pair of shoes, two pairs of socks, a belt and a school bag to students studying in Classes 1 to 10.",
+  "documents_required": [],
+  "application_link": null
+}

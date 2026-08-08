@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Advanced Training in Handicrafts",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of the Union Territory of Puducherry or have continuous residence there for the past three years.",
+    "Applicant must possess the education qualification as required by the Training Unit/Institution."
+  ],
+  "benefits_summary": "Stipend of ₹2,500 per month, along with accommodation and travelling allowance during the training period.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Development of Strawberry Cultivation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide farmer engaged in agriculture",
+    "Possesses own or leased land of at least 200 square meters"
+  ],
+  "benefits_summary": "Provides 100% subsidy for strawberry planting material, mulching, and drip‑irrigation equipment to eligible farmers.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Bus Traveling Facility For Visually Impaired/Bus Concession",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Delhi.",
+    "Must have a disability of 40% or higher.",
+    "Must obtain a card from the Sub Divisional Magistrate (SDM) before applying at the depot.",
+    "Concession for the escort is provided only to applicants with 100% blindness."
+  ],
+  "benefits_summary": "Free travel on DTC buses for visually impaired persons, with a 50% fare concession for the escort if the applicant has 100% blindness.",
+  "documents_required": [
+    "Card from Sub Divisional Magistrate (SDM)"
+  ],
+  "application_link": null
+}

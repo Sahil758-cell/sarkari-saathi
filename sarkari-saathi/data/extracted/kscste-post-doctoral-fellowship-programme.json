@@ -1,0 +1,34 @@
+{
+  "scheme_name": "KSCSTE Post-Doctoral Fellowship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a permanent resident of Kerala.",
+    "Must have secured at least 60% marks in post‑graduation.",
+    "Must hold a Ph.D. in Science or Engineering.",
+    "Applicant must not be a permanent employee at the time of application.",
+    "Age limit is 40 years (relaxed by 3 years for OBC and 5 years for SC/ST candidates).",
+    "Must not have previously availed any Post‑Doctoral Fellowship from KSCSTE or elsewhere.",
+    "Must have published at least one research paper in an SCI journal or secured a patent.",
+    "Research centre must be different from the Ph.D. research centre and preferably located in Kerala, though premier national institutions (IISER, IIT, IISc, etc.) are also eligible; eligible centres are government, R&D institutions or university departments.",
+    "Applicant must not be receiving financial assistance or stipend from any other source simultaneously and must provide an undertaking to that effect.",
+    "Applicant must not collaborate with a foreign party without prior Council approval."
+  ],
+  "benefits_summary": "Post‑Doctoral Fellowship of ₹45,000 per month plus 10 % HRA and an annual contingency grant of ₹75,000 for a maximum duration of two years.",
+  "documents_required": [],
+  "application_link": "https://submit.kscste.kerala.gov.in"
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Matsya Pokhari Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Odisha.",
+    "Must possess identity and residential proof including an Aadhar card.",
+    "Must have a bank account in the applicant's name in Odisha.",
+    "Must have requisite land free from all encumbrances.",
+    "Pond area must be between 0.2 and 2.0 hectares with a minimum water depth of 6 feet.",
+    "Previous beneficiaries of similar subsidies are eligible for additional subsidies up to a total of 2 hectares."
+  ],
+  "benefits_summary": "Provides a 40% subsidy for the general category and a 50% subsidy for SC/ST/Women on tank construction and input costs, with subsidies ranging from ₹56,000 to ₹4,25,000 depending on pond size.",
+  "documents_required": [
+    "Aadhar card"
+  ],
+  "application_link": null
+}

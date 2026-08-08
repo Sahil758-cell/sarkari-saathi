@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Technical Education Scholarship Scheme for ITI Level",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be bonafide Himachali resident.",
+    "Must be studying in ITIs or ITIs for women in Himachal Pradesh.",
+    "Must belong to SC, ST, or OBC categories for the entire training period.",
+    "Must not have unauthorized absence during the second half of training.",
+    "Must maintain attendance of at least 80% during training."
+  ],
+  "benefits_summary": "Scholarship of ₹250 per month per trainee, reduced if the trainee receives any other stipend.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

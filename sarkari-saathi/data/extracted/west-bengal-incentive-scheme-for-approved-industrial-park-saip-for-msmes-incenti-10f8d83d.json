@@ -1,0 +1,26 @@
+{
+  "scheme_name": "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Setting up a Power Sub Station",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a private‑sector entity or an existing/operational industrial park",
+    "Must have a minimum of 5 acres of legally owned land (by direct purchase or lease from the State Government)",
+    "The Special Purpose Vehicle (SPV) must be registered under the Companies Act, Societies Registration Act, Partnership Act or LLP Act",
+    "Park area must be expanded to at least 5 acres in outlying districts or at least 2 acres in Kolkata and Howrah",
+    "All individual units must have obtained necessary clearances for land conversion, fire licence, environmental compliance, building plan, etc."
+  ],
+  "benefits_summary": "Free setup of a power sub‑station for approved industrial parks",
+  "documents_required": [
+    "Signature (JPG/PNG, max 2 MB)",
+    "Seal (JPG/PNG, max 2 MB)"
+  ],
+  "application_link": null
+}

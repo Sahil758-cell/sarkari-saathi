@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Distribution of Free House Sites to Scheduled Caste/Other Economically Backward Classes",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be a homeless person.",
+    "No member of the applicant's family should own a house or house site.",
+    "The applicant must have a bonafide intention to construct a house within 2 years."
+  ],
+  "benefits_summary": "Distribution of free house sites to eligible Scheduled Caste and Other Economically Backward Classes beneficiaries.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Application form"
+  ],
+  "application_link": null
+}

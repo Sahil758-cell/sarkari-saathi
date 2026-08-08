@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Visiting Advanced Joint Research Faculty Scheme",
+  "occupation": [
+    "scientist",
+    "faculty member",
+    "R&D professional"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an overseas scientist, faculty member, or R&D professional (including NRI and OCI) with an active research profile and proven track record",
+    "Must be employed in a leading academic, research, or industrial organization",
+    "Indian collaborator(s) must be regular faculty/researcher in academic/research institutions",
+    "Indian collaborators from top‑10 private institutions (per NIRF ranking) are eligible if the institute contributes 50% of the cost"
+  ],
+  "benefits_summary": "VAJRA Faculty receive up to US$15,000 in the first month and US$10,000 per month thereafter, along with travel, accommodation, and research support grants for Indian collaborators.",
+  "documents_required": [
+    "Endorsement certificate from Indian Institution",
+    "Consent letter from overseas faculty institution for participation as VAJRA Faculty"
+  ],
+  "application_link": "https://www.serbonline.in"
+}

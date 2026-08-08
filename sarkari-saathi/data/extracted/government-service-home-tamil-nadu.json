@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Government Service Home - Tamil Nadu",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 14,
+  "age_max": 45,
+  "max_annual_income": 72000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow, destitute woman, deserted woman, adolescent girl, differently abled woman, or a woman from socially and economically backward sections",
+    "The woman can stay with her male child up to 5th standard and with her girl child up to 12th standard in the service home"
+  ],
+  "benefits_summary": "Provides accommodation, food, education, vocational training and free supplies such as textbooks, uniforms and sanitary napkins.",
+  "documents_required": [],
+  "application_link": null
+}

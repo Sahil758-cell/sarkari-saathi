@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Book Bank Scheme: II",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a student",
+    "The beneficiary must be receiving any scholarship from the Government of India",
+    "The beneficiary must return the books after completing the course",
+    "The beneficiary must be enrolled in one of the specified professional courses (Medical, Engineering, Law, MBA, Veterinary, Agriculture, Polytechnic, Chartered Accountants, Cost Accountants, Postgraduate Technical Courses, etc.)"
+  ],
+  "benefits_summary": "Free textbooks are provided to eligible students, with each book shared between two students at no cost and required to be returned after course completion.",
+  "documents_required": [
+    "Application form collected from the principal of the educational institution",
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

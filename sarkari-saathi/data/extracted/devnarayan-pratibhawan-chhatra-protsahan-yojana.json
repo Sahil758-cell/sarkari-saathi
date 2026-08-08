@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Devnarayan Pratibhawan Chhatra Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan.",
+    "Applicant must be a student.",
+    "Applicant must be studying in a government school or college.",
+    "Applicant must have passed class 10th to graduation with a first division.",
+    "If pursuing postgraduate studies, applicant must have obtained at least 48% marks in the first year and be enrolled in the final year.",
+    "Applicant must belong to one of the Special Backward Class communities: Banjara, Baldiya, Labana Gadia‑Lohar, Gadoliya Gurjar, Gujjar Raika, Raibari (Debasi)."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,500 per year per student.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Formation Scheme of JHASCOFISH",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a member of a registered fishermen cooperative society",
+    "The cooperative society must be affiliated with JHASCOFISH",
+    "The society should actively participate in fish production or related activities",
+    "Societies with pending legal cases or misuse of prior funds are not eligible"
+  ],
+  "benefits_summary": "Provides financial grants, equipment, infrastructure development, marketing support, welfare programs, and vehicle purchase assistance to registered fishermen cooperative societies.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "The Meghalaya Tribal Students’ Book Grant (Post-Matric Education)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Meghalaya",
+    "Applicant must be a student",
+    "Applicant must belong to the Khasi‑Jaintia or Garo community or as decided by the state government",
+    "Applicant must have secured at least 60% aggregate marks in the preceding examination",
+    "The course of study must be a regular course, not technical or vocational",
+    "The course must be pursued at a recognized institution in India",
+    "Applicant must not be employed in any capacity under the Government"
+  ],
+  "benefits_summary": "Provides a book grant ranging from ₹500 to ₹1500 per student per academic course, varying by level and stream.",
+  "documents_required": [],
+  "application_link": null
+}

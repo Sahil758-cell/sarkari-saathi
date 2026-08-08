@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahaayata Yojana",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be employed in an establishment registered under the Shops and Commercial Establishments Act, 1962 or the Factories Act, 1948 in Uttar Pradesh.",
+    "The worker’s monthly salary (basic salary + dearness allowance) must not exceed ₹15,000."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹25,000 for degree courses, ₹15,000 for diploma courses, and ₹10,000 for certificate courses.",
+  "documents_required": [],
+  "application_link": "https://skpuplabour.in/"
+}

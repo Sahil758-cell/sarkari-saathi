@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 1000000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an LPG user.",
+    "Combined taxable income of the applicant and their spouse must not exceed ₹10,00,000 in the previous financial year.",
+    "Aadhaar number must be linked to the applicant’s bank account and LPG consumer number within three months, otherwise the subsidy will not be available."
+  ],
+  "benefits_summary": "Direct transfer of LPG subsidy to the consumer’s bank account, ensuring timely and transparent delivery.",
+  "documents_required": [
+    "Aadhaar card (copy and original)",
+    "Aadhaar linking form"
+  ],
+  "application_link": null
+}

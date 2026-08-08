@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Sainik School Sujanpur Tihra Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must be studying at Sainik School Sujanpur Tihra",
+    "Applicants must be bonafide residents of Himachal Pradesh",
+    "Eligibility is limited to students from Class VI to Class XII",
+    "Scholarship renewal requires satisfactory academic progress",
+    "No adverse disciplinary record is allowed",
+    "Recipient may not receive financial assistance from any other scholarship source",
+    "If a student fails any class, the scholarship is suspended for that class"
+  ],
+  "benefits_summary": "A scholarship of ₹18,000 per annum, plus a dietary allowance of ₹10 per day for 295 days and a clothing allowance of ₹1,500 for the first year and ₹750 for subsequent years.",
+  "documents_required": [],
+  "application_link": null
+}

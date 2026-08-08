@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have aggregate marks within the top 1% of the Class XII examination of any State/Central Education Board and be pursuing B.Sc., B.S., Integrated M.Sc./M.S. courses in Basic or Natural Sciences",
+    "Must have secured a rank within the top 10,000 in JEE (IIT) or AIPMT and be pursuing B.Sc., B.S., Integrated M.Sc./M.S. courses in Basic or Natural Sciences",
+    "Must have aggregate marks within the top 1% of the Class XII examination and be pursuing Integrated M.S. courses in Basic or Natural Sciences at IISERs, NISER, DAE Centre for Basic Sciences‑University of Mumbai, or Visva‑Bharati, Shanti Niketan",
+    "Must be selected under Kishore Vaigyanik Protsahan Yojana (KVPY) and be pursuing Bachelor or Master level courses in Natural Sciences",
+    "Must be a National Talent Search Examination (NTSE) scholar, Jagadish Bose National Science Talent Search (JBNSTS) scholar, or an International Olympiad medalist and be pursuing Bachelor or Master level courses in Natural Sciences",
+    "Only courses in the listed Basic and Natural Science subjects (e.g., Physics, Chemistry, Mathematics, Biology, etc.) are eligible; courses such as Engineering, Medicine, Agriculture, Computer Science, and distance‑education programmes are not supported"
+  ],
+  "benefits_summary": "Annual scholarship of ₹80,000 (₹5,000 per month) plus a ₹20,000 summer mentorship grant, transferred via DBT to the scholar’s State Bank of India account.",
+  "documents_required": [
+    "First page of SBI passbook (account number and name)",
+    "Mark sheets",
+    "Performance report"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Khet Talai",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a farmer",
+    "Applicant must be a native of Rajasthan",
+    "Applicant must own at least 0.3 hectares of cultivable land at a single location in his/her name (minimum 0.5 hectares if joint account holder)",
+    "Subsidy is payable only for farm ponds with a minimum capacity of 400 cubic metres"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 70% (maximum ₹73,500) for SC/ST farmers and up to 60% (maximum ₹63,000) for other farmers on raw farm ponds, with higher percentages for plastic‑lined ponds.",
+  "documents_required": [],
+  "application_link": null
+}

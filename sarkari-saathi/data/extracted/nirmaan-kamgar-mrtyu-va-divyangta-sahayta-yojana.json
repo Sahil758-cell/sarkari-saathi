@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Nirmaan Kamgar Mrtyu Va Divyangta Sahayta Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered with the labour department",
+    "Only family members are eligible for death benefits: dependent parents, spouse, daughter, and son (if below 21 years)",
+    "Death benefit is not payable in case of suicide",
+    "Aadhaar authentication of the dependent is required when the dependent applies"
+  ],
+  "benefits_summary": "Provides up to ₹5.25 lakhs as death benefit and up to ₹4 lakhs as disability benefit to registered construction workers and their families.",
+  "documents_required": [],
+  "application_link": null
+}

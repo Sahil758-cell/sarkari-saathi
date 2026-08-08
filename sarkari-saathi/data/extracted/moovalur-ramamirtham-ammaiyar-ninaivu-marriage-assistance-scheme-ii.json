@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Moovalur Ramamirtham Ammaiyar Ninaivu Marriage Assistance Scheme - II",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bride must be a degree holder from a regular college, distance education or government recognized open university, or a diploma holder from institutions recognized by the Directorate of Technical Education, Government of Tamil Nadu",
+    "Only one girl per family is eligible",
+    "Application must be submitted within 40 days before the marriage (up to one day before in exceptional circumstances)",
+    "Benefit will be given in the name of the bride's mother or father, or to the bride if the parents are deceased"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 and a 4 gm 22‑carat gold coin (one sovereign) for the bride.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Samagra Samajik Suraksha Vridhavastha Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 61,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be destitute and unable to support themselves",
+    "Applicant's name must be mentioned on the Samagra portal"
+  ],
+  "benefits_summary": "Monthly pension of ₹600 per month.",
+  "documents_required": [],
+  "application_link": null
+}

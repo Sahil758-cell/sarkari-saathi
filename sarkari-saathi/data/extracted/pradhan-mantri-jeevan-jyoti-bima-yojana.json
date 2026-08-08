@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must hold an individual bank or post office account."
+  ],
+  "benefits_summary": "Provides a one-year life insurance cover of ₹2 lakh for death due to any reason.",
+  "documents_required": [],
+  "application_link": "https://www.jansuraksha.gov.in/Files/PMJJBY/English/ApplicationForm.pdf#zoom=250"
+}

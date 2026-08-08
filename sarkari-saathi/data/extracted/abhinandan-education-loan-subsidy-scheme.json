@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Abhinandan Education Loan Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a permanent resident of Assam.",
+    "Student must have taken an education loan from a commercial or rural bank recognised by the Reserve Bank of India.",
+    "Parents must have an education loan of more than Rs 1 lakh."
+  ],
+  "benefits_summary": "Provides a one‑time subsidy of up to Rs 50,000 on education loans up to Rs 1 lakh, with the student contributing 25% of the loan amount.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Dr. Ambedkar Awas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "The applicant must not own a residential home, possess an old rough residential home, or have a plot for residence.",
+    "The applicant or any family member must not have previously received benefits under any other government housing scheme.",
+    "The house construction must be completed within 2 years from the payment of the first installment.",
+    "The construction cost limit is ₹10,00,000 for urban areas and ₹7,00,000 for rural areas.",
+    "A plaque bearing “State Government's Ambedkar Awas Yojana” must be placed on the house.",
+    "If the beneficiary is not eligible for separate toilet assistance, a toilet must be constructed as a condition for receiving the ₹1,20,000 housing assistance.",
+    "An adult son or brother may construct a floor on an existing house with the consent of the current house owner/landlord.",
+    "If the assistance amount is insufficient, the beneficiary must contribute the remaining amount to complete construction."
+  ],
+  "benefits_summary": "Provides ₹1,20,000 assistance for house construction, disbursed in three installments of ₹40,000, ₹60,000 and ₹20,000.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

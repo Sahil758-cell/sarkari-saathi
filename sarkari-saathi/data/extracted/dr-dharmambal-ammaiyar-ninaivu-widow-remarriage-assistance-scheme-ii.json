@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Dr. Dharmambal Ammaiyar Ninaivu Widow Remarriage Assistance Scheme-II",
+  "occupation": null,
+  "gender": null,
+  "age_min": 20,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow",
+    "Applicant must be at least 20 years old",
+    "Applicant must have a degree from regular colleges, distance education, or government‑recognized open university",
+    "Applicant must have a diploma recognized by the Directorate of Technical Education, Government of Tamil Nadu",
+    "Bridegroom should be less than 40 years old"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 plus a sovereign (8 gm) 22‑carat gold coin, disbursed as ₹15,000 via Electronic Clearing Service and ₹10,000 as a National Savings Certificate.",
+  "documents_required": [],
+  "application_link": null
+}

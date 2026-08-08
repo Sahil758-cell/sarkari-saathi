@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Merit Awards",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a person with disability (e.g., visually handicapped, low vision, hearing impaired, orthopedically handicapped, etc.).",
+    "Applicant must have ranked 1st, 2nd, or 3rd among disabled students in the Secondary School Certificate (S.S.C.) and Higher Secondary Certificate (H.S.C.) in their respective divisional boards of education."
+  ],
+  "benefits_summary": "Cash award of ₹1,000 plus travel expenses up to ₹100 and a certificate.",
+  "documents_required": [],
+  "application_link": "Step 1: Visit the District Social Welfare Office and request a hard copy of the format of the application form for the scheme from the concerned authority. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self‑attested) mandatory documents. Step 3: Submit the duly filled and signed application form along with the documents to the Regional Deputy Commissioner, District Social Welfare Office. Step 4: Acquire the receipt/acknowledgment of the successful submission of the application form from the District Social Welfare Office."
+}

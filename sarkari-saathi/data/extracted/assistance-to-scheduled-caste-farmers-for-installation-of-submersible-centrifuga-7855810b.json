@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Assistance to Scheduled Caste Farmers for Installation of Submersible / Centrifugal Motor Pumpsets With Accessories",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The tubewell must be registered with the Pondicherry Ground Water Authority, Puducherry.",
+    "Applicant must hold at least 1.5 acres of land under the command area of the tubewell and have ownership of the land for at least 2 years with a clear title deed in their name.",
+    "The 1.5‑acre land holding may belong to the applicant, the spouse, or a member of a joint/undivided family.",
+    "Applicants who have availed the subsidy for the same purpose within the last 5 years are ineligible.",
+    "The applicant must not convert the land for any non‑agricultural purpose for 10 years from the date of tubewell construction and must execute a bond accordingly."
+  ],
+  "benefits_summary": "90% subsidy up to ₹60,000 per tubewell for installation of submersible or centrifugal motor pump sets with accessories.",
+  "documents_required": [
+    "Clear ownership title deed",
+    "Passport‑sized photograph",
+    "Application form",
+    "Other mandatory self‑attested documents"
+  ],
+  "application_link": null
+}

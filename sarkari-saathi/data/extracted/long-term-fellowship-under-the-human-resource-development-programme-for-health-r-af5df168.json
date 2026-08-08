@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Long Term Fellowship under the Human Resource Development Programme for Health Research",
+  "occupation": [
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only Indian citizens are eligible",
+    "Applicants must be working in Indian institutes",
+    "Must possess an MD/MS/MDS or MBBS/BDS/MVSc/M.Sc./M.Pharma/M.Tech or equivalent with a Ph.D. in a health/medical research related topic",
+    "Must have at least three years of experience as a regular employee in the institute",
+    "Must be below 45 years of age as of the last date of receipt of application",
+    "Must not have availed any fellowship of one month or longer from any Government of India or State Government agency for the same subject of training/research project",
+    "Fellowship duration is 6‑12 months and is non‑transferable"
+  ],
+  "benefits_summary": "Provides a consolidated stipend of ₹40,000 per month (₹20,000 if training at the same station) for Indian institutes or US$3,000 per month for foreign institutes, along with contingency grants and travel allowances for a 6‑12 month fellowship.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,32 @@
+{
+  "scheme_name": "The Meghalaya Victim Compensation Scheme, 2022",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Victim or claimant must report the crime to the officer‑in‑charge of the local police station or to the Magistrate before making a claim",
+    "Victim or claimant must fully cooperate with police and prosecution throughout the investigation and trial; turning hostile or refusing to appear is considered non‑cooperation",
+    "The crime must involve mental or bodily injury or death of the victim",
+    "Death or permanent incapacitation must not be a result of suicide, self‑infliction, or the victim’s own wrongdoing",
+    "Victim must not have received compensation for the loss or injury under any other Central or State government scheme, insurance company, or other institution",
+    "Perpetrators of the crime or their dependents are not eligible for compensation",
+    "If the offender is not traced or identified, the victim may apply for compensation under sub‑section (4) of section 357‑A of the Act"
+  ],
+  "benefits_summary": "Provides financial compensation (₹50,000 – ₹10,00,000) based on the type of injury, degree of disability and age of the victim, along with shelter, counseling, medical, legal, education and vocational support services.",
+  "documents_required": [
+    "Medical report",
+    "FIR",
+    "Copy of Final Form of investigation",
+    "Related records"
+  ],
+  "application_link": null
+}

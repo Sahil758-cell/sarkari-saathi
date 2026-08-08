@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Haryana Gaurav Samman Scheme for Padma Awardees",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a resident of Haryana",
+    "Applicant must possess a Parivar Pehchan Patra (PPP) number issued by the Citizen Resource Information Department (CRID)",
+    "Applicant must be a recipient of a Padma Award (Padma Vibhushan, Padma Bhushan or Padma Shri)",
+    "Honorarium stops upon the death of the awardee (payable for the month of death to a nominee)",
+    "Honorarium stops if the Padma award is revoked or returned",
+    "Violation of scheme conditions makes the applicant ineligible"
+  ],
+  "benefits_summary": "Monthly honorarium of ₹10,000 plus free travel on all Haryana Roadways buses.",
+  "documents_required": [
+    "Parivar Pehchan Patra (PPP) ID",
+    "Copy of Padma Award Certificate",
+    "Bank account details"
+  ],
+  "application_link": null
+}

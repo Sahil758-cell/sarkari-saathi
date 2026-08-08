@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Shram Kalyan Shaikshanik Chatravriti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Madhya Pradesh",
+    "Parents must be employed in a factory or institution established in Madhya Pradesh under the Labor Welfare Fund Act, 1982",
+    "Only two children of a family are eligible for the scheme",
+    "Children of officers and employees working in institutions with managerial capacity are not eligible"
+  ],
+  "benefits_summary": "Provides a financial scholarship to eligible children of labourers for education from class 5th up to graduation, postgraduate and professional courses such as ITI, Polytechnic, PGDCA, DCA, B.E., and M.B.B.S.",
+  "documents_required": [
+    "Applicant's Aadhaar number",
+    "Parent's Aadhaar number"
+  ],
+  "application_link": null
+}

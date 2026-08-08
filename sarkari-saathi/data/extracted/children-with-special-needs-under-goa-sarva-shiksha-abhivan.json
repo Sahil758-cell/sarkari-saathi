@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Children With Special Needs Under Goa Sarva Shiksha Abhivan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The child must be differently-abled or require special needs."
+  ],
+  "benefits_summary": "Provides grants for activities supporting CWSN, including medical assessments, resource rooms, home‑based education, teaching‑learning materials, and training of educators.",
+  "documents_required": [
+    "Plain application detailing the specific individual needs of the child with disabilities",
+    "Medical certificates (if available)"
+  ],
+  "application_link": null
+}

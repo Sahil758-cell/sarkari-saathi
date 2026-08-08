@@ -1,0 +1,23 @@
+{
+  "scheme_name": "H.P. Swaran Jayanti Middle Merit Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a regular student in a Government School of Himachal Pradesh",
+    "Student must continue studying in the same Government School without repeating any class",
+    "Student must have at least 75% attendance during the session, except in genuine medical cases verified by a Medical Board"
+  ],
+  "benefits_summary": "Scholarship of ₹4000 per month in class 6, ₹5000 per month in class 7, and ₹6000 per month in class 8, each paid for 12 months.",
+  "documents_required": [],
+  "application_link": null
+}

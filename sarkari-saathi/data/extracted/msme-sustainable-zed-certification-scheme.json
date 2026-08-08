@@ -1,0 +1,20 @@
+{
+  "scheme_name": "MSME Sustainable (ZED) Certification Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Micro, Small or Medium Enterprises (MSME) unit.",
+    "Must be registered in the Udyam portal."
+  ],
+  "benefits_summary": "Provides subsidies on ZED certification costs, up to 75% support for testing/certification, and financial assistance for consultancy and technology up‑gradation for certified MSMEs.",
+  "documents_required": [],
+  "application_link": null
+}

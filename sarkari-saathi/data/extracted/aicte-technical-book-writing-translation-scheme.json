@@ -1,0 +1,27 @@
+{
+  "scheme_name": "AICTE-Technical Book Writing & Translation Scheme",
+  "occupation": [
+    "faculty",
+    "researcher"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The author(s) must be faculty (retired or currently working) or researchers of AICTE‑approved institutions (Degree/Diploma/Pharmacy/Management/Architecture etc.).",
+    "The author(s) must be reputed with strong command over the subject and the chosen regional language.",
+    "A proven academic record of brilliance is required.",
+    "The author(s) should have been previously recognized for similar work."
+  ],
+  "benefits_summary": "Provides up to ₹2,00,000 for original UG books, ₹1,50,000 for Diploma books, and up to ₹1,00,000 for translation, together with reviewer grants of ₹40,000 (UG) and ₹30,000 (Diploma).",
+  "documents_required": [
+    "Application form"
+  ],
+  "application_link": "https://www.aicteindia.org/schemes/staff-development-schemes"
+}

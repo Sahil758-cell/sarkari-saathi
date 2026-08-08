@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme for Financial Assistance to Integrated Logistics Facilities: Interest Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The subsidy is applicable only to new units or projects.",
+    "The term loan’s first disbursement date must fall within the scheme’s operative period (August 2 2021 to August 1 2026).",
+    "Developers must not be declared defaulters as per RBI guidelines.",
+    "Repayment against the principal must be timely."
+  ],
+  "benefits_summary": "Provides an interest subsidy on term loans for new logistics facilities, covering the moratorium period and calculated on the actual disbursed amount to encourage timely repayments.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Soil Resource Management and Inputs Quality Control",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of Puducherry"
+  ],
+  "benefits_summary": "Free soil and water testing, issuance of soil health cards, and quality assessment of seeds, fertilizers and pesticides for farmers in Puducherry.",
+  "documents_required": [],
+  "application_link": null
+}

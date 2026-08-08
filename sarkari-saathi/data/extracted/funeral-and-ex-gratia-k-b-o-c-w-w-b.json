@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Funeral and Ex-Gratia (K.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered building/construction worker under the Karnataka Building & Other Construction Workers Welfare Board",
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Beneficiary must be the nominee of a deceased registered construction worker",
+    "Application for the benefit must be submitted within one year of the worker’s death"
+  ],
+  "benefits_summary": "Provides a ₹4,000 funeral assistance and a ₹71,000 ex‑gratia payment to the nominee of a deceased registered construction worker.",
+  "documents_required": [],
+  "application_link": null
+}

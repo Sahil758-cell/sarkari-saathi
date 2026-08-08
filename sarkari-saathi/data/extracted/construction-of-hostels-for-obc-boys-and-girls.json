@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Construction of Hostels for OBC Boys and Girls",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Students must belong to the OBC category as per Central/State/UT lists and must not be part of the creamy layer",
+    "Hostel seats are primarily for post‑matric students; pre‑matric secondary students may be admitted if seats are vacant",
+    "Preference is given to students from low‑income families",
+    "At least 5% of total seats are reserved for students with disabilities",
+    "Agencies eligible for financial assistance are State Governments, Union Territory Administrations, and Central autonomous institutions such as Central Universities, IITs, and NITs"
+  ],
+  "benefits_summary": "Financial assistance is provided for constructing hostels for OBC students, covering up to 90% of costs (with a higher central share for girls’ hostels) and a one‑time grant of ₹2,500 per seat for furniture/equipment.",
+  "documents_required": [],
+  "application_link": null
+}

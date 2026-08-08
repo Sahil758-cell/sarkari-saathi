@@ -1,0 +1,23 @@
+{
+  "scheme_name": "RMEWF-Financial Assistance For Vocational Training Of Widows Of Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow of an Ex-Serviceman of rank up to Havildar or equivalent",
+    "Applicant must have successfully completed the vocational training",
+    "Applicant must be recommended by the respective Zila Sainik Board (ZSB)"
+  ],
+  "benefits_summary": "A one‑time financial assistance of up to Rs.20,000 is provided to widows of Ex‑Servicemen on successful completion of the vocational training.",
+  "documents_required": [
+    "Supporting documents attested by the respective Zila Sainik Welfare Officer (ZSWO)"
+  ],
+  "application_link": "https://ksb.gov.in/"
+}

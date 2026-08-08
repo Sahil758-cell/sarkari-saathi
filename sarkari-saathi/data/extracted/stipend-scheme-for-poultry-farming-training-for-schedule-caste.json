@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Stipend Scheme For Poultry Farming Training For Schedule Caste",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be an adult belonging to the Scheduled Caste community of Gujarat.",
+    "Income proof and caste certificate must be provided.",
+    "Females and Below Poverty Line (BPL) beneficiaries are given priority, but are not excluded if they do not belong to these groups."
+  ],
+  "benefits_summary": "Maximum ₹2000 stipend for six days of training and a poultry training certificate upon completion.",
+  "documents_required": [
+    "Income proof",
+    "Caste certificate",
+    "Signed application printout"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

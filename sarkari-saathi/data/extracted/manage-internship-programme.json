@@ -1,0 +1,24 @@
+{
+  "scheme_name": "MANAGE Internship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Completed or ongoing PhD or M.Sc in Extension Education, Economics, Sociology, Psychology, MSW, Journalism, Communication, or Environmental Science",
+    "Minimum OGPA of 8 out of 10 (80%)",
+    "Fluency in English",
+    "Good writing skills"
+  ],
+  "benefits_summary": "Stipend up to ₹35,000 per month with free boarding and lodging for internships lasting 3 to 6 months.",
+  "documents_required": [
+    "CV"
+  ],
+  "application_link": "saravananraj.manage@gmail.com"
+}

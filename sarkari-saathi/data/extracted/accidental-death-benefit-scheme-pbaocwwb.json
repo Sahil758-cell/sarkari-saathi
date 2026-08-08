@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Accidental Death Benefit Scheme (PBAOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the nominee or dependent of the deceased construction worker",
+    "The deceased construction worker must have been a citizen of India",
+    "The death must have occurred in an accident caused by the harness",
+    "The deceased must have been registered as a construction worker with the Puducherry Building and Other Construction Workers Welfare Board",
+    "The deceased must have been at least 18 years old during his/her lifetime",
+    "The deceased must not have completed the age of 60 years during the preceding 12 months while engaged in construction work",
+    "The deceased must have contributed regularly to the fund",
+    "The deceased must not have defaulted on contribution payments for a continuous period of more than one year",
+    "The application must be submitted within two months from the date of death of the construction worker"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,25,000 transferred directly to the nominee’s bank account",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

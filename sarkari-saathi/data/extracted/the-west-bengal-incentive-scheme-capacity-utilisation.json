@@ -1,0 +1,30 @@
+{
+  "scheme_name": "The West Bengal Incentive Scheme: Capacity Utilisation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable to all eligible tourism projects/units and expansion projects of existing units set up on or after 22 February 2021",
+    "Eligible hotel units that started commercial operation between 7 January 2015 and 31 December 2020 but could not apply earlier due to absence of a Bar in the hotel",
+    "Units may be in the private sector, co‑operative sector, joint sector, or companies/undertakings owned or managed by the State Government",
+    "Project must be covered by a detailed feasibility report/project prepared for the purpose",
+    "Project must have been approved and sanctioned by a Central Financial Institution, Commercial Banks or State Financial Institutions",
+    "Unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the West Bengal Tourism Development Corporation Limited"
+  ],
+  "benefits_summary": "Provides 50% financial assistance up to ₹7,50,000 per project.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate"
+  ],
+  "application_link": null
+}

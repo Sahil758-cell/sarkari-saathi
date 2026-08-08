@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Marriage Assistance (A.B.O.C.W.W.B)",
+  "occupation": [
+    "building & other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Assam",
+    "Applicant must be engaged in any building & other construction work",
+    "Applicant must be registered with the Assam Building and Other Construction Workers Welfare Board",
+    "The worker must have continuous membership for 5 years",
+    "Benefit is available for the marriage of two children of the beneficiary",
+    "A female registered member is also eligible for her own marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 per beneficiary for the marriage of two children, and also for a female worker’s own marriage.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

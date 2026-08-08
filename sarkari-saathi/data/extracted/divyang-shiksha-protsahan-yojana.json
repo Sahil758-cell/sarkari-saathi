@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Divyang Shiksha Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Percentage of disability must be 40% or more",
+    "Applicant's name must be mentioned on the Samagra portal and verified on the Sparsh portal"
+  ],
+  "benefits_summary": "Financial assistance of ₹600 per month.",
+  "documents_required": [],
+  "application_link": null
+}

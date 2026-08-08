@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Grant to Meritorious Wards of ESM in Sports: National / International Level (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a ward of an Ex‑Serviceman (ESM) or a ward of the widow of an Ex‑Serviceman (ESM)",
+    "The applicant (or the widow’s ward) must be registered with the Department of Sainik Welfare, Puducherry",
+    "The sporting event must be organised by a body approved/recognised by the Government",
+    "Applicant must have achieved merit in a sport at the national or international level",
+    "The application must be submitted offline within three months from the date of the achievement"
+  ],
+  "benefits_summary": "Grant of ₹50,000 for international‑level achievements and ₹30,000 for national‑level achievements, credited to the beneficiary’s bank account via RTGS/NEFT.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

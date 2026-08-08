@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Additional Pension to Widow of Ex-Serviceman having No Child",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Widow must be of an ex‑serviceman whose death occurred while in service but not in any battle",
+    "Widow must have no children",
+    "Benefit is payable until the widow’s death or remarriage"
+  ],
+  "benefits_summary": "An additional ₹100 per month is paid to eligible widows until their death or remarriage.",
+  "documents_required": [],
+  "application_link": null
+}

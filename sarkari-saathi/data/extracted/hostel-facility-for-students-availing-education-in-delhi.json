@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Hostel Facility for Students Availing Education in Delhi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Applicant must be a regular student currently enrolled or admitted to an undergraduate (first year) or higher class, or professional course at a government or recognized institution located in Delhi"
+  ],
+  "benefits_summary": "Monthly rent assistance of ₹1,000, scholarship of ₹500, water and electricity allowance of ₹100, and a one‑time grant of ₹2,000 are provided to eligible students.",
+  "documents_required": [],
+  "application_link": null
+}

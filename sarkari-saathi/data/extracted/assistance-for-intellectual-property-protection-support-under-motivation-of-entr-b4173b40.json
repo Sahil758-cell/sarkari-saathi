@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Assistance for Intellectual Property Protection Support",
+  "occupation": [
+    "Micro Industries",
+    "Small Industries",
+    "Medium Industries",
+    "Large Industries"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The industrial unit must have made the investment on or after 1st April 2017.",
+    "At least 60% of the unit’s employment must be provided to residents of the Union Territory of Puducherry, and this proportion must be maintained during the period specified in the affidavit.",
+    "The unit must not transfer or dispose of any fixed assets, including plant and machinery, for five years from the later of the application submission date or subsidy disbursement date.",
+    "Additional investments made after the first claim are also eligible for subsidy up to the ceiling limit.",
+    "The commencement date declared by the entrepreneur is subject to verification by the Industries Department officials.",
+    "If the same person establishes two or more industrial units with common ownership but different locations and separate licenses/clearances, each unit is eligible as a separate entity."
+  ],
+  "benefits_summary": "Provides a subsidy covering 50% of patent filing costs up to ₹2,00,000 for domestic patents (₹5,00,000 for international patents).",
+  "documents_required": [
+    "Prescribed application form",
+    "Mandatory documents (self‑attestation if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Preferential Purchase Incentives for Micro and Small Enterprises Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000000,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must be permanently registered or acknowledged with Entrepreneurs Memorandum II by the Directorate of Industries, Trade and Commerce."
+  ],
+  "benefits_summary": "Micro and Small Enterprises can match the lowest tender price, obtain tender documents at a reduced cost, and receive priority payment within 60 days.",
+  "documents_required": [
+    "Tender documents"
+  ],
+  "application_link": null
+}

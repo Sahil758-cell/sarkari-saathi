@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": 27,
+  "age_max": 32,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Candidates must be Indian citizens or persons of Indian origin with PIO status.",
+    "Must hold a Ph.D. degree (or have submitted the thesis awaiting award) in science, mathematics, engineering, pharmacy, medicine, or agriculture‑related subjects.",
+    "Minimum 60% marks (or equivalent CGPA) throughout the academic profile from Class 12 onward.",
+    "Must have publications in highly reputed journals demonstrating outstanding research potential.",
+    "Applicants employed in regular/contractual positions in India may apply but must resign from their current job before taking up the fellowship.",
+    "Upper age limit is 32 years for general category, 37 years for SC, ST and women candidates, and 42 years for candidates with benchmark disabilities."
+  ],
+  "benefits_summary": "Selected fellows receive a fellowship of ₹1,25,000 per month and an annual research grant of ₹7,00,000 for up to 5 years.",
+  "documents_required": [],
+  "application_link": null
+}

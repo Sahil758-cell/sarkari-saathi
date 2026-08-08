@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Mukhyamantri Kanya Suraksha Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl child must be born on or after November 22, 2007.",
+    "A maximum of 2 girl children per family can avail of the benefit."
+  ],
+  "benefits_summary": "₹2,000 is invested as a fixed deposit for each eligible girl child.",
+  "documents_required": [],
+  "application_link": null
+}

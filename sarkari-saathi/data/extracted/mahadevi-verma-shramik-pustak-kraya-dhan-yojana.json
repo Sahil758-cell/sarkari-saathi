@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Mahadevi Verma Shramik Pustak Kraya Dhan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be employed in an establishment registered under the Shops and Commercial Establishments Act, 1962 or the Factories Act, 1948 in Uttar Pradesh",
+    "Monthly salary (basic + dearness allowance) must not exceed ₹15,000",
+    "Worker must have completed at least six months of continuous service and must be in service at the time of application",
+    "Benefit is available to a maximum of two daughters of the worker",
+    "If the worker is a woman, she is also eligible for the benefit",
+    "When both parents are workers, only one parent can claim the assistance"
+  ],
+  "benefits_summary": "A one-time lump sum of ₹7,500 per eligible daughter (postgraduate candidate).",
+  "documents_required": [
+    "Recent photograph of the applicant",
+    "Verified application form"
+  ],
+  "application_link": "https://skpuplabour.in/"
+}

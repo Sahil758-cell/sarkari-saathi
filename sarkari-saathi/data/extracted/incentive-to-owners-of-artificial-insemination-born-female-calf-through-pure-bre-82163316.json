@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Incentive To Owners Of Artificial Insemination Born Female Calf Through Pure Breeding In Indigenous Cow",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the owner of a female calf born through artificial insemination by pure breeding in indigenous cows.",
+    "The calf must be not more than 11 months old at the date of the online application.",
+    "Benefit is eligible only once per year for a maximum of one calf per beneficiary."
+  ],
+  "benefits_summary": "An incentive of ₹3,000 is provided once per year to owners of a qualifying female calf.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme1/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

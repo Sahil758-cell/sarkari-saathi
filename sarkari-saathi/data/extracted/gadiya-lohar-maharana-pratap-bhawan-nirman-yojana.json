@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Gadiya Lohar Maharana Pratap Bhawan Nirman Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to the Gadiya Lohar community",
+    "Must own a plot for house construction",
+    "Must not own any other house within the district or anywhere in Rajasthan"
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹1,20,000 provided in three installments for construction of a permanent house.",
+  "documents_required": [
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

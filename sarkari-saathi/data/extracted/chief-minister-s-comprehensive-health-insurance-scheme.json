@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Chief Minister's Comprehensive Health Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 120000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant’s name must be present in the family card",
+    "Family is defined as the eligible member, their legal spouse, their children, and their dependent parents"
+  ],
+  "benefits_summary": "Provides cashless hospitalization with coverage up to Rs. 5,00,000 per family per year.",
+  "documents_required": [
+    "family card",
+    "Aadhar card",
+    "income certificate issued by the VAO/Revenue Authorities",
+    "self‑declaration from the head of the family"
+  ],
+  "application_link": null
+}

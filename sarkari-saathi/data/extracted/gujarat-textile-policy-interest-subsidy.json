@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Interest Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a sanctioned term loan for Gross Fixed Capital Investment.",
+    "Loan disbursement date must be on or after 01/01/2024 for units under implementation as of 01/10/2024.",
+    "Application must be submitted within one year from the Date of Commercial Production (DoCP).",
+    "Unit must be in regular repayment of installments and interest.",
+    "Unit must bear at least 2% interest on the term loan.",
+    "Eligible activities include Garments, Apparel & Made‑ups, Technical Textiles (including Composite Unit).",
+    "Eligible activities include Weaving (with or without preparatory), Knitting, Dyeing & Processing, Texturising, Twisting, Embroidery and MMF Spinning of polyester or viscose staple fiber (excluding cotton and synthetic filament yarn)."
+  ],
+  "benefits_summary": "Offers a credit‑linked interest subsidy of up to 7% on term loans for 5‑8 years, with a maximum subsidy of 2‑3% of the estimated Fixed Capital Investment per annum depending on category.",
+  "documents_required": [],
+  "application_link": null
+}

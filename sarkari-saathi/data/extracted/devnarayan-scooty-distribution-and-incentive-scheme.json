@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Devnarayan Scooty Distribution And Incentive Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to extremely backward classes of Rajasthan origin",
+    "Must have secured 50% or more marks in the 12th examination conducted by the Rajasthan Board of Secondary Education or Central Board of Secondary Education",
+    "Must be admitted to Government Colleges or State Funded Universities located in Rajasthan",
+    "Must be studying regularly after being admitted in the first year of the bachelor's degree",
+    "Benefit of the Devnarayan Higher Education Financial Assistance Scheme or other financial assistance scheme will not be payable if received under this scheme"
+  ],
+  "benefits_summary": "Free distribution of 1500 scooties annually based on 12th merit, with financial assistance of ₹10,000 per year for undergraduate studies and up to ₹20,000 per year for postgraduate studies.",
+  "documents_required": [],
+  "application_link": null
+}

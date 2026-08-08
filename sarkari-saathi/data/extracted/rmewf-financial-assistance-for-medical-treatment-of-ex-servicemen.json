@@ -1,0 +1,24 @@
+{
+  "scheme_name": "RMEWF-Financial Assistance For Medical Treatment Of Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a non-pensioner ex-serviceman or his widow",
+    "Applicant should be of rank Havildar/equivalent and below",
+    "Applicant should be recommended by the respective Zila Sainik Board (ZSB)",
+    "Expenditure must be incurred at recognized government hospitals at rates approved under CGHS/ECHS"
+  ],
+  "benefits_summary": "Financial assistance up to Rs.30,000 per year per eligible ex-serviceman or widow.",
+  "documents_required": [
+    "Supporting documents attested by the Zila Sainik Welfare Officer (ZSWO)"
+  ],
+  "application_link": "https://ksb.gov.in/"
+}

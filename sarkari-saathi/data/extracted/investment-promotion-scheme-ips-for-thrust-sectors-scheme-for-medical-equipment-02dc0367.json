@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for Thrust Sectors: Scheme For Medical Equipment And Accessories, Medical Diagnostics And Ayush Products Manufacturing Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a new or existing manufacturing/service unit undertaking expansion or diversification in the MSME sector",
+    "Commercial production must commence between 20‑05‑2022 and 19‑05‑2027",
+    "The enterprise must apply through the online portal within one year from the date of first disbursement of loan or on or before the date of commencement of commercial production"
+  ],
+  "benefits_summary": "Provides a 20% capital investment subsidy up to ₹5,000,000 per unit and a 60% credit‑linked interest subsidy up to ₹5,000,000 per year for up to five years.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

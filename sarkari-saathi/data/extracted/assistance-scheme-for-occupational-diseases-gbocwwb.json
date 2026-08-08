@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Assistance Scheme for Occupational Diseases (GBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered with the Gujarat Building and Other Construction Worker’s Welfare Board",
+    "Labourers must be classified as construction workers by the State Government",
+    "Beneficiaries must receive treatment in a hospital approved by the State Government"
+  ],
+  "benefits_summary": "Provides free medical treatment and monthly financial assistance (₹1500 or ₹3000) to registered construction workers based on disability level, up to a total of ₹3,00,000.",
+  "documents_required": [],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

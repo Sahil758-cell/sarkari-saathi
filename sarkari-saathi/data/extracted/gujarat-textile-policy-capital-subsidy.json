@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Capital Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The industrial unit must have availed a term loan for the project.",
+    "Commercial production must commence before applying for subsidy disbursement.",
+    "Application for subsidy must be made within one year from the Date of Commercial Production (DoCP).",
+    "The total subsidy received (State + Central) must not exceed the total term loan amount disbursed.",
+    "Eligible activities include Activity 1: Garments, Apparel & Made‑ups, Technical Textiles (including Composite Unit) and Activity 2: Weaving (with or without preparatory), Knitting, Dyeing & Processing, Texturising, Twisting, Embroidery and MMF Spinning to manufacture yarn from Polyester Staple Fiber (PSF) / Viscose Staple Fiber (VSF) (excluding cotton and synthetic filament yarn)."
+  ],
+  "benefits_summary": "Provides a capital subsidy of up to 35% of eligible fixed capital investment for Category 1 units (maximum ₹100 crore) and up to 20% for Category 3 units, with rates varying by activity and taluka category.",
+  "documents_required": [],
+  "application_link": null
+}

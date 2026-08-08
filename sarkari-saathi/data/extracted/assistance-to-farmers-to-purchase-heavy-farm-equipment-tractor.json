@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Assistance to Farmers to Purchase Heavy Farm Equipment (Tractor)",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The tractor must be purchased from an authorized dealer",
+    "Only one tractor component can be claimed per land record (8‑A)",
+    "If multiple farmers are listed on the same land record, only one farmer will receive the benefit",
+    "A farmer can claim the benefit on only one land record, even if they appear on multiple records",
+    "The benefit can be availed once every 10 years per land record"
+  ],
+  "benefits_summary": "Provides a 25% subsidy on tractor purchase – up to ₹45,000 for models up to 40 PTO HP and up to ₹60,000 for models between 40 PTO HP and 60 PTO HP.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

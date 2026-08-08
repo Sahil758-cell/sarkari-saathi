@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Goa State Cultural Award for Institution",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Goan institution or an institution working for Goan artists in the field of Art and culture",
+    "Institution must have completed 15 years of operation",
+    "Institution must have made extraordinary contributions to Art and culture",
+    "Institution must have a properly constituted managing body with powers and duties clearly defined in its constitution",
+    "Institution must have a good reputation in the local community",
+    "Institutions financed by Central Government Corporations and Municipalities are also eligible",
+    "Preference will be given to institutions involved in Cultural Education such as training in Music, Dance, Drama, Fine Arts, etc."
+  ],
+  "benefits_summary": "A memento and a financial purse of up to ₹3,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

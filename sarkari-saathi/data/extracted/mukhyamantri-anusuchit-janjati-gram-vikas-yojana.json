@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhyamantri Anusuchit Janjati Gram Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The self‑help group must be selected by the Gram Sabha.",
+    "The applicant must belong to a Scheduled Tribe community.",
+    "The applicant’s village must have at least 80% tribal population.",
+    "The village must be included in the list of selected villages under the scheme.",
+    "For youth self‑employment, the applicant must be an unemployed educated youth who has passed at least 10th grade.",
+    "Priority is given to applicants with vocational training."
+  ],
+  "benefits_summary": "Financial grants of up to ₹1,00,000 for women SHGs and up to ₹2,00,000 for unemployed educated tribal youth, plus health camps, training programmes, and marketing support for tribal‑specific economic activities.",
+  "documents_required": [],
+  "application_link": null
+}

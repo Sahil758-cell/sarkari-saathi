@@ -1,0 +1,21 @@
+{
+  "scheme_name": "PM POSHAN - Prime Minister's Overarching Scheme For Holistic Nourishment",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be studying in Class 1 to Class 8 (Primary or Upper Primary) in a government or government‑aided school.",
+    "Children in pre‑schools or Bal Vatika (before Class I) are also eligible."
+  ],
+  "benefits_summary": "Provides free hot cooked meals meeting defined nutrition and food norms to children studying in government or government‑aided schools up to class 8.",
+  "documents_required": [],
+  "application_link": null
+}

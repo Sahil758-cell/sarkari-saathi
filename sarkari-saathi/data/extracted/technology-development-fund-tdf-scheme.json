@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Technology Development Fund (TDF) Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a public limited company, private limited company, partnership firm, limited liability partnership, one‑person company, or sole proprietorship registered under Indian law",
+    "Applicant must be an MSME or a startup",
+    "Startup must be recognized by the Department for Promotion of Industry and Internal Trade (DPIIT) as per Government of India guidelines",
+    "If incorporated for less than 3 years from the date of application, the startup is considered a nascent startup",
+    "Nascent startup must be incubated at a Central or State government‑assisted incubator",
+    "Startup must not have received any grants or grants‑in‑aid from any government scheme for a similar technology",
+    "Startup must be owned and controlled by a Resident Indian citizen with at least 51% shareholding"
+  ],
+  "benefits_summary": "Provides up to 90% funding (maximum INR 5,000,000,000) for project costs, with additional support of up to 20% for incubators and up to 40% contribution from academia.",
+  "documents_required": [],
+  "application_link": "https://tdf.drdo.gov.in/user/custom-popup"
+}

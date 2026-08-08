@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Subsidy to Pollution Control Equipment",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have installed pollution control equipment.",
+    "Assistance is granted based on expenditure incurred and eligible assets created for installing pollution control equipment as specified by the Pondicherry Pollution Control Committee.",
+    "The unit must provide at least 60% of its employment to residents of the Union Territory of Puducherry.",
+    "The 60% local employment ratio must be maintained for the period specified in the affidavit.",
+    "The industrial unit must not transfer or dispose of the fixed asset (including plant and machinery) for five years from the date of submitting the application/disbursement of the subsidy, whichever is later.",
+    "Units that commenced commercial production on or after 1‑4‑2017 are considered new industries; units that commenced production before that date are considered existing units.",
+    "If two or more industrial undertakings are set up by the same proprietor, common partners, or common board of directors/shareholders, they are eligible as separate entities provided the locations differ and licenses/clearances/registrations are obtained separately.",
+    "Application deadline for new units: within one year from the date of commencement of commercial production; for existing units: within one year of completion of expansion/diversification/modernization."
+  ],
+  "benefits_summary": "Provides a 25% subsidy on pollution control equipment up to ₹5,00,000 per unit.",
+  "documents_required": [
+    "Mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

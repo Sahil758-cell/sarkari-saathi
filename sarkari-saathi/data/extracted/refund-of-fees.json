@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Refund of Fees",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be admitted to a college",
+    "Must be a native of Madhya Pradesh",
+    "Refund is applicable if the student leaves the college during the academic session, is declared failed after provisional admission, or if online admission is cancelled"
+  ],
+  "benefits_summary": "Refund of remaining admission fees (after deducting ₹100) if the student leaves the college or admission is cancelled.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self-attested)"
+  ],
+  "application_link": null
+}

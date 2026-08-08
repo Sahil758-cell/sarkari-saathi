@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Grant on Passing the Written Examination of Competitive Examinations for Recruitment in Armed Forces",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the child of an ex-serviceman.",
+    "Applicant must have passed the written examination of NDA, CDS, IMA, OTA, Air Force, or Naval Academy."
+  ],
+  "benefits_summary": "A one‑time grant of ₹15,000 is provided to eligible children of ex‑servicemen for coaching.",
+  "documents_required": [],
+  "application_link": null
+}

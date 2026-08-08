@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Maternity Benefit (MBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Meghalaya",
+    "Applicant must be engaged in building or other construction works",
+    "Applicant must be registered under the Meghalaya Building & Other Construction Workers Welfare Board",
+    "Applicant must have an active membership of the Board",
+    "Benefit is limited to a maximum of two times per worker",
+    "Eligibility applies only during the maternity period"
+  ],
+  "benefits_summary": "Registered women construction workers receive a financial assistance of ₹1,000 as maternity benefits during their maternity period.",
+  "documents_required": [
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

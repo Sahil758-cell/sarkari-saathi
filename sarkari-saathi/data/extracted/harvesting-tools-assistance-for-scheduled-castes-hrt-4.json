@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Harvesting Tools Assistance for Scheduled Castes (HRT-4)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Assistance is available only once in five years.",
+    "Equipment must be ISO/BIS/ISI/Government certified and purchased through an authorized dealer or imported equipment.",
+    "Both individual farmers and entities such as FPOs, FPCs, FIGs, SHGs, and Cooperative Societies are eligible."
+  ],
+  "benefits_summary": "SC farmers receive up to 50% of the tool cost or ₹100,000 (whichever is lower); FPOs/FPCs/FIGs/SHGs/Co‑operative Societies receive up to 75% of the tool cost or ₹150,000 (whichever is lower), with a maximum tool cost of ₹200,000.",
+  "documents_required": [
+    "Caste certificate"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

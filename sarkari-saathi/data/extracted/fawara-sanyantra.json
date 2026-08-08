@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Fawara Sanyantra",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a farmer",
+    "Applicant must be a native of Rajasthan",
+    "Farmer must have at least 0.2 hectares of irrigated agricultural land",
+    "Grant is payable up to a maximum area of 5 hectares"
+  ],
+  "benefits_summary": "Provides a subsidy of 70% to 75% of the sprinkler unit cost, applicable up to 5 hectares of land.",
+  "documents_required": [],
+  "application_link": null
+}

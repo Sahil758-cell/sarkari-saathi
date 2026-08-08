@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Indira Mahila Shakti Prashikshan Evam Koshal Sanvardhan Yojana (RS-CSEP)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 16,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed class 12th",
+    "Widow/divorced/abandoned women suffering from violence are given priority"
+  ],
+  "benefits_summary": "Free spoken English and personality development training provided by RKCL.",
+  "documents_required": [],
+  "application_link": null
+}

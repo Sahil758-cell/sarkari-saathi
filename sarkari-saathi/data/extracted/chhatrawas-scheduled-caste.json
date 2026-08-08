@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Chhatrawas (Scheduled Caste)",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student",
+    "The student must be enrolled in a recognized educational institution",
+    "The student must be a regular student attending classes",
+    "The student must require residential facilities in the Scheduled Caste hostels"
+  ],
+  "benefits_summary": "Monthly financial support of ₹1460‑₹1500 plus free food, hostel accommodation, and additional facilities such as sports equipment, cosmetic kit, and library access.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

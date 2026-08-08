@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Disablement Benefit Scheme (PBAOCWWB)",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+    "Applicant must be contributing to the Board's Fund.",
+    "Applicant must not have defaulted on contribution payments for a continuous period of more than one year."
+  ],
+  "benefits_summary": "Financial assistance of ₹75,000 transferred via Direct Benefit Transfer within one month of application.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

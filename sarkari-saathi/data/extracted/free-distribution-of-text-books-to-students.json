@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Free Distribution of Text Books to Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student.",
+    "The applicant must be studying in class 9th to 12th.",
+    "The applicant must be studying in a government school in Madhya Pradesh."
+  ],
+  "benefits_summary": "Free textbooks are provided to eligible students.",
+  "documents_required": [],
+  "application_link": null
+}

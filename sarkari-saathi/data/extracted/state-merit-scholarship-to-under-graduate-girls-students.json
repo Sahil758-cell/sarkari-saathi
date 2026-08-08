@@ -1,0 +1,28 @@
+{
+  "scheme_name": "State Merit Scholarship to Under Graduate Girls Students",
+  "occupation": [
+    "student"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have passed 10+2 with at least 60% marks.",
+    "The applicant must be pursuing an undergraduate general degree course in a government college in Haryana.",
+    "The applicant must not hold any other scholarship or stipend."
+  ],
+  "benefits_summary": "Scholarship of ₹3,000 per annum awarded to 10 girl students per government college.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhar Card"
+  ],
+  "application_link": null
+}

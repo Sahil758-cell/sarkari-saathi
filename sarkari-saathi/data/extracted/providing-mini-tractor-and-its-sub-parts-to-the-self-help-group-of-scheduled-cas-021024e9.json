@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Providing Mini Tractor and its Sub Parts to the Self Help Group of Scheduled Castes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Self Help Group must have at least 80% members from Scheduled Castes or Nav‑Buddhist.",
+    "The group must contribute 10% of the total equipment cost (₹35,000)."
+  ],
+  "benefits_summary": "Provides a mini tractor and essential sub‑parts valued at ₹3.5 lakh, with the government subsidizing 90% (₹3.15 lakh) and the group contributing 10% (₹35,000).",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Unemployment Allowance to Disabled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 30,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be unemployed",
+    "The applicant must have at least two years of registration in the Special Employment Exchange in the U.T. Chandigarh",
+    "The applicant must have been residing in U.T. Chandigarh for at least three years immediately before submission"
+  ],
+  "benefits_summary": "Handicapped persons receive ₹500 per month as unemployment allowance.",
+  "documents_required": [],
+  "application_link": null
+}

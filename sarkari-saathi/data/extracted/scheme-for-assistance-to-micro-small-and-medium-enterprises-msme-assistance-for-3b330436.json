@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Quality Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small, or Medium enterprise",
+    "The enterprise must be in the manufacturing sector",
+    "The enterprise must be registered under MSME/Udyam Registration",
+    "The ERP system cost must be related to software and services (hardware costs are not eligible)",
+    "The enterprise must apply within one year from the date of certificate issuance"
+  ],
+  "benefits_summary": "Provides up to ₹1,00,000 subsidy (65% of ERP software cost) and up to ₹10,00,000 assistance (50% of quality certification fees and equipment costs) to eligible MSMEs.",
+  "documents_required": [],
+  "application_link": null
+}

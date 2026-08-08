@@ -1,0 +1,25 @@
+{
+  "scheme_name": "PRL Junior Research Fellowships",
+  "occupation": null,
+  "gender": null,
+  "age_min": 28,
+  "age_max": 28,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen.",
+    "Must have studied at recognized universities/institutes in India.",
+    "Must have completed Bachelor’s and Master’s degree in science or engineering with at least 60% marks at both levels.",
+    "Must be from any branch of Physics, Chemistry, Engineering Physics, Photonics, Space Physics, Atmospheric Science, Environmental Science, Oceanography, Meteorology, Geology, Geophysics, Earth Science or Remote Sensing.",
+    "Must be interested in pursuing a research career at PRL.",
+    "Must have qualified in any one of the following exams: CSIR-UGC-NET JRF/AP (2022 or later) in Physical Sciences/Chemical Sciences/Earth, Atmospheric, Ocean, and Planetary Sciences; GATE (2022 or later) in relevant subjects; JEST (2024) in Physics; UGC-NET JRF/AP (2022 or later) in Environmental Sciences.",
+    "Must provide a valid email ID and mobile number for registration."
+  ],
+  "benefits_summary": "Monthly fellowship of ₹37,000 for Junior Research Fellows, ₹42,000 for Senior Research Fellows, with possible additional ATAL fellowship of ₹40,000 and opportunity to register for a Ph.D. at partner institutes.",
+  "documents_required": [],
+  "application_link": null
+}

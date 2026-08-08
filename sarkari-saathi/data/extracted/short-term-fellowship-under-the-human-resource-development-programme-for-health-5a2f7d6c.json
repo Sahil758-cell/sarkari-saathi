@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Short Term Fellowship under the Human Resource Development Programme for Health Research",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen working in an Indian institute.",
+    "Must hold an MD/MS/MDS or MBBS/BDS/MVSc./M.Sc./M.Pharma/M.Tech or equivalent with a Ph.D. in health/biomedical research.",
+    "Must be a faculty member with at least three years of experience as a regular employee in the college/institute.",
+    "Age must be up to 55 years as of the last date of receipt of application.",
+    "Must not have previously availed any fellowship of one month or more from any Government of India or State Government agency for the same subject of training/research.",
+    "Fellowship duration is 1-3 months and is non‑transferable."
+  ],
+  "benefits_summary": "Stipend of ₹40,000 per month (₹20,000 if training at the same station) for Indian institute fellowships and $3,000 per month for foreign institute fellowships, plus travel and contingency grants.",
+  "documents_required": [],
+  "application_link": null
+}

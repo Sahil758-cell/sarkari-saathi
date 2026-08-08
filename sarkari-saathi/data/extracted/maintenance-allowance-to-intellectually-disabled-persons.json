@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Maintenance Allowance to Intellectually Disabled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an intellectually disabled person with a disability percentage of 40% or higher."
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

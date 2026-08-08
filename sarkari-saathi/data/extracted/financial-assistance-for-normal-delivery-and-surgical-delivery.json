@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance for Normal Delivery and Surgical Delivery",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered woman construction worker under the MBOCWW or the wife of a registered male worker",
+    "Applicant must be pregnant",
+    "Benefit is available for the first two deliveries only"
+  ],
+  "benefits_summary": "₹15,000 for normal delivery and ₹20,000 for surgical delivery per eligible delivery.",
+  "documents_required": [],
+  "application_link": null
+}

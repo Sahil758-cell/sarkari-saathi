@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Dr. P. G. Solanki Scheme for Loan/Assistance to Medical Graduate Doctors of Scheduled Caste",
+  "occupation": [
+    "Medical Graduate Doctor"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must not be employed in a government hospital or any private organization",
+    "Benefit is available to only one person per family once",
+    "Applicant must start the clinic within 3 months after receiving assistance",
+    "Homeopathic doctors must practice only pure homeopathy"
+  ],
+  "benefits_summary": "Subsidy of ₹25,000 and loan up to ₹2,50,000 at 4% interest",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

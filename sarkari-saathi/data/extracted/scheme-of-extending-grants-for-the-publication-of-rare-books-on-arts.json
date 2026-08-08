@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scheme of Extending Grants for the Publication of Rare Books on Arts",
+  "occupation": [
+    "Author",
+    "Writer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must lack sufficient financial resources to cover publishing expenses",
+    "The book must be considered rare for the development of arts",
+    "The book must not have been previously published",
+    "Grant is not given for reprint"
+  ],
+  "benefits_summary": "60% of printing cost up to ₹15,000, paid in two equal installments.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

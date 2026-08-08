@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Assistance to Law Graduates",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a differently abled person",
+    "Applicant must be a law graduate"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 is provided to differently abled law graduates for Bar Council enrolment and purchase of law books.",
+  "documents_required": [],
+  "application_link": null
+}

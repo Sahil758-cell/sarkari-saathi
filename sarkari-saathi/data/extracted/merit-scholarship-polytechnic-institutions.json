@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Merit Scholarship: Polytechnic Institutions",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a native resident student of Chhattisgarh.",
+    "The applicant must be currently studying in a recognized polytechnic institution in Chhattisgarh.",
+    "The applicant must have secured a minimum of 60% marks in the qualifying examination.",
+    "Without special government approval, no student may receive more than one scholarship at the same time.",
+    "If the institution grants a fee concession, the student may continue receiving it.",
+    "Vacant scholarships may be reallocated to the next eligible candidate from the merit list.",
+    "Only students who passed the qualifying examination from any testing body of Chhattisgarh are eligible, except children of permanent government employees of Chhattisgarh on deputation to the Government of India or any other state government who are exempted from this condition.",
+    "Students in full‑time employment are not eligible for the scholarship.",
+    "Only one concession is allowed: a student regularly studying and receiving any scholarship may be permitted to do part‑time work."
+  ],
+  "benefits_summary": "₹600 per month is provided to eligible polytechnic students, whether they are admitted to the first year or laterally entered into the second year of the diploma program.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

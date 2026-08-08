@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Old Age And Destitute Pension",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Old Age Persons (both men and women) above 55 years",
+    "Widows above 18 years of age",
+    "Deserted Women consecutively deserted for the past seven years",
+    "Unmarried Women above 40 years",
+    "Transgender individuals above 21 years"
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹1500, ₹2000 or ₹3000 depending on the beneficiary's age group.",
+  "documents_required": [],
+  "application_link": null
+}

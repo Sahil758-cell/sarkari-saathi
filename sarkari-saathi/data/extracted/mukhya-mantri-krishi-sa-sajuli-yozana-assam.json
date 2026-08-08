@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhya Mantri Krishi Sa Sajuli Yozana - Assam",
+  "occupation": null,
+  "gender": null,
+  "age_min": 22,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only small and marginal farmers are eligible",
+    "Beneficiary must be more than 21 years old",
+    "Beneficiary should be involved in cultivation for at least three consecutive years",
+    "All Kisan Credit Card (KCC) holders are eligible to apply",
+    "Applicant must have a live bank account",
+    "Only one farmer per family shall be eligible",
+    "Tenant farmers or sharecroppers with a minimum cultivation area of 1 Acre / 3 Bighas may also be considered",
+    "Resident farmer of Assam"
+  ],
+  "benefits_summary": "Each eligible farmer receives a one-time financial assistance of ₹5,000 transferred directly to purchase farm tools.",
+  "documents_required": [],
+  "application_link": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20Assamese.pdf https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20English.pdf"
+}

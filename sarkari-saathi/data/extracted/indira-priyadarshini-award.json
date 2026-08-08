@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Indira Priyadarshini Award",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled as a regular student",
+    "Must have secured the first position at district level in Class 8, 10 or 12 examinations (Arts, Science or Commerce streams) conducted by the Rajasthan Board of Secondary Education",
+    "Must have obtained at least 60 % marks in the respective examination",
+    "State‑level first position in Class 8, 10 (Praveshika) or 12 (Varishtha Upadhyay) examinations of the Sanskrit Education Department is eligible",
+    "First‑position at state level in vocational education examinations for Class 10 or 12 is eligible",
+    "Girl students from Swami Vivekananda Government Model Schools must have a CGPA of 9.0 or above in Class 10 or 12",
+    "Caste/category certificate submitted at the time of board examination will be treated as final"
+  ],
+  "benefits_summary": "One‑time cash prize up to ₹1,00,000 for top‑performing girl students, with an additional scooter for Class 12 awardees.",
+  "documents_required": [
+    "caste/category certificate",
+    "self-declaration on plain paper"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Specialized Treatment & Medical Assistance Scheme (PBAOCWWB)",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board",
+    "Applicant must be contributing to the Board's Fund",
+    "Applicant must not have defaulted in payment of contribution to the Board for a continuous period of more than one year",
+    "Applicant must have either met an accident or be suffering from a disease such as Tuberculosis, Lung Issues, Neurological Disorders, etc."
+  ],
+  "benefits_summary": "Financial assistance up to ₹2,00,000 for specialized medical treatment in hospitals tied up with government general hospitals.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

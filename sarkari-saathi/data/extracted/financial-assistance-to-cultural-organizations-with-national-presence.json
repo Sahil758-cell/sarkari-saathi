@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Financial Assistance To Cultural Organizations With National Presence",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The organization must have a properly constituted managing or governing body with powers, duties and responsibilities defined in a written constitution.",
+    "The organization must be registered in India and have an all‑India character with national (and optionally international) operational presence.",
+    "The organization’s activities must be primarily or significantly cultural.",
+    "The organization must be capable of conducting at least 20 cultural events/programmes in a year.",
+    "The organization must have adequate working strength of artistes, staff and volunteers.",
+    "The organization must have spent ₹1 crore or more on cultural activities in three of the last five years.",
+    "The organization must organize at least two activities in schools and provide a certificate from the school principal for the release of the second installment.",
+    "Applications pending previous grant/utilization certificate will not be considered.",
+    "The organization must not invite foreign delegations without permission from the Ministry of External Affairs.",
+    "The organization must not engage in canvassing for the scheme, which is a disqualification."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹2 crore (₹5 crore in exceptional cases), covering up to 67% of the approved project cost, with the remaining 33% to be borne by the organization as a matching share.",
+  "documents_required": [
+    "Two copies of the complete application form, signed by the authorized signatory and stamped with the organization’s seal",
+    "Index of documents attached to the application",
+    "Certificate from the principal of a school confirming the organization has conducted at least two activities in schools",
+    "Recommendation/endorsement from the Cultural Department/Wing of the concerned Central/State/UT Administration or a Zonal Cultural Center or National Academy",
+    "Utilisation Certificate in GFR‑19(e) format, audited statement of accounts, and Chartered Accountant certification"
+  ],
+  "application_link": "https://indiaculture.gov.in"
+}

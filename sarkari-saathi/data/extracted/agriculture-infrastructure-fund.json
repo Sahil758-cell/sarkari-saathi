@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Agriculture Infrastructure Fund",
+  "occupation": [
+    "agri entrepreneur",
+    "farmer",
+    "Primary Agricultural Cooperative Society",
+    "Farmers Producer Organization",
+    "Start-up",
+    "state agency",
+    "state sponsored Public Private partnership",
+    "cooperative",
+    "FPO",
+    "SHG"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Borrowers must contribute at least 10% of the total project cost irrespective of any capital subsidy.",
+    "Private sector entities (farmer, agri entrepreneur, start‑up) can undertake a maximum of 25 projects; this limit does not apply to state agencies, cooperatives, federations, FPOs, or SHGs.",
+    "Each project is eligible for a loan up to ₹2 crore, with an overall cap of ₹2 crore per location.",
+    "The scheme operates from FY 2020‑21 to FY 2032‑33, with loan disbursement to be completed by the end of FY 2025‑26."
+  ],
+  "benefits_summary": "Provides interest subvention and financing for post‑harvest infrastructure, enhancing market access and reducing losses for farmers.",
+  "documents_required": [],
+  "application_link": "https://agriinfra.dac.gov.in/Home/BeneficiaryRegistration"
+}

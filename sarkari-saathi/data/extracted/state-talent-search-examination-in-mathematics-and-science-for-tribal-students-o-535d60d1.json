@@ -1,0 +1,24 @@
+{
+  "scheme_name": "State Talent Search Examination in Mathematics and Science for Tribal Students of Meghalaya at the Close of Upper Primary Stage (Class VIII)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a tribal student of Meghalaya belonging to the Khasi, Jaintia, Garo, Koch or Hajong communities",
+    "Student must be studying in Class VIII in any type of school in Meghalaya",
+    "Student must have secured at least 50 marks in aggregate in Mathematics and Science in Class VII",
+    "Student must continue studies in any recognized secondary school in Meghalaya"
+  ],
+  "benefits_summary": "Financial assistance of ₹600 per month for twelve months each year for two years (Class IX‑X).",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

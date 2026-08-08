@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Prosthetic Aid Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be a domicile/permanent resident of the State/UT of Jammu & Kashmir.",
+    "The applicant must be a Person with Disability (e.g., blind, deaf, orthopedically or physically handicapped).",
+    "Family income of the applicant should be less than ₹ 400 per month.",
+    "The applicant should not already be availing the benefits of the scheme."
+  ],
+  "benefits_summary": "Prosthetic aids and artificial appliances (such as tricycles, wheel chairs, crutches, hearing aids, artificial limbs) are provided to persons with disability.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across)",
+    "Self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

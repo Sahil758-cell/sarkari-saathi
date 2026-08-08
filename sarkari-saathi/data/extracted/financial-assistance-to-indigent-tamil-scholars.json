@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance to Indigent Tamil Scholars",
+  "occupation": null,
+  "gender": null,
+  "age_min": 58,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an indigent artist.",
+    "Applicant must have contributed significantly to Tamil language and literature."
+  ],
+  "benefits_summary": "Financial assistance of ₹1,500 per month to eligible indigent Tamil scholars.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

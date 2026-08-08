@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Top Class Education For Scheduled Caste Students",
+  "occupation": [
+    "student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be pursuing studies beyond class 12th in a full‑time course at a notified institution",
+    "Benefit cannot be provided to more than two siblings in the same family",
+    "Students who studied class X in any Central/State/Municipal Government or Government‑aided school (except KVS) are automatically qualified"
+  ],
+  "benefits_summary": "Provides full tuition fee coverage, a monthly living allowance, an annual books allowance, and a one‑time computer/laptop assistance up to Rs. 45,000.",
+  "documents_required": [],
+  "application_link": "http://www.scholarships.gov.in/"
+}

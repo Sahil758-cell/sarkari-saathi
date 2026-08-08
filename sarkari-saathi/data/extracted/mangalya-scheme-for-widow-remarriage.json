@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Mangalya Scheme For Widow Remarriage",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow or divorced woman"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 is provided for remarriage.",
+  "documents_required": [],
+  "application_link": null
+}

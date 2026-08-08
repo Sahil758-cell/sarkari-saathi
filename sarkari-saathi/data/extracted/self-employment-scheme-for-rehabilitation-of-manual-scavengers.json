@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Self Employment Scheme For Rehabilitation Of Manual Scavengers",
+  "occupation": [
+    "Manual Scavenger",
+    "Sanitation Worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be engaged or employed as a Manual Scavenger by an individual, local authority, agency or contractor as identified during the survey conducted by State Governments and allotted an MS‑ID/Receipt No.",
+    "Dependents of identified manual scavengers are eligible for the scheme.",
+    "Sanitation workers and their dependents are eligible only for assistance for sanitation‑related self‑employment projects.",
+    "Identification of manual scavengers is done by the concerned State Governments through surveys by Urban Local Bodies or Gram Panchayats."
+  ],
+  "benefits_summary": "Provides one‑time cash assistance of ₹40,000, project‑based capital subsidy up to ₹5 lakh, concessional loans, skill‑development training with a stipend, and health‑insurance coverage of ₹5 lakh.",
+  "documents_required": [],
+  "application_link": null
+}

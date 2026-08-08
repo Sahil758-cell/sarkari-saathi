@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Cash Benefit Scheme Scheme (PBAOCWWB)",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a student.",
+    "Applicant must be a ward of a construction worker.",
+    "The construction worker must be registered with the Puducherry Building and Other Construction Workers Welfare Board.",
+    "Applicant must have secured 1st, 2nd or 3rd rank at the State or Regional level in the Higher Secondary course or its equivalent examination."
+  ],
+  "benefits_summary": "One‑time cash prizes up to ₹1,00,000 for top ranks and annual educational assistance up to ₹4,000, disbursed via Direct Benefit Transfer.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

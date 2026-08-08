@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Reimbursement of Expenses for Startups Operating from Leased/Privately Owned Premises Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a start‑up certified by the Start‑up Promotion Cell (SPC) with a valid start‑up certificate number",
+    "The start‑up must not use any government‑developed co‑working spaces, incubators or accelerators for its operations",
+    "Only expenditures incurred after the notification of Goa Start‑up Policy 2017 and paid digitally will be considered (SPC may admit non‑digital payments as per its guidelines)",
+    "Local start‑up definition: at least 50 % equity/share held by one or more Goans continuously since inception",
+    "‘Goan’ means a person born in Goa, or a person with domicile in Goa for 10 + years, or the spouse of such a person (marriage registered in Goa)",
+    "Application must be submitted within six months of incurring the relevant expenditure"
+  ],
+  "benefits_summary": "Reimbursement up to ₹1 lakh per quarter for internet connectivity, software licence and cloud service expenses; for local start‑ups renting premises, a lease‑rental subsidy of up to ₹20 per sq ft per month (capped at ₹3 lakh per annum).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Supply Free Laptops to Visually Impaired Students Pursuing Higher Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have a disability of at least 40%.",
+    "Must be pursuing first year or higher of professional courses after +2, including undergraduate, postgraduate, M.Phil, PhD, Law, Management, Medicine, and other technical courses."
+  ],
+  "benefits_summary": "Laptops equipped with JAWS software are provided to eligible visually impaired students for higher education.",
+  "documents_required": [
+    "Disability Certificate"
+  ],
+  "application_link": null
+}

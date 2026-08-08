@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Berojgari Bhatta Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 35,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed at least 10th standard (High School) examinations",
+    "Must be currently unemployed (not working in any private or government job)",
+    "Must be a permanent resident of Uttar Pradesh"
+  ],
+  "benefits_summary": "Provides a financial allowance of Rs. 1,000–1,500 per month until the youth secures a job.",
+  "documents_required": [],
+  "application_link": null
+}

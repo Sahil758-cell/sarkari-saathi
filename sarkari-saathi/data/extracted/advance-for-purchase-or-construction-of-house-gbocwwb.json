@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Advance for Purchase or Construction of House (GBOCWWB)",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must have completed ninety days of service as a registered worker in the year.",
+    "The applicant must have had continuous membership in the Fund for five years.",
+    "The applicant must have fifteen years of service for superannuation."
+  ],
+  "benefits_summary": "An advance of up to ₹50,000 is sanctioned, to be recovered in equal instalments as fixed by the Board.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

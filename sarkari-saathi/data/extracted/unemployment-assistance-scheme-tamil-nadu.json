@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Unemployment Assistance Scheme - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Tamil Nadu",
+    "Family annual income must not exceed Rs. 72,000 per annum (general candidates)",
+    "Maximum age 40 years for general candidates and 45 years for SC/ST candidates",
+    "Should be registered in Employment Exchange for at least 5 years (general candidates) or at least 1 year (differently abled candidates)",
+    "Should not be a regular student of any school or college",
+    "Should not be in any type of employment",
+    "Physical disability required for differently abled candidates"
+  ],
+  "benefits_summary": "Monthly assistance ranging from Rs. 200 to Rs. 600 for general candidates based on education level, and Rs. 600 to Rs. 1,000 for differently‑abled candidates.",
+  "documents_required": [],
+  "application_link": null
+}

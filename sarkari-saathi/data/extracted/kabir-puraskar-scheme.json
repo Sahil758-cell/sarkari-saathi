@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Kabir Puraskar Scheme",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen",
+    "Must not be a member of the Armed Forces, Police Forces, recognized fire services, or a government servant (if the act falls within duty)",
+    "Must have performed a conspicuous act of physical/moral courage during communal riots, caste conflicts, or ethnic clashes, involving danger to the rescuer",
+    "Nomination must be made through the State Government or Union Territory Administration"
+  ],
+  "benefits_summary": "Cash award of ₹2 lakh, ₹1 lakh or ₹50 thousand depending on grade, together with a citation certificate",
+  "documents_required": [],
+  "application_link": null
+}

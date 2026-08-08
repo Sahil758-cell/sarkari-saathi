@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Sanction of Laptops - Andhra Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The student must be visually challenged, hearing challenged, speech impaired, or orthopedically challenged",
+    "The student must be pursuing postgraduate or professional courses",
+    "The laptop is sanctioned only once in the lifetime of the student"
+  ],
+  "benefits_summary": "Free laptops are provided, with full or partial cost coverage based on parental income.",
+  "documents_required": [
+    "Aadhaar card",
+    "Mobile number",
+    "email ID"
+  ],
+  "application_link": null
+}

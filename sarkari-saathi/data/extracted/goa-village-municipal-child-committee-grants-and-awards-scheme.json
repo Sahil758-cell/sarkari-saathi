@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Goa Village & Municipal Child Committee Grants And Awards Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a Panchayat or a Municipal local body in Goa.",
+    "The local body must have established a Village or Municipal Child Committee as prescribed under Rule 7 of The Goa Children’s Homes Rules, 2004.",
+    "The Committee must have met at least once in the three months prior to the application submission.",
+    "The Committee must have met to discuss and resolve issues relating to children within the jurisdiction of the local body.",
+    "The local body must provide space for the Committee sittings in its premises.",
+    "The proposal must be signed by the Secretary (for Village Panchayat) or the Chief Executive (for Municipality) along with the resolution of the respective body.",
+    "For Village Panchayat proposals, a recommendation by the concerned Block Development Officer is required.",
+    "The application must be submitted within six months from the commencement of the financial year."
+  ],
+  "benefits_summary": "An annual grant of ₹10,000 is provided to the local body for administrative expenses, disbursed in a single electronic transfer within three months.",
+  "documents_required": [
+    "Application in the prescribed format",
+    "Supporting documents showing the activities of the Child Committee of the local body",
+    "Resolution of the Panchayat or Municipal body",
+    "Recommendation by the Block Development Officer (for Village Panchayat proposals)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme for Providing Employment Opportunities by Establishing Piggery, Sheep and Goat Units (General)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed (employment in any sector disqualifies)",
+    "Applicant must be a resident of Haryana",
+    "Applicant must have a space or shed for keeping animals",
+    "Applicant must not have previously availed benefits under any Departmental Scheme for establishing a livestock unit",
+    "Applicant must submit a self‑declaration confirming unemployment and compliance with scheme conditions"
+  ],
+  "benefits_summary": "Eligible applicants receive a subsidy of up to ₹25,000 for a 10+1 piggery unit and up to ₹24,500 for a 15+1 sheep/goat unit (25 % of livestock cost) after verification.",
+  "documents_required": [
+    "Self‑Declaration for unemployment"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Concessional Bus Travel Facility to Women above 60 years of age- Punjab",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "50% concession in bus fare for women in Punjab state government buses.",
+  "documents_required": [
+    "age proof",
+    "residence proof"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Dulari Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 0,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman and Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of the Union Territory of Andaman & Nicobar Islands",
+    "Beneficiary must be a girl child or woman",
+    "Birth incentive eligibility requires birth on or after 01‑10‑2013",
+    "Girl children born before the scheme implementation but under 13 years and not covered under the Planned Family Scheme are eligible only for educational incentives",
+    "Funds cannot be withdrawn before the beneficiary turns 18 years old",
+    "Benefits are discontinued if the parent or beneficiary provides false information",
+    "No benefits are given if the child gets married before the age of 21",
+    "If the child becomes a school dropout, only education‑related benefits may be provided",
+    "In case of death before the disbursal age, the amount may be released to the parents"
+  ],
+  "benefits_summary": "Cash incentives are provided at birth, on passing the VIII, X and XII standards, and on marriage at ages 21 and after 25.",
+  "documents_required": [],
+  "application_link": "https://serviceonline.gov.in/login.do"
+}

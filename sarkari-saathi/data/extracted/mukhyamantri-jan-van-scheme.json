@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Jan-Van Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an individual or joint farmer",
+    "Must own verifiable land records between 0.5 and 50 acres in Jharkhand"
+  ],
+  "benefits_summary": "Provides an incentive covering up to 75% of plantation and maintenance costs, amounting to up to ₹79.20‑₹209.63 per plant depending on species and year.",
+  "documents_required": [],
+  "application_link": null
+}

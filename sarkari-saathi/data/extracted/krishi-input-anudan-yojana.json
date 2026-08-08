@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Krishi Input Anudan Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the reported Panchayats of the identified blocks in the specified districts",
+    "Applicant must be registered on the DBT portal",
+    "Applicant's bank account must be linked with the Aadhaar number",
+    "Actual cultivators will be verified jointly by the Agriculture Coordinator and Farmer Advisor",
+    "Only genuine cultivators are eligible for the subsidy"
+  ],
+  "benefits_summary": "Provides subsidies of up to ₹22,500 per hectare for irrigated/perennial crops and a minimum subsidy of ₹1,000‑₹2,500 per hectare depending on crop type.",
+  "documents_required": [
+    "Aadhaar (for verification)",
+    "Bank account details (linked to Aadhaar)",
+    "Kisan Credit Card (KCC) details",
+    "Land information",
+    "Farmer details"
+  ],
+  "application_link": null
+}

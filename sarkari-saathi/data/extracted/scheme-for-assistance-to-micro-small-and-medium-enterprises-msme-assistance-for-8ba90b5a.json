@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Interest Subsidy (Service Sector)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must be a new micro, small, or medium enterprise.",
+    "It must operate in the service sector as listed in Annexure A & B.",
+    "The term loan must be sanctioned by a recognized bank or financial institution.",
+    "Application must be made within one year of loan disbursement or before commercial production starts.",
+    "The enterprise must remain operational for at least seven years after subsidy approval.",
+    "Compliance with pollution control measures is required.",
+    "Only one type of investment (forward integration, backward integration, diversification, or expansion) is eligible for the subsidy."
+  ],
+  "benefits_summary": "Provides an interest subsidy of up to 8% on term loans (maximum ₹35 lakh) for 7 years, with lower rates for smaller categories, and an additional 1% subsidy for registered startups in the service sector.",
+  "documents_required": [],
+  "application_link": null
+}

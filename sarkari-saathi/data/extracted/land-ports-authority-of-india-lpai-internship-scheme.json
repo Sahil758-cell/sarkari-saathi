@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Land Ports Authority Of India (LPAI) Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian student from a recognised university (in India or abroad) having at least 60% marks in the most recent degree or certificate examination",
+    "Must satisfy one of the specified education patterns: completion of 10+2+3 schooling, polytechnic diploma/degree, 4th year of engineering (10+2+4), MBA/PGDBM from premier institutes, 4th or 5th year of integrated/dual degree (10+2+5), 2nd year of Engineering or Science at any IIT/NIT, M.Tech/M.Eng./MCA from a prestigious institute, or 2nd year of law degree from a recognized law institute/university",
+    "Application must be sponsored by the candidate’s educational institution",
+    "Preference will be given to students from the Northeast region and wards of stakeholders deployed with LPAI"
+  ],
+  "benefits_summary": "A Certificate of Internship is issued upon successful completion of the program and acceptance of the submitted report.",
+  "documents_required": [
+    "Application form",
+    "Curriculum Vitae (CV)",
+    "Two references",
+    "Non-Disclosure Agreement (NDA) form",
+    "Internship report/paper"
+  ],
+  "application_link": "https://www.myscheme.gov.in/"
+}

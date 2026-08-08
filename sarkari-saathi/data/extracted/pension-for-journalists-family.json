@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Pension for Journalists’ Family",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the spouse of the deceased journalist",
+    "Benefit is granted only upon the death of the journalist",
+    "Deceased journalist must have contributed to the journalist pension"
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

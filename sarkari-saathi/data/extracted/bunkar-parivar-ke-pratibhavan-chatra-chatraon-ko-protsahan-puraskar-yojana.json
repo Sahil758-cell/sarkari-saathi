@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Bunkar Parivar Ke Pratibhavan Chatra-Chatraon Ko Protsahan Puraskar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student’s parent must be a regular member of a primary weaver cooperative society affiliated with the Chhattisgarh Rajya Hathkargha Vikas Evam Vipanan Sahkari Sangh Maryadit, Raipur",
+    "Student must be a resident of Chhattisgarh state",
+    "Student must have passed the 10th or 12th board examination with at least 60% marks",
+    "Parent’s income from weaving must constitute more than 50% of the total family income",
+    "Weaver family includes husband, wife, and their children"
+  ],
+  "benefits_summary": "Monetary incentives up to ₹20,100 for students scoring 90%+ in 10th/12th board examinations.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

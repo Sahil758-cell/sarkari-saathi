@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Maternity Benefit For Female Workers- JKBOCWWB",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building or other construction work for at least 90 days during the preceding 12 months",
+    "Registration is renewed annually",
+    "Must be a registered female member under the Building and Other Construction Workers Welfare Board of Jammu & Kashmir",
+    "Must be pregnant at the time of application",
+    "Membership with the Welfare Board must be active at the time of application",
+    "Benefit is allowed only twice in the beneficiary's lifetime"
+  ],
+  "benefits_summary": "₹5,000 maternity benefit per pregnancy, up to two children (maximum twice in a lifetime).",
+  "documents_required": [
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

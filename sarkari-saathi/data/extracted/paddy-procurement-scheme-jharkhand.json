@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Paddy Procurement Scheme Jharkhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered farmer",
+    "Applicant must cultivate paddy in the Kharif season of 2012-13",
+    "Applicant must possess a valid landholding certificate or proof of cultivation",
+    "Applicant must be associated with Primary Agriculture Credit Societies (PACS) or Large Area Multipurpose Cooperative Societies (LAMPS)",
+    "Preference is given to small and marginal farmers"
+  ],
+  "benefits_summary": "Farmers receive paddy procurement at MSP of ₹1250 per quintal for Common grade and ₹1280 per quintal for Grade A, with direct payment to the farmer.",
+  "documents_required": [
+    "Valid landholding certificate or proof of cultivation"
+  ],
+  "application_link": null
+}

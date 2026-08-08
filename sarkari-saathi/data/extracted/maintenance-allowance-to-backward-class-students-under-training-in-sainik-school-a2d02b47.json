@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Maintenance Allowance To Backward Class Students Under Training In Sainik Schools",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a domicile/permanent resident of the state of Maharashtra",
+    "Applicant must belong to Vimukta Jatis, Nomadic Tribes, or Special Backward Class",
+    "Applicant must be studying in Classes 5th to 12th",
+    "Applicant must be studying in a Sainik School recognized/approved by the Government of Maharashtra",
+    "Applicant should not already be availing the benefits of the scheme"
+  ],
+  "benefits_summary": "Training fees of ₹400‑₹2400 are paid to the concerned ITI, and after completion a tool kit worth ₹1000 is provided to the trainee.",
+  "documents_required": [],
+  "application_link": null
+}

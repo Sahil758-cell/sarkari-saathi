@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Spurring Entrepreneurship Initiative",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have passed the 12th standard or higher.",
+    "For a new start‑up, the youth must be unemployed and registered with the District Employment and Counseling Center.",
+    "For expansion of an existing business, the applicant must have been operating the business for at least two years.",
+    "Non‑individual enterprises must have at least 51% shareholding and controlling stake held by one entrepreneur who meets the above criteria.",
+    "Each individual can seek assistance under the scheme only once.",
+    "At least 25% of the cases in a financial year are reserved for women applicants."
+  ],
+  "benefits_summary": "Start‑up loan of ₹2 Lakhs to ₹20 Lakhs with interest up to ₹2 Lakhs; no margin money required and only the principal amount needs to be repaid by the applicant.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must produce and supply seeds for the Department of Agriculture on a contract basis",
+    "Seed farms must be registered by the Assistant Director of Agriculture of the respective blocks",
+    "Field‑run produce must meet the prescribed standards of physical/genetic purity, moisture levels and germination percentage"
+  ],
+  "benefits_summary": "Farmers receive a seed premium ranging from ₹1‑₹3 per kg, with higher premiums (5‑30% over market rates) for foundation and certified class oilseed varieties, and are provided training.",
+  "documents_required": [],
+  "application_link": null
+}

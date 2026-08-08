@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Matrimonial Incentives",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a permanent resident of Maharashtra",
+    "Applicant must be a Person with Disability (e.g., visually handicapped, low vision, hearing impaired, orthopedically handicapped, etc.) with disability percentage of 40% or above",
+    "Applicant must be married to a non‑disabled person"
+  ],
+  "benefits_summary": "The eligible couple receives up to ₹50,000 as financial assistance, comprising a ₹25,000 saving certificate, ₹20,000 cash, ₹4,500 in household utilities, and ₹500 for the marriage incentive program.",
+  "documents_required": [],
+  "application_link": null
+}

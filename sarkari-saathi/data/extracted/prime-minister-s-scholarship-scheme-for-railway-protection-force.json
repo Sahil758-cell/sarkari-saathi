@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Prime Minister's Scholarship Scheme for Railway Protection Force",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Dependent wards of ex‑serving RPF/RPSF personnel and widows below the rank of Gazetted officer are eligible",
+    "Only students admitted through regular admission are eligible",
+    "Applicants must have secured at least 60% marks in the Minimum Entry Qualification (MEQ) such as 12th standard, diploma or graduation",
+    "A maximum of two wards per family can receive the scholarship",
+    "Only institutions/universities/colleges that are registered with AISHE are permissible",
+    "Students studying abroad are not eligible",
+    "No distance‑learning courses are permitted",
+    "The scholarship can be availed for only one course"
+  ],
+  "benefits_summary": "Scholarship of ₹2,500 per month for male students and ₹3,000 per month for female students, payable for the course duration (2‑5 years) along with a personal letter from the Prime Minister.",
+  "documents_required": [],
+  "application_link": null
+}

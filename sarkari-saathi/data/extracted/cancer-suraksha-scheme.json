@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Cancer Suraksha Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Confirmed diagnosis of cancer is required."
+  ],
+  "benefits_summary": "Free cancer treatment for children under 18 at designated government hospitals, covering all costs up to an initial ceiling of ₹50,000 per child.",
+  "documents_required": [],
+  "application_link": null
+}

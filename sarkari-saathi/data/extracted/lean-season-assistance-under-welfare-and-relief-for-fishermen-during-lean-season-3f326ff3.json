@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Lean Season Assistance under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\"",
+  "occupation": [
+    "fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an ordinarily resident of the Union territory of Puducherry.",
+    "Applicant must not be ordinarily residing in any foreign nation during the natural calamity, lean season, or fishing ban period.",
+    "Beneficiary must not be in regular service in Government/Quasi Government undertakings or be a retired government pensioner.",
+    "Benefit is not denied if the head of the family or any family member receives Old Age Pension.",
+    "Benefit is not restricted based on the type of fishing boat owned (mechanized, motorized, or traditional).",
+    "Eligibility may be further considered based on decisions taken periodically by the Governing Body of the Pondicherry Fishermen Welfare and Distress Relief Society."
+  ],
+  "benefits_summary": "5 kg of free rice and a clothing set (one quality saree with blouse, one lunghi, and one towel) per fisherman’s family during natural calamities each year.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

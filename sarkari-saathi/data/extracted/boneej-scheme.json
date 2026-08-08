@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Boneej Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "The industry must be existing and have continuous operation for at least the last two years",
+    "The unit must have its own workshed for production and process",
+    "The unit must have an existing term loan or working capital loan of at least Rs. 1 lakh",
+    "No educational qualification requirement"
+  ],
+  "benefits_summary": "Grant of Rs. 25,000 to eligible rural industries with annual turnover less than Rs.5 lakh.",
+  "documents_required": [
+    "Age proof",
+    "BPL card",
+    "Bank account details"
+  ],
+  "application_link": null
+}

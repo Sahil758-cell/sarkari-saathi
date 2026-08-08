@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Thayi Magu Sahaya Hastha (K.B.O.C.W.W.B)",
+  "occupation": [
+    "building/construction worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered woman construction worker under the Karnataka Building and Other Construction Workers Welfare Board",
+    "The applicant must have worked in building and construction for at least 90 days in a given year",
+    "The child must be under 3 years of age",
+    "Assistance is available for the first two children only",
+    "Application can be submitted within 6 months of delivery and every year up to 3 years after delivery",
+    "A child living affidavit must be submitted for the second and third year of assistance",
+    "Registration must be renewed every three years, with a one‑year grace period after expiry"
+  ],
+  "benefits_summary": "Financial assistance of ₹6,000 per child, paid at ₹500 per month for up to three years after delivery.",
+  "documents_required": [
+    "Aadhaar‑linked mobile number verification (OTP)",
+    "Child living affidavit"
+  ],
+  "application_link": null
+}

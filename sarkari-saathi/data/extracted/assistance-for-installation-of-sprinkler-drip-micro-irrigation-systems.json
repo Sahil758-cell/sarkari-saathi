@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Assistance for Installation of Sprinkler / Drip Micro Irrigation Systems",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmers must own cultivable agricultural land in the Union Territory of Puducherry along with their own or leased tubewell and adequate water‑pumping system",
+    "Applicants who have already received the maximum subsidy for sprinkler irrigation in the past 10 years or for drip irrigation in the past 8 years are not eligible",
+    "If a micro‑irrigation system has already been installed, the balance of the subsidy may be provided after deducting previously received assistance",
+    "Land on which a micro‑irrigation system was installed in the last 10 years (sprinkler) or 8 years (drip) is excluded even if ownership changes",
+    "Farmers who have previously installed sprinkler systems can apply for drip systems and vice‑versa provided they intend to cultivate intercrop for 3 years",
+    "Eligibility category noted in source: Marginal Farmer",
+    "Eligibility category noted in source: Small Farmer",
+    "Eligibility category noted in source: Scheduled Caste Farmer",
+    "Eligibility category noted in source: Scheduled Tribe Farmer",
+    "Eligibility category noted in source: Women Farmer",
+    "Eligibility category noted in source: Big Farmer",
+    "Eligibility category noted in source: Institution"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 90% (capped at ₹25,000 per hectare) for marginal, small, SC/ST and women farmers, and up to 70% (capped at ₹25,000 per hectare) for big farmers and institutions.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph (signed if required)",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

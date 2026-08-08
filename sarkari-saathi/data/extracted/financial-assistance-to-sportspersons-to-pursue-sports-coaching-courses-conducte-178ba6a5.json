@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance to Sportspersons to Pursue Sports Coaching Courses Conducted by SAI, NSNIS, Patiala as a Part of Skill Development Programme to Improve their Employability",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have represented a district, the state of Odisha, or an Odisha university in sports & games.",
+    "Applicant must satisfy the eligibility criteria laid down by SAI/NSNIS for the specific coaching courses.",
+    "BPL applicants will be given priority over non‑BPL applicants, and selection priority is based on the applicant’s sporting achievements.",
+    "Beneficiaries must render two years of service in the Sports & Youth Services Department if required by the department."
+  ],
+  "benefits_summary": "Provides up to 100% of the course fee plus a travel allowance for BPL sportspersons and 75% of the fee plus a travel allowance for non‑BPL sportspersons enrolling in SAI/NSNIS coaching courses.",
+  "documents_required": [
+    "Passport-size photograph",
+    "Attested BPL card",
+    "Aadhaar card",
+    "Education certificate",
+    "Achievement certificate",
+    "Medical fitness certificate",
+    "Selection letter from SAI/NSNIS (or website print‑out)"
+  ],
+  "application_link": "https://nsnis.org/"
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Nirman Shramik Siksha Kaushal Vikas Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the son, daughter, or wife of a registered construction worker in the Rajasthan Welfare Board.",
+    "A maximum of two children of the registered worker (or one child and the wife) can receive the scholarship; if both husband and wife are registered, up to two children of the couple are eligible.",
+    "The wife of the beneficiary must be ≤35 years old and must be studying regularly in an educational institution.",
+    "The student must be regularly enrolled in a government or recognized private school/college (class 6 to postgraduate) or in a recognized ITI/polytechnic in the state.",
+    "The beneficiary must have deposited contributions continuously for at least one year; lapse leads to loss of eligibility, which can be restored as per rules.",
+    "Scholarship is payable only after passing the relevant examination for the year, and admission to the next class is required except when the final examination is passed."
+  ],
+  "benefits_summary": "Scholarships ranging from ₹8,000 to ₹25,000 per year are provided based on the education level, along with cash awards for meritorious students.",
+  "documents_required": [],
+  "application_link": null
+}

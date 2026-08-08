@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) For Handicraft Artisans: Assistance For Capital Investment To Uplift The Economic Condition Of Artisans/ Persons",
+  "occupation": [
+    "Handloom and Handicrafts artisan"
+  ],
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "EWS"
+  ],
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be engaged in any of the 27 specified activities as listed in the official guidelines",
+    "Annual income should not exceed ₹2,00,000 in rural areas or ₹2,50,000 in urban areas"
+  ],
+  "benefits_summary": "Provides financial assistance for tools and equipment ranging from ₹10,000 to ₹50,000 for eligible artisans.",
+  "documents_required": [],
+  "application_link": null
+}

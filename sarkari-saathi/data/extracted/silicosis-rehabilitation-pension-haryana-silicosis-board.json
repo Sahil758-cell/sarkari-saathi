@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Silicosis Rehabilitation Pension- Haryana Silicosis Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be confirmed to suffer from Silicosis by the Silicosis Diagnosis Board, Haryana",
+    "Worker must be classified as category A, B, or C according to the ILO Classification",
+    "Worker must be registered with the Haryana Silicosis Board",
+    "Worker must have been employed in a factory or at a construction site"
+  ],
+  "benefits_summary": "A monthly pension of ₹4,000 is provided to eligible silicosis‑affected workers until death.",
+  "documents_required": [
+    "Medical certificate confirming Silicosis",
+    "Proof of identity",
+    "Certificate of being a widow/widower or nominee (if applicable)"
+  ],
+  "application_link": null
+}

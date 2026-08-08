@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Labour Accident benefit Scheme- Gujarat Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The worker must have become disabled during the duty period at the establishment’s premises",
+    "The organization/unit must have regularly paid the Labour Welfare Fund for the last one year",
+    "The application must be filed within 2 years of the accident",
+    "Proof of payment of Labour Welfare Fund by the organization must be submitted",
+    "The decision of the Welfare Commissioner is final and jurisdiction is Ahmedabad"
+  ],
+  "benefits_summary": "Workers with 40‑70% disability receive a benefit of ₹25,000, while those with more than 70% disability receive ₹50,000.",
+  "documents_required": [
+    "Proof of Labour Welfare Fund payment by the organization",
+    "Aadhaar Card",
+    "Labour Welfare Fund Account details"
+  ],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Death Benefit (A.B.O.C.W.W.B)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Assam",
+    "Applicant must be a nominee or dependent of the deceased worker",
+    "Deceased worker must have been engaged in any building and other construction work",
+    "Deceased worker must have been registered with the Assam Building and Other Construction Workers Welfare Board",
+    "Deceased worker must have had an active membership with the Board"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 for death due to natural causes and ₹3,00,000 for death due to accident during employment.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Reimbursement of College Fees for Scheduled Caste Students in Professional Colleges (Top 20)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student who has secured a place in the Top 20 rank",
+    "Must have secured at least 75% in the Higher Secondary Course Examination",
+    "Must be pursuing professional education",
+    "Must have been selected through CENTAC for admission to a professional college"
+  ],
+  "benefits_summary": "Reimbursement of tuition and examination fees.",
+  "documents_required": [
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

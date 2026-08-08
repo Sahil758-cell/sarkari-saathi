@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Chief Minister Ladli Behna Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 23,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be married (including widows, divorced, and abandoned women)"
+  ],
+  "benefits_summary": "₹1,000 per month is paid to each eligible woman, reimbursed up to ₹1,000 if she is receiving less than that from other pension schemes.",
+  "documents_required": [
+    "Application form with photograph"
+  ],
+  "application_link": null
+}

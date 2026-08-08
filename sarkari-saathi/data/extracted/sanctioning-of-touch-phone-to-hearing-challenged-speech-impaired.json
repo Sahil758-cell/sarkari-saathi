@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Sanctioning of Touch Phone to Hearing Challenged – Speech Impaired",
+  "occupation": [
+    "Student",
+    "Self-Employed",
+    "Un-Employed"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be hearing challenged and speech impaired",
+    "Applicant must know sign language and be able to communicate directly with another person using sign language",
+    "Applicant must be able to use Video Relay Service (VRS) with an interpreter as the intermediary"
+  ],
+  "benefits_summary": "Touch phones are provided to eligible individuals, with the cost fully or partially covered based on parent/guardian income.",
+  "documents_required": [
+    "Aadhaar card"
+  ],
+  "application_link": null
+}

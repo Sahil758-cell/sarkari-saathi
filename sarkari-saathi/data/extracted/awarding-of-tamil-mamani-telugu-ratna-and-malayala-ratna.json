@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Awarding of Tamil Mamani, Telugu Ratna and Malayala Ratna",
+  "occupation": [
+    "author",
+    "writer"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have received any similar award from other government bodies or organizations such as universities.",
+    "Applicant must participate in literary and research activities.",
+    "Applicant must be a native of Puducherry or have continuously resided in Puducherry for at least 5 years."
+  ],
+  "benefits_summary": "Provides a cash award of ₹75,000 to each eligible author/writer.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

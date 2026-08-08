@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Upliftment of Utsavi Rangabhumi of Goa",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional village festive theatre group or amateur theatre group",
+    "Group must have a tradition of performing plays during village deity festivals for at least 25 years",
+    "All roles, including female roles, must be performed by members from the same village; no professional artists are allowed",
+    "Performance must be certified by the devasthan or village committee",
+    "The group must have a bank account in a Nationalized or Scheduled Bank for payment release"
+  ],
+  "benefits_summary": "Financial assistance up to ₹20,000 for prose plays or up to ₹30,000 for Sangeet plays (maximum 75% of actual cost), with possible additional support for directors, technical experts, and a scriptwriter stipend.",
+  "documents_required": [
+    "Hard copy of the proforma",
+    "Passport-sized photograph (signed across)",
+    "Certificate from the devasthan/traditional village institution/village committee"
+  ],
+  "application_link": null
+}

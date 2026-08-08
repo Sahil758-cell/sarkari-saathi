@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Yuvasree Prakalpa",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be unemployed",
+    "The applicant must be enrolled with the Employment Bank as a job seeker",
+    "The applicant must have at least an 8th‑standard education",
+    "The applicant must not have previously availed financial assistance or loan under any state or central government self‑employment scheme",
+    "Only one member of a family is eligible to receive assistance"
+  ],
+  "benefits_summary": "Cash assistance of ₹1500 per month along with job‑search support, skill‑training programmes, and placement assistance.",
+  "documents_required": [
+    "Annexure -I (page 7)",
+    "Annexure -II (page 8)",
+    "Photo / CV"
+  ],
+  "application_link": "https://www.employmentbankwb.gov.in/"
+}

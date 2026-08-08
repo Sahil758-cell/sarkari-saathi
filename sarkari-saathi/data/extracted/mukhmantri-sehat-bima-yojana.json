@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhmantri Sehat Bima Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Residents of Punjab",
+    "SECC 2011 data families",
+    "Smart Ration Card holder families",
+    "J‑Form holder farmers",
+    "Small traders registered with Excise & Taxation Department",
+    "Small & Marginal Farmers",
+    "Accredited & Yellow Card Journalist",
+    "Construction workers registered with Punjab Building & Other Construction Workers Welfare Board"
+  ],
+  "benefits_summary": "Cashless health insurance cover of ₹5,00,000 per family per year for secondary and tertiary hospitalization.",
+  "documents_required": [],
+  "application_link": "https://beneficiary.nha.gov.in/"
+}

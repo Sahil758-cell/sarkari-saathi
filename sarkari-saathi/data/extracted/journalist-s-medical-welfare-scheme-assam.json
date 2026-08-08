@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Journalist's Medical Welfare Scheme - Assam",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be an ordinary resident of Assam.",
+    "Applicant must be a journalist formally accredited/recognized by the Director of Information & Public Relations (DIPR) and must fulfil all accreditation norms.",
+    "Financial assistance is not a right; it is subject to the committee’s satisfaction, merit of the case, and availability of funds.",
+    "The committee may reject or accept any application without assigning any reasons."
+  ],
+  "benefits_summary": "One‑time financial assistance up to ₹50,000 for non‑life‑threatening ailments and up to ₹1,00,000 for life‑threatening ailments, provided to accredited journalists and their dependent family members.",
+  "documents_required": [
+    "Application form for journalist (PDF)",
+    "Application form for dependent journalist (PDF)"
+  ],
+  "application_link": "https://dipr.assam.gov.in/sites/default/files/swf_utility_folder/departments/dipr_webcomindia_org_oid_4/menu/document/application_form_of_journalist.pdf"
+}

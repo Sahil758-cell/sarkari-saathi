@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Incentive for the Intra Caste Marriage within Scheduled Caste Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Couple must belong to different sub‑castes of SC or ST",
+    "Both bride and groom must reside in Karnataka",
+    "Family income must not exceed ₹2,00,000 per annum",
+    "Bride age between 18 and 42 years at the time of marriage",
+    "Groom age between 21 and 45 years at the time of marriage",
+    "Application must be submitted within one year of marriage"
+  ],
+  "benefits_summary": "Cash incentive of up to ₹2,00,000 (or ₹1,50,000 if the simple marriage grant is availed), paid in two installments (50% cash, 50% fixed deposit).",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

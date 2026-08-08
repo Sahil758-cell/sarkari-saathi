@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Bihar Shatabadi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Total Permanent Disability",
+  "occupation": [
+    "worker",
+    "craftsman"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must work in the unorganized sector within Bihar",
+    "Total permanent disability is defined as loss of both eyes or both hands or both legs, or loss of one eye, one hand and one leg, or both eyes due to paralysis or brain failure",
+    "Age is calculated as of 1 July of any year"
+  ],
+  "benefits_summary": "Financial assistance of ₹75,000.",
+  "documents_required": [],
+  "application_link": null
+}

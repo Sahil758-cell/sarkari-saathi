@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme of Giving Awards to Eminent Artists - Kalai Valarmani Award",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": 19,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Financial assistance of ₹6,000, a certificate of appreciation, and a shawl worth ₹500 are awarded to each selected artist.",
+  "documents_required": [
+    "passport-sized photograph (signed across, if required)",
+    "copies of mandatory documents (self‑attestation, if required)",
+    "artist’s photo",
+    "photos of artworks"
+  ],
+  "application_link": null
+}

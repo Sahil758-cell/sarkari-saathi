@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Jiyo Parsi Scheme – Health of the Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 1500000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Parsi/Zoroastrian couple (belong to the notified minority community)",
+    "Must have borne a child after the introduction of this component in 2017‑18",
+    "Must be a resident of India",
+    "Annual family income must be less than ₹15 lakh per annum"
+  ],
+  "benefits_summary": "Provides monthly financial assistance of ₹8,000 per child (up to age 18) and ₹10,000 per dependent elderly, plus up to ₹6,000 annually for Avesta‑Pahlvi language course fees.",
+  "documents_required": [
+    "Aadhaar number",
+    "Aadhaar‑linked joint bank account details",
+    "Application form"
+  ],
+  "application_link": "Step 1: Eligible beneficiaries who wish to avail benefits under this scheme may visit or contact Parsi Punchayets, Anjumans, or Agiaries. Step 2: Collect the application form and fill in the required details, including Aadhaar number, Aadhaar-linked joint bank account details, and other relevant information. Step 3: The district-level committee will review and recommend the applications under the scheme. Step 4: After receiving recommendations and relevant documents from the district-level committee, the Ministry will initiate the process of reimbursement/payment of grants. Funds will be directly reimbursed through the Aadhaar‑based Payment System (ASPS)."
+}

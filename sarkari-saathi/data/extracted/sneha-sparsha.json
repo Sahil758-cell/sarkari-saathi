@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Sneha Sparsha",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 11,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be affected by a serious ailment",
+    "Priority is given to Below Poverty Line (BPL) families"
+  ],
+  "benefits_summary": "Provides financial assistance for specialized treatments of children under 12 with serious ailments, covering procedures such as transplants, implants, surgeries and other critical care up to specified amounts.",
+  "documents_required": [],
+  "application_link": null
+}

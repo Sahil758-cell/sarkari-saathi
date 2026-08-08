@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Science Chair- Science Leadership",
+  "occupation": [
+    "Scientist",
+    "Academician"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The nominee must be a distinguished resident Indian scientist or academician in STEM or Medicine, particularly during the last 10 years.",
+    "The nominee must be recognized as a Science Leader with fellowships or awards from national or international scientific bodies.",
+    "The nominee should not hold any administrative roles or functions.",
+    "The nominee must not be receiving any honorarium, fellowship, or salary from any other institute or organization at the time of initiation of the award.",
+    "The nominee should have consent from the future host institution or be affiliated with an academic institution/R&D lab."
+  ],
+  "benefits_summary": "₹1.5 lakhs per month fellowship, ₹5 lakhs research grant per annum and ₹1 lakh per annum overhead provided to the host institution.",
+  "documents_required": [],
+  "application_link": "https://www.serbonline.in"
+}

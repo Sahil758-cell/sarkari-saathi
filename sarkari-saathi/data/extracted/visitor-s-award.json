@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Visitor's Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All faculty members and students of Central Universities are eligible",
+    "Nomination must be made by the Vice Chancellor, Dean, Director, or Professor of the nominee's university"
+  ],
+  "benefits_summary": "Citation and cash reward of up to ₹2,50,000 (minimum ₹1,00,000 per awardee)",
+  "documents_required": [
+    "Aadhaar or other valid identity proof"
+  ],
+  "application_link": null
+}

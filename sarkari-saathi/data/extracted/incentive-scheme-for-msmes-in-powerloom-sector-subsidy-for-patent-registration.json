@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy for Patent Registration",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a micro, small, or medium enterprise (MSME) in the powerloom sector.",
+    "Must have started production between 01-01-2022 and 31-12-2024.",
+    "Must have executed a four‑party agreement with the Directorate of Textiles, a financial institution, and Tantuja.",
+    "Must be a private sector, cooperative sector, joint‑sector undertaking, or a company/undertaking owned and managed by the State Government or industrial SHGs.",
+    "Project must be covered by a detailed feasibility report and be approved and sanctioned by a central financial institution, commercial bank, or state financial institution."
+  ],
+  "benefits_summary": "50% subsidy up to a maximum of ₹5,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

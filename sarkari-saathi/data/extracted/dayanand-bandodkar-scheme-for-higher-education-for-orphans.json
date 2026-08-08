@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Dayanand Bandodkar Scheme For Higher Education For Orphans",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Born in Goa or resided in Goa for at least 15 years",
+    "Passed qualifying examination from any institution located in Goa",
+    "Must be an orphan (both parents deceased)",
+    "Must be enrolled for the first year of degree/PG courses"
+  ],
+  "benefits_summary": "Full waiver of tuition, library, laboratory, development fees and other charges such as lodging, food, and transport.",
+  "documents_required": [],
+  "application_link": null
+}

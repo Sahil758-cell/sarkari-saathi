@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Sathiyavanimuthu Ammaiyar Ninaivu Free Supply of Sewing Machine Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 20,
+  "age_max": 40,
+  "max_annual_income": 72000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have knowledge of tailoring.",
+    "Applicant must belong to one of the following groups: Destitute Woman, Widow, Deserted Woman, Differently Abled Man, Differently Abled Woman, Socially Affected Woman, or Woman from Economically Weaker Sections."
+  ],
+  "benefits_summary": "Free sewing machine and accessories are provided.",
+  "documents_required": [],
+  "application_link": null
+}

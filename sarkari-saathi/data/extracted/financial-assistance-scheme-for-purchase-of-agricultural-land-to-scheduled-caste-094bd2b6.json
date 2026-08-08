@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance Scheme for Purchase of Agricultural Land to Scheduled Caste Farmers",
+  "occupation": [
+    "agricultural labourer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a native of Gujarat.",
+    "Only one member of the family is eligible for the benefit.",
+    "Beneficiaries of land acquired with government assistance cannot sell the land for 15 years.",
+    "The applicant must be able to purchase the land (excluding government assistance)."
+  ],
+  "benefits_summary": "Provides up to ₹2,00,000 financial assistance (₹1,00,000 per acre) for purchase of up to 2 acres of agricultural land for Scheduled Caste farmers.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

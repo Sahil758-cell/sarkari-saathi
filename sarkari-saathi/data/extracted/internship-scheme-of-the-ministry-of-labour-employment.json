@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Internship Scheme Of The Ministry Of Labour & Employment",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Pursuing law in the last two years of the degree course",
+    "Law graduates",
+    "Students pursuing post‑graduation in law",
+    "Research scholars in law",
+    "Pursuing MBA, MSW, MSc or MA enrolled in a recognized university/institution in India or abroad"
+  ],
+  "benefits_summary": "Stipend of ₹8,000 per month, logistic support (working space, computer with internet) and a certificate on successful completion.",
+  "documents_required": [
+    "Prescribed proforma (self‑attested application form)",
+    "Declaration of secrecy"
+  ],
+  "application_link": null
+}

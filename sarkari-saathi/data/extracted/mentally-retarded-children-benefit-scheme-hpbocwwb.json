@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mentally Retarded Children Benefit Scheme (HPBOCWWB)",
+  "occupation": [
+    "Building Worker",
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have worked in building or construction activities for at least 90 days in the preceding 12 months",
+    "Registration must be renewed annually",
+    "Worker must be registered with and have an active membership in the Himachal Pradesh Building and Other Construction Workers Welfare Board",
+    "Child of the worker must be mentally retarded/disabled and dependent on the registered worker",
+    "A one‑time registration fee is required, and renewal fee with proof of 90 days work each year after three years"
+  ],
+  "benefits_summary": "Provides ₹20,000 per annum to eligible workers for the care of their mentally retarded or disabled child.",
+  "documents_required": [],
+  "application_link": null
+}

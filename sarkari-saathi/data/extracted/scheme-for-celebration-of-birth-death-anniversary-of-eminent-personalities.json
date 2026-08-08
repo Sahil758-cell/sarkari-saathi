@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme for Celebration of Birth/death Anniversary of Eminent Personalities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "NGOs must be registered under the Societies Registration Act.",
+    "NGOs must have audited accounts.",
+    "Application must be submitted at least 15 days in advance."
+  ],
+  "benefits_summary": "Assistance up to ₹50,000 per occasion, for a maximum of two occasions per year.",
+  "documents_required": [],
+  "application_link": null
+}

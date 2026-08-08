@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Divyangjan Vivah Protsahan Anudan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "At least one individual in the couple must have a disability",
+    "Minimum age requirement: bride must be at least 18 years old and groom at least 21 years old at the time of marriage",
+    "Both bride and groom should belong to poor families"
+  ],
+  "benefits_summary": "Provides a ₹1,00,000 grant to disabled individuals in a marriage, with additional units if both spouses are disabled or if the marriage is inter‑caste.",
+  "documents_required": [],
+  "application_link": null
+}

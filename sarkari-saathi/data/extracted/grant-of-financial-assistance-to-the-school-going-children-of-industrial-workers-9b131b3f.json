@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Grant of Financial Assistance to the School Going Children of Industrial Workers/Employees Studying in 1st to 4th Standard for Supply of One Set of Uniform",
+  "occupation": [
+    "industrial worker",
+    "employee"
+  ],
+  "gender": null,
+  "age_min": 5,
+  "age_max": 10,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered with the Goa Labour Welfare Board",
+    "Applicant must have at least 6 months of continuous service with the Board at the time of application",
+    "Child must be enrolled in a recognized, aided, or private school",
+    "Preference is given to workers with no more than two children"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,600 per student per annum for the purchase of one uniform set (shorts/trousers and shirts for boys, frock for girls).",
+  "documents_required": [
+    "Prescribed application form (print from the official website)",
+    "Passport‑sized photograph (if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

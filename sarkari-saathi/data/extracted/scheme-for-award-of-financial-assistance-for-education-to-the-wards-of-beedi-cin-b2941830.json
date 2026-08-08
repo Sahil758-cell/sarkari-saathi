@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers – Pre & Post-Matric",
+  "occupation": [
+    "Beedi worker",
+    "Mine worker",
+    "Cine worker",
+    "Contract/Gharkhata worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a child of a Beedi, Mine (IOMC/LSDM), or Cine worker (including Contract/Gharkhata workers) with at least six months of service",
+    "Applicant must have passed the last qualifying examination on the first attempt (students promoted to the next class are also eligible)",
+    "Applicant must have regular admission in a recognized institution in India for any general or technical course, including medical, engineering, and agricultural studies",
+    "Applicant must not be receiving any other scholarship or stipend from any source",
+    "Applicant must have a separate bank account; if using a joint account, the scholar’s name must be the first on the account",
+    "Each child of the same worker must provide a separate bank account number",
+    "Family income of the worker must not exceed the monthly limits specified: ₹10,000 per month for Beedi workers; ₹10,000 per month for supervisory/managerial mine workers; ₹8,000 per month (or ₹1,00,000 lump‑sum) for Cine workers"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,000 to ₹25,000 per student per annum, varying by class and course of study",
+  "documents_required": [],
+  "application_link": "http://www.scholarships.gov.in/"
+}

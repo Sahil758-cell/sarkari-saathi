@@ -1,0 +1,26 @@
+{
+  "scheme_name": "One Time Grant For Media Personality",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an accredited or recognized journalist of Assam with a DIPR accredited/recognized card, including freelancers from print, electronic and news agencies",
+    "Applicant must have at least fifteen years of experience in journalism",
+    "Applicant must not have been convicted of any criminal offense, punished by any court of law, or reprimanded by the Press Council of India for misconduct or ethical violations",
+    "Canvassing for the grant in any form will disqualify the candidature and may lead to debarment"
+  ],
+  "benefits_summary": "One‑time grant of ₹5,00,000 to each of 20 journalists per year.",
+  "documents_required": [],
+  "application_link": null
+}

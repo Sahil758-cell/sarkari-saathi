@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Maternity Benefit Scheme (APB&OCWWB)",
+  "occupation": [
+    "building and other construction works"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Arunachal Pradesh.",
+    "The applicant must be a woman worker employed in building and other construction works.",
+    "The worker must be registered with the Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB).",
+    "The membership must be active at the time of application.",
+    "The woman worker is not entitled to benefits in case of a second marriage."
+  ],
+  "benefits_summary": "Cash assistance of ₹1,000 during the period of maternity.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Prize Schemes to the Students (State Level Prizes)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a student",
+    "The beneficiary must be a resident of Tamil Nadu",
+    "The beneficiary must belong to Backward Classes (BC), Most Backward Classes (MBC) or Denotified Communities (DNC)",
+    "The beneficiary must be studying in a Government, Government‑Aided or Private school",
+    "The beneficiary must have studied Tamil as the first language",
+    "If more than one student secures the same marks, awards are granted to all such students"
+  ],
+  "benefits_summary": "Cash prizes ranging from ₹15,000 to ₹50,000 for top‑ranked students, with amounts differing for boys and girls.",
+  "documents_required": [
+    "Application form collected from the educational institution",
+    "Passport‑sized photograph (signed across, if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

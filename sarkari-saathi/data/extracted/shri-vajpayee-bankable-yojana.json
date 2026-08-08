@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Shri Vajpayee Bankable Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be unemployed.",
+    "Applicant must have passed at least standard fourth.",
+    "Applicant should have undergone a minimum of three months training from a private establishment or one month from a government‑recognized institute in the proposed business area.",
+    "Applicant should have at least one year of experience in the same activity or be a hereditary craftsperson.",
+    "Blind or handicapped persons are eligible."
+  ],
+  "benefits_summary": "Provides bank loans up to ₹8 lakh with subsidies up to ₹1.25 lakh for eligible applicants.",
+  "documents_required": [
+    "Aadhar Number"
+  ],
+  "application_link": "https://blp.gujarat.gov.in/header_home.php"
+}

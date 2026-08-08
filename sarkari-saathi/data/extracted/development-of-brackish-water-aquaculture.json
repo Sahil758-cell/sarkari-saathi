@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Development of Brackish Water Aquaculture",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have own land or government‑allotted land for shrimp farming",
+    "Shrimp farm must be registered with the coastal aquaculture authority or an application for registration must have been submitted",
+    "Applicant must have his own bank account",
+    "Applicant must provide a valid identity proof such as Voter ID, Aadhaar Card, Ration Card, or Passport",
+    "For certain subsidies, the land must be leased for at least 10 years"
+  ],
+  "benefits_summary": "The scheme offers 50 % subsidies on a range of shrimp‑farm inputs and infrastructure (aerators, new farm construction, renovation, fencing, feed, sea‑weed culture, effluent‑treatment system, and hatchery) subject to specified monetary caps, payable either once in a lifetime or once every three years.",
+  "documents_required": [
+    "Voter ID",
+    "Aadhaar Card",
+    "Ration Card",
+    "Passport",
+    "Proof of bank account",
+    "Land allotment order (if government land)"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

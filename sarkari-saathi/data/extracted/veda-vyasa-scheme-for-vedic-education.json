@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Veda Vyasa Scheme for Vedic Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": 8,
+  "age_max": 19,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student and his/her parents must belong to the Brahmin community",
+    "Parents must reside in Andhra Pradesh",
+    "Student must be pursuing a full‑time Vedic course (Yajur Veda, Rig Veda, Sama Veda, Atharvana Veda, or Smartham) at a Veda Pathasala registered with Tirumala Tirupati Devasthanams (TTD), the Endowments Department of Government of Andhra Pradesh, or enlisted by the A.P. Brahmin Welfare Corporation",
+    "Student must be enrolled in the Praja Sadhikara Survey (PSS)",
+    "For Padam, Kramam, Jata and Ghanam courses, the student must have completed the previous course of study"
+  ],
+  "benefits_summary": "Annual financial assistance of ₹12,000–₹36,000 is provided, varying with the specific Vedic course and the student’s age.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature",
+    "Certificate Details"
+  ],
+  "application_link": "https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#"
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance to Blind Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a 100% permanently blind ex‑serviceman.",
+    "Applicant must not be receiving any pension or financial assistance from the Haryana State Government, any department of the Government of India, or any entity controlled by the Central or State Government.",
+    "Applicant must produce a certificate from the concerned District Social Welfare Officer confirming that no financial assistance or pension is being received from the Social Justice & Empowerment Department of Haryana.",
+    "Applicant must submit survival verification proofs every year, failure of which will lead to discontinuation of assistance.",
+    "If a beneficiary is found receiving any other financial assistance or pension after sanction, they will be permanently debarred from the scheme."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per month (with an annual increase of ₹400) is provided to permanently blind ex‑servicemen.",
+  "documents_required": [
+    "Certificate from the District Social Welfare Officer confirming no receipt of financial assistance/pension from the Social Justice & Empowerment Department of Haryana",
+    "Filled‑in and signed application form/template"
+  ],
+  "application_link": null
+}

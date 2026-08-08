@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Vegetable Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Meghalaya.",
+    "Applicant must be a small or marginal farmer with sufficient cultivable land."
+  ],
+  "benefits_summary": "Provides 50% subsidy on seeds and horticultural tools, full assistance for poly houses up to 100 sqm, and trellis‑making support up to 200 sqm at ₹10,000 per beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

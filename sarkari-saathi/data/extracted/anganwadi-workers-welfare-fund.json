@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Anganwadi Workers Welfare Fund",
+  "occupation": [
+    "Anganwadi Worker",
+    "Anganwadi Helper"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "A minimum of ₹30,000 is provided, with ₹1,30,000 after 20 years of service and a 5% yearly increase in the deposit amount.",
+  "documents_required": [
+    "Certificate of retirement from the Anganwadi center",
+    "Aadhar card",
+    "Bank account details"
+  ],
+  "application_link": null
+}

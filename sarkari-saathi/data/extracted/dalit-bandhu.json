@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Dalit Bandhu",
+  "occupation": null,
+  "gender": null,
+  "age_min": 25,
+  "age_max": 50,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Family must not own more than 3 acres of agricultural land or more than one residential house.",
+    "Applicant must not have availed any other government loan or subsidy.",
+    "Applicant must have a viable business plan or entrepreneurial idea.",
+    "Applicant must be willing to contribute 10% of the project cost.",
+    "Applicant must have a bank account.",
+    "Applicant must have a digital identity (e.g., Aadhaar).",
+    "Applicant must have passed at least the 10th standard.",
+    "Applicant must not have a criminal record or conviction."
+  ],
+  "benefits_summary": "Provides a one‑time grant of Rs. 10 lakh to eligible SC families to start a business, promoting entrepreneurship and income generation.",
+  "documents_required": [
+    "Proof of identity",
+    "Proof of residence",
+    "Proof of age",
+    "Proof of income",
+    "Proof of educational qualifications",
+    "Viable business plan or entrepreneurial idea",
+    "Bank account number"
+  ],
+  "application_link": "https://dalitbandhu.telangana.gov.in/Home/Index"
+}

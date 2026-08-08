@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Bus Passes for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of the U.T. Administration of Dadra and Nagar Haveli and Daman and Diu",
+    "Must be a building/construction worker",
+    "Must be between 18 and 60 years of age",
+    "Must have engaged in building or other construction work for at least 90 days in a given year",
+    "Must be a registered member under the Building and Other Construction Workers Welfare Board of the U.T."
+  ],
+  "benefits_summary": "50% reimbursement of travelling cost for registered construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

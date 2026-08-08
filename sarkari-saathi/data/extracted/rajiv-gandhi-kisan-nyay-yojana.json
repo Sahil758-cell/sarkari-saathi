@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Rajiv Gandhi Kisan Nyay Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a marginal, small, or large farmer.",
+    "Farmers of all categories of landowners and forest lease holders are eligible.",
+    "Eligibility is limited to residents of Chhattisgarh state."
+  ],
+  "benefits_summary": "Up to ₹10,000 per acre for paddy and maize, and ₹93.75 per quintal (maximum ₹355 per quintal) for sugarcane.",
+  "documents_required": [
+    "Loan Book",
+    "B-1",
+    "Bank Passbook",
+    "Aadhaar"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Skill Development Promotion Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an educational institute listed by the Start-up Promotion Cell (SPC)",
+    "Applicant must have a valid Startup Cell Registration Number",
+    "Institute must have at least one established learning centre in Goa",
+    "Institute must be recognized by an authorized government body such as AICTE, UGC, NBA, etc.",
+    "Expenditures must be incurred from one year before the notification of the Goa Start‑up Policy 2017 and paid digitally to be considered for reimbursement; if digital payments are not possible, SPC discretion applies",
+    "Preference will be given to institutes with tie‑ups with OEMs",
+    "Benefits can be availed only once for a period of two consecutive years",
+    "Only up to 10 institutes per year may receive benefits",
+    "Application can be made at any time of the financial year but only within 6 months of incurring the relevant expenditure"
+  ],
+  "benefits_summary": "Provides up to ₹10,00,000 per year in subsidies for internet, power, capital investment, and salary costs for eligible educational institutes in Goa.",
+  "documents_required": [],
+  "application_link": null
+}

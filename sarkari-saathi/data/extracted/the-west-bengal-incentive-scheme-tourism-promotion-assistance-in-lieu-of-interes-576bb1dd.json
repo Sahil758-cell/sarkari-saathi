@@ -1,0 +1,28 @@
+{
+  "scheme_name": "The West Bengal Incentive Scheme: Tourism Promotion Assistance in lieu of Interest Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a tourism project/unit or an expansion of an existing unit set up on or after 22 February 2021",
+    "Hotel units that commenced commercial operations between 7 January 2015 and 31 December 2020 are eligible if they could not apply under the 2015 scheme due to absence of a Bar in the Hotel",
+    "Units may belong to the private sector, co‑operative sector, joint sector, or be companies/undertakings owned or managed by the State Government",
+    "The project must be supported by a detailed feasibility report prepared for the purpose",
+    "The project must be approved and sanctioned by a Central Financial Institution, a Commercial Bank or a State Financial Institution",
+    "The unit must hold a Registration Certificate, a Date of Commencement Certificate and an Eligibility Certificate issued by the West Bengal Tourism Development Corporation Limited"
+  ],
+  "benefits_summary": "Assistance of 75% of SGST for a period of five years, provided in lieu of interest subsidy.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate"
+  ],
+  "application_link": null
+}

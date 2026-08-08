@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Sardar Patel Agriculture Research Award",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of Gujarat State",
+    "Must possess agricultural land in Gujarat"
+  ],
+  "benefits_summary": "First‑place winners in each category receive ₹51,000 along with a shawl and certificate; the top five farmers in each category receive a shawl and certificate.",
+  "documents_required": [],
+  "application_link": null
+}

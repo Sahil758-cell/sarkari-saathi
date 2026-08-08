@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Financial Assistance for Marriage for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "any",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have continuous membership of at least 3 years with the Delhi Building and Other Construction Workers Welfare Board",
+    "Must have served the Board for at least 90 days in a given year",
+    "Applicant must be a registered female member or the wife of a registered male member of the board",
+    "Must be a resident of Delhi"
+  ],
+  "benefits_summary": "Provides marriage assistance of ₹51,000 for female workers/daughters and ₹35,000 for male workers/sons.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof (including proof of 90 days employment)",
+    "Bank Account details",
+    "Photograph",
+    "Applicant’s Video"
+  ],
+  "application_link": null
+}

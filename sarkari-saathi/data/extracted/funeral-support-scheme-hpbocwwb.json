@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Funeral Support Scheme (HPBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a nominee or legal heir of the deceased worker",
+    "The deceased worker must have been registered with the Himachal Pradesh Building and Other Construction Workers Welfare Board",
+    "The deceased worker’s membership with the Welfare Board must be active"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹20,000 to the nominee or dependent of a registered worker in the event of the worker’s death.",
+  "documents_required": [
+    "Wage slip or appointment letter from the employer verifying 90 days of construction work",
+    "Certificate from a local authority (councilor, executive officer, or Panchayat Secretary) if wage slip/appointment letter is unavailable",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents",
+    "Hard copy of the prescribed application form"
+  ],
+  "application_link": null
+}

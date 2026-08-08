@@ -1,0 +1,23 @@
+{
+  "scheme_name": "National Apprenticeship Promotion Scheme-2",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidates must have an updated Aadhaar number and complete e‑KYC on the apprenticeship portal",
+    "Registration requires mobile OTP authentication",
+    "Hazardous industry trades require a minimum age of 18 years"
+  ],
+  "benefits_summary": "Partial stipend support of up to 25% of the stipend, capped at Rs.1,500 per month per apprentice",
+  "documents_required": [
+    "Aadhaar (e‑KYC)"
+  ],
+  "application_link": "https://www.apprenticeshipindia.gov.in/"
+}

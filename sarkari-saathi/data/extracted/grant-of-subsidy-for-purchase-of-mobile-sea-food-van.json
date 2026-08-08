@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant of Subsidy for Purchase of Mobile Sea Food Van",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the fishermen community",
+    "Applicant must be a resident of the Union territory of Puducherry by birth/domicile",
+    "Applicant must be a non‑overdue member of the Primary Fisheries Co‑operative Society concerned",
+    "Applicant must not be employed in Government, Government Undertaking, or societies, either part‑time or full‑time",
+    "Applicant must be a registered Fisherwomen Co‑operative Society in the Union territory of Puducherry, or a group under SHGs registered under the District Rural Development Agency and Puducherry Urban Development Agency"
+  ],
+  "benefits_summary": "Provides a 75% subsidy on the cost of a mobile seafood van, with the remaining 25% financed through a bank loan.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

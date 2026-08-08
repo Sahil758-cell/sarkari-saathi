@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Maharishi Balmiki Chatravriti Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Valmiki family engaged in unclean occupation.",
+    "Applicant must have been admitted to a matriculation course."
+  ],
+  "benefits_summary": "Scholarship of ₹18,000 per annum for college-level studies.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/fresh/newstdRegfrmInstruction"
+}

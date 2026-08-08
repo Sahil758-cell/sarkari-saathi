@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Advocate Grant",
+  "occupation": [
+    "Law Graduate",
+    "Advocate"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must start practice as an advocate within Kerala.",
+    "If ties occur, preference based on percentage of marks obtained in the Law Degree.",
+    "If still tied, preference given to candidates who obtained their law degree from universities in Kerala.",
+    "Eligibility category noted in source: Backward Classes"
+  ],
+  "benefits_summary": "A grant of ₹12,000 per year for three consecutive years.",
+  "documents_required": [],
+  "application_link": null
+}

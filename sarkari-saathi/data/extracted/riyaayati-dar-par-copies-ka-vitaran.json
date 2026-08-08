@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Riyaayati Dar Par Copies Ka Vitaran",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Construction workers must be employed in industrial units or establishments within the circle's jurisdiction.",
+    "Benefit is limited to a maximum of two children per worker.",
+    "The worker must deposit the cost of copies with the managing institution before distribution."
+  ],
+  "benefits_summary": "Provides up to 10 small copies at ₹10 each and 10 registers at ₹14 each to children of construction workers.",
+  "documents_required": [],
+  "application_link": null
+}

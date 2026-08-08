@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Attendance Scholarship Scheme for Girl Students with Disabilities of Rural Areas",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "rural",
+  "other_conditions": [
+    "Minimum attendance of 70% required",
+    "Family monthly income must not exceed ₹5,000",
+    "Disability must be 40% or above as per RPwD Act 2016",
+    "Applicant must be a girl student from 1st Standard onwards",
+    "Eligibility category noted in source: persons with disabilities"
+  ],
+  "benefits_summary": "Scholarship of ₹2,500 per annum up to 10th standard and ₹3,000 per annum for higher education, credited online to the student's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

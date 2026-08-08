@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Atal Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must not be an income tax payer",
+    "Contribution must be made via auto‑debit from a savings bank account"
+  ],
+  "benefits_summary": "Provides a guaranteed minimum pension of Rs 1,000‑5,000 per month after age 60, with equal pension for the spouse and a return of the accumulated pension wealth to the nominee upon death.",
+  "documents_required": [
+    "Aadhaar (for KYC)"
+  ],
+  "application_link": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html"
+}

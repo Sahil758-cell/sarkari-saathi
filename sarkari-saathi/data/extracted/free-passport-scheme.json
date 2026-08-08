@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Free Passport Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana",
+    "Applicant must be a final‑year student in a UG or PG course in a government college",
+    "Applicant must not already possess a passport"
+  ],
+  "benefits_summary": "Reimbursement of passport application fee of ₹1,500/- provided through the student's college.",
+  "documents_required": [
+    "Original documents submitted with the passport application",
+    "Self‑attested copies of the original documents",
+    "Copy of the online payment receipt (or SMS receipt)",
+    "Copy of the passport for fee reimbursement"
+  ],
+  "application_link": null
+}

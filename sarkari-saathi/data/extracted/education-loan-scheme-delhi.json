@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Education Loan Scheme - Delhi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Delhi",
+    "Applicant must belong to Minority or Persons with Disability groups",
+    "Admission must be secured in a recognized government/technical institution that has offered the course for at least three years and is recognized by UGC, AICTE or other appropriate authorities",
+    "Course duration must not exceed 5 years",
+    "Borrower must not engage in any unlawful activity or take additional financial liabilities during the loan tenure",
+    "Borrower must seek suitable employment after completing the course and provide full employment and income details to DSFDC"
+  ],
+  "benefits_summary": "Need‑based loan up to ₹7.5 lakh for studies in India and up to ₹15 lakh for studies abroad, with repayment up to 10 years after commencement.",
+  "documents_required": [
+    "passport‑sized photograph",
+    "copies of all mandatory documents (self‑attested)",
+    "original documents for verification"
+  ],
+  "application_link": null
+}

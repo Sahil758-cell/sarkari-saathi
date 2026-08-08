@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Educational Assistance for Government Recognised Diploma Courses",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Maharashtra.",
+    "Applicant must be a child or spouse of a registered construction worker.",
+    "The construction worker must be registered under the Maharashtra Building And Other Construction Workers Welfare Board (MBOCWW).",
+    "Applicant must be enrolled in a government‑recognized diploma or postgraduate diploma course.",
+    "Benefit applies to a maximum of two children and to the wife of registered male workers."
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 per year for government‑recognized diploma courses and ₹25,000 per year for postgraduate diploma courses.",
+  "documents_required": [],
+  "application_link": null
+}

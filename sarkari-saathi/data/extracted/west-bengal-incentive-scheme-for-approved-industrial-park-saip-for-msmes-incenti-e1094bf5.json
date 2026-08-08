@@ -1,0 +1,29 @@
+{
+  "scheme_name": "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Incentive for Common Effluent Treatment Plant (CETP)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a private‑sector entity or an existing/operational industrial park.",
+    "A minimum of 5 acres of legally owned land (by direct purchase or lease from the State Government) is required.",
+    "The Special Purpose Vehicle (SPV) must be registered under the Companies Act, Societies Registration Act, Partnership Act or LLP Act.",
+    "Park area should be expanded to at least 5 acres in out‑lying districts and at least 2 acres in Kolkata and Howrah.",
+    "All individual units must have obtained necessary clearances for land conversion, fire licence, environmental compliance, building plan, etc.",
+    "The SPV must obtain prior approval justifying the feasibility and requirement for the CETP in the AIP.",
+    "The SPV must obtain consent from WBSIDCL before installing the CETP concerning the accredited vendor, selected technology and cost estimate."
+  ],
+  "benefits_summary": "Reimbursement of ₹5,00,000 per acre for installation of a Common Effluent Treatment Plant (CETP).",
+  "documents_required": [
+    "Signature and seal (JPG/PNG format, maximum 2 MB)"
+  ],
+  "application_link": null
+}

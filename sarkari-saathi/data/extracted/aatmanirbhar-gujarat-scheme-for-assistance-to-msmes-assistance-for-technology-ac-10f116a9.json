@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Technology Acquisition",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must have obtained acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT), as applicable.",
+    "New manufacturing enterprises or existing ones undertaking expansion or diversification are eligible.",
+    "The enterprise must commence commercial production during the scheme's operative period.",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small",
+    "Eligibility category noted in source: Medium"
+  ],
+  "benefits_summary": "Financial assistance up to 85% of technology acquisition cost, with a maximum of ₹5,000,000, including royalty payments for the first two years.",
+  "documents_required": [],
+  "application_link": null
+}

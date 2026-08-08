@@ -1,0 +1,34 @@
+{
+  "scheme_name": "SUBHADRA",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 21,
+  "age_max": 59,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be covered under the National Food Security Act (NFSA) or State Food Security Scheme (SFSS)",
+    "If no NFSA/SFSS card, family income must not exceed ₹2,50,000 per annum",
+    "Applicant must not be a current or former Member of Parliament (MP) or Member of the Legislative Assembly (MLA)",
+    "Applicant must not be an Income Tax Payee",
+    "Applicant must not be an elected public representative in any Urban Local Body or Panchayati Raj Institution (excluding Ward Member / Councillor)",
+    "Applicant must not be employed as a regular or contractual employee in State Government, Government of India, PSU, board, local body or government organization, nor receiving pension after retirement (honorarium workers are exempt)",
+    "Applicant must not be an elected/nominated/appointed representative in any Government Department, Undertaking, Board or Organization of Government of India or State Government",
+    "Applicant must not be an owner of a 4‑wheeler motor vehicle (except tractors, mini‑trucks, small commercial vehicles and similar light‑goods vehicles)",
+    "Applicants receiving financial assistance of ₹1,500 per month (₹18,000 per annum) or more from any State or Central Government scheme are ineligible"
+  ],
+  "benefits_summary": "Beneficiaries receive a SUBHADRA ATM‑cum‑debit card and financial support of ₹50,000 over five years (₹10,000 annually), with additional incentives for top digital transaction performers.",
+  "documents_required": [
+    "Application form (collected from Anganwadi Centres, Block Offices, Urban Local Body Offices, Mo Seba Kendras, Common Service Centres, etc.)",
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of mandatory documents (self‑attested if required)",
+    "Aadhaar number (for e‑KYC)"
+  ],
+  "application_link": null
+}

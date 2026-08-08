@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scheme For Loan And Advances to the Beneficiary For Construction Of House",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": [
+    "EWS"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be a registered active BOC worker under the Tripura Building and Other Construction Workers Welfare Board",
+    "The worker must have been a registered construction worker for at least 5 years",
+    "The worker should have at least 20 years remaining before retirement",
+    "The worker must not own any pucca house in any part of the country",
+    "The worker should have a minimum land area of 30 square metres as per their income status for house construction",
+    "The beneficiary family should not have availed any central assistance under any housing scheme from the central or state government"
+  ],
+  "benefits_summary": "Provides a credit‑linked interest subsidy of 6.5 % on loans up to ₹6 lakh, repayable over a maximum period of 20 years.",
+  "documents_required": [],
+  "application_link": null
+}

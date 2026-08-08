@@ -1,0 +1,24 @@
+{
+  "scheme_name": "The Andaman & Nicobar Islands Widow Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 48000,
+  "category": null,
+  "state": [
+    "Andaman and Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of the Union Territory of Andaman and Nicobar Islands or have resided there for more than 10 years",
+    "Applicant must be a poor widow",
+    "Applicant must not be availing any other financial assistance or grant from the government or any other source",
+    "Assistance will cease if the beneficiary remarries or becomes financially independent"
+  ],
+  "benefits_summary": "Widow allowance of ₹2500 per month paid into the beneficiary's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

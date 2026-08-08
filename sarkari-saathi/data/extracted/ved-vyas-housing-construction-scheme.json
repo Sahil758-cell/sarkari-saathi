@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Ved-Vyas Housing Construction Scheme",
+  "occupation": [
+    "active fish farmer",
+    "traditional fish farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an active or traditional fish farmer",
+    "Applicant must be living in a kutcha or thatched house",
+    "Applicant's family must be Below Poverty Line (BPL)",
+    "Applicant must not have previously benefited from the departmental fishermen housing scheme, Indira Awas, or any equivalent central/state housing scheme",
+    "Applicant must own land for house construction"
+  ],
+  "benefits_summary": "Financial assistance of ₹1,20,000 for housing construction.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Group Supply Of Goats And Sheep",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Tribal beneficiaries receive a group of 10 goats and 1 buck at a 50 % subsidy, with the price set according to prevailing NABARD rates.",
+  "documents_required": [],
+  "application_link": "Connect with Group Development Officer, Group Development Officer under Panchayat Samiti / and Zilla Parishad"
+}

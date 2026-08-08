@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Sanjay Gandhi Niradhar Grant Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 21000,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a permanent resident of the state of Maharashtra",
+    "Applicant must be listed in the Below Poverty Line (BPL) families OR the family’s annual income must be ≤ ₹21,000",
+    "Destitute men and women below 65 years of age",
+    "Orphan children",
+    "All categories of Person with Disability (PwD)",
+    "Men and women unable to sustain themselves due to diseases such as tuberculosis, cancer, AIDS, leprosy",
+    "Destitute widows (including widows of farmers who committed suicide)",
+    "Women in the divorce process and divorced women not receiving alimony",
+    "Women who have been tortured and released from prostitution",
+    "Transgender persons",
+    "Devadasi",
+    "Unmarried women above 35 years of age",
+    "Wives of prisoners serving sentences in jail",
+    "Persons suffering from sickle cell disease"
+  ],
+  "benefits_summary": "Financial assistance of ₹600 per month for a single beneficiary or ₹900 per month if more than one beneficiary in the family.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)",
+    "Self‑attested mandatory documents",
+    "Hard copy of the application form format"
+  ],
+  "application_link": "Step 1: Visit the Collector's Office / Tahsildar Sanjay Gandhi Yojana / Talathi Office and request a hard copy of the format of the application form for the scheme from the concerned authority. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self‑attested) mandatory documents. Step 3: Submit the duly filled and signed application form along with the documents to the Collector's Office / Tahsildar Sanjay Gandhi Yojana / Talathi Office. Step 4: Acquire the receipt/acknowledgment of the successful submission of the application form."
+}

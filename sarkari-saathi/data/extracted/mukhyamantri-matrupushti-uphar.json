@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Matrupushti Uphar",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have undertaken antenatal check-ups at any health facility"
+  ],
+  "benefits_summary": "Provides ₹500 per antenatal check-up (up to four times) directly transferred to the beneficiary’s bank account.",
+  "documents_required": [
+    "Mandatory documents (self-attest, if required)"
+  ],
+  "application_link": null
+}

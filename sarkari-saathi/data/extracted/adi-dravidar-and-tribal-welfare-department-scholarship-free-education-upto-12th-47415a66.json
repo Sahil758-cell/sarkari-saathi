@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Adi Dravidar and Tribal Welfare Department: Scholarship-Free Education upto 12th Std. to All",
+  "occupation": [
+    "student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in a school up to the 12th standard.",
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal",
+    "Eligibility category noted in source: Adi Dravidar converted to Christianity"
+  ],
+  "benefits_summary": "Full reimbursement of tuition fees for students up to the 12th standard.",
+  "documents_required": [],
+  "application_link": null
+}

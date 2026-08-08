@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Fare for Visiting Home Town (HBOCWWB)",
+  "occupation": [
+    "construction worker",
+    "building worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be engaged in building or construction work",
+    "Applicant must be registered with the Haryana Building & Other Construction Workers Welfare Board",
+    "Must have a minimum of two years regular membership with the Board",
+    "Must have an active membership with the Board",
+    "Family size cannot exceed five members (including the registered worker)",
+    "To avail benefits, the worker must pay the registration fee and have at least 90 days of work experience in the preceding year",
+    "A Parivar Pehchan Patra (Family ID) is required for registration"
+  ],
+  "benefits_summary": "Free travel to the worker’s home town once a year for up to five family members, with fare paid at the prescribed roadways or railway rate.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar number"
+  ],
+  "application_link": null
+}

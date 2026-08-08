@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Farm Pond (Khet Talai) Nirman Karyakram",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have at least 0.5 hectares of cultivable land in a single plot registered in their name."
+  ],
+  "benefits_summary": "Subsidy of up to 50% of construction cost (capped at ₹52,500 for raw ponds and ₹75,000 for plastic‑lined ponds), with an additional subsidy of up to 60% of total cost (capped at ₹63,000 for raw ponds and ₹90,000 for plastic‑lined ponds).",
+  "documents_required": [
+    "Jan Aadhaar number"
+  ],
+  "application_link": null
+}

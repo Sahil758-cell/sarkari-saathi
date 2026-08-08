@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Grant-in-aid (TB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST",
+    "SC"
+  ],
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanently residing within the State of Mizoram",
+    "None of the family members are Government employees",
+    "Family income from all sources does not exceed Rs.2000 per month",
+    "Suffering from fell diseases"
+  ],
+  "benefits_summary": "Cash or bank‑draft grant up to Rs.2500 per person to cover actual treatment cost and travel expenses, subject to fund availability.",
+  "documents_required": [
+    "Residence certification by the Village Council President",
+    "Residence certification by the Block Development Officer",
+    "Medical Board examination certificate"
+  ],
+  "application_link": null
+}

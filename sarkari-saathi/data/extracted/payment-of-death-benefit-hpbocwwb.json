@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Payment of Death Benefit ( HPBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a nominee or legal heir of the deceased worker.",
+    "Deceased worker must have been registered with the Himachal Pradesh Building and Other Construction Workers Welfare Board.",
+    "Membership of the deceased worker with the Welfare Board must be active."
+  ],
+  "benefits_summary": "Provides ₹4,00,000 for accidental death and ₹2,00,000 for natural death to the nominee or dependents.",
+  "documents_required": [],
+  "application_link": null
+}

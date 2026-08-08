@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance for Patent Registration",
+  "occupation": [
+    "Micro enterprise",
+    "Small enterprise",
+    "Medium enterprise",
+    "Individual"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must have obtained acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT) as applicable",
+    "Application must be submitted within one year from the date of publication/notification of the patent"
+  ],
+  "benefits_summary": "Financial support covering up to 75% of patent registration costs, with a maximum assistance of ₹25,00,000 per applicant/enterprise.",
+  "documents_required": [],
+  "application_link": null
+}

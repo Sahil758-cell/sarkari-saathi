@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Jharkhand State Migrant Labourers Survey and Rehabilitation Scheme",
+  "occupation": [
+    "unskilled",
+    "semi-skilled"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": [
+    "EWS"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The migrant worker must be a resident of Jharkhand",
+    "The death or injury must have occurred due to an accident while working outside the state",
+    "The incident must be reported to the nearest government office within a specified timeframe"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹1,50,000 for death or permanent disability and up to ₹75,000 for partial disability, plus covers transportation costs for families.",
+  "documents_required": [],
+  "application_link": null
+}

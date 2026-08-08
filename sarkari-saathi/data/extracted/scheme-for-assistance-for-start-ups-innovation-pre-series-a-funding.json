@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for assistance for Start Ups/ Innovation: Pre-Series A Funding",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an individual or a group with an innovative idea or concept, and must be recommended by an approved Nodal Institution.",
+    "The startup can belong to any sector or branch of science, technology, engineering, agriculture, healthcare, etc.; the scheme is sector‑agnostic.",
+    "Startups that are already receiving benefits under the Student Startup and Innovation Policy (SSIP) are also eligible."
+  ],
+  "benefits_summary": "Provides mid‑level Pre‑Series A funding to bridge the financing gap during the ‘valley of death’ phase for startups.",
+  "documents_required": [],
+  "application_link": null
+}

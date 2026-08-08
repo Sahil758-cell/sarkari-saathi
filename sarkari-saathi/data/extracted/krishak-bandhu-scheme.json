@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Krishak Bandhu Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of West Bengal.",
+    "Must own cultivable land up to 2 acres.",
+    "Must be actively engaged in farming.",
+    "For death benefit, applicant must be the legal heir of the deceased farmer.",
+    "Farmer must have been enrolled in the Krishak Bandhu Scheme at the time of death.",
+    "Income support eligibility is linked to land ownership records."
+  ],
+  "benefits_summary": "Provides up to ₹10,000 per annum income support per acre and a one-time ₹2,00,000 grant for death or permanent disability.",
+  "documents_required": [
+    "Passport-sized photograph (self-attested if required)",
+    "Copies of mandatory documents (self-attested)",
+    "Legal heir certificate (for death benefit)"
+  ],
+  "application_link": null
+}

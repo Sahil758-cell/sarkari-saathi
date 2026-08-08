@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Chief Minister's Self Employment Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 22,
+  "age_max": 35,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": false,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed",
+    "Applicant must have passed the 10th class",
+    "Only one member per family is eligible, except for Below Poverty Line (BPL) families"
+  ],
+  "benefits_summary": "Interest‑free loan up to ₹3,00,000 per individual for 2 years, thereafter a 6% simple interest rate.",
+  "documents_required": [],
+  "application_link": null
+}

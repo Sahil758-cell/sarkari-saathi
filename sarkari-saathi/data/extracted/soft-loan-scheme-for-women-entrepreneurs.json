@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Soft Loan Scheme for Women Entrepreneurs",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Startup must be approved by DPIIT and have a Unique ID issued by Kerala Startup Mission.",
+    "Women co‑founder must hold the majority stake in the startup.",
+    "Startup must be registered in Kerala.",
+    "The client must be a Government Department or Public Sector Undertaking.",
+    "Startup must sign an agreement with Kerala Startup Mission before availing the benefit.",
+    "A personal guarantee must be executed by the women founder for availing the loan.",
+    "For service enterprises, at least 51% of shares must be held by women founders; for equity‑funded enterprises, majority shares must remain with women founders."
+  ],
+  "benefits_summary": "Soft loan up to ₹15 Lakhs at 6% simple interest, disbursed up to 80% of the purchase order with repayment within 1 year or upon project completion, whichever is earlier.",
+  "documents_required": [],
+  "application_link": null
+}

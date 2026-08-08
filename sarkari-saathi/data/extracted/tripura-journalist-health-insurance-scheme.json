@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Tripura Journalist Health Insurance Scheme",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": 21,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Tripura.",
+    "Must be an accredited journalist by the state government or Press Information Bureau (PIB).",
+    "Must not have been covered under the Ayushman Bharat Scheme or any other Central or State health insurance scheme."
+  ],
+  "benefits_summary": "Provides medical care for diseases listed by the State government with a maximum coverage of ₹3,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Scheme of Grant-in-Aid to Voluntary Organisations Working for the Welfare of Scheduled Tribes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered voluntary organisation/NGO under the Societies Registration Act, 1860, a State Society Registration, Public Trust or any other applicable act",
+    "The organisation must be registered on the NGO‑Darpan portal of NITI Aayog",
+    "It must have at least three years of experience in activities similar in size and objectives to the proposed project",
+    "The organisation must implement the project itself and may not transfer the grant to another entity",
+    "It must agree to the terms and conditions and sign a Memorandum of Understanding with the Ministry",
+    "It must open an Aadhaar‑linked bank account in its name with an authorized scheduled bank",
+    "The organisation must possess PAN and TAN numbers and have filed Income Tax Returns for at least the last three years",
+    "It must be registered under section 12A of the Income Tax Act",
+    "The organisation must not be bankrupt or under investigation for economic offences by CBI, ED, CBIC or any other Union/State agency",
+    "It must have sufficient financial capacity to co‑finance the project’s core activities",
+    "Details of trustees, promoters, beneficial owners and their PAN and Aadhaar numbers must be submitted",
+    "The organisation must not be black‑listed by NITI Aayog, Union or State ministries",
+    "A minimum of 75 beneficiaries is required to start the project, except in exceptional cases where at least 25 ST students may be considered"
+  ],
+  "benefits_summary": "Grants are provided to NGOs for projects that improve education, health, livelihood and other welfare services for Scheduled Tribes, including emergency assistance during disasters.",
+  "documents_required": [
+    "Proof of registration under the Societies Registration Act, State Society Registration or Public Trust",
+    "NGO‑Darpan registration certificate",
+    "Aadhaar‑linked bank account details",
+    "PAN and TAN certificates",
+    "Income Tax Returns for the last three years",
+    "Section 12A registration certificate",
+    "Details of trustees/promoters/beneficial owners with PAN and Aadhaar",
+    "Signed Memorandum of Understanding with the Ministry"
+  ],
+  "application_link": "https://ngo.tribal.gov.in"
+}

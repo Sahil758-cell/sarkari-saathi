@@ -1,0 +1,37 @@
+{
+  "scheme_name": "KSCSTE Research Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must have a postgraduate (PG) degree from any university in Kerala.",
+    "Candidate must register for a Ph.D. programme in a university or research centre in Kerala.",
+    "Minimum PG marks: 70% (or equivalent CGPA) for General and OBC candidates; 65% for SC, ST and differently‑abled candidates.",
+    "Three consecutive chances to apply after qualifying the PG degree.",
+    "Must submit an acceptance letter within the time mentioned in the offer letter.",
+    "After university registration, a copy of the registration order, supervising teacher’s letter confirming no other fellowship, and a joining report must be sent to the Council.",
+    "If the fellowship is terminated, the Council must be informed through the Head of the Institution and the supervising teacher."
+  ],
+  "benefits_summary": "Monthly stipend of ₹31,000 for the first two years and ₹35,000 in the third year, plus an annual contingency grant of ₹20,000 and hostel accommodation (with HRA up to 10%).",
+  "documents_required": [
+    "Acceptance letter",
+    "University registration order (copy)",
+    "Letter from supervising teacher confirming the fellow is not receiving any other fellowship",
+    "Joining report indicating effective date of joining at the research centre"
+  ],
+  "application_link": null
+}

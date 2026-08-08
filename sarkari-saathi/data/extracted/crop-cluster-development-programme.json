@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Crop Cluster Development Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only Farmer Producer Organizations (FPOs) registered under the Companies Act in Haryana are eligible",
+    "FPO must have a minimum of 150 shareholders",
+    "FPO must have a financial strength of at least Rs. 10 lakh in its bank account",
+    "FPO should have at least 500 acres under horticulture crops (flexible based on project viability)",
+    "FPO must have a business plan with backward and forward linkages of its produce",
+    "Disputed FPOs or those not meeting the above criteria are ineligible"
+  ],
+  "benefits_summary": "Improves access to inputs, services, and markets, increases farmers' income and employment, and enhances horticultural productivity and area.",
+  "documents_required": [
+    "Completed project proposal form",
+    "Registration certificate of the FPO under the Companies Act",
+    "List of Directors and applicants of the FPO",
+    "Business plan with backward and forward linkages of the produce",
+    "Financial statements and bank account details of the FPO",
+    "Land ownership or lease documents",
+    "Any other documents specified in the application guidelines"
+  ],
+  "application_link": null
+}

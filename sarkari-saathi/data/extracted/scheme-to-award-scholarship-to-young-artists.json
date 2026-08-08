@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Scheme to Award Scholarship to Young Artists",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student studying in the final year of B.F.A. or M.F.A. at Government College of Fine Arts, Chennai or Government College of Fine Arts, Kumbakonam."
+  ],
+  "benefits_summary": "Scholarships of ₹3,000 for up to 10 final‑year B.F.A. students and ₹5,000 for top M.F.A. students at the Government Colleges of Fine Arts, Chennai and Kumbakonam.",
+  "documents_required": [
+    "Prescribed application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Ramai Awas (Gharkul) Scheme for SC & Nav-Buddha (Urban and Rural)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must have lived in Maharashtra for at least 15 years.",
+    "Applicant should own land.",
+    "Only one person in the family can receive the benefit.",
+    "Applicant must not be receiving benefits from any other government housing scheme.",
+    "Eligibility includes members of the Nav‑Buddha community."
+  ],
+  "benefits_summary": "Provides housing assistance of up to ₹1  lakh in rural areas, ₹1.5  lakh in municipal areas, and ₹2  lakh in municipal corporation areas, with beneficiary shares of 0 %, 7.5 %, and 10 % respectively.",
+  "documents_required": [
+    "Hard copy of the prescribed application form",
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

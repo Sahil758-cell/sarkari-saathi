@@ -1,0 +1,23 @@
+{
+  "scheme_name": "NPC Students Internship Program",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must not have applied for the internship earlier in the current financial year.",
+    "Applicant must be a student pursuing graduation or post‑graduation studies.",
+    "Internship is only open for candidates in the Information Technology (IT) domain.",
+    "The intern must provide their own laptop."
+  ],
+  "benefits_summary": "Interns receive a completion certificate and workspace with internet access, but no financial remuneration.",
+  "documents_required": [],
+  "application_link": null
+}

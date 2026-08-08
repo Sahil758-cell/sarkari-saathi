@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Shramashakthi Special Women's Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 350000,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be widowed, divorced, or unmarried",
+    "Applicant must belong to a religious minority community as defined in the Government Order",
+    "Family member should not be a State/Central Government employee",
+    "Applicant or family members should not have availed benefits under any other scheme (excluding the Arivu Scheme) of the KMDCL in the last 5 years"
+  ],
+  "benefits_summary": "Provides a total financial assistance of ₹50,000, comprising ₹25,000 loan and ₹25,000 subsidy.",
+  "documents_required": [
+    "passport-size photo",
+    "educational document",
+    "income certificate"
+  ],
+  "application_link": null
+}

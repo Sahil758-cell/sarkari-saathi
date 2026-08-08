@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scholarships to Students with Disabilities Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Student must have a disability of 40% or more as certified under the RPwD Act 2016",
+    "Family/guardian monthly income must not exceed ₹5,000",
+    "Student must have secured at least 40% marks in the previous annual examination"
+  ],
+  "benefits_summary": "Scholarship of ₹200 per month for classes 1‑8 and ₹300 per month for classes 9 and above for students with disabilities.",
+  "documents_required": [],
+  "application_link": null
+}

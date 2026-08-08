@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme (Punjab)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should not be receiving pension benefits under any social security scheme."
+  ],
+  "benefits_summary": "₹200 per month for ages 60‑79 and ₹500 per month for ages 80 and above.",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

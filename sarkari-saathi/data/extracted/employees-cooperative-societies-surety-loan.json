@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Employees Cooperative Societies Surety Loan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Member of an Employees Cooperative Society",
+    "Interested in availing Employees Cooperative Societies Surety loan"
+  ],
+  "benefits_summary": "Surety loans up to ₹1,50,000 at an interest rate of 14%.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

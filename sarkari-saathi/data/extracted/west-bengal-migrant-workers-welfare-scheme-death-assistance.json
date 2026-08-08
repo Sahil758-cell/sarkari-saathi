@@ -1,0 +1,24 @@
+{
+  "scheme_name": "West Bengal Migrant Workers’ Welfare Scheme: Death Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be ordinarily a worker employed or likely to be employed in any State/Union Territory other than West Bengal or outside India.",
+    "Beneficiary must be a nominee nominated by the registered migrant worker from his/her family.",
+    "The migrant worker must have died due to natural death or accidental death.",
+    "Registered migrant workers must renew their registration annually."
+  ],
+  "benefits_summary": "Up to ₹50,000 for natural death and up to ₹2,00,000 for accidental death.",
+  "documents_required": [],
+  "application_link": null
+}

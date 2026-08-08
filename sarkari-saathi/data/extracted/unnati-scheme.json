@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Unnati Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Startup must have an innovative tech-based idea/solution",
+    "Must be registered as a legal entity in Karnataka (e.g., Pvt Ltd, OPC, LLP, Partnership, Proprietorship)",
+    "At least one co‑founder must belong to SC or ST community or hold a substantial share",
+    "SC/ST co‑founder must remain with the business for at least one year after receiving benefits",
+    "Ownership terms must not be altered to the disadvantage of the SC/ST co‑founder",
+    "Total turnover since incorporation must be less than INR 50 crore",
+    "At least 50% of the workforce must be based in Karnataka",
+    "For technology‑based startups, age of company must be less than 4 years; for biotechnology, less than 7 years",
+    "Start‑ups under social impact must demonstrate benefits to Scheduled Caste community"
+  ],
+  "benefits_summary": "Provides up to Rs 50 lakh financial support to eligible SC/ST entrepreneurs for tech‑based startup development.",
+  "documents_required": [],
+  "application_link": "https://karnataka.gov.in"
+}

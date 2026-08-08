@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Jai Bhim Mukhyamantri Pratibha Vikas Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must have passed 10th and 12th standard (or be studying in class XII) from schools in Delhi.",
+    "Applicants must have secured a prescribed percentage of marks in the qualifying examinations for which coaching is provided.",
+    "Students must reside in Delhi.",
+    "Income and Caste certificates issued by the concerned District Magistrate must be submitted.",
+    "Beneficiaries must attend all classes; attendance loss of more than 15 days without valid reason leads to discontinuation of benefits.",
+    "Selection of students is done by the coaching institution based on academic criteria or merit.",
+    "A student can avail the scheme benefits for a maximum of two times across competitive examinations."
+  ],
+  "benefits_summary": "Eligible SC students receive up to 75% of the coaching fee (maximum ₹40,000 per candidate) and a monthly stipend of ₹2,500.",
+  "documents_required": [
+    "Income certificate",
+    "Caste certificate"
+  ],
+  "application_link": null
+}

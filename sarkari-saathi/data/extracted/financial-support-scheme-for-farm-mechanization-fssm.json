@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Support Scheme for Farm Mechanization (FSSM)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual farmer registered under the Krishak Bandhu (New) Scheme or belong to eligible groups such as SKUS, PACS, FPO, FPC, FIG, SHG, LAMPS approved by government institutions",
+    "Minimum cultivated land of 0.5 acre (RoR) is required for purchase of power tiller or solar photovoltaic water pumping system",
+    "Beneficiary or spouse cannot reapply for any FSSM scheme within four years of the last subsidy release",
+    "Scheme does not cover large machines such as tractors, rice transplanters above 4 rows, or combine harvesters"
+  ],
+  "benefits_summary": "Provides a subsidy of 50‑60% of the machinery price, up to a maximum of ₹3,00,000, for eligible farmers to purchase power‑operated farm equipment.",
+  "documents_required": [
+    "Application printout with acknowledgement receipt",
+    "Recent passport size photograph",
+    "Other prescribed self‑attested documents"
+  ],
+  "application_link": null
+}

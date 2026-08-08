@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Grant of Quality Certification Reimbursement of Charges",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Micro, Small or Medium Enterprise (MSME) operating in Tamil Nadu",
+    "Application must be submitted within 1 year from the date of certification"
+  ],
+  "benefits_summary": "Reimbursement of up to ₹2,00,000 for National Level Certification and up to ₹10,00,000 for International Level Certification.",
+  "documents_required": [],
+  "application_link": null
+}

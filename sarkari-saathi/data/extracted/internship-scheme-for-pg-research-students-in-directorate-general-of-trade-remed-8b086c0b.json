@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Internship Scheme For PG/Research Students In Directorate General Of Trade Remedies (DGTR)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Postgraduate Student or a Research Scholar",
+    "Applicant must be from a recognized University/Institute",
+    "Internship must be part of the course curriculum or undertaken as an additional assignment during annual vacations"
+  ],
+  "benefits_summary": "Certificate of Internship awarded upon successful completion (no financial aid or stipend provided).",
+  "documents_required": [
+    "prescribed proforma"
+  ],
+  "application_link": "General Administration Section Directorate General of Trade Remedies (DGTR) Ministry of Commerce Jeevan Tara Building, New Delhi, Delhi 110001"
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "National Action Plan for Skill Development of Persons with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": 15,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must have a disability of not less than 40% as defined under the Rights of Persons with Disabilities Act, 2016.",
+    "Applicant should not have undergone any other skill training course sponsored under the National Action Plan for Skill Development of PwDs during the one year preceding the last application date for the applied course.",
+    "Applicant must enroll in courses approved by NCVET and adhere to age, qualification, and disability type specified in the QP file."
+  ],
+  "benefits_summary": "Provides vocational skill training and mentorship for self‑employment to persons with disabilities through a network of training partners.",
+  "documents_required": [
+    "Photo"
+  ],
+  "application_link": null
+}

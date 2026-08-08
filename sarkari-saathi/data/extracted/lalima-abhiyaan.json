@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Lalima Abhiyaan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "School‑going girl",
+    "Adolescent girl",
+    "Pregnant woman",
+    "Lactating woman",
+    "Child in the age group of 6 months to 10 years",
+    "Woman of reproductive age group (19 to 49 years)"
+  ],
+  "benefits_summary": "Provides free iron‑folic‑acid tablets and nutrition awareness to combat anaemia among children, adolescent girls, pregnant and lactating women.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

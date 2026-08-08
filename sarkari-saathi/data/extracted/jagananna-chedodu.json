@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Jagananna Chedodu",
+  "occupation": [
+    "Tailor",
+    "Rajaka",
+    "Nayee Brahmin"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Total family annual income must be ≤ ₹2,50,000",
+    "Total family land holding must be wetland < 10 acres or dry land < 25 acres or combined wet + dry < 25 acres",
+    "No family member should be a government employee or government pensioner",
+    "Families of sanitary workers are exempted from eligibility criteria",
+    "Students must be admitted to recognized courses such as B.Tech, B.Pharmacy, ITI, Polytechnic, B.Ed, M.Tech, M.Pharmacy, MBA, or other degree/PG courses (PG courses only in government/university colleges)",
+    "Students must be enrolled in government, government‑aided, or private colleges affiliated with state universities/boards, including day‑scholar and hostel students",
+    "Applicant’s aggregate attendance must be at least 75%",
+    "No family member should own a four‑wheeler (taxi/tractor/auto are exempted)",
+    "Family should not own any property or own property less than 1500 sq ft of built‑up area in urban areas",
+    "No family member should be an income‑tax payee"
+  ],
+  "benefits_summary": "One‑time amount of ₹10,000 per year for five years (total ₹50,000) payable in installments for purchasing tools and equipment.",
+  "documents_required": [],
+  "application_link": null
+}

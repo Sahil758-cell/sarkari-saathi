@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Jute Raw Material Bank Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Agency and its functionaries must be bonafide Indian agencies and Indian citizens",
+    "Must be a registered Jute entrepreneur/manufacturer, exporter, merchant trader, NGO, cooperative society, federation, PSU/organization of Central/State Government or other firm engaged in JDP product identification and marketing for at least three years",
+    "Recognized agencies should have at least three years of experience in trading and promotion of Jute Diversified Products or similar schemes in the handloom, handicrafts, and textiles sector",
+    "Must have its own office with telephone/mobile connection, computer/laptop with email facilities",
+    "Must have at least 200 sq. ft. space for operating the JRMB",
+    "Must provide go‑down infrastructure, electricity, water and furniture at its own cost",
+    "Must maintain compulsory backward linkage with JRCPC beneficiaries for sustained supply of jute material"
+  ],
+  "benefits_summary": "Provides up to 30% financial support on sales value (maximum Rs 12 lakh per annum), including a 5% cash discount and transport cost reimbursement for eligible Jute Raw Material Banks.",
+  "documents_required": [
+    "Hard copy proposal in sealed cover with signatures of authorized persons"
+  ],
+  "application_link": null
+}

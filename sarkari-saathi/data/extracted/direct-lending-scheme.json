@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Direct Lending Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 100000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must not already be availing the benefits of the scheme."
+  ],
+  "benefits_summary": "Provides a loan with up to 50% subsidy (maximum ₹10,000) and interest rates of 5%–8% for up to 15 years repayment.",
+  "documents_required": [
+    "Application Form (Form‑I, Form‑II)",
+    "Passport‑sized photograph (signed across)",
+    "Self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

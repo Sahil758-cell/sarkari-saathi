@@ -1,0 +1,22 @@
+{
+  "scheme_name": "AGR-50 Scheme-Assistance To Purchase Tractors",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a permanent resident of Gujarat.",
+    "Beneficiary must purchase an empaneled tractor model from an authorized dealer as per the department’s empanelment list."
+  ],
+  "benefits_summary": "Provides 25% financial assistance (up to ₹45,000 for tractors up to 40 PTO HP and up to ₹60,000 for tractors between 40 and 60 PTO HP) for the purchase of empaneled tractors.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx"
+}

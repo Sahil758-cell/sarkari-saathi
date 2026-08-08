@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Financial Assistance for Education of Children of Beneficiary",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be registered under the Manipur Building and Other Construction Workers Welfare Board (MBOCWWB)",
+    "Worker must hold a valid labour card issued by MBOCWWB",
+    "Worker must be residing in a relief camp due to the violence",
+    "Eligibility limited to families affected by the 03.05.2023 Tribal Solidarity March",
+    "Worker must have engaged in building and construction work for at least 90 days in a given year",
+    "Student must be enrolled in Higher Secondary or equivalent, B.A./B.Sc/B.Com/Diploma, Post Graduate Degree/Diploma, Engineering or Medical Degree"
+  ],
+  "benefits_summary": "One-time assistance per child ranging from ₹5,000 for higher secondary up to ₹37,500 for engineering or medical degree courses.",
+  "documents_required": [],
+  "application_link": null
+}

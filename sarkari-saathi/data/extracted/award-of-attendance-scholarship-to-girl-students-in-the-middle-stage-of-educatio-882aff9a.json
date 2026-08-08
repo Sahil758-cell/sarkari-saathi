@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Award of Attendance Scholarship to Girl Students in the Middle Stage of Education",
+  "occupation": [
+    "Student"
+  ],
+  "gender": "female",
+  "age_min": 11,
+  "age_max": 14,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native of the Union Territory of Puducherry by birth or by continuous residence for at least five years",
+    "Applicant must be studying in a Government, Government Aided or Government‑recognized Private School in Puducherry",
+    "Applicant must not belong to the Scheduled Caste or Scheduled Tribes category",
+    "Applicant must have secured at least 97% attendance in the preceding year"
+  ],
+  "benefits_summary": "Scholarship of ₹200 per annum paid directly into the student’s Aadhaar‑linked bank account through Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "Prescribed application form (printed)",
+    "Passport‑sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": "Applicants must print the prescribed application form, fill in all mandatory fields, attach a passport‑sized photograph and required documents, submit the signed form to the Head of the Institution of their school, who then forwards the applications to the Directorate of School Education via Google Forms."
+}

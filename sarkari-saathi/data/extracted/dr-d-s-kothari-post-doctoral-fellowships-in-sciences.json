@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Dr. D.S. Kothari Post Doctoral Fellowships In Sciences",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must hold a doctorate degree in the relevant subject, preferably with published research work",
+    "Only Ph.D. awarded unemployed candidates are eligible",
+    "Upper age limit is 35 years, with age relaxation for SC, ST, OBC and women candidates as per Government of India norms"
+  ],
+  "benefits_summary": "Provides a monthly fellowship of Rs 43,800–46,500 for up to three years, along with annual contingency, HRA and hostel accommodation.",
+  "documents_required": [],
+  "application_link": "http://ugcdskpdf.unipune.ac.in/"
+}

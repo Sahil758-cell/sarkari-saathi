@@ -1,0 +1,24 @@
+{
+  "scheme_name": "AICTE - Grant For Augmenting Infrastructure In North Eastern Region",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institute must be located in the North East region of India.",
+    "Institute must have been in existence for at least five years."
+  ],
+  "benefits_summary": "Provides up to ₹15 lakh for water projects, ₹20 lakh for power/solar projects, and ₹5 lakh for internet connectivity to eligible technical institutes in North East India.",
+  "documents_required": [
+    "Application form (filled)",
+    "Signature and stamp of the Head of the Institute on each page of the application form",
+    "All essential supporting documents"
+  ],
+  "application_link": null
+}

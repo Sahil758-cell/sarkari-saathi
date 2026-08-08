@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must own or lease land in the identified plateau‑dominated districts.",
+    "Must construct a pond with a maximum of one acre and a minimum water area of 0.4‑acre (i.e., 0.5‑acre area).",
+    "Must install a concrete board on the pond, made of an iron sheet sized 4 ft × 3 ft, standing four feet at an iron angle, with the description written in paint."
+  ],
+  "benefits_summary": "Provides up to 80 % subsidy (up to ₹16.70 lakh per acre) payable in two installments: 60 % after pond construction and 40 % after installation of related units and purchase of inputs.",
+  "documents_required": [
+    "Affidavit form",
+    "Consent form"
+  ],
+  "application_link": null
+}

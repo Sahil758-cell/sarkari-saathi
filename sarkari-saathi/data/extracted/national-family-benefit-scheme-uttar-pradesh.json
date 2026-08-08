@@ -1,0 +1,24 @@
+{
+  "scheme_name": "National Family Benefit Scheme - Uttar Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The family must be living below the poverty line",
+    "Annual family income must not exceed Rs. 56,450 in urban areas or Rs. 46,080 in rural areas",
+    "The benefit is provided after the death of the only earning member of the family",
+    "The applicant must be the head of the family after the death of the earner"
+  ],
+  "benefits_summary": "A lump‑sum compensation of Rs. 30,000 is paid to the family of a deceased lead earner.",
+  "documents_required": [],
+  "application_link": null
+}

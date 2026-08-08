@@ -1,0 +1,30 @@
+{
+  "scheme_name": "The Inland Waterways Authority of India Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must be pursuing or have completed a Graduate or Post Graduate degree from a recognized university (national or international).",
+    "Graduates must have at least 75% marks in the 12th standard.",
+    "Post Graduate students must have obtained at least 60% marks in their graduation.",
+    "Research scholars must have scored at least 60% marks in their Post Graduate degree.",
+    "Interns must have their own laptops.",
+    "Interns must furnish a declaration of secrecy before reporting for the internship.",
+    "Interns are required to submit a report/paper on the allotted subject at the end of the internship.",
+    "Applicants must fill the application forms as prescribed in Annexure-A and enclose their CVs.",
+    "Applications must be sent to the Secretary, IWAI, A-13, Sector-1, Noida-201301, clearly indicating the area of interest."
+  ],
+  "benefits_summary": "Stipend of ₹10,000 per month for undergraduates and ₹20,000 per month for postgraduate/research scholars, along with an experience certificate upon successful completion.",
+  "documents_required": [
+    "CV",
+    "Declaration of secrecy"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Nirmaan Shramik Dirghayu Sahayata Yojana",
+  "occupation": [
+    "Building and other construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered with the labor board",
+    "For serious illness benefit, the worker must have been registered for at least three years"
+  ],
+  "benefits_summary": "One-time medical assistance up to ₹20,000 for accidents or serious illness, plus additional allowances for vision, dental, hearing, and wage reimbursement for hospitalization.",
+  "documents_required": [],
+  "application_link": null
+}

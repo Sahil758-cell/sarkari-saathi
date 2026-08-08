@@ -1,0 +1,41 @@
+{
+  "scheme_name": "Chief Minister's COVID-19 Affected Livelihood Support Scheme",
+  "occupation": [
+    "Street Vendor",
+    "Farmer (includes Agriculture, Fisheries, Horticulture, and Animal Husbandry)",
+    "Daily-Wage Worker and Labourer",
+    "Construction-Site Worker",
+    "Public Transport Driver (Auto, Winger, Bus, Rickshaw, etc)",
+    "School Van Driver",
+    "Shop Assistant",
+    "Artisan",
+    "Weaver",
+    "Performing Artist",
+    "Home-Based Business"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be domiciled in Manipur",
+    "Livelihood must have been adversely affected by the COVID-19 pandemic, leading to inability to maintain a basic minimum standard of living",
+    "Only one applicant per family may apply",
+    "Applicant must be the main bread earner of the family",
+    "Applicant must be employed in the informal sector",
+    "Applicant should be a Ration Card Holder, MGNREGA Card Holder, PM‑KISAN Beneficiary, CMHT/PMJAY Beneficiary, PMUY Beneficiary, PM SVANidhi Beneficiary, CMST/CMAT Beneficiary, PMAY (G) or PMAY (U) Beneficiary, SBM (G) or SBM (U) Beneficiary, Person in Vendor List of Municipalities or District Councils, or Person with a permit for public transport/school van in Municipalities or District Councils"
+  ],
+  "benefits_summary": "Direct cash transfer of ₹5,000 in two equal installments of ₹2,500 each to each identified family.",
+  "documents_required": [
+    "Self‑attested documents",
+    "Passport‑sized photograph"
+  ],
+  "application_link": "www.socialwelfare.nic.in"
+}

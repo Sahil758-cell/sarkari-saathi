@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Skill Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have secured admission in a course run by ITIs, Polytechnics, a school recognized by Central or State education Boards, a college affiliated to a recognized university, or training partners affiliated to NSDC/Sector Skill Councils/State Skill Mission/State Skill Corporation.",
+    "No collateral may be charged from the beneficiary."
+  ],
+  "benefits_summary": "Provides interest-subsidised loans ranging from ₹5,000 to ₹1,50,000 for NSQF‑aligned skill courses, with repayment periods of 3 to 7 years and no collateral required.",
+  "documents_required": [
+    "Proof of identity",
+    "Proof of address",
+    "Proof of income (of self or guardian, if available)"
+  ],
+  "application_link": "Register on the Vidya Kaushal portal"
+}

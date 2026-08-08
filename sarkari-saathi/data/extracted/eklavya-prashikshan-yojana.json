@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Eklavya Prashikshan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed 10th and 12th from any recognized school in Jharkhand or possess a local residence certificate of Jharkhand",
+    "Must know local customs, language, and culture",
+    "Must fulfill the eligibility criteria of the specific competitive examination for which coaching is sought",
+    "Applicant must not have received similar benefits from any other department (no dual benefit)",
+    "Benefit can be availed only once per student",
+    "Student must secure at least 75% attendance for the entire coaching period",
+    "Student must pass a screening test conducted by a government‑approved agency"
+  ],
+  "benefits_summary": "Free coaching by nationally reputed institutions in Jharkhand along with a monthly stipend of ₹2,500 per student.",
+  "documents_required": [],
+  "application_link": null
+}

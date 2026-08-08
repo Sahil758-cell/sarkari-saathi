@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Khadya Suraksha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Applicant must belong to Antyodaya, BPL, or Annapurna families",
+    "Applicant must have a ration card"
+  ],
+  "benefits_summary": "Antyodaya families receive 35 kg of wheat per family; other eligible families receive 5 kg per month at subsidized rates of ₹1 or ₹2 per kg.",
+  "documents_required": [
+    "Ration Card",
+    "Aadhaar Card",
+    "Bhamashah Card",
+    "Cast Certificate",
+    "BPL Card (If applicable)",
+    "Affidavit"
+  ],
+  "application_link": null
+}

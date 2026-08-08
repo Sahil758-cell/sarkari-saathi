@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Fishermen Accident Relief Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the legal heir of the deceased fisherman.",
+    "Deceased fisherman must have been an active fisherman from Gujarat.",
+    "Death must be due to death in Pakistan Jail, loss at sea, or accidental death while fishing at sea."
+  ],
+  "benefits_summary": "Provides a one‑time financial assistance of ₹4,00,000 for death in Pakistan jail and ₹2,00,000 for loss at sea or accidental death while fishing.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Diploma)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of not less than 40%.",
+    "Must be admitted to the first year of the Diploma level course or the second year through lateral entry in an AICTE‑approved institution."
+  ],
+  "benefits_summary": "Scholarship of ₹50,000 per year, up to 3 years for first‑year entrants and up to 2 years for lateral‑entry students.",
+  "documents_required": [
+    "Valid income certificate issued by State/UT Government"
+  ],
+  "application_link": "http://www.scholarships.gov.in/"
+}

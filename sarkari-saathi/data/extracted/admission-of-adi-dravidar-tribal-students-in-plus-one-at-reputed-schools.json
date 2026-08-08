@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Admission of Adi Dravidar/Tribal Students in Plus One at Reputed Schools",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be currently enrolled in school",
+    "Must have secured the highest marks in Class X from Government/Corporation/Municipal/Adi Dravidar and Tribal Welfare schools",
+    "Must be among the top 10 students selected from each district",
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal"
+  ],
+  "benefits_summary": "Free admission into reputed private schools for Plus One with tuition and boarding coverage up to ₹28,000 per year",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

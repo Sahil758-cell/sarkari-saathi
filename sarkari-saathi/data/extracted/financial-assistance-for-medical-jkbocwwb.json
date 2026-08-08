@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance for Medical (JKBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Jammu & Kashmir",
+    "Must have engaged in building or other construction work for at least 90 days during the preceding 12 months",
+    "Registration with the Board is renewed annually",
+    "Applicant must be a registered member of the Building and Other Construction Workers Welfare Board of Jammu & Kashmir",
+    "Applicant should be suffering from an injury, a disability, or a chronic disease"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹1,00,000 for injury, temporary or permanent disability, and chronic disease treatment.",
+  "documents_required": [
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

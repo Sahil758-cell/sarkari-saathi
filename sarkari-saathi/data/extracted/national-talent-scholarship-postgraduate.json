@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National Talent Scholarship Postgraduate",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must enroll in an approved course at an ICAR‑recognised Agricultural University located outside the student’s state of domicile.",
+    "Must be pursuing a master’s degree in an approved agricultural discipline.",
+    "Must maintain merit and good conduct as certified by the head of the college/university.",
+    "Must not be absent without prior permission nor participate in any agitation, strike, etc., during the scholarship period.",
+    "Must study on a full‑time basis and cannot take any job, even part‑time.",
+    "Must not accept any other scholarship during the postgraduate study.",
+    "Must not leave the course of study within one month of admission.",
+    "Must not change the initially allocated subject for which the scholarship was awarded."
+  ],
+  "benefits_summary": "₹3,000 per month scholarship for postgraduate (master’s) students; no contingency grant is paid.",
+  "documents_required": [],
+  "application_link": "https://icar.nta.ac.in"
+}

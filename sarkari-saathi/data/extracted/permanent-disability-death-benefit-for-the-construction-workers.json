@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Permanent Disability/ Death Benefit for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have served the Sikkim Building and Other Construction Workers Welfare Board for at least 90 days in a given year",
+    "The applicant must be a nominee or dependent of a registered worker who has died or is permanently disabled due to an accident during the course of employment"
+  ],
+  "benefits_summary": "Provides a ₹150,000 death benefit (and an equivalent permanent disability benefit) to eligible nominees or dependents.",
+  "documents_required": [],
+  "application_link": null
+}

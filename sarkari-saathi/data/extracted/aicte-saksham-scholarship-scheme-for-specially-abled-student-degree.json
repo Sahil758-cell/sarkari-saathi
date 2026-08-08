@@ -1,0 +1,23 @@
+{
+  "scheme_name": "AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Degree)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of not less than 40% is required",
+    "Candidate must be admitted to the first year of a degree program or the second year through lateral entry in an AICTE‑approved institution",
+    "A valid income certificate issued by the State/UT Government must be enclosed"
+  ],
+  "benefits_summary": "A scholarship of ₹50,000 per annum, payable for up to 4 years for first‑year entrants and up to 3 years for lateral‑entry students.",
+  "documents_required": [
+    "Valid income certificate issued by State/UT Government"
+  ],
+  "application_link": "http://www.scholarships.gov.in/"
+}

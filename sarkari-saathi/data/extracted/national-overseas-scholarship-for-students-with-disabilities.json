@@ -1,0 +1,21 @@
+{
+  "scheme_name": "National Overseas Scholarship For Students With Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a regular full‑time student.",
+    "Applicant must have an admission or unconditional offer for Master’s or Ph.D. programmes abroad in institutions/universities accredited by the host country’s government or authorized body.",
+    "Disability percentage must be at least 40%."
+  ],
+  "benefits_summary": "Grants comprehensive financial support including annual maintenance, contingency, equipment, tuition, visa, medical insurance, travel allowances, and air passage for eligible disabled students pursuing Masters or PhD abroad.",
+  "documents_required": [],
+  "application_link": "http://disabilityaffairs.gov.in/upload/uploadfiles/files/Appl-Form%20-NOS(1).pdf"
+}

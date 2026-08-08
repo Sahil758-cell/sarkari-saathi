@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Chief Ministergi Shotharabasingi Tengbang",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must possess a Disability Certificate issued by competent authority"
+  ],
+  "benefits_summary": "Free travel for persons with intellectual disabilities and 50% travel concession for other specified disabilities on Manipur State Transport Services.",
+  "documents_required": [],
+  "application_link": "http://www.socialwelfare.nic.in"
+}

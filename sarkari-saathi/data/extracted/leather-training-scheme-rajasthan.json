@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Leather Training Scheme - Rajasthan",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be literate.",
+    "Selection Committee may grant up to 10 years of age relaxation on a case‑by‑case basis.",
+    "Preference is given to trainees who have passed the 8th standard and are more educated."
+  ],
+  "benefits_summary": "Two‑month skill development training with a stipend of ₹500 per month and tool kits worth up to ₹1,000 provided to each trainee.",
+  "documents_required": [],
+  "application_link": null
+}

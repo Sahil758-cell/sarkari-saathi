@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme to Provide Grant in Aid to Cultural Organization (Maintenance/ Regular Grants)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be registered under the Society’s Registration Act, 1860 or the Indian Trust Act.",
+    "Preference is given to institutions involved in cultural education such as training in music, dance, drama, or fine arts."
+  ],
+  "benefits_summary": "Grant-in-aid reimbursing up to 80% of the institution's expenditures, subject to a ceiling ranging from ₹10,000 to ₹3,00,000 depending on the group.",
+  "documents_required": [],
+  "application_link": null
+}

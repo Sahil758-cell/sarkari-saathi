@@ -1,0 +1,21 @@
+{
+  "scheme_name": "AICTE- Technical University Joint Training Programs for Librarians",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility is limited to AICTE approved institutions."
+  ],
+  "benefits_summary": "AICTE and the technical university each provide up to ₹1,50,000, sharing a total of up to ₹3,00,000 per training program.",
+  "documents_required": [
+    "Mandate Form"
+  ],
+  "application_link": "http://portal.aicte-india.org/partnerportal_enu/start.swe"
+}

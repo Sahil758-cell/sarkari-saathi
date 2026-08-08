@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Maanki Munda Scholarship for Female Students",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in B.Tech programme at BIT Sindri in the 2nd, 3rd, or 4th year (regular or lateral entry)",
+    "Applicant must not be receiving or have applied for any other scholarship from any source (state or central government)",
+    "Must have obtained at least 50% marks in the previous year without any back paper",
+    "Must have passed 10th and 12th examinations from schools based in Jharkhand state",
+    "For lateral entry candidates, must have passed class 10 and a diploma or equivalent course from schools/institutes based in Jharkhand state"
+  ],
+  "benefits_summary": "₹15,000 per year for diploma courses and ₹30,000 per year for B.Tech/B.E. courses.",
+  "documents_required": [],
+  "application_link": null
+}

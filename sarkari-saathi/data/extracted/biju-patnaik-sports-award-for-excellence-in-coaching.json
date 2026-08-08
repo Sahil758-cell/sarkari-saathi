@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Biju Patnaik Sports Award for Excellence in Coaching",
+  "occupation": [
+    "Coach"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have devoted career to coaching in any major sports discipline and have coached sportspersons achieving excellence at national and international levels",
+    "Must not have been convicted of any criminal offence",
+    "Award can be conferred only once in the recipient’s lifetime",
+    "Award may be given posthumously to the next of kin of the awardee",
+    "Award may be cancelled and recovered if obtained by fraudulent means"
+  ],
+  "benefits_summary": "Cash award of ₹1,00,000 along with a statue, scroll of honour, blazer with tie, and travel allowances (TA and DA) for a Grade ‘A’ officer.",
+  "documents_required": [
+    "Application form",
+    "Supporting documents"
+  ],
+  "application_link": null
+}

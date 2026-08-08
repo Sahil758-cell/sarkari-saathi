@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Early Intervention Centre for Infants and Young Children with Hearing Impairment",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary child must have hearing impairment.",
+    "The beneficiary child must not have any other disabilities."
+  ],
+  "benefits_summary": "Infants and young children with hearing impairment receive training to develop speech and language skills.",
+  "documents_required": [],
+  "application_link": null
+}

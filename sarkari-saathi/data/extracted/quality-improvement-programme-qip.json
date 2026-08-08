@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Quality Improvement Programme (QIP)",
+  "occupation": [
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Full-time regular/permanent faculty members of AICTE‑approved Polytechnic (Diploma) institutes with at least one year of teaching experience and a bachelor's degree for Master's programs.",
+    "Full-time regular/permanent faculty members of AICTE‑approved Degree Level institutes with at least three years of teaching experience and a master's degree for Ph.D. programs.",
+    "Applicants must have a valid AICTE Faculty ID.",
+    "Eligibility criteria of the respective QIP centre must be fulfilled.",
+    "All eligibility is assessed as of the last date of application submission."
+  ],
+  "benefits_summary": "Scholarships of ₹9,000 per month for ME/M.Tech and ₹15,000 per month for Ph.D., along with annual contingency and pre‑Ph.D. allowances.",
+  "documents_required": [
+    "Valid AICTE Faculty ID"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Incentive For The Intra Caste Marriage within Scheduled Tribe Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both partners must belong to different sub‑castes within the Scheduled Tribe community",
+    "Marriage must have taken place on or after 1 April 2018",
+    "Application must be submitted within one year of the marriage"
+  ],
+  "benefits_summary": "An incentive of ₹2,00,000 is provided to eligible married couples.",
+  "documents_required": [],
+  "application_link": null
+}

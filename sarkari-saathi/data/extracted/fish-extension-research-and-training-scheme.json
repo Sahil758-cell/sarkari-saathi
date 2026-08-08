@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Fish Extension, Research, and Training Scheme",
+  "occupation": [
+    "registered fish farmer",
+    "fishery extension worker",
+    "related entity in the fisheries sector"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Prior experience or relevant qualifications in the fisheries field",
+    "Valid bank account for fund disbursement",
+    "From a region identified under the scheme by the Department of Fisheries",
+    "Preference for applicants from rural and underdeveloped areas"
+  ],
+  "benefits_summary": "Provides financial subsidies for training, fish seed production, fish farming, research, equipment incentives, identity cards, and public awareness support.",
+  "documents_required": [],
+  "application_link": null
+}

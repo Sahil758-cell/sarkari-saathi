@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Pension Scheme for the Journalists",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": 58,
+  "age_max": null,
+  "max_annual_income": 20000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a retired journalist.",
+    "Must have worked full-time for 20 years in one of the posts: teacher, assistant teacher, reporter, photographer, proofreader, or news correspondent.",
+    "If terminally ill or physically disabled, 10 years of journalism experience is sufficient.",
+    "Annual family income must not exceed ₹20,000.",
+    "Gratuity and pension from previous companies must not exceed ₹30,000.",
+    "Income in any year of employment must not exceed ₹50,000.",
+    "Two completed application forms must be submitted.",
+    "A receipt or acknowledgment from the department is required."
+  ],
+  "benefits_summary": "Monthly pension of ₹4,000.",
+  "documents_required": [],
+  "application_link": null
+}

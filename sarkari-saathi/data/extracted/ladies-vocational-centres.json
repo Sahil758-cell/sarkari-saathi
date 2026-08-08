@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Ladies Vocational Centres",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 14,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a Middle pass for craft trades (cutting, tailoring, leather‑work, machine embroidery, croshia work)",
+    "Must have a 10+2 pass for stenography",
+    "Training duration is 11 months",
+    "Intake capacity is limited to 75 trainees at the Chand Nagar Jammu centre and 25 trainees at each Social Welfare Centre"
+  ],
+  "benefits_summary": "Provides 11‑month vocational training in various trades with a stipend of ₹100 per month.",
+  "documents_required": [],
+  "application_link": null
+}

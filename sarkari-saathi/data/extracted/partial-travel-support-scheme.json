@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Partial Travel Support Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have at least an M.Sc., B.E., B.Tech, MBBS or equivalent degree from a recognized university/institute.",
+    "Paper must be accepted for presentation, with an acceptance letter from the organizer.",
+    "Must not have received travel support under PATSS in the previous three years.",
+    "The conference/workshop must have an international character; annual meetings of professional societies are not eligible.",
+    "Must have published at least one paper in a refereed journal.",
+    "Application must be forwarded by the Head of the Institution.",
+    "Application must be submitted at least one month before the conference.",
+    "Selected scholars must provide one reprint of the presented paper after publication."
+  ],
+  "benefits_summary": "Provides partial travel cost support up to Rs 60,000 (or 60 % of expenses) for international travel and up to Rs 10,000 (or 60 % of expenses) for domestic travel.",
+  "documents_required": [
+    "Completed application form and bio-data",
+    "Degree certificate (proof of eligibility)",
+    "Date of birth certificate",
+    "Letter from another national or international agency committing to bear partial travel costs",
+    "Detailed letter of invitation from the conference organizers",
+    "Abstract of the paper",
+    "Certificate from the concerned airline indicating the cost of return airfare",
+    "Copy of full paper",
+    "Schedule of the conference",
+    "Acceptance letter from the organizer"
+  ],
+  "application_link": null
+}

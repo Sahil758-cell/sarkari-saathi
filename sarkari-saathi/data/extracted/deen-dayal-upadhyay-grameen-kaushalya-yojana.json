@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Deen Dayal Upadhyay Grameen Kaushalya Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 15,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": "rural",
+  "other_conditions": [
+    "Must belong to poor households identified through Participatory Identification of Poor (PIP) or be listed in the Below Poverty Line (BPL) households",
+    "Youth from MGNREGA worker households with at least 15 days of work in the previous financial year are eligible",
+    "Youth from a household with an RSBY card where the youth’s details are mentioned",
+    "Youth from households issued Antyodaya Anna Yojana or BPL PDS cards",
+    "Youth from a household where a family member is a member of an SHG under NRLM",
+    "Youth from a household covered under auto‑inclusion parameters as per SECC 2011",
+    "Women, PVTGs, Persons with Disabilities, Transgender and other special groups have an upper age limit of 45 years (general age limit is 15‑35 years)"
+  ],
+  "benefits_summary": "Provides skill training and placement assistance to rural poor youth, along with post‑placement support and incentives for higher‑pay jobs.",
+  "documents_required": [],
+  "application_link": null
+}

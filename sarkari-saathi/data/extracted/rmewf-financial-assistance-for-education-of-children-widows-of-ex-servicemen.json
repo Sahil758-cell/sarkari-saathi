@@ -1,0 +1,28 @@
+{
+  "scheme_name": "RMEWF-Financial Assistance For Education Of Children & Widows Of Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Ex‑Serviceman, widow or orphan dependent.",
+    "Applicant must hold rank Havildar or equivalent and below.",
+    "Scheme is applicable for schooling classes 1‑12 and undergraduate degree courses; widows may also apply for a two‑year post‑graduate degree.",
+    "Applicant must not be receiving education allowance or similar benefit from the State or employer.",
+    "Eligibility is limited to the first two children, with specific provisions for twins allowing up to three children in certain cases.",
+    "The child or widow must successfully complete the course.",
+    "In case of death of a child, a death certificate must be uploaded."
+  ],
+  "benefits_summary": "Financial assistance of Rs 1000 per month per child (up to two children) and Rs 1000 for widows pursuing a two‑year post‑graduate course.",
+  "documents_required": [
+    "Death certificate",
+    "Supporting documents duly attested by the respective Zila Sainik Welfare Officer (ZSWO)"
+  ],
+  "application_link": "https://ksb.gov.in/"
+}

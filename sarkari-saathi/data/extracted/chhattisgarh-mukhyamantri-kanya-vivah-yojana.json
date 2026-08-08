@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Chhattisgarh Mukhyamantri Kanya Vivah Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Maximum of two girls per BPL cardholder family",
+    "Widows, orphans, and destitute girls are eligible"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹50,000 per daughter, including ₹35,000 via bank draft, up to ₹7,000 as material assistance, and up to ₹8,000 for the mass marriage ceremony.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Short Term Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an individual from the Scheduled Tribe (ST) community of Goa",
+    "The applicant may reapply only after clearing any earlier loans taken under the scheme"
+  ],
+  "benefits_summary": "Short Term Loan of up to ₹1,00,000 as an advance for business, education or medical purposes.",
+  "documents_required": [
+    "passport-sized photograph",
+    "application form"
+  ],
+  "application_link": null
+}

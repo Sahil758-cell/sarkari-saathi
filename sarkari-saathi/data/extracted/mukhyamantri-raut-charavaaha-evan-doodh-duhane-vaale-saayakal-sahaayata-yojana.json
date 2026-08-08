@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Raut, Charavaaha Evan Doodh Duhane Vaale Saayakal Sahaayata Yojana",
+  "occupation": [
+    "unorganized worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered as an unorganized worker in any district of the state",
+    "Applicants receiving benefits from any other parallel scheme of the State Government are not eligible"
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 per person for a bicycle.",
+  "documents_required": [],
+  "application_link": null
+}

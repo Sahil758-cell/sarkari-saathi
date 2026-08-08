@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Agriculture Research Stations and Laboratories Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides adaptive research assistance at farmers' fields along with training on soil management, soil health cards, and soil surveys.",
+  "documents_required": [],
+  "application_link": null
+}

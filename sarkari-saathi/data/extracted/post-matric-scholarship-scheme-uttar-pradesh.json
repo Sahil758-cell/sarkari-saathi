@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Post-matric Scholarship Scheme- Uttar Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Uttar Pradesh and studying in Uttar Pradesh",
+    "Must be enrolled in a government‑aided or recognized state educational institute (subject to budget availability)"
+  ],
+  "benefits_summary": "Provides monthly scholarships ranging from Rs. 230 to Rs. 1,200 depending on the course group of the student.",
+  "documents_required": [],
+  "application_link": null
+}

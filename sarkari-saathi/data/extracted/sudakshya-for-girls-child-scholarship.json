@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Sudakshya For Girls Child Scholarship",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "ST",
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be pursuing ITI / I.T.C., Polytechnic or Diploma courses."
+  ],
+  "benefits_summary": "Provides reimbursement of admission and hostel fees, monthly maintenance allowances (up to ₹1500 for hostellers and ₹500 for day scholars), and additional allowances for apprenticeship training and post‑training employment.",
+  "documents_required": [],
+  "application_link": null
+}

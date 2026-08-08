@@ -1,0 +1,45 @@
+{
+  "scheme_name": "Entrepreneur Support Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Micro, Small, or Medium Enterprise engaged in manufacturing activities",
+    "Must be set up in the State of Kerala",
+    "Must be an independent legal entity",
+    "Must have filed Entrepreneurs Memorandum Part I/II with the respective General Manager, District Industries Centre",
+    "Must pay the requisite application fee of ₹1105 per unit",
+    "Must provide true information and allow verification/inspection of plant, machinery and other assets",
+    "Must execute the required legal agreement online (and on paper if required) and furnish a signed hard copy",
+    "Must use the assistance only for the agreed purposes and operate the unit as stipulated",
+    "Must submit annual documents (balance sheets, valid local‑body licence, electricity bills, performance particulars) each year till 31 December of the next financial year",
+    "Enterprises belonging to listed priority sectors may receive additional assistance"
+  ],
+  "benefits_summary": "Provides a subsidy of up to ₹40 lakh (15‑25% of capital investment) plus additional 10% incentives for priority‑sector enterprises, certain districts, and new‑technology adoption.",
+  "documents_required": [
+    "Entrepreneurs Memorandum Part I/II",
+    "Prescribed application form",
+    "Project Report",
+    "Original copies of any important documents as required",
+    "Legal agreement (online execution and hard‑copy)",
+    "Balance sheets",
+    "Valid licence from local body",
+    "Electricity bills",
+    "Performance particulars (prescribed proforma)",
+    "Copies of invoices of machinery (for technology support)",
+    "Proof of payment to research institutions",
+    "Valuation certificate of Mechanical Engineer or Chartered Engineer",
+    "Certificate from research institution confirming new technology",
+    "Application fee receipt"
+  ],
+  "application_link": null
+}

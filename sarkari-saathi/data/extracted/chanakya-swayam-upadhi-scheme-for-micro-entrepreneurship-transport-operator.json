@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Chanakya Swayam Upadhi Scheme for Micro Entrepreneurship - Transport Operator",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": 50,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Belongs to the Brahmin community",
+    "Resident of Andhra Pradesh",
+    "Member of the AP Brahmin Welfare Cooperative Credit Society",
+    "Age between 21 and 50 years as of 01.04.2022",
+    "Has passed the 10th class",
+    "Annual family income does not exceed ₹1,00,000",
+    "Does not own any three/four-wheeler in the applicant’s name",
+    "Holds a valid permanent driving license",
+    "Holds a valid badge or other driver identity proof",
+    "Has not availed any financial assistance under other government schemes for the same purpose",
+    "Family members who have previously received assistance under Chanakya Swayam Upadhi Schemes are not eligible"
+  ],
+  "benefits_summary": "Provides up to ₹2,00,000 subsidy (25% of vehicle cost) and a term loan for purchasing a four‑wheeler to operate as a transport operator.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature",
+    "Certificate Details"
+  ],
+  "application_link": "https://www.andhrabrahmin.ap.gov.in/schemes/schemes.aspx#"
+}

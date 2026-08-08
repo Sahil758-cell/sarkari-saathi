@@ -1,0 +1,27 @@
+{
+  "scheme_name": "AICTE-ISTE INDUCTION/REFRESHER PROGRAMME SCHEME",
+  "occupation": [
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible institutions must be AICTE approved institutions or university departments imparting technical education.",
+    "Coordinator must be a full‑time regular faculty with adequate teaching and research experience and publications.",
+    "Maximum of two proposals per institute per year.",
+    "The institute should have organized at least one self‑financing programme in the last 12 months.",
+    "A processing fee of ₹1,500 per proposal must be paid through RTGS/NEF."
+  ],
+  "benefits_summary": "Funding up to ₹3,00,000 is provided to the institution/university for the induction or refresher programme.",
+  "documents_required": [
+    "Mandate Form"
+  ],
+  "application_link": "http://portal.aicte-india.org/partnerportal_enu/start.swe"
+}

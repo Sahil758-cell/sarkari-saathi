@@ -1,0 +1,22 @@
+{
+  "scheme_name": "State Senior Citizens Home",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have no supporter or relative (i.e., lack family support)",
+    "Applicant must be homeless"
+  ],
+  "benefits_summary": "Provides a safe shelter with recreational and wellness programs for homeless elderly residents.",
+  "documents_required": [],
+  "application_link": null
+}

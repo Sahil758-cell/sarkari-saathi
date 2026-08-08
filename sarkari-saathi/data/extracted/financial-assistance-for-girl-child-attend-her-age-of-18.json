@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Financial Assistance for Girl Child Attend Her Age of 18",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker in Maharashtra",
+    "The worker or their spouse must have undergone contraceptive surgery after the birth of one female child"
+  ],
+  "benefits_summary": "Fixed deposit of ₹1,00,000 for one female child until she turns 18 years old.",
+  "documents_required": [],
+  "application_link": null
+}

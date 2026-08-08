@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Bharati Scheme for Education - 6th Class to 10th Class",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student and his/her parents must belong to the Brahmin community",
+    "The student must be studying in Andhra Pradesh",
+    "The parents/guardians must reside in Andhra Pradesh",
+    "Orphan, differently‑abled (physically handicapped) or children of single parents are given priority",
+    "The student must be enrolled in the Praja Sadhikara Survey (PSS)",
+    "The student must not have received any amount under any other government scheme for the same purpose, except those benefiting from the Archaka Welfare Trust"
+  ],
+  "benefits_summary": "Financial assistance of ₹7,000 per student for classes 6th to 10th.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook"
+  ],
+  "application_link": null
+}

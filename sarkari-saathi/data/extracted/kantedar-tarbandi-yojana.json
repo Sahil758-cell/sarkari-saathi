@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Kantedar Tarbandi Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must own at least 1.5 hectares of land at a single location (individual farmers)",
+    "In Scheduled Tribe areas, minimum land requirement is 0.5 hectares at one location",
+    "Group applications require a collective ownership of at least 5 hectares by 10 or more farmers",
+    "The group's land boundaries must lie within the specified perimeter"
+  ],
+  "benefits_summary": "Subsidy of up to 60% (capped ₹48,000) for small/marginal farmers, 50% (capped ₹40,000) for other farmers, and 70% (capped ₹56,000 per farmer) for group applications, covering up to 400 m of fencing per farmer",
+  "documents_required": [
+    "Aadhaar (Jan Aadhaar) number",
+    "Bhamashah ID",
+    "Bank details",
+    "Disability details",
+    "Pensioner details",
+    "Verification details",
+    "Other supporting documents"
+  ],
+  "application_link": null
+}

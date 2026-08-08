@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Subsidy for the Purchase of Fiber-reinforced Plastic Cattamaran/ Vallam/ Wooden Nava/ Marine Plywood Canoe With Nets",
+  "occupation": [
+    "fishermen",
+    "fish trade",
+    "prospective entrepreneur"
+  ],
+  "gender": "any",
+  "age_min": 24,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be enrolled as a member of the Fishermen Co‑operative Society",
+    "Applicant must not have received Old Age Pension from the department",
+    "Applicant must not be employed in any Government/Government Undertaking/Fishermen Co‑operative Society",
+    "Applicant must have no dues payable to the Department or Fishermen Co‑operative Societies",
+    "Applicant must have resided continuously in Puducherry for at least five years",
+    "Male applicants must have at least five years of sea‑fishing experience in mechanized or traditional crafts",
+    "Female applicants must have at least five years of fish‑trade experience certified by the Village Panchayat",
+    "Applicant must be ready to deposit 50 % of the cost of the craft and net with the appropriate Federation/Marketing Union/Fishermen Co‑operative Society"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 50 % of the cost, with a maximum of ₹5,000 to ₹1,00,000 per unit depending on the type of craft.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

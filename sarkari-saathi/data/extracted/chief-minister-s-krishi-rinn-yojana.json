@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Chief Minister's Krishi Rinn Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be cultivating short‑term crops in Arunachal Pradesh.",
+    "Must hold a Kisan Credit Card or obtain a crop production loan from commercial banks, APRB or APSCAB Ltd.",
+    "Must have a good repayment track record and repay the loan within one year.",
+    "Loan amount limited to Rs 3 lakh.",
+    "Open to small, marginal, and large farmers.",
+    "No interest relief for perennial food crops or plantation crops."
+  ],
+  "benefits_summary": "Zero‑interest crop loans up to ₹3 lakh with a 4% interest subvention (plus a 3% relief for timely repayment) for eligible farmers.",
+  "documents_required": [
+    "Certificate of cultivated area and crops issued by the Circle Officer",
+    "Land Holding certificate from the concerned CO/EAC/BDO/SDO/ADC/DC office",
+    "Identification proof",
+    "Land ownership documents",
+    "Income certificates"
+  ],
+  "application_link": null
+}

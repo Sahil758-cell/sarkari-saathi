@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Assistance of Concentrate Feed After Parturition (General Category)",
+  "occupation": [
+    "livestock owner"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The animal must have recently calved (given birth).",
+    "Eligibility category noted in source: General Category"
+  ],
+  "benefits_summary": "Provides 150 kg of BIS Type II concentrate feed free of cost each year to eligible livestock owners.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

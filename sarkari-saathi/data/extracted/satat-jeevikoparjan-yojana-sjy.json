@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Satat Jeevikoparjan Yojana (SJY)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must belong to an ultra‑poor household identified through participatory processes.",
+    "The applicant should not have significant alternative livelihood sources."
+  ],
+  "benefits_summary": "Provides up to ₹1,00,000 in asset transfers, monthly livelihood assistance of ₹1,000 for seven months, insurance coverage, and 24 months of mentorship and capacity‑building support.",
+  "documents_required": [],
+  "application_link": null
+}

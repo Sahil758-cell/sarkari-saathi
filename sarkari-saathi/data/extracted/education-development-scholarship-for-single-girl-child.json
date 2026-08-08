@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Education Development Scholarship for Single Girl Child",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the only girl child of her parents",
+    "The girl student must be studying in Class 11 or 12 at a recognized private school",
+    "The tuition fees of the school must be less than ₹1,500 per month",
+    "The girl student must have passed the previous class",
+    "If the parents are government employees, a certificate from the head of the office confirming the applicant is the only child is required",
+    "If the parents are not government employees, an affidavit from a notary confirming the applicant is the only child is required"
+  ],
+  "benefits_summary": "A scholarship of ₹5,000 per year is given to eligible single girl child students, deposited directly into the student's bank account.",
+  "documents_required": [
+    "Certificate from head of office confirming the applicant is the only child",
+    "Attested copy of the family list in the ration card",
+    "Affidavit from a notary confirming the applicant is the only child",
+    "Attested copy of the ration card"
+  ],
+  "application_link": "https://shikshaportal.mp.gov.in/"
+}

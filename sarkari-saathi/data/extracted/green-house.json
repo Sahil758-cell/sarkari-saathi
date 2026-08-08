@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Green House",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have agricultural land ownership and irrigation sources."
+  ],
+  "benefits_summary": "Provides a subsidy of up to 50% for general‑category farmers and up to 70% for SC/ST and small/marginal farmers, with an additional 25% grant for ST areas and small/marginal farmers.",
+  "documents_required": [
+    "Affidavit",
+    "Tri‑party agreement form"
+  ],
+  "application_link": null
+}

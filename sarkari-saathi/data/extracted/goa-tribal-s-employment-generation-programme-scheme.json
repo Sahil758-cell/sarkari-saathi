@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Goa Tribal's Employment Generation Programme Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed",
+    "Applicant must have passed Class 4th (relaxable for deserving cases)",
+    "Applicant must be a member of the Tribal Community notified by the Government of Goa",
+    "Applicant must not be a defaulter to any bank or financial institution",
+    "Applicant must have been a permanent resident of Goa for at least 15 years",
+    "Compulsory entrepreneurship training of up to 7 days within six months from sanction",
+    "Eligible activities are Micro and Small Manufacturing Enterprises, Service Enterprises, and Trade Enterprises",
+    "Non‑eligible activities include farming activities, tobacco products, and red‑category industries"
+  ],
+  "benefits_summary": "Provides a 40% subsidy on loan (up to 95% of project cost) with a 4% interest rate and up to 7 days compulsory entrepreneurship training.",
+  "documents_required": [
+    "Application form (proforma)",
+    "Passport‑sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

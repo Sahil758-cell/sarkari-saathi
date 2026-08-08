@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scheme For Study In Abroad",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be among the first three girl students at the state level studying in class 10th government schools under the Rajasthan Board of Secondary Education.",
+    "The student must secure one of the first three positions in the state‑level merit list.",
+    "Consent/approval from the father or guardian is required.",
+    "The student must enrol in class 11 in a school located in Jaipur to prepare for the SAT examination.",
+    "If consent is not obtained, the selection will proceed to the next eligible girl in the merit list."
+  ],
+  "benefits_summary": "Provides up to ₹10 lakh per year for all study expenses, along with coaching, SAT registration, application fee, accommodation and yearly economy airfare for a 4‑year graduate programme abroad.",
+  "documents_required": [
+    "Application form",
+    "Consent letter"
+  ],
+  "application_link": null
+}

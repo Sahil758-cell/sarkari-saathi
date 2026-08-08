@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Pratyasha Scheme- West Bengal",
+  "occupation": [
+    "Police personnel"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a police personnel of West Bengal Police or Kolkata Police in ranks: Deputy Superintendent (Non‑WBPS)/Assistant Commissioner, Inspector, Sub‑Inspector/Sergeant, Assistant Sub‑Inspector, Constable, or equivalent ranks.",
+    "Total pay (Basic Pay + Grade Pay) determines eligibility: pay ≥ ₹18,000 can apply for “A” category flats (≈1123 sq ft); pay ≥ ₹15,000 can apply for “B” category flats (≈926 sq ft); pay ≥ ₹8,840 can apply for “C” category flats (≈794 sq ft).",
+    "Each police personnel may submit only one application; other family members cannot apply separately.",
+    "For joint applications, only an immediate family member (spouse, parent, or child) may be the second applicant.",
+    "Only one flat will be allotted to the selected applicant."
+  ],
+  "benefits_summary": "Construction of various types of flats for all West Bengal police personnel.",
+  "documents_required": [
+    "Application form (filled and signed)",
+    "Demand Draft/Pay Order/Banker’s Cheque",
+    "General Terms & Conditions documents"
+  ],
+  "application_link": "https://kolkatapolice.gov.in/images/PratyashaProject.pdf"
+}

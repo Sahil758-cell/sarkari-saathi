@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Dr. D.S. Kothari Research Grant For Newly Recruited Faculty Members",
+  "occupation": [
+    "Assistant Professor"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Faculty must be regularly appointed and working in universities, deemed‑to‑be universities, centrally or state funded institutions, or institutions of national importance that have valid NAAC accreditation",
+    "Applicant must be a newly appointed Assistant Professor on a permanent post",
+    "Applicant must hold a Ph.D. degree and have at least five research papers published in internationally reputed journals",
+    "Application must be submitted within two years of joining the post"
+  ],
+  "benefits_summary": "Provides a two‑year research grant of ₹10,00,000 to newly recruited Assistant Professors (132 slots), covering equipment, consumables, travel and related research expenses.",
+  "documents_required": [
+    "Scanned passport‑size photograph (jpg, ≤1 MB)",
+    "Scanned signature (jpg, ≤1 MB)"
+  ],
+  "application_link": "https://frg.ugc.ac.in/"
+}

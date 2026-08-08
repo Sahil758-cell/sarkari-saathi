@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Rajiv Gandhi Scholarship For Academic Excellence",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 34,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide resident of Rajasthan",
+    "Applicant must be less than 35 years of age on 1 July 2023",
+    "Must have an admission or offer letter from a university ranked in the top 150 QS World Universities as of 1 April 2023",
+    "All disciplines are eligible for UG, PG, PhD and Post‑Doc courses",
+    "Maximum 7.5% seats (37 seats) are reserved for Engineering, Architecture, Medical and Dentistry courses at UG level",
+    "Priority is given to female students with 30% of seats earmarked"
+  ],
+  "benefits_summary": "Provides up to ₹50 lakh tuition coverage plus living expense assistance (₹12 lakh for families earning <8 lakh, ₹6 lakh for families earning 8–25 lakh) and a one‑time advance of ₹3 lakh.",
+  "documents_required": [
+    "Domicile Certificate",
+    "Admission Letter/Offer Letter",
+    "Fee Details letters/Documents issued by Foreign University"
+  ],
+  "application_link": null
+}

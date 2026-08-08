@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Mukhyamantri Divyangjan Sashaktikaran Chhatra Yojana",
+  "occupation": [
+    "student",
+    "employee"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a locomotor-disabled individual",
+    "Minimum disability requirement is 60 percent",
+    "Applicant must reside at least 3 kilometers away from their place of education or work"
+  ],
+  "benefits_summary": "Free distribution of battery-operated tricycles to eligible beneficiaries.",
+  "documents_required": [
+    "Photo",
+    "Signature",
+    "Birth Certificate",
+    "Physically Handicapped Certificate",
+    "Residential Certificate",
+    "Income Certificate",
+    "Identity Card (College / University Campus / Place of Employment)"
+  ],
+  "application_link": null
+}

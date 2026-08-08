@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Chief Minister Floriculture Mission",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Beneficiaries must belong to the small and marginal economic category.",
+    "Preference is given to women self‑help groups and unemployed youths.",
+    "Beneficiaries must own land at their premises or have long‑term lease of rented land.",
+    "Each beneficiary can receive only one unit of up to 200 sqm.",
+    "Selection is done by the District Level Beneficiaries Selection Committee through mass‑media publicity.",
+    "The committee monitors the program and reports progress fortnightly."
+  ],
+  "benefits_summary": "Government provides planting material, shade net, and a garden tool kit, while beneficiaries construct the structure and cover preparation costs, with technical support from officials.",
+  "documents_required": [],
+  "application_link": null
+}

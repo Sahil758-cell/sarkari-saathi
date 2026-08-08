@@ -1,0 +1,29 @@
+{
+  "scheme_name": "KALIA Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be the child of a beneficiary under the KALIA scheme (Support to Cultivators or Livelihood Support to Landless Agricultural Households)",
+    "Parent must be verified as eligible under KALIA at the Chief District Agriculture Officer (CDAO) level",
+    "Student must obtain admission in a Government institution of Odisha on a merit basis",
+    "Only one scholarship per student is allowed; the student must not be receiving any other scholarship simultaneously",
+    "Scholarship can be availed for only one professional/technical course",
+    "Only verified online applications are considered; physical applications are not accepted"
+  ],
+  "benefits_summary": "Tuition, annual, hostel and other fees are paid directly to the student via DBT, along with monthly hostel mess allowances of ₹1200 for degree courses and ₹1000 for diploma/ITI courses.",
+  "documents_required": [
+    "High School certificate/10th Pass certificate",
+    "Aadhaar number"
+  ],
+  "application_link": null
+}

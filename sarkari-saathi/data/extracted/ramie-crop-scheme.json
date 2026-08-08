@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Ramie Crop Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a bonafide farmer engaged in agriculture.",
+    "Beneficiary selection is on a first‑come‑first‑served basis among bonafide farmers with sufficient cultivable land."
+  ],
+  "benefits_summary": "Provides quality planting materials, organic manure, bio‑pesticides at subsidised rates, training, and planting, degumming and decorticating machines to eligible farmers.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

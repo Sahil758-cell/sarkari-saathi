@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance for Education of Children of Registered Construction Worker",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parents or guardians must be registered construction workers under the Building & Other Construction Workers’ Welfare Board",
+    "The construction worker must have a continuous registration for at least six months",
+    "The registered construction workers must have no dues payable to the Board",
+    "Only two children of the same parents/guardians are eligible for scholarships",
+    "Scholarships are awarded for all recognized Pre‑Matric and Post‑Matric courses except courses of six months or less",
+    "Students studying the same stage of education in different subjects are not eligible",
+    "A student who has completed one professional stream and is pursuing another is not eligible; only one professional stream is allowed",
+    "The student must maintain at least 50% annual attendance in the class",
+    "If a candidate fails to pass a particular year, they will not receive further scholarship until the year is passed",
+    "The scholarship is tenable for the prescribed duration of the course",
+    "The application must be submitted within six months of the next academic year",
+    "For Post‑Matric scholarships, the student must possess the relevant qualification from a recognized institution"
+  ],
+  "benefits_summary": "Provides annual financial assistance to children of registered construction workers, ranging from ₹1,800 for lower classes up to ₹20,000 for professional courses.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Payroll Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The scheme is applicable to industrial units operating in the Garment, Apparel & Made‑ups, and Technical Textile sectors (including Composite Units).",
+    "Workers must be domiciled in Gujarat and be registered under the EPF scheme.",
+    "The industrial unit must submit its application within one year from the Date of Commercial Production (DoCP)."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹5,000 per female worker and ₹4,000 per male worker per month for Garment/ Apparel/ Made‑ups (including Composite Units), and up to ₹3,000 per female worker and ₹2,000 per male worker per month for Technical Textile (including Composite Units).",
+  "documents_required": [],
+  "application_link": null
+}

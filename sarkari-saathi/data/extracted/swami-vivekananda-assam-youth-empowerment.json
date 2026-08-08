@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Swami Vivekananda Assam Youth Empowerment",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have at least Class VII level education.",
+    "Applicant must possess relevant skills, experience or knowledge to undertake income‑generating activities.",
+    "Preference is given to applicants who have completed Skill Development Training.",
+    "Applicant must not be a defaulter of any loan.",
+    "Applicants who were beneficiaries of the PMEGP scheme in the last five years are ineligible."
+  ],
+  "benefits_summary": "Provides seed funding up to Rs 1 lakh for new entrepreneurs and up to Rs 2 lakh for existing entrepreneurs, with subsidies covering up to 20% of the loan amount.",
+  "documents_required": [],
+  "application_link": null
+}

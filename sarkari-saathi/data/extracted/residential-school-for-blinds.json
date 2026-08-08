@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Residential School For Blinds",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": 21,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India",
+    "Must be a Person with Disability (total or partial absence of sight)",
+    "Must be a permanent resident of Jammu & Kashmir"
+  ],
+  "benefits_summary": "Free education, boarding, lodging, clothing and a monthly pocket money of ₹500, along with vocational training and music lessons.",
+  "documents_required": [
+    "Passport-sized photograph (signed)",
+    "Self-attested mandatory documents"
+  ],
+  "application_link": null
+}

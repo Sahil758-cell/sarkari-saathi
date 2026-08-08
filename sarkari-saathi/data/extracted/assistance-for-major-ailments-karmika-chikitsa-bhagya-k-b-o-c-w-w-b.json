@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Assistance For Major Ailments (Karmika Chikitsa Bhagya) (K.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in building and construction work for at least 90 days in a given year.",
+    "The worker must be a registered construction worker under the Karnataka Building and Other Construction Workers Welfare Board.",
+    "Application must be submitted within 6 months of the hospitalisation commencement date.",
+    "Registration must be renewed every 3 years, with a 1‑year grace period after expiry."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹2,00,000 for treatment of specified major ailments.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Krushy Aranya Protsaha Yojane (kapy)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have Pahani of the land where planting is being proposed",
+    "Registration must be completed before the end of May (before the rainy season)",
+    "Incentive payment is not available for certain tree species such as Eucalyptus, Acacia, Silver Oak (if planted in coffee estate), Casuarina, Cassia siamea, Gliricidia, Sesbania, Erythrina, Rubber, Subabul, Coconut, Arecanut, Orange, all types of citrus species and grafted mango"
+  ],
+  "benefits_summary": "Provides subsidized seedlings and monetary incentives to farmers for planting and nurturing trees, promoting increased forest cover.",
+  "documents_required": [
+    "Copy of Aadhaar Card",
+    "Passport-sized photograph of the applicant",
+    "Pahani of the land where planting is being proposed",
+    "Hand-sketch of the land",
+    "Details of seedlings (species, number of seedlings, size of poly-bags, etc.)",
+    "Details of the applicant's bank account"
+  ],
+  "application_link": null
+}

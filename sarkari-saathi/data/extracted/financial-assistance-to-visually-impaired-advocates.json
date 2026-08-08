@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance To Visually Impaired Advocates",
+  "occupation": [
+    "Advocate"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native and resident of Kerala",
+    "Applicant must be a visually impaired Advocate",
+    "Applicant must be practicing in any one or more Courts in Kerala"
+  ],
+  "benefits_summary": "An ex‑gratia non‑recurring grant of ₹3500 for books and provisional suits, plus a monthly reader's allowance of ₹5000 for ten years.",
+  "documents_required": [],
+  "application_link": null
+}

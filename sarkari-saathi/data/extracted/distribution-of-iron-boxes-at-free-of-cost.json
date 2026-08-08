@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Distribution of Iron Boxes at Free of Cost",
+  "occupation": [
+    "washing work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to Backward Classes (BC), Most Backward Classes (MBC), or Denotified Communities (DNC)",
+    "Must be engaged in washing work",
+    "Annual income should not exceed ₹40,000 in rural areas and ₹60,000 in urban areas"
+  ],
+  "benefits_summary": "Free provision of iron boxes to eligible individuals.",
+  "documents_required": [
+    "application form",
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

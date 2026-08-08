@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Lease Rental Rebate Scheme for Goan Diaspora",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should be a new or existing unit",
+    "Applicant should have operations in Goa",
+    "Unit must be one of the following legal forms: Proprietorship Firm, Private Limited Company (incorporated under the Companies Act, 2013), Public Limited Company (incorporated under the Companies Act, 2013), Registered Partnership Firm (incorporated under the Indian Partnership Act, 1932), Limited Liability Partnership (incorporated under the Limited Liability Partnership Act, 2008)",
+    "Bank accounts of the unit and/or its partners/directors should be linked to Aadhaar",
+    "Unit should be operational for at least one year prior to the date of application",
+    "Lease rental rebate is available only if the unit has operated from the specific office space for more than one year",
+    "Company/firm should be registered in Goa",
+    "CEO/Head or majority stakeholder should be a member of the Goan Diaspora",
+    "Company/firm must hire a minimum of 15 employees with at least 60% of them being of Goan origin",
+    "Employees must be on the company’s rolls for a minimum period of one year",
+    "Units will be evaluated at the end of the fiscal year to verify continued eligibility for the subsidy"
+  ],
+  "benefits_summary": "Up to 100% lease‑rental reimbursement for the first six months and up to ₹35 per sq ft (or 80% of rent, whichever is lower) for up to two years, with additional incentives based on the proportion of Goan‑origin employees.",
+  "documents_required": [],
+  "application_link": null
+}

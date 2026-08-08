@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Tuber Crops Potato, Tapioca, Colocasia",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide farmer engaged in agriculture",
+    "Own or leased land of at least 0.2 hectares",
+    "Benefits allocated on a first‑come‑first‑serve basis"
+  ],
+  "benefits_summary": "Supply of HYV seeds, pesticides and sprayers to farmers at a 50% subsidy to boost potato production.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

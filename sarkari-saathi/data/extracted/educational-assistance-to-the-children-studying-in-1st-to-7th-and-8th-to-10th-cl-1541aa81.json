@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Educational Assistance to the Children Studying in 1st to 7th and 8th to 10th Class",
+  "occupation": [
+    "construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be engaged in building or other construction work",
+    "Worker must be registered under the Maharashtra Building & Other Construction Workers Welfare Board",
+    "Children or the registered male worker's wife must be enrolled in any grade from Class 1st to 10th",
+    "Only two children or a registered male worker's wife are entitled to the scholarship"
+  ],
+  "benefits_summary": "Provides ₹2,500 per child for classes 1‑7 and ₹5,000 per child for classes 8‑10.",
+  "documents_required": [],
+  "application_link": null
+}

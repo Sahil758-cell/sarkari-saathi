@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Assistance For Purchase of Aids/Appliances",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Resident of UT, Chandigarh for more than 3 years",
+    "Disability must be at least 40%"
+  ],
+  "benefits_summary": "Provides up to ₹40,000 (100% of cost) for purchase of artificial limbs, aids, or appliances.",
+  "documents_required": [],
+  "application_link": null
+}

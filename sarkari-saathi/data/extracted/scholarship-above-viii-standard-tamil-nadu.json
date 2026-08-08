@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scholarship (Above VIII Standard) - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a student",
+    "Beneficiary must be a differently abled person",
+    "Beneficiary must be studying in government-recognized schools, colleges or training centers",
+    "Beneficiary must have obtained not less than 40% marks in the previous qualifying examination",
+    "Beneficiary must be enrolled in one of the following courses: 9th to 12th Standard, Degree Courses, Postgraduate, Medical, Engineering, Vocational, or Other Professional Courses"
+  ],
+  "benefits_summary": "Provides annual scholarship of ₹4,000 for 9th‑12th Standard students, ₹6,000 for degree courses, and ₹7,000 for postgraduate and professional courses.",
+  "documents_required": [],
+  "application_link": null
+}

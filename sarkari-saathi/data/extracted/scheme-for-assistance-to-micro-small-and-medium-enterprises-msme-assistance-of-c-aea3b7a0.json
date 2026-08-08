@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance of Capital Investment Subsidy (Manufacturing Sector)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small or Medium enterprise",
+    "The enterprise must be in the manufacturing sector",
+    "The term loan must be sanctioned by a recognized Bank/Financial Institution (excluding NBFCs)",
+    "The enterprise must apply within one year of loan disbursement or before commercial production starts",
+    "The enterprise must remain operational for at least 7 years post‑subsidy approval",
+    "The enterprise must comply with pollution control measures",
+    "Only one type of investment (Forward Integration, Backward Integration, Diversification, or Expansion) will be eligible for subsidy"
+  ],
+  "benefits_summary": "Provides a capital investment subsidy of 10‑25% of the term loan amount, up to ₹35 lakh, based on category and location.",
+  "documents_required": [],
+  "application_link": null
+}

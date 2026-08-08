@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Chief Ministergi Artistesinggi Tengbang (CMAT) – Artiste’s Pension",
+  "occupation": [
+    "Artist"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of the State of Manipur",
+    "Applicant must be an artist",
+    "Applicant must be 60 years or above as of 1st April of the current financial year",
+    "Applicant must not be employed in any public or private undertaking",
+    "Category A applicants must be a National or State awardee such as Padma Awardee, Sangeet Natak Akademi, Sahitya Akademi, Lalit Kala Akademi, Manipur State Kala Akademi, Manipur State Film Development Society or National Award winners in film",
+    "Category B applicants must have made a substantial contribution to the preservation and promotion of arts, be a well‑known artiste recognized by a competent government authority or recommended by a reputed registered organization",
+    "Applicants in indigent circumstances will be given preference",
+    "Dependent spouses of artistes who are already receiving pension and medical benefits under CMAT are eligible for financial/medical assistance"
+  ],
+  "benefits_summary": "Provides a monthly pension of up to ₹4,000 for Category A awardees and ₹2,500 for Category B non‑awardees.",
+  "documents_required": [],
+  "application_link": null
+}

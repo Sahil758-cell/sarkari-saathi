@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered with the board and regularly deposit contributions",
+    "Loan amount can be used only for the applicant's own business work and cannot be used for purchase of shop, plot, vehicle, or household goods",
+    "Applicant must submit a certificate of intention to repay interest to the financial institution every year",
+    "Scheme is applicable only on the loan taken by one of the registered beneficiary's wife or husband at a time",
+    "If any information provided in the application is found to be false, the beneficiary must deposit the entire sanctioned assistance amount along with interest in lump sum"
+  ],
+  "benefits_summary": "The scheme reimburses interest on business loans up to ₹5,00,000.",
+  "documents_required": [
+    "Certificate of intention to repay interest"
+  ],
+  "application_link": null
+}

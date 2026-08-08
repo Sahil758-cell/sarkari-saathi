@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Adi Dravidar and Tribal Welfare Department-Incentive/Award of Prizes",
+  "occupation": [
+    "Student"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must have secured the highest marks in the 10th or 12th standard examinations within the district.",
+    "One prize is awarded to a boy and one to a girl per district.",
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal",
+    "Eligibility category noted in source: Adi Dravidar (converted to Christianity)"
+  ],
+  "benefits_summary": "Cash prizes of up to ₹3,000 are awarded to top‑scoring students in 10th and 12th standards.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

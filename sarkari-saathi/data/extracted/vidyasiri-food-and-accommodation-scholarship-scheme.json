@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Vidyasiri food And Accommodation Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "EWS"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a citizen of India",
+    "Student must be a permanent resident of Karnataka",
+    "Student must belong to backward classes listed by the Government of India or the State Government",
+    "Student must be pursuing post‑matric courses in government, local, aided, or recognized private institutions affiliated with statutory universities in Karnataka",
+    "Student must not have secured admission in any departmental or government‑funded student hostel",
+    "Student must link their Aadhaar number to their bank account",
+    "Student’s attendance must be at least 75% as verified by the college principal"
+  ],
+  "benefits_summary": "Monthly stipend of Rs.1,500 for 10 months (total Rs.15,000 per year) to support food and accommodation expenses.",
+  "documents_required": [
+    "Aadhaar card",
+    "Bank account details",
+    "Caste certificate",
+    "Income certificate",
+    "Previous year’s marks card"
+  ],
+  "application_link": null
+}

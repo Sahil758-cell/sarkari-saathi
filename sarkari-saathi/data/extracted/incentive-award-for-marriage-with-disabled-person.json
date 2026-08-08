@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Incentive Award For Marriage With Disabled Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Manipur",
+    "Applicant must be of legal marriage age",
+    "Applicant must marry a Person with Disability who is of legal marriage age",
+    "Girl’s age must be at least 18 years and not more than 45 years at the time of marriage",
+    "Disability percentage must be 40% or above",
+    "Applicant should not be an income taxpayer",
+    "Marriage must be registered with the Registrar of Marriage and take place in Manipur",
+    "Both parties must be living together at the time of application",
+    "Neither party has a spouse living at the time of marriage",
+    "Neither party is incapable of giving valid consent due to unsoundness of mind, mental disorder, or recurrent attacks of insanity or epilepsy",
+    "Parties are not within prohibited degrees of relationship unless custom permits",
+    "Neither party is an idiot or lunatic",
+    "If divorce occurs within 3 to 5 years from receipt of first installment, the non‑disabled spouse must refund 50% of the incentive amount"
+  ],
+  "benefits_summary": "Cash incentive ranging from ₹15,000 to ₹35,000 depending on the disability status of the bride and groom.",
+  "documents_required": [
+    "self‑attested documents",
+    "passport sized photograph"
+  ],
+  "application_link": "Step 1: The application form can be downloaded from the Department’s website www.socialwelfare.nic.in or collected from the District Social Welfare Offices, Office of CDPOs. Step 2: Fill in the mandatory fields of the Application Form, attach the supporting (self‑attested) documents and the passport sized photograph. Step 3: Submit the form in the Office of the District Social Welfare Officer concerned. Step 4: The name of the selected beneficiaries will be made available on the Department's website or displayed on the notice board of the Directorate, Social Welfare/ District Social Welfare Offices."
+}

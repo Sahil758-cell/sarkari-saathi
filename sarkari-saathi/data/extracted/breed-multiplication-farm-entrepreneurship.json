@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Breed Multiplication Farm Entrepreneurship",
+  "occupation": [
+    "entrepreneur-aggregator",
+    "private individual",
+    "SHG",
+    "FPO",
+    "FCO",
+    "JLG",
+    "Section 8 company"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have their registered office in India",
+    "Applicant must have appropriate experience in breeding or rearing dairy animals",
+    "Applicant must own or lease at least 5 acres of land (ownership/lease deed required)",
+    "Applicant must arrange procurement of feed and fodder for the farm",
+    "Applicant must establish a breed multiplication farm with at least 200 milch cows or buffalo"
+  ],
+  "benefits_summary": "Provides up to 50 % capital subsidy (capped at Rs 2 crore) for construction of cattle sheds, equipment, and elite bull procurement to set up breed multiplication farms.",
+  "documents_required": [],
+  "application_link": "http://tenders.nddb.coop/sitepages/tenders.aspx"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Potency Development Plan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of 40% or more",
+    "Applicant must possess a Disability Certificate or a UDID Card",
+    "Applicant must be a member of a BPL family or have a recommendation from the Collector or Sub‑Divisional Officer (Revenue)",
+    "Monthly income of the applicant’s parents/guardian should be less than ₹8,000"
+  ],
+  "benefits_summary": "Provides artificial limbs/assistive devices worth up to ₹6,900 to eligible persons with disabilities.",
+  "documents_required": [
+    "Disability Certificate",
+    "UDID Card"
+  ],
+  "application_link": null
+}

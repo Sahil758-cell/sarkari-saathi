@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Vanchit Ikai Samooh Aur Vargon Ko Aarthik Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC",
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a member of Backward Classes as notified by the Central or State Government (OBC eligibility).",
+    "Must be an OBC Antyodaya Anna Yojana (AAY) cardholder or an OBC individual facing three or more deprivations according to SECC‑2011 records.",
+    "Must be involved in agricultural activities and covered under the PM KISAN scheme.",
+    "Self‑Help Groups must be registered with NRLM/NULM/NABARD and have a credit history of more than two years.",
+    "Must be a Self‑Help Group recognized by NSFDC and registered with NRLM/NULM/NABARD (SC eligibility).",
+    "Must belong to a Scheduled Caste as listed by the State or Central Government.",
+    "Must possess a valid Annual Income Certificate issued by the competent State authority.",
+    "Must be a Scheduled Caste AAY cardholder or an individual facing three or more deprivations according to SECC‑2011."
+  ],
+  "benefits_summary": "Provides interest subvention of up to 5% per annum on loans up to ₹4 lakhs for SHGs and ₹2 lakhs for individuals, transferred directly to the borrower’s account.",
+  "documents_required": [
+    "Valid Annual Income Certificate",
+    "Prescribed application form for VISVAS Scheme"
+  ],
+  "application_link": "https://nsfdc.nic.in/channel-patrners/scas"
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Academic Education (JKBOCWWB)",
+  "occupation": [
+    "Building/ Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in any building or other construction work for at least 90 days during the preceding 12 months.",
+    "The applicant’s registration must be renewed annually.",
+    "Parent(s) must be registered members with active membership in the Jammu & Kashmir Building and Other Construction Workers Welfare Board.",
+    "The child must be a regular student and attend regularly."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹15,000 per student, with amounts varying by education level (₹4,500 for classes 9‑10, ₹6,000 for classes 11‑12, ₹10,000 for undergraduate, ₹15,000 for postgraduate).",
+  "documents_required": [
+    "ID proof",
+    "relevant certificates"
+  ],
+  "application_link": null
+}

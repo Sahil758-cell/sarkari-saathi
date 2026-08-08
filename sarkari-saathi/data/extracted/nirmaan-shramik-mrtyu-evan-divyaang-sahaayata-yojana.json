@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Nirmaan Shramik Mrtyu Evan Divyaang Sahaayata Yojana",
+  "occupation": [
+    "construction workers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a construction worker aged between 18 and 60 years.",
+    "Must be registered as a beneficiary under Section 12 of the Building and Other Construction Workers (Regulation of Employment and Service Conditions) Act, 1996.",
+    "Death must not be caused by suicide, consumption of drugs or substances, criminal act, intentional physical violence, or riots.",
+    "Benefit is payable only on the death of the registered worker, not on the death of family members.",
+    "Beneficiaries already receiving assistance under the Financial Assistance and Rehabilitation Assistance Scheme for construction workers suffering from silicosis are ineligible."
+  ],
+  "benefits_summary": "Provides Rs 1 Lakhs on normal death, Rs 5 Lakhs on death at work site, and Rs 2.5 Lakhs for permanent disability at work site.",
+  "documents_required": [
+    "Labor registration card",
+    "Daughter's Aadhaar card",
+    "Daughter's bank passbook photocopy",
+    "Age Certificate",
+    "Class 10th marksheet"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Free Supply of Text Books",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be from Nursery to Class 12th",
+    "Student must be enrolled in a Government or Aided School in Delhi",
+    "Student must attend classes regularly according to school norms"
+  ],
+  "benefits_summary": "Cash subsidy of ₹550‑₹830 per annum for textbooks, plus an additional ₹30 per student for geometry boxes, disbursed directly to the student/parent bank account or via school distribution.",
+  "documents_required": [],
+  "application_link": null
+}

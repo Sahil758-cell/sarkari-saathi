@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Green Passage Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The child must be without biological or adoptive parents, or have lost both parents, or have lost a single bread‑earning parent, or be residing in a Child Care Institution, under foster care, or under the care of a guardian or any fit person/surviving parent.",
+    "The student must be pursuing higher education (minimum one‑year after Class‑12) in any government or non‑government college or university."
+  ],
+  "benefits_summary": "All education‑related fees are exempted and eligible students receive free accommodation and food.",
+  "documents_required": [
+    "Certificate issued by the District Child Protection Officer (DCPO)",
+    "Recommendation letter from the Child Welfare Committee (CWC)",
+    "Income certificate from the Tahasildar",
+    "Specially Cared Child Certificate / I‑Card (for children of COVID‑19 victims)",
+    "Annexure‑I: Application for availing benefits under Green Passage Scheme",
+    "Annexure‑II: Recommendation by Child Welfare Committee",
+    "Annexure‑III: Certificate to avail benefits under Green Passage Scheme"
+  ],
+  "application_link": null
+}

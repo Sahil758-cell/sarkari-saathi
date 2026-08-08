@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Special Jobs to PwDs - Clerical Assistant",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Lakshadweep"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "minimum 40% disability",
+    "physically capable of performing clerical work",
+    "knowledge of typewriting/computers",
+    "passed SSLC or a higher qualification"
+  ],
+  "benefits_summary": "Employed as Clerical Assistant in District Panchayat offices with a monthly salary of ₹11,000 for an 89‑day rotation.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Sant Ravidaas Shiksha Protsaahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Construction worker must be registered with the Building and Other Construction Workers Welfare Board and have active membership",
+    "The worker must have completed at least one year (365 days) of membership after registration",
+    "Child must have Aadhaar certification",
+    "Child must be enrolled in an educational institution recognized by a government‑established education board or university",
+    "Benefits are payable to a maximum of two children per registered construction worker",
+    "Bicycle subsidy is provided after the child passes class 9, 10, 11, or 12 and enrolls in the next class"
+  ],
+  "benefits_summary": "Provides lump‑sum scholarships ranging from ₹2,000 to ₹1,00,000 and a one‑time bicycle subsidy for children of registered construction workers.",
+  "documents_required": [
+    "Aadhaar of child"
+  ],
+  "application_link": null
+}

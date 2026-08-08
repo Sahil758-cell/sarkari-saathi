@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Nischay Swayam Sahayata Bhatta Yojna",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 20,
+  "age_max": 25,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed and not currently studying, seeking employment",
+    "Must have passed 12th (inter) from a government‑recognized institution in Bihar and have no higher education",
+    "Must be a permanent resident of the district in Bihar where the application is submitted",
+    "Must not have received any allowance, scholarship, student credit card, education loan or any other assistance from any source",
+    "Must not be employed (contract, permanent or temporary) or self‑employed",
+    "Must undergo compulsory training in language communication and basic computer knowledge; allowance for the last 5 months will be withheld until the training certificate is surrendered",
+    "Eligibility ends immediately upon obtaining any form of employment or self‑employment, and allowance payments will stop accordingly"
+  ],
+  "benefits_summary": "Provides a self‑help allowance of Rs. 1000 per month for a maximum period of two years.",
+  "documents_required": [],
+  "application_link": null
+}

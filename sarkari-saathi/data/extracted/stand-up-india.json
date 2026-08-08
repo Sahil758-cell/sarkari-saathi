@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Stand-Up India",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be for a greenfield enterprise.",
+    "Applicant must not be in default to any bank or financial institution.",
+    "For non‑individual enterprises, at least 51% shareholding must be held by an SC/ST or woman entrepreneur."
+  ],
+  "benefits_summary": "Provides composite loans of ₹10 Lakhs to ₹1 Crore, along with a RuPay debit card and hand‑holding support through SIDBI’s portal.",
+  "documents_required": [],
+  "application_link": "https://www.standupmitra.in/Login/Register"
+}

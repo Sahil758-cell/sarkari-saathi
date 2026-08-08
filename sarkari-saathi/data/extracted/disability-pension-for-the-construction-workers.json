@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Disability Pension for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Delhi",
+    "Applicant must be a registered Building/Construction Worker of the Delhi Building and Other Construction Workers Welfare Board",
+    "Applicant must have served the Board for at least 90 days in a given year",
+    "Applicant must be permanently disabled due to paralysis, leprosy, tuberculosis, accident, etc."
+  ],
+  "benefits_summary": "Provides a disability pension of ₹3,000 per month to eligible permanently disabled construction workers.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Photograph",
+    "Applicant’s Video",
+    "Affidavit of the Applicant"
+  ],
+  "application_link": null
+}

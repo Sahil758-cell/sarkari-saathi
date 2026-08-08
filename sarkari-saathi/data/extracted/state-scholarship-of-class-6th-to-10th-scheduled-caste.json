@@ -1,0 +1,27 @@
+{
+  "scheme_name": "State Scholarship of Class 6th to 10th (Scheduled Caste)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must be enrolled in classes 6th to 10th in a recognized educational institution.",
+    "The application must be submitted before 31st October each year."
+  ],
+  "benefits_summary": "Financial assistance of ₹200 per year for boys and ₹600 per year for girls.",
+  "documents_required": [
+    "prescribed application form",
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

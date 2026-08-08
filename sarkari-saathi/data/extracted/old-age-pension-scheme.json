@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Old Age Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "If any son or grandson of the beneficiary is over 20 years old but living below the poverty line, the beneficiary will not lose the pension.",
+    "Senior citizens not belonging to a selected BPL family are also eligible for the full pension amount provided by the State Government."
+  ],
+  "benefits_summary": "Monthly pension of ₹1,500.",
+  "documents_required": [],
+  "application_link": null
+}

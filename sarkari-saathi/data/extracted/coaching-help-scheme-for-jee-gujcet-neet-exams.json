@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Coaching Help Scheme for JEE-GUJCET-NEET Exams",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to a non‑reserved category",
+    "Applicant must have obtained 70% or more marks in Class 10th/11th/12th",
+    "Applicant must be from Science stream",
+    "Applicant must be pursuing coaching for JEE, GUJCET, or NEET",
+    "Coaching institute must have at least 3 years of experience"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹20,000 per year per student, or actual coaching fee whichever is lower.",
+  "documents_required": [
+    "certificates",
+    "mark sheets"
+  ],
+  "application_link": null
+}

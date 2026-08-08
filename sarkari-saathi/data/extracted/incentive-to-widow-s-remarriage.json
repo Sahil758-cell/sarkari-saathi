@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Incentive to Widow's Remarriage",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a widow",
+    "Applicant must not be carrying a child",
+    "Applicant must be native of the Union Territory of Puducherry by birth or by continuous residence of at least 5 years",
+    "Bridegroom must be a bachelor or a widower",
+    "Bride must be at least 18 years old and bridegroom at least 21 years old"
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 provided as a National Savings Certificate.",
+  "documents_required": [],
+  "application_link": null
+}

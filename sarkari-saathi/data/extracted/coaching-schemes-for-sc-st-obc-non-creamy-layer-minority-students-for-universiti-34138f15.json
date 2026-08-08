@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Coaching Schemes For Sc/st/obc (non-creamy Layer) & Minority Students For Universities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a university or college covered under Section 2(f) of the UGC Act and eligible for central assistance under Section 12(B).",
+    "Institution must have a sufficient number of Scheduled Caste, Scheduled Tribe and Minority Community students to be considered for financial assistance.",
+    "Percentage of OBC (non‑creamy layer) and poor general candidates may be increased up to 40 % if enough SC/ST/Minority students are not available."
+  ],
+  "benefits_summary": "Provides financial assistance to eligible institutions for non‑recurring items up to Rs 5 lakhs and recurring items up to Rs 7 lakhs per annum for coaching and related activities.",
+  "documents_required": [],
+  "application_link": "Step 01: The applicant needs to contact the Registrar/Principal. Step 02: Applications in the prescribed format are received from the concerned department. Step 03: The applicant must ensure that the filled information should be correct before submitting the application form to the concerned department. Step 04: After successful verification, the applicant can avail the benefit of the scheme."
+}

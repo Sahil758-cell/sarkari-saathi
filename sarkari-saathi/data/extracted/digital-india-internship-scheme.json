@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Digital India Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian student studying at a recognized university in India",
+    "Must have secured at least 60% marks in the last degree or certificate examination",
+    "Must be pursuing one of the specified programmes: B.E/B.Tech/M.E/M.Tech in Computer Science & Engineering, Computer Science, IT, Electronics & Communications, Electronics, Electrical; M.Sc. in CS/IT/Electronics/Electrical; MCA; DOEACC ‘B’ level; L.L.B.; Bachelor’s in Economics and Statistics",
+    "Students in the last semester or who will graduate in summer 2025 are not eligible; only students who are in the previous one year of study are eligible"
+  ],
+  "benefits_summary": "A token stipend of ₹10,000 per month, subject to satisfactory performance, and a certificate upon successful completion of the internship.",
+  "documents_required": [
+    "Recent photograph",
+    "Signature",
+    "10th class (matriculation) certificate",
+    "12th class (higher secondary) certificate",
+    "Additional marksheets (if prompted)",
+    "Recommendation letter from the sponsoring institute"
+  ],
+  "application_link": null
+}

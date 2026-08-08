@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance for Stage III & IV Cancer Patients",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must be a bonafide resident of Haryana as per Government instructions.",
+    "Applicant must have a Parivar Pehchan Patra (PPP) – Family ID.",
+    "All Stage III and IV cancer patients are eligible.",
+    "Family income must be less than ₹3,00,000 per annum, excluding amounts received from other Social Security Pension Schemes."
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹3,000 to Stage III and IV cancer patients.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

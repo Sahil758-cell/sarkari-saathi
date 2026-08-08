@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Assistance for Quality Enhancement",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must possess a Udyam Registration Certificate (URC) as per the MSME Development Act 2006.",
+    "Application for reimbursement must be made within 12 months of obtaining the quality certification(s).",
+    "The enterprise must be in commercial production at the time of disbursement and cannot be a closed unit.",
+    "Each MSME can apply only once under the scheme.",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small"
+  ],
+  "benefits_summary": "Reimbursement of up to 50% of quality certification costs, capped at ₹3,00,000 per enterprise.",
+  "documents_required": [
+    "Udyam Registration Certificate (URC)",
+    "Application form (Annexure 4.1)",
+    "Self‑attested copies of mandatory documents (if required)"
+  ],
+  "application_link": null
+}

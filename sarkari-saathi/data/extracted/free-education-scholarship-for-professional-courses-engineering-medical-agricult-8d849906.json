@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Free Education Scholarship for Professional Courses (Engineering, Medical, Agriculture, Veterinary, and Law)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a student.",
+    "The beneficiary must be pursuing a professional course in a Government, government‑aided or self‑financing college.",
+    "There must be no graduate in the beneficiary’s family."
+  ],
+  "benefits_summary": "Full payment of tuition, special and other non‑refundable compulsory fees, as well as full reimbursement of examination fees.",
+  "documents_required": [
+    "Application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

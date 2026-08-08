@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Immediate Death Relief Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the legal heir/family of the deceased fisherman",
+    "Deceased fisherman must have died while fishing",
+    "Deceased fisherman must not have been a beneficiary of the old age pension scheme",
+    "Deceased fisherman must have been enrolled as a member of the Fishermen/Fisherwomen Co‑operative Society",
+    "Application must be made within 30 days of the death"
+  ],
+  "benefits_summary": "₹1,00,000 immediate death relief assistance provided to the family of the deceased fisherman within 15 days to 3 months of application.",
+  "documents_required": [
+    "passport‑sized photograph (signed across, if required)",
+    "self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

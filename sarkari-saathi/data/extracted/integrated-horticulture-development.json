@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Integrated Horticulture Development",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must possess a Degree or Diploma in Civil, Mechanical, or Electrical Engineering",
+    "Must have at least 2 years of post‑qualification experience, preferably in the irrigation sector",
+    "Must have knowledge of computers",
+    "Minimum academic performance of 55% marks or 5.5/10 CGPA (or equivalent) at graduate/diploma level"
+  ],
+  "benefits_summary": "Provides subsidies for various horticulture crops, micro‑irrigation, orchards and related infrastructure to boost production, farmer income and nutritional security.",
+  "documents_required": [],
+  "application_link": "Mission for Integrated Development of Horticulture at District Agriculture office through local Agriculture Development Officer (online application available for special components such as Cold Storage, Ripening Chamber, Cold Room, Rural Market, Retail Outlet)"
+}

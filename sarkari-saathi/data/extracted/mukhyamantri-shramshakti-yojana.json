@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhyamantri Shramshakti Yojana",
+  "occupation": null,
+  "gender": "any",
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": 450000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to a minority community",
+    "Minimum educational qualification is at least 8th/10th pass, subject to course‑specific requirements",
+    "30% reservation for women and 3% reservation for disabled; unfilled reserved seats may be allocated to other minority applicants",
+    "A refundable security deposit of ₹1,000 is required at enrollment"
+  ],
+  "benefits_summary": "Provides vocational skill training and easy loans for self‑employment to minority community members aged 18‑45.",
+  "documents_required": [
+    "Photograph",
+    "Signature",
+    "Other required documents"
+  ],
+  "application_link": "https://bsmfc.org/"
+}

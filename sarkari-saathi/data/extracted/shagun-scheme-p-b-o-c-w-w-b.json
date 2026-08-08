@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Shagun Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Punjab",
+    "Applicant must be a Building/Construction Worker (unorganised sector)",
+    "Applicant must be between 18 and 60 years old",
+    "Must have worked in building and construction for at least 90 days in a given year",
+    "Monthly income must be ₹15,000 or below",
+    "Must not be a member of any other Welfare Fund",
+    "Must not be a member of EPF, NPS, or ESIC",
+    "Must not be an income tax payer",
+    "Applicant must be a registered member/female member (for self‑marriage) of the Punjab Building and Other Construction Workers Welfare Board or an unmarried daughter of a member",
+    "The marriage must be the first marriage of the daughter or self",
+    "Benefits are available for up to two daughters only",
+    "Application must be submitted within 3 months after the marriage date"
+  ],
+  "benefits_summary": "Financial assistance of ₹31,000 per daughter for up to two daughters' first marriages.",
+  "documents_required": [],
+  "application_link": null
+}

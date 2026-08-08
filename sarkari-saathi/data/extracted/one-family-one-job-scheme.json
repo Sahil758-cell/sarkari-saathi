@@ -1,0 +1,24 @@
+{
+  "scheme_name": "One Family One Job Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "No member of the applicant's family should be employed in the public or private sector",
+    "No member of the applicant's family should be an income tax or sales taxpayer",
+    "No member of the applicant's family should be a current or former MP/MLA or a chairman of any board, corporation, or undertaking",
+    "Age relaxation of up to 5 years is allowed for SC or BC applicants"
+  ],
+  "benefits_summary": "Registered candidates are eligible for all benefits provided by the Employment Department.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

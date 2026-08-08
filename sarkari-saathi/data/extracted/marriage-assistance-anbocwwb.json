@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Marriage Assistance (ANBOCWWB)",
+  "occupation": [
+    "building & other construction work"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andaman & Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Registered under the A&N Islands Building and Other Construction Workers Welfare Board",
+    "Active membership of the Board is required",
+    "Assistance is limited to the worker's own marriage or that of up to two dependent children"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 to cover the marriage expenses of the worker or up to two dependent children.",
+  "documents_required": [],
+  "application_link": "https://serviceonline.gov.in/login.do"
+}

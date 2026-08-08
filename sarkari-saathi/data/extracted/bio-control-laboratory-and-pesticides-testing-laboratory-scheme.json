@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Bio Control Laboratory and Pesticides Testing Laboratory Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must have sufficient available cultivable land",
+    "Selection is on a first‑come‑first‑served basis"
+  ],
+  "benefits_summary": "Free distribution of bio control agents to farmers to promote organic crop production.",
+  "documents_required": [],
+  "application_link": null
+}

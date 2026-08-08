@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukyamantri Samuhik Vivah Evam Anudan Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bride must be above 18 years of age",
+    "Groom must be above 21 years of age",
+    "Both bride and groom must be unmarried",
+    "Marriages must be registered according to applicable rules"
+  ],
+  "benefits_summary": "A total grant of ₹25,000 per couple, with ₹21,000 allotted to the bride and ₹4,000 to the marriage organizer.",
+  "documents_required": [
+    "Certified list of the couples involved in the solemnized marriage",
+    "Attested copies of marriage registration certificates",
+    "Hard copies of the documents uploaded at the time of application"
+  ],
+  "application_link": null
+}

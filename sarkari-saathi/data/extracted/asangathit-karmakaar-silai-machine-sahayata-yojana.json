@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Asangathit Karmakaar Silai Machine Sahayata Yojana",
+  "occupation": [
+    "construction",
+    "sewing",
+    "embroidery",
+    "weaving",
+    "tailoring"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be registered with the labour board/department",
+    "Applicant must not have received a sewing machine or an amount equivalent to its value under any other state scheme",
+    "Applicant must not have received benefits under the Chief Minister Cycle Assistance Scheme",
+    "Applicant may be employed by an employer or run her own business and must earn a living for herself and her family"
+  ],
+  "benefits_summary": "Sewing machines are supplied annually to eligible unorganized women workers of the state.",
+  "documents_required": [
+    "Labor registration card",
+    "Age certificate",
+    "Bank passbook photocopy",
+    "Income certificate"
+  ],
+  "application_link": null
+}

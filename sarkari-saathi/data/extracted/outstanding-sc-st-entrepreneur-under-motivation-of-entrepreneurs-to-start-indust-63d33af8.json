@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Outstanding SC/ST Entrepreneur",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have been functioning profitably for 3 years before the date of application",
+    "The unit must provide at least 60% of employment to people of the UT of Puducherry"
+  ],
+  "benefits_summary": "Cash award of ₹2,00,000 and a citation",
+  "documents_required": [],
+  "application_link": null
+}

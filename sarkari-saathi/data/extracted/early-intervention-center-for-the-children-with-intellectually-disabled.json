@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Early Intervention Center for the Children with Intellectually Disabled",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Child must have intellectual disability or allied disabilities"
+  ],
+  "benefits_summary": "Provides early intervention services to children with intellectual disabilities.",
+  "documents_required": [],
+  "application_link": null
+}

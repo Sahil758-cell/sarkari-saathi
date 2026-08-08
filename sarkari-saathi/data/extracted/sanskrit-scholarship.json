@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Sanskrit Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 54000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh.",
+    "Applicant must be a student enrolled in Sanskrit courses at any government or aided non-government college.",
+    "Eligible courses include Post Graduate (M.A. Classic), Acharya, Graduate (B.A. Classic), Shastri, Uttar Madhyama, Purva Madhyama, and Prathama.",
+    "Family annual income must not exceed ₹54,000.",
+    "Academic qualification for Post Graduate: at least 50% marks in degree examination.",
+    "Academic qualification for Acharya: at least 50% marks in Shastri or equivalent examination.",
+    "Academic qualification for Graduate: at least 50% marks in 10+2 or equivalent examination.",
+    "Academic qualification for Shastri: at least 45% marks in Purva Madhyama.",
+    "Academic qualification for Uttar Madhyama: at least 45% marks in Prathama or equivalent.",
+    "Academic qualification for Purva Madhyama: admission based on merit in the 5th examination."
+  ],
+  "benefits_summary": "Eligible Sanskrit students receive a monthly scholarship of ₹300 for 10 months.",
+  "documents_required": [],
+  "application_link": null
+}

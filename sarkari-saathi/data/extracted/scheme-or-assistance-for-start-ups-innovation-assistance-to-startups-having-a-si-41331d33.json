@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Assistance to Startups having a Significant Impact on Society",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Recommended by an approved Nodal Institution",
+    "Open to any sector or branch of science, technology, engineering, agriculture, healthcare",
+    "Startups already benefiting under the Student Startup and Innovation Policy (SSIP) are also eligible",
+    "Any individual or group of individuals with an innovative idea or concept can apply"
+  ],
+  "benefits_summary": "Up to ₹10,00,000 financial assistance for innovative projects with significant social impact.",
+  "documents_required": [],
+  "application_link": null
+}

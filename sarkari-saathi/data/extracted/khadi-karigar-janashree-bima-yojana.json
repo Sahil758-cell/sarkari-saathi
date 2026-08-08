@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Khadi Karigar Janashree Bima Yojana",
+  "occupation": [
+    "Khadi Artisan"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a member of the approved vocation/occupation groups.",
+    "Group must have a minimum of 25 members."
+  ],
+  "benefits_summary": "Provides death cover up to ₹50,000 (₹20,000 for natural death, ₹50,000 for accidental death), disability benefits up to ₹50,000, and scholarships of ₹300 per quarter per child (maximum two children) for school‑going children.",
+  "documents_required": [
+    "Original death certificate of the deceased person",
+    "Police enquiry report (for accidental deaths)"
+  ],
+  "application_link": null
+}

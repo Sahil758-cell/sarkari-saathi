@@ -1,0 +1,33 @@
+{
+  "scheme_name": "National Agriculture Market",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "States/UTs must enact legislation to issue a single trade licence valid across the whole state for any eligible person, irrespective of domicile",
+    "States/UTs must implement a single point levy of market fee for wholesale trading of agricultural produce, with no additional fees on subsequent transactions",
+    "States/UTs must provide for e‑auction/e‑trading as a mode of price discovery in their markets",
+    "States/UTs must submit proposals (Annexure‑I) to receive a one‑time grant for hardware, internet connection, assaying equipment and related infrastructure",
+    "States/UTs must ensure that 100 % of selected agricultural commodities are traded through e‑trading/e‑auction in the covered markets",
+    "States/UTs must make provision for or link to Soil Testing Laboratories (STLs) in close proximity to markets",
+    "States/UTs must meet any balance fund requirements, bear future escalations after five years, and fund annual software maintenance thereafter",
+    "The implementing agency must be registered on the PFMS portal and notify the Department of Agriculture, Cooperation and Farmers’ Welfare with bank details for fund transfers"
+  ],
+  "benefits_summary": "Provides a unified online platform for agricultural trade, enabling transparent price discovery, wider market access and efficient transactions for farmers and traders.",
+  "documents_required": [
+    "Passport‑size photograph (for trader registration)",
+    "Email ID (to receive login credentials)",
+    "KYC documents",
+    "Trade licence details",
+    "Bank account details (for FPO/FPC registration)",
+    "Registration form (farmer/trader registration)"
+  ],
+  "application_link": "http://enam.gov.in/NAMV2/home/other_register.html"
+}

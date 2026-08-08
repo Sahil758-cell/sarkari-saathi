@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Grant-in-Aid to Non-governmental Organisations Running Residential Homes for the Children, Aged, and Vulnerable Persons Under Social Defence",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "NGO must be running residential homes for orphans, destitute and street children, aged and infirm persons, and physically and mentally disabled persons",
+    "NGO must be registered under the Societies Registration Act, 1860, or a public trust under any applicable law, or a charitable company licensed under Section 25 of the Companies Act, 1956",
+    "NGO should have existed continuously for at least three years at the time of application (relaxable in deserving cases)",
+    "NGO must be licensed by the Department of Social Welfare under the Women and Children Licensing Rules, 1956",
+    "NGO must have a properly constituted managing body with clearly defined powers, duties and responsibilities in writing",
+    "NGO must be in a sound financial position",
+    "NGO must have necessary facilities and resources to run the residential homes",
+    "NGO must be non‑sectarian and provide services irrespective of religion, caste, colour or creed",
+    "NGO must not be run for profit of any individual or group",
+    "NGO must be free from corrupt practices"
+  ],
+  "benefits_summary": "Provides a grant-in-aid of ₹500 per inmate per month for 12 months, limited to 90% of the estimated cost.",
+  "documents_required": [],
+  "application_link": null
+}

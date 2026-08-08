@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Term Loan Scheme for Backward Classes",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of Haryana",
+    "Belongs to the Backward Classes category",
+    "Must have a Parivar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Loans up to ₹15,00,000 at an annual interest rate of 6% to 8% are provided to Backward Classes to enhance employability.",
+  "documents_required": [],
+  "application_link": null
+}

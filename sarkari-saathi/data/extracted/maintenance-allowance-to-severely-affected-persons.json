@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Maintenance Allowance to Severely Affected Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Locomotor disabled persons who cannot be rehabilitated through any other scheme.",
+    "Disability percentage must be more than 75%."
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per month sent directly to the applicant's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "National Fellowship for Students with Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have at least 40% disability as defined under the Rights of Persons with Disabilities Act, 2016",
+    "Must possess a valid disability certificate issued by the competent authority",
+    "Must have secured admission to an M. Phil. or Ph.D. program in a university/institution recognized by the University Grants Commission (UGC)",
+    "Must have a good academic record"
+  ],
+  "benefits_summary": "Provides monthly financial assistance of ₹31,000 for Junior Research Fellows and ₹35,500 for Senior Research Fellows for up to five years.",
+  "documents_required": [
+    "Disability certificate"
+  ],
+  "application_link": null
+}

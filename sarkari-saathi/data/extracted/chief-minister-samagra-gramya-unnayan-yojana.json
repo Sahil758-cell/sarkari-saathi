@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Chief Minister Samagra Gramya Unnayan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Group must consist of 8 to 10 members who are adult farmers from the same village",
+    "All members must have a common bank account",
+    "The group must apply jointly with the signatures of each member on the application form",
+    "Only one member per family is allowed in the group"
+  ],
+  "benefits_summary": "Provides a tractor (including accessories) to a group of 8‑10 adult farmers at a subsidized rate, with a 70% subsidy up to Rs 5.5 lakhs.",
+  "documents_required": [],
+  "application_link": null
+}

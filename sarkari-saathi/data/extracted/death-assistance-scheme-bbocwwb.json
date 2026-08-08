@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Death Assistance Scheme (BBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased construction worker must be registered with the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB) and have an active membership at the time of death.",
+    "Only the legal heir or dependent family member of the deceased registered worker is eligible to apply."
+  ],
+  "benefits_summary": "Up to ₹4,00,000 for accidental death, ₹2,00,000 for natural death (₹1,00,000 if disaster aid already received).",
+  "documents_required": [],
+  "application_link": null
+}

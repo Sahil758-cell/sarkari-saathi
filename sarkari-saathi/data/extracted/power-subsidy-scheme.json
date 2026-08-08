@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Power Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Units must have their operations in Goa.",
+    "The applicant must be one of: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, Limited Liability Partnership.",
+    "Bank accounts of the unit and/or its partners/directors must be linked to Aadhaar."
+  ],
+  "benefits_summary": "20% subsidy on power charges up to ₹5,00,000 per year per unit for up to 3 years.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be above the 80th percentile of successful candidates in the relevant stream of the Class 12th board examination (10+2 pattern or equivalent).",
+    "Applicant must be pursuing regular degree courses at recognized colleges/institutions approved by AICTE or the respective regulatory bodies.",
+    "For each year of renewal, the student must obtain at least 50% marks in the annual examination and maintain a minimum attendance of 75%.",
+    "The student must have a bank account opened in their own name."
+  ],
+  "benefits_summary": "Scholarship of ₹12,000 per annum for up to three years at the graduation level and ₹20,000 per annum for postgraduate and later years of professional courses, disbursed directly via DBT.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Vocational Training Of Destitute Women And Adolescent Girls",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 38,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a destitute woman or adolescent girl",
+    "Minimum educational qualification for the Computer course is 12th pass"
+  ],
+  "benefits_summary": "Six months of vocational training in tailoring & cutting, embroidery, and computer.",
+  "documents_required": [
+    "Self-attested documents",
+    "Passport-sized photograph"
+  ],
+  "application_link": "www.socialwelfare.nic.in"
+}

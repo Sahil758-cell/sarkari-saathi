@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Kerala Stressed MSMEs Revival & Rehabilitation Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a manufacturing MSME established in Kerala.",
+    "Must not belong to the Negative List of prohibited units.",
+    "Must have filed EM Part-II/UAM.",
+    "Must be classified as a Sick Unit and be Potentially Viable for revival.",
+    "Must be an independent legal entity.",
+    "Must restart operations within one month of receiving assistance and continue for at least five years.",
+    "Must provide true information and cooperate with Vyavasaya Mithra.",
+    "Units sick due to willful mismanagement, default, unauthorized fund diversion, or partner disputes are ineligible."
+  ],
+  "benefits_summary": "Up to ₹5 lakh per unit as a one‑time assistance covering margin‑money grant, interest subvention, restart expenses, statutory dues clearance and revival project report cost reimbursement.",
+  "documents_required": [
+    "EM Part-II/UAM",
+    "Revival Project Report"
+  ],
+  "application_link": null
+}

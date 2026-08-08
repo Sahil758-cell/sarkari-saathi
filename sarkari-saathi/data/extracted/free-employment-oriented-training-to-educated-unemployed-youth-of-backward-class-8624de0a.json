@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Free Employment Oriented Training to Educated Unemployed Youth of Backward Class and Minority Class",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must belong to Minorities.",
+    "The applicant's family income should not exceed the creamy layer limit.",
+    "The applicant must be selected by a training institution approved by the government."
+  ],
+  "benefits_summary": "Free coaching and stipend support for employment-oriented competitive examinations.",
+  "documents_required": [],
+  "application_link": null
+}

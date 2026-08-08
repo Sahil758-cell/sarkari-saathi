@@ -1,0 +1,30 @@
+{
+  "scheme_name": "The Artist Welfare Fund Of Assam",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an artist in the field of art and culture of Assam.",
+    "Applicant must be above 20 years of age (if the applicant is the artist).",
+    "Applicant must be in financial distress.",
+    "Applicant must have made a mark or achievement in the field of art and culture.",
+    "Applicant must provide artistic credentials supporting the achievement.",
+    "Dependent includes spouse of a deceased artist, minor children, unmarried non‑earning daughters, and parents wholly dependent on the artist."
+  ],
+  "benefits_summary": "Financial assistance up to ₹50,000 for cancer or kidney transplant, up to ₹20,000 for heart procedures, with additional support decided by the board.",
+  "documents_required": [
+    "standard application form"
+  ],
+  "application_link": "Standard application form available on the website; submit to the office of Assam State Film (Finance & Development) Corporation Ltd (ASFFDC), Shilpgram Road, near Sankardev Kalakshetra, Panjabari, Guwahati-37."
+}

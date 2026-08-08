@@ -1,0 +1,28 @@
+{
+  "scheme_name": "National Family Benefit Scheme- Bihar",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Bihar.",
+    "Applicant must be a family member or dependent of the deceased person.",
+    "The deceased person must have been the primary breadwinner of the family.",
+    "The family of the deceased must be living below the poverty line (BPL)."
+  ],
+  "benefits_summary": "One-time financial assistance of ₹20,000 is provided to the bereaved family.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Acknowledgment receipt (issued after submission)",
+    "Valid identity card"
+  ],
+  "application_link": null
+}

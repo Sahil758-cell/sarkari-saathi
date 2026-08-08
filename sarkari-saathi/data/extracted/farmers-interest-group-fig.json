@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Farmers Interest Group (FIG)",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be part of a farmer group consisting of exactly 15 members"
+  ],
+  "benefits_summary": "Provides up to ₹29,400 per group for office equipment, training, ID cards, and district-level meetings.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Incentive Award to Inter-Caste Married Couples",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both bride and groom must be Indian citizens",
+    "Marriage must be between a Scheduled Caste member and a member of any other community",
+    "The marriage must be registered",
+    "It must be the first marriage between the bride and groom",
+    "Either the bride or the groom (or both) should be a native of Puducherry",
+    "Application must be submitted within 60 days of the marriage date"
+  ],
+  "benefits_summary": "Award of ₹50,000, comprising ₹20,000 in cash and ₹30,000 as a National Savings Certificate.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a woman farmer",
+    "Must own or operate agricultural land",
+    "Must be a resident of Gujarat",
+    "Must register with the Department of Agriculture and Co‑operation",
+    "Can apply individually or as a group"
+  ],
+  "benefits_summary": "Provides financial assistance, training, and credit access to women farmers to boost productivity and income.",
+  "documents_required": [
+    "land ownership documents",
+    "identity proof",
+    "bank account details"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme of Extending Financial Assistance to New Drama Productions",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The drama must reflect Tamil art forms, culture, civilization, tradition, society and history",
+    "The drama must not have been staged previously",
+    "The drama must not display caste, religious, or political animosity",
+    "No additional dialogues or scenes may be added without prior approval of the Manram",
+    "Drama scripts must be selected by the Manram"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹20,000 per drama, paid in four installments based on quality and staging criteria.",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Passport‑sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

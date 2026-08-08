@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Medical Assistance (GBOCWWB)",
+  "occupation": [
+    "Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must have completed ninety days of service as a registered worker in the current year.",
+    "The applicant must be registered with the Goa Building and Other Construction Workers Welfare Board (or, if unregistered, provide a certificate from the builder or area inspector confirming they are a building worker).",
+    "The applicant must have been hospitalized for five or more days due to an accident or disease."
+  ],
+  "benefits_summary": "Provides ₹400 per day for the first 5 days and ₹40 per day thereafter, up to a maximum of ₹2,000 per hospitalization.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

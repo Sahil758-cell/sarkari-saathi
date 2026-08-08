@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Interest Help Scheme For Graduate Doctor-Lawyer-Technical Graduate",
+  "occupation": [
+    "doctor",
+    "lawyer",
+    "technical graduate"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 600000,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The business must have the necessary registration as per the rules",
+    "The applicant must have taken a bank loan for the business",
+    "The applicant must be interested in opening their own clinic, laboratory, radiology clinic or office"
+  ],
+  "benefits_summary": "5% interest subsidy on loans up to ₹10,00,000",
+  "documents_required": [
+    "certificates",
+    "mark sheets"
+  ],
+  "application_link": null
+}

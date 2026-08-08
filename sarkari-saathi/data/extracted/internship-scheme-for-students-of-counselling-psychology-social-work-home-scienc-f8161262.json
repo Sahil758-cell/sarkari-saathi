@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Internship Scheme For Students Of Counselling/ Psychology/ Social Work/ Home Science Etc",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a Master's Degree in Social Service, Social Work, Sociology, Psychology, Home Science, or a Post Graduate Diploma in Counselling from a recognized university",
+    "Applicant must have completed the postgraduate degree within three years prior to applying",
+    "Applicant must have obtained at least 50% marks in aggregate in the final year of the postgraduate program"
+  ],
+  "benefits_summary": "Interns receive a monthly allowance of ₹15,000 and one paid leave per month.",
+  "documents_required": [
+    "Completed application form",
+    "Passport-sized photograph (signed)",
+    "Copies of mandatory documents (self-attested if required)"
+  ],
+  "application_link": null
+}

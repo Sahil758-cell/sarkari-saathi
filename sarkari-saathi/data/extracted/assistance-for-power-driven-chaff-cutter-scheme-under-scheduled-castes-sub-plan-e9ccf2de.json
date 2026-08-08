@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Assistance for Power Driven Chaff Cutter Scheme under Scheduled Castes Sub Plan (SC Category)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must own a minimum of five (5) animals."
+  ],
+  "benefits_summary": "Financial assistance of up to 75% of the purchase cost of a power‑driven chaff cutter, or ₹18,000 whichever is lower, is provided to eligible beneficiaries.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

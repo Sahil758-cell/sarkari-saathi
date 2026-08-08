@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Safai Karmakar Bahay Rogi Chikitsa Sahayata Yojana",
+  "occupation": [
+    "Safai Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered unorganized worker of the State Social Security Board",
+    "Family members must be mentioned in the registration card",
+    "Benefits are available only to the Safai worker and the listed family members (husband, wife, son, daughter)",
+    "Benefit is limited to a maximum of two children per family",
+    "If the beneficiary is receiving assistance from any other parallel state scheme, they are not eligible for this scheme"
+  ],
+  "benefits_summary": "Medical assistance up to Rs. 2,000 per year.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Rajiv Gandhi Family Insurance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana",
+    "Applicant's name must appear in the Voter's list or the applicant must hold a Ration Card",
+    "Applicant must not be a Government or Semi‑Government employee",
+    "Eligibility is limited to cases of accidental death or permanent/partial disability"
+  ],
+  "benefits_summary": "Provides a compensation of ₹1 lakh for accidental death or permanent disability, with reduced amounts of ₹50,000 for loss of two limbs/eyes and ₹25,000 for loss of one limb/eye.",
+  "documents_required": [],
+  "application_link": null
+}

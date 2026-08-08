@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Power Tariff Subsidy (Fiscal Incentives to Labour Intensive Unit)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be recognized as a Labour Intensive Unit",
+    "New industrial units are eligible; existing units undergoing expansion, diversification, or modernization are also eligible",
+    "Must provide minimum employment of 4,000 persons registered under EPF, with at least 1,000 female employees",
+    "Must submit electricity bills in the unit's name",
+    "Application must be submitted within one year from the Date of Commercial Production (DoCP)",
+    "For expansion/diversification/modernization, subsidy applies only to additional power consumption beyond the previous year’s average",
+    "Eligible activities include Garments, Apparel & Made‑ups, Technical Textiles (including Composite Unit); Weaving (with or without preparatory), Knitting, Dyeing & Processing, Texturising, Twisting, Embroidery and MMF Spinning from Polyester Staple Fiber/Viscose Staple Fiber (excluding cotton and synthetic filament yarn)"
+  ],
+  "benefits_summary": "Provides a power tariff subsidy of INR 1 per kWh for DISCOM or renewable power, capped at INR 15 crore per year for 5 years from the date of commercial production.",
+  "documents_required": [
+    "Electricity bills in the unit's name"
+  ],
+  "application_link": null
+}

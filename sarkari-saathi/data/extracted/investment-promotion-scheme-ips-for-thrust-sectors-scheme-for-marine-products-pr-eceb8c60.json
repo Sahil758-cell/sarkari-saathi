@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for Thrust Sectors: Scheme For Marine Products Processing Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a new or existing manufacturing or service unit undertaking expansion or diversification in the MSME sector",
+    "Unit must have commenced commercial production between 20 May 2022 and 19 May 2027",
+    "Unit must be located in the Union Territory of Dadra and Nagar Haveli & Daman and Diu",
+    "Enterprise must apply through the online portal within one year from the date of first loan disbursement or on or before the commercial production start date"
+  ],
+  "benefits_summary": "Credit linked interest subsidy of up to 60% per annum, capped at ₹5,000,000 per year for up to five years or until loan repayment, whichever is earlier.",
+  "documents_required": [],
+  "application_link": "https://investdd.in"
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Observation Home and Special School",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 17,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry",
+    "Karaikal",
+    "Mahe",
+    "Yanam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The child should be in conflict with the law",
+    "The child should have been admitted to the Juvenile Welfare Board"
+  ],
+  "benefits_summary": "Free boarding and lodging with access to library, playgrounds, annual competitions, and educational tours for overall development.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

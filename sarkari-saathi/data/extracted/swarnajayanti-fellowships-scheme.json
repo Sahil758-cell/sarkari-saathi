@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Swarnajayanti Fellowships Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 30,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian National",
+    "Must hold a regular position in a recognized Indian academic or research organization",
+    "Must possess a Ph.D. in Science, Engineering, or Medicine",
+    "Must not be receiving any other fellowship from a Government of India scheme",
+    "Must be active in frontier areas of science and engineering with outstanding contributions such as publications, patents, peer recognition, or awards",
+    "The host organization must undertake financial and management responsibilities for the project throughout the five‑year term"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹25,000 in addition to the applicant’s salary for up to five years, with project funding considered by SERB.",
+  "documents_required": [],
+  "application_link": "https://onlinedst.gov.in/"
+}

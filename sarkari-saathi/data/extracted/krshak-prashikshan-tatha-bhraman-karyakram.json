@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Krshak Prashikshan Tatha Bhraman Karyakram",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a farmer who cultivates crops."
+  ],
+  "benefits_summary": "Provides training and honorarium up to ₹500 per farmer per day, plus ₹100 honorarium to the host farmer, with a maximum total of ₹600 per farmer.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Raja Harishachandra Shramik Mratak Antyeshti Sahayata Yojana",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be employed in an establishment registered under the Factories Act, 1948",
+    "Monthly basic salary plus dearness allowance must not exceed ₹15,000",
+    "Application must be made within one year of the worker’s death",
+    "Financial assistance is payable to the worker’s spouse or dependent (son or unmarried daughter)",
+    "If the worker was unmarried, assistance can be paid to the mother or father"
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 is provided to the family of a deceased worker.",
+  "documents_required": [
+    "Recent photograph of the applicant",
+    "Verified application form (printed copy)",
+    "Supporting documents as required"
+  ],
+  "application_link": "https://skpuplabour.in/"
+}

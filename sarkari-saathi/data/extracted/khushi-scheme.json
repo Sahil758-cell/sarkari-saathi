@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Khushi Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Odisha",
+    "All school girls from classes 6th to 12th are eligible",
+    "Rural women can obtain six pads at a nominal rate of Rs. 6/- from ASHA workers or local PHCs"
+  ],
+  "benefits_summary": "Provides free sanitary pads to school girls (classes 6‑12) in government/aid schools and subsidized pads to rural women.",
+  "documents_required": [],
+  "application_link": null
+}

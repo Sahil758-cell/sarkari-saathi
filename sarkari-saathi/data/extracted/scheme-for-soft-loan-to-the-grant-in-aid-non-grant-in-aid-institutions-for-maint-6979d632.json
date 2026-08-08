@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme For Soft Loan To The Grant-in-aid/ Non-grant In Aid Institutions For Maintenance And Upgradation Of Infrastructure Facilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The institution must be an aided or non‑aided institution of higher learning, including those offering professional courses",
+    "The society that runs the institution must be registered under the Societies Registration Act",
+    "The institution must have been in operation for at least 10 years prior to the loan application date",
+    "The institution must have a minimum on‑campus student strength of 300",
+    "The average passing percentage for the last three years (out of the five years preceding the application) must be at least 60%",
+    "The institution must satisfy at least one of the following: be affiliated with Goa University, or be recognized by AICTE, MCI, ACI, DCI or any other statutory body of the Government of India or Government of Goa"
+  ],
+  "benefits_summary": "The loan is disbursed in three tranches – 50% on sanction, 40% after a utilization certificate, and the remaining 10% after project completion and occupancy certification.",
+  "documents_required": [],
+  "application_link": null
+}

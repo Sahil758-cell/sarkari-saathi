@@ -1,0 +1,41 @@
+{
+  "scheme_name": "Mahatma Jyothiba Phule Overseas Vidya Nidhi for BC and EBC Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 34,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Backward Classes (BC) or Economically Backward Classes (EBC)",
+    "Only one child from a family is eligible (self‑certificate required)",
+    "Minimum 60% marks or equivalent in the qualifying degree",
+    "Must have a valid TOEFL/IELTS/GRE/GMAT/PTE score",
+    "Must obtain admission to an accredited foreign university",
+    "Must possess a valid passport",
+    "Must be a resident of Telangana",
+    "Must join the university within one year of selection notification",
+    "Cannot change the sanctioned course of study",
+    "Candidate must arrange for the appropriate visa",
+    "33% of the awards are earmarked for women candidates",
+    "Ph.D. programs are also eligible",
+    "Relaxation of the 60% marks requirement is possible based on test scores and unconditional admission"
+  ],
+  "benefits_summary": "Provides up to ₹20 lakh scholarship for tuition and living expenses, along with loan assistance, travel ticket, visa fee reimbursement and opportunities for research/teaching assistance.",
+  "documents_required": [
+    "Self‑certificate confirming only one child from the family",
+    "Landing permit / I‑94 card / Visa stamping / Boarding pass",
+    "First semester results",
+    "Passport",
+    "Admission letter from an accredited foreign university",
+    "Visa (appropriate type)",
+    "Completed online registration form"
+  ],
+  "application_link": null
+}

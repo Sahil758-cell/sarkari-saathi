@@ -1,0 +1,34 @@
+{
+  "scheme_name": "RAKSHAK PURASKARS Award",
+  "occupation": [
+    "Police Officers",
+    "Doctors",
+    "Lawyers",
+    "Public Prosecutors",
+    "Social Workers",
+    "Teachers",
+    "Tourist Guides",
+    "Lifeguards",
+    "Bus Drivers",
+    "Taxi Drivers",
+    "Auto Drivers"
+  ],
+  "gender": null,
+  "age_min": 26,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have been a resident of Goa for the last five years as of 1 January of the respective year, or must have worked in the State for at least two years.",
+    "The applicant must not be a recipient of any other award in the same field during the same year."
+  ],
+  "benefits_summary": "Recipients receive a scroll/citation and a cash prize of ₹20,000.",
+  "documents_required": [],
+  "application_link": null
+}

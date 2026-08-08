@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Tea Development and Promotion Scheme (TDPS): Plantation Development for Small Tea Growers (PDSTG): Mechanization for Individual Small Growers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a small tea grower, including members of self‑help groups or Farmers' Producer Organizations.",
+    "Only one application per component will be considered."
+  ],
+  "benefits_summary": "Provides mechanization equipment (pruning machines, mechanical harvesters, power sprayers, brush cutters, and plucking shears) with cash assistance up to specified limits for eligible small tea growers.",
+  "documents_required": [],
+  "application_link": null
+}

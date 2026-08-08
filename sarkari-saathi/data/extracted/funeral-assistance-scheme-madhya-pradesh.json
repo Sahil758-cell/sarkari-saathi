@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Funeral Assistance Scheme (Madhya Pradesh)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh.",
+    "Deceased must be a member of a family registered under the labour cadre schemes operated by the Government of Madhya Pradesh."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,000 is provided for the last rites.",
+  "documents_required": [
+    "passport-sized photograph (signed across, if required)",
+    "self-attested copies of all necessary documents"
+  ],
+  "application_link": null
+}

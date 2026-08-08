@@ -1,0 +1,23 @@
+{
+  "scheme_name": "District Central Cooperative Banks and through its Branches: Small Road Transport Operators Loan (SRTO Loan)",
+  "occupation": [
+    "Small Road Transport Operator"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Loan up to ₹10,00,000 with an interest rate of 13% (subject to change).",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

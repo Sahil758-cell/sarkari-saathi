@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Educational Assistance to Children of Women Headed Families",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only two children per family are eligible for the scheme",
+    "The child must study in a Government or Government‑aided school or college",
+    "Women belonging to Below Poverty Line families are eligible",
+    "HIV/AIDS‑affected persons, socially discriminated persons, war widows, etc., are eligible irrespective of BPL status",
+    "A family where the husband is bedridden due to stroke or spinal injury is eligible"
+  ],
+  "benefits_summary": "Financial assistance of ₹300–₹1,000 per month is provided to children based on their educational level, from primary school up to degree courses.",
+  "documents_required": [],
+  "application_link": null
+}

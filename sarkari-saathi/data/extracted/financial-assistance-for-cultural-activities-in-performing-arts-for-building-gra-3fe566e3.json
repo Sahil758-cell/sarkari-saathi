@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance For Cultural Activities In Performing Arts For Building Grants Including Studio Theatres",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a not‑for‑profit organization (society, trust or not‑for‑profit company) that has been registered for at least three years.",
+    "The organization must have a predominantly cultural profile, promoting performing arts such as dance, drama, theatre, music, fine arts, Indology or literature.",
+    "The organization must be well‑established and recognized at a local, regional or national level, with a charter devoted to the preservation and promotion of Indian arts and culture.",
+    "Government‑sponsored bodies, university departments/centres or colleges dedicated to the performing arts are eligible provided they have a satisfactory record for the preceding three years.",
+    "An organization that has received salary grants under the Ministry’s “Financial Assistance to Professional Groups and Individuals Engaged for Specified Performing Arts Projects” scheme is deemed to meet the eligibility conditions.",
+    "The applicant must not have received a building‑grant under the earlier scheme or under this scheme for the same project, unless the new grant is for a studio/experimental theatre and the earlier project is not in default.",
+    "The organization must be able to provide a matching share of at least 50 % of the approved project cost.",
+    "The organization must organise at least two activities (functions, lectures, seminars, workshops, exhibitions, etc.) in nearby schools or educational institutions and provide a certificate from the principal/head of the institution."
+  ],
+  "benefits_summary": "Grants of up to ₹50 lakh for new construction or purchase of built‑up space in metro cities (₹25 lakh elsewhere), covering up to 60 % of the approved project cost (90 % in North‑Eastern states).",
+  "documents_required": [
+    "Completed application form (downloadable from www.indiaculture.nic.in)",
+    "Recommendation letter from a National Academy, a government‑run cultural organization, or the concerned State/UT administration",
+    "Project proposal documents outlining the proposed cultural space",
+    "Financial documents showing the organization’s capacity to meet its matching share (including certified accounts)",
+    "Any other mandatory enclosures specified by the scheme"
+  ],
+  "application_link": "https://www.indiaculture.nic.in"
+}

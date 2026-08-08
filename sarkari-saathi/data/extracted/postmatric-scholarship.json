@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Postmatric Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a student",
+    "Beneficiary must belong to Backward Classes (BC), Most Backward Classes (MBC), or Denotified Communities (DNC)",
+    "Parents' income should not exceed ₹1,00,000 for BC students",
+    "No graduate in the family for BC students",
+    "Studying in 11th or 12th standard in an English medium school"
+  ],
+  "benefits_summary": "Provides tuition fee assistance of ₹500 and full examination fee coverage for 12th‑standard students.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

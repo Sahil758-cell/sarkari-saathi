@@ -1,0 +1,30 @@
+{
+  "scheme_name": "SMILE - Comprehensive Rehabilitation For Welfare Of Transgender Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a Transgender Certificate issued through the National Portal for Transgender Persons of the Ministry of Social Justice & Empowerment",
+    "Must be an Indian national",
+    "Must not be receiving any other central or state government‑funded Pre‑Matric/Post‑Matric scholarship",
+    "Must be a regular, full‑time student studying in a government school or a school recognised by the government or a Central/State Board of secondary education",
+    "Scholarship is available for only one year per class; students repeating a class are not eligible for that class again",
+    "If the student migrates to another school/institute, a migration certificate from the competent authority must be submitted"
+  ],
+  "benefits_summary": "A scholarship of ₹13,500 per year is provided to eligible transgender students in secondary and senior secondary education.",
+  "documents_required": [
+    "Transgender Certificate",
+    "Transgender ID",
+    "Passport Photo",
+    "Signature",
+    "Parent/Guardian signature"
+  ],
+  "application_link": "http://transgender.dosje.gov.in"
+}

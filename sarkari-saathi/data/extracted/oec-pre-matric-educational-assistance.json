@@ -1,0 +1,23 @@
+{
+  "scheme_name": "OEC Pre-matric Educational Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Students must belong to Other Eligible Communities (OEC) or Other Equivalent Communities of Kerala.",
+    "Students must be studying in Government, Aided, Recognized Un‑Aided, CBSE, ICSE affiliated schools or Kendriya Vidyalayas in Kerala.",
+    "Students must be studying in Class 1st to 10th."
+  ],
+  "benefits_summary": "Provides cash assistance of ₹320 for classes I‑IV, ₹630 for classes V‑VII, and ₹940 for classes VIII‑X to eligible pre‑matric students.",
+  "documents_required": [],
+  "application_link": null
+}

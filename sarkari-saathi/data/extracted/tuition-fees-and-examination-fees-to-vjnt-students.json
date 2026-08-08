@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Tuition Fees And Examination Fees To Vjnt Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 450000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to the Vimukta Jatis & Nomadic Tribes (VJNT) category",
+    "Parents' annual income must be between ₹1,00,000 and ₹4,50,000",
+    "Student must not be covered under the Government of India Scholarship",
+    "Student may have at most one failure"
+  ],
+  "benefits_summary": "Reimbursement of tuition, admission, term, library, laboratory, gymkhana, and examination fees for VJNT students at post‑matriculation institutions.",
+  "documents_required": [],
+  "application_link": null
+}

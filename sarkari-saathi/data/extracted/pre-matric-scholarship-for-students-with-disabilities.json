@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Pre Matric Scholarship For Students With Disabilities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student studying in Class 9th or Class 10th in a government school or a school recognized by the government, CBSE or State Board.",
+    "Disability percentage must be 40 % or above as defined in the Schedule of the Rights of Persons with Disabilities Act, 2016.",
+    "Applicant must not be receiving any other government scholarship.",
+    "Applicant must not be the third sibling in the family who has already received this scholarship."
+  ],
+  "benefits_summary": "Provides a monthly maintenance allowance of ₹500 for day scholars or ₹800 for hostellers, an annual book grant of ₹1,000, and disability‑specific annual allowances ranging from ₹2,000 to ₹4,000.",
+  "documents_required": [],
+  "application_link": "http://www.scholarships.gov.in/"
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Haryana State Meritorious Incentive Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in a Government College and pursuing general courses",
+    "Candidates from non‑government colleges or correspondence/open university courses are not eligible",
+    "Must be one of the top three students (first, second, or third) in the annual university examination for the respective stream",
+    "Merit list is prepared separately for boys (General Category), girls (General Category) and Scheduled Caste students; SC students can also appear in the general list"
+  ],
+  "benefits_summary": "Monetary incentive of ₹5,000 for first position, ₹3,000 for second, and ₹2,000 for third per annum, disbursed via Direct Benefit Transfer (DBT)",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": null
+}

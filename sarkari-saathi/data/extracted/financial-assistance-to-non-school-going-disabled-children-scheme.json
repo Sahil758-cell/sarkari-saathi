@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance To Non-School Going Disabled Children Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Physical disability in the age group 0‑18 years",
+    "Child is not able to attend formal education, training, etc., due to the disability",
+    "Medical certificate issued by the Civil Surgeon specifying the disability (mental retardation with IQ ≤50 or ≥70% disability, cerebral palsy, autism, multiple disabilities with ≥70% disability, or orthopedic disability with 100% disability such as myopathy, paraplegia, quadriplegia)",
+    "Applicant and close relatives/parents have income less than the Minimum Wages and are unable to financially support the child, with proof of income verified by the competent authority",
+    "Domicile of Haryana and residence in Haryana for the last three years at the time of application"
+  ],
+  "benefits_summary": "A monthly financial assistance of ₹2150 is provided to every eligible non‑school‑going disabled child in the applicant’s family.",
+  "documents_required": [
+    "Medical Certificate issued by the Civil Surgeon",
+    "Proof of income (income certificate) verified by the competent authority",
+    "Completed application form",
+    "Attestation from the concerned authority"
+  ],
+  "application_link": null
+}

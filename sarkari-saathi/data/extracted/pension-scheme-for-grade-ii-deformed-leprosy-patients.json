@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Pension Scheme for Grade II Deformed Leprosy Patients",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be affected with Leprosy Grade II."
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000 provided to eligible leprosy patients.",
+  "documents_required": [],
+  "application_link": null
+}

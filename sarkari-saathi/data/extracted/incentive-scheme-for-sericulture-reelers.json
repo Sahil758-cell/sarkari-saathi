@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Incentive Scheme for Sericulture Reelers",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the religious minority community of Karnataka.",
+    "No member of the applicant's family should be a State or Central Government employee.",
+    "Applicant or any family member must not have received any loan or subsidy from the Karnataka Minorities Development Corporation in the last five years, except for the Arivu education loan and Foreign Education Loan Scheme.",
+    "Applicant should not be a sustainer of the corporation."
+  ],
+  "benefits_summary": "Provides a loan up to ₹2,00,000 with 50% of the amount given as a subsidy.",
+  "documents_required": [
+    "passport-size photo",
+    "educational document",
+    "income certificate"
+  ],
+  "application_link": null
+}

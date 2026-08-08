@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Marriage Assistance Scheme (MPBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered female worker or the daughter (legal, adopted or step‑daughter) of a registered construction worker",
+    "Applicant must have participated in the \"Chief Minister Kanya Vivaah/Nikah Scheme\"",
+    "Applicant must not have received similar assistance before",
+    "Applicant must have engaged in building or other construction work for at least 90 days during the preceding 12 months",
+    "Registration of the applicant must be renewed annually"
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹55,000 per marriage, including cash support and material assistance for the bride.",
+  "documents_required": [],
+  "application_link": "https://labour.mp.gov.in/"
+}

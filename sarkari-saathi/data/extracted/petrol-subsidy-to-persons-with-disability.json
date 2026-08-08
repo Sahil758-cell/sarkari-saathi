@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Petrol Subsidy To Persons With Disability",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a person with disability who owns a motorized vehicle.",
+    "Applicants receiving any conveyance allowance (voluntary or government) are ineligible.",
+    "Maximum subsidy limited to 20 litres of petrol/diesel per month."
+  ],
+  "benefits_summary": "Provides a 50% subsidy on actual petrol/diesel expenditure up to a maximum of 20 litres per month for eligible persons with disability.",
+  "documents_required": [],
+  "application_link": null
+}

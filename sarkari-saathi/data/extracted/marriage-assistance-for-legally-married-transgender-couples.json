@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Marriage Assistance For Legally Married Transgender Couples",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be transgender",
+    "Applicant must possess a Transgender Identity card",
+    "One of the partners must belong to the Transgender community",
+    "Couple must have undergone Sex Reassignment Surgery (SRS)",
+    "Financial assistance must be applied for after 6 months from the date of marriage and within 1 year",
+    "If already received assistance, not eligible for further aid after a second marriage following divorce"
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹30,000 to legally married transgender couples who have undergone Sex Reassignment Surgery (SRS).",
+  "documents_required": [
+    "Transgender Identity card"
+  ],
+  "application_link": null
+}

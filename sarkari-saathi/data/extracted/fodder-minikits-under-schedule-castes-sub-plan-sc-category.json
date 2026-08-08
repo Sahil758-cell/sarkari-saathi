@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Fodder Minikits under Schedule Castes Sub Plan (SC Category)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of Gujarat",
+    "Must possess 10 Guntha of land"
+  ],
+  "benefits_summary": "Beneficiaries receive a fodder seed minikit of 3 kg, 7 kg, or 10 kg.",
+  "documents_required": [],
+  "application_link": null
+}

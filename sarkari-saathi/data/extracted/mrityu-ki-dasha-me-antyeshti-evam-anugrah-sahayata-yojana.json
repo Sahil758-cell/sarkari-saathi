@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mrityu Ki Dasha Me Antyeshti Evam Anugrah Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The worker must have been registered for at least 6 months before death.",
+    "Death can be due to natural causes or an accident.",
+    "The worker must possess a valid identity card.",
+    "Beneficiary must be the spouse (wife or husband) holding a valid identity card, or sons and unmarried dependent daughters, or dependent parents, or any other family member dependent on the deceased worker if none of the above apply."
+  ],
+  "benefits_summary": "Provides a funeral assistance of ₹6,000 and ex‑gratia payments ranging from ₹1,00,000 to ₹4,00,000 depending on the cause of death or disability.",
+  "documents_required": [
+    "Valid identity card",
+    "Application form in the prescribed format"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Vishvakarma Durghatana Mrtyu par Antyeshti Evan Anugrah Raashi Bhugataan Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The construction worker must be registered as a beneficiary under Section 12 of the Act",
+    "Financial assistance is not provided if death is caused by deliberate suicide, consumption of intoxicating substances, or death due to fighting with each other in violation of law to commit a crime",
+    "Benefit is given only on the death of the registered worker, not on the death or accident of family members"
+  ],
+  "benefits_summary": "Provides ₹25,000 (normal death) or ₹1,00,000 (accidental death) plus ₹5,000 funeral assistance, and ₹75,000 for permanent disability.",
+  "documents_required": [
+    "scanned copy of the registration certificate"
+  ],
+  "application_link": null
+}

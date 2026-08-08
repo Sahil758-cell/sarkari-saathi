@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Safai Karmakar Ke Bachche Hetu Chhatravrtti Yojana",
+  "occupation": [
+    "sanitation workers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only two sons or daughters of registered sanitation workers are eligible for the scholarship",
+    "The student must be admitted to a college, polytechnic, engineering, medical or other professional course and study for a minimum of one year",
+    "If the student is eligible for a scholarship under any other government scheme, they may choose only one scheme",
+    "The student cannot receive benefits from two schemes simultaneously"
+  ],
+  "benefits_summary": "Provides an annual scholarship ranging from ₹1,000 to ₹15,000 depending on the education level and gender of the student.",
+  "documents_required": [],
+  "application_link": null
+}

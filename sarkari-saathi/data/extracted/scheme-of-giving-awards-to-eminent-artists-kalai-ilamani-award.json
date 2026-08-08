@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme of Giving Awards to Eminent Artists - Kalai Ilamani Award",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Financial assistance of ₹4,000, a certificate of appreciation and a shawl worth ₹500.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents",
+    "Photos of artworks"
+  ],
+  "application_link": null
+}

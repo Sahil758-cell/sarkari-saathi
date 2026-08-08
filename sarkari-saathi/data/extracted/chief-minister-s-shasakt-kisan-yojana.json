@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Chief Minister’s Shasakt Kisan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Arunachal Pradesh",
+    "Applicant should be a progressive farmer of any area/field",
+    "All categories of farmers are eligible"
+  ],
+  "benefits_summary": "Cash assistance of up to ₹1 lakh per hectare for tea and ₹80,000 per hectare for rubber plantation, along with seedlings, fencing material, tools, and cultivation inputs.",
+  "documents_required": [],
+  "application_link": null
+}

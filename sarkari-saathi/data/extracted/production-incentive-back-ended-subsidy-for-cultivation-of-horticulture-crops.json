@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Production Incentive / Back-Ended Subsidy for Cultivation of Horticulture Crops",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Farmers must possess a farmer's identity card or authenticated land records/documents.",
+    "Agricultural Officers (Horticulture) will conduct periodic field inspections to verify cultivation progress."
+  ],
+  "benefits_summary": "Cash assistance (one‑time, bi‑annual or annual) is provided to eligible horticulture farmers for crops such as mango, guava, sapota, other fruits, hybrid, country and winter vegetables, coconut, tapioca and betel vine.",
+  "documents_required": [
+    "Farmer's identity card",
+    "Authenticated land records/documents",
+    "Passport-sized photograph (signed across if required)"
+  ],
+  "application_link": null
+}

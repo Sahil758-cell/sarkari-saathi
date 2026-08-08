@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Thakur Sen Negi Utkrisht Chatravriti Yojana",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed Class 10th examination.",
+    "Must be among the top 100 girls or top 100 boys in the Matric Examination conducted by the Himachal Pradesh Board of School Education.",
+    "Must be studying in a recognized (including professional/technical) institution within or outside the state.",
+    "Must have a bank account.",
+    "Renewal for 10+2 class is contingent on satisfactory performance in internal examinations of the 10+1 class."
+  ],
+  "benefits_summary": "Scholarship of ₹11,000 per annum for two years awarded to 100 girls and 100 boys.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/fresh/newstdRegfrmInstruction"
+}

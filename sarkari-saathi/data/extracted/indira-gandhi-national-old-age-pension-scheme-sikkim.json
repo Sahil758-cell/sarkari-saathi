@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Indira Gandhi National Old Age Pension Scheme - Sikkim",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have any source of income",
+    "Applicant must not be a recipient of salary, pension, or family pension from the Central Government or any other State Government",
+    "Applicant must have opened a bank account under the Pradhan Mantri Jan Dhan Yojana scheme",
+    "Only one member per family is eligible; in case of death, the pension may be transferred to the spouse if the spouse is aged 60 or above",
+    "Beneficiary must submit a life certificate in the prescribed format every November"
+  ],
+  "benefits_summary": "Monthly pension of ₹1500, ₹2000 or ₹2500 depending on the beneficiary’s age, payable as long as the beneficiary is alive.",
+  "documents_required": [
+    "Life Certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Livestock Health and Diseases Control",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a bona fide farmer or livestock owner.",
+    "Beneficiary must have a valid livestock ownership document.",
+    "Beneficiary's livestock must be used for commercial purposes."
+  ],
+  "benefits_summary": "Improves animal health and productivity, reduces economic losses, and enhances rural livelihoods through better livestock disease control.",
+  "documents_required": [
+    "valid livestock ownership document"
+  ],
+  "application_link": null
+}

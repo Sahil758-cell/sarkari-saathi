@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Merit Cum Means Based Scholarship For Students Belonging To The Minority Communities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Applicant must belong to a Minority Community",
+    "Applicant must be pursuing a technical or professional course at the undergraduate or postgraduate level",
+    "Applicant must have secured not less than 50% marks (or equivalent grade) in the previous final examination"
+  ],
+  "benefits_summary": "Course fee up to ₹20,000 per annum (subject to actuals) and a monthly maintenance allowance of ₹1,000 for hostellers or ₹500 for day scholars.",
+  "documents_required": [],
+  "application_link": null
+}

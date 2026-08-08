@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for Assistance to Mega Industries: EPF Reimbursement",
+  "occupation": [
+    "manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum investment of ₹2,500 crore in plant and machinery.",
+    "Must provide direct employment to at least 2,500 persons.",
+    "Must belong to one of the thrust sectors defined in the Guidelines.",
+    "Only new employees without a Universal Account Number (UAN) before joining are eligible.",
+    "Reimbursement applies only to incremental employee count post‑expansion."
+  ],
+  "benefits_summary": "100% reimbursement of the employer’s EPF contribution, capped at 12% of basic salary + DA or ₹1800 per month, whichever is lower.",
+  "documents_required": [],
+  "application_link": null
+}

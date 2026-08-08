@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Lease Rental Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a New or Existing IT unit operating in Goa",
+    "The unit must be one of the following legal entities: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership",
+    "Bank accounts of the unit and/or its partner(s)/director(s) must be linked to Aadhaar",
+    "Only expenses incurred after the notification of the policy are eligible for the subsidy",
+    "The unit should be operational for at least one year before applying for the incentive",
+    "Employees must be on the rolls of the company for a minimum period of one year to qualify for the rebate",
+    "Units will be subject to evaluation at the end of the fiscal year or each installment period to verify continued eligibility"
+  ],
+  "benefits_summary": "Provides lease rental reimbursement up to 50% (60% where ≥30% of employees are women) of annual lease rentals for up to two years, with additional incentives based on employee composition and caps for smaller business units.",
+  "documents_required": [],
+  "application_link": null
+}

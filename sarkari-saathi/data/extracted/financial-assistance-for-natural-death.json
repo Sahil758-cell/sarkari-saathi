@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance for Natural Death",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the legal heir of the deceased construction worker.",
+    "The deceased construction worker must be registered under the Maharashtra Building and Other Construction Workers' Welfare Board.",
+    "The death of the deceased worker must be due to natural death."
+  ],
+  "benefits_summary": "Financial assistance of ₹2,00,000 is provided to the legal heir of a registered worker who dies due to natural death.",
+  "documents_required": [],
+  "application_link": null
+}

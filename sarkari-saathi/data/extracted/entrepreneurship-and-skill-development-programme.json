@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Entrepreneurship and Skill Development Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Participant must be 18 years or older",
+    "Must be youth or any individual interested in setting up an industrial/self‑employment venture",
+    "Qualification and fee structure are decided by the implementing agency",
+    "Preference is given to candidates from SC, ST, women, ex‑servicemen, physically handicapped and BPL categories",
+    "Fee exemption is provided for SC, ST, differently‑abled persons, ex‑servicemen, BPL participants and women",
+    "Age relaxation may be granted for school drop‑outs at the discretion of the programme head",
+    "No upper age limit",
+    "Selection is based on recommendations of field offices, with final decision by AS&DC (MSME)"
+  ],
+  "benefits_summary": "Provides entrepreneurship and skill development training, including awareness, basic and advanced programmes, with fee exemptions for SC, ST, women, BPL and differently‑abled participants.",
+  "documents_required": [
+    "Aadhaar (authenticated attendance)"
+  ],
+  "application_link": "https://dcmsme.gov.in/All_MSME_DIs_TCs.aspx"
+}

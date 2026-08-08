@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Shramik Basera Yojana (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a construction worker registered with the Gujarat Building and Other Construction Workers Welfare Board (GBOCWWB)",
+    "Must present a valid identity card/smart card (e‑Erniman card) that is renewed on time",
+    "Family members of the registered worker are also eligible"
+  ],
+  "benefits_summary": "Provides prefabricated temporary accommodation for registered construction workers at a nominal charge of ₹5 per day.",
+  "documents_required": [
+    "e‑Erniman identity/smart card"
+  ],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

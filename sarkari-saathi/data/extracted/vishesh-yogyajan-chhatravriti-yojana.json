@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Vishesh Yogyajan Chhatravriti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan",
+    "Applicant must be a student",
+    "Applicant must have at least 40% disability",
+    "Applicant must be a regular student in a government or recognized educational institution",
+    "Applicant must have passed the previous academic year",
+    "Applicant must not be a recipient of any other state government or NGO/trust-provided scholarship or allowance"
+  ],
+  "benefits_summary": "Provides scholarships and tuition fee reimbursement to disabled students from low‑income families.",
+  "documents_required": [],
+  "application_link": null
+}

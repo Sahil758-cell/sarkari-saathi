@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Permanent Partial Disability",
+  "occupation": [
+    "worker",
+    "craftsman"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a permanent partial disability (one eye or one leg non‑functional due to accident or paralysis).",
+    "Age is calculated as of 1 July of any year."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹37,500 to eligible workers or craftsmen with permanent partial disability.",
+  "documents_required": [],
+  "application_link": null
+}

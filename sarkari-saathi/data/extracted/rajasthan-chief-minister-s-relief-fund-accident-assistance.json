@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Rajasthan Chief Minister's Relief Fund - Accident Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The victim must have suffered a serious injury or death due to an accident.",
+    "Assistance for death is payable only to dependent parents, spouse, son or daughter of the deceased (grandparents or dependent siblings may be considered under special circumstances with CM’s consent).",
+    "The applicant must submit the request within six months of the accident date.",
+    "Applications can be made to the Tehsil/District Collector’s Office, the Chief Minister’s Office, or via the official email address."
+  ],
+  "benefits_summary": "Provides a one‑time assistance of ₹1,00,000 to dependents in case of death and up to ₹20,000 for serious injury, disbursed by the district collector.",
+  "documents_required": [
+    "Letter requesting the assistance",
+    "Self‑attested documents"
+  ],
+  "application_link": null
+}

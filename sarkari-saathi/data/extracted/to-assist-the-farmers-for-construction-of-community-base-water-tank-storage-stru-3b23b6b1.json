@@ -1,0 +1,32 @@
+{
+  "scheme_name": "To Assist the Farmers for Construction of Community Base Water Tank/Storage Structure for Efficient Use of Water Through Drip Irrigation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a farmer",
+    "Applicant must belong to Gujarat state",
+    "Water tank must be constructed on applicant’s own farmland",
+    "Farmer must have adopted the Micro Irrigation System (MIS)",
+    "Farmer must cover at least one hectare of land per 75 cubic meters of water tank under MIS",
+    "Group must consist of two or more farmers",
+    "One farmer must be selected as the leader to submit the application on behalf of the group",
+    "Water tank must be constructed on the land of one of the farmers in the group",
+    "Each group member must have adopted the Micro Irrigation System (MIS)",
+    "Group must cover at least one hectare per 75 cubic meters of water tank under MIS",
+    "Group must provide a mutual consent certificate (no separate registration required)",
+    "Benefit is available only once in a lifetime for both individual and group applicants"
+  ],
+  "benefits_summary": "Provides 50% of the water tank cost up to ₹9,80,000, available only once in a lifetime.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

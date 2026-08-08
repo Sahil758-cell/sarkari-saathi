@@ -1,0 +1,29 @@
+{
+  "scheme_name": "General Surgery Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must not be a member of any other Welfare Fund established under any law",
+    "Must not have membership of the Employees' Provident Fund (EPF), National Pension System (NPS), or Employees' State Insurance Corporation (ESIC)",
+    "Must not be an income tax payer",
+    "Applicant must be a registered member under the Building and Other Construction Workers Welfare Board of Punjab or a family member of such a worker",
+    "Member must be depositing contribution to the Board regularly",
+    "Applicant must have undergone general surgery for himself or any family member"
+  ],
+  "benefits_summary": "Financial assistance up to ₹50,000 or actual expenses, whichever is less, for general surgery of the beneficiary or family members.",
+  "documents_required": [],
+  "application_link": null
+}

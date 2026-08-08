@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Indira Gandhi National Special Ability Pension",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 79,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must have a valid bank account",
+    "Applicants with more than 70% disability must not be employed in government, semi‑government, corporations, or boards"
+  ],
+  "benefits_summary": "Provides a monthly pension of Rs. 1300 to disabled individuals (80%+ disability) from the government and state, and additional allowances for lower disability levels.",
+  "documents_required": [],
+  "application_link": null
+}

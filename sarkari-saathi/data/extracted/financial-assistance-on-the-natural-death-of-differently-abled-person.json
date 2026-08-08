@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Financial Assistance on the Natural Death of Differently Abled Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the legal heir of the differently abled person",
+    "Differently‑abled person must have died a natural death",
+    "Differently‑abled person must have been a registered member of the Welfare Board for the Differently‑abled"
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000 to the legal heir of a differently‑abled person who dies a natural death.",
+  "documents_required": [],
+  "application_link": null
+}

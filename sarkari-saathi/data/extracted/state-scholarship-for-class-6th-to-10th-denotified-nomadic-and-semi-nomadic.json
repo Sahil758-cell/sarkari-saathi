@@ -1,0 +1,25 @@
+{
+  "scheme_name": "State Scholarship for Class 6th to 10th (Denotified, Nomadic and Semi-Nomadic )",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Applicant must belong to the Denotified, Nomadic, or Semi‑Nomadic community",
+    "Applicant must be studying in Class 6th to 10th",
+    "Eligibility is retained even if the student has failed one year",
+    "No need to reapply for renewal if the student continues in the same class category (6th‑8th or 9th‑10th)"
+  ],
+  "benefits_summary": "Annual scholarship for 10 months ranging from ₹200 to ₹1,200, with higher amounts for higher classes and for girls.",
+  "documents_required": [],
+  "application_link": null
+}

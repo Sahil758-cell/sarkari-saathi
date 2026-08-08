@@ -1,0 +1,33 @@
+{
+  "scheme_name": "CHIEF MINISTER EMPLOYMENT GENERATION PROGRAMME (CMEGP)",
+  "occupation": [
+    "unemployed youth",
+    "Youth willing to establish new ventures"
+  ],
+  "gender": "any",
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Age is relaxed by 5 years for special categories (SC, ST, Women, Ex‑servicemen, Differently abled)",
+    "Marital status: all",
+    "Educational qualification: minimum 7th standard for projects above Rs 10 lakh; minimum 10th standard for projects above Rs 25 lakh",
+    "Beneficiary’s contribution to project cost must be between 5% and 10% as per category",
+    "No income criteria"
+  ],
+  "benefits_summary": "Offers subsidies ranging from 5% to 35% of project cost, with higher rates for special categories and rural locations.",
+  "documents_required": [],
+  "application_link": "https://maha-cmegp.gov.in"
+}

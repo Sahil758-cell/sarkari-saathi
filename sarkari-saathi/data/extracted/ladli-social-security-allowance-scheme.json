@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Ladli Social Security Allowance Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The biological single parent(s) must be domiciled in Haryana or employed by the Government of Haryana",
+    "The family must have no son (biological or adopted)",
+    "The family must have one or more girl children",
+    "The benefit is payable to the mother, or to the father if the mother is deceased",
+    "The benefit starts after either parent turns 45 years of age"
+  ],
+  "benefits_summary": "₹2,500 per month for 15 years, payable to the mother (or father if mother is deceased) after a parent reaches 45 years of age.",
+  "documents_required": [],
+  "application_link": null
+}

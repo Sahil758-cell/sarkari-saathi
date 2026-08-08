@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Sant Ravi Das Swarojgaar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": 1200000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum educational qualification: 12th class passed.",
+    "Applicant must not be a defaulter of any bank, financial institution, MFI, NBFC, SFB, or PACS.",
+    "Applicant must not be a beneficiary of any other self‑employment scheme of the state or central government.",
+    "Family definition: if unmarried, the applicant and dependent parents; if married, the applicant, spouse, and dependent children (no age limit for dependent unmarried children)."
+  ],
+  "benefits_summary": "SC beneficiaries receive a 5% annual interest subsidy on term and working‑capital loans for up to seven years, including the moratorium period.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

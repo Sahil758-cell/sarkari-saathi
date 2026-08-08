@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Ganga Swarupa Punah Lagna Arthik Sahay Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a beneficiary of the \"Ganga Swarup Economic Assistance Scheme\"."
+  ],
+  "benefits_summary": "Provides financial assistance of ₹25,000 each through direct bank transfer and National Savings Certificates.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Subsidy Scheme On Establishment Of 40 R.I.R. Birds Unit For Divyang People",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be an adult belonging to the Divyang community in Gujarat",
+    "Income proof must be submitted with the application",
+    "Priority is given to female applicants and those below the poverty line",
+    "Applicant must have completed poultry‑keeping training",
+    "Beneficiary must ensure the birds are kept safe during night hours",
+    "The unit must be maintained for two years as per scheme conditions"
+  ],
+  "benefits_summary": "Provides a 40 R.I.R bird unit with poultry feed and a 90% subsidy (up to ₹7200), along with regular vaccination of the birds.",
+  "documents_required": [
+    "Income proof"
+  ],
+  "application_link": null
+}

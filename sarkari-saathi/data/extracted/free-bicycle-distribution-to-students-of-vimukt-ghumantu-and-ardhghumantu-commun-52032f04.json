@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Free Bicycle Distribution to Students of Vimukt, Ghumantu and Ardhghumantu Communities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student.",
+    "Applicant must belong to one of the Denotified Tribes, Nomadic Tribes, or Semi‑Nomadic Tribes as notified by the Government of Rajasthan.",
+    "Applicant must be studying in class 6, 7, 8, 9, 10, or 11.",
+    "Applicant must be enrolled in a government or private educational institution/school affiliated with the Rajasthan Board of Secondary Education, Ajmer.",
+    "Applicant must have secured 60% or more marks in the previous academic year.",
+    "Applicant must not have previously availed the benefit of this scheme.",
+    "Eligibility is limited to students from 32 specific communities (9 Denotified, 10 Nomadic, 13 Semi‑Nomadic) as per Government Order No. F-1(1)(2)S.W/63 dated 24.02.1964 Annexure ‘A’."
+  ],
+  "benefits_summary": "Free bicycles are provided to eligible students in classes 6‑11 studying in government or recognized private schools.",
+  "documents_required": [],
+  "application_link": null
+}

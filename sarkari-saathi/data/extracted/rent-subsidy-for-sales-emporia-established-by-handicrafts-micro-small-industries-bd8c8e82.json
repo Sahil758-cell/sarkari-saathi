@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Rent Subsidy for Sales Emporia Established by Handicrafts / Micro & Small Industries Emporium",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must own a Sales Emporium/Showroom located in Puducherry."
+  ],
+  "benefits_summary": "Provides up to 90% rent subsidy (maximum ₹10,000 per month) and up to 75% reimbursement of infrastructure expenses (maximum ₹1,50,000) for three years.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

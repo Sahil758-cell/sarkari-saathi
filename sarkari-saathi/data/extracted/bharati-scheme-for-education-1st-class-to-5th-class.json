@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Bharati Scheme for Education - 1st Class to 5th Class",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to the Brahmin community",
+    "Student must be studying in Andhra Pradesh",
+    "Parents/guardians must reside in Andhra Pradesh",
+    "Student must be enrolled in the Praja Sadhikara Survey (PSS)",
+    "Student must not have availed any amount under any other government scheme for the same purpose",
+    "Students benefiting from Archaka Welfare Trust are also eligible",
+    "Priority is given to orphans, differently abled (physically handicapped) children and children of single parents"
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 per student for classes 1 to 5.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook"
+  ],
+  "application_link": null
+}

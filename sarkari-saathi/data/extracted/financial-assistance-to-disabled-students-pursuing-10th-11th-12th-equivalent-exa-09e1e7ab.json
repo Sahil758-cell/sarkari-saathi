@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance To Disabled Students Pursuing (10th, 11th, 12th Equivalent Exams)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": false,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must have a disability of 40% or more",
+    "Applicants must be residents of Kerala State",
+    "Applicants must be students pursuing SSLC, 11th or 12th equivalent examinations"
+  ],
+  "benefits_summary": "Provides fee assistance for SSLC, 11th, and 12th equivalent courses, covering course fee, exam fee, registration fee, and admission fee as applicable.",
+  "documents_required": [],
+  "application_link": null
+}

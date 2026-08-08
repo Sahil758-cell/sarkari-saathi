@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Dr. Muthulakshmi Reddy Ninaivu Inter-caste Marriage Assistance Scheme-II",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both spouses must belong to a backward class or most backward class community",
+    "The bride must have passed the 10th standard",
+    "If the bride belongs to a scheduled tribe, she must have studied up to the 5th standard",
+    "The bride must hold a degree from a regular college, distance education institute, or a government‑recognized open university",
+    "The applicant must hold a diploma from an institution recognized by the Directorate of Technical Education, Government of Tamil Nadu",
+    "The application must be submitted before the child of the couple turns three years old"
+  ],
+  "benefits_summary": "Provides a total financial assistance of ₹50,000 to the newly married couple (₹30,000 via ECS, ₹20,000 as a National Savings Certificate) along with a 22‑carat gold coin (1 sovereign).",
+  "documents_required": [],
+  "application_link": null
+}

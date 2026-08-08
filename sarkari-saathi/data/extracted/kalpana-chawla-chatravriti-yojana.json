@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Kalpana Chawla Chatravriti Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular student of 10+2 academic, professional or technical course in Science/Arts/Commerce stream.",
+    "Institution must be a Government, Government Aided or Private school affiliated with the Himachal Pradesh Board of School Education.",
+    "Scholarship is awarded based on 10+2 merit declared by the Himachal Pradesh Board of School Education, Dharamshala.",
+    "Scholarship is for higher education courses, including undergraduate, postgraduate, and professional courses."
+  ],
+  "benefits_summary": "Scholarship amount of ₹15,000 per annum, renewable for up to five years.",
+  "documents_required": [],
+  "application_link": "http://www.scholarships.gov.in/"
+}

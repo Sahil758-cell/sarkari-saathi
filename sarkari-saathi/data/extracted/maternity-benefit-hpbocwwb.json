@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Maternity Benefit (HPBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Himachal Pradesh",
+    "The applicant must be a building/construction worker registered with the Himachal Pradesh Building and Other Construction Workers Welfare Board",
+    "The worker must have completed at least 90 days of construction work in the last 12 months",
+    "The worker must have at least two months of subscription with the Board",
+    "The worker's membership with the Welfare Board must be active at the time of application",
+    "The beneficiary must be pregnant"
+  ],
+  "benefits_summary": "A cash assistance of ₹25,000 per registered female worker at the time of delivery or birth of a child.",
+  "documents_required": [
+    "Hard copy application form",
+    "Passport-sized photograph",
+    "Wage slip or appointment letter from employer",
+    "Certificate from a local authority (councilor, executive officer, or Panchayat Secretary)"
+  ],
+  "application_link": null
+}

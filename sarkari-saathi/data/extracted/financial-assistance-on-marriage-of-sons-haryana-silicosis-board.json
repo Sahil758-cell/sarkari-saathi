@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Financial Assistance on Marriage of Sons- Haryana Silicosis Board",
+  "occupation": [
+    "factory worker",
+    "construction site worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be suffering from silicosis as confirmed by the Silicosis Diagnosis Board, Haryana",
+    "The applicant must be registered with the Haryana Silicosis Board",
+    "Assistance is limited to the marriage of up to two sons of the worker only"
+  ],
+  "benefits_summary": "Financial assistance of ₹11,000 per worker for the marriage of up to two sons.",
+  "documents_required": [
+    "Medical certificate",
+    "Proof of identity",
+    "Application form",
+    "Certificate of being a widow/widower or nominee (if applicable)"
+  ],
+  "application_link": null
+}

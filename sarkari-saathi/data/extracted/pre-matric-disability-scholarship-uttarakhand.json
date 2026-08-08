@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pre-Matric Disability Scholarship - Uttarakhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be an institutional student in a recognized school in Uttarakhand",
+    "Must have passed the previous year's examination",
+    "Cannot be studying in more than one school in the same academic year",
+    "Name on the scholarship application must match the name on Aadhaar and bank account",
+    "Must provide the guardian's mobile number",
+    "The same mobile number can be used by multiple students from the same family"
+  ],
+  "benefits_summary": "Students in classes 1‑5 receive ₹600 per year, and students in classes 6‑8 receive ₹960 per year.",
+  "documents_required": [],
+  "application_link": null
+}

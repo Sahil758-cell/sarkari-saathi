@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Assistance for Power Driven Chaff Cutter Scheme under Tribal Area Sub Plan (TASP- ST Category)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must own at least five animals"
+  ],
+  "benefits_summary": "Financial assistance up to 75% of the purchase cost of a powered chaff cutter, up to ₹18,000, is provided to eligible ST dairy farmers.",
+  "documents_required": [
+    "Purchase bill"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

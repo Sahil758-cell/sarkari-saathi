@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have private or leased land available for pond construction."
+  ],
+  "benefits_summary": "Provides a 70% subsidy on pond construction costs, disbursed 60% after construction and 40% after equipment installation.",
+  "documents_required": [
+    "Affidavit form",
+    "Consent form"
+  ],
+  "application_link": null
+}

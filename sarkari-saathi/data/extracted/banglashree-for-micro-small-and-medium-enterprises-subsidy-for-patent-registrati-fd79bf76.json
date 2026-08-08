@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Patent Registration (PRS)",
+  "occupation": [
+    "Micro Enterprise",
+    "Small Enterprise",
+    "Medium Enterprise"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to the manufacturing sector.",
+    "Production should have started on or after 1st April 2019.",
+    "Date of Commencement of Commercial Production should be between 1st April 2020 and 31st March 2025.",
+    "Business/organization should be in the private sector, cooperative sector, joint sector undertaking, owned and managed by the State Government, or an Industrial SHG."
+  ],
+  "benefits_summary": "Reimbursement of 50% of patent registration expenses up to ₹5,00,000 per enterprise.",
+  "documents_required": [],
+  "application_link": null
+}

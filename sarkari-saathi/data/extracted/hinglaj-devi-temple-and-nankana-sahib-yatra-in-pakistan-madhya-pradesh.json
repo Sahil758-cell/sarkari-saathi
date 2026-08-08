@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Hinglaj Devi Temple and Nankana Sahib Yatra in Pakistan- Madhya Pradesh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have completed the pilgrimage to Hinglaj Devi Temple and Nankana Sahib in Pakistan.",
+    "The applicant should not be an income taxpayer.",
+    "Each individual is eligible for the grant only once in their lifetime."
+  ],
+  "benefits_summary": "State Government reimburses 50% of pilgrimage expenses up to ₹30,000 per pilgrim.",
+  "documents_required": [
+    "Certificate of actual expenses incurred after the journey",
+    "Prescribed application form",
+    "Records of pilgrimage"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Free Distribution of Blankets and Chappals to Senior Citizen",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry",
+    "Karaikal",
+    "Mahe",
+    "Yanam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a recipient of Old Age Pension."
+  ],
+  "benefits_summary": "One blanket and one pair of chappals each year.",
+  "documents_required": [],
+  "application_link": null
+}

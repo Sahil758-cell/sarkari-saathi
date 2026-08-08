@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Startup Manipur",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "At least one promoter must have domicile in Manipur.",
+    "Completion of incubation is a mandatory requirement as notified by the State government."
+  ],
+  "benefits_summary": "The program offers incubation, training, networking, regulatory facilitation and access to financial resources to help nurture up to 1,000 startups in Manipur.",
+  "documents_required": [],
+  "application_link": null
+}

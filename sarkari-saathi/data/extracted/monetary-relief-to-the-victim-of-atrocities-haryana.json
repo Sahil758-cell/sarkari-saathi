@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Monetary Relief to the Victim of Atrocities- Haryana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana",
+    "Applicant must be a victim or a family member/dependent of a victim of an atrocity committed by non‑Scheduled Caste persons",
+    "An FIR must be lodged under the SC/ST Prevention of Atrocities Act, 1989"
+  ],
+  "benefits_summary": "Financial assistance ranging from ₹85,000 to ₹8,25,000 is provided to victims of atrocities belonging to Scheduled Castes or Scheduled Tribes.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}

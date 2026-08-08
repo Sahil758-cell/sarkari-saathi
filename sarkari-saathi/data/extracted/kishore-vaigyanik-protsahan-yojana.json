@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Kishore Vaigyanik Protsahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "For Stream SA: must have passed 10th class with at least 75% marks (65% for SC/ST/PwD) and be enrolled in 12th science stream.",
+    "For Stream SX: must have passed 12th class with at least 75% marks (65% for SC/ST/PwD) and be enrolled in higher education with a science subject.",
+    "For Stream SB: must have passed 12th class with at least 75% marks (65% for SC/ST/PwD) and be enrolled in the first year of graduation with a science subject"
+  ],
+  "benefits_summary": "Provides monthly scholarships of ₹5,000 for school students and ₹7,000 for undergraduate/post‑graduate students, together with annual contingency grants and research opportunities.",
+  "documents_required": [
+    "passport‑size photo",
+    "signature",
+    "other necessary documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have passed Class 8th.",
+    "Applicant must be a permanent resident of the state of Jammu & Kashmir.",
+    "Age limit is 18–35 years, with an upper limit of 45 years for women, PVTGs, PwDs, transgender people, and other special groups."
+  ],
+  "benefits_summary": "Free skill training (3‑12 months) with at least 70% placement assurance and post‑placement support for both urban and rural youth.",
+  "documents_required": [],
+  "application_link": null
+}

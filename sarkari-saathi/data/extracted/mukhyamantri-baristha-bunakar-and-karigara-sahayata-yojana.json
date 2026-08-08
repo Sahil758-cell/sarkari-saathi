@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Mukhyamantri Baristha Bunakar and Karigara Sahayata Yojana",
+  "occupation": [
+    "Weaver",
+    "Ancillary Worker",
+    "Handicraft Artisan"
+  ],
+  "gender": "any",
+  "age_min": 40,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident/domicile of Odisha",
+    "Name must appear in the latest survey list of weavers, ancillary workers or artisans, unless the applicant is a National, Stale, Kalakruti, Tantakruti awardee or holds a Design/Merit certificate in the Handloom/Handicraft sector",
+    "Only one member per family can receive assistance",
+    "Government employees, income‑tax payers, retired government employees of the Union or any State Government are not eligible",
+    "Applicants receiving similar benefits under any other state or central government scheme (e.g., Madhubabu Pension Yojana, Mukhyamantri Kalakar Sahayata Yojana) are ineligible",
+    "Anyone convicted of any criminal offence is ineligible",
+    "Beneficiaries cannot apply again after enrollment"
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per month for eligible weavers, ancillary workers and handicraft artisans (40‑79 years for females, 50‑79 years for males) and ₹2,500 per month for those aged 80 years or more.",
+  "documents_required": [
+    "Income Certificate issued by the concerned Tahasildar/Additional Tahasildar or other competent revenue authority",
+    "Application in the prescribed format (Annexure‑1)"
+  ],
+  "application_link": null
+}

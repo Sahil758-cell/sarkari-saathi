@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Zero Ticket Bus Travel Scheme for Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Women must be permanent residents of Tamil Nadu",
+    "Travel limit of 30 kilometers per trip"
+  ],
+  "benefits_summary": "Free bus travel up to 30 km on Tamil Nadu government buses.",
+  "documents_required": [],
+  "application_link": null
+}

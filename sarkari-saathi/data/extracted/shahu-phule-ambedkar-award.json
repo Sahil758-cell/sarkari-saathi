@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Shahu, Phule, Ambedkar Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The organization must be a registered institute/organization.",
+    "The organization must have performed social‑justice work in Maharashtra for at least 15 years."
+  ],
+  "benefits_summary": "Each award confers a prize of ₹15,00,000 along with a memento and a silver Krol citation.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)"
+  ],
+  "application_link": null
+}

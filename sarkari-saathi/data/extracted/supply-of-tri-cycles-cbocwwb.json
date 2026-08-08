@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Supply of Tri-Cycles (CBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be working in an establishment registered under the Punjab Labour Welfare Fund Act, 1965",
+    "The applicant’s contribution towards the labour welfare fund must be regularly received by the Board",
+    "A disability certificate issued by the competent authority is required",
+    "The applicant must have been a member of the Board for at least 6 months before applying",
+    "The benefit is available to disabled registered construction workers and their dependents"
+  ],
+  "benefits_summary": "One‑time supply of a tri‑cycle to a disabled construction worker or their dependent.",
+  "documents_required": [
+    "Disability certificate issued by competent authority",
+    "Clear picture of both sides of Aadhaar card",
+    "Clear picture of bank passbook",
+    "Clear pictures of all pages of the BOCW copy issued by the Board"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

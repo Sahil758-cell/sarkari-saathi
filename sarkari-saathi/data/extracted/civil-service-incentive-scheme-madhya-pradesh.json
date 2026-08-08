@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Civil Service Incentive Scheme (Madhya Pradesh)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have cleared the Union Public Service Commission (UPSC) or Madhya Pradesh Public Service Commission (MPSC) examinations.",
+    "Must be a native of Madhya Pradesh."
+  ],
+  "benefits_summary": "Provides cash incentives ranging from ₹20,000 to ₹60,000 for successful candidates at various stages of UPSC and MPSC examinations.",
+  "documents_required": [
+    "Hard copy of the prescribed application form format",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

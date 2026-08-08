@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Financial Assistance To Dependent Children Of Widows And Destitute Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow or destitute woman, or the legal guardian of the child/children",
+    "Applicant must have resided in the Union Territory of Chandigarh for more than 3 years",
+    "Child must be 18 years of age or younger",
+    "Child must not be receiving any family pension from any State or Central Government",
+    "Children who are under institutional care by government or NGOs are not eligible",
+    "Assistance is limited to up to two children per family"
+  ],
+  "benefits_summary": "₹1000 per month per child, for up to two children, to meet maintenance and education costs.",
+  "documents_required": [],
+  "application_link": null
+}

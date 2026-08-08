@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Leprosy Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": "any",
+  "other_conditions": [
+    "Permanent resident of Uttar Pradesh",
+    "Disability due to leprosy (any percentage)",
+    "Not receiving any other pension schemes"
+  ],
+  "benefits_summary": "A monthly grant of Rs. 3000 is paid to each beneficiary disabled due to leprosy.",
+  "documents_required": [
+    "Photograph",
+    "Age Certificate",
+    "Disability Certificate"
+  ],
+  "application_link": null
+}

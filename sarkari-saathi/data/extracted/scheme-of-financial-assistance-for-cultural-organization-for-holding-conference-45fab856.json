@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme of Financial Assistance for Cultural Organization for Holding Conference, Seminar, Symposium, Exhibition, Festival, Competition etc.",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The institution must have a standing of at least 2 years in the field.",
+    "Institutions/organizations must obtain prior permission/approval of the Government before inviting foreign delegates to seminars and symposiums."
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 per year.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attest, if required)"
+  ],
+  "application_link": null
+}

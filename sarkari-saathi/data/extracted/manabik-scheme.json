@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Manabik Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of at least 50% as certified by a medical officer",
+    "Resident of West Bengal for a minimum of 10 years at the date of application",
+    "Family income must not exceed ₹1,00,000 per month",
+    "Declared unsuitable for physical work by the respective medical officer"
+  ],
+  "benefits_summary": "Provides a pension of Rs 1,000 per month transferred directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "Self attested copies of Disability Certificate from Appropriate Authority",
+    "Aadhaar card",
+    "Digital Ration Card / EPIC card",
+    "Copy of front page of Bank Pass Book",
+    "Color passport size photograph"
+  ],
+  "application_link": null
+}

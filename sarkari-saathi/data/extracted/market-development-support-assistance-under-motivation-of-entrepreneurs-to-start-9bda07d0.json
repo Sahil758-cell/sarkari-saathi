@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Market Development Support Assistance",
+  "occupation": [
+    "Micro",
+    "Small",
+    "Medium",
+    "Large"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Investment must be made on or after 1 April 2017.",
+    "The unit must provide at least 60% of its employment to residents of Puducherry, and maintain this ratio for the period specified in the affidavit.",
+    "Prior approval from the Director of Industries is required for participation in the exhibition.",
+    "The unit shall not transfer or dispose of fixed assets for five years from the date of application submission or subsidy disbursement, whichever is later.",
+    "Additional investments made after the first claim are eligible for subsidy up to the ceiling limit.",
+    "If two or more industrial undertakings are set up by the same person, they are eligible as separate entities provided they are in different locations and have separate licences/clearances/registrations.",
+    "Application deadline for new units: within one year from the date of commencement of obtaining the Entrepreneurs Memorandum Part‑2/ Permanent Registration/ Commencement of Production Certificate. Application deadline for existing units: within one year of completion of expansion/diversification/modernization."
+  ],
+  "benefits_summary": "Provides a subsidy of up to 50% of rent, literature and display material (maximum ₹5,00,000) for participation in international trade fairs.",
+  "documents_required": [],
+  "application_link": null
+}

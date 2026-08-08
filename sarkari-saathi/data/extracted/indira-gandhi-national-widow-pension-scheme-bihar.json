@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme- Bihar",
+  "occupation": null,
+  "gender": null,
+  "age_min": 40,
+  "age_max": 79,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow",
+    "Widow must not be receiving pension benefits under any social security scheme"
+  ],
+  "benefits_summary": "A monthly pension of ₹400 paid directly to beneficiaries via DBT.",
+  "documents_required": [
+    "Filled and signed application form in prescribed format",
+    "Valid identity card"
+  ],
+  "application_link": null
+}

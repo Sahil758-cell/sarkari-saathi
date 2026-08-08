@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhyamantri Rajya Bridhhabasta Pension Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should not be a beneficiary under any other Social Security pension scheme",
+    "Applicant or their spouse should not be retired or permanently employed in Central or State Government or in public sector undertakings",
+    "Applicant or their spouse should not be a recipient of any Government pension from Central or State Government or public sector undertakings",
+    "Applicant’s family is not an income tax payee",
+    "Applicant must possess a Voter ID card and an Aadhar Card"
+  ],
+  "benefits_summary": "₹1,000 per month transferred directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "Voter ID card",
+    "Aadhar Card"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "National Handloom Development Programme (NHDP): Scholarship Component",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Children of handloom weavers or workers (maximum of two children per family)",
+    "Applicants must be enrolled in 3‑ or 4‑year Diploma, Graduate or Post‑Graduate programmes at Central or State Government‑recognized and funded textile institutions"
+  ],
+  "benefits_summary": "Provides up to ₹2,00,000 per year for tuition and related fees along with a monthly stipend of ₹5,000 for eligible children of handloom weavers.",
+  "documents_required": [
+    "Passport‑sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Original documents verified/attested by the WSC",
+    "Proposal submitted by the concerned WSC",
+    "Mark sheet for the annual exam",
+    "Admission proof for the next academic session"
+  ],
+  "application_link": null
+}

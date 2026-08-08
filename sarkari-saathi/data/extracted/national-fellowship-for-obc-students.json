@@ -1,0 +1,28 @@
+{
+  "scheme_name": "National Fellowship For OBC Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Candidates must belong to the Other Backward Class (OBC) category.",
+    "Must have qualified the UGC‑NET‑JRF (Humanities/Social Sciences) or UGC‑CSIR‑NET‑JRF (Science) examinations.",
+    "Must be enrolled in a regular full‑time M.Phil. or Ph.D. programme at a university or research institution recognised by the UGC.",
+    "Must obtain placement in a University/IIT/Institution for the fellowship.",
+    "Employees of any university, college, educational institution or Central/State/UT government are excluded, even if on study or extraordinary leave.",
+    "Candidates who are already receiving other central or state government fellowship benefits are not eligible for this fellowship.",
+    "Selection is based on merit in the qualifying NET examinations.",
+    "The total duration of JRF (2 years) plus possible SRF (up to 3 years) cannot exceed 5 years."
+  ],
+  "benefits_summary": "Provides a monthly fellowship of ₹31,000 for the first two years (JRF) and ₹35,000 thereafter (SRF), along with allowances such as contingency, HRA, and assistance for disabled candidates.",
+  "documents_required": [],
+  "application_link": null
+}

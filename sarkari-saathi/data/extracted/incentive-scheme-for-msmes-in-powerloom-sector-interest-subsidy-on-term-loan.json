@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Interest Subsidy on Term Loan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible micro, small or medium enterprises (MSMEs) operating in the powerloom sector.",
+    "Enterprises must have started production between 01‑01‑2022 and 31‑12‑2024.",
+    "A four‑party agreement must be executed with the Directorate of Textiles, the financial institution and Tantuja.",
+    "Units can be private sector, cooperative sector, joint sector undertakings, companies/undertakings owned and managed by the State Government, or industrial SHGs.",
+    "The project must be covered by a detailed feasibility report/project prepared for the purpose.",
+    "The project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution."
+  ],
+  "benefits_summary": "Provides interest subsidy on term loans for powerloom MSMEs – up to 70% of interest liability for micro/small enterprises (zone‑specific) and up to 25% for medium enterprises for five years, subject to a ceiling of ₹1.75 crore per year.",
+  "documents_required": [],
+  "application_link": null
+}

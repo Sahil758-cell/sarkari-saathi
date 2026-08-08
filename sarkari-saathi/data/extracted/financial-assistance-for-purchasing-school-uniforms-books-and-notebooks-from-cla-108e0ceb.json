@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Financial Assistance for Purchasing School Uniforms, Books and Notebooks from Class 1st to 12th for Children of Workers- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be employed in an industrial or commercial establishment in Haryana",
+    "The worker must be registered with the Haryana Labour Welfare Board",
+    "The worker’s monthly salary must not exceed ₹25,000",
+    "The worker’s service period is fixed for two years",
+    "Children must be studying in Class I to Class XII at the time of admission",
+    "The scheme allows up to three girls and two boys per worker",
+    "The child’s name must be mentioned on the worker’s Ration Card or ESI Card",
+    "Applications must be submitted on or before 31 December of the respective session"
+  ],
+  "benefits_summary": "Provides a one‑time financial assistance of ₹3,000 for children in Class I‑IV and ₹4,000 for children in Class V‑XII.",
+  "documents_required": [
+    "Ration Card or ESI Card of the worker",
+    "Parivar Pehchan Patra (Family ID)",
+    "Photograph of the applicant"
+  ],
+  "application_link": null
+}

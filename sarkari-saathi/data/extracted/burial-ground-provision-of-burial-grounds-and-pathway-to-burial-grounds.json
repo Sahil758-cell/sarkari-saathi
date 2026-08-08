@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Burial Ground-Provision of Burial Grounds and Pathway to Burial Grounds",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must reside in habitations without existing burial ground or pathway access."
+  ],
+  "benefits_summary": "Provision of land for burial grounds and pathways, ensuring dignified burial services.",
+  "documents_required": [],
+  "application_link": null
+}

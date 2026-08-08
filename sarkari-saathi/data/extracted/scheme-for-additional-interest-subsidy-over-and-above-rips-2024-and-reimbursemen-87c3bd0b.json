@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Scheme for Additional Interest Subsidy over and above RIPS 2024 and Reimbursement of Annual Credit Guarantee Fee",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Interest subvention subsidy must have been approved under RIPS 2024",
+    "Beneficiary enterprise must be a One District One Product (ODOP) enterprise in its district",
+    "Enterprise may be owned by a woman entrepreneur",
+    "Enterprise must be involved in establishment of new MSMEs or expansion/diversification/modernization in Area Category 3 as defined in RIPS 2024",
+    "Young entrepreneurs can receive the subsidy for a loan amount up to ₹10 crore",
+    "Application must be submitted within six months of approval of interest subvention under RIPS 2024",
+    "Collateral‑free term loans (below ₹5 crore) under CGTMSE are eligible for reimbursement of 100% of annual guarantee fees"
+  ],
+  "benefits_summary": "Provides additional interest subsidy (up to 2% on top of RIPS 2024 rates) for eligible MSME projects and reimburses 100% of the annual credit guarantee fee for collateral‑free loans.",
+  "documents_required": [
+    "Application form (Annexure 1.1) downloaded from the official website",
+    "Self‑attested copies of all mandatory documents",
+    "CA Certificate (Annexure 1.2) for claim submission"
+  ],
+  "application_link": null
+}

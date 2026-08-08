@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Tailoring Training To Scheduled Caste & Backward Classes Widows/Destitute Women/Girls",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 14,
+  "age_max": 45,
+  "max_annual_income": 250000,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow, destitute woman, or girl."
+  ],
+  "benefits_summary": "₹600 per month stipend, ₹300 per month for raw materials, and a free sewing machine after course completion.",
+  "documents_required": [
+    "Application form (plain paper)",
+    "Certificate signed by village Panch/Sarpanch confirming widow or destitute status"
+  ],
+  "application_link": null
+}

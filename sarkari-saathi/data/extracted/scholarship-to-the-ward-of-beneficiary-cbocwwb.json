@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scholarship to the Ward of Beneficiary (CBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Worker must be registered under the Punjab Labour Welfare Fund Act, 1965 and have regular contributions received by the Board",
+    "Worker must have been a beneficiary member of the Chandigarh Building and Other Construction Workers Welfare Board for at least six months",
+    "Scholarship is limited to a maximum of two children per worker",
+    "Application must be submitted within three months of the issuance of the student’s mark sheet",
+    "Scholarship will not be granted if the child already receives a scholarship from any other institution",
+    "Scholarship will not be entertained if the student obtains a compartment in any subject",
+    "Students placed 1st, 2nd or 3rd in national/international games or sports receive the scholarship irrespective of academic marks"
+  ],
+  "benefits_summary": "Scholarship amounts range from ₹3,000 to ₹5,000 for 10th and 12th grades based on percentage of marks, and a one‑time ₹7,500 for graduation (60% or higher).",
+  "documents_required": [
+    "Clear picture of both sides of Aadhaar Card",
+    "Clear picture of Bank Passbook",
+    "Clear pictures of all pages of the BOCW copy issued by the Board"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

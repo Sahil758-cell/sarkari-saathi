@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Pension To Widows And Destitute Women-Chandigarh",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow or destitute woman",
+    "Applicant must be a resident of Chandigarh for more than 3 years"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,000 to eligible widows and destitute women.",
+  "documents_required": [],
+  "application_link": null
+}

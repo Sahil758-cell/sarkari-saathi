@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Fellowship For Superannuated Faculty Members",
+  "occupation": [
+    "Professor",
+    "Associate Professor"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 67,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a faculty member (Professor or Associate Professor) who is superannuated or will superannuate within six months.",
+    "Must belong to a university/college/institution that is recognized under Section 2(f) of the UGC Act and has valid NAAC accreditation, or a deemed university under Section 3 of the UGC Act with NAAC accreditation, or a centrally/state funded institution empowered to award degrees, or an institution of national importance.",
+    "Must have supervised 10 full‑time Ph.D. dissertations, with at least 3 completed in the preceding 10 years.",
+    "Must have acted as Principal Investigator on at least 3 sponsored research projects funded by national or international agencies.",
+    "Must not hold any administrative responsibilities during the fellowship tenure.",
+    "Must provide an undertaking as per Annexure‑I."
+  ],
+  "benefits_summary": "Provides a monthly fellowship of Rs. 50,000 plus an annual contingency of Rs. 50,000 for up to three years or until the fellow reaches 70 years of age, with 100 slots available each year.",
+  "documents_required": [
+    "Scanned passport‑size photograph (jpg, ≤1 MB)",
+    "Scanned signature (jpg, ≤1 MB)",
+    "Affidavit of single girl child on ₹100 stamp paper attested by SDM/First Class Magistrate/Tahsildar (size < 1 MB)"
+  ],
+  "application_link": "https://frg.ugc.ac.in/"
+}

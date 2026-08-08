@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Back-to-Lab Research Fellowship Programme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed and of Kerala origin",
+    "Post‑graduation with at least 60% marks in Basic/Applied Science or Professional courses",
+    "Valid Ph.D registration in a Kerala academic/research institution (STEAM streams) with completed coursework",
+    "Career break of at least 6 months during Ph.D programme due to maternity or other valid reasons",
+    "Must not have completed 4 years as on the date of Ph.D registration",
+    "Cannot be receiving any fellowship or grant from any other source for the Ph.D programme",
+    "Must provide an undertaking that no other financial assistance is being received simultaneously",
+    "Research must be supervised by a Scientist Mentor who is a regular faculty/staff with at least 5 years of service remaining before retirement",
+    "Research Fellow must not collaborate with a foreign party without prior Council approval"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹22,000 (+10% HRA) for the first two years and ₹25,000 (+10% HRA) in the third year, plus an annual contingent grant of ₹20,000.",
+  "documents_required": [
+    "Application form (MS Word)",
+    "Copies of relevant original documents",
+    "Supporting signed documents (PDF)"
+  ],
+  "application_link": null
+}

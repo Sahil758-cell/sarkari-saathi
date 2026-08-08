@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Hari Om Ashram Prerit Doctor Vikram Sarabhai Research Award",
+  "occupation": [
+    "scientist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 44,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen.",
+    "Contributions should be in the specified fields such as Space Sciences, Space Applications, Electronics, Informatics, Telemetrics, Automation, etc."
+  ],
+  "benefits_summary": "Cash prize of ₹50,000 and a medal.",
+  "documents_required": [],
+  "application_link": null
+}

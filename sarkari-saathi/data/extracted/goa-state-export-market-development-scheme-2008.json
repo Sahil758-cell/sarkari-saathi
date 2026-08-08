@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Goa State Export Market Development Scheme, 2008",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unit must be set up in Goa and permanently registered or acknowledged with Entrepreneurs Memorandum II by the Directorate of Industries, Trade and Commerce",
+    "Unit must have been in operation for a minimum period of three years",
+    "Unit must possess an import/export code issued by the Reserve Bank of India/Government of India or any competent authority of the Government of India",
+    "Total turnover of the unit for the last three preceding financial years must not exceed ₹10,00,00,000",
+    "The facility can be availed only once in the unit’s lifetime; transferred or sold units are not eligible if the original unit has already taken benefits"
+  ],
+  "benefits_summary": "Interest‑free loan up to ₹5,00,000 for participating in shows/exhibitions or market study tours abroad, repayable over five years in equal half‑yearly installments",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

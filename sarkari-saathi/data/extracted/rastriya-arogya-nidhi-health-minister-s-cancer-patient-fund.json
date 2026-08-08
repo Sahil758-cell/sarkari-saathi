@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Rastriya Arogya Nidhi - Health Minister’s Cancer Patient Fund",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a cancer patient living below the poverty line.",
+    "Employees of Central Government, State Government, or PSU are not eligible.",
+    "Assistance is only for treatment in the 27 designated Regional Cancer Centres.",
+    "The scheme cannot be used where cancer treatment facilities are available free of cost."
+  ],
+  "benefits_summary": "Provides financial assistance up to ₹5 lakh per patient (maximum ₹15 lakh overall) for cancer treatment, covering radiation, chemotherapy, surgery, bone‑marrow transplantation and diagnostics.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Chief Minister’s College Students Rehabilitation Scheme (CMCSRS)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student enrolled in an undergraduate programme",
+    "Applicant must be studying in a government or government‑aided college"
+  ],
+  "benefits_summary": "Provides free admission, a one‑time rehabilitation grant of ₹10,000, and additional support such as smartphones and sanitary pads to affected undergraduate students in government or government‑aided colleges in Manipur.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Free Education Scholarship for Three-Year Diploma (Polytechnic Courses)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a student",
+    "Beneficiary must be enrolled in a three‑year diploma course at a government or government‑aided polytechnic",
+    "No other family member should hold a diploma or graduate degree"
+  ],
+  "benefits_summary": "Full payment of tuition fees, compulsory non‑refundable fees and examination fees as per government norms.",
+  "documents_required": [
+    "Application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Hostel Scheme for Disabled Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 96000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability percentage must be 40% or more",
+    "Student must be studying in Class 11 or higher at a recognized government or private educational institution",
+    "Student must be enrolled as a regular student in a minimum two‑year diploma course at a Government Higher Secondary School, College, or Polytechnic College",
+    "At least five eligible girls or five eligible boys are required to avail student‑home facilities"
+  ],
+  "benefits_summary": "Provides up to ₹750 per month as rent assistance and ₹1,000 per month for electricity and water charges for eligible disabled students staying in hostels.",
+  "documents_required": [],
+  "application_link": "Submit the application in prescribed format to the District Office of Social Justice and Disabled Welfare."
+}

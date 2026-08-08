@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Special Education - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": 5,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a child with a visual, hearing, intellectual, or locomotor disability."
+  ],
+  "benefits_summary": "Provides free special education, vocational training, boarding, lodging, and annual provision of uniforms and textbooks.",
+  "documents_required": [],
+  "application_link": null
+}

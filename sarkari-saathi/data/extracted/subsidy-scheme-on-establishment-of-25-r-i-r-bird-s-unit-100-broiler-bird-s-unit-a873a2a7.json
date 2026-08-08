@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit, 100 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Caste People",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed a 6‑day poultry farming training",
+    "Beneficiaries below Poverty Line (BPL) will be given priority"
+  ],
+  "benefits_summary": "Provides up to 75% subsidy (maximum ₹6,000) for a 25 R.I.R. bird unit, up to 90% subsidy (maximum ₹36,000) for a 100 broiler bird unit, and a stipend of up to ₹2,000 for poultry farming training, each payable to one family member.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

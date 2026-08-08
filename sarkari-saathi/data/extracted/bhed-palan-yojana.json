@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Bhed Palan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be listed in the Socio-Economic Caste Census (SECC) database.",
+    "Applicant must be interested in establishing a sheep‑rearing unit for self‑employment."
+  ],
+  "benefits_summary": "Financial assistance of up to ₹63,000 (90% of the total ₹70,000) is provided to establish a sheep‑rearing unit of 10 female and 1 male sheep, disbursed via DBT within 1‑2 months.",
+  "documents_required": [],
+  "application_link": null
+}

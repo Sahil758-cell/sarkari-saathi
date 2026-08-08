@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme for Assistance on Purchase of Smartphone by the Farmers",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must own land.",
+    "Assistance is limited to one per tenant farmer even if multiple accounts exist.",
+    "In case of joint account, only one of the tenants mentioned in 8-A of their land is eligible."
+  ],
+  "benefits_summary": "Provides up to 40% assistance on the purchase price of a smartphone, up to ₹6,000, available only once per applicant.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

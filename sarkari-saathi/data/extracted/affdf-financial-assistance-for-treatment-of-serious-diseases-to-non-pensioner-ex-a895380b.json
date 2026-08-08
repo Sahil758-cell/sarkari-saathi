@@ -1,0 +1,27 @@
+{
+  "scheme_name": "AFFDF-Financial Assistance For Treatment Of Serious Diseases To Non Pensioner Ex-Servicemen (All Ranks)/Widows",
+  "occupation": [
+    "Ex-Servicemen",
+    "Widow"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a non‑pensioner Ex‑Servicemen (all ranks) or his widow",
+    "Applicant should not be a member of ECHS or be availing AFMS facilities",
+    "Applicant must be recommended by the respective Zila Sainik Board (ZSB)",
+    "Expenditure must be incurred at an approved government hospital at rates applicable under CGHS/ECHS"
+  ],
+  "benefits_summary": "Provides up to Rs 1,25,000 one‑time assistance (or Rs 75,000 per annum for cancer/dialysis) covering 75‑90% of medical expenses for non‑pensioner ex‑servicemen and their widows.",
+  "documents_required": [
+    "Copies of the supporting documents duly attested by the respective Zila Sainik Welfare Officer (ZSWO)"
+  ],
+  "application_link": "https://ksb.gov.in/"
+}

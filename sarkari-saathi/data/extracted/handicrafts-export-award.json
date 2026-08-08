@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Handicrafts Export Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Tamil Nadu",
+    "Applicant must be a manufacturer of handicrafts in Tamil Nadu",
+    "Applicant must be a direct exporter of Tamil Nadu handicrafts",
+    "Applicant must not be banned by the government"
+  ],
+  "benefits_summary": "Cash prize of ₹40,000, a 4 gm gold medal, Thamirapattiram and a certificate.",
+  "documents_required": [],
+  "application_link": null
+}

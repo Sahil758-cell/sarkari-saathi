@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Guruji Student Credit Card (GSCC) Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student and an Indian national.",
+    "Must have completed class 10th (for diploma) or class 10th and 12th (for undergraduate/higher) from a recognized school in Jharkhand.",
+    "Must have secured admission in approved institutions (e.g., IITs, IIMs, NITs, AIIMS, etc.) that are ranked up to 200 overall or up to 100 in their category in the NIRF rankings, or have NAAC accreditation of grade A or above.",
+    "Must be 40 years old or younger at the time of loan application.",
+    "Must not be a prior beneficiary of the scheme.",
+    "Must not have previously availed an education loan from any State Co‑operative Banks, Central Co‑operative Banks, District Central Co‑operative Banks, or any public or private sector banks for the same course."
+  ],
+  "benefits_summary": "Provides education loans up to ₹15,00,000 at a subsidized 4% interest rate with repayment terms of up to 15 years.",
+  "documents_required": [],
+  "application_link": null
+}

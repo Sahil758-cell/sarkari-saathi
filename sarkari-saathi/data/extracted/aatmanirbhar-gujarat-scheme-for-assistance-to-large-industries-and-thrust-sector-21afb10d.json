@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to Large Industries and Thrust Sector: Net SGST Reimbursement",
+  "occupation": [
+    "large industrial undertaking"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have obtained acknowledgment/registration from DPIIT.",
+    "Must commence commercial production during the scheme's operative period (Oct 5 2022 to Oct 4 2027).",
+    "Must have a separate GST registration for the eligible manufacturing unit.",
+    "Must comply with SGST guidelines and not engage in fraudulent reporting of sales.",
+    "Only eligible goods manufactured in the premises qualify for reimbursement.",
+    "Applicable to new large industrial undertakings or existing ones undertaking expansion and/or diversification."
+  ],
+  "benefits_summary": "Reimbursement of 80‑100% of net SGST for 10 years, up to 5‑8% of eFCl per annum, based on taluka and sector categories.",
+  "documents_required": [],
+  "application_link": null
+}

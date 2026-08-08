@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Integrated Child Development Services Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Children up to 6 years",
+    "Pregnant women",
+    "Lactating mothers"
+  ],
+  "benefits_summary": "Provides supplementary nutrition, immunization, health check‑up, referral services, pre‑school non‑formal education, and nutrition & health education.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Full Medical Checkup Assistance Scheme- Gujarat Labour Welfare Board",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Labour Welfare Fund must have been regularly paid by the organization/unit for the last one year",
+    "Applicant must be a Shramyogi working in the organized sector of Gujarat",
+    "Male Shramyogis must be above 45 years of age; female Shramyogis must be above 35 years of age",
+    "Benefit is provided once a year per worker",
+    "Medical examination must be completed within 30 days after in‑principle approval, with mutual agreement of the company and the hospital",
+    "The company must upload an Excel sheet listing the workers on the portal",
+    "Fees paid under the scheme are non‑refundable",
+    "Final decision rests with the Welfare Commissioner; jurisdiction is Ahmedabad"
+  ],
+  "benefits_summary": "Provides a full medical check‑up for eligible Shramyogis, with a fixed amount of ₹1950 per worker of which the organization pays 25% (₹487.50).",
+  "documents_required": [
+    "Excel sheet (list of workers)"
+  ],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

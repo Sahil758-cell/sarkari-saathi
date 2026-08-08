@@ -1,0 +1,23 @@
+{
+  "scheme_name": "National Scheme Of Incentive To Girls For Secondary Education",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 14,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must have passed class 8th from Kasturba Gandhi Balika Vidyalayas",
+    "must be enrolled for class 9th in State/UT Government, Government‑aided, or local body schools from academic year 2008‑09 onwards"
+  ],
+  "benefits_summary": "A one‑time deposit of ₹3000 in a term/fixed deposit for each eligible girl, locked until she turns 18 years old.",
+  "documents_required": [],
+  "application_link": null
+}

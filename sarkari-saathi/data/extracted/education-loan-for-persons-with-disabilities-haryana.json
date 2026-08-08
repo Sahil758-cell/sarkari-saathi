@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Education Loan for Persons with Disabilities- Haryana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 15,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability must be more than 40%",
+    "Applicant must have secured admission to a professional or technical course in India or abroad",
+    "Unique Disability ID (UDID) registration is mandatory for loan amounts of ₹15 lakhs and above",
+    "Applicant must possess a Parivar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Education loans up to ₹50 lakhs for persons with disabilities to pursue professional and technical education in India or abroad.",
+  "documents_required": [
+    "Age certificate issued by a competent authority",
+    "Proof of Unique Disability ID (UDID) registration",
+    "Parivar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

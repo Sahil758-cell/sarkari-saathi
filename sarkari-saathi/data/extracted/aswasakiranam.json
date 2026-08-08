@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Aswasakiranam",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be totally bedridden at home with a debilitating physical, functional, or mental disability and unable to perform daily activities without assistance.",
+    "The caregiver must have been providing caregiving services to the patient since 2 August 2010."
+  ],
+  "benefits_summary": "Provides Rs 600 per month financial assistance to caregivers of bedridden patients.",
+  "documents_required": [],
+  "application_link": null
+}

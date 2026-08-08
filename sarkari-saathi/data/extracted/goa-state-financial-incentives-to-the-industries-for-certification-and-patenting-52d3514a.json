@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Goa State Financial Incentives to the Industries for Certification and Patenting Scheme, 2008",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unit must be a micro, small, medium or large‑scale industry or a service industry listed in the Green/Orange Category list",
+    "Unit must be permanently registered or acknowledged with Entrepreneurs Memorandum II by the Director of Industries, Trade and Commerce, or if not, must be cleared by the High Powered Coordination Committee or any other committee/authority authorised to grant clearances for investment in the State",
+    "Service industries not covered under the primary clauses are eligible only if they are hospitals or medical institutions registered with the Directorate of Health Services, educational institutions recognised by the relevant education directorates or affiliated to Goa University/Board, co‑operative banks (excluding multi‑state co‑operative banks) registered with the Registrar of Co‑operative Societies, or any other service sector specially notified by the Director of Industries, Trade and Commerce",
+    "Financial incentive can be availed only once in the lifetime of the unit, regardless of changes in ownership or constitution",
+    "Units that have previously obtained certification or patent rights but have not received any prior financial assistance from the State may apply for additional certifications, provided the certification qualifies under the scheme",
+    "If the unit has received central assistance, the subsidy is limited to the balance amount after deducting the central assistance already availed",
+    "Units that have lost certification due to inadequacies are not eligible for a second benefit"
+  ],
+  "benefits_summary": "Financial assistance up to ₹2,00,000 or the actual expenses incurred (whichever is lower) for obtaining certifications or patents, payable once per unit.",
+  "documents_required": [
+    "Proforma/form from the Directorate of Industries, Trade and Commerce",
+    "Passport‑sized photograph",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

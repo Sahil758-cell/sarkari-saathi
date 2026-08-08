@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Kala Gaurav Puraskar",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual artist",
+    "Applicant must have given a substantial contribution in his/her respective field of art",
+    "Applicant must have contributed in Goa for a minimum of 10 years out of his/her entire career as a practising artist"
+  ],
+  "benefits_summary": "The award includes a shawl, shrifal, certificate of appreciation and a cash prize of ₹25,000 per recipient (up to 30 awardees per year).",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

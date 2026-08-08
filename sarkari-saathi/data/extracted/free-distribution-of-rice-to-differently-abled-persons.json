@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Free Distribution of Rice to Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Resident of the Union Territory of Puducherry for at least 5 years",
+    "Disability of 40% or more",
+    "Beneficiary under the \"Grant of Financial Assistance to Differently Abled Person\" scheme"
+  ],
+  "benefits_summary": "Recipients receive 15 kg of rice per month or an equivalent Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Self‑attested copies of all mandatory documents (if required)"
+  ],
+  "application_link": null
+}

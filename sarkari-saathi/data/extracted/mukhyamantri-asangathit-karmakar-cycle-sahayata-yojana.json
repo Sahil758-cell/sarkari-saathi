@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mukhyamantri Asangathit Karmakar Cycle Sahayata Yojana",
+  "occupation": [
+    "unorganized worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be receiving benefits under any other parallel scheme of the State Government for the same purpose."
+  ],
+  "benefits_summary": "A free cycle is provided to each eligible female beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

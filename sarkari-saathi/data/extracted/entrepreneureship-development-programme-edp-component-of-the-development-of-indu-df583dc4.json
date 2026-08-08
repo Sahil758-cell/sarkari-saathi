@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Entrepreneureship Development Programme (EDP)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of the Union Territory of Puducherry or have been a continuous resident of the area for the past three years."
+  ],
+  "benefits_summary": "The entire training expenditure is covered, and the training lasts for about a week.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

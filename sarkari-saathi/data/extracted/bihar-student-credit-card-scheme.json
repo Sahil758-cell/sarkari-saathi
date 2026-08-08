@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Bihar Student Credit Card Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 25,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have passed class 12th.",
+    "Applicant must obtain admission to a course in an authorized institute.",
+    "Applicant must complete the entire course."
+  ],
+  "benefits_summary": "Loans up to ₹4 lakh at low interest rates, repayable after course completion with flexible recovery provisions.",
+  "documents_required": [],
+  "application_link": "https://www.7nishchay-yuvaupmission.bihar.gov.in/"
+}

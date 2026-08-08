@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Dr. Babu Jagjivan Ram Living cum work shed Construction Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must be a leather artisan belonging to any of the listed sub‑castes (Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka) among scheduled castes.",
+    "Applicant must own a site, old house, or hut in their name.",
+    "Applicant or their family members must not have received benefits from other schemes, except Training/Paaduke kuteera schemes.",
+    "Family members should not be employed in government or semi‑government organizations."
+  ],
+  "benefits_summary": "Provides up to ₹2,50,000 financial aid for constructing a living‑work shed (₹2,20,000 subsidy from government and ₹30,000 contribution from the beneficiary).",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Stipend Scheme For Poultry Farming Training For Divyang People",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be an adult Divyang (disabled) person residing in Gujarat.",
+    "Beneficiary must provide an income proof certificate.",
+    "Female applicants and Below Poverty Line beneficiaries will be given priority."
+  ],
+  "benefits_summary": "Maximum ₹2000 stipend for six days of training (₹300 per day plus ₹200 transport) and a poultry training certificate upon completion.",
+  "documents_required": [
+    "Income proof certificate"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+}

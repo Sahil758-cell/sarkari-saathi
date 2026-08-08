@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme for Assistance for Research & Development Activities: Assistance for Contract/Sponsored Research Work",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be a Research and Development institution recognized by CSIR or DSIR",
+    "Institution may be set up by the Government of Gujarat or the Government of India",
+    "Institution must be AICTE‑approved (including autonomous colleges or those affiliated with universities)",
+    "Any other institution approved by the State Level Empowered Committee (SLEC) is eligible",
+    "Proposals must be for contract/sponsored research by eligible institutions from industrial associations, individual industrial undertakings, government or any other agency approved by SLEC"
+  ],
+  "benefits_summary": "Financial assistance up to 50% of the project cost, capped at INR 5,000,000 per project.",
+  "documents_required": [],
+  "application_link": null
+}

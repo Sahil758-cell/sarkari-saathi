@@ -1,0 +1,24 @@
+{
+  "scheme_name": "INDIRAMMA Old Age Pension (Urban)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 65,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "Must be a resident of a district of Andhra Pradesh",
+    "Must not be covered under any other Pension Scheme",
+    "Must be destitute with little or no means of subsistence and no family or relative to depend upon",
+    "Eligibility identified by respective Ward Sabhas"
+  ],
+  "benefits_summary": "Provides a monthly pension to eligible destitute elderly persons aged 65 and above in urban areas of Andhra Pradesh; the pension amount is to be notified by the government.",
+  "documents_required": [],
+  "application_link": null
+}

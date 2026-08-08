@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Post-Graduate Scholarships for Professional Courses for SC/ST Candidates",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to SC or ST category.",
+    "Must have obtained a graduate degree in the relevant subject.",
+    "Must have admission to a regular full‑time first‑year postgraduate professional course in a recognized university/institution/college.",
+    "The institution must be covered under UGC Act sections 2(f)&12(B), deemed universities under section 3, funded by central/state government, or institutes of national importance.",
+    "Professional courses are those approved by regulatory councils such as MCI, DCI, PCI, RCI, NCTIS, NCTE, BCI, AICTE, ICAR, INC, etc.",
+    "Only students pursuing the first year of the postgraduate program in the current academic year are eligible.",
+    "Scholarship renewal is subject to good conduct, attendance, and timely submission of a progress report.",
+    "Failure to pass the first year with first division or equivalent CGPA, discontinuation of studies, or providing false information leads to cancellation."
+  ],
+  "benefits_summary": "Scholarship of ₹7,800 per month for professional courses (ME/M.Tech) or ₹4,500 per month for other courses, payable for up to the duration of the postgraduate program (2‑3 years).",
+  "documents_required": [],
+  "application_link": null
+}

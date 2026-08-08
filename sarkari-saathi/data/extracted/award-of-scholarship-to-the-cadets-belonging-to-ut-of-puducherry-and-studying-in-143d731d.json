@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Award of Scholarship to the Cadets Belonging to UT of Puducherry and Studying in Rashtriya Indian Military College, Dehradun",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Applicant must belong to the Union Territory of Puducherry by birth or by domicile (continuous residence of at least 5 years).",
+    "Applicant must be studying at Rashtriya Indian Military College (RIMC), Dehradun."
+  ],
+  "benefits_summary": "Scholarship of ₹20,000 per annum, disbursed directly to the Aadhaar‑seeded bank account via DBT.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

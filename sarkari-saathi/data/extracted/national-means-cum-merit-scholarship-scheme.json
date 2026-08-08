@@ -1,0 +1,33 @@
+{
+  "scheme_name": "National Means-Cum-Merit Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 350000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "EWS",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a regular student entering class 9th in a government, government‑aided or local‑body school",
+    "Must have at least 55 % marks in Class 7th (relaxable by 5 % for SC/ST students) to appear for the selection test",
+    "Must pass both MAT and SAT with a combined minimum of 40 % marks (32 % for SC/ST students)",
+    "Must have at least 55 % marks in Class 8th at the time of selection (5 % relaxation for SC/ST students)",
+    "Must maintain good conduct as certified by the Head of the Institution and continue as a regular, full‑time student",
+    "Cannot be absent without proper leave and may receive only one Central Government scholarship",
+    "Must open a bank account in SBI, any public sector bank, or any scheduled bank with core‑banking facilities",
+    "Scholarship is discontinued if there is a gap of one academic session or if the student leaves the course within one month of admission",
+    "For renewal, must obtain a minimum of 60 % marks in Class 10th (relaxable by 5 % for SC/ST students) and achieve clear promotion to the next class in the first attempt"
+  ],
+  "benefits_summary": "Scholarship of ₹12,000 per annum (₹1,000 per month) awarded to eligible students from class IX to XII.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Grant of Financial Assistance for Performance of Marriage of Poor Brides Living Below Poverty Line",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Assistance is payable only for the first marriage of the bride",
+    "Marriage must be performed in accordance with the law in force on the date of marriage",
+    "Assistance is given for the performance of the marriage of one daughter only",
+    "Bridegroom must be at least 21 years old on the date of marriage",
+    "Parents or guardian of the bride must be Indian citizens",
+    "Parents or guardian must be native of the Union Territory of Puducherry by birth or by continuous residence of five years or more",
+    "Application must be submitted at least 30 days before the proposed marriage date"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 for marriage expenses.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mamta Taruni Abhiyan",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 10,
+  "age_max": 19,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Priority given to women and girls belonging to Below Poverty Line (BPL) families"
+  ],
+  "benefits_summary": "Provides free health check-ups, nutritional supplements, health education and financial incentives to adolescent girls and pregnant women.",
+  "documents_required": [
+    "Identification proof",
+    "Address proof",
+    "Medical certificate (for pregnant women)",
+    "Income certificate (for BPL families)"
+  ],
+  "application_link": null
+}

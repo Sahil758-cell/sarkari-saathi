@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Workers In Case Of His Partial Permanent Disablement-JKBOCWWB",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in any building or other construction work for at least 90 days during the preceding 12 months.",
+    "Registration is renewed annually.",
+    "The worker must be a registered member of the Building and Other Construction Workers (BOC) Welfare Board.",
+    "The scheme applies to workers who suffer from partial permanent disablement."
+  ],
+  "benefits_summary": "Provides Rs. 1,00,000 to registered BOC workers in case of partial permanent disablement.",
+  "documents_required": [
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

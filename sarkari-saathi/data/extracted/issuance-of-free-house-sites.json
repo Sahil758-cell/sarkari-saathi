@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Issuance of Free House Sites",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of Tamil Nadu",
+    "Belongs to Backward Classes (BC), Most Backward Classes (MBC) or Denotified Communities (DNC)",
+    "Does not own any house or house site",
+    "Annual income must not exceed ₹40,000 in rural areas",
+    "Annual income must not exceed ₹60,000 in urban areas"
+  ],
+  "benefits_summary": "Allocation of a free residential plot to eligible beneficiaries.",
+  "documents_required": [],
+  "application_link": null
+}

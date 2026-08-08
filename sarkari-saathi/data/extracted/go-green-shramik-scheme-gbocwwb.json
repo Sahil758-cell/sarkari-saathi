@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Go-Green Shramik Scheme (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The construction worker must be registered with the Gujarat Building and Other Construction Worker’s Welfare Board for at least one year",
+    "The worker must have purchased a lithium‑ion battery high‑speed two‑wheeler in his own name",
+    "The worker must hold a valid license to drive two‑wheelers",
+    "The benefit is available only once per registered construction worker",
+    "The worker cannot sell the vehicle for three years after purchase"
+  ],
+  "benefits_summary": "One‑time subsidy of up to 50% of the battery‑operated two‑wheeler price or ₹30,000 (whichever is lower), plus reimbursement of the registration fee and road tax for the first purchase.",
+  "documents_required": [],
+  "application_link": "https://enirmanbocw.gujarat.gov.in/"
+}

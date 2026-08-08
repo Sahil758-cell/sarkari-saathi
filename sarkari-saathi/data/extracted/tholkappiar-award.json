@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Tholkappiar Award",
+  "occupation": [
+    "writer",
+    "author"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be born in Puducherry or have at least five years of continuous residence in Puducherry before the application date",
+    "Research book must be at least 150 pages long",
+    "Submitted work must be a first edition printed and published by 31 December of the specified year",
+    "Work must have been published in the calendar year preceding the award year but not in the previous year",
+    "Essays, dissertations, novels, short stories, poetry, drama, travelogues, and collections of essays are not eligible",
+    "A previous awardee cannot apply for the next four years",
+    "Submitted text must not be an abridgment, adaptation, translation, or paraphrase of another work",
+    "The thesis/editorial work must be in Tamil language only"
+  ],
+  "benefits_summary": "Financial assistance of ₹10,000 along with an award and certificate.",
+  "documents_required": [
+    "passport-sized photograph (signed across if required)",
+    "copies of all mandatory documents (self‑attested)",
+    "filled application form"
+  ],
+  "application_link": null
+}

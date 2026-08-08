@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Internet Subsidy Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unit must have its operations in Goa.",
+    "Applicant must be a Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership.",
+    "Bank accounts of the unit and/or its partners/directors must be linked to Aadhaar."
+  ],
+  "benefits_summary": "25% reimbursement on high‑speed bandwidth up to ₹5,00,000 per annum, payable for up to three years.",
+  "documents_required": [],
+  "application_link": null
+}

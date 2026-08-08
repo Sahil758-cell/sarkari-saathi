@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Shednet House",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have agricultural land ownership",
+    "Must have irrigation sources"
+  ],
+  "benefits_summary": "Up to 50% subsidy for general-category farmers and up to 70% subsidy (plus an additional 25% grant for small/marginal and Scheduled Tribe farmers) on a maximum area of 4000 sq m.",
+  "documents_required": [],
+  "application_link": null
+}

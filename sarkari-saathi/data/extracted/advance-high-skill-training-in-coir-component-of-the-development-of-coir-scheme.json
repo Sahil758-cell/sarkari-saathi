@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Advance/High Skill Training in Coir",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidates who have already undergone this training are not eligible to apply.",
+    "Educational qualifications should meet the standards specified by the Training Units/Institutions.",
+    "Applicant must be a native of Puducherry or have been a continuous resident for the past 3 years."
+  ],
+  "benefits_summary": "Trainees receive a monthly stipend of ₹2,500 with accommodation support of ₹500 and travel allowance; full course fees are paid by the scheme.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport-sized photograph",
+    "Self-attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

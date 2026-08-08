@@ -1,0 +1,24 @@
+{
+  "scheme_name": "West Bengal Student Credit Card Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen",
+    "Resident of West Bengal for at least 10 years (self‑declaration)",
+    "Enrolled in higher education programmes or coaching institutes for competitive examinations",
+    "Both student and parent/legal guardian must co‑submit the loan application"
+  ],
+  "benefits_summary": "Provides a loan up to ₹10,00,000 at a 4% simple annual interest rate with no collateral security required.",
+  "documents_required": [],
+  "application_link": null
+}

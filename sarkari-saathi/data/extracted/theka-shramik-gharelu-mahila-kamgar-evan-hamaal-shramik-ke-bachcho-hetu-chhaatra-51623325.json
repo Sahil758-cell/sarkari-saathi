@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Theka Shramik, Gharelu Mahila Kamgar Evan Hamaal Shramik Ke Bachcho Hetu Chhaatravrtti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant's father or mother must be a registered sanitation worker in the state of Chhattisgarh.",
+    "Benefits are provided for up to two children per family.",
+    "Scholarship recipients must study for at least one year and cannot discontinue studies without returning the scholarship.",
+    "Students cannot receive benefits from two government scholarship schemes simultaneously."
+  ],
+  "benefits_summary": "Financial assistance for higher education of children of sanitation workers, with annual scholarship amounts ranging from ₹500 to ₹5,000 depending on class and gender.",
+  "documents_required": [],
+  "application_link": null
+}

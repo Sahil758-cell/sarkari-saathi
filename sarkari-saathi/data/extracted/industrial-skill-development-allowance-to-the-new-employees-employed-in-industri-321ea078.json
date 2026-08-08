@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Industrial Skill Development Allowance To The New Employees Employed In Industries In H.p",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Himachal Pradesh",
+    "Must be registered with the Employment Exchanges in Himachal Pradesh",
+    "Must be currently unemployed and seeking employment",
+    "Preference is given to individuals with limited formal education",
+    "Physically challenged individuals with at least 50% permanent disability may receive a higher allowance rate"
+  ],
+  "benefits_summary": "Provides a monthly allowance to support Himachali youth while they acquire on‑the‑job skill training, enhancing employability.",
+  "documents_required": [
+    "Form-(i): Application form for the grant of allowance",
+    "Certificate of Employment from the competent Officer/Authority of the concerned Industrial Establishment (as per form‑vi)",
+    "Affidavit (as per form‑iii) for subsequent months of March",
+    "Form (ii): Receipt of submission"
+  ],
+  "application_link": null
+}

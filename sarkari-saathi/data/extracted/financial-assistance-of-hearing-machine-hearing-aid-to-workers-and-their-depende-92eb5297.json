@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Financial Assistance of Hearing Machine/Hearing Aid to Workers and their Dependents- Haryana Labour Welfare Board",
+  "occupation": [
+    "industrial",
+    "commercial"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be employed in an industrial or commercial establishment in Haryana",
+    "Must be registered with the Haryana Labour Welfare Board",
+    "Monthly salary must not exceed ₹25,000",
+    "Service period of the worker is fixed for one year",
+    "Benefit is available after every five years of service",
+    "Eligibility requires loss of hearing due to an accident or any other reason",
+    "Registration may require Parivar Pehchan Patra (Family ID) or Aadhaar Number",
+    "Applicant must upload a photograph"
+  ],
+  "benefits_summary": "Provides a one-time financial assistance up to ₹5,000 (or the actual cost if lower) for the purchase of a hearing aid, available to workers and their dependents every five years.",
+  "documents_required": [
+    "Photograph",
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar Number"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

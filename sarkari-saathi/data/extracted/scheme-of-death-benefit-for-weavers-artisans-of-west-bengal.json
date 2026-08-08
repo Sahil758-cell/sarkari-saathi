@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme of Death Benefit for Weavers & Artisans of West Bengal",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased artisan/weaver must have died on or after 7 March 2024 (the date of notification).",
+    "The claimant must not have availed any other death benefit scheme provided by the State Government.",
+    "The application must be submitted within 3 months of the death of the artisan/weaver.",
+    "The claimant must produce a certificate from the local BDO confirming eligibility for the claim."
+  ],
+  "benefits_summary": "A lump‑sum payment of ₹2,00,000 is provided to the family of each deceased weaver or artisan.",
+  "documents_required": [
+    "Application in prescribed format with all requisite enclosures",
+    "Certificate from the local BDO confirming eligibility for the claim"
+  ],
+  "application_link": null
+}

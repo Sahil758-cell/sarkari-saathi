@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Welfare Measures for Children of Labourers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Children of SC/ST labourers working in coffee plantations or licensed coffee curing works are eligible.",
+    "Eligibility is limited to the first two surviving children of such labourers; twins or multiple births are all eligible if they meet individual merit requirements.",
+    "Children of clerks, drivers, supervisors, and estate/curing works managers are excluded.",
+    "Applicants must be pursuing higher education after completing the 10th grade.",
+    "The educational institution must be recognized by the Central or State Government.",
+    "Students must have passed SSLC/10th and be enrolled in 1st‑year PUC, Polytechnic, vocational training, graduation, post‑graduation or professional courses.",
+    "One male and one female student per region who achieved the highest marks in the SSLC/10th examination are eligible for the incentive award."
+  ],
+  "benefits_summary": "Educational stipend of ₹2,250 per student, incentive awards of ₹1,000 (boys) or ₹1,500 (girls) in addition to the stipend, and financial assistance up to ₹7,500 for higher‑education courses.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

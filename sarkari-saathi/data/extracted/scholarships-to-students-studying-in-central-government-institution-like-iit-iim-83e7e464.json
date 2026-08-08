@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scholarships to Students Studying in Central Government Institution like IIT, IIM, IIIT, NIT and Central Universities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student pursuing undergraduate or postgraduate courses in IIT, IIM, IIIT, NIT or Central Universities.",
+    "Must be a resident of Tamil Nadu."
+  ],
+  "benefits_summary": "Annual reimbursement up to ₹2,00,000 for tuition, exam and other compulsory fees.",
+  "documents_required": [],
+  "application_link": null
+}

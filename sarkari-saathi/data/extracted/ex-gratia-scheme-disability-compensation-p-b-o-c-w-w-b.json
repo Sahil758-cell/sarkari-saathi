@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Ex-gratia Scheme: Disability Compensation (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must have engaged in building and construction work for at least 90 days in a given year",
+    "Must not be a member of any other Welfare Fund established under any law",
+    "Must not have membership of the Employees' Provident Fund (EPF), National Pension System (NPS) or Employees' State Insurance Corporation (ESIC)",
+    "Must not be an income tax payer",
+    "Must be a registered member under the Building and Other Construction Workers Welfare Board of Punjab",
+    "Must have complete or partial disability",
+    "Must not possess Health Cards issued under the Bhagat Puran Singh Sehat Bima Yojna"
+  ],
+  "benefits_summary": "Provides up to ₹4,00,000 as ex-gratia compensation for complete or partial disability, calculated at ₹4,000 per 1% disability.",
+  "documents_required": [],
+  "application_link": null
+}

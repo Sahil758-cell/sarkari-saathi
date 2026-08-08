@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Advance / High Skill Training Component of the Development of Industries Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess the educational qualification prescribed by the Training Units/Institutions",
+    "Applicant must be a native of the Union Territory of Puducherry or have continuously resided there for the past three years"
+  ],
+  "benefits_summary": "Selected candidates receive a monthly stipend (₹2,500 for Higher Secondary/ITI or ₹3,000 for graduates/engineers), a one‑time travel allowance, and the training fees and accommodation charges are covered by the scheme.",
+  "documents_required": [
+    "Prescribed application form (printed)",
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

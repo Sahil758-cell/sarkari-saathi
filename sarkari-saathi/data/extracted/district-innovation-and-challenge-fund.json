@@ -1,0 +1,26 @@
+{
+  "scheme_name": "District Innovation And Challenge Fund",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Project must be innovative and use out‑of‑the‑box or cutting‑edge technology",
+    "Project must address a critical problem or need of the district",
+    "Project must directly benefit the district community",
+    "Project must create employment and generate revenue for the community or the State",
+    "Project must add value to agricultural, horticultural, textile or handicraft products and ensure better remuneration",
+    "Project must demonstrate a sustainable and continuous improvement plan"
+  ],
+  "benefits_summary": "The scheme supports innovative district projects that bridge infrastructure gaps, generate employment and add value to local products.",
+  "documents_required": [],
+  "application_link": null
+}

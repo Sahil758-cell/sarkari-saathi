@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Opening and Maintenance of Boys and Girls Hostels",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native/resident of Puducherry for at least 5 years",
+    "Parent/guardian should not reside within 5 km radius of the hostel"
+  ],
+  "benefits_summary": "Free lodging and boarding, cash payment for two pairs of clothing, and conveyance charges for six trips per year.",
+  "documents_required": [],
+  "application_link": null
+}

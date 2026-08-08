@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Farmer Suicide Ex-Gratia",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Death must be by suicide",
+    "Suicide must be for agrarian reasons such as failure of bore wells, high cost of commercial crops, non‑remunerative prices, oral tenancy, inability to obtain bank loans, adverse seasonal conditions, heavy educational or health expenses, etc.",
+    "Beneficiary must be a family member/legal heir of the deceased farmer",
+    "The term “farmer” includes any person deriving substantial livelihood from farming, including tenant and women farmers",
+    "No caste or social category restriction"
+  ],
+  "benefits_summary": "Financial assistance of ₹7,00,000 is provided to the family members of deceased farmers/tenant farmers who committed suicide due to agrarian reasons.",
+  "documents_required": [],
+  "application_link": null
+}

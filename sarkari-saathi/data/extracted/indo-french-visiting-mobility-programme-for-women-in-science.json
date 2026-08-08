@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Indo-French Visiting/Mobility Programme for Women in Science",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be Indian or French citizens (citizens residing in France)",
+    "Applicants must be from a recognized university or research institution in India or France",
+    "Indian applicants must hold a PhD degree and a sanctioned/tenured post in a scientific/academic institution",
+    "French applicants must hold a PhD degree and be currently completing a postdoctoral project",
+    "Applicants must be willing to undertake collaborative research projects in the partner country’s institutions/universities",
+    "The mobility must occur during the applicant’s employment period at the concerned institution",
+    "Applicants must not have availed any visiting fellowship in France/India during the last 5 years",
+    "The fellowship cannot be availed simultaneously with any other fellowship",
+    "Preference is given to candidates with no prior international exposure",
+    "CEFIPRA may relax eligibility conditions for potential candidates"
+  ],
+  "benefits_summary": "Provides return economy airfare, accommodation, per diem allowances, local travel, airport transfer, insurance and visa charges for selected candidates.",
+  "documents_required": [],
+  "application_link": "https://www.cefipra.org/"
+}

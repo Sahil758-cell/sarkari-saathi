@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Marriage Assistance to Differently Abled Persons Marrying Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Both partners must be differently abled and fall under one of the 21 categories of differently‑abled persons as per Section 2(Zc) of the Rights of Persons with Disabilities Act, 2016.",
+    "Both partners must be above 18 years of age.",
+    "If either spouse holds a degree or diploma, the assistance amount is increased."
+  ],
+  "benefits_summary": "Provides ₹25,000 financial assistance (₹12,500 National Savings Certificate + ₹12,500 cheque) for marriage, increased to ₹50,000 (₹25,000 NSC + ₹25,000 cheque) if either spouse has a degree/diploma, along with a certificate of appreciation and an 8‑gram gold coin.",
+  "documents_required": [],
+  "application_link": null
+}

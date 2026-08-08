@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Sugarcane Nursery Premium",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides a ₹4,000 nursery premium for raising seed material to plant one hectare of sugarcane.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

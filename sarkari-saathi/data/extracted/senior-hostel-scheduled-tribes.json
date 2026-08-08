@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Senior Hostel (Scheduled Tribes)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student of class 9th to 12th",
+    "Studying in a government or recognized school",
+    "Must have passed the previous year's examination"
+  ],
+  "benefits_summary": "Free accommodation and mess facilities.",
+  "documents_required": [
+    "ID proof",
+    "Relevant certificates"
+  ],
+  "application_link": null
+}

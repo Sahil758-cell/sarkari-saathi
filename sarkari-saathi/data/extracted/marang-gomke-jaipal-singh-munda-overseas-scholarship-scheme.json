@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Marang Gomke Jaipal Singh Munda Overseas Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "ST",
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must hold a bachelor's degree with outstanding academic performance",
+    "Must have an admission offer from a top‑100 globally ranked university or a UK university listed in Annexure‑A",
+    "30% of seats are reserved for female applicants"
+  ],
+  "benefits_summary": "Provides financial assistance up to £94,000 per year for tuition, living allowance, travel and other academic expenses for postgraduate studies abroad.",
+  "documents_required": [
+    "Two letters from referees"
+  ],
+  "application_link": null
+}

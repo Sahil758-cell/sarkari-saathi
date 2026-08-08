@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Merit Based Award and Recognition Of High Performance In The Board Exams Of SSC And HSSC In The State Of Goa",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have secured at least 50% marks in the SSC/HSSC board exams."
+  ],
+  "benefits_summary": "Financial awards ranging from ₹5,000 to ₹20,000 for high‑performing students, plus certificates of appreciation.",
+  "documents_required": [],
+  "application_link": null
+}

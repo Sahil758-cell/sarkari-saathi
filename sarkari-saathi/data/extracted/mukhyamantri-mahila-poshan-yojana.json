@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mukhyamantri Mahila Poshan Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Uttarakhand",
+    "Must be a pregnant or lactating woman"
+  ],
+  "benefits_summary": "Provides eggs twice a week and dates twice a week to pregnant or lactating women.",
+  "documents_required": [
+    "necessary documents as directed (attested, if required)"
+  ],
+  "application_link": null
+}

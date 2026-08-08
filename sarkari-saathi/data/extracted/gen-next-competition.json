@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Gen Next Competition",
+  "occupation": [
+    "Artisan"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Cash prize of ₹2,000, silver medal and certificate.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

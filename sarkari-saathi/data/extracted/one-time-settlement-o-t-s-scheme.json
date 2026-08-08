@@ -1,0 +1,28 @@
+{
+  "scheme_name": "One Time Settlement (O.T.S.) Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicable to defaulting consumers in the categories of LIG (Low‑Income Group), Domestic, Agriculture, Small Commercial, and LTP (Motive Power)",
+    "Consumers with accumulated arrears up to ₹20,000 as of 31‑03‑2008 are eligible",
+    "Installations must be temporarily or permanently disconnected as of 31‑03‑2008 for non‑payment of outstanding arrears",
+    "Consumers whose cases have been referred to the Revenue Recovery Court (R.R.C.) are also eligible",
+    "Scheme is valid for three months from the date of notification"
+  ],
+  "benefits_summary": "All delayed payment charges, including 18% interest, are waived and consumers pay only the principal amount in a lump‑sum payment.",
+  "documents_required": [
+    "Application in prescribed format",
+    "Demand Draft or Pay Order of ₹100/- in favour of the Chief Electrical Engineer"
+  ],
+  "application_link": null
+}

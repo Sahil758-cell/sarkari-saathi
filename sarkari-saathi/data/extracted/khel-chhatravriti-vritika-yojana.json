@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Khel Chhatravriti (Vritika) Yojana",
+  "occupation": [
+    "sportsperson"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must not be receiving any other scholarship or benefits under any other sports scheme; must forfeit them before applying.",
+    "Scholarship is awarded based on performance in the previous year's recognized national or state-level sports competitions."
+  ],
+  "benefits_summary": "Monthly monetary assistance ranging from ₹3,000 to ₹6,000 based on competition performance, plus additional support for training, nutrition, and equipment.",
+  "documents_required": [],
+  "application_link": null
+}

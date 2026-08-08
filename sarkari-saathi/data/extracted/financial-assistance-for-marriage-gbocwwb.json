@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Financial Assistance for Marriage (GBOCWWB)",
+  "occupation": [
+    "Worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a worker registered with the Goa Building and Other Construction Workers Welfare Board",
+    "Worker must have continuous membership with the Board for 3 years",
+    "Scheme also applies to female beneficiaries for their own marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹4,000 for the marriage of the worker's children (or for a female beneficiary's own marriage).",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (if required)",
+    "Self‑attested copies of mandatory documents (if required)"
+  ],
+  "application_link": null
+}

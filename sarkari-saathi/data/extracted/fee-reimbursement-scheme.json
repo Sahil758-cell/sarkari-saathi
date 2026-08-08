@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Fee Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Uttar Pradesh and currently studying in Uttar Pradesh",
+    "Must be studying in government schools, aided or recognized educational institutes of the state",
+    "Eligibility is based on cut‑off merit of marks percentage of the previous year, subject to budget availability"
+  ],
+  "benefits_summary": "Provides fee reimbursement for eligible OBC students, with up to ₹50,000 annually for certain courses and lower amounts for other course groups.",
+  "documents_required": [
+    "Aadhaar number",
+    "Printed application form",
+    "Enclosures (as specified by the institute)"
+  ],
+  "application_link": "https://scholarship.up.gov.in"
+}

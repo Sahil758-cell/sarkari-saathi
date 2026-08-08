@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Scheme for Award of Scholarships to School or College-Going Children of Employees/Industrial Employees in Various Establishments",
+  "occupation": [
+    "regular worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a regular worker employed in an industrial establishment for at least six months",
+    "The industrial establishment must be covered under the Goa, Daman & Diu Labour Welfare Fund Act, 1986",
+    "Applicant must perform any skilled or unskilled, manual or clerical labour, not in a supervisory or managerial position",
+    "Applicant's total salary income (including allowances and perks, exclusive of bonus) must not exceed ₹20,000 per month",
+    "Child must be enrolled in a recognized institution in India",
+    "Child must be pursuing general or technical education (including medical, engineering, agricultural studies)",
+    "Child must have secured at least 45% marks in the last annual examination for promotion",
+    "Research or higher learning (PhD, M.Phil, M.D., M.S.) after postgraduate courses are eligible",
+    "Scholarship amount is provided only to the extent it exceeds any other scholarship or stipend the student receives"
+  ],
+  "benefits_summary": "Scholarships of ₹2,000 to ₹20,000 are awarded annually in a single instalment, disbursed via ECS to the parents' bank account.",
+  "documents_required": [
+    "Prescribed application form (print from the Official Website of the Department of Labour and Employment, Goa)",
+    "Passport-sized photograph (if required)",
+    "Self-attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

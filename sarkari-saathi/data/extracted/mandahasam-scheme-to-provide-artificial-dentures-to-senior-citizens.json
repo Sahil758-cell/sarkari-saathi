@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Mandahasam Scheme To Provide Artificial Dentures To Senior Citizens",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have completely lost teeth or partially lost teeth that are unusable and require extraction",
+    "Applicant must be certified by a qualified dentist in the prescribed form as unfit for placing artificial teeth",
+    "Priority will be given to the oldest applicant"
+  ],
+  "benefits_summary": "Maximum financial assistance of ₹5,000 per beneficiary for fixing the tooth.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Maternity Benefit (A.B.O.C.W.W.B)",
+  "occupation": [
+    "building & other construction work"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Assam",
+    "Must be a woman worker engaged in building and other construction work",
+    "Must be registered with the Assam Building and Other Construction Workers Welfare Board",
+    "Must have an active membership with the Board",
+    "Benefit is limited to the birth of two children only"
+  ],
+  "benefits_summary": "Registered women beneficiaries receive ₹20,000 as maternity benefit per childbirth.",
+  "documents_required": [],
+  "application_link": "https://abocwwb.assam.gov.in/"
+}

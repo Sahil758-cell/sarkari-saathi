@@ -1,0 +1,24 @@
+{
+  "scheme_name": "RMEWF-Financial Assistance For Ex-Servicemen In Penury",
+  "occupation": null,
+  "gender": null,
+  "age_min": 65,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a non-pensioner ex‑serviceman (ESM) up to the rank of Havildar/equivalent from the Navy, Army or Air Force, or their widow.",
+    "Applicant (ESM) or widow must be 65 years old on 1 April of the financial year when applying (widow age condition waived if applying after the death of the ESM).",
+    "Must not be receiving any other pension, income, or financial assistance from the state government or any other source."
+  ],
+  "benefits_summary": "Financial assistance of Rs.4000 per month, paid annually to eligible ex‑servicemen or their widows.",
+  "documents_required": [
+    "Scanned copies of supporting documents",
+    "Life certificate (for renewal)"
+  ],
+  "application_link": "https://164.100.158.73/registration.htm"
+}

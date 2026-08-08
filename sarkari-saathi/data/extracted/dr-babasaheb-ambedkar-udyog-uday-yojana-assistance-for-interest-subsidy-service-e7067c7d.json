@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance for Interest Subsidy (Service Sector)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small or Medium enterprise (MSME).",
+    "The enterprise must be a manufacturing enterprise operating in the service sector (as per Annexure A and B).",
+    "Only new MSMEs in the service sector are eligible.",
+    "The enterprise must have a term loan sanctioned for new machinery, equipment, or furniture/fixtures.",
+    "The loan must be sanctioned within one year before the commencement of commercial production.",
+    "Enterprises must have proper tax and business registrations.",
+    "SC/ST enterprise means the contribution of the SC/ST entrepreneur is 51 % or more."
+  ],
+  "benefits_summary": "Provides an interest subsidy of 6‑8% on term loans (up to ₹35 lakh per annum) for periods of 5‑7 years, with an additional 1% subsidy for registered service‑sector startups.",
+  "documents_required": [],
+  "application_link": null
+}

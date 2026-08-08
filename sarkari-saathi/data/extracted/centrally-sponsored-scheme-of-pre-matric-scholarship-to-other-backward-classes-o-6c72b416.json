@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Scholarship is only for institutions and pre‑matriculation courses recognised by the concerned State Government or Union Territory Administration",
+    "Regular attendance of at least 60% in the previous year is required",
+    "Beneficiaries cannot avail any other pre‑matric scholarship scheme",
+    "30% of the beneficiaries are reserved for girl students",
+    "At least 5% of the beneficiaries should be students with disabilities",
+    "Day scholars are eligible from class 1st to class 10th, while hostellers are eligible from class 3rd to class 10th"
+  ],
+  "benefits_summary": "Hostellers receive ₹500 per month and day scholars ₹100 per month for up to 10 months; an additional ad‑hoc grant of ₹500 per student per year is also provided.",
+  "documents_required": [],
+  "application_link": null
+}

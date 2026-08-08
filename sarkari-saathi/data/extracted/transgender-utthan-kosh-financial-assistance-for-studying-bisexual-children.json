@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Transgender Utthan Kosh - Financial Assistance for Studying Bisexual Children",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to the transgender community",
+    "Must be studying in class 6th or higher",
+    "Must be residing away from home for study purpose"
+  ],
+  "benefits_summary": "Financial assistance of ₹6,000 per month for up to 12 months, transferred directly to the student's bank account.",
+  "documents_required": [
+    "rental receipt",
+    "application form"
+  ],
+  "application_link": null
+}

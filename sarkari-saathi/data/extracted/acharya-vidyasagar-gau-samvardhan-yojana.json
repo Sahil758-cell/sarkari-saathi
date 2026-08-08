@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Acharya Vidyasagar Gau Samvardhan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum of 1 acre of agricultural land required for every 5 indigenous cows (land requirement increases proportionally with number of animals)",
+    "Applicable only to indigenous cows recognised by the government",
+    "Applicant (individual, NGO or registered cow shelter) must be registered with the Gau Samvardhan Board",
+    "Applicant must have a dedicated space with facilities for feeding, cleaning and medical care for the cows",
+    "Applicant must possess a valid Aadhaar card",
+    "Cow must be registered with the Gau Samvardhan Board",
+    "Applicant must have a bank account in the name of the cow shelter or in their individual name"
+  ],
+  "benefits_summary": "Provides up to Rs 10 lakhs per project with 75 % bank loan, margin‑money assistance, and interest reimbursement up to Rs 25,000 per annum for 7 years.",
+  "documents_required": [
+    "Valid Aadhaar card",
+    "Cow registration certificate with Gau Samvardhan Board",
+    "Bank account proof"
+  ],
+  "application_link": null
+}

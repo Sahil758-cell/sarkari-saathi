@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Financial Assistance To Inter-Caste Married Couples (Except SC/ST Category)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Kerala state.",
+    "Must be an inter‑caste married couple legally married.",
+    "Combined family income must not exceed ₹1,00,000 per year.",
+    "Must apply between one year and two years after marriage.",
+    "Assistance is one‑time only.",
+    "Must sign an agreement and submit it to the LSGI.",
+    "Funds must be used for starting a business, purchasing land, or constructing a house."
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹30,000 is provided to eligible inter‑caste married couples.",
+  "documents_required": [],
+  "application_link": null
+}

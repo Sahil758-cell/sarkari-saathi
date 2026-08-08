@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Scheme of Fund for Regeneration of Traditional Industries",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible agencies/organizations include NGOs, central and state government institutions, semi‑government institutions, state and central government field functionaries, Panchayati Raj institutions, private sector entities forming cluster‑specific SPVs, corporates and CSR foundations with expertise in cluster development.",
+    "Clusters are selected based on geographical concentration of around 500 beneficiary families within one or two revenue subdivisions in a district, the potential for production growth and employment generation, and the overall geographical distribution across the country.",
+    "At least 10% of the clusters must be located in the North Eastern region."
+  ],
+  "benefits_summary": "Provides up to 100% funding for soft interventions and up to 75% (90% in North Eastern region, UT of J&K and hill states) for hard interventions, with a financial ceiling of ₹8 crore per project.",
+  "documents_required": [],
+  "application_link": null
+}

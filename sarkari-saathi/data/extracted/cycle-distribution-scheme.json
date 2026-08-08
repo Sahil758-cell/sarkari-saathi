@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Cycle Distribution Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a girl student",
+    "The student must be studying in Class 11",
+    "The student must travel more than 2 km to reach her school",
+    "The student should not have received a cycle in Class 9"
+  ],
+  "benefits_summary": "A cash amount equivalent to the cost of a bicycle is credited directly to the applicant’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

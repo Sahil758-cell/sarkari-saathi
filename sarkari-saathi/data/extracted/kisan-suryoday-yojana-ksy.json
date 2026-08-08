@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Kisan Suryoday Yojana (KSY)",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides uninterrupted daytime electricity (5 am–9 pm) to farmers for agricultural activities, using solar and non‑conventional energy sources.",
+  "documents_required": [],
+  "application_link": null
+}

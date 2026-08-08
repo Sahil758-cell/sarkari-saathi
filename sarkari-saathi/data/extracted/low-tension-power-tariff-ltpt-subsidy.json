@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Low Tension Power Tariff (LTPT) Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All new micro manufacturing enterprises established anywhere in Tamil Nadu are eligible",
+    "All new small and medium manufacturing enterprises established in the 251 industrially backward blocks are eligible",
+    "All new agro‑based industries in the 385 blocks of the state are eligible",
+    "Existing manufacturing enterprises of the above categories can apply if they undertake expansion or diversification that increases plant and machinery value by at least 25 % and turnover by at least 25 % for the same or new product lines",
+    "Only enterprises using Low Tension Power supply (Tariff III B) are eligible",
+    "For enterprises with multiple LT connections at the same premises, subsidy is available only for the first connection; each branch unit at a different location may receive subsidy for its first connection",
+    "Application must be filed within three months from the date of commencement of commercial production or power connection, whichever is later"
+  ],
+  "benefits_summary": "A 20 % LTPT subsidy is provided for 36 months to eligible enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

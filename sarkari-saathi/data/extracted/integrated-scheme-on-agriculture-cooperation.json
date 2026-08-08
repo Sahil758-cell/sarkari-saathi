@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Integrated Scheme on Agriculture Cooperation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Societies must be at least three years old with a positive net worth balance for the last three years and relevant experience in the proposed project area.",
+    "The three‑year age and net‑worth requirement may be relaxed for government‑sponsored projects at the discretion of the Managing Director, NCDC.",
+    "Societies must be registered under the Cooperative Societies Act of the respective state.",
+    "Societies must undertake activities related to agriculture and allied sectors such as marketing, storage, processing, and input supply.",
+    "Societies must be financially viable with a good track record.",
+    "Societies must be eligible for financial assistance from NCDC.",
+    "Eligible sectors include agricultural marketing, processing, storage, computerization, weaker‑section programmes, input supply, plantation/horticultural crops, SC & ST cooperatives, tribal cooperatives, hill area cooperatives, dairy, poultry, livestock, fisheries, handloom, coir, jute, cash crops, sericulture, DCCB, State Cooperative Banks, spinning mills, and related modernization or rehabilitation projects."
+  ],
+  "benefits_summary": "Provides grant‑in‑aid subsidies ranging from 15% to 25% for cooperative projects, with higher subsidy rates for less‑developed states.",
+  "documents_required": [],
+  "application_link": null
+}

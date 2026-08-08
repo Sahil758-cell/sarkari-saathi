@@ -1,0 +1,23 @@
+{
+  "scheme_name": "E-YUVA Scheme: BIRAC’s Innovation Fellows (for post graduates and above)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian student who has completed a Master's degree (post‑graduate) and apply within 3 years of graduation (females exempted from the time limit)",
+    "Applicant must be an Indian student who has completed a Ph.D. and apply within 2 years of graduation (females exempted from the time limit)",
+    "Fellows are required to work full‑time at an E‑Yuva Centre (EYC)",
+    "Students currently pursuing a Ph.D. are not eligible for the fellowship",
+    "Selected fellows cannot pursue a Ph.D. during the fellowship tenure"
+  ],
+  "benefits_summary": "Fellows receive a monthly fellowship of INR 30,000 (post‑graduate) or INR 50,000 (post‑doctoral) plus an annual research grant of INR 3 lakhs or INR 5 lakhs respectively, together with continuous mentoring support.",
+  "documents_required": [],
+  "application_link": "https://birac.nic.in/"
+}

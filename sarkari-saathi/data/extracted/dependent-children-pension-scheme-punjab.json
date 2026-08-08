@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Dependent Children Pension Scheme - Punjab",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 20,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Parent(s) are deceased, regularly absent, or physically/mentally incapacitated to look after the family",
+    "Applicant must be a permanent resident of Punjab"
+  ],
+  "benefits_summary": "₹1,500 per month pension paid directly to the beneficiary's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Concession in Railway Travel",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual artist or a troupe consisting of more than three artists",
+    "Journey must be undertaken by train",
+    "Purpose of the journey must be to deliver a cultural performance (public programme) in the outstation",
+    "Travel distance must exceed 300 km as fixed by Indian Railways"
+  ],
+  "benefits_summary": "75% concession in Second Class Fare and 50% concession in First Class Fare.",
+  "documents_required": [
+    "passport-sized photograph (signed across, if required)",
+    "copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

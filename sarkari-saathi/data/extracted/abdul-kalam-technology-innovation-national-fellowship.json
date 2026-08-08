@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Abdul Kalam Technology Innovation National Fellowship",
+  "occupation": [
+    "engineering"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian national or Overseas Citizen of India working in a publicly funded institution in India",
+    "Must hold at least a bachelor’s degree with a proven outstanding track record in innovation or technology development",
+    "Must have a minimum of five years of service remaining in the parent organization as of the award date",
+    "Applicant must not be holding any other fellowship at the time of selection",
+    "Nominations are only accepted from heads of institutions/organizations, presidents/fellows of national science/engineering academies, SS Bhatnagar Awardees, and JC Bose awardees; self‑nominations are not accepted"
+  ],
+  "benefits_summary": "₹25,000 per month plus a research grant of ₹15 lakh per annum and an overhead of ₹1 lakh per annum to the host institute.",
+  "documents_required": [
+    "Nomination Form",
+    "Supporting documents/appendices"
+  ],
+  "application_link": "https://www.inae.in/research-innovation/abdul-kalam-technology-innovation-national-fellowship/"
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Differently Abled Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a disability of 40% or above.",
+    "Applicant must be 18 years or older.",
+    "Applicant must not be employed in government or government‑affiliated organizations.",
+    "If employed permanently in the private sector or self‑employed, annual income must not exceed ₹3,00,000."
+  ],
+  "benefits_summary": "Monthly pension of ₹1,000 plus free clothing (dhoti for males, saree for females) and free rice through Anganwadi centres.",
+  "documents_required": [],
+  "application_link": null
+}

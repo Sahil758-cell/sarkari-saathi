@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Ganesh Shankar Vidyaarthi Shramik Puraskar Rashi Yojana",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a worker employed in a registered factory, commercial establishment, or shop in Uttar Pradesh",
+    "Monthly salary (basic pay + dearness allowance) must not exceed ₹15,000",
+    "The applicant’s child must have passed the 10th, 12th, undergraduate, or postgraduate examinations"
+  ],
+  "benefits_summary": "Scholarship of ₹5,000 for students scoring 60‑74.99% and ₹7,500 for those scoring 75% or more in their respective exams.",
+  "documents_required": [
+    "recent photograph of the applicant",
+    "verified application form"
+  ],
+  "application_link": "https://skpuplabour.in/"
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Laptop Scheme for Meritorious Students of SC/ST",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be born in Goa",
+    "Applicant must have passed the class 10th examination of the Goa Board in the first attempt",
+    "Applicant must have scored at least 70% aggregate marks in the class 10th examination of the Goa Board",
+    "Applicant must be schooling in the taluka where he/she is considered meritorious",
+    "Male applicants must be among the top 5 male students of class 10th in their taluka",
+    "Female applicants must be among the top 5 female students of class 10th in their taluka"
+  ],
+  "benefits_summary": "A laptop is provided to eligible meritorious students.",
+  "documents_required": [],
+  "application_link": null
+}

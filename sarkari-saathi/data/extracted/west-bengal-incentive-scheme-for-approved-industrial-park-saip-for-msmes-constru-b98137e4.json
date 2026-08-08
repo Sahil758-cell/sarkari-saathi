@@ -1,0 +1,26 @@
+{
+  "scheme_name": "West Bengal Incentive Scheme for Approved Industrial Park (SAIP) for MSMEs: Construction of Approach Road",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Private sector entity or existing/operational industrial parks are eligible",
+    "Minimum of 5 acres of legally owned land (by direct purchase or lease from the State Government) is required",
+    "Special Purpose Vehicle (SPV) must be registered under the Companies Act, Societies Registration Act, Partnership Act or LLP",
+    "Park area must be expanded to at least 5 acres in out‑lying districts and at least 2 acres in Kolkata and Howrah",
+    "Individual units must have obtained all necessary clearances for land conversion, fire licence, environmental compliance, building plan, etc."
+  ],
+  "benefits_summary": "Construction of a two‑lane approach road up to 1.5 km connecting to a highway, provided free of cost.",
+  "documents_required": [
+    "Signature file (JPG/PNG, max 2 MB)",
+    "Seal file (JPG/PNG, max 2 MB)"
+  ],
+  "application_link": null
+}

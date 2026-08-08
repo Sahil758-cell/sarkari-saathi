@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Internship Scheme Of The Department Of Economic Affairs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be pursuing a postgraduate or PhD in Economics, Law, Finance, or Management from a university or institution ranked within the top 25 by the National Institutional Ranking Framework or QS rankings",
+    "Applicants must register on the MoF‑DEA Internship Application portal of the Ministry of Finance"
+  ],
+  "benefits_summary": "Paid remuneration of ₹10,000 per month for postgraduate interns and ₹20,000 per month for PhD interns, along with logistics support and a certificate upon successful completion",
+  "documents_required": [
+    "Non‑Disclosure Agreement (NDA)"
+  ],
+  "application_link": "MoF-DEA Internship Application Link of the Ministry of Finance"
+}

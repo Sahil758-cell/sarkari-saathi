@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Immediate Relief Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the family (legal heir) of the missing fisherman.",
+    "The missing fisherman must have died while fishing.",
+    "The missing fisherman must not have been a beneficiary of the old age pension scheme.",
+    "The missing fisherman should be enrolled as a member of the Fishermen/Fisherwomen Co-operative Society.",
+    "The family must apply within 30 days from the date of the event."
+  ],
+  "benefits_summary": "A total of ₹1,00,000 is provided as immediate relief, disbursed in two installments of ₹50,000 each to the family (legal heir) of the missing fisherman.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Self‑attested copies of all mandatory documents",
+    "Prescribed application form (hard copy)"
+  ],
+  "application_link": null
+}

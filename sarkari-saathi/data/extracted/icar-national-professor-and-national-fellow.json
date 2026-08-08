@@ -1,0 +1,32 @@
+{
+  "scheme_name": "ICAR National Professor",
+  "occupation": [
+    "Professor",
+    "Principal Scientist",
+    "Equivalent"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian national",
+    "Must have occupied the position of Professor/Principal Scientist or equivalent for at least 8 years",
+    "Must have a minimum age of 0 (no lower age limit specified)",
+    "Must have significant contributions evidenced by publications, patents, released varieties/breeds, etc.",
+    "Nomination must be supported and recommended by the sponsoring Agricultural University/ICAR Research Institute",
+    "The sponsoring institution must agree to the service conditions and provide necessary facilities",
+    "Only one position can be held at a time and the appointment cannot extend beyond 65 years of age"
+  ],
+  "benefits_summary": "Monthly salary of Rs. 75,000 (fixed) plus admissible allowances.",
+  "documents_required": [
+    "Detailed research project proposal",
+    "NOC form (if the applicant is in‑service)"
+  ],
+  "application_link": "https://rlbs.icar.gov.in/"
+}

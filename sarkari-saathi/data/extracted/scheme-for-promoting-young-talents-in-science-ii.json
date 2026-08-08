@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Scheme for Promoting Young Talents in Science-II",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants must be students enrolled in polytechnic colleges or undergraduate (BSc) courses in Kerala",
+    "Proposals can be submitted as groups of up to 5 students",
+    "Maximum proposals per institution: 10 from a college, 4 from a department, or 2 from a principal investigator",
+    "Projects must be conducted under the guidance of a teacher"
+  ],
+  "benefits_summary": "Financial assistance up to ₹10,000 per project for a one‑year duration.",
+  "documents_required": [
+    "Signed terms and conditions",
+    "Final project report",
+    "Statement of Expenditure (SE)",
+    "Utilization Certificate (UC)"
+  ],
+  "application_link": null
+}

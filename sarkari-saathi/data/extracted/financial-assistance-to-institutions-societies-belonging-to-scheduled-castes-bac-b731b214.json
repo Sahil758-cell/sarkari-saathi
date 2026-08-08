@@ -1,0 +1,38 @@
+{
+  "scheme_name": "Financial Assistance To Institutions/Societies Belonging To Scheduled Castes/Backward Classes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an institution/society of Scheduled Castes or Backward Classes registered under the Societies Registration Act, 1860 or the Indian Trust Act",
+    "Must have at least 100 square yards of its own land or land allotted/donated by the Government, Panchayat, Local Body or an individual",
+    "Second‑time grants are allowed only after five years and only after submission of all utilization certificates for earlier grants",
+    "The institution must maintain separate accounts for the grant that are open for inspection",
+    "A utilization certificate signed by the head of the institution/society and verified by a Chartered Accountant must be furnished",
+    "An indemnity bond in the prescribed format must be submitted",
+    "Grants are limited to work executed within Haryana State"
+  ],
+  "benefits_summary": "Financial assistance up to ₹2 lakhs (higher amounts may be sanctioned) for construction, repair, or renovation of community buildings for Scheduled Castes and Backward Classes in Haryana.",
+  "documents_required": [
+    "Attested copy of the registration certificate of the institution/society",
+    "Certificate of registration of land in the name of the institution/society or any other revenue record as proof of land ownership",
+    "Documents describing the activities of the society/institution",
+    "Annual accounts or balance sheet of the institution/society",
+    "Site plan, architectural drawing, or map of the proposed building",
+    "Tentative expenditure details",
+    "Indemnity bond in the prescribed format"
+  ],
+  "application_link": null
+}

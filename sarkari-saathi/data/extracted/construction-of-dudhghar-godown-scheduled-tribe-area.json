@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Construction of Dudhghar/ Godown (Scheduled Tribe Area)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered Village Milk Producer Co‑operative Society.",
+    "The Society must be located in the Scheduled Tribe areas of Gujarat.",
+    "The Society must not already own a Dudhghar or Godown.",
+    "The Society must have its own land available for the construction of the Dudhghar or Godown.",
+    "The Society must not have availed of the benefit earlier under this or any other scheme for a similar purpose."
+  ],
+  "benefits_summary": "Financial assistance of up to 50% of actual construction cost (maximum ₹5,00,000) for a Dudhghar or Godown, available once in a lifetime.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

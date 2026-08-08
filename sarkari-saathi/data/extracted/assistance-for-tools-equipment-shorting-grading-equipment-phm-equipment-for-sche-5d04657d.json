@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for Scheduled Tribes (HRT-3)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Tool/equipment must be purchased from an authorised dealer of the empanelled manufacturer as notified by the Department of Agriculture.",
+    "Companies empanelled for tarpaulin seats must comply with the Department of Agriculture norms.",
+    "Companies empanelled for plastic crates must comply with the Department of Agriculture norms.",
+    "Both individual farmers and farmer groups/cooperative societies are eligible."
+  ],
+  "benefits_summary": "Individual Scheduled Tribe farmers receive up to 75% of tool/equipment cost (capped at ₹3,750), while farmer groups/cooperative societies receive up to 90% (capped at ₹7,50,000) for PHM equipment.",
+  "documents_required": [
+    "Caste certificate (scanned copy)",
+    "Signed application copy (signature/fingerprint)"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

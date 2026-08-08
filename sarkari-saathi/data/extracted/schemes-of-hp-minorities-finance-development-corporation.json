@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Schemes Of HP Minorities Finance & Development Corporation",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Applicant must belong to a minority community (Sikhs, Muslims, Christians, Buddhists, Jains, or Parsis)",
+    "Applicant must be a resident of Himachal Pradesh",
+    "Applicant’s annual income must be below Rs.98,000 in rural areas or Rs.1,20,000 in urban areas"
+  ],
+  "benefits_summary": "Loans up to Rs.5 lakh for self‑employment at 6 % interest and up to Rs.10 lakh for professional/technical education at 3 % interest.",
+  "documents_required": [
+    "Caste certificate",
+    "Income certificate",
+    "Age certificate",
+    "Himachali certificate issued by the executive magistrate"
+  ],
+  "application_link": null
+}

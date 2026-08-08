@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Swami Vivekananda Utkrisht Chhatravriti Yojna",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed Class 10th",
+    "Must be among the top 2000 merit students",
+    "Must be enrolled in Class 11th or any professional/technical course in a recognized institute"
+  ],
+  "benefits_summary": "Scholarship of ₹18,000 per year for two successive years.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/fresh/newstdRegfrmInstruction"
+}

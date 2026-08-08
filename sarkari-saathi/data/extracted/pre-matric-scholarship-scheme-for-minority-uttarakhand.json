@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Pre-Matric Scholarship Scheme For Minority-Uttarakhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Uttarakhand",
+    "Must belong to one of the minority religions: Muslim, Sikh, Christian, Buddhist, Parsi, or Jain",
+    "Must have passed the previous class (eligible for classes 1 to 10)",
+    "Cannot be receiving any other scholarship in the current academic session",
+    "Must be studying in a government, council or recognized school/madrassa",
+    "Must have a bank account (own or guardian’s) in a CBS branch seeded with an Aadhaar number, with correct account number and IFSC code"
+  ],
+  "benefits_summary": "Financial assistance of Rs. 50 per month for classes 1‑5, Rs. 80 per month for classes 6‑8, and Rs. 120 per month for classes 9‑10, each for up to 12 months.",
+  "documents_required": [
+    "Income certificate issued by the competent authority authorized by the State Government"
+  ],
+  "application_link": "Visit the official National Scholarship Portal"
+}

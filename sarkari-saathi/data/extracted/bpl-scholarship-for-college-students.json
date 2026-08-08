@@ -1,0 +1,27 @@
+{
+  "scheme_name": "BPL Scholarship for College Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in a Government college of Chhattisgarh under the Higher Education Department",
+    "Student must not be receiving any other scholarship",
+    "Student must pass the annual examination in the first attempt",
+    "Student attendance should not be shortened"
+  ],
+  "benefits_summary": "Scholarship of ₹300 per month for UG students and ₹500 per month for PG students, transferred directly to the student's bank account via DBT (Aadhaar‑linked).",
+  "documents_required": [
+    "BPL Card of the guardian",
+    "Aadhaar (linked with bank account)"
+  ],
+  "application_link": "https://scholarships.gov.in/"
+}

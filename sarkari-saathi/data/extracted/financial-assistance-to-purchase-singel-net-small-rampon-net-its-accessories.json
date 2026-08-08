@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance To Purchase Singel Net / Small Rampon Net & Its Accessories",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional fisherman by birth or profession.",
+    "Applicant must not possess any registered fishing canoes or fishing trawlers.",
+    "Only one member per household family can avail the benefit.",
+    "The fisherman’s grandparents must be residents of Goa."
+  ],
+  "benefits_summary": "50% subsidy up to ₹50,000 for the purchase of single net/small rampon net and its accessories, provided every five years.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Self-attested copies of all mandatory documents (if required)"
+  ],
+  "application_link": null
+}

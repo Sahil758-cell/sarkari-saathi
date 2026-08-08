@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya') (MPBOCWWB)",
+  "occupation": [
+    "building worker",
+    "construction worker"
+  ],
+  "gender": "any",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Madhya Pradesh",
+    "Applicant must be a building or construction worker",
+    "Applicant must have engaged in any building or other construction work for at least 90 days during the preceding 12 months",
+    "Registration must be renewed annually",
+    "Female construction workers are eligible in case of maternity, provided they have a valid identity card",
+    "Male construction workers are eligible in case of their wife's delivery, provided they have a valid identity card"
+  ],
+  "benefits_summary": "Free medical treatment up to ₹5,00,000 per year for registered workers and their families.",
+  "documents_required": [
+    "ID proof",
+    "other relevant certificates"
+  ],
+  "application_link": null
+}

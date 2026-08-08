@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Goa State Working Journalists Welfare Scheme",
+  "occupation": [
+    "journalist"
+  ],
+  "gender": null,
+  "age_min": 50,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a working journalist covered under the Working Journalists and Newspaper Employees Service Conditions and Miscellaneous Conditions Act, 1955",
+    "Must have retired after at least fifteen years of service, either continuous or with intervals",
+    "Must have contributed for a minimum of 180 months under the scheme after attaining age 58 or after retirement",
+    "Must not be below 50 years of age at the time of retirement in Goa",
+    "Must register within six months of scheme implementation; a relaxation is possible for serious ailment subject to Governing Body ratification",
+    "Entitlement begins at age 58 or after completing 50 years of membership, whichever occurs earlier"
+  ],
+  "benefits_summary": "Provides a monthly welfare fund of ₹7,500 and a family welfare benefit of 50% of the journalist's pension to eligible retired journalists and their families.",
+  "documents_required": [
+    "Prescribed registration form (Annexure‑I)",
+    "Passport‑sized photograph (signed if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

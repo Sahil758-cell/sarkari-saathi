@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Fee Waiver Scheme For SC/ST Students Pursuing Higher Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be born in Goa or have resided in Goa for at least fifteen years",
+    "Must have passed the qualifying examination from an institution located in Goa",
+    "Must be enrolled for the first year of a degree or postgraduate course"
+  ],
+  "benefits_summary": "Full waiver of tuition, library, laboratory and development fees for first‑year degree/PG students.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)",
+    "Copies of all mandatory documents (self‑attested if required)",
+    "Printed proforma of the application form"
+  ],
+  "application_link": null
+}

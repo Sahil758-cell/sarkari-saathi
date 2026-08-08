@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme for Establishment of Hi-Tech and Mini Dairy Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed",
+    "Applicant must have space/shed for keeping milch animals",
+    "No mandatory educational qualifications or training requirements",
+    "Applicant must submit a Self‑Declaration for unemployment and compliance with scheme conditions"
+  ],
+  "benefits_summary": "Provides a 25% subsidy on the cost of two milch animals, disbursed as a loan, along with insurance assistance as per departmental schemes.",
+  "documents_required": [
+    "Self‑Declaration for unemployment"
+  ],
+  "application_link": null
+}

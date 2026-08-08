@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Jharkhand State Scheduled Caste Post-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in a recognized educational institution registered on the departmental scholarship portal",
+    "Must be pursuing a post‑matric course such as degree, diploma or certificate",
+    "Must not be receiving any other scholarship or financial assistance from the central or state government",
+    "Must adhere to the attendance system prescribed by the institution to qualify for the scholarship",
+    "If the student switches courses mid‑way, eligibility for the new course applies only if no scholarship was received for the previous course in the same academic year"
+  ],
+  "benefits_summary": "Provides tuition fees, academic allowance and maintenance fees (up to ₹1,00,000 per year) directly credited to the student’s Aadhaar‑linked bank account via Direct Benefit Transfer",
+  "documents_required": [
+    "Aadhaar card",
+    "Aadhaar‑linked bank account details"
+  ],
+  "application_link": null
+}

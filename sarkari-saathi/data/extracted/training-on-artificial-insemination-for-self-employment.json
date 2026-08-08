@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Training on Artificial Insemination for Self-Employment",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unemployed youth.",
+    "Applicant must have a keen interest in dairy farming and artificial insemination."
+  ],
+  "benefits_summary": "Trained Gausevaks receive a ₹4,000 honorarium, equipment worth ₹18,000, and three months of free training in artificial insemination.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Theka Shramik, Gharelu Mahila Kamgar Evan Hamal Shramik Prasuti Sahayta Yojana",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered worker",
+    "Benefits are provided for up to two children"
+  ],
+  "benefits_summary": "Female employees receive ₹4,200 in the third month and ₹2,800 in the eighth month of pregnancy, while male employees receive ₹3,000 as paternity leave after the birth of the child.",
+  "documents_required": [],
+  "application_link": null
+}

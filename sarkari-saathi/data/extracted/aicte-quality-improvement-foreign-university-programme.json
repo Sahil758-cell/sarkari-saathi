@@ -1,0 +1,27 @@
+{
+  "scheme_name": "AICTE-QUALITY IMPROVEMENT (FOREIGN UNIVERSITY) PROGRAMME",
+  "occupation": [
+    "faculty"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Full‑time regular or permanent faculty members of AICTE‑recognised degree‑level colleges",
+    "Minimum three years of teaching experience at graduate level",
+    "Possession of a Master’s degree in the appropriate branch",
+    "Admission offer in a Ph.D. programme from a foreign university listed in the ranking system within the previous five years"
+  ],
+  "benefits_summary": "Monthly scholarship of ₹25,000.",
+  "documents_required": [
+    "application form",
+    "other required documents"
+  ],
+  "application_link": null
+}

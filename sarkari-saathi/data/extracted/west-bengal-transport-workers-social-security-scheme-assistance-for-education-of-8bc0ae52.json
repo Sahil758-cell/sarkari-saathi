@@ -1,0 +1,34 @@
+{
+  "scheme_name": "West Bengal Transport Workers’ Social Security Scheme: Assistance for Education of Children",
+  "occupation": [
+    "car driver",
+    "taxi driver",
+    "luxury taxi driver",
+    "light commercial vehicle driver",
+    "van driver",
+    "auto‑rickshaw driver",
+    "tempo driver",
+    "lorry driver",
+    "truck driver",
+    "bus driver"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unorganized worker employed in the operation of commercial vehicles",
+    "Vehicle must be used for commercial purposes and not solely for personal or family use",
+    "Assistance is available for up to two children"
+  ],
+  "benefits_summary": "One‑time financial aid ranging from ₹4,000 to ₹30,000 depending on the child’s level of education",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Biju Patnaik Sports Award for Outstanding Performance in Sports and Games for the Year",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Odisha or have stayed in the state for at least 7 years",
+    "Applicant must have achieved outstanding performance in any recognized sport during the year",
+    "Applicant must not have been convicted of any criminal offence",
+    "Applicant must not be found positive for use of drugs or banned substances",
+    "Award can be given only once to an individual in their lifetime",
+    "Award may be given posthumously to the next of kin of the sportsperson",
+    "Award may be cancelled and recovered if obtained by fraudulent means"
+  ],
+  "benefits_summary": "Cash award of ₹2,00,000 along with a statue, scroll of honour, blazer with tie and travel allowances (T.A. and D.A.)",
+  "documents_required": [
+    "Application form",
+    "Self‑attested supporting documents"
+  ],
+  "application_link": null
+}

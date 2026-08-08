@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance To Disabled For Self Employment",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Disability percentage must be at least 40%",
+    "Applicant must be a person with disability (e.g., visually handicapped, low vision, hearing impaired, orthopedically handicapped, etc.)"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹1,50,000, with 80% provided as a bank loan and 20% subsidy up to ₹30,000.",
+  "documents_required": [],
+  "application_link": null
+}

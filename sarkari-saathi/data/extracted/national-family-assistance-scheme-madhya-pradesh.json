@@ -1,0 +1,27 @@
+{
+  "scheme_name": "National Family Assistance Scheme (Madhya Pradesh)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a family member or dependent of the deceased person",
+    "Deceased person must have been the primary breadwinner of the family",
+    "Deceased person must have been between 18 and 60 years old at the time of death",
+    "Family must be living below the poverty line (BPL)"
+  ],
+  "benefits_summary": "One-time financial assistance of ₹20,000 to bereaved families living below the poverty line.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Self‑attested copies of all necessary documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Access To Knowledge For Technology Development And Dissemination (A2K+) - Studies",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligibility is limited to agencies such as industry associations (including sectoral associations, export promotion councils and chambers of commerce), central and state government departments and their associated bodies, technical consultancy organisations, national R&D institutions and SIROs recognised by DSIR, approved universities and colleges listed on UGC/AICTE website, and institutions having a distinct legal entity as per Rule 228 of GFR 2017.",
+    "International travel is not permissible under a project.",
+    "No support is granted for setting up general‑purpose infrastructural facilities."
+  ],
+  "benefits_summary": "Provides financial support for project expenses including manpower, travel, expert consultancy, consumables and a fixed overhead of 15%.",
+  "documents_required": [
+    "Application format (downloaded from the website)",
+    "Five hard copies of the proposal duly signed",
+    "One soft copy of the proposal in MS Word format",
+    "Pen drive containing the soft copy"
+  ],
+  "application_link": "http://dsir.gov.in/#files/12plan/a2k/a2ks.html"
+}

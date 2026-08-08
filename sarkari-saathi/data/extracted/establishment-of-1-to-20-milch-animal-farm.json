@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Establishment of 1 to 20 Milch Animal Farm",
+  "occupation": [
+    "agricultural laborer",
+    "small and marginal farmer",
+    "landless person",
+    "Maldhari (pastoralist)",
+    "educated unemployed individual"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have taken a bank loan for dairy farming (1 to 20 milch animals)",
+    "Must have availability of land, livestock and water facilities with the livestock owner"
+  ],
+  "benefits_summary": "Interest subsidy of 12% on the unit cost fixed by NABARD or banks for establishing 1 to 20 milch animal units.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

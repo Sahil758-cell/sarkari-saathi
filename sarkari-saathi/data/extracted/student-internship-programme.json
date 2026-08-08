@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Student Internship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 25,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidates must be pursuing undergraduate, postgraduate or research studies in any discipline from recognized, reputed institutions with a stellar academic record.",
+    "Applicants should possess skills in Information Technology (IT) and Information Communication Technology (ICT) along with good communication and interpersonal skills.",
+    "Interns must be subject to the laws of secrecy of the country and must sign a Secrecy and Non‑Disclosure Agreement before reporting for the internship."
+  ],
+  "benefits_summary": "Interns receive a token remuneration of ₹12,000 per month (all‑inclusive), logistics support (office space and computer with internet), and an experience certificate/recommendatory letter upon successful completion.",
+  "documents_required": [],
+  "application_link": "https://docs.google.com/forms/d/e/1FAIpQLSc2YalGsTbVe-QcpxPotewRiqrVi-GZQKWg40DWhP_Q-mDqBQ/viewform"
+}

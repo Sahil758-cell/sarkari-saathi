@@ -1,0 +1,21 @@
+{
+  "scheme_name": "E.V.R. Maniammaiyar Ninaivu Marriage Assistance Scheme for Daughter’s of Poor Widows: Scheme-I",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 72000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow and the mother of a girl child",
+    "Benefit is granted for the marriage of only one daughter",
+    "Application must be submitted at least 40 days before the marriage date (one day allowed in exceptional circumstances)"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000 plus a 1 Sovereign (8 gm) 22‑carat gold coin for the daughter’s marriage.",
+  "documents_required": [],
+  "application_link": null
+}

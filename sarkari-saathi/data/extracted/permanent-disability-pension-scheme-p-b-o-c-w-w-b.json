@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Permanent Disability Pension Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in building and construction work for at least 90 days in a given year.",
+    "The applicant must not be a member of any other Welfare Fund established under any law.",
+    "The applicant must not have membership of the Employees' Provident Fund (EPF), National Pension System (NPS) or Employees' State Insurance Corporation (ESIC).",
+    "The applicant must not be an income tax payer.",
+    "The applicant must have completed at least 1 year of membership with the Board.",
+    "The applicant must be a registered construction worker under the Building and Other Construction Workers Welfare Board of Punjab."
+  ],
+  "benefits_summary": "Financial assistance of ₹2,000 per month as pension.",
+  "documents_required": [
+    "Application Form No 28"
+  ],
+  "application_link": null
+}

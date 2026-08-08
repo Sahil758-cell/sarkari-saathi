@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant of Subsidy For Setting up of Ice-Plant /Cold Storage/Fish Processing Unit",
+  "occupation": [
+    "Private Sector",
+    "Fishermen",
+    "Fisherwomen Cooperative Societies",
+    "Entrepreneurs"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not have availed any loan or subsidy benefit from any other source for the intended purpose."
+  ],
+  "benefits_summary": "10% subsidy up to ₹3,00,000 for Ice Plant‑cum‑Cold Storage units and up to ₹10,00,000 for processing units.",
+  "documents_required": [
+    "Application form (hard copy)",
+    "Passport‑sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

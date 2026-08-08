@@ -1,0 +1,21 @@
+{
+  "scheme_name": "AICTE-Training programs for Physical Education Trainers/Sport-Games Teachers/Director of Sports",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Only AICTE approved technical institutions are eligible for the program."
+  ],
+  "benefits_summary": "Provides up to ₹639,000 per program to cover participant boarding, lodging, travel, honorariums, reading material, sports accessories, and other related expenses.",
+  "documents_required": [
+    "Mandate Form"
+  ],
+  "application_link": "http://portal.aicte-india.org/partnerportal_enu/start.swe"
+}

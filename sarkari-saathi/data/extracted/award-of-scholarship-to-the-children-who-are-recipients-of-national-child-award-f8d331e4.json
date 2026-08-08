@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Award of Scholarship to the Children who are Recipients of National Child Award for Exceptional Achievements and Other National / International Merit Awards",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a recipient of the National Child Award for Exceptional Achievements and other National / International Merit Awards.",
+    "Applicant must study in an educational institution run by any State Government, Central Government or Private School recognised by the respective State/Central Government."
+  ],
+  "benefits_summary": "Scholarship of ₹6,000 per annum per student.",
+  "documents_required": [
+    "application form",
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

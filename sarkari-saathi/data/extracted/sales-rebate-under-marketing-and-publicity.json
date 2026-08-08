@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Sales Rebate under 'Marketing And Publicity'",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Sales Emporia/Showroom.",
+    "Applicant must have its units located in Puducherry.",
+    "Applicant must be recognized by the Union Territory of Puducherry for the sale of handicrafts and micro and small enterprise products."
+  ],
+  "benefits_summary": "15% rebate on sales, up to ₹15,00,000 per annum.",
+  "documents_required": [
+    "Prescribed format of the application form",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

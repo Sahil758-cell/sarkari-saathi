@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Pre Matric Scholarship Scheme (Saral Vidya Sahay) for SC and OBC (V to VIII)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 120000,
+  "category": [
+    "SC",
+    "OBC"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be studying in classes 5th to 8th on a full‑time basis."
+  ],
+  "benefits_summary": "Monthly stipend of ₹325 for 11 months, plus a merit scholarship of ₹900 per annum for classes 5‑6 or ₹1,000 per annum for classes 7‑8.",
+  "documents_required": [],
+  "application_link": null
+}

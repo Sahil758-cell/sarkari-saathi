@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Mentally Retarded Children Benefit Scheme (P.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/ Construction Worker (Unorganised Worker)"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Punjab",
+    "Applicant must be a Building/Construction Worker (Unorganised Worker)",
+    "Applicant must have engaged in building and construction work for at least 90 days in a given year",
+    "Applicant must have a monthly income of ₹15,000 or below",
+    "Applicant must not be a member of any other Welfare Fund established under any law",
+    "Applicant must not be a member of the Employees' Provident Fund (EPF), National Pension System (NPS), or Employees' State Insurance Corporation (ESIC)",
+    "Applicant must not be an income tax payer",
+    "Applicant must be a registered member under the Building and Other Construction Workers Welfare Board of Punjab and deposit contributions regularly",
+    "The child of the member must be mentally retarded or disabled"
+  ],
+  "benefits_summary": "Financial assistance of ₹20,000 per year for the care of mentally retarded children.",
+  "documents_required": [],
+  "application_link": null
+}

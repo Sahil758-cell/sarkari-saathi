@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance To Women And Girl Acid Attack Victims",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Haryana",
+    "Applicant must be a woman or girl",
+    "Applicant must have suffered disfigurement or become disabled due to acid attack or a similar corrosive substance",
+    "Acid attack must have occurred on or after 2nd May 2011",
+    "Applicant must have resided in Haryana for at least 3 years since the acid attack",
+    "Application may be made on the victim's behalf by parent(s), legal heir(s), guardian, or husband if married"
+  ],
+  "benefits_summary": "Financial assistance equal to 2.5×, 3.5×, or 4.5× the monthly Divyang Pension based on disability percentage.",
+  "documents_required": [
+    "Passport-sized photograph"
+  ],
+  "application_link": null
+}

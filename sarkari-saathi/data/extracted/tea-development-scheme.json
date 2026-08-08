@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Tea Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Bonafide farmer engaged in agriculture, possessing own or leased land of not exceeding 2 hectares per family",
+    "Benefits are allocated on a first‑come‑first‑serve basis"
+  ],
+  "benefits_summary": "Seedlings are sold at ₹1 each, a one‑time financial assistance of ₹10,000 per hectare is provided, and a 50% subsidy is offered on chemicals, equipment and related inputs.",
+  "documents_required": [],
+  "application_link": null
+}

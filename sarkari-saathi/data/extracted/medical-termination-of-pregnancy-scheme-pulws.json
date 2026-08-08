@@ -1,0 +1,59 @@
+{
+  "scheme_name": "Medical Termination of Pregnancy Scheme (PULWS)",
+  "occupation": [
+    "Taxi and Auto Drivers",
+    "Workers Employed in Shops & Catering Establishments",
+    "Carpenters",
+    "Nathaswara Vidwans",
+    "Hair Dressers",
+    "Tailors",
+    "Cycle Rickshaw Drivers",
+    "Cobblers",
+    "Washermans",
+    "Goldsmith",
+    "Blacksmith",
+    "Brass Vessel Makers",
+    "Sculptors",
+    "Loading and Unloading Workers",
+    "Tree Climbers",
+    "Pottery Workers",
+    "Coir Workers",
+    "Toddy Neera Tappers",
+    "Bullock Cart Drivers",
+    "Thatchers",
+    "Cooks",
+    "Hawkers",
+    "News Paper Vendors",
+    "Workers Engaged in Bricks and Tiles Manufacturing",
+    "Workers Engaged in Distribution of Liquid Petroleum Gas Cylinder",
+    "Domestic Workers",
+    "Light Music Instrument Players",
+    "Automobile Workshop Workers"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India",
+    "Must be a resident of the Union Territory of Puducherry",
+    "Must be enrolled with the Puducherry Unorganised Labourers' Welfare Society",
+    "Must be taking an annual subscription of ₹100",
+    "Must pay a registration fee of ₹25",
+    "Must be pregnant and willing to terminate the pregnancy",
+    "Benefits are limited to up to two occasions of medical termination of pregnancy"
+  ],
+  "benefits_summary": "Financial assistance of ₹250 per pregnancy termination, up to two occasions, transferred directly to the beneficiary’s bank account.",
+  "documents_required": [
+    "passport-sized photograph",
+    "copies of mandatory documents"
+  ],
+  "application_link": null
+}

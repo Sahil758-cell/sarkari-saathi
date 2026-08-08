@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Digital J&K Internship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in a recognized university in India.",
+    "Must have secured at least 60% marks in the last degree or be pursuing B.E/B.Tech/M.E/M.Tech (Computer Science & Engineering/Computer Science/IT/Electronics & Communications), M.Sc. (CS/IT), MCA, or DOEACC ‘B’ level.",
+    "Must be in the final year or last semester of the program."
+  ],
+  "benefits_summary": "Interns receive a stipend of ₹10,000 per month and a certificate upon completion.",
+  "documents_required": [
+    "Domicile certificate",
+    "Signature",
+    "Resume"
+  ],
+  "application_link": null
+}

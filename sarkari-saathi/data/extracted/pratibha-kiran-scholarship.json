@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pratibha Kiran Scholarship",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "urban",
+  "other_conditions": [
+    "Must have passed class 12th with at least 60% marks."
+  ],
+  "benefits_summary": "Provides financial assistance up to Rs. 5,000 annually to eligible girl students.",
+  "documents_required": [],
+  "application_link": null
+}

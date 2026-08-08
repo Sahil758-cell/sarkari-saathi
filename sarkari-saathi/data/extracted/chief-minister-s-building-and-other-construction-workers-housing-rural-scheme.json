@@ -1,0 +1,37 @@
+{
+  "scheme_name": "Chief Minister's Building and Other Construction Workers Housing (Rural) Scheme",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must be a resident of Madhya Pradesh",
+    "Applicant must be a building or construction worker",
+    "Applicant must have worked at least 90 days in the preceding 12 months",
+    "Registration must be renewed annually",
+    "Applicant must not be eligible for housing grants under Indira Awas Yojana or Chief Minister Antyodaya Awas Yojana",
+    "Family may own a maximum of three hectares of agricultural land",
+    "Family income from all sources must not exceed ₹3 lakh per annum",
+    "Applicant must have sufficient land available for house construction",
+    "Applicant must be eligible to receive land for housing from the government",
+    "Applicant must be willing to construct a house on agricultural land owned by them",
+    "Applicant must be eligible to obtain a landholder certificate in the village population",
+    "Applicant must agree to obtain a bank loan for constructing a house with a 225 sq ft plinth area and provide their own contribution in the form of labour, material, or inclusion"
+  ],
+  "benefits_summary": "Provides a minimum loan grant of ₹50,000 per beneficiary, with banks potentially approving an additional loan of up to ₹30,000, limited to ₹50,000 per case.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Self‑attested copies of all mandatory documents"
+  ],
+  "application_link": null
+}

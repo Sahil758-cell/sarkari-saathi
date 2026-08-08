@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Sikhligar’s Community Development Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": 600000,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the Sikh community.",
+    "No family member should be a State/Central Government employee.",
+    "Neither the applicant nor any family member should have availed any loan/subsidy from the Corporation in the last 5 years, except for the Arivu Education Loan and Foreign Education Loan Scheme.",
+    "Applicant should not be a defaulter of the Corporation."
+  ],
+  "benefits_summary": "Provides a loan of ₹50,000 with a matching subsidy of ₹50,000, and up to 33% subsidy (max ₹1,50,000) for vehicle purchase or up to ₹1,00,000 for self‑employment loans.",
+  "documents_required": [
+    "passport-size photo",
+    "educational document",
+    "income certificate"
+  ],
+  "application_link": null
+}

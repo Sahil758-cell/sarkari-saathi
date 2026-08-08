@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Establishment of Integrated Educational Complexes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Government‑aided institutions located in the city/town of Panaji, Margao or Mapusa and within 10 km of the proposed complex site must be engaged in educational activities.",
+    "Institutions may apply if they wish to shift due to congestion or insufficient premises, or if they have no or insufficient premises and are within 10 km of the complex site."
+  ],
+  "benefits_summary": "Allotment of approximately 3000–6000 sq m of land per institution, leased for 33 years.",
+  "documents_required": [],
+  "application_link": null
+}

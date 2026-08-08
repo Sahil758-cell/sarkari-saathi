@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhya Mantri Vivah Shagun Yojna",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 180000,
+  "category": [
+    "SC",
+    "general"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a girl aged 18 years or older.",
+    "Beneficiary must be a resident of Haryana.",
+    "Beneficiary must belong to one of the following groups: daughter of a widow/divorced/destitute woman, orphan girl, member of SC/DT/Tapriwas communities, daughter of a sportswoman (any caste), any general or backward class family, or a person with disabilities (Divyangjan)."
+  ],
+  "benefits_summary": "Cash assistance of up to ₹71,000 as Shagun, with amounts varying by category, plus an additional ₹1,100 Shagun and a sweet box for families not covered under the main provisions.",
+  "documents_required": [],
+  "application_link": "https://shaadi.edisha.gov.in/"
+}

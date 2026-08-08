@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Government Hostel for Working Women/ Girl Students",
+  "occupation": [
+    "government employee",
+    "student"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a woman employed in a government office, organization, or firm",
+    "Applicant may be a girl student studying in college",
+    "Monthly income of the working woman must not exceed ₹5000"
+  ],
+  "benefits_summary": "Affordable rent of ₹650 for working women and ₹500 for girl students with furnished accommodation.",
+  "documents_required": [],
+  "application_link": null
+}

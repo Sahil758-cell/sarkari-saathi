@@ -1,0 +1,28 @@
+{
+  "scheme_name": "National Solar Science Fellowship Programme",
+  "occupation": [
+    "Scientist"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen or of Indian origin",
+    "Must possess a doctorate or equivalent in solar sciences/engineering, or an M.Tech/M.S. with strong published work and lab/industry experience (special case)",
+    "Minimum ten years of relevant experience, including time spent during Ph.D. research",
+    "Open to scientists employed in Government of India, State Government, public institutions, or unaffiliated but working in the solar energy field",
+    "Must submit a comprehensive research proposal as part of the application"
+  ],
+  "benefits_summary": "Selected Fellows receive an annual grant of up to ₹32 lakhs (covering emolument, contingencies, and research grant) disbursed to the host institution.",
+  "documents_required": [
+    "Prescribed Proforma (Annexure-II)",
+    "R&D proposal"
+  ],
+  "application_link": null
+}

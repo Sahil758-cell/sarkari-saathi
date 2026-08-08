@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Pragati Scholarship Scheme For Girl Students (Technical Degree)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Andaman and Nicobar Islands",
+    "Jammu and Kashmir",
+    "Ladakh",
+    "Dadra and Nagar Haveli & Daman and Diu",
+    "Lakshadweep",
+    "Arunachal Pradesh",
+    "Assam",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Sikkim",
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a girl student.",
+    "Must be pursuing the first year of the degree course or the second year through lateral entry.",
+    "A maximum of two girl children per family are eligible."
+  ],
+  "benefits_summary": "₹50,000 per annum for up to 4 years for first‑year students or up to 3 years for second‑year students, payable as a lump sum towards college fees and related expenses.",
+  "documents_required": [],
+  "application_link": null
+}

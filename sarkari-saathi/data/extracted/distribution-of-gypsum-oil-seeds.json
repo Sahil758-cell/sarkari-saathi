@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Distribution of Gypsum-Oil Seeds",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Engaged in seed production",
+    "Produces and supplies Foundation and Certified Class seeds to the Department of Agriculture"
+  ],
+  "benefits_summary": "Financial assistance covering 50% of gypsum material and transport costs, up to ₹750 per hectare.",
+  "documents_required": [],
+  "application_link": null
+}

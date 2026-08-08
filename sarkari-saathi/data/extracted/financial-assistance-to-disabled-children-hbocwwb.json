@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Financial Assistance To Disabled Children (HBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be registered under the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
+    "The worker must have a minimum of one‑year regular membership.",
+    "The dependent child must have a disability certificate of 50% or more physical/mental disability issued by the District Medical Board.",
+    "The dependent child's name must be included in the ration card.",
+    "The dependent child must not have availed the scheme benefit in the current financial year from any other Haryana Government Department/Board/Corporation.",
+    "The dependent child must not have any source of income.",
+    "The dependent child must not be married.",
+    "A live certificate of the dependent child must be submitted/uploaded every year to continue receiving assistance."
+  ],
+  "benefits_summary": "Financial assistance of ₹2000 per month is provided to eligible disabled children of registered construction workers.",
+  "documents_required": [
+    "Disability certificate of the dependent child issued by the District Medical Board",
+    "Live certificate of the dependent child (annual)",
+    "Ration card showing the dependent child's name"
+  ],
+  "application_link": null
+}

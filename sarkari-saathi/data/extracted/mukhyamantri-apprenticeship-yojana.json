@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Apprenticeship Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 14,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Gujarat.",
+    "Must be at least 14 years old (18 years for hazardous trades).",
+    "Must meet the minimum educational qualification specific to the trade and be at least a 5th pass-out.",
+    "Must satisfy physical fitness standards prescribed for the trade.",
+    "Must not have been engaged in any similar apprenticeship program previously."
+  ],
+  "benefits_summary": "Provides a stipend ranging from ₹1500 to ₹3000 depending on trade and qualification, with training durations of 6‑36 months.",
+  "documents_required": [],
+  "application_link": null
+}

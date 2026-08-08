@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Yuva Srujan Puraskar (Navsarjan Chetana Puraskar)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 25,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an individual artist",
+    "Applicant must have extraordinary contributions in the field of Art and culture",
+    "Applicant must have contributed in Goa for at least 5 years as a practising artist",
+    "Award will not be presented posthumously, except if death occurs after name recommendation",
+    "Age limit may be relaxed by up to 5 years in exceptional cases"
+  ],
+  "benefits_summary": "A memento, certificate of appreciation and a cash award of ₹25,000 per individual.",
+  "documents_required": [],
+  "application_link": null
+}

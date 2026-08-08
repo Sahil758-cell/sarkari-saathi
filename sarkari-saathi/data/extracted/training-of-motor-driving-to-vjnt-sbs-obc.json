@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Training Of Motor Driving To VJNT, SBS & OBC",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must satisfy age, education, and fitness requirements as per the Motor Vehicle Act."
+  ],
+  "benefits_summary": "Free motor driving or conductor training with lodging, boarding, license fees and a stipend for trainees.",
+  "documents_required": [
+    "Personal Details",
+    "Address Information",
+    "Other Information",
+    "Current Course",
+    "Past Qualification",
+    "Hostel Details"
+  ],
+  "application_link": null
+}

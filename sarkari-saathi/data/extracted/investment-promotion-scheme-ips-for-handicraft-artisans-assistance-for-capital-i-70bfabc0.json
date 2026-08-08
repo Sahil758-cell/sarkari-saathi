@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) For Handicraft Artisans: Assistance For Capital Investment For The Handloom And Handicrafts Artisans Of The U.T. Requiring Financial Assistance For Purchase Of Machinery Or Raw Materials",
+  "occupation": [
+    "Handloom artisan",
+    "Handicrafts artisan"
+  ],
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Interested in purchasing machinery or raw materials for business development",
+    "Must have Handloom or Handicraft skills and demonstrate products to the evaluation committee"
+  ],
+  "benefits_summary": "Up to ₹2,00,000 subsidy (50% of investment) for machinery purchase and working‑capital loan, with an additional 10% subsidy for SC/ST/Women/Differently‑abled applicants.",
+  "documents_required": [],
+  "application_link": null
+}

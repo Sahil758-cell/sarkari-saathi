@@ -1,0 +1,27 @@
+{
+  "scheme_name": "West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of West Bengal.",
+    "The applicant must be ordinarily a worker who is employed or likely to be employed in any State/Union Territory outside West Bengal or outside India.",
+    "The beneficiary of the welfare assistance must be the nominee nominated by the registered migrant worker from his/her family.",
+    "The assistance is applicable only if the migrant worker died during the course of employment outside the State of West Bengal.",
+    "Registered migrant workers need to renew their registration on a yearly basis."
+  ],
+  "benefits_summary": "₹ 25,000 is provided to the nominee of the deceased migrant worker.",
+  "documents_required": [],
+  "application_link": null
+}

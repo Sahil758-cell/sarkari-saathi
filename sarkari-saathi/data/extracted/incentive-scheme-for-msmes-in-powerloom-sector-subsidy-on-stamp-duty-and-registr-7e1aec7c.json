@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Incentive Scheme for MSMEs in Powerloom Sector: Subsidy on Stamp Duty and Registration Fees",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Production must have started between 01.01.2022 and 31.12.2024",
+    "Must have executed a four‑party agreement with the Directorate of Textiles, a financial institution and Tantuja",
+    "Must be a private sector, cooperative sector, joint sector undertaking, or a company/undertaking owned and managed by the State Government or an industrial SHG",
+    "Project must be covered by a detailed feasibility report/project",
+    "Project must be approved and sanctioned by a central financial institution, commercial bank or state financial institution"
+  ],
+  "benefits_summary": "Provides reimbursement of stamp duty and registration fees for eligible micro, small and medium powerloom enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

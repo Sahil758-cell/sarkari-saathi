@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Mizoram Research Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Mizoram"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide permanent resident of Mizoram.",
+    "Applicant must be pursuing higher studies or research at a university/institution recognized or established by law.",
+    "Applicant must not be guilty of misconduct, breach of discipline, or participation in strikes, demonstrations, picketing, or similar activities for unfair demands from any high‑level authority (unless relaxed by the awarding authority).",
+    "Applicant must secure at least 50% on average in the last university examination.",
+    "Applicant must not be in receipt of any scholar or stipend except a merit scholarship from any source."
+  ],
+  "benefits_summary": "Financial assistance to research workers and teachers.",
+  "documents_required": [
+    "Signed application form",
+    "Self‑attested documents",
+    "Documents uploaded on the portal verification and sanction"
+  ],
+  "application_link": null
+}

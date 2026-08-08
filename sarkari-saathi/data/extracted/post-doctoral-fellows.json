@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Post-Doctoral Fellows",
+  "occupation": null,
+  "gender": null,
+  "age_min": 35,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have completed Bachelor’s and Master’s degrees in science or engineering with at least 60% marks or equivalent grades at both levels.",
+    "Applicant must be 35 years old.",
+    "Candidate should have submitted Ph.D. thesis awaiting degree or already hold a Ph.D. degree.",
+    "External applicants must have a Ph.D. and at least two years of research experience."
+  ],
+  "benefits_summary": "Provides a monthly stipend ranging from ₹58,000 to ₹67,000, a one‑time academic allowance of ₹10,000, and accommodation or HRA benefits.",
+  "documents_required": [],
+  "application_link": null
+}

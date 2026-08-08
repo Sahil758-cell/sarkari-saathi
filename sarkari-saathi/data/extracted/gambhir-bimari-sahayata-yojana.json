@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Gambhir Bimari Sahayata Yojana",
+  "occupation": [
+    "construction workers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered worker under the labor department.",
+    "Beneficiary cannot receive similar benefits from Pradhan Mantri Jan-Arogya Yojana or Chief Minister Jan-Arogya Yojana.",
+    "Only the following family members are covered: self, dependent parents, spouse (husband/wife), daughter, and son (only if below 21 years of age)."
+  ],
+  "benefits_summary": "Provides full reimbursement for treatment of serious illnesses in government or empaneled hospitals, with no maximum amount limit.",
+  "documents_required": [],
+  "application_link": "Applicant must visit the nearest labor office, the tehsildar of the concerned tehsil, or the Block Development Officer of the concerned development block, obtain the application form, fill it completely, attach required documents in the prescribed format, and submit the form."
+}

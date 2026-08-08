@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Scheme of Awarding Porkizhi to the Indigent Kalaimamani Awardee Artists",
+  "occupation": [
+    "artist"
+  ],
+  "gender": null,
+  "age_min": 58,
+  "age_max": null,
+  "max_annual_income": 12000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have received the Kalaimamani Award.",
+    "Applicant must be living under indigent circumstances."
+  ],
+  "benefits_summary": "Financial assistance of ₹15,000.",
+  "documents_required": [],
+  "application_link": null
+}

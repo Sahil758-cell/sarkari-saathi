@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Border Areas Development Department",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh",
+    "Assam",
+    "Bihar",
+    "Gujarat",
+    "Himachal Pradesh",
+    "Jammu & Kashmir (UT)",
+    "Ladakh (UT)",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Punjab",
+    "Rajasthan",
+    "Sikkim",
+    "Tripura",
+    "Uttar Pradesh",
+    "Uttarakhand",
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be located in census villages, semi‑urban or urban areas within 0‑10 km (crow‑fly) from the International Boundary in the listed border districts",
+    "Strategic villages/towns identified by Border Guarding Forces receive the highest priority",
+    "Program may extend to areas up to 10‑20/30/40/50 km after saturation of the 0‑10 km zone"
+  ],
+  "benefits_summary": "Infrastructure development in border areas covering roads, bridges, health, education, agriculture, water supply, sports, social sector facilities and related projects.",
+  "documents_required": [],
+  "application_link": null
+}

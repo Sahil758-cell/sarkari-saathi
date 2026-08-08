@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Junior Research Fellowship (JRF) And Research Associateship (RA) For Foreign Nationals",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible candidates are students and teachers from developing countries of Asia, Africa, and Latin America.",
+    "For Junior Research Fellowship (JRF), male candidates must be 35 years or younger and female candidates must be 40 years or younger as of 1 July of the application year.",
+    "For Research Associateship (RA), male candidates must be 40 years or younger and female candidates must be 45 years or younger as of 1 July of the application year.",
+    "JRF applicants must possess a high‑class master’s degree with a second‑class bachelor’s degree, or a second‑class master’s degree with a first‑class bachelor’s degree.",
+    "RA applicants must hold a doctorate degree, have published research work, and provide evidence of independent research work."
+  ],
+  "benefits_summary": "JRF fellows receive a monthly fellowship of Rs 12,000–14,000 (plus contingent allowances) for up to four years; RA fellows receive a fixed monthly fellowship of Rs 16,000 for four years.",
+  "documents_required": [],
+  "application_link": null
+}

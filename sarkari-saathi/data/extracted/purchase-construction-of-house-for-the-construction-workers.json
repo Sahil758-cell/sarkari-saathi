@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Purchase/Construction of House for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year",
+    "Must have been registered with the Board for not less than three years",
+    "Must have a minimum of 10 to 15 years of service for superannuation"
+  ],
+  "benefits_summary": "Advance amount of ₹3,00,000 for workers with 10 years left to reach 60 years, and ₹5,00,000 for workers with 15 years left to reach 60 years.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Proof of 90 Days Employment"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Free Scooty Distribution for Girls (GEN-CATEGAORY-EWS)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "EWS"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Rajasthan",
+    "Must have studied in a government or private school in Rajasthan",
+    "Must have secured at least 85% marks in class 10th or 12th"
+  ],
+  "benefits_summary": "Eligible girl students receive a scooty, a helmet, and 2 liters of petrol.",
+  "documents_required": [],
+  "application_link": null
+}

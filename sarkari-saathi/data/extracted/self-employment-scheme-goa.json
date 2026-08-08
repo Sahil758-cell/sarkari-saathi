@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Self Employment Scheme - Goa",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 55,
+  "max_annual_income": 100000,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant can be an individual, association, society, partnership, self‑help group or company.",
+    "Applicant must belong to the Scheduled Tribe (ST) community.",
+    "Family annual income must not exceed ₹1,00,000.",
+    "Applicant must not be older than 55 years.",
+    "Two guarantors are required, one of whom must be a government servant.",
+    "Financial support is only for self‑employment activities.",
+    "Eligibility criteria may be relaxed by the Board of Directors in deserving cases."
+  ],
+  "benefits_summary": "Provides loan up to ₹10 lakh for individuals and up to ₹15 lakh for groups to undertake self‑employment activities, with a required 10 % margin money contribution.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph (signed)",
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

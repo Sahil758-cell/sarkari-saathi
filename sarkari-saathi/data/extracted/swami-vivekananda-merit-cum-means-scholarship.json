@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Swami Vivekananda Merit-cum-Means Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of West Bengal.",
+    "Family annual income must not exceed ₹2,50,000.",
+    "Minimum 60% marks in the Madhyamik Pariksha exam for High School; only students from the West Bengal Board of Secondary Education are eligible.",
+    "Minimum 60% marks in the qualifying exam for Diploma courses; courses must be approved by AICTE/PCI/CoA and affiliated to WBSCT&VE&SD.",
+    "Undergraduate students must have at least 60% aggregate in the HS exam conducted by WBCHSE/Madrasha Siksha Parishad.",
+    "Postgraduate students must have at least 53% marks in the Honours subject at the graduation level.",
+    "Kanyashree scholarship recipients (married or unmarried) pursuing PG in Science, Arts or Commerce with a minimum 45% in their undergraduate degree are eligible and are exempt from submitting income proof.",
+    "Research scholars (full‑time M.Phil. or Ph.D.) registered after 1 April 2017 are eligible (up to 2 years for M.Phil. and 4 years for Ph.D.).",
+    "Financial assistance stops for NET‑LS scholars upon their appointment as teachers.",
+    "Eligibility limited to specified courses: UG in Science, Arts, Commerce, Engineering, Medical, Technical/Professional; PG in Science, Arts, Commerce, Technical/Management; and research‑level M.Phil/Ph.D. scholars."
+  ],
+  "benefits_summary": "Monthly scholarship amounts range from ₹1,000 for HS and D.El.Ed students to ₹8,000 for non‑NET Ph.D. scholars, varying by course and level.",
+  "documents_required": [],
+  "application_link": "https://svmcm.wbhed.gov.in/"
+}

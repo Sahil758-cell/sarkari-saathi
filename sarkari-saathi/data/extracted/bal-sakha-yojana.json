@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Bal Sakha Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 0,
+  "age_max": 0,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must not be liable to pay income tax"
+  ],
+  "benefits_summary": "Provides expert neonatal care, including immunizations, nutrition advice, and health monitoring by a paediatrician for eligible newborns.",
+  "documents_required": [],
+  "application_link": null
+}

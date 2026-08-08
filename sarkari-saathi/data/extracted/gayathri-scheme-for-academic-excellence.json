@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Gayathri Scheme for Academic Excellence",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student and his/her parents must belong to the Brahmin community.",
+    "Parents of the student must reside in Andhra Pradesh.",
+    "The student must be a regular (full‑time) student of the course for the academic year 2018‑19.",
+    "The student must be the topper of the entire course (SSC/Intermediate/Graduation/Professional Education) for the academic year 2018‑19.",
+    "Topper of SSC, Intermediate or Graduation must have completed the course in Andhra Pradesh.",
+    "Topper of Professional Education Course may have completed the course anywhere in India, but the parents must reside in Andhra Pradesh.",
+    "The student must not have availed any amount under any other government scheme for the same purpose."
+  ],
+  "benefits_summary": "Cash awards ranging from ₹7,500 for SSC toppers up to ₹20,000 for Professional Education Course toppers.",
+  "documents_required": [
+    "Birth Certificate",
+    "Residential Certificate",
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Bank Passbook",
+    "Photo",
+    "Signature",
+    "Certificate Details"
+  ],
+  "application_link": null
+}

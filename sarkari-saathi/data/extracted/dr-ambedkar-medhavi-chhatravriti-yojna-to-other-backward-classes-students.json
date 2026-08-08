@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Dr. Ambedkar Medhavi Chhatravriti Yojna to Other Backward Classes Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "OBC"
+  ],
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Scholarship is limited to a maximum of two successive years after matriculation",
+    "Renewal for the second year is conditional on satisfactory performance in the first year",
+    "The student must take admission to any professional/technical course after matric in a recognized institution within or outside the state",
+    "Selection is based strictly on merit among OBC students who appear in the Matric Examination"
+  ],
+  "benefits_summary": "Each eligible student receives ₹18,000 per year for up to two years after matriculation.",
+  "documents_required": [
+    "Printed copy of the Online Scholarship Form (after successful online submission)",
+    "All requisite supporting documents as per the student's records"
+  ],
+  "application_link": "https://scholarships.gov.in/"
+}

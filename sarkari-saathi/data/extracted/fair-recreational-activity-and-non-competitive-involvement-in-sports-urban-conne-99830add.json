@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must own land of at least 2,000 square metres within the municipal jurisdiction",
+    "Eligible entities include local municipal bodies, schools, colleges or other institutions, registered sports clubs, registered housing societies, and other registered bodies promoting physical fitness and sport",
+    "Applicants whose land falls in peripheral Panchayat jurisdiction may also be considered eligible"
+  ],
+  "benefits_summary": "Provides financial assistance to develop safe play areas and related sports facilities in urban communities.",
+  "documents_required": [
+    "Application Form (Annexure 1)"
+  ],
+  "application_link": null
+}

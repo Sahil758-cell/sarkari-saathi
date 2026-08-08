@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance in Rent to MSEs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must be a Micro or Small Enterprise (MSE).",
+    "Enterprise must be engaged in manufacturing activities.",
+    "Business must have acquired a rented or leased shed for its operations.",
+    "Shed owner must have legal ownership and possession of the property.",
+    "Manufacturing unit must be consuming electricity/power for its activities.",
+    "Assistance applicable from the rent deed date or three months prior to production, whichever is later."
+  ],
+  "benefits_summary": "Reimbursement of 65% of rent paid, up to ₹1,00,000 per annum for up to 5 years.",
+  "documents_required": [],
+  "application_link": null
+}

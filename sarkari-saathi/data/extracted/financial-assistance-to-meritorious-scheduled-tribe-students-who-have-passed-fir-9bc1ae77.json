@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Financial assistance to Meritorious Scheduled Tribe Students who have Passed First Division from Board and University",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a student.",
+    "Must have passed the 12th standard examination with at least 60% marks (first division).",
+    "Must have secured at least 48% marks in the first‑year examination to be eligible for the incentive in the second year.",
+    "Must have secured at least 48% marks in the second‑year examination to be eligible for the incentive in the third year.",
+    "No gap in studies after passing the board examination.",
+    "Must be enrolled as a regular student in general education in a government college.",
+    "Students residing in government hostels are not eligible.",
+    "Applicant’s parents/guardian/husband should not be income‑tax payers.",
+    "Must possess a Jan Aadhaar Card and an Aadhaar Card."
+  ],
+  "benefits_summary": "A one‑time financial incentive of up to ₹3,500, paid as ₹350 per month for a maximum of ten months through Direct Benefit Transfer to the student’s bank account.",
+  "documents_required": [
+    "Jan Aadhaar Card",
+    "Aadhaar Card"
+  ],
+  "application_link": null
+}

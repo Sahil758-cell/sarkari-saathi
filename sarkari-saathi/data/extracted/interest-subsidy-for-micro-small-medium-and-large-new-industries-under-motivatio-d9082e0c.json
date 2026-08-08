@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Interest Subsidy (For Micro, Small, Medium and Large New Industries)",
+  "occupation": [
+    "industrial unit"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have made the investment on or after 1 April 2017",
+    "At least 60% of the unit’s employment must be from the Union Territory of Puducherry and must be maintained for the period specified in the affidavit",
+    "The unit must be availing a loan from a financial institution for creation of fixed assets and/or working capital",
+    "The unit shall not transfer or dispose of the fixed asset, including plant and machinery, for five years from the date of application/disbursement of the subsidy, whichever is later",
+    "Additional investments after the first claim are eligible up to the ceiling limit",
+    "If the same proprietor sets up multiple units with different locations and separate licences/clearances, each unit is eligible as a separate entity",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small",
+    "Eligibility category noted in source: Medium",
+    "Eligibility category noted in source: Large"
+  ],
+  "benefits_summary": "Provides up to 25% interest subsidy on loan interest (capped at ₹5 lakh per annum) for a period of 5‑7 years depending on the location.",
+  "documents_required": [
+    "Prescribed application form available on the Directorate of Industries and Commerce website",
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

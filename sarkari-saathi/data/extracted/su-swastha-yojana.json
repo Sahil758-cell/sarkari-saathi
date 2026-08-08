@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Su-Swastha Yojana",
+  "occupation": [
+    "regular employee of the Government of Sikkim"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a regular employee in service of the Government of Sikkim.",
+    "Dependent family members (spouse, siblings, children (including adopted), parents of self or spouse) are eligible up to a maximum of five dependents."
+  ],
+  "benefits_summary": "Provides cashless hospitalization with up to ₹10 lakh cover per family per year, including critical care, ambulance, maternity and other medical expenses.",
+  "documents_required": [],
+  "application_link": null
+}

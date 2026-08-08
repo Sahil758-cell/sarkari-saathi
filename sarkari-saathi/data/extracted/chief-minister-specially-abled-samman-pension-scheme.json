@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Chief Minister Specially Abled Samman Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of 40% or more",
+    "Applicant must have at least one of the following disabilities: blindness, short‑sightedness, locomotor disability, leprosy‑free, hearing loss, mental retardation, mental illness, dwarfism (height less than 3 ft 6 in with a medical certificate), or eunuchism",
+    "Must be a native of Rajasthan and residing in Rajasthan"
+  ],
+  "benefits_summary": "Monthly pension ranging from Rs. 750 to Rs. 1,500 depending on age and disability, with higher amounts for older beneficiaries and leprosy‑free persons",
+  "documents_required": [],
+  "application_link": null
+}

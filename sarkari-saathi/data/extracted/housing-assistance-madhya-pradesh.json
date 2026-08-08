@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Housing Assistance (Madhya Pradesh)",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Applicant must belong to a tribal community (Scheduled Tribe)",
+    "Applicant must have passed class 12th from a government or non‑government college",
+    "Applicant must be enrolled in a graduate, graduate diploma, technical or paramedical course",
+    "Applicant must be regularly admitted in the course they are pursuing",
+    "Applicant must not have received admission to a government hostel",
+    "Applicant must be pursuing higher education outside their hometown where hostels are not available"
+  ],
+  "benefits_summary": "Provides housing assistance to tribal boys and girls to continue higher education outside their hometown when hostel accommodation is unavailable.",
+  "documents_required": [],
+  "application_link": null
+}

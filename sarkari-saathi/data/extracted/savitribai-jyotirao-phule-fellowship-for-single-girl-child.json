@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be the only girl child in the family (no brothers or sisters); twins are also eligible",
+    "Must be enrolled in a regular full‑time Ph.D. programme; part‑time or distance modes are not eligible",
+    "Must be pursuing a Ph.D. in any recognised university/college/institute",
+    "Must be aged up to 40 years for general category or up to 45 years for SC/ST/OBC/PWD applicants",
+    "Must provide an affidavit on ₹100 stamp paper, attested by SDM/First Class Magistrate/Tahsildar, proving single‑girl‑child status"
+  ],
+  "benefits_summary": "Provides a five‑year research fellowship with a monthly stipend of ₹31,000 (JRF) for the first two years and ₹35,000 (SRF) thereafter, plus contingency and housing assistance.",
+  "documents_required": [
+    "Passport‑size photograph (scanned, jpg, ≤1 MB)",
+    "Signature (scanned, ≤1 MB)",
+    "Affidavit on ₹100 stamp paper attested by SDM/First Class Magistrate/Tahsildar proving single‑girl‑child status"
+  ],
+  "application_link": "https://frg.ugc.ac.in/"
+}

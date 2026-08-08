@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhayamantri Saur Swarojgar Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent/native resident of Uttarakhand",
+    "Applicant must not be a defaulter of any nationalized bank, financial institution, cooperative institution or other institution",
+    "Applicant must have necessary knowledge regarding the conduct of the proposed activity",
+    "Applicant must be an account holder of the financing bank of the concerned area",
+    "If any permission or clearance is required for the operation/re‑operation of the business, it must be obtained from the competent authority of the particular area",
+    "Ex‑servicemen/women, disabled persons, Scheduled Caste and Scheduled Tribe candidates must attach a self‑attested copy of the certificate issued by the competent authority with the application form"
+  ],
+  "benefits_summary": "Provides a loan up to Rs 50,000 at 8% interest with a 25% subsidy (70% loan) and no educational barriers.",
+  "documents_required": [
+    "Self‑attested copy of the certificate issued by the competent authority (for ex‑servicemen/women, disabled, SC, ST)"
+  ],
+  "application_link": "https://msy.uk.gov.in"
+}

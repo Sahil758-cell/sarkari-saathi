@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Prasuti Sahayata Yojana",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": "female",
+  "age_min": 20,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must hold a beneficiary identity card under Section 13 of the Maternity Benefit Act.",
+    "Benefits are payable for a maximum of two deliveries only.",
+    "No assistance if the beneficiary has two or more children before registration.",
+    "If the beneficiary has one child before registration, assistance is provided for only one delivery.",
+    "Beneficiaries must make monthly contributions to the Board’s fund; defaults must be cleared to become eligible.",
+    "Benefits are provided only for institutional deliveries."
+  ],
+  "benefits_summary": "Cash assistance of ₹21,000 for the birth of a daughter or ₹20,000 for the birth of a son, plus an additional ₹1,000 if Janani Suraksha Yojana benefits were not received.",
+  "documents_required": [],
+  "application_link": null
+}

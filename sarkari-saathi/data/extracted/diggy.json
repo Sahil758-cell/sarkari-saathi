@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Diggy",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have at least 0.5 hectares of irrigated agricultural land",
+    "Construction must start only after administrative approval of the Agriculture Department",
+    "Verification will be done by the department before and after construction",
+    "Installation of drip/sprinkler set on the dig is mandatory"
+  ],
+  "benefits_summary": "Provides a subsidy of 75‑85% and a grant of up to ₹3,40,000 for constructing a dig for irrigation.",
+  "documents_required": [
+    "Documents (to be uploaded)"
+  ],
+  "application_link": null
+}

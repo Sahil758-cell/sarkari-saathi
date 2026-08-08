@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Marriage Assistance",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have contributed to the Labour Welfare Fund",
+    "Employee's monthly salary (Basic pay + DA) must not exceed Rs.25,000",
+    "Applicant must be an employee or the employee's son/daughter who has legally attained the age of marriage"
+  ],
+  "benefits_summary": "A lump sum of Rs.10,000 is provided as marriage assistance to eligible employees or their children.",
+  "documents_required": [],
+  "application_link": null
+}

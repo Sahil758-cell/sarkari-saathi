@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Modernisation And Removal Of Obsolescence",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "AICTE‑approved technical institution or university department with at least 10 years of existence (5 years if located in a rural area)",
+    "For aspiring institutions: more than 50% admission rate in each of the past 3 years; no prior MODROB project; maximum three proposals per institute per year, with only one proposal per department",
+    "For regular institutions: live NBA accreditation; more than 60% admission rate in each of the past 3 years; department must not have received a MODROB project in the last two years; maximum three proposals per institute per year (including earlier sanctioned but incomplete); preference given to institutions with industry involvement",
+    "For polytechnic institutions: AICTE‑approved polytechnic with at least 10 years of existence (5 years if located in a rural area); more than 60% admission rate in each of the past 3 years; maximum three proposals per institute per year, with only one proposal per department"
+  ],
+  "benefits_summary": "Each approved project is funded up to Rs.20 lakhs for a two‑year period, with 80% of the amount released in advance and the remaining 20% reimbursed after submission of a utilization certificate.",
+  "documents_required": [],
+  "application_link": null
+}

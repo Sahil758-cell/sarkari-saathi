@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Schemes for welfare of School Children belonging to BPL and BC(A) families: Monthly Stipend for BC(A) Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to Backward Classes category (A).",
+    "Must be a student in classes 1 to 12.",
+    "Must be enrolled in a Haryana Government school.",
+    "Must maintain at least 50% attendance to continue receiving benefits.",
+    "Must have an active bank account for stipend transfer."
+  ],
+  "benefits_summary": "Monthly stipend ranging from ₹75 to ₹400 per student, amount varying by class and gender, transferred directly to the beneficiary's bank account.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Mukhyamantri Ati Pichhada Varg Udyami Yojana",
+  "occupation": null,
+  "gender": "male",
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to Extremely Backward Classes",
+    "Educational qualification must be at least 10+2, Intermediate, ITI, Polytechnic Diploma, or equivalent",
+    "Business unit must be a proprietorship or partnership firm"
+  ],
+  "benefits_summary": "Up to ₹10,00,000 financial support, with 50% provided as a grant and 50% as an interest‑free loan, plus mandatory skill‑development training.",
+  "documents_required": [],
+  "application_link": null
+}

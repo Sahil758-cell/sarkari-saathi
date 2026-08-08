@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Kalyani Sahayata Yojana (Madhya Pradesh Labor Welfare Board)",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be the widow of the deceased worker",
+    "The deceased worker must have been employed in an industrial institution or establishment covered by the Madhya Pradesh Labour Welfare Fund Act, 1982 for at least one year prior to his death",
+    "The deceased worker must have been registered with the Madhya Pradesh Labour Welfare Board",
+    "The widow must not have remarried",
+    "The widow must not be receiving financial assistance from any other government department"
+  ],
+  "benefits_summary": "Eligible widows receive financial assistance of ₹6,000 every six months, amounting to ₹12,000 per year.",
+  "documents_required": [],
+  "application_link": null
+}

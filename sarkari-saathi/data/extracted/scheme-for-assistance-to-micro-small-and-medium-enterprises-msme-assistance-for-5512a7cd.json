@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME): Assistance for Interest Subsidy (Manufacturing Sector)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small or Medium enterprise.",
+    "The enterprise must operate in the manufacturing sector.",
+    "The term loan must be sanctioned by a recognized bank or financial institution (NBFCs are excluded).",
+    "The application must be submitted within one year of loan disbursement or before commercial production starts.",
+    "The enterprise must remain operational for at least seven years after subsidy approval.",
+    "The enterprise must comply with pollution control measures.",
+    "Only one type of investment (forward integration, backward integration, diversification, or expansion) is eligible for the subsidy."
+  ],
+  "benefits_summary": "Provides an interest subsidy of 5‑7% on term loans up to ₹35 lakh per annum, with subsidy periods ranging from 5 to 7 years depending on taluka category.",
+  "documents_required": [],
+  "application_link": null
+}

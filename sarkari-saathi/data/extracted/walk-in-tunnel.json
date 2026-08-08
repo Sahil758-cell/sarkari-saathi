@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Walk In Tunnel",
+  "occupation": [
+    "Farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must own agricultural land and have irrigation sources.",
+    "Construction can start only after administrative approval or work order issued by the Horticulture Department.",
+    "Verification is conducted by a committee formed after construction."
+  ],
+  "benefits_summary": "Up to 50% grant for a maximum of 800 sq m (up to 5 units) or 400 sq m (up to 10 units) per beneficiary.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Savitribai Phole Scholarship For V.J.N.T And S.B.C Girls Students Studying In 8th To 10 Std",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to V.J.N.T. or S.B.C category",
+    "Must be a girl student studying in 8th to 10th standard",
+    "No income limit",
+    "No minimum marks requirement"
+  ],
+  "benefits_summary": "Provides ₹100 per month for 10 months (total ₹1,000).",
+  "documents_required": [
+    "Personal Details",
+    "Address Information",
+    "Other Information",
+    "Current Course",
+    "Past Qualification",
+    "Hostel Details"
+  ],
+  "application_link": "https://mahadbt.maharashtra.gov.in"
+}

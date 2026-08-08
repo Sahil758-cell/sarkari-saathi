@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Promotion of Energy Audit and Conservation of Energy (PEACE): Training Programme",
+  "occupation": [
+    "Employee",
+    "Engineer",
+    "Executive"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Participants must be employees, engineers, or executives of MSMEs willing to undertake an energy audit.",
+    "MSMEs from neighboring districts may be included for cluster/sector‑focused programs."
+  ],
+  "benefits_summary": "Provides a 3‑4 day training on Energy Management Systems to help MSMEs improve energy efficiency, reduce costs, and lower greenhouse‑gas emissions.",
+  "documents_required": [],
+  "application_link": null
+}

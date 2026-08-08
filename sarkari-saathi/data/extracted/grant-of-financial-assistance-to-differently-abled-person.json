@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Grant of Financial Assistance to Differently Abled Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Disability must be 40% or above for Orthopaedic, Deaf, Dumb, or Blind categories",
+    "For Mentally Retarded category, IQ must be below 69"
+  ],
+  "benefits_summary": "Monthly financial assistance ranging from ₹2000 to ₹3800, depending on disability percentage and age.",
+  "documents_required": [
+    "application form (prescribed format)",
+    "passport-sized photograph (signed across if required)",
+    "self-attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

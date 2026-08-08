@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Additional Pension to Widow of Ex-Serviceman having Children",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Benefit is provided for up to three children of the widow.",
+    "Benefit continues until each child dies, reaches age 20, gets married, or becomes employed, whichever occurs first.",
+    "The widow must submit a half‑yearly certificate of eligibility (Form III) to the District Sainik Board in June or December.",
+    "The widow must inform the District Sainik Board of any change in the status of her children (death, age 20, marriage, or employment)."
+  ],
+  "benefits_summary": "Additional monthly pension per child (₹100 for Other Ranks, ₹150 for JCOs, ₹200 for Officers) up to a maximum of ₹300‑₹600, paid quarterly.",
+  "documents_required": [
+    "Form III certificate of eligibility (half‑yearly)",
+    "Affidavit form/template (filled and signed)"
+  ],
+  "application_link": null
+}

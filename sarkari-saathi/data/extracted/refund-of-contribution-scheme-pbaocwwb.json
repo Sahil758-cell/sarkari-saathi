@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Refund of Contribution Scheme (PBAOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be the nominee or dependent of the deceased construction worker.",
+    "The deceased construction worker must have been a citizen of India.",
+    "The deceased must have been registered as a construction worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+    "The deceased must have been at least 18 years old during his/her lifetime.",
+    "The deceased must not have completed 60 years of age during the preceding 12 months of construction work.",
+    "The deceased must have contributed regularly to the fund.",
+    "The deceased must not have defaulted on contribution payments for a continuous period of more than one year.",
+    "The application must be submitted within two months from the date of death of the construction worker."
+  ],
+  "benefits_summary": "Repayment of the contribution amount paid by the deceased worker to the nominee, credited via Direct Benefit Transfer within 7 days.",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

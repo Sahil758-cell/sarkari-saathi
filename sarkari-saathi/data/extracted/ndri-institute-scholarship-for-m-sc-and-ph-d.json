@@ -1,0 +1,29 @@
+{
+  "scheme_name": "NDRI Institute Scholarship For M.Sc. And Ph.d",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be of Indian nationality as defined in the Constitution of India or domiciled in India",
+    "Student must not be receiving any other scholarship, fellowship or financial assistance from any other source",
+    "Must register for all prescribed courses each semester (research is considered a course)",
+    "Must maintain an aggregate of at least 65% (or 64.5% considered as 65%) in the previous semester to be eligible for the next period",
+    "Students on conduct probation are not eligible for scholarship payments",
+    "Scholarship terminates if the student is removed from the institute rolls or completes the study",
+    "Students participating in a collaborative programme are eligible only after returning and re‑joining the institute",
+    "In‑service Ph.D. students must be employed in the ICAR/SAU system and the third degree must not be from the same institute"
+  ],
+  "benefits_summary": "Eligible Master’s students receive Rs. 7,560 per month, Doctoral students receive Rs. 10,500 per month (in‑service Ph.D. students Rs. 1,000 per month), and a contingency grant of up to Rs. 12,000 for Master’s or Rs. 30,000 for Doctoral programmes is provided.",
+  "documents_required": [
+    "Acceptance of the award in the prescribed proforma",
+    "Undertaking to follow the rules and regulations as per conditions governing the Scholarship in the prescribed proforma"
+  ],
+  "application_link": "https://education.icar.gov.in/"
+}

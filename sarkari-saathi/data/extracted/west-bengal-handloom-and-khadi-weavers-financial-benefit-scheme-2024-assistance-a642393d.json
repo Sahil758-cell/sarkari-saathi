@@ -1,0 +1,22 @@
+{
+  "scheme_name": "West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024: Assistance to Viable and Potentially Viable PWCS",
+  "occupation": [
+    "Handloom Weavers",
+    "Khadi Weavers"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides financial assistance ranging from ₹1 lakh to ₹10 lakh per eligible Primary Weavers' Cooperative Society (PWCS) or Khadi Society, based on the extent of their activity.",
+  "documents_required": [],
+  "application_link": null
+}

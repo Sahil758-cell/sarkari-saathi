@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Scheme of Grant-In-Aid for Conduct of Art Exhibitions: Group Shows",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a group of artists, specifically a group of five artists.",
+    "Artists must be natives of Tamil Nadu with continuous residence for at least 5 years.",
+    "Artists must have continuous involvement in painting and sculpture.",
+    "Artists should possess an adequate number of artworks for conducting the show.",
+    "Participation in National or State level Art Exhibitions and Artists Camps is considered an additional qualification."
+  ],
+  "benefits_summary": "Financial assistance of ₹50,000 per group of artists.",
+  "documents_required": [
+    "Prescribed application form",
+    "Copies of all mandatory documents (self‑attestation if required)"
+  ],
+  "application_link": null
+}

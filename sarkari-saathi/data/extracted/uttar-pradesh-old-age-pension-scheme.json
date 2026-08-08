@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Uttar Pradesh Old Age Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": 150,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Annual income must not exceed Rs. 46,080 for rural areas",
+    "Annual income must not exceed Rs. 56,460 for urban areas"
+  ],
+  "benefits_summary": "Monthly pension of Rs. 1,000.",
+  "documents_required": [
+    "Photograph",
+    "Age certificate"
+  ],
+  "application_link": null
+}

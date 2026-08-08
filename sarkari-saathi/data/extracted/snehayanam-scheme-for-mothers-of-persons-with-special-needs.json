@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Snehayanam Scheme For Mothers Of Persons With Special Needs",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Widowed, legally divorced, or abandoned by husband are eligible",
+    "Mother must be of a person with disability covered under the National Trust Act",
+    "Applicant must have a valid three‑wheeler driving license",
+    "Applicant must have no steady source of income",
+    "Vehicle tax and insurance will be borne by the beneficiary",
+    "Vehicle must be registered solely in the beneficiary’s name and cannot be transferred or sold"
+  ],
+  "benefits_summary": "Free electric auto‑rickshaw provided to eligible mothers of persons with disabilities who are financially disadvantaged.",
+  "documents_required": [],
+  "application_link": null
+}

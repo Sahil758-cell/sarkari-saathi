@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Birsa Awas Nirman Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must belong to the economically weaker section."
+  ],
+  "benefits_summary": "Financial assistance up to ₹1,31,500 for house construction, disbursed in three installments.",
+  "documents_required": [],
+  "application_link": null
+}

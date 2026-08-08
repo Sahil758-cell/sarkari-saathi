@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Interest Subsidy Eligibility Certificate (isec) Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a valid Khadi certificate",
+    "Must have a sanctioned Khadi programme",
+    "Must be registered with KVIC or the State Khadi and Village Industries Board (KVIB)",
+    "Must operate only in the khadi and polyvastra sector"
+  ],
+  "benefits_summary": "Provides a 4% interest subsidy on working‑capital loans for Khadi institutions, lowering financing costs.",
+  "documents_required": [
+    "ISEC certificate issued by KVIC"
+  ],
+  "application_link": null
+}

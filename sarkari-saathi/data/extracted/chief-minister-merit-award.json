@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Chief Minister Merit Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must belong to Adi Dravidar, Tribal, or Adi Dravidar converted to Christianity communities",
+    "Must have passed plus 2 public examination",
+    "Must be continuing higher education after plus 2"
+  ],
+  "benefits_summary": "₹3,000 per year for five consecutive years.",
+  "documents_required": [
+    "passport-sized photograph",
+    "copies of mandatory documents"
+  ],
+  "application_link": null
+}

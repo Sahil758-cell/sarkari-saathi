@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Seed Capital Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a start‑up certified by the Start‑up Promotion Cell (SPC) with a valid start‑up certificate number"
+  ],
+  "benefits_summary": "Eligible start‑ups can receive a one‑time grant of up to ₹10,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

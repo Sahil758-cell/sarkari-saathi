@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Jammu and Kashmir)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu and Kashmir"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be receiving pension benefits under any other social security scheme",
+    "Application should be submitted within the prescribed period, if any"
+  ],
+  "benefits_summary": "Provides a monthly pension of ₹1,000 to eligible BPL individuals with severe or multiple disabilities.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across, if required)",
+    "Self‑attested copies of all necessary documents",
+    "Acknowledgement receipt (or photocopy of the filled application form)"
+  ],
+  "application_link": null
+}

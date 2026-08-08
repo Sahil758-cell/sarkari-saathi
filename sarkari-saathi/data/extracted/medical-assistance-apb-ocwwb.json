@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Medical Assistance (APB&OCWWB)",
+  "occupation": [
+    "Building and Other Construction works"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a permanent resident of Arunachal Pradesh",
+    "The applicant must be registered with the Labour Welfare Board (APB&OCWWB) and have an active membership at the time of application",
+    "The applicant must have a disease or have suffered an accident that required hospitalization or plastering at their residence"
+  ],
+  "benefits_summary": "Up to ₹15,000 for disability due to accident (₹2,000 for the first five days and ₹100 per additional day) and up to ₹25,000 depending on the percentage of disability.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Capital Investment Subsidy: Physically Handicapped Persons/ Ex-Servicemen",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a new industrial unit that started production on or after 5th August 2009.",
+    "Physically handicapped entrepreneurs must have at least 40% disability as per the relevant category.",
+    "Applicable only to micro and small manufacturing enterprises.",
+    "Eligibility category noted in source: Physically Handicapped",
+    "Eligibility category noted in source: Ex-Servicemen"
+  ],
+  "benefits_summary": "Provides a capital investment subsidy of 25% up to ₹2,500,000 for eligible new micro and small manufacturing enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

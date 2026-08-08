@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Disability Pension and Ex-Gratia (K.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have worked in building and construction for at least 90 days in a given year",
+    "The applicant must be a registered construction worker under the Karnataka Building and Other Construction Workers Welfare Board",
+    "The applicant must be partially disabled due to worksite accidents or diseases",
+    "The applicant must not have previously availed Accident Benefits for the same disability",
+    "Application must be submitted within 6 months of issuance of the disability ID card",
+    "Registration must be renewed every 3 years, with a 1‑year grace period after expiry"
+  ],
+  "benefits_summary": "Monthly disability pension of ₹2,000 and a one‑time ex‑gratia payment of up to ₹2,00,000 based on the percentage of disability.",
+  "documents_required": [],
+  "application_link": null
+}

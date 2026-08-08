@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Anusuchit Jati Evam Anusuchit Janjati Chhatrawas Anudan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must be enrolled and residing in hostels as per departmental guidelines of the SC/ST Welfare Department.",
+    "The student must be studying a recognized course.",
+    "The student must be studying in a recognized educational institution."
+  ],
+  "benefits_summary": "Provides a monthly grant of ₹1,000 to eligible students.",
+  "documents_required": [],
+  "application_link": null
+}

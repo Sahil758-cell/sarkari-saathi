@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Training in Handicrafts Component of the Development Of Handicrafts Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of the Union Territory of Puducherry or have been a continuous resident for the past three years."
+  ],
+  "benefits_summary": "Trainees are provided a monthly stipend of ₹1,500 for the six‑month training period.",
+  "documents_required": [
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

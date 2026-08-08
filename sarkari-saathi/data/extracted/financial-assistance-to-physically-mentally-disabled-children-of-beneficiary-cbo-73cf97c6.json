@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Financial Assistance to Physically/Mentally Disabled Children of Beneficiary (CBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker under the Punjab Labour Welfare Fund Act, 1965 and must have regular contributions received by the Board",
+    "Child must have a disability of 40% or more",
+    "Benefit is limited to a maximum of two children per beneficiary",
+    "Applicant must have been a member of the Board for at least six months before availing the benefit"
+  ],
+  "benefits_summary": "₹1000 per month per eligible child, up to two children, payable until the child’s death.",
+  "documents_required": [
+    "Aadhaar Card (both sides)",
+    "Bank Passbook",
+    "BOCW Copy (all pages)"
+  ],
+  "application_link": "http://labour.chd.gov.in/"
+}

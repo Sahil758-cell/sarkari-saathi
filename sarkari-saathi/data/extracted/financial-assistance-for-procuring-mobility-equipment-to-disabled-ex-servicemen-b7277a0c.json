@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen (All Ranks)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be an Ex‑Serviceman.",
+    "The applicant must be disabled after retirement from service.",
+    "Disability percentage must be 50 % or more.",
+    "The applicant must not be covered under a similar scheme of the Army/Navy/Air Force.",
+    "The application must be recommended by the respective Zila Sainik Board (ZSB).",
+    "The applicant must be capable of personally utilizing the mobility equipment provided."
+  ],
+  "benefits_summary": "Financial assistance up to ₹1,00,000 for mobility equipment, with re‑application allowed after 10 years.",
+  "documents_required": [],
+  "application_link": null
+}

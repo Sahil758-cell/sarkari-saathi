@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Chief Ministers Special Rural Development Fund (CMSRDF)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Must be identified by the local MLA or partner organization (citizens and SHGs may seek MLA assistance).",
+    "Implementing agencies such as NGOs must open a joint bank account operated by two members.",
+    "Funds exceeding Rs. 50,000 must be released in two installments by the Block Development Officer.",
+    "Funds cannot be used for land compensation, salaries, or office expenses.",
+    "A Utilization Certificate must be submitted for each installment of funds.",
+    "If the Utilization Certificate is not submitted for the first installment and the second installment is not claimed within three years, the project is deemed closed and funds must be returned to the Directorate.",
+    "Projects should not be highly technical and costs must be minimized either through convergence or community contribution."
+  ],
+  "benefits_summary": "Enables rural and semi‑rural development by providing state‑funded projects that generate wage employment and create public assets through community participation.",
+  "documents_required": [
+    "Utilization Certificate (UC)"
+  ],
+  "application_link": null
+}

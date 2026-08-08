@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Encouragement Scheme for Taking Admission in Science and Contemporary Subjects",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a native of Madhya Pradesh",
+    "Must have passed Class 10 and be enrolled in Class 11 Science stream",
+    "Must have passed Class 12 and be enrolled in a B.Sc. program in Physics, Chemistry, Mathematics, or Biology"
+  ],
+  "benefits_summary": "ST students receive a scholarship of ₹2,000 per month for Class 11 Science enrollment and ₹3,000 per month for B.Sc. enrollment in Physics, Chemistry, Mathematics, or Biology.",
+  "documents_required": [],
+  "application_link": null
+}

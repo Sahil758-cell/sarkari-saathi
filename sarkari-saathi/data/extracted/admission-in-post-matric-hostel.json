@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Admission in Post Matric Hostel",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should be studying in an educational institution located near the hostel.",
+    "Applicant should not be a resident.",
+    "Eligibility category noted in source: Backward Class"
+  ],
+  "benefits_summary": "Provides free accommodation for backward class students.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

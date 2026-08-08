@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Interest Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The industrial unit must have availed a loan from a financial institution for creation of fixed assets and working capital",
+    "Production must have commenced on or after 2-8-2004 for the first eligibility set",
+    "Production must have commenced on or after 24-8-2011 for the second eligibility set",
+    "For the second eligibility set, the loan must have been availed on or after 24-8-2011",
+    "Financial institutions include PIPDIC, other government corporations, scheduled banks, co‑operative banks and government co‑operative societies",
+    "Eligibility category noted in source: Women",
+    "Eligibility category noted in source: Physically Handicapped",
+    "Eligibility category noted in source: Ex-Servicemen",
+    "Eligibility category noted in source: Thrust Area Industry",
+    "Eligibility category noted in source: IT Sector Industry"
+  ],
+  "benefits_summary": "Provides a 25% interest subsidy on loans for eligible industrial units, capped at ₹75,000 per year (or ₹5,00,000 per year for certain categories) for up to five years.",
+  "documents_required": [
+    "prescribed application form",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

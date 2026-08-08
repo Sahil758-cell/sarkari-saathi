@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Financial Assistance for Education (GBOCWWB)",
+  "occupation": [
+    "worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a worker registered with the Goa Building and Other Construction Workers Welfare Board.",
+    "The worker must have completed ninety days of service as a registered worker in the year.",
+    "The worker’s ward must be pursuing education."
+  ],
+  "benefits_summary": "Provides financial assistance, as determined by the Board, for the education of the worker’s children.",
+  "documents_required": [],
+  "application_link": null
+}

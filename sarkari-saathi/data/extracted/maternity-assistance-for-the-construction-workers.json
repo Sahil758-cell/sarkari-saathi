@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Maternity Assistance for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have served the Board for at least 90 days in a given year",
+    "Benefits limited to the first two children of the applicant",
+    "Applicant must be a registered women member or the wife of a registered male member of the Delhi Building and Other Construction Workers Welfare Board"
+  ],
+  "benefits_summary": "A cash assistance of ₹30,000 per eligible woman member or wife for up to two children.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Proof of 90 Days Employment",
+    "Bank Account details",
+    "Photograph",
+    "Applicant’s Video",
+    "Affidavit of the Applicant"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Perarignar Anna Memorial Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a student.",
+    "The beneficiary must secure the first or second rank in the 12th Public examination in their district.",
+    "The beneficiary must be pursuing studies in professional colleges in Tamil Nadu."
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 per annum for 4‑5 years.",
+  "documents_required": [
+    "Application form",
+    "Passport-sized photograph",
+    "Copies of all mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Rise Together",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Jammu & Kashmir and registered with Mission Youth",
+    "Youth group must have at least 3 members",
+    "All members must have at least 12th standard qualification (relaxable on case‑by‑case basis)",
+    "Preference is given to groups registered as Self‑Help Groups, Registered Society, or Registered Trust",
+    "No member should have previously benefited under any self‑employment or similar government scheme",
+    "Police must certify the character antecedents of all group members",
+    "Applicants must not be defaulters to any bank or financial institution",
+    "Beneficiary group must be unemployed",
+    "Group must be certified by a competent authority"
+  ],
+  "benefits_summary": "Financial assistance up to ₹20 lakh, comprising a minimum ₹2.5 lakh (or 10% of project cost) subsidy and a bank loan covering up to 70% of project cost, with the subsidy capped at ₹5 lakh per case.",
+  "documents_required": [
+    "Police character certificate"
+  ],
+  "application_link": null
+}

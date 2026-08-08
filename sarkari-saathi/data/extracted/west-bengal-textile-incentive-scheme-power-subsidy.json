@@ -1,0 +1,33 @@
+{
+  "scheme_name": "West Bengal Textile Incentive Scheme: Power Subsidy",
+  "occupation": [
+    "manufacturing of textiles",
+    "apparel manufacturing",
+    "technical textiles manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Unit must have started production on or after 1st April 2022",
+    "Units may be in the private sector, co‑operative sector, joint sector or owned/managed by the State Government",
+    "Not applicable to industrial units/enterprises",
+    "Project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution",
+    "Unit must hold a Registration Certificate, Date of Commencement Certificate and Eligibility Certificate issued by the Director of Textiles"
+  ],
+  "benefits_summary": "Provides a power subsidy ranging from ₹50 lakh to ₹2 crore per annum for a period of five years.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate issued by the Director of Textiles"
+  ],
+  "application_link": null
+}

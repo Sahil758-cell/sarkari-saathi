@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Reimbursement of Fees of ST Students Studying in Sainik School Private Institutions",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Madhya Pradesh",
+    "Applicant must be enrolled in a recognized Sainik School or private institution covered under the scheme"
+  ],
+  "benefits_summary": "Free accommodation, school fees and education for eligible ST students.",
+  "documents_required": [],
+  "application_link": null
+}

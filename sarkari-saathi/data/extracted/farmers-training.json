@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Farmers Training",
+  "occupation": [
+    "Farmer",
+    "Agricultural labourer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have interest in joining the training to enhance agricultural skills."
+  ],
+  "benefits_summary": "Financial assistance of ₹5,000 per training session for up to 50 farmers or agricultural labourers.",
+  "documents_required": [],
+  "application_link": null
+}

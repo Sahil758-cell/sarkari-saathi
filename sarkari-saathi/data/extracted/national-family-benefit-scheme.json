@@ -1,0 +1,30 @@
+{
+  "scheme_name": "National Family Benefit Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India.",
+    "Family must be living Below Poverty Line (BPL).",
+    "Primary breadwinner of the family must be deceased.",
+    "Deceased breadwinner's age must have been more than 18 years and less than 60 years.",
+    "Applicant must be the succeeding primary breadwinner (head of household) of the family."
+  ],
+  "benefits_summary": "A lump‑sum assistance of ₹20,000 is paid to the surviving head of household after the death of the primary breadwinner.",
+  "documents_required": [
+    "Application form",
+    "Proof of age",
+    "Proof of income",
+    "Proof of BPL status",
+    "Proof of address",
+    "Death certificate"
+  ],
+  "application_link": "https://nsap.nic.in/Guidelines/nsap_guidelines_oct2014.pdf"
+}

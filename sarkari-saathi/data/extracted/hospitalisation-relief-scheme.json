@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Hospitalisation Relief Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be a registered building and other construction worker with the Telangana Building and Other Construction Workers Welfare Board.",
+    "The worker should be hospitalized for at least five days due to an accident or disease."
+  ],
+  "benefits_summary": "Provides a relief amount of ₹300 per day, up to a maximum of ₹4,500 per month.",
+  "documents_required": [],
+  "application_link": null
+}

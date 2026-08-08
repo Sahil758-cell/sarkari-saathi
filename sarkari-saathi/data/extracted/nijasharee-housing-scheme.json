@@ -1,0 +1,27 @@
+{
+  "scheme_name": "NIJASHAREE HOUSING SCHEME",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Monthly family income must not exceed ₹15,000 for Lower Income Group (LIG) applicants",
+    "Monthly family income must not exceed ₹30,000 for Middle Income Group (MIG) applicants",
+    "Applicant must not own any pucca house or flat in their name or in the name of any family member (spouse, unmarried sons or daughters) in West Bengal",
+    "Applicant must be a resident of the same district where the project is implemented",
+    "Each applicant can apply for only one flat for their family",
+    "A beneficiary who has been allotted a flat cannot apply for the same scheme in another project within the same district",
+    "Joint applications are allowed only for a husband/wife or dependent parent of the primary applicant"
+  ],
+  "benefits_summary": "A house (1BHK for LIG or 2BHK for MIG) is allotted on an ownership basis through a transparent lottery, with credit‑linked subsidies facilitated by the Housing Department.",
+  "documents_required": [],
+  "application_link": "http://wbhousing.gov.in/templetes/templete1/pdf/Nijashree/Sample-Application-format.pdf"
+}

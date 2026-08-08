@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Subsidy for Quality Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have made the investment on or after 1st April 2017.",
+    "At least 60% of the unit’s employment must be to residents of the Union Territory of Puducherry and this proportion must be maintained for the period specified in the affidavit.",
+    "The industrial unit shall not transfer or dispose of the fixed asset (plant and machinery) for five years from the date of application/subsidy disbursement, whichever is later.",
+    "Additional investments made by the unit after the first claim are also eligible for subsidy up to the ceiling limit.",
+    "If two or more industrial undertakings are set up by the same person with common partners or directors, they are eligible as separate entities provided they are located at different places and have separate licences/clearances/registrations.",
+    "The date of commencement as stated by the entrepreneur must be verified by officials of the Industries Department."
+  ],
+  "benefits_summary": "Provides up to 50% subsidy on quality certification costs, capped at ₹2,00,000 per unit, for a maximum of three certifications.",
+  "documents_required": [],
+  "application_link": null
+}

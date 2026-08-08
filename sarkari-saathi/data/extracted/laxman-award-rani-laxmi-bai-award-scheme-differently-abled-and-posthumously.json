@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Laxman Award / Rani Laxmi Bai Award Scheme- Differently-abled and Posthumously",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide native of Uttar Pradesh.",
+    "Must have been a member of the state senior team for at least three consecutive years (e.g., 2018‑19, 2019‑20, 2020‑21) and participated in the National Games/National Senior Championship, earning a medal in the year for which the award is recommended.",
+    "Participation in the National Senior Championship plus participation in any listed international competition (Olympic Games, World Championship/World Cup, Asian Games, Commonwealth Games, Asian Championship, Commonwealth Championship, SAF Games) makes the applicant eligible.",
+    "Must submit an affidavit stating never used drugs in any competition and an oath confirming no criminal conviction, including no sexual harassment findings.",
+    "Only one award per person; the award may be given posthumously.",
+    "Players who have only participated in National Senior Championships/National Games without the additional criteria are not eligible.",
+    "For the Veteran category, the applicant must be 40 years or older on 1 April of the award year.",
+    "Veteran category applicants may be from any two of the designated 31 sports and must have achieved significant achievements in National Championships or International Competitions."
+  ],
+  "benefits_summary": "Citation, bronze statue, scroll, and cash prize of ₹3,11,000.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)",
+    "Affidavit confirming no drug use",
+    "Oath confirming no criminal conviction or sexual harassment"
+  ],
+  "application_link": null
+}

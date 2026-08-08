@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Loan based Scheme for Pay and Use Community Toilets",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen aged 18 years or above.",
+    "Must belong to the Safai Karamcharis, manual scavengers or their dependents.",
+    "Individual beneficiaries or self‑help groups from the target group of NSKFDC are eligible.",
+    "Must be identified under the National Scheme for Liberation & Rehabilitation of Scavengers (NSLRS) or be registered in a co‑operative society, legally constituted association or firm of the target group.",
+    "May need to produce a certificate from the local Revenue Officer, Municipal Officer, Cantonment Executive Officer, Railway Officer, Head of a Government Department, elected municipal member, Pradhan of Gram Panchayat, or Regional Manager of Regional Rural Banks/Nationalised Bank, unless already listed as a manual scavenger in the final state/UT list."
+  ],
+  "benefits_summary": "Provides collateral‑free loans up to ₹25 lakh at low interest for setting up and operating pay‑and‑use community toilets, enabling livelihood shift for Safai Karamcharis.",
+  "documents_required": [
+    "Certificate from local Revenue Officer",
+    "Certificate from local Municipal Officer",
+    "Certificate from Cantonment Executive Officer",
+    "Certificate from Railway Officer",
+    "Certificate from Head of Government Departments (Schools, Colleges, Forest, Health, Education, Animal Husbandry)",
+    "Certificate from elected members of Municipal Body",
+    "Certificate from Pradhan of Gram Panchayat",
+    "Certificate from Regional Manager of Regional Rural Banks/Nationalised Banks"
+  ],
+  "application_link": null
+}

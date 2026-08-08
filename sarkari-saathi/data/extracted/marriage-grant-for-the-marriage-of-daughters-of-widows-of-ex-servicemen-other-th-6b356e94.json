@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Marriage Grant for the Marriage of Daughters of Widows of Ex-servicemen (other than War Widows)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the widow of an ex‑serviceman who did not die in war (non‑war widow)",
+    "Applicant must not have remarried, except if the remarriage is to the real brother of her late husband",
+    "Benefit is available for up to two daughters of the widow",
+    "Each daughter must be at least 18 years old",
+    "Verification of claimants is carried out by the Secretaries of Zila Sainik Boards"
+  ],
+  "benefits_summary": "Financial assistance of ₹11,000 per daughter for the marriage of up to two daughters of widows of ex‑servicemen (non‑war widows).",
+  "documents_required": [],
+  "application_link": null
+}

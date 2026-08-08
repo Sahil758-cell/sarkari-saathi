@@ -1,0 +1,30 @@
+{
+  "scheme_name": "BPL (Below Poverty Line) Student Welfare Scholarship - Technical Education",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a regular student in a government engineering or polytechnic institution in Chhattisgarh.",
+    "Applicant must not be receiving benefits from any other scholarship.",
+    "Scholarship is subject to satisfactory academic progress and regular attendance of the student."
+  ],
+  "benefits_summary": "Provides a monthly scholarship of ₹1,000 for B.E. students and ₹500 for diploma students, payable for up to 10 months per academic year.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents",
+    "BPL card (with applicant’s name)"
+  ],
+  "application_link": null
+}

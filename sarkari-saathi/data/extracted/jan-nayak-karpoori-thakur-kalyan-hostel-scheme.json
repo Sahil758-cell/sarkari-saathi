@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Jan-Nayak Karpoori Thakur Kalyan Hostel Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of Bihar",
+    "Studying in the current session in an educational institution nearest to the hostel",
+    "Belongs to the Extremely Backward Class (EBC)",
+    "Studying in Class 10+2 or higher"
+  ],
+  "benefits_summary": "Students receive 9 kg of rice, 6 kg of wheat and a ₹1000 monthly grant.",
+  "documents_required": [],
+  "application_link": null
+}

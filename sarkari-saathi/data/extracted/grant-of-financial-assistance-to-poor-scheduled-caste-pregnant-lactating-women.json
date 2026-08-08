@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Grant of Financial Assistance to Poor Scheduled Caste Pregnant & Lactating Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must have continuous residence in Puducherry for at least 3 years",
+    "Applicant must be pregnant and lactating",
+    "Application must be made from 6 months of pregnancy up to 3 months after delivery",
+    "Grant is available for a maximum of two deliveries"
+  ],
+  "benefits_summary": "₹12,000 per delivery, paid as ₹2,000 per month for three months before delivery and ₹2,000 per month for three months after delivery",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

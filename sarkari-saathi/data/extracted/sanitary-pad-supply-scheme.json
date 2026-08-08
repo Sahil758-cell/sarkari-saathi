@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Sanitary Pad Supply Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 20,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must not be permanently employed in central/state government or public sector enterprises",
+    "Must not be a retired government employee or pension recipient",
+    "Must not be an income tax payer"
+  ],
+  "benefits_summary": "Beneficiaries receive three packs of sanitary pads every quarter at no cost.",
+  "documents_required": [
+    "Aadhaar",
+    "PAN",
+    "Self-declaration form"
+  ],
+  "application_link": null
+}

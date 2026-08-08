@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Supply of Agriculture Machineries Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a bonafide farmer engaged in agriculture."
+  ],
+  "benefits_summary": "Provides a 50% subsidy on power tillers, reapers, harvesters and other agricultural machinery.",
+  "documents_required": [
+    "Copies of mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

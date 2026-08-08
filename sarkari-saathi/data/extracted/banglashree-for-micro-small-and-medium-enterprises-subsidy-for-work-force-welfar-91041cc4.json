@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy for Work Force Welfare Assistance (WWAS)",
+  "occupation": [
+    "manufacturing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must be a Micro, Small or Medium Enterprise operating in the manufacturing sector.",
+    "Production must have started on or after 1 April 2019.",
+    "The enterprise may be private, cooperative, joint sector, state‑owned/managed, or an industrial SHG.",
+    "Date of Commencement of Commercial Production (DOCCP) must fall between 1 April 2020 and 31 March 2025.",
+    "Application must be submitted within 12 months from the DOCCP or from the Banglashree notification, whichever is later.",
+    "At least 50% of the employees must be recruited from persons registered with the Employment Bank of the State.",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small",
+    "Eligibility category noted in source: Medium"
+  ],
+  "benefits_summary": "Eligible MSMEs receive reimbursement of 100% of ESI and EPF contributions in the first year and 75% in subsequent years, for a period of 5–9 years depending on the zone.",
+  "documents_required": [],
+  "application_link": null
+}

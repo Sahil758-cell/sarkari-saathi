@@ -1,0 +1,23 @@
+{
+  "scheme_name": "BIRAC’s E-YUVA Fellows (for under graduate students)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Indian students pursuing undergraduate studies in any domain from Indian Institutes/colleges must apply as a team",
+    "Each team must consist of a minimum of 3 and a maximum of 5 students",
+    "The team must be supported by a mentor/guide",
+    "All fellows must spend 3‑4 weeks at an EYC/EYC Knowledge Partner during the fellowship period",
+    "If team members are from different colleges/institutes, each institution must have an E‑Cell/Institutional Innovation Council/Incubation centre"
+  ],
+  "benefits_summary": "Quarterly stipend of INR 7,500 per student and an annual research grant of INR 2,50,000 per team, along with continuous mentoring and support services.",
+  "documents_required": [],
+  "application_link": "https://birac.nic.in/"
+}

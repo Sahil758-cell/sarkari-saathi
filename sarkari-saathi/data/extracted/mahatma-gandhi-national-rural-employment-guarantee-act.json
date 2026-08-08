@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mahatma Gandhi National Rural Employment Guarantee Act",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Must be an Indian citizen.",
+    "Must be a member of a rural household whose adult members volunteer to do unskilled work.",
+    "Must be an adult (18 years or older) member of the household.",
+    "Must be a resident of the local Gram Panchayat area."
+  ],
+  "benefits_summary": "Provides up to 100 days of guaranteed wage employment per year to rural households, with wages paid directly to bank or post office accounts.",
+  "documents_required": [
+    "Aadhar number",
+    "Rashtriya Swastha Bima Yojana (RSBY) number",
+    "Below Poverty Line (BPL) status",
+    "Bank/post office account number"
+  ],
+  "application_link": null
+}

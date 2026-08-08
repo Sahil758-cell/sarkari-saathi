@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Loans for Tools (MBOCWWB)",
+  "occupation": [
+    "building or other construction work"
+  ],
+  "gender": null,
+  "age_min": 55,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a resident of Meghalaya",
+    "Beneficiary must be engaged in any building or other construction work",
+    "Beneficiary must be registered under the Meghalaya Building & Other Construction Workers Welfare Board",
+    "Beneficiary must have completed 3 years of membership in the fund",
+    "Beneficiary must remit contributions regularly",
+    "Beneficiary is prohibited from selling the tools purchased and is not entitled to a second grant"
+  ],
+  "benefits_summary": "One-time grant of up to ₹10,000 for purchase of tools.",
+  "documents_required": [
+    "Photograph",
+    "ID Proof",
+    "Employer Certificate/Self Certification",
+    "Bank Passbook of the Worker"
+  ],
+  "application_link": "https://megbocwwb.gov.in/bocw_services/login.htm"
+}

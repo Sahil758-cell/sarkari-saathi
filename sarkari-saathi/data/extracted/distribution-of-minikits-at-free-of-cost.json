@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Distribution of Minikits At Free of Cost",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Resident of any of the specified districts of Tamil Nadu: Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli, and Thoothukudi.",
+    "Involved in maize cultivation."
+  ],
+  "benefits_summary": "Provides a subsidy for free distribution of minikits to eligible maize‑growing farmers.",
+  "documents_required": [],
+  "application_link": null
+}

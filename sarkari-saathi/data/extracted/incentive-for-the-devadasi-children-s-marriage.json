@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Incentive For The Devadasi Children’s Marriage",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both bride and groom must belong to the SC community",
+    "Application must be submitted within 18 months of marriage",
+    "Marriage must be on or after 01-04-2018 to qualify for the revised incentive rates"
+  ],
+  "benefits_summary": "Provides a cash incentive of up to INR 3 lakh for the husband and INR 5 lakh for the wife to Devadasi‑children couples who marry within 18 months.",
+  "documents_required": [
+    "Aadhaar",
+    "Caste Certificate",
+    "Income Certificate",
+    "Bank Passbook copy",
+    "Marriage Registration Certificate",
+    "Marriage Photo",
+    "Mobile Number",
+    "Devadasi Registration Certificate"
+  ],
+  "application_link": null
+}

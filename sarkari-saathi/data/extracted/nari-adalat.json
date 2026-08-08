@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Nari Adalat",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Assam",
+    "Jammu and Kashmir",
+    "Bihar",
+    "Karnataka",
+    "Andaman and Nicobar Islands"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides accessible, affordable justice and conflict resolution for women through mediation, reconciliation and awareness generation.",
+  "documents_required": [],
+  "application_link": null
+}

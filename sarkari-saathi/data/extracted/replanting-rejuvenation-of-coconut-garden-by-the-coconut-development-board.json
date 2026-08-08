@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Replanting & Rejuvenation of Coconut Garden",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides financial assistance for cutting & removal (up to ₹32,000 per hectare), replanting (₹40 per seedling up to ₹4,000), and integrated management practices (₹17,500 per hectare).",
+  "documents_required": [
+    "Farmer's identity card",
+    "Authenticated land records"
+  ],
+  "application_link": null
+}

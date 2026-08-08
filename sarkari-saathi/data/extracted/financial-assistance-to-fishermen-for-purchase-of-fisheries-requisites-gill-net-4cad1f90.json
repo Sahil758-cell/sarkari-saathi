@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Financial Assistance To Fishermen For Purchase of Fisheries Requisites (Gill Net/ River Gill Net with Accessories)",
+  "occupation": [
+    "fisherman"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional fisherman by birth or profession.",
+    "Applicant must be a resident of Goa.",
+    "Applicant or any household member must not be a defaulter with the Directorate of Fisheries.",
+    "Applicant must possess a registered fishing canoe.",
+    "Gill net must not be sold, leased, or transferred for five years after purchase.",
+    "The fishing net must be registered with the Directorate of Fisheries."
+  ],
+  "benefits_summary": "50% subsidy on fisheries requisites, capped at ₹30,000 for general category and ₹40,000 for SC/ST beneficiaries.",
+  "documents_required": [
+    "original VAT bill",
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

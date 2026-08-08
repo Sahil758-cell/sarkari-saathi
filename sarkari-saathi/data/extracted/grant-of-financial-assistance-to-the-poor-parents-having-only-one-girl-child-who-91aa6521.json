@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Grant of Financial Assistance to the Poor Parents Having Only One Girl Child Who is Studying 8th to 10th Standard",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India.",
+    "Must be a native of Puducherry by birth or continuous residence of at least five years.",
+    "Must have only one living girl child and no other children.",
+    "The girl child must be studying in 8th to 10th standard."
+  ],
+  "benefits_summary": "₹25,000 is deposited as a National Savings Certificate fixed deposit for the girl child, payable when she turns 18.",
+  "documents_required": [
+    "filled application form",
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

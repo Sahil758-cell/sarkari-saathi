@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Both parents must be Indian citizens",
+    "Either parent must be a native of Puducherry by birth or have resided continuously for at least five years",
+    "Father must be at least 21 years old and mother at least 18 years old at the time of marriage",
+    "The parents must have undergone Family Planning in a Central/State Government Hospital or a registered private hospital",
+    "The family must have only one or two girl children",
+    "The marriage of the applicant must be registered with the appropriate authority"
+  ],
+  "benefits_summary": "Financial assistance of ₹30,000 for one girl child or ₹15,000 per child for two girls, deposited in the child’s name and released when the child turns 18 years old.",
+  "documents_required": [
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

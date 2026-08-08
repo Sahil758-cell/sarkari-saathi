@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Farmers Training Institute Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Meghalaya.",
+    "Applicant must be a bonafide farmer engaged in agriculture.",
+    "Applicants with sufficient cultivable land will be selected on a first‑come‑first‑served basis."
+  ],
+  "benefits_summary": "Provides specialized training and capacity building for farmers, including exposure visits and field tours within and outside the state.",
+  "documents_required": [],
+  "application_link": null
+}

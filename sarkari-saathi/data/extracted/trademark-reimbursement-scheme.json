@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Trademark Reimbursement Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a startup certified by the Startup Promotion Cell (SPC) and possess a valid startup certificate number.",
+    "The startup must have successfully registered its trademark.",
+    "Expenditures must be incurred after the notification of Goa Startup Policy 2017, be within the validity of the policy, and be paid digitally; otherwise, approval is at the discretion of the SPC.",
+    "Application must be submitted within 6 months of incurring the relevant expenditure."
+  ],
+  "benefits_summary": "50% reimbursement of trademark registration cost up to ₹25,000 for eligible startups.",
+  "documents_required": [
+    "Startup certificate"
+  ],
+  "application_link": null
+}

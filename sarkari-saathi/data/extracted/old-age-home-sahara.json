@@ -1,0 +1,17 @@
+{
+  "scheme_name": "Old Age Home (Sahara)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Construction and operation of old age homes providing housing, clothing, food, and medical facilities for destitute elderly.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme (Punjab)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 80,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability percentage must be 80% or more",
+    "Dwarfs are included as an eligible category",
+    "Applicant must be a person with a disability"
+  ],
+  "benefits_summary": "Pension of ₹300 per month for ages 18‑79, increasing to ₹500 per month at age 80 and above.",
+  "documents_required": [
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)",
+    "Prescribed application form"
+  ],
+  "application_link": null
+}

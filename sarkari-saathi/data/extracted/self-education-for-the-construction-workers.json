@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Self Education for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a registered member under the Building and Other Construction Workers Welfare Board of Dadra and Nagar Haveli and Daman and Diu",
+    "The applicant must have engaged in any building or other construction work for at least 90 days in a given year",
+    "Permanent Government Servants are not eligible for reimbursement"
+  ],
+  "benefits_summary": "Reimbursement of course fees for distance education and a ₹5,000 incentive for each degree earned.",
+  "documents_required": [],
+  "application_link": null
+}

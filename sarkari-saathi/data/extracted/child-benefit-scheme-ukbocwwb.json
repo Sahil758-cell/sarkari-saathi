@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Child Benefit Scheme (UKBOCWWB)",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board",
+    "Eligibility for assistance begins only after three months from registration",
+    "Must have an active membership of the Board",
+    "Worker must have worked at least 90 days during the preceding one year",
+    "Child must be enrolled in any grade from Class I up to higher education or professional courses",
+    "Benefits are provided only for the first two children of the registered worker"
+  ],
+  "benefits_summary": "Provides yearly financial assistance for education of the first two children of registered construction workers, ranging from ₹1,800 to ₹10,000 depending on the child's class/course.",
+  "documents_required": [],
+  "application_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx; https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Harvesting Tools Assistance for General Category (HRT-2)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Assistance is available only once in five years.",
+    "Equipment must be certified by ISO/BIS/ISI/Government recognized organizations and purchased through an authorized dealer or imported.",
+    "Unit cost of the harvesting tool should not exceed ₹2,00,000.",
+    "Beneficiary can be an individual farmer or an FPO/FPC/FIG/SHG/Co‑operative society."
+  ],
+  "benefits_summary": "General Category farmers receive up to 50% of the tool cost or ₹1,00,000 (whichever is lower); FPO/FPC/FIG/SHG/Co‑operative societies receive up to 75% of the tool cost or ₹1,50,000 (whichever is lower), with a maximum tool price of ₹2,00,000.",
+  "documents_required": [
+    "caste certificate",
+    "signed copy of application print"
+  ],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

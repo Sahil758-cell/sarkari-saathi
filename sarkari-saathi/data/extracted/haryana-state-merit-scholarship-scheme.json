@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Haryana State Merit Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a citizen of India and a domiciled resident of Haryana.",
+    "Must have passed the qualifying examination from Punjab University, Kurukshetra University, or any other recognized examining body.",
+    "Must be enrolled in a recognized higher education course in Haryana or Chandigarh.",
+    "Must have obtained at least a Second Division in the qualifying examination.",
+    "For Rural Area Merit Scholarships, must have secured at least 40% marks in Matric/Higher Secondary/Pre-University examinations.",
+    "Must not be receiving any other merit‑based scholarship, except need‑based scholarships from specific welfare boards.",
+    "One Ph.D./M.Phil. scholarship is exclusively tenable at Jawaharlal Nehru University, New Delhi.",
+    "Rural Area Merit Scholarships are limited to students whose parents permanently reside and earn their livelihood in rural areas."
+  ],
+  "benefits_summary": "Scholarship amounts range from ₹150 per year for preparatory/secondary courses up to ₹900 per year for B.Ed., M.Phil., and Ph.D. programs, payable monthly for the duration of the course.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Agriculture Academic Studies Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "OBC",
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Meghalaya",
+    "Must have passed 10+2 in the Science stream with Physics, Chemistry, Biology and English as compulsory subjects",
+    "General and OBC candidates must have at least 55% aggregate marks in 10+2",
+    "SC and ST candidates must have at least 45% aggregate marks in 10+2",
+    "Must qualify the ICAR All India Entrance Examination (AIEEA) conducted by NTA"
+  ],
+  "benefits_summary": "Sponsorship of seats with a monthly stipend of ₹1,200 and a book grant of ₹1,200 per academic year.",
+  "documents_required": [],
+  "application_link": "https://www.megagriculture.gov.in"
+}

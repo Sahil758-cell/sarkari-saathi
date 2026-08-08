@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Honorarium for Pradhan Samajpatis of Indigenous Tribal Community",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Tripura.",
+    "The applicant must belong to a tribal community of Tripura.",
+    "The applicant must be a Pradhan Samajpati (Chief Community Headman) of the tribal community."
+  ],
+  "benefits_summary": "Honorarium of ₹2000 per month.",
+  "documents_required": [],
+  "application_link": null
+}

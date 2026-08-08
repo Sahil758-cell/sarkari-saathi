@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Stipend To Law Graduates",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": 200000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Law degree holder from any State/Central Government recognized University/Institution",
+    "Duration of the Law Course should be either 3 years or 5 years"
+  ],
+  "benefits_summary": "Monthly stipend of Rs 5000 for four years, with training courses organized under senior advocates.",
+  "documents_required": [
+    "Aadhaar Card",
+    "RD Number of Caste Certificate",
+    "RD Number of Income Certificate",
+    "Copy of the Bank Passbook",
+    "Law Degree Certificate",
+    "Mobile Number"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Startup India Seed Fund Scheme- For Incubators",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Incubator must be a legal entity such as a society registered under the Societies Registration Act 1860, a trust registered under the Indian Trusts Act 1882, a private limited company registered under the Companies Act 1956 or 2013, or a statutory body created through an Act of the legislature.",
+    "Incubator must have been operational for at least two years from the date of application (or at least three years if it has not received assistance from the Central or State Government).",
+    "Incubator must have facilities to seat at least 25 individuals.",
+    "Incubator must have at least 5 startups physically incubated at the time of application (or at least 10 startups if it has not received government assistance).",
+    "Incubator must have a full‑time Chief Executive Officer experienced in business development and entrepreneurship, supported by a capable team responsible for mentoring startups in finance, legal, and human resources functions.",
+    "Incubator must not be disbursing seed funds to incubatees using funding from any third‑party private entity.",
+    "Incubator must have been assisted by the Central or State Government(s); if not, it must satisfy the alternative criteria listed above and present audited annual reports for the last two years.",
+    "Any additional criteria as may be decided by the Experts Advisory Committee (EAC)."
+  ],
+  "benefits_summary": "Incubators may receive a grant of up to ₹5 crore, disbursed in milestone‑based installments, along with a 5 % management fee provisioned for administrative expenses.",
+  "documents_required": [
+    "Audited annual reports for the last 2 years"
+  ],
+  "application_link": "https://seedfund.startupindia.gov.in"
+}

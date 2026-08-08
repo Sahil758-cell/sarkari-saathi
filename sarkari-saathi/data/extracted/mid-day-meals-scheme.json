@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Mid Day Meals Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": 14,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be enrolled in a government or government‑aided school",
+    "Child must be enrolled in a school recognized by the education authorities",
+    "Regular school attendance is required to receive the meals",
+    "Priority is given to children from below‑poverty‑line families or other marginalized communities"
+  ],
+  "benefits_summary": "Provides free nutritious meals to improve children’s health and boost school attendance.",
+  "documents_required": [
+    "registration form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Food Bill Assistance to SC Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must reside in a college‑affiliated hostel"
+  ],
+  "benefits_summary": "Food bill assistance of ₹1,500 per month for up to 10 months per year.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in/"
+}

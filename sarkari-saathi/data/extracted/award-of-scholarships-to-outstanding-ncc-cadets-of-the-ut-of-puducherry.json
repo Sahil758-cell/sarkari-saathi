@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Award of Scholarships to Outstanding NCC Cadets of the UT of Puducherry",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a citizen of India.",
+    "The applicant must be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years.",
+    "The applicant must have attended at least 75% of parades in the year.",
+    "The applicant must have attended the eligible number of NCC camps.",
+    "The applicant must not have been discharged from the Institution/NCC under disciplinary grounds.",
+    "Awardees cannot receive other regular scholarships or stipends, though they may avail fee concessions from their institutions."
+  ],
+  "benefits_summary": "Scholarship of ₹500 per month for senior division cadets and ₹250 per month for junior division cadets.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport-sized photograph (signed across if required)",
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

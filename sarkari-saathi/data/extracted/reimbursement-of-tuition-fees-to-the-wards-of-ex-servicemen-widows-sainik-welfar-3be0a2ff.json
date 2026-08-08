@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Reimbursement of Tuition Fees to the Wards of Ex-Servicemen/Widows (Sainik Welfare)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a ward of an unemployed ex‑serviceman or a ward of the widow of an ex‑serviceman",
+    "Applicant must be registered with the Department of Sainik Welfare, Puducherry",
+    "Ward must be studying in a government‑recognized institution",
+    "Scheme is applicable for up to two wards per ex‑serviceman or widow",
+    "Application must be submitted offline within three months from the date of completion of education"
+  ],
+  "benefits_summary": "Reimbursement of tuition fees up to the listed rates (₹1,000–₹2,000) or the actual cost, whichever is lower.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

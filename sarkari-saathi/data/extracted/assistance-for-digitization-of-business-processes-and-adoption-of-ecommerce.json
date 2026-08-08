@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Assistance for Digitization of Business Processes and Adoption of eCommerce",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess a valid Udyam Registration Certificate at the time of application",
+    "Expenses on digitization (software/equipment) must have been incurred after the notification of Rajasthan MSME Policy 2024",
+    "The enterprise must have registered on an eCommerce platform after the notification of Rajasthan MSME Policy 2024",
+    "Benefits are available only once for each component (digitization equipment and eCommerce platform) per MSME",
+    "Only one eCommerce platform fee can be claimed per MSME"
+  ],
+  "benefits_summary": "Provides up to ₹50,000 (75% of cost) reimbursement for digitization equipment and eCommerce platform fees to eligible Rajasthan MSMEs.",
+  "documents_required": [
+    "Udyam Registration Certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pay & Play Scheme",
+  "occupation": [
+    "sportsperson"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Jharkhand",
+    "Applicant must actively participate in state‑level sports",
+    "Students up to class 10th are eligible with a recommendation from the school principal",
+    "National or international participants and medalists are eligible"
+  ],
+  "benefits_summary": "Provides free training and membership for eligible sportspersons across 11 disciplines, with free access for school students up to class 10 and for national/international medalists.",
+  "documents_required": [],
+  "application_link": "https://sports.jharkhand.gov.in/documents/Pay-and-Play.pdf"
+}

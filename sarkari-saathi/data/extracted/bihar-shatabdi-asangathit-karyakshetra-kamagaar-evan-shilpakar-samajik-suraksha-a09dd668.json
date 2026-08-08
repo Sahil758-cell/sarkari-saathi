@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Natural Death",
+  "occupation": [
+    "worker",
+    "craftsman"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 65,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Bihar state",
+    "Must work in the unorganized sector as a worker or craftsman within Bihar",
+    "Natural death is defined as death not due to an accident but due to normal reasons such as disease",
+    "Applicant's age is calculated as of 1st July of any year"
+  ],
+  "benefits_summary": "Financial assistance of ₹30,000.",
+  "documents_required": [],
+  "application_link": null
+}

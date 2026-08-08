@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Grant for the Purchase of Tools/ Protective Gear for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of the U.T. Administration of Dadra and Nagar Haveli and Daman and Diu",
+    "The applicant must be a registered member under the Building and Other Construction Workers Welfare Board of the U.T.",
+    "The applicant should have engaged in any building or other construction work for at least 90 days in a given year",
+    "The applicant should have completed six months of the membership"
+  ],
+  "benefits_summary": "Financial assistance up to ₹10,000 for purchase of tools or protective gear, available once every three years.",
+  "documents_required": [
+    "Prescribed form",
+    "Prescribed documents"
+  ],
+  "application_link": null
+}

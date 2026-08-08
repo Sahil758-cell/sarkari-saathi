@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Mukhyamatri Rojgaar Srijan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": 500000,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not be employed in any government or semi-government job",
+    "Applicant must not be a loan defaulter in any bank",
+    "Only environment‑friendly business proposals are acceptable (businesses related to alcohol, drugs, or polythene are not allowed)",
+    "If the applicant is disabled, the disability percentage must be at least 40%"
+  ],
+  "benefits_summary": "Provides subsidized loans up to ₹5,00,000 with up to 40% subsidy, low‑interest rate of 6%, loan guarantee facilities and entrepreneurship training.",
+  "documents_required": [],
+  "application_link": null
+}

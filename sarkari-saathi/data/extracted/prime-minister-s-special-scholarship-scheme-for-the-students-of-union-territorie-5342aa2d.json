@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Prime Minister’s Special Scholarship Scheme For The Students Of Union Territories Of Jammu & Kashmir And Ladakh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir",
+    "Ladakh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of the Union Territories of Jammu & Kashmir or Ladakh.",
+    "Must have passed the 12th standard examination from JKBOSE or CBSE‑affiliated schools located in the UTs.",
+    "Must secure admission in government colleges/institutions or other select institutions outside the UTs through AICTE counselling under the supernumerary quota (except medical courses).",
+    "For lateral entry, the applicant must hold a Diploma in Engineering from a Polytechnic Institute recognized by the Directorate of Technical Education, J&K and Ladakh.",
+    "Application must be submitted online on the AICTE web portal.",
+    "Admission under the lateral entry scheme is subject to seat availability of the preceding year in the engineering stream.",
+    "Scholarships are available for fresh students admitted in the academic session 2022‑23.",
+    "Scholarship renewal is contingent on good conduct and attendance as per institution guidelines."
+  ],
+  "benefits_summary": "Scholarship provides up to ₹30,000 academic fee for general degree courses, up to ₹1,25,000 for professional/engineering courses, up to ₹3,00,000 for medical courses, plus a fixed maintenance allowance of ₹1,00,000 per annum.",
+  "documents_required": [],
+  "application_link": "https://aicte-jk-scholarship-gov.in/"
+}

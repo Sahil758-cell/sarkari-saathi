@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Medical Assistance to Beneficiaries (HPBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a resident of Himachal Pradesh.",
+    "The applicant must be a Building/Construction Worker.",
+    "The applicant must have completed at least 90 days of building or other construction work in the last 12 months.",
+    "Registration must be renewed annually and the membership with the Himachal Pradesh Building and Other Construction Workers Welfare Board (HPBOCWWB) must be active at the time of application."
+  ],
+  "benefits_summary": "Provides up to ₹50,000 annually for outdoor treatment, ₹1,00,000 for indoor medical expenses, and ₹5,00,000 for critical illnesses per year to registered beneficiaries and their dependents.",
+  "documents_required": [
+    "Labour Welfare Office application form (hard copy)",
+    "Passport-sized photograph (self‑attested)",
+    "Wage slip or appointment letter verifying 90 days of construction work",
+    "Certificate from a local authority (councillor, executive officer, or Panchayat Secretary) if wage slip is unavailable"
+  ],
+  "application_link": null
+}

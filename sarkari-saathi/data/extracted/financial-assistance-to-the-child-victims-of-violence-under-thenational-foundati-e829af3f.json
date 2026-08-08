@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance To The Child Victims Of Violence Under TheNational Foundation For Communal Harmony",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 21,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a domicile/permanent resident of the Union Territory of Jammu & Kashmir",
+    "Applicant must be an orphan or destitute child",
+    "The child's main bread earner must have been killed or permanently incapacitated in communal, caste, ethnic or terrorist violence",
+    "Applicant must not be receiving any regular assistance from any other source (one‑time assistance by the State/UT is exempt)"
+  ],
+  "benefits_summary": "Provides monthly education allowance (₹800 in Class A & B cities, ₹750 elsewhere) plus ₹150 vocational training allowance, accident insurance up to ₹25,000 and medical expense reimbursement of ₹500 per child.",
+  "documents_required": [],
+  "application_link": null
+}

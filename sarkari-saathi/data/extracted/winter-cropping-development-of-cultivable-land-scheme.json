@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Winter Cropping & Development of Cultivable Land Scheme",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Permanent resident of Meghalaya"
+  ],
+  "benefits_summary": "Provides training, extension, technology support and subsidies on inputs such as high‑yielding seed varieties, bio‑pesticides, and construction of water‑conservation structures.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Pucca Ghar Yojana (Mining)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All kutcha households in the mining‑affected blocks of the listed 36 blocks across 9 districts of Odisha are eligible",
+    "Households that have previously received a house under any RH scheme are excluded",
+    "Households already living in a pucca house are excluded"
+  ],
+  "benefits_summary": "Financial assistance of up to ₹1,20,000 (non‑IAP) or ₹1,30,000 (IAP) for constructing a pucca house, along with wage components, latrine assistance and completion‑time incentives.",
+  "documents_required": [
+    "Copy of Record of Rights (RoR)",
+    "Declaration of staying in a Kutcha house and construction on recorded land",
+    "Copy of bank account details",
+    "Photograph of the beneficiary",
+    "Aadhaar UID/EID",
+    "Mobile number"
+  ],
+  "application_link": null
+}

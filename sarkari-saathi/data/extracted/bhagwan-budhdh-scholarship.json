@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Bhagwan Budhdh Scholarship",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Scheduled Caste girl resident of Gujarat",
+    "For Diploma level courses, the student must have scored at least 50% percentile in the examination of Std 10 or 12",
+    "For Graduate level courses, the student must have scored at least 50% percentile in the examination of Std 12",
+    "Applicants must fulfil all conditions of the Government of India's Post Matric Scholarship Scheme Guidelines",
+    "Income must be more than 2.50 lakh"
+  ],
+  "benefits_summary": "Provides academic allowance ranging from ₹4,000 to ₹13,500 for hostellers and day scholars, covering tuition and other fees, with additional disability allowance for disabled students.",
+  "documents_required": [],
+  "application_link": "https://www.digitalgujarat.gov.in"
+}

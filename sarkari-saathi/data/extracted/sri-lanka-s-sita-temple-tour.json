@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Sri Lanka's Sita Temple Tour",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a native of Madhya Pradesh.",
+    "The applicant must have completed a pilgrimage to the Sita Temple and Ashoka Vatika in Sri Lanka and the Angkor Wat Temple in Cambodia.",
+    "The applicant must not be an income taxpayer.",
+    "Each individual is eligible to receive financial assistance only once in their lifetime.",
+    "Application must be made within 60 days of completing the journey."
+  ],
+  "benefits_summary": "Reimbursement of 50% of actual travel expenses up to ₹30,000 per eligible pilgrim.",
+  "documents_required": [
+    "Prescribed application form",
+    "Certified records of the journey",
+    "Certificate detailing actual expenses incurred"
+  ],
+  "application_link": null
+}

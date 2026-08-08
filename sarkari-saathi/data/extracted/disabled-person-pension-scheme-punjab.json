@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Disabled Person Pension Scheme - Punjab",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Punjab",
+    "Disability percentage must be greater than 50%",
+    "People with mental disabilities are eligible regardless of their specific disability"
+  ],
+  "benefits_summary": "Provides a pension of ₹1,500 per month to eligible disabled persons.",
+  "documents_required": [],
+  "application_link": null
+}

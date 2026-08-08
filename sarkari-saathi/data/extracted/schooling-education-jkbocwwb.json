@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Schooling Education (JKBOCWWB)",
+  "occupation": [
+    "Building Worker",
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "One of the parents must be an active, registered member of the Jammu and Kashmir Building and Other Construction Workers Welfare Board at the time of application",
+    "The registration must be renewed annually",
+    "The child must be studying in Nursery to Class 8th",
+    "The applicant should have worked in building or construction activities for at least 90 days in the preceding 12 months"
+  ],
+  "benefits_summary": "₹2,500 per child in Nursery to Class 5 and ₹3,500 per child in Class 6 to 8 as education assistance",
+  "documents_required": [
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

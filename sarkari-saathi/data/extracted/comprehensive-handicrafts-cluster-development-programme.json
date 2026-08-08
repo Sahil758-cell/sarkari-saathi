@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Comprehensive Handicrafts Cluster Development Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The Implementing Agency must be a legal entity, preferably a company, with participation of relevant stakeholders such as leading manufacturers, suppliers, buyers, and artisan federations/SHGs.",
+    "The Special Purpose Vehicle (SPV) is to be selected preferably through an open competitive bidding process, subject to project profile, required activities, and formal approval of PAMC.",
+    "In special cases, the selection procedure may be kept open as decided by PAMC/Government."
+  ],
+  "benefits_summary": "Provides infrastructure and support services—including skill training, marketing events, tool kits, design workshops, and the establishment of emporiums, common facility centres, raw material banks, and other production and design centres—for artisans and SMEs.",
+  "documents_required": [],
+  "application_link": "Application to be submitted by the Executing Agency (EA) at the concerned Regional office of the Textile Commissioner."
+}

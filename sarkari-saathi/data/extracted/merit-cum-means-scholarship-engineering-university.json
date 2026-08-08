@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Merit cum Means Scholarship: Engineering University",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed the 10+2 (or equivalent) examination with at least 45% marks.",
+    "Must be a native resident of Chhattisgarh.",
+    "Must be currently studying in a recognised engineering university in Chhattisgarh or an AICTE‑approved institution outside the state for BE/BTech courses.",
+    "Father’s/guardian’s total annual income must not exceed ₹2,50,000.",
+    "Students in full‑time employment are not eligible.",
+    "Children of permanent government employees of Chhattisgarh deputed to the Government of India or another state are exempted from the domicile condition.",
+    "No student may receive more than one scholarship at the same time, except fee concessions.",
+    "Part‑time work is allowed only if the student is already receiving another scholarship.",
+    "Special scholarships may be granted based on poverty and merit in exceptional cases."
+  ],
+  "benefits_summary": "Scholarship of ₹1,000 per month.",
+  "documents_required": [
+    "Prescribed application form (hard copy)",
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

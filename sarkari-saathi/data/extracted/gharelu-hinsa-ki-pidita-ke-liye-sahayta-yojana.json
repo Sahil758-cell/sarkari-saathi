@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Gharelu Hinsa Ki Pidita Ke Liye Sahayta Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Madhya Pradesh.",
+    "Applicant must be a woman or girl.",
+    "Applicant must be affected by domestic violence.",
+    "Application must be submitted within one year from the date of the incident.",
+    "A copy of the FIR lodged for the incident must be attached with the application."
+  ],
+  "benefits_summary": "Compensation up to ₹2,00,000 for disability below 40% and up to ₹4,00,000 for disability above 40% resulting from domestic violence.",
+  "documents_required": [
+    "Copy of the FIR lodged for the incident"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Construction of Godown for Grain Storage",
+  "occupation": [
+    "grain storage",
+    "agriculture"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicant must have access to at least one acre of land, or land required as per circumstances, allotted by the Cooperative Department."
+  ],
+  "benefits_summary": "Construction of modern and scientific food grain storage facilities.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scheme to Provide Financial Assistance in the Form of Grant-In-Aid to Bhajani/ Choir/ Cultural Group/ Institutions for Purchase of Musical Instruments",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The Mandal/Group/Institution/Troupe must consist of at least 10 members.",
+    "The Mandal/Group/Institution/Troupe must be conducting regular musical performances such as bhajans, choir singing, folk performances, etc.",
+    "The Mandal/Group/Institution/Troupe must not have already received the benefits of this scheme."
+  ],
+  "benefits_summary": "Lumpsum grant up to ₹15,000 per group/institution for purchasing musical instruments.",
+  "documents_required": [
+    "Passport-sized photograph (signed across)"
+  ],
+  "application_link": null
+}

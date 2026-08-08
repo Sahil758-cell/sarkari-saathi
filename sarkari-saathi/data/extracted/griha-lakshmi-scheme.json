@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Griha Lakshmi Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": false,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be listed as the head of the family on the ration card (BPL or APL).",
+    "In case of the death of the family head, the next eligible female member can be registered.",
+    "Women from BPL families are given priority."
+  ],
+  "benefits_summary": "Monthly financial assistance of ₹2,000 transferred directly to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

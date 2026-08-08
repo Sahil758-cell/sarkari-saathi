@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Biotechnology Ignition Grant Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The individual applicant must be an Indian citizen",
+    "The applicant must be the Project Leader of the proposed project",
+    "The applicant must be incubated in a recognised incubator and provide a Letter of Intent or MoU with that incubator",
+    "If employed by an academic or research organisation, the applicant must submit a No Objection Certificate permitting individual funding and the use of a separate no‑lien account",
+    "If employed by a for‑profit company/LLP, the applicant must either resign/retire (submit resignation/relieving/retirement letter) or apply under the company/LLP route",
+    "Promoter‑shareholders of a biotech company or partners in a biotech LLP cannot apply as an individual (must apply through the company/LLP route)",
+    "Company/LLP must be registered under the Companies Act and incorporated no earlier than 5 years before the call date",
+    "At least 51 % of the company's capital must be beneficially owned by resident Indian citizens or Indian companies",
+    "The Company/LLP must have an in‑house functional R&D facility or be incubated at a recognised incubator",
+    "The Project Leader must have completed basic undergraduate training in any discipline",
+    "BIG support can be provided only once to any individual or start‑up",
+    "Scientists, faculty, research scholars and graduates are eligible if they intend to incubate at a bio‑incubator"
+  ],
+  "benefits_summary": "Grant‑in‑aid of up to INR 50 lakh for a maximum of 18 months, together with continuous mentoring, IP, legal, networking, training and other support services.",
+  "documents_required": [
+    "Letter of Intent (LoI) or MoU with incubator",
+    "No Objection Certificate (NOC) from employing academic/research organisation",
+    "Resignation/relieving/retirement letter (if employed with for‑profit company)"
+  ],
+  "application_link": "https://www.birac.nic.in"
+}

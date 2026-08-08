@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance for Power Connection Charges",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must be a Micro, Small or Medium enterprise",
+    "Enterprise must be run by an SC/ST entrepreneur (SC/ST contribution ≥ 51 %)",
+    "Enterprise must be located outside Gujarat Industrial Development Corporation (GIDC) areas or any approved industrial park",
+    "Application for reimbursement must be filed within one year from the date of payment of charges to the distribution licensee",
+    "Charges must be paid for a new power connection, additional load for business expansion, or shifting of connection/service line"
+  ],
+  "benefits_summary": "Financial assistance of up to 50 % of power connection charges, with a maximum cap of ₹5,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

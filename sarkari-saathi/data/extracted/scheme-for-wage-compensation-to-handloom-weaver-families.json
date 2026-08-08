@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Scheme for Wage Compensation to Handloom Weaver Families",
+  "occupation": [
+    "handloom weaver",
+    "weaving",
+    "warping",
+    "sizing"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the head of the family",
+    "Applicant must be enrolled under the Praja Sadhikara Survey of Andhra Pradesh"
+  ],
+  "benefits_summary": "Provides a subsistence allowance of ₹4,000 per weaver family annually (₹2,000 per month for two months) transferred via DBT.",
+  "documents_required": [
+    "Weaver Photo ID Card",
+    "Aadhar Card",
+    "Ration Card",
+    "first page of the bank account passbook",
+    "mobile number"
+  ],
+  "application_link": null
+}

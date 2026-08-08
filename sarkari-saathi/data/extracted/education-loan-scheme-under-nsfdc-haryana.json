@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Education Loan Scheme under NSFDC- Haryana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 45,
+  "max_annual_income": 300000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Haryana",
+    "Must belong to the Scheduled Caste community",
+    "Must be between 18 and 45 years old",
+    "Annual family income must not exceed ₹3,00,000 (with 50% of beneficiaries up to ₹1,50,000)",
+    "Must be a student pursuing regular full‑time recognized professional/technical courses in India or abroad",
+    "Loan can be availed only once at either Diploma/Graduation or Post‑Graduation level (integrated courses allowed)",
+    "Applicants who secured admission before 1‑Dec‑2009 are eligible only if they have not received an educational loan from any other institution"
+  ],
+  "benefits_summary": "Provides up to ₹10 lakh for studies in India and up to ₹30 lakh for studies abroad, with repayment over 5 years in quarterly installments.",
+  "documents_required": [],
+  "application_link": null
+}

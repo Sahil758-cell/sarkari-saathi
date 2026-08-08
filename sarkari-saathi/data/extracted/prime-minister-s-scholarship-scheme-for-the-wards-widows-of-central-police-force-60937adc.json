@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Wards and widows of Central Police Forces (CPFs) personnel who died in harness; wards of ex‑CPFs personnel disabled while on duty; wards of ex‑CPFs personnel who have received gallantry awards; wards and widows of ex‑CPFs/in‑service personnel below officer rank (up to Subedar Major/Inspector) are eligible",
+    "The scheme is open to widows and unmarried wards; marriage or remarriage later does not disqualify the applicant",
+    "Scholarship is limited to two children per family",
+    "Minimum 60% marks at the 10+2 level is required for the initial sanction; a minimum of 50% marks each year is required for renewal",
+    "Applicants must submit the application to the respective force Headquarters with the required documents and two self‑addressed stamped envelopes (27 × 12 cm)",
+    "Attested photocopies of supporting legal documents must be signed by a Gazetted Officer or Unit Commander of the CPFs",
+    "Each applicant must open an individual bank account in the designated bank and provide the account number in the application",
+    "A person cannot receive multiple scholarships for different programmes under this scheme"
+  ],
+  "benefits_summary": "Scholarship of ₹1,250 per month for boys and ₹1,500 per month for girls, payable for a duration of two to five years.",
+  "documents_required": [
+    "Application form (Annexure)",
+    "Attested photocopies of supporting legal documents (attested by a Gazetted Officer or Unit Commander of CPFs)",
+    "Two self‑addressed stamped envelopes (27 × 12 cm)",
+    "Bank account details (account number in the designated bank)"
+  ],
+  "application_link": null
+}

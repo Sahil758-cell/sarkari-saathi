@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Swatantrata Sainik Samman Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Minimum imprisonment of six months before Independence (reduced to three months for women, SC/ST freedom fighters).",
+    "Ex‑INA personnel eligible if imprisonment/detention was outside India.",
+    "Underground persons for more than six months who were proclaimed offenders, had an arrest warrant, or a detention order issued but not served.",
+    "Persons interned in their home or externed from their district for six months or more.",
+    "Persons whose property was confiscated, attached or sold due to participation in the freedom struggle.",
+    "Persons permanently incapacitated during firing or lathi charge.",
+    "Persons who lost a Central or State Government job because of participation in the national movement.",
+    "Eligible dependents (if the freedom fighter is deceased) include mother, father, widower/widow (if not remarried) and unmarried daughters; only one dependent can receive a pension with priority order: widow/widower, unmarried daughters, mother, father.",
+    "Pension for unmarried daughters ceases upon marriage or when they become independent."
+  ],
+  "benefits_summary": "Provides a monthly pension ranging from ₹26,000 to ₹30,000 (including 3% Dearness Relief) for eligible freedom fighters and their dependents.",
+  "documents_required": [],
+  "application_link": null
+}

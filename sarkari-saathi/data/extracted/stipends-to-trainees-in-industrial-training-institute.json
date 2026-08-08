@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Stipends To Trainees In Industrial Training Institute",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 65290,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Maharashtra.",
+    "Must belong to the Scheduled Caste (SC) category.",
+    "Must be enrolled in a recognized Industrial Training Institute (ITI).",
+    "Must reside in the hostel of the Department of Technical Education to receive the Rs.60 per month stipend; otherwise eligible for the Rs.100 per month stipend from the Social Welfare Department."
+  ],
+  "benefits_summary": "Students receive a monthly stipend of Rs.60 from the Department of Technical Education and Rs.40 (or Rs.100 if not receiving the former) from the Social Welfare Department.",
+  "documents_required": [],
+  "application_link": null
+}

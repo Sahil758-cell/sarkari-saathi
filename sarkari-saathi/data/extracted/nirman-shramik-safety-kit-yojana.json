@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Nirman Shramik Safety Kit Yojana",
+  "occupation": [
+    "Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be domiciled in the state of Jharkhand",
+    "Applicant must be a registered Construction Worker (Nirmaan Shramik) or a member of the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)",
+    "Applicant must be engaged in construction work such as mason, carpenter, electrician, porter, painter, etc.",
+    "Applicant must have worked for at least 90 days",
+    "Applicant must not have already availed the benefits of this scheme"
+  ],
+  "benefits_summary": "A direct cash transfer of ₹1,000 is provided to beneficiaries to purchase a branded helmet and a pair of safety shoes.",
+  "documents_required": [],
+  "application_link": null
+}

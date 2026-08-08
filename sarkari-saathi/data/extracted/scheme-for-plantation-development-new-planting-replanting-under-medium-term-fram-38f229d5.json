@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Scheme for Plantation Development (New planting & Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil Nadu), Non-Traditional and North Eastern Region",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "general",
+    "SC"
+  ],
+  "state": [
+    "Kerala",
+    "Tamil Nadu",
+    "North Eastern Region"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Growers with rubber area not exceeding 2.00 ha are eligible in the Traditional region; the planting grant is limited to 1.00 ha.",
+    "Growers with rubber area not exceeding 5.00 ha are eligible in the Non‑Traditional and North Eastern region; the planting grant is limited to 2.00 ha.",
+    "A minimum new planting/replanting area of 0.10 ha is required in both regions.",
+    "Applicants must have absolute possession over the land for which assistance is sought.",
+    "Land certified as paddy fields is not eligible for any assistance.",
+    "A minimum stand of 450 rubber plants per ha must be maintained with satisfactory growth as assessed by the inspecting officer.",
+    "Up to 20 non‑rubber trees, or 40 coconut palms, or 80 arecanut palms per ha may be retained in a well‑distributed manner.",
+    "Sloppy lands must be protected from soil erosion by contour terracing, bunds, silt trenches/pits, or planting cover crops.",
+    "Boundary protection measures must be adopted.",
+    "The Executive Director of the Rubber Board may refuse assistance without assigning any reason."
+  ],
+  "benefits_summary": "Provides a subsidy of ₹20,000 per ha (general) or ₹35,000 per ha (SC) plus ₹5,000 per ha for planting material and ₹10 per plant up to 500 plants in Traditional areas; ₹35,000 per ha plus ₹5,000 per ha for planting material in Non‑Traditional/North Eastern regions.",
+  "documents_required": [],
+  "application_link": null
+}

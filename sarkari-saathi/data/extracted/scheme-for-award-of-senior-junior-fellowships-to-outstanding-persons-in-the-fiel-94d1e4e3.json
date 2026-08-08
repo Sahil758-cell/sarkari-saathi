@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme For Award Of Senior/Junior Fellowships To Outstanding Persons In The Fields Of Culture",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "Applicants must be aged above 40 for Senior Fellowship or between 25 and 40 for Junior Fellowship (age as of 1 April).",
+    "Minimum qualification is graduation.",
+    "Senior Fellowship applicants must not be receiving a pension under the Ministry of Culture’s grant for indigent artists.",
+    "Applicants must not have previously received the same fellowship; a former Junior Fellow can apply for Senior Fellowship after a 5‑year gap after project closure.",
+    "If employed in a government department or institution, the applicant must obtain leave for the two‑year fellowship period and submit the application through the head of the department with written assurance.",
+    "Fellows must submit six‑monthly progress reports; failure to do so may result in withholding of further payments.",
+    "The research project must be completed within two years, with a possible three‑month extension without additional cost."
+  ],
+  "benefits_summary": "Senior fellows receive ₹20,000 per month and junior fellows ₹10,000 per month for two years, with a possible one‑time grant up to ₹20,000 or 50 % of publication cost.",
+  "documents_required": [],
+  "application_link": null
+}

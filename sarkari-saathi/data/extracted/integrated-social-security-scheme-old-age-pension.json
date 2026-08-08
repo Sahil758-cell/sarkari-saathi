@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Integrated Social Security Scheme - Old Age Pension",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum age 60 years for men and 55 years for women",
+    "Applicant must have annual income less than ₹75,000 or belong to the Below Poverty Line (BPL) category"
+  ],
+  "benefits_summary": "A pension of ₹1,000 per month is deposited directly into the beneficiary’s bank account through DBT mode.",
+  "documents_required": [],
+  "application_link": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+}

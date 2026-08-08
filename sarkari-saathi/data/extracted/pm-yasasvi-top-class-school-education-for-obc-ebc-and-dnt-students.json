@@ -1,0 +1,27 @@
+{
+  "scheme_name": "PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student belonging to Other Backward Classes (OBC), Economically Backward Classes (EBC) or Denotified, Nomadic Tribes (DNT)",
+    "Must be studying in a Top Class School (public, aided or private) identified under the scheme",
+    "Must be studying from Class 9 to Class 12",
+    "Must have a bank account",
+    "Must provide all necessary details during application",
+    "The school must have an Aadhaar‑Based Attendance System that can be integrated with a central portal",
+    "Students receiving this scholarship cannot receive assistance for the same items under any other government scheme"
+  ],
+  "benefits_summary": "Scholarship provides up to ₹75,000 per year for classes 9‑10 and up to ₹1,25,000 per year for classes 11‑12 covering tuition, hostel and other school fees.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

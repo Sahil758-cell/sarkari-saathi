@@ -1,0 +1,28 @@
+{
+  "scheme_name": "BSR Scheme",
+  "occupation": [
+    "Professor",
+    "Associate Professor"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have supervised at least 15 full‑time Ph.D. dissertations in basic sciences or 10 in engineering/technology, with at least 5 graduates in the last 10 years",
+    "Must have a cumulative impact factor of published papers of at least 50",
+    "Must have handled at least 3 sponsored research projects funded by national/international agencies in the last 10 years",
+    "Application must be submitted within one year prior to superannuation",
+    "University must certify provision of required laboratory infrastructure, administrative assistance, and at least two Ph.D. candidates to work under the applicant"
+  ],
+  "benefits_summary": "Provides a monthly fellowship stipend (JRF/SRF) with contingency allowance, HRA, hostel accommodation, and leave benefits including maternity/paternity leave.",
+  "documents_required": [
+    "University certification letter confirming infrastructure and candidate support"
+  ],
+  "application_link": null
+}

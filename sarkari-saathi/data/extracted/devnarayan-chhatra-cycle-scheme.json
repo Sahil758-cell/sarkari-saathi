@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Devnarayan Chhatra Cycle Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a girl student.",
+    "Must be a native of Rajasthan.",
+    "Must be enrolled in class 9 in a government school of Rajasthan.",
+    "Must belong to one of the following SBC communities: Banjara, Baldia, Labana, Gadiya‑Lohar, Gadolia, Gujar, Gurjar, Raiko, Rebari (Debasi), Gadaria (Gadri, Gyari)."
+  ],
+  "benefits_summary": "Free bicycles are provided to girl students studying in class 9 of government schools in Rajasthan.",
+  "documents_required": [],
+  "application_link": null
+}

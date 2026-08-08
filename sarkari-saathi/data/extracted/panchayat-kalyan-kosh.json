@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Panchayat Kalyan Kosh",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a family member or dependent of a deceased Panchayat Representative.",
+    "Benefit is not provided if the representative’s death was due to suicide or involvement in criminal acts."
+  ],
+  "benefits_summary": "Provides financial assistance ranging from ₹2 lakh to ₹10 lakh to families of deceased Panchayat representatives, depending on the position held.",
+  "documents_required": [],
+  "application_link": null
+}

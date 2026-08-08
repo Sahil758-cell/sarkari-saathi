@@ -1,0 +1,32 @@
+{
+  "scheme_name": "SERB International Research Experience",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Open to Indian nationals only",
+    "Applicant must hold a Ph.D. in Science and Engineering from a recognized Indian institution (MBBS/MD degrees and Veterinary doctors are also eligible)",
+    "Applicant must have a permanent position in an Indian research or academic institution",
+    "Applicants with a Teachers Associateship for Research Excellence (TARE) award are eligible",
+    "Letter of support from the overseas host institution must be submitted",
+    "Age relaxation of 5 years is provided for SC, ST, OBC, physically challenged and women candidates"
+  ],
+  "benefits_summary": "Fellows receive a $3,000 per month fellowship, a one‑time ₹75,000 contingency allowance, ₹20,000 medical insurance, and economy class airfare for up to six months.",
+  "documents_required": [
+    "Letter of support from overseas host institution",
+    "Endorsement letter signed by the head of the applicant’s organization/institute",
+    "Research plan PDF (uploaded as a single file)"
+  ],
+  "application_link": "https://www.serbonline.in"
+}

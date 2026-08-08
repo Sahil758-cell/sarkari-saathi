@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Women Involvement in Science and Engineering Research",
+  "occupation": [
+    "researcher",
+    "entrepreneur"
+  ],
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a woman researcher or entrepreneur holding a regular/long‑term position in an academic, research institute or industrial organization in India or Germany",
+    "Applicant must obtain an endorsement/consent letter from the host team",
+    "Applicant must submit a No Objection Certificate (NOC) or endorsement letter from the head of their current institution",
+    "Visit must commence within 12 months of the award letter",
+    "Awardee must abide by the conduct, rules and regulations of the host country",
+    "Awardee must acknowledge IGSTC in all publications and communications related to the grant"
+  ],
+  "benefits_summary": "Grant provides up to ₹12 Lakhs per year (or €14,500 per year) for project costs and covers a one‑month research stay with travel, visa, insurance and per‑diem.",
+  "documents_required": [
+    "Endorsement/consent letter from the host",
+    "No Objection Certificate (NOC) or endorsement letter from the head of the institution"
+  ],
+  "application_link": null
+}

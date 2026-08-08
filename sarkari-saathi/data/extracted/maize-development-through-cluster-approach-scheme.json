@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Maize Development through Cluster Approach Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must have at least 0.025 hectares of cultivable land"
+  ],
+  "benefits_summary": "Quality seeds are supplied to farmers at subsidized rates.",
+  "documents_required": [
+    "Self-attest (if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Vishist Coaching Scheme (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child must be of a construction worker registered with the Gujarat Building and other Construction Workers Welfare Board",
+    "Child must aspire to pursue a career as a Chartered Accountant and appear for competitive examinations conducted by the Gujarat Public Service Commission, Union Public Service Commission, Gujarat Gaun Seva Selection Board, or Gujarat Panchayat Service Selection Board",
+    "Application must be submitted in the prescribed format within six months of taking admission in each academic year"
+  ],
+  "benefits_summary": "Registration fee and coaching/tuition fees for the children of registered construction workers are reimbursed or paid.",
+  "documents_required": [
+    "Aadhaar Card",
+    "E‑Nirman Card"
+  ],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

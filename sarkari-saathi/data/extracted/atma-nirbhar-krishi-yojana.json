@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Atma Nirbhar Krishi Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The farmer must possess the necessary land for agricultural activities.",
+    "The applicant must have a viable plan or proposal for the proposed agricultural activities.",
+    "Farmers must meet the specific criteria set by participating banks for loan eligibility."
+  ],
+  "benefits_summary": "Provides collateral‑free loans up to Rs. 1.60 lakhs for agricultural activities, enhancing productivity and farmer self‑reliance.",
+  "documents_required": [],
+  "application_link": null
+}

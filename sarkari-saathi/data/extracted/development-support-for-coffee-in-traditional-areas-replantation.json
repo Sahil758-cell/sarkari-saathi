@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Development Support for Coffee in Traditional Areas: Replantation",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Small growers with coffee holdings up to 10 ha are eligible",
+    "Replantation applies to old/senile and low‑productive Arabica (age ≥ 25 years) and Robusta (age ≥ 40 years) plantations, and Arabica dwarf varieties (age ≥ 15 years)",
+    "For inter‑planting of Arabica in Robusta, subsidy is given only for the Robusta crop",
+    "Old/unproductive plants must be removed after one harvest and no later than after two harvests",
+    "In areas above 1000 m MSL, only disease‑tolerant, high‑yielding Arabica varieties may be replanted; below 1000 m, Arabica blocks replanted with Robusta material are eligible",
+    "In Tamil Nadu, where coffee is intercropped, subsidy is based on the lesser of the actual coffee‑replanted area or the maximum area recorded in land documents",
+    "Growers are encouraged to adopt planting designs suitable for mechanisation; estates using such designs may receive subsidy for the entire replanted area"
+  ],
+  "benefits_summary": "Provides a subsidy of 40% of the unit cost (₹2,75,000 per ha for Arabica, ₹2,00,000 per ha for Robusta), with an additional 10% support for SC/ST growers with holdings up to 4 ha.",
+  "documents_required": [],
+  "application_link": null
+}

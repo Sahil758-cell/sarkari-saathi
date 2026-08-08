@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Widow / Destitute Women Pension Scheme - Punjab",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 60000,
+  "category": null,
+  "state": [
+    "Punjab"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Punjab",
+    "Widow women are eligible if below 58 years",
+    "Destitute women are eligible if below 58 years",
+    "Unmarried women are eligible if above 30 years",
+    "Only women are eligible"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,500 per month.",
+  "documents_required": [],
+  "application_link": null
+}

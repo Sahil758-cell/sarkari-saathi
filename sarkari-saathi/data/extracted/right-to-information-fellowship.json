@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Right To Information Fellowship",
+  "occupation": [
+    "journalist",
+    "civil society professional",
+    "RTI trainer",
+    "researcher"
+  ],
+  "gender": null,
+  "age_min": 25,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have proven credentials in the professional area",
+    "Applicant must have prior experience of work relating to the Right to Information",
+    "Applicant must have an aptitude for research"
+  ],
+  "benefits_summary": "Stipend of ₹50,000 per month for three months and an additional grant of ₹50,000 for research-related expenses",
+  "documents_required": [],
+  "application_link": "Five sets of the application with enclosures in the prescribed proforma may be sent by post to: Under Secretary (IR), Department of Personnel and Training, Government of India, North Block, New Delhi - 110 001"
+}

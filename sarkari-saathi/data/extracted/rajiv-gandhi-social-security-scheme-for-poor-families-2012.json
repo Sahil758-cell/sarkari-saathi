@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Rajiv Gandhi Social Security Scheme For Poor Families - 2012",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary cannot claim any other scheme benefits simultaneously.",
+    "Claim must be submitted within 180 days of death or accident."
+  ],
+  "benefits_summary": "Provides financial assistance of ₹30,000 for natural death, ₹75,000 for unnatural death or permanent total disability, and ₹37,500 for partial total disability.",
+  "documents_required": [
+    "Claim application form (Form-A or Form-B)"
+  ],
+  "application_link": null
+}

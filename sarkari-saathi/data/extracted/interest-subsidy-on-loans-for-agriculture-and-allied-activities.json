@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Interest Subsidy on Loans for Agriculture and Allied Activities",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "For Inland Fisheries, the applicant must own or lease fisheries‑related assets such as ponds, tanks, open water bodies, raceways, hatcheries or rearing units, and must hold the necessary licence for fish farming or fishing activities. Applicants may be individual fishers, fish farmers (including groups/partners/share‑croppers/tenants/farmers), self‑help groups, joint liability groups or women’s groups.",
+    "For Marine Fisheries, the applicant must own or lease a registered fishing vessel/boat, hold the required fishing licence/permission for estuarine or sea fishing, and may engage in fish farming/mariculture in estuaries or open sea, as well as any other state‑specific fisheries and allied activities."
+  ],
+  "benefits_summary": "Loan up to ₹5,00,000 with interest subsidy of 4% on short‑term loans and up to 8% (difference between 4% and the bank’s normal rate) on long‑term loans.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Pradhan Mantri Matru Vandana Yojana",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": 800000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a pregnant woman aged at least 19 years",
+    "Must be employed and experiencing wage‑loss due to pregnancy",
+    "Scheme applicable only for the first live birth",
+    "Benefit must be claimed within 270 days of the child’s birth",
+    "In case of miscarriage or still‑birth, the beneficiary is treated as a fresh case for any future pregnancy",
+    "For a second pregnancy, incentive is provided only for a girl child; twins/triplets with at least one girl qualify for the incentive for the second girl child",
+    "Eligibility includes women holding a BPL ration card, beneficiaries under Pradhan Mantri Jan Aarogya Yojana (Ayushman Bharat), e‑Shram card holders, Kisan Samman Nidhi beneficiaries, MGNREGA job‑card holders, women with net family income less than ₹8 lakh per annum, pregnant and lactating AWW/AWH/ASHA workers, and women holding a ration card under the NFSA Act 2013, as well as any other category prescribed by the Central Government"
+  ],
+  "benefits_summary": "Cash incentive of ₹5,000 for the first child (in two installments) and ₹6,000 for a second girl child (in one installment)",
+  "documents_required": [],
+  "application_link": null
+}

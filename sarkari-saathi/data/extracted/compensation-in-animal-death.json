@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Compensation in Animal Death",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered livestock owner or breeder.",
+    "Animal death must be due to natural disasters (floods, droughts, earthquakes, cyclones), diseases (anthrax, bird flu), or poisoning (food poisoning, snake bites, chemical poisoning)."
+  ],
+  "benefits_summary": "Provides direct cash compensation via DBT up to ₹37,500 per large dairy animal (maximum 3), ₹4,000 per small dairy animal (maximum 30), ₹32,000 per large non‑milch animal (maximum 3), ₹20,000 per small non‑milch animal (maximum 3), and ₹100 per adult duck/poultry (maximum 100, up to ₹10,000).",
+  "documents_required": [],
+  "application_link": null
+}

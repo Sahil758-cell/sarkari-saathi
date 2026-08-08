@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Investment Promotion Scheme (IPS) for MSME Sector: Assistance of Fixed Capital Investment Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli & Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a new manufacturing/service unit or an existing manufacturing/service unit undertaking expansion or diversification in the MSME sector",
+    "Unit must have commenced commercial production between 20‑05‑2022 and 19‑05‑2027",
+    "Enterprise must remain in production for five years from the date of commercial production",
+    "Enterprise must observe pollution control measures as prescribed by the relevant authority under Notification No. PCC/DMN/13(PART IV)/2020‑2021/448 dated 25/01/2021",
+    "Application must be submitted within one year from the date of the first loan disbursement or within one year from the commencement of commercial production"
+  ],
+  "benefits_summary": "15% capital investment subsidy up to ₹15 lakh for micro, ₹30 lakh for small, and ₹35 lakh for medium industries, with an additional ₹10 lakh if the eligible GFCI exceeds ₹10 crore.",
+  "documents_required": [],
+  "application_link": null
+}

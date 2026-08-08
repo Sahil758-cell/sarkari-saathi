@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Kalyana Lakshmi Pathakam",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an unmarried girl",
+    "Girl must belong to SC, ST, BC or EBC community",
+    "Girl must be a resident of Telangana",
+    "Girl must be at least 18 years old at the time of marriage",
+    "Marriage must occur on or after 2 October 2014",
+    "Assistance is a one‑time benefit and can be availed only once in a lifetime"
+  ],
+  "benefits_summary": "One‑time financial assistance of ₹1,00,116 to the bride’s mother at marriage, with a higher amount of ₹1,25,145 for parents of disabled girls.",
+  "documents_required": [],
+  "application_link": null
+}

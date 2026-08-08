@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Award Of Scholarships To Young Artists In Different Cultural Fields",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 25,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Candidate must be an Indian national",
+    "Candidate should have adequate general education to pursue training effectively",
+    "Candidate must demonstrate desire to pursue the training effectively",
+    "Candidate must have already acquired a degree of proficiency in the chosen field",
+    "Candidate must have undergone a minimum of 5 years of training with their Guru/Institute",
+    "Candidate must submit a certificate duly signed by the present Guru/Institute and former Guru/Institute (if any)",
+    "Candidate should have adequate knowledge of the connected arts/disciplines",
+    "Age relaxation is not permissible"
+  ],
+  "benefits_summary": "Each scholar receives ₹5,000 per month for two years (total of 400 scholarships).",
+  "documents_required": [
+    "Certificate duly signed by the present Guru / Institute and former Guru/ Institute (if any)"
+  ],
+  "application_link": null
+}

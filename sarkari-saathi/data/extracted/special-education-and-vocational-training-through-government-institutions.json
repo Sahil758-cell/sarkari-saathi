@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Special Education And Vocational Training Through Government Institutions",
+  "occupation": null,
+  "gender": null,
+  "age_min": 6,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a permanent resident of Maharashtra",
+    "Applicant must be a person with disability having at least 40% disability",
+    "Applicable disability types include visual impairment, hearing impairment, orthopaedic handicap, etc."
+  ],
+  "benefits_summary": "Free education, food, shelter, clothing and vocational training are provided to eligible children with disability.",
+  "documents_required": [
+    "passport-sized photograph (signed across)"
+  ],
+  "application_link": null
+}

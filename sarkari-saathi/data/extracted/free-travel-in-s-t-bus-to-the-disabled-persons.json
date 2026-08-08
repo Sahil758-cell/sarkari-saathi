@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Free Travel in S.T Bus to the Disabled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of 40% or more"
+  ],
+  "benefits_summary": "Free travel on all Gujarat State Road Transport Corporation buses for persons with disabilities, including up to the final station for out‑state travel.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

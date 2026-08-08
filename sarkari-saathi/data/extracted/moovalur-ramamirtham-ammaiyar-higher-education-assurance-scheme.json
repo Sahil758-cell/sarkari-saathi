@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student",
+    "Must have studied from Classes 6th to 12th in Government schools of Tamil Nadu",
+    "Must pursue higher education in recognized institutions/colleges/universities",
+    "Only the first higher‑education course is considered for eligibility",
+    "Eligibility is independent of any other scholarships the student may be receiving",
+    "Any number of girl students in a family can receive the benefit"
+  ],
+  "benefits_summary": "Girl students receive a cash incentive of ₹1,000 per month until they complete their undergraduate degree, diploma, ITI or any other recognized course.",
+  "documents_required": [],
+  "application_link": null
+}

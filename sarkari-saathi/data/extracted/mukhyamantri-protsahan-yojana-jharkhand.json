@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Mukhyamantri Protsahan Yojana Jharkhand",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be unemployed (not employed in the public/private sector or self‑employed)",
+    "The applicant must be registered in a Jharkhand employment exchange",
+    "The applicant should have completed a skill training course conducted by a government ITI, polytechnic, or other government vocational institute aligned with the National Qualification Framework (NSQF)",
+    "The applicant must not have availed any similar incentive under another scheme",
+    "The applicant must have a valid bank account and Aadhaar card",
+    "The applicant should not have been convicted of a crime with a sentence of 48 hours or more",
+    "The applicant must be a domicile of Jharkhand",
+    "Age relaxation is applicable as per government norms for SC/ST candidates"
+  ],
+  "benefits_summary": "Financial incentive of ₹5,000 per annum, with an additional 50% incentive for widows, abandoned women, primitive tribes, and persons with disabilities.",
+  "documents_required": [
+    "Aadhaar card",
+    "Proof of a valid bank account"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Indira Gandhi Utkrisht Chattervriti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide resident of Himachal Pradesh",
+    "Must have secured at least 60% marks in the Himachal Pradesh Board of School Education Class 12 examination in any stream (Arts, Science, Commerce)",
+    "Must have secured at least 60% marks in the undergraduate degree examination from a recognized university",
+    "Must be enrolled in an academic or professional stream at a recognized university or institution within or outside Himachal Pradesh"
+  ],
+  "benefits_summary": "₹18,000 per annum scholarship awarded to up to 150 meritorious students based on merit.",
+  "documents_required": [],
+  "application_link": null
+}

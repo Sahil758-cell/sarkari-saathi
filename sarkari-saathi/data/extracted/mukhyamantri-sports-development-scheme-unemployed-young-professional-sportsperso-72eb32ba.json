@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Sports Development Scheme - Unemployed Young Professional Sportsperson",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an unemployed young professional sportsperson",
+    "Must be an experienced professional sportsperson",
+    "Age upper limit relaxed by 5 years for ST/SC candidates"
+  ],
+  "benefits_summary": "Fixed remuneration of ₹20,000 per month.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Integrated Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 54000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be studying in a government or aided private college.",
+    "For Ph.D. applicants, at least 55% marks in post‑graduation are required.",
+    "For postgraduate applicants, at least 55% marks in graduation are required.",
+    "For graduation merit‑cum‑means scholarships, at least 55% marks in the examination of the Board of Secondary Education are required.",
+    "For graduation qualification‑cum‑means scholarships, at least 60% marks in the graduation qualifying examination of the Board of Secondary Education are required.",
+    "Sports applicants must be a member of the national sports team in the school team of Madhya Pradesh, or a member of the adult state team, or have placed in the top three at a state‑level competition."
+  ],
+  "benefits_summary": "Scholarships are awarded for up to 10 months, ranging from ₹300 to ₹600 per month depending on the program (PhD ₹600, M.Phil. ₹500, Postgraduate ₹500, Graduation ₹300, Sports ₹300).",
+  "documents_required": [],
+  "application_link": null
+}

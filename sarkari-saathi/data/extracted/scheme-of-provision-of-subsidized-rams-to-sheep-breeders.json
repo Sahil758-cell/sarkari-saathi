@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Scheme Of Provision Of Subsidized Rams To Sheep Breeders",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have a registered sheep unit",
+    "Must have a flock of at least 25 sheep",
+    "Maximum of two rams can be allotted to one beneficiary",
+    "Beneficiary must sign an agreement not to sell or castrate the allotted ram during its breeding life"
+  ],
+  "benefits_summary": "Provides sheep breeders with high‑quality rams at a 60% subsidy, enhancing wool productivity and profitability.",
+  "documents_required": [
+    "registration certificate",
+    "land ownership/leasehold rights documents"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Tripura Health Assurance Scheme For Poor",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Coverage is available for up to five family members.",
+    "Eligible family members include the policyholder's legal spouse, parents, and unmarried children up to 25 years of age.",
+    "All family members must be listed on the family ration card issued by the Government of Tripura."
+  ],
+  "benefits_summary": "Health cover of up to Rs 1.15 lakh per family per year, with an additional transportation allowance of Rs 10,000.",
+  "documents_required": [],
+  "application_link": null
+}

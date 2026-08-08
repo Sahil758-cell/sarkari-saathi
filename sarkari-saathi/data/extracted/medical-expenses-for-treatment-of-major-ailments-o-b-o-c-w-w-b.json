@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Medical Expenses for Treatment of Major Ailments (O.B.O.C.W.W.B)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Should have engaged in building and construction work for at least 90 days in a given year",
+    "Should not be a member of any other Welfare Fund established under any law",
+    "Should be a registered member of the Odisha Building and Other Construction Workers Welfare Board or a dependent of the member",
+    "Beneficiary should be registered at least for one year in line of the Odisha State Treatment Fund",
+    "Should suffer from any major diseases"
+  ],
+  "benefits_summary": "Provides up to ₹3,00,000 financial assistance for treatment of major ailments.",
+  "documents_required": [],
+  "application_link": null
+}

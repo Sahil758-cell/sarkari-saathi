@@ -1,0 +1,35 @@
+{
+  "scheme_name": "Grant for the Purchase of Work Related Tools for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Delhi"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have served the Board for at least 90 days in a given year.",
+    "The applicant must be registered under the Delhi Building and Other Construction Workers Welfare Board for not less than 3 years.",
+    "The applicant must remit their contribution regularly."
+  ],
+  "benefits_summary": "A grant of ₹5,000 for the purchase of work‑related tools, available once every five years.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Address Proof",
+    "Birth Proof",
+    "Employment Proof",
+    "Bank Account details",
+    "Affidavit of the Applicant",
+    "Photograph",
+    "Applicant’s Video",
+    "Proof of 90 Days Employment"
+  ],
+  "application_link": null
+}

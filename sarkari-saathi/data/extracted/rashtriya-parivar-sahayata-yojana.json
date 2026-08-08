@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Rashtriya Parivar Sahayata Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The deceased must be the primary breadwinner of the family."
+  ],
+  "benefits_summary": "Eligible families receive a lump‑sum grant of Rs. 20,000.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Mahatma Jyotirao Phule Jan Arogya Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Families holding Yellow, Antyodaya Anna Yojana (AAY), Annapurna Yojana or Orange ration cards (Category A)",
+    "White ration card holder families (including government or semi‑government employees) (Category B)",
+    "Families without any ration card but possessing a Maharashtra domicile certificate (Category B)",
+    "Students in government‑recognized ashram schools (Category C)",
+    "Children in government‑recognized orphanages (Category C)",
+    "Women in government‑recognized women’s ashams (Category C)",
+    "Senior citizens in government‑recognized old age homes (Category C)",
+    "Journalists and their dependent family members as per Directorate General of Information and Public Relations criteria (Category C)",
+    "Construction workers and their families (resident outside Maharashtra) registered with the Maharashtra Building and Other Construction Workers Board (Category C)",
+    "Road‑traffic accident victims from outside Maharashtra or outside India who met an accident on Maharashtra roads (Category D)",
+    "Families holding Antyodaya Anna Yojana (AAY), Priority House Holder (PHH) or Annapurna Yojana ration cards from 865 villages of Belgaon, Karwar, Kalburgi and Bidar districts on the Maharashtra‑Karnataka border (Category E)"
+  ],
+  "benefits_summary": "Cashless medical treatment covering up to ₹5 lakhs per family per year (₹1 lakh per person for road‑accident victims) for secondary and tertiary care across Maharashtra.",
+  "documents_required": [],
+  "application_link": "Step 1: Visit any Govt./Pvt. network hospital in the State and request the hard copy of the prescribed application format. Step 2: Fill in all mandatory fields, paste a passport‑sized photograph (signed across if required), and attach copies of all mandatory documents (self‑attest if required). Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority. Step 4: Request a receipt or acknowledgement containing date, time and a unique identification number (if applicable)."
+}

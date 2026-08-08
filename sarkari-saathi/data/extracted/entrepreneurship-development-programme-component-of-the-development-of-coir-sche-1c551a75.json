@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Entrepreneurship Development Programme",
+  "occupation": [
+    "entrepreneur"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant should be a prospective entrepreneur willing to start a coir industry.",
+    "The applicant should be an entrepreneur with a coir industry."
+  ],
+  "benefits_summary": "Provides entrepreneurship training and awareness programmes on modern technology and state‑grant incentives for prospective and existing coir industry entrepreneurs.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph (signed across, if required)",
+    "Copies of all mandatory documents (self‑attested, if required)"
+  ],
+  "application_link": null
+}

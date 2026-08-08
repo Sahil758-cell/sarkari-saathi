@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Rehabilitation of Cured Leprosy Persons: Pre & Post-Matric Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 240000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant is a bonafide resident of Odisha.",
+    "The applicant is a child cured of leprosy or a child of a cured leprosy person.",
+    "The applicant is a regular student of a recognized educational institution.",
+    "The applicant must not be receiving any other financial assistance from State or Central Government schemes."
+  ],
+  "benefits_summary": "Provides a monthly scholarship ranging from ₹800 to ₹2,000 depending on education level, payable for up to 10 months per academic year.",
+  "documents_required": [],
+  "application_link": null
+}

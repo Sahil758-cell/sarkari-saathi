@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Financial Assistance to Workers with a Visually, Physically or Mentally Disabled Child- Haryana Labour Welfare Board",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be employed in an industrial or commercial establishment in Haryana",
+    "Applicant must be registered with the Haryana Labour Welfare Board",
+    "The disabled child must be a dependent of the registered worker and listed on the worker's ESI Card or Ration Card",
+    "Child must have a disability percentage between 70% and 100% (blind, mentally retarded, mute, deaf)",
+    "Child must have no source of income and must be unmarried",
+    "No fixed service period requirement for the worker",
+    "Worker must not have already availed the benefit for the same dependent child in the relevant financial year",
+    "Worker must submit an annual living certificate for the dependent child indicating no income and unmarried status"
+  ],
+  "benefits_summary": "Annual financial assistance of ₹20,000 for disabled children with 70‑90% disability and ₹30,000 for children with 91‑100% disability.",
+  "documents_required": [
+    "Living certificate of the dependent child (annual)",
+    "Photograph of the applicant"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

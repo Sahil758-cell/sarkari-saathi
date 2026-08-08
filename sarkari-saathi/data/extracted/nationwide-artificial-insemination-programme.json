@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Nationwide Artificial Insemination Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must not belong to any scheduled castes or tribes",
+    "Applicant must have the required infrastructure to undertake AI operations",
+    "Applicant must possess the required knowledge and skill to undertake AI operations",
+    "Applicant must have no prior criminal record"
+  ],
+  "benefits_summary": "Provides AI services with quality semen to improve livestock fertility, health and productivity, thereby increasing farmers' income.",
+  "documents_required": [
+    "Valid livestock registration documents"
+  ],
+  "application_link": null
+}

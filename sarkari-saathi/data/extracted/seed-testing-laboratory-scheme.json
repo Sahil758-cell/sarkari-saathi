@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Seed Testing Laboratory Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a bonafide farmer engaged in agriculture.",
+    "Beneficiaries are selected on a first‑come‑first‑served basis among bonafide farmers who have sufficient cultivable land."
+  ],
+  "benefits_summary": "The scheme provides seed testing services and related training to eligible farmers.",
+  "documents_required": [
+    "Copies of all mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

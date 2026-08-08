@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Retirement Relief in Quitting Service for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "UT Administration of Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a registered member of the Building and Other Construction Workers Welfare Board of the UT",
+    "Must have been a member of the Board for a continuous period of 15 years",
+    "Must have engaged in building or other construction work for at least 90 days in a given year",
+    "Must request a prescribed format and attach mandatory documents (self‑attested if required)"
+  ],
+  "benefits_summary": "A certain amount is paid to eligible construction workers who have been board members continuously for 15 years upon retirement at age 60.",
+  "documents_required": [
+    "prescribed documents",
+    "mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

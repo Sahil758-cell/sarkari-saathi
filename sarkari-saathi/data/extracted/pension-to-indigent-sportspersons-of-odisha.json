@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Pension to Indigent Sportspersons of Odisha",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 50000,
+  "category": null,
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have represented the State of Odisha in sporting disciplines recognized by the Sports & Youth Services Department (Annexure‑I).",
+    "Must be free from conviction in any criminal offence.",
+    "Age requirement may be relaxed by up to 10 years if the sportsperson is suddenly incapacitated by injury, physical handicap or serious ailment (Medical Board Certificate mandatory)."
+  ],
+  "benefits_summary": "A monthly pension of ₹3,000 is provided to indigent sportspersons of Odisha (with provision for the surviving spouse).",
+  "documents_required": [
+    "Income Certificate from the Revenue authority",
+    "Medical Board Certificate (if seeking age relaxation due to injury/handicap)"
+  ],
+  "application_link": "https://portal.sportsodisha.gov.in/Citizen/Landing"
+}

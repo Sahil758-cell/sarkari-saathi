@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Chief Minister BC & EBC Chhatravas Anudan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the BC or EBC category.",
+    "Student must be residing in a government hostel."
+  ],
+  "benefits_summary": "Provides a financial assistance of ₹1,000 per month to eligible students residing in government hostels.",
+  "documents_required": [],
+  "application_link": null
+}

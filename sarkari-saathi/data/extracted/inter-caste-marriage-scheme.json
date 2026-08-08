@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Inter-caste Marriage Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Couple must belong to different castes.",
+    "Marriage must be registered under the Special Marriage Act, 1954."
+  ],
+  "benefits_summary": "Financial assistance of up to Rs.50,000 is provided to eligible couples.",
+  "documents_required": [],
+  "application_link": null
+}

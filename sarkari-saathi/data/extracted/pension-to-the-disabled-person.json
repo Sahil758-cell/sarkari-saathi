@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pension To The Disabled Person",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Chandigarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have a disability of at least 40%.",
+    "The applicant must be a resident of Union Territory of Chandigarh for more than 3 years.",
+    "Family annual income must not exceed ₹1.5 lakh."
+  ],
+  "benefits_summary": "A pension of ₹1000 per annum for 40‑70% disability and ₹2000 per annum for more than 70% disability.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Revival and Rehabilitation Scheme for Defunct MSMEs and Cashew Processing Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a defunct MSME in the manufacturing sector that has been non‑operational for at least 6 months (excluding units closed due to the plastic ban or diversification)",
+    "Only one application per unit is allowed",
+    "Bank sanction of a fresh working‑capital loan is mandatory to claim the working‑capital margin assistance",
+    "Applicant must execute a legal agreement on a stamp paper worth ₹200 and provide originals of any requested documents"
+  ],
+  "benefits_summary": "Provides capital assistance up to ₹15 Lakhs per unit (₹12 Lakhs for MSMEs and ₹15 Lakhs for cashew units) for building renovation, plant & machinery, electrification and working‑capital margin.",
+  "documents_required": [],
+  "application_link": null
+}

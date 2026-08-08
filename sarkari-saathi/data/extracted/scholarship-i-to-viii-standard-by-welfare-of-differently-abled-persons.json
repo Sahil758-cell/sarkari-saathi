@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Scholarship (I to VIII Standard) by Welfare of Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The beneficiary must be a student.",
+    "The beneficiary must be a differently‑abled person.",
+    "The beneficiary must be studying in class 1st to 8th standard.",
+    "The beneficiary must be studying in government‑recognized schools.",
+    "The beneficiary should not be receiving similar assistance from other sources."
+  ],
+  "benefits_summary": "Scholarship for purchase of books and notebooks: ₹1,000 per annum for classes 1‑5 and ₹3,000 per annum for classes 6‑8.",
+  "documents_required": [],
+  "application_link": null
+}

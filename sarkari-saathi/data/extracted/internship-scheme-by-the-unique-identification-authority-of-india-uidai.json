@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Internship Scheme By The Unique Identification Authority Of India (UIDAI)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen.",
+    "Applicant must be a bonafide student of a recognized university/institution in India or abroad.",
+    "For technical B.Tech/B.E students, must be in the 3rd or 4th year with at least 60% marks in prior semesters.",
+    "For graduate students, must have completed/appeared in the 1st year/2nd semester of a postgraduate programme or be pursuing research/PhD with at least 60% marks in graduation.",
+    "Students who have completed graduation/post‑graduation and are awaiting admission or job must have cumulative ≥60% marks and the gap between result declaration and internship start must not exceed six months.",
+    "Internship duration must be at least six weeks and not exceed 12 months.",
+    "Interns who do not complete the required period will not receive a certificate.",
+    "For fellowship, the student must be registered for a PhD at an Indian institution.",
+    "Candidates applying for a 1‑year internship must apply within six months of completing the final exam."
+  ],
+  "benefits_summary": "Stipend ranging from ₹15,000 to ₹50,000 per month depending on qualification and work location, plus optional lodging facilities on a payment basis.",
+  "documents_required": [
+    "Duly filled and signed application form in the prescribed format",
+    "Self‑attested documents"
+  ],
+  "application_link": "webadmin-uidai@nic.in"
+}

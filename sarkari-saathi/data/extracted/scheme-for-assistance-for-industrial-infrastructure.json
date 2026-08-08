@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Scheme for Assistance for Industrial Infrastructure",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible institutions include any Industries Association, Chamber of Commerce, industry or SPV of industries registered under the Societies Act, Trust Act or Companies Act, large projects/group of industries, any Government Department, Government Agency or Authority, State and Central Government PSUs, Boards, Corporations, and Municipal Corporations.",
+    "Eligible activities comprise common infrastructure facilities such as approach roads, over‑bridges, road up‑gradation, bypass roads, earth stations, water/gas/electricity/energy distribution networks, common warehousing, incubation centres, product development centres, training centres, convention/exhibition centres, business support centres, testing laboratories, fire stations, water desalination plants, transport facilities, water augmentation, networking facilities, primary health centres, trauma/emergency centres, alternative energy projects, sewage and drainage networks, and other infrastructure approved by the SLEC.",
+    "Fixed capital investment in the project (excluding land cost) approved by the SLEC is eligible for assistance.",
+    "Costs of preparation of work estimates, technical sanction, and third‑party inspection are eligible up to 5 % of the project cost or ₹20,00,000, whichever is less.",
+    "Up‑gradation of existing infrastructure facilities is eligible only if the facility was established at least seven years prior."
+  ],
+  "benefits_summary": "Provides up to 80% of the eligible project cost (capped at ₹25 crore) per project, with supplementary assistance to meet 80% total, and up to 90% for MSE clusters.",
+  "documents_required": [],
+  "application_link": "Step 1: The Eligible Institution applies with a project report to the Industries Commissionerate. Step 2: The Industries Commissionerate scrutinizes the proposal and places it before the SLEC for decision. Step 3: The institution submits a claim of assistance to the Industries Commissionerate in the prescribed proforma as per the guidelines issued by the Industries Commissionerate."
+}

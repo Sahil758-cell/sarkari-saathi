@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Grant of Token Amount for Construction of House for the Construction Workers",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Dadra and Nagar Haveli and Daman and Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of the U.T. Administration of Dadra and Nagar Haveli and Daman and Diu",
+    "Must have engaged in building or other construction work for at least 90 days in a given year",
+    "Must have completed one year membership with the Board",
+    "Must not have a pucca house",
+    "Proposed house must be constructed on the applicant's own land"
+  ],
+  "benefits_summary": "Provides a token amount of up to ₹75,000 (or reduced amounts under specific housing schemes) for constructing a house on the applicant's own land.",
+  "documents_required": [
+    "Prescribed form",
+    "Prescribed documents",
+    "Form‑IV (self‑attested, if required)"
+  ],
+  "application_link": null
+}

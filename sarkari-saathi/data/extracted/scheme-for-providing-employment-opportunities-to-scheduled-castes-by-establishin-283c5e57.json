@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scheme for Providing Employment Opportunities to Scheduled Castes by Establishing Livestock Units",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be unemployed; any employment, including in the private sector, disqualifies the applicant.",
+    "Applicant must have a space or shed for keeping animals.",
+    "Applicant must not have previously availed benefits under any departmental scheme for establishing a livestock unit.",
+    "Applicant must submit a self‑declaration confirming unemployment and agreement to abide by scheme conditions.",
+    "Applicant must be a resident of Haryana; jurisdiction is the place where the animals are kept within the state.",
+    "The livestock unit must be financed through a loan from a bank or financial institution."
+  ],
+  "benefits_summary": "Provides a subsidy of up to ₹50,000 for piggery units, up to ₹88,200 for sheep/goat units, and a 50% subsidy for dairy units, subject to loan financing.",
+  "documents_required": [
+    "Self‑Declaration for unemployment and compliance with scheme conditions",
+    "Parivar Pehchan Patra (Family ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

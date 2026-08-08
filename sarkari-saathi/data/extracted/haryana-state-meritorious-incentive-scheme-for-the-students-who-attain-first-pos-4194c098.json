@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Haryana State Meritorious Incentive Scheme for the Students Who Attain First Position in CBSE Annual Exams in the State",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Top‑ranked boy or girl in CBSE Class 10th or 12th state‑level examinations",
+    "Must be a regular student continuing education",
+    "Must have passed from a school in Haryana",
+    "For Class 10, must have secured at least 92 % in English, Science & Technology, Mathematics, Social Science and the best one of the remaining subjects",
+    "For Class 12, must have secured at least 90 % in English and the four best subjects in Science (Medical & Non‑Medical), Commerce or Humanities",
+    "Parivar Pehchan Patra (Family ID) is mandatory for availing any scholarship benefit"
+  ],
+  "benefits_summary": "Financial incentive covering full tuition fees up to ₹25,000 per year for 10th‑class toppers and up to ₹1,00,000 per year for 12th‑class toppers, payable annually until graduation.",
+  "documents_required": [
+    "Parivar Pehchan Patra (Family ID)",
+    "Aadhaar Number"
+  ],
+  "application_link": null
+}

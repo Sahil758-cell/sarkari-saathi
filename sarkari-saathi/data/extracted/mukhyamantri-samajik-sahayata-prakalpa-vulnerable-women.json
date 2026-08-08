@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Samajik Sahayata Prakalpa - Vulnerable Women",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a woman (widow, deserted, unmarried, or any vulnerable woman).",
+    "Age must be between 18 and 59 years; if unmarried, age must be 45 years or above.",
+    "Family annual income must not exceed ₹1,00,000.",
+    "Resident of Tripura.",
+    "If the family has children aged 6 to 14 years, those children must be enrolled in a school recognized by the Government of Tripura.",
+    "Assistance stops upon death of beneficiary, remarriage of a widow, a family member obtaining a government job, or if family income exceeds ₹1,00,000."
+  ],
+  "benefits_summary": "Monthly pension of ₹2,000 transferred directly to the applicant’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

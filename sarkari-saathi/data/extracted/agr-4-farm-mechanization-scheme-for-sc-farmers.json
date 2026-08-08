@@ -1,0 +1,24 @@
+{
+  "scheme_name": "AGR 4 (Farm Mechanization) Scheme For SC Farmers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Eligible only in the 208 talukas of Gujarat where the centrally sponsored SMAM scheme has not been implemented.",
+    "The purchase must be made from an authorized dealer listed in the panel prepared for price discovery."
+  ],
+  "benefits_summary": "Financial assistance for the purchase of agricultural equipment such as power tillers, rice transplanters, tractors, and related implements.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx"
+}

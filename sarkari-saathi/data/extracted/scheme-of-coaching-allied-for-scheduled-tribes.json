@@ -1,0 +1,40 @@
+{
+  "scheme_name": "Scheme Of Coaching & Allied For Scheduled Tribes",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be a registered private institution or NGO",
+    "Institution must have at least three years experience running coaching for competitive examinations",
+    "Institution must not have been declared bankrupt at any time",
+    "Institution must not be blacklisted or debarred by any government body",
+    "Institution must have its own building/space to run coaching classes at Ranchi and Dumka",
+    "Candidates must be resident of Jharkhand",
+    "Candidates must belong to Scheduled Tribe (ST) category",
+    "Candidates must have the eligible qualifications for the respective competitive exams",
+    "Candidates' annual income (self or parents) must not exceed ₹2,50,000",
+    "Admission is based on merit with a maximum of 40 students per class",
+    "At least 30% of SC seats should be women candidates and 5% should be disabled candidates",
+    "No more than 10% of students in a batch can be from the same district of Jharkhand",
+    "Each candidate can receive free coaching for a particular exam only once and a maximum of two coaching courses in total",
+    "Institutions cannot charge any fees to beneficiaries",
+    "Institutions receive grant only for SC candidates"
+  ],
+  "benefits_summary": "Provides a monthly stipend of Rs 1,000 and a boarding/lodging allowance of Rs 2,000 to eligible ST candidates, with course‑specific coaching fees paid to institutions.",
+  "documents_required": [
+    "SC certificate issued by the competent authority",
+    "Undertaking from each candidate"
+  ],
+  "application_link": null
+}

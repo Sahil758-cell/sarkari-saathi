@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance to Non Governmental Organisations",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The school must have functioned for a minimum period of 5 years",
+    "The school must be registered under section 51 of the Rights of Persons with Disability Act, 2016"
+  ],
+  "benefits_summary": "Financial assistance is provided to NGOs for feeding charges, rent, and construction or extension of school buildings.",
+  "documents_required": [
+    "Prescribed application form",
+    "Mandatory documents (self‑attested if required)"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Labour Skill Training Scheme (MPBOCWWB)",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in any building or other construction work for at least 90 days during the preceding 12 months.",
+    "Registration must be renewed annually.",
+    "The applicant must be registered under the Building and Other Construction Workers Welfare Board of Madhya Pradesh and have an active membership at the time of application.",
+    "Dependents are eligible if they are aged 16 to 45 years.",
+    "The scheme is only for building/construction workers and their dependents."
+  ],
+  "benefits_summary": "The scheme provides free skill training to construction workers and their dependents.",
+  "documents_required": [
+    "ID proof",
+    "Other relevant certificates"
+  ],
+  "application_link": null
+}

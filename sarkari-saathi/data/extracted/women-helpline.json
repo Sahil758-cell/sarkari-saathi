@@ -1,0 +1,17 @@
+{
+  "scheme_name": "Women Helpline",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides emergency and non‑emergency assistance, information on government schemes, and referral services to women in distress.",
+  "documents_required": [],
+  "application_link": null
+}

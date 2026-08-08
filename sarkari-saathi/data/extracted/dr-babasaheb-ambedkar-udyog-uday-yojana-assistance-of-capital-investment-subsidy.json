@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance of Capital Investment Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The firm must be a Micro, Small or Medium enterprise.",
+    "The enterprise must be engaged in manufacturing.",
+    "The enterprise must be run by an SC or ST entrepreneur with at least 51% ownership by the SC/ST entrepreneur.",
+    "The enterprise must have started commercial production to be eligible for the subsidy.",
+    "The term loan must be sanctioned before the commencement of commercial production.",
+    "The application must be submitted online within one year of the first loan disbursement date, the commercial production start date, or the GR issue date, whichever is later, and before the scheme’s last operative date.",
+    "If a Central Government subsidy is also availed, the combined subsidy from State and Central Governments must not exceed the total loan amount disbursed."
+  ],
+  "benefits_summary": "Provides a capital investment subsidy of up to 30% of the term loan amount (maximum ₹40 lakh) for eligible enterprises, with lower percentages and caps for other categories.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Boarding House Stipend Scheme (Tripura Govt.)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "ST boarders studying in Class 1st to 12th",
+    "Residence must be beyond 3 km from the school",
+    "Students must be residing in government‑run hostels or approved NGO‑run boarding houses"
+  ],
+  "benefits_summary": "Stipend of Rs. 65 per day for up to 322 days per academic year for ST students from Class I to XII residing in government or approved NGO hostels.",
+  "documents_required": [],
+  "application_link": null
+}

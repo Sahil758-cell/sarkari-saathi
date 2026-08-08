@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Land/Built-Up Area Rebate Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All new and existing units must have their operations in Goa",
+    "The applicant unit must be one of: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, or Limited Liability Partnership",
+    "Bank accounts of the unit and/or its partners/directors must be linked to Aadhaar",
+    "Eligibility requires production of Udyog Aadhaar",
+    "The unit must have operated from the office space for more than one year before claiming rebate",
+    "Employees must have been on the rolls of the company for a minimum period of one year",
+    "The unit must achieve investment and employment targets mentioned in the business plan",
+    "Only one of the two rebate options (land or built‑up space) can be availed",
+    "Direct employment must be proportional to built‑up space at up to 80 sq ft per employee"
+  ],
+  "benefits_summary": "One‑time rebate of up to ₹1.5 crore for land purchase or ₹1 crore for built‑up office space, calculated per employee (higher per‑female‑employee rate) and subject to employment and investment targets.",
+  "documents_required": [
+    "Udyog Aadhaar"
+  ],
+  "application_link": null
+}

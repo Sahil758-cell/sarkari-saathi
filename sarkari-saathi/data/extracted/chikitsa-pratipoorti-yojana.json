@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Chikitsa Pratipoorti Yojana",
+  "occupation": [
+    "masons",
+    "carpenters",
+    "electricians",
+    "porters",
+    "painters"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Jharkhand",
+    "Applicant must be a worker registered with the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)",
+    "Applicant must be suffering from one of the specified serious illnesses (e.g., cancer, heart disease, kidney disease, incurable mental disease, AIDS, etc.)",
+    "Benefits are applicable once per disease per beneficiary"
+  ],
+  "benefits_summary": "Provides financial assistance for treatment of specified serious illnesses to registered construction workers, applicable once per disease per beneficiary.",
+  "documents_required": [
+    "BOC Registration Number",
+    "Applicant's Aadhaar Number"
+  ],
+  "application_link": null
+}

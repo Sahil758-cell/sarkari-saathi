@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Vocational Training Component of the Development of Industries Scheme",
+  "occupation": [
+    "unemployed"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 35,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed Class 10th (SSLC)",
+    "Must be a native of the Union Territory of Puducherry or have continuous residence in the area for the past three years"
+  ],
+  "benefits_summary": "Institution-oriented training in trades such as Tailoring & Embroidery, Beauty Parlour and Arts & Design, with a monthly stipend of ₹1,500 for the trainee.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents (self‑attested)"
+  ],
+  "application_link": null
+}

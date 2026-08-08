@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Youth Hostel Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicants below 18 years of age must be accompanied by a parent or guardian when staying in a youth hostel."
+  ],
+  "benefits_summary": "Provides affordable accommodation with social and cultural experiences for youth.",
+  "documents_required": [
+    "Recent photograph",
+    "Aadhaar (consent for biometric and KYC)"
+  ],
+  "application_link": null
+}

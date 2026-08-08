@@ -1,0 +1,21 @@
+{
+  "scheme_name": "AICTE-INAE Travel Grant Scheme For Engineering Students From AICTE Approved Engineering College/Institution",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "A student is eligible for financial support only once during the course of his/her study."
+  ],
+  "benefits_summary": "Up to ₹1,00,000 per student covering 100% registration and visa fees, 50% of airfare (or AC II‑Class train fare) and related travel expenses.",
+  "documents_required": [
+    "Letter of acceptance for presenting a research paper accepted in an international conference/seminar/symposium/workshop/exhibition"
+  ],
+  "application_link": null
+}

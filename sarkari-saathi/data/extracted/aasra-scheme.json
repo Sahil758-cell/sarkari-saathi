@@ -1,0 +1,31 @@
+{
+  "scheme_name": "AASRA Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 70,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Jammu & Kashmir"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of the Union Territory of Jammu & Kashmir.",
+    "Applicant must have a bank account with Aadhaar linked to it to enroll in PMSBY or PMJJBY.",
+    "Applicant must provide a nominee’s name in the enrollment form.",
+    "Applicant must submit an income certificate proving annual income less than ₹75,000 and no other source of income.",
+    "The premium will be auto‑debited from the applicant’s bank account each year.",
+    "Eligibility category noted in source: widows",
+    "Eligibility category noted in source: destitute",
+    "Eligibility category noted in source: breadwinners"
+  ],
+  "benefits_summary": "The government bears the premium for PMSBY and PMJJBY for up to five years, providing life/accident cover to eligible widows, destitute, BPL families and their breadwinners.",
+  "documents_required": [
+    "Passport size scan photo (jpg, <50 KB)",
+    "Income certificate"
+  ],
+  "application_link": "https://www.jk.gov.in/jkeservices/home"
+}

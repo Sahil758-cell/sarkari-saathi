@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Tamil Nadu Chief Minister's Fellowship Programme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 22,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must hold a first‑class degree in a professional bachelor's programme (Engineering, Medicine, Law, Agriculture, Veterinary Science) or a first‑class master’s degree in Arts/Science, or an equivalent qualification.",
+    "Working knowledge of Tamil is mandatory.",
+    "Candidates with a Ph.D. degree will be preferred.",
+    "Work experience will be an added advantage.",
+    "Strong emphasis will be given to research experience.",
+    "Age limits vary by category: general applicants 22‑30 years, SC/ST applicants up to 35 years, BC/MBC applicants up to 33 years."
+  ],
+  "benefits_summary": "Monthly stipend of ₹65,000 plus an additional allowance of ₹10,000 for incidental expenses.",
+  "documents_required": [],
+  "application_link": "www.tn.gov.in/tncmfp"
+}

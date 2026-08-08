@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Pension Scheme to Old Age Persons (Senior Citizen)",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "Dadra & Nagar Haveli and Daman & Diu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a domicile of Dadra & Nagar Haveli and Daman & Diu",
+    "Applicant must not be receiving financial assistance under any other old age pension scheme"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,500 for seniors aged 60–69 and ₹2,000 for those aged 70 and above, transferred directly to the beneficiary’s bank account via DBT.",
+  "documents_required": [
+    "Application form",
+    "Life certificate (annual)"
+  ],
+  "application_link": null
+}

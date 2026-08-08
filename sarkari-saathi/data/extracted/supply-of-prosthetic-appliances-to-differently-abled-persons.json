@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Supply of Prosthetic Appliances to Differently Abled Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native or resident of the Union Territory of Puducherry for at least 5 years",
+    "Applicant must have a disability of 40% or above"
+  ],
+  "benefits_summary": "Free supply of prosthetic appliances such as calipers, crutches, wheelchairs, tricycles, hearing aids, spectacles, and other low‑vision aids.",
+  "documents_required": [
+    "Prescribed application form (hard copy or printed)",
+    "Passport‑sized photograph (signed if required)",
+    "Copies of all mandatory supporting documents (self‑attested)"
+  ],
+  "application_link": null
+}

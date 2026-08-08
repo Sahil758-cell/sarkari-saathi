@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Disability Relief - Telangana",
+  "occupation": [
+    "building worker",
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Telangana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The worker must be a registered building or construction worker with the Telangana Building and Other Construction Workers Welfare Board",
+    "The disablement must have occurred due to an accident at the worksite",
+    "The disablement may be either temporary or permanent"
+  ],
+  "benefits_summary": "Relief up to ₹5,00,000 for total permanent disability and up to ₹4,00,000 for partial permanent disability.",
+  "documents_required": [],
+  "application_link": null
+}

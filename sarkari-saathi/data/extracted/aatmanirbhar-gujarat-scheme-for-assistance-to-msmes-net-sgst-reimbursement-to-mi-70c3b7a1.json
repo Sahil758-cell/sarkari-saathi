@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Net SGST reimbursement to Micro, Small and Medium Manufacturing Enterprise (MSMEs)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The enterprise must have acknowledgment or registration from the Ministry of MSME or the Department for Promotion of Industry and Internal Trade (DPIIT)",
+    "New manufacturing enterprises or existing ones undertaking expansion or diversification are eligible",
+    "The enterprise must commence commercial production during the scheme's operative period (5 Oct 2022 to 4 Oct 2027)",
+    "The subsidy is based on the lower of the Gross Fixed Capital Investment (GFCI) or the cost appraised by a bank or financial institution",
+    "Enterprises must obtain separate GST registration for manufacturing eligible products",
+    "Separate books of accounts are required for each manufacturing unit, certified by a Chartered Accountant",
+    "Incentives apply only to goods manufactured on the enterprise's premises, not for resold goods",
+    "Compliance with all reporting and reimbursement requirements is mandatory",
+    "Eligibility category noted in source: Micro",
+    "Eligibility category noted in source: Small",
+    "Eligibility category noted in source: Medium"
+  ],
+  "benefits_summary": "Provides reimbursement of net SGST for up to 10 years, with rates ranging from 80% to 100% of net SGST depending on the taluka category of the project.",
+  "documents_required": [
+    "Chartered Accountant certified books of accounts",
+    "GST registration certificate for manufacturing eligible products"
+  ],
+  "application_link": null
+}

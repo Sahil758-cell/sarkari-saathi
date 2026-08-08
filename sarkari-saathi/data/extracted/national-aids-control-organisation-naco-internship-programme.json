@@ -1,0 +1,26 @@
+{
+  "scheme_name": "National AIDS Control Organisation (NACO) Internship Programme",
+  "occupation": [
+    "student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a student pursuing undergraduate, postgraduate, M.Phil or PhD courses in relevant disciplines such as Preventive & Social Medicine, Public Health, Health Management, Statistics, Social Sciences etc., from a recognized and reputed university",
+    "Preference will be given to candidates with an excellent academic track record or relevant research/project work"
+  ],
+  "benefits_summary": "Stipend of ₹8,000 per month, certificate on successful completion, and provision of office logistics support.",
+  "documents_required": [
+    "Application form (prescribed format)",
+    "Covering Letter",
+    "Attachments"
+  ],
+  "application_link": "naco.internship@gmail.com"
+}

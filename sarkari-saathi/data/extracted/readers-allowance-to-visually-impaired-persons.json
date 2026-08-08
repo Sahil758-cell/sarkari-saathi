@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Readers Allowance to Visually Impaired Persons",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a visually impaired student",
+    "Applicant must be enrolled in 9th standard or above in a recognized/bonafide institution"
+  ],
+  "benefits_summary": "Provides an annual readers allowance of ₹3,000 for 9th‑10th standards, ₹5,000 for degree courses, and ₹6,000 for postgraduate/professional courses.",
+  "documents_required": [],
+  "application_link": null
+}

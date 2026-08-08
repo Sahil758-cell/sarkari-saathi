@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Award of Opportunity Cost to Parents of Scheduled Caste Girl Students",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 24000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Girl student must be studying in Class VI to XII in a Government or Government recognized educational institution in Puducherry.",
+    "Girl student and her parent/guardian must be native of Puducherry by birth or continuous residence of at least 3 years.",
+    "Opportunity cost is payable only if the girl student has been promoted to the next higher class.",
+    "Opportunity cost is not payable for girls re‑admitted in a class for a second academic year due to failure or discontinuance."
+  ],
+  "benefits_summary": "₹3,000 per academic year is paid to the Scheduled Caste parent for each daughter studying in classes VI‑XII.",
+  "documents_required": [],
+  "application_link": "https://scholarships.gov.in/"
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Shop Construction/Shop Operation Scheme For Rehabilitation Of PwDs",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Certificate of minimum 40% disability issued by Chief Medical Officer or Doctor of Community Health Centre/Primary Health Centre (valid)",
+    "Applicant must be a citizen of Uttar Pradesh",
+    "Applicant must not be convicted in any criminal or financial matters and must have no outstanding government dues",
+    "Applicant must own or be able to acquire at least 110 sq. ft. of land for shop construction",
+    "Tenant must be given a lease tenure of 5 years for shop operation (rent and working capital)",
+    "Annual income must not exceed twice the income limit prescribed by the government from time to time to the poverty line"
+  ],
+  "benefits_summary": "Provides up to Rs. 20,000 for shop establishment (Rs. 15,000 loan @4% + Rs. 5,000 grant) and up to Rs. 10,000 for shop operation (Rs. 7,500 loan @4% + Rs. 2,500 grant).",
+  "documents_required": [
+    "Certificate of minimum 40% disability (issued by Chief Medical Officer or Doctor of Community Health Centre/Primary Health Centre)",
+    "Income proof certificate"
+  ],
+  "application_link": null
+}

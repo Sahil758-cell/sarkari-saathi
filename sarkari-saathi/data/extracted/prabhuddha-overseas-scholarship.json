@@ -1,0 +1,39 @@
+{
+  "scheme_name": "Prabhuddha Overseas Scholarship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 1500000,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of Karnataka",
+    "Must possess a valid passport",
+    "Age limit: up to 21 years for undergraduate courses and up to 35 years for postgraduate/PhD courses",
+    "Must have scored at least 55% marks in qualifying exams for postgraduate/PhD courses or 80% in undergraduate qualifying exams",
+    "Must have cleared GRE/GMAT/TOEFL/IELTS with minimum required scores",
+    "Must have secured admission to a full‑time degree program at an overseas university/college"
+  ],
+  "benefits_summary": "Provides financial assistance (up to 100% scholarship) for eligible SC/ST students to pursue overseas undergraduate, postgraduate and doctoral programs.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Latest Income Certificate",
+    "Last 2 years IT Returns",
+    "Degree/Master Degree Convocation Certificate",
+    "Degree/Master Degree All Semester Marks Card",
+    "Offer letter from the university",
+    "Copy of the Passport",
+    "Tuition fee and maintenance fee as sent by the university"
+  ],
+  "application_link": null
+}

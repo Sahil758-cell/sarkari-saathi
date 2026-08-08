@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Payroll Subsidy",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "All micro enterprises located anywhere in Tamil Nadu are eligible",
+    "Small and medium enterprises must be set up in the 254 industrially backward blocks or in any government‑promoted industrial estate such as SIPCOT, TANSIDCO, etc.",
+    "Agro‑based small and medium enterprises must be set up in any of the 388 blocks of the state",
+    "The enterprise must employ more than 20 persons",
+    "Only regular workers are considered; casual, temporary or contract workers are excluded",
+    "If employee strength falls below 20 in any month, the claim is limited to the months where the 20‑person condition is met"
+  ],
+  "benefits_summary": "Reimbursement of employee's EPF contribution up to ₹24,000 per employee per year for the first three years of commercial production.",
+  "documents_required": [],
+  "application_link": null
+}

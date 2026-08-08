@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Internship Programme Of The Wildlife Crime Control Bureau (MoEFCC)",
+  "occupation": [
+    "student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be an Indian citizen",
+    "Applicant must be pursuing graduation, post‑graduation or diploma in Zoology, Botany, Law or any subject related to Wildlife Management/Conservation/Protection",
+    "Applicant must not be in a regular job in the public or private sector"
+  ],
+  "benefits_summary": "Certificate of Internship is issued upon satisfactory completion; no remuneration is provided.",
+  "documents_required": [],
+  "application_link": "The Additional Director, Wildlife Crime Control Bureau, 2nd Floor, Trikoot-I, Bhikaji Cama Place, New Delhi - 110066"
+}

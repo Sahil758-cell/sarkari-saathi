@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant of Fuel Subsidy to Differently Abled Persons Who Are Owning Motorised Vehicles",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 75000,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native/resident of the Union Territory of Puducherry for at least 5 years",
+    "Vehicle must be registered in the applicant's name",
+    "Distance between the applicant's residence and the duty point must be greater than 6 km",
+    "Disability percentage must be 40% or higher",
+    "Applicant must not be receiving any transport allowance from the Department or any other source"
+  ],
+  "benefits_summary": "Up to 50% subsidy on fuel cost, capped at 15 litres for vehicles under 2 HP and 25 litres for vehicles of 2 HP or more",
+  "documents_required": [
+    "Passport-sized photograph (signed across, if required)",
+    "Completed application form"
+  ],
+  "application_link": null
+}

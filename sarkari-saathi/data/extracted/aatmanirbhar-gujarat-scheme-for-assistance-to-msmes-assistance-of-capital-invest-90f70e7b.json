@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Assistance of Capital Investment Subsidy to Micro enterprises",
+  "occupation": [
+    "Micro enterprise",
+    "Small enterprise",
+    "Medium enterprise"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must be registered or acknowledged by the Ministry of MSME or DPIIT",
+    "Enterprise must be a new manufacturing unit or an existing unit undertaking expansion or diversification",
+    "Commercial production must have commenced during the operative period (5 Oct 2022 to 4 Oct 2027)",
+    "Application must be submitted online within one year of the first loan disbursement, commercial production start, or GR issue date, whichever is later, and before the scheme's last operative date"
+  ],
+  "benefits_summary": "Provides a capital investment subsidy of up to 25% of the term loan amount (max ₹35 lakh) for Category 1, 20% (max ₹30 lakh) for Category 2, and 10% (max ₹10 lakh) for other categories.",
+  "documents_required": [],
+  "application_link": null
+}

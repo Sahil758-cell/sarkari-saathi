@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Banglashree for Micro, Small and Medium Enterprises: Power Subsidy (PS)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The business/organization must belong to the manufacturing sector.",
+    "Production must have started on or after 1 April 2019.",
+    "The enterprise can be in the private, cooperative, joint sector, or be owned/managed by the State Government or Industrial SHGs.",
+    "The Date of Commencement of Commercial Production (DOCCP) must fall between 1 April 2020 and 31 March 2025.",
+    "The first application must be submitted within 12 months from the DOCCP or within 12 months from the notification of Banglashree, whichever is later."
+  ],
+  "benefits_summary": "Provides a power subsidy of ₹1.00 / kWh in Zones A & B or ₹1.50 / kWh in Zones C, D & E for up to five years, with annual caps of ₹10 lakh for micro, ₹20 lakh for small and ₹30 lakh for medium enterprises.",
+  "documents_required": [],
+  "application_link": null
+}

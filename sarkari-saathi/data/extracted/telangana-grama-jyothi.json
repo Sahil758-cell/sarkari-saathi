@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Telangana Grama Jyothi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of a Gram Panchayat."
+  ],
+  "benefits_summary": "Enhances service delivery, accountability and transparency at the Gram Panchayat level through coordinated development planning and functional committees.",
+  "documents_required": [],
+  "application_link": "Contact the Gram Panchayat office or your Block office."
+}

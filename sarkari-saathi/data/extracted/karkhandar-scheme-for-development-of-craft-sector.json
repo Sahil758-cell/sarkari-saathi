@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Karkhandar Scheme For Development Of Craft Sector",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a pass‑out trainee or ex‑trainee from a departmental training centre.",
+    "The departmental training centre must be run by the Handicrafts & Handloom Department.",
+    "The applicant must have an Aadhaar‑linked bank account."
+  ],
+  "benefits_summary": "Provides a stipend of ₹2000 per trainee per month and a lump‑sum honorarium of ₹25,000 per batch to the trainer, disbursed via DBT.",
+  "documents_required": [
+    "Application Form",
+    "Affidavit",
+    "Self‑attested copies of supporting documents",
+    "Passport‑size photograph"
+  ],
+  "application_link": "http://www.jkindustriescommerce.nic.in/Orders%202021/161%20IND%20OF%202021.pdf"
+}

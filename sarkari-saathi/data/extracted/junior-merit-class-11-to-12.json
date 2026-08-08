@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Junior Merit (Class - 11 To 12)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 600000,
+  "category": [
+    "general",
+    "SC",
+    "ST",
+    "OBC"
+  ],
+  "state": [
+    "Odisha"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed HSC with at least 60% marks from a BSE Odisha, CBSE, ICSE, or equivalent board",
+    "Must be pursuing regular Class XI (10+2) courses",
+    "Must be a permanent resident of Odisha",
+    "Must apply in the first year of the course (Class XI) through the State Scholarship Portal",
+    "Aadhaar authentication is mandatory",
+    "Application must be validated/authenticated by the concerned higher secondary school/institute"
+  ],
+  "benefits_summary": "Students receive a scholarship of ₹3000 per year for Class XI & XII, with up to 10,000 scholarships allotted (boys and girls in a 50:50 ratio).",
+  "documents_required": [
+    "Aadhaar Card"
+  ],
+  "application_link": "https://scholarship.odisha.gov.in/website/student-registration"
+}

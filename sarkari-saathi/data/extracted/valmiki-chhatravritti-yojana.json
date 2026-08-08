@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Valmiki Chhatravritti Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 40,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Must be a resident of Jharkhand or have passed class 10 (for diploma courses) or classes 10 and 12 (for degree or higher‑level courses) from recognized schools/colleges in Jharkhand",
+    "Applicant must be an orphaned or differently‑abled student",
+    "Age must not exceed 40 years as of the application deadline",
+    "Applicant must not be enrolled under the AICTE tuition fee waiver",
+    "Applicant must not be a current beneficiary of any similar central, state, or institutional scheme",
+    "Student must be enrolled in a recognized higher education institution in Jharkhand, or an institution ranked in the top 200 overall or top 100 in discipline‑specific categories in NIRF rankings, or with NAAC ‘A’ grade or above, or an Institute of National Importance or Institution of Eminence",
+    "For orphan students, valid death certificates of parents and relationship proof verified by the District Social Welfare Officer are required",
+    "For differently‑abled students, a valid Unique Disability ID (UDID) card verified by the District Social Welfare Officer in coordination with the Chief Medical Officer is required",
+    "Renewal requires the applicant to be promoted to the next academic year and to submit an annual renewal request with the previous year’s mark sheet"
+  ],
+  "benefits_summary": "Full tuition fee reimbursement up to ₹10,00,000 per year and a monthly sustenance allowance of ₹4,000.",
+  "documents_required": [
+    "Valid death certificates of parents",
+    "Relationship proof verified by the District Social Welfare Officer",
+    "Unique Disability ID (UDID) card"
+  ],
+  "application_link": null
+}

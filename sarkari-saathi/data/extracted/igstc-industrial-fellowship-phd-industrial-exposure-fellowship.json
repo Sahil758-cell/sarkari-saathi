@@ -1,0 +1,32 @@
+{
+  "scheme_name": "IGSTC Industrial Fellowship- PhD Industrial Exposure Fellowship",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 30,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be an Indian citizen.",
+    "Must be a PhD student (science/engineering) enrolled in an Indian research institution or university.",
+    "Must have completed at least one year of the PhD curriculum.",
+    "Must submit a detailed activity plan for the fellowship.",
+    "Must obtain an endorsement/consent letter from the host industry/organization.",
+    "Must obtain NOC from the head of the institution.",
+    "Must obtain a recommendation letter from the mentor at the parent organization.",
+    "Must commence the fellowship within 3 months of result announcement.",
+    "Must abide by the conduct, rules & regulations of the German host organization and country.",
+    "Must submit a fellowship completion report within 4 weeks after completion."
+  ],
+  "benefits_summary": "Monthly stipend of €1500, plus up to €1000 for round‑trip airfare and up to €100 per month for health insurance.",
+  "documents_required": [
+    "Endorsement/consent letter from host industry/organization",
+    "NOC from the Head of the institution",
+    "Recommendation letter from the mentor"
+  ],
+  "application_link": null
+}

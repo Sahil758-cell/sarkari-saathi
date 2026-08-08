@@ -1,0 +1,34 @@
+{
+  "scheme_name": "ICAR Junior Research Fellowship For Post-Graduate Studies In Agricultural Sciences",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Candidates must have passed their Bachelor’s degree or be appearing in the final examination under the 10+2+5, 10+2+4 or 10+2+3 (basic science) scheme",
+    "Applicants must achieve at least 60% marks or the equivalent OGPA thresholds for General, OBC and Under‑Privileged States categories, and at least 55% marks or the equivalent OGPA thresholds for SC, ST and Physically Handicapped categories",
+    "For admission to the M.V.Sc. program, candidates must have completed B.V.Sc. & A.H. with internship before registration",
+    "The fellowship is only available for admission to the listed Agricultural Universities (State Agricultural Universities, Deemed Universities, and Central Universities with agriculture faculties) and not to any other universities",
+    "No relaxation is permitted for the minimum age limit of 19 years"
+  ],
+  "benefits_summary": "Monthly fellowship of ₹12,000 for Veterinary Sciences and ₹8,640 for other disciplines, plus an annual contingency grant of ₹6,000.",
+  "documents_required": [
+    "scanned photograph",
+    "signature",
+    "thumb impression",
+    "hard copy of online application",
+    "proof of fee payment"
+  ],
+  "application_link": null
+}

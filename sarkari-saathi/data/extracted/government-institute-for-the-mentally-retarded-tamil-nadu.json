@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Government Institute for the Mentally Retarded - Tamil Nadu",
+  "occupation": null,
+  "gender": null,
+  "age_min": 4,
+  "age_max": 18,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Child must have an intellectual disability."
+  ],
+  "benefits_summary": "Provides special education, vocational training, food, uniforms, boarding, medicine and lodging facilities along with daily living skills training for children with intellectual disability.",
+  "documents_required": [],
+  "application_link": null
+}

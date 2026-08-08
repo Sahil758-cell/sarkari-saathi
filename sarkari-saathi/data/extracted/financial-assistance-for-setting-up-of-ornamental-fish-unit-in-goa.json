@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Financial Assistance for setting up of Ornamental Fish Unit in Goa",
+  "occupation": [
+    "Fish Farmer",
+    "Individual",
+    "Registered Self Help Group",
+    "Societies"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a resident of Goa for the last fifteen years",
+    "Applicant must have adequate water facilities for setting up the unit",
+    "Applicant must have own or leased land adequate to set up an ornamental unit",
+    "Applicant must have undergone a training programme on Ornamental Fish Farming organized by the Fisheries Department, MPEDA, or ICAR"
+  ],
+  "benefits_summary": "Provides 50% financial assistance up to ₹1,50,000 for setting up a breeding or rearing unit, or up to ₹2,50,000 for setting up both units.",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport-sized photograph",
+    "Copies of mandatory documents"
+  ],
+  "application_link": null
+}

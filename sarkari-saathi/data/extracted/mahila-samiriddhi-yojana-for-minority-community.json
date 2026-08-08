@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mahila Samiriddhi Yojana for Minority Community",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 16,
+  "age_max": 45,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a permanent resident of Haryana",
+    "Applicant must belong to a Minority Community (Muslims, Sikhs, Christians, Buddhists, Parsis, or Jains)",
+    "Applicant must have relevant educational, technical, or vocational qualifications/experience",
+    "Applicant must possess a Pariwar Pehchan Patra (PPP ID)"
+  ],
+  "benefits_summary": "Provides loans up to ₹1,00,000 per beneficiary to women entrepreneurs, either directly or through Self‑Help Groups.",
+  "documents_required": [
+    "Pariwar Pehchan Patra (PPP ID)"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

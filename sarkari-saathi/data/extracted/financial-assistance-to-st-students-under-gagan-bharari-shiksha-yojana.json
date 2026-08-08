@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Financial Assistance to ST Students under \"Gagan Bharari Shiksha Yojana\"",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be a regular full-time student studying in a recognized institution or university.",
+    "Applicant should have availed or be eligible for the Centrally Sponsored Post Matric Scholarship during the current academic year.",
+    "Student must not be repeating a class; cannot receive the scholarship again for the same class."
+  ],
+  "benefits_summary": "Additional maintenance allowance of ₹7,500 for day scholars or ₹15,000 for hostellers for a period of 10 months.",
+  "documents_required": [],
+  "application_link": null
+}

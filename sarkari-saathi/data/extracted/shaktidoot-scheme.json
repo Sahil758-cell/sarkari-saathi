@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Shaktidoot Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 19,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": false,
+  "residency": null,
+  "other_conditions": [
+    "Must have participated in games recognized by the School Games Federation of India or included in the Commonwealth Games, Asian Games, Afro‑Asian Games, or Olympics as determined by a government‑appointed committee",
+    "Must be below 20 years of age",
+    "Must have won state‑level competitions based on sporting achievements",
+    "Must have achieved success in junior or sub‑junior open‑category competitions organized by a recognized All India Federation",
+    "Must not use banned substances or have any impairment that disqualifies them from participation",
+    "Athlete’s sports achievements over the previous two years will be considered for selection",
+    "Committee may grant exceptional status for athletes with extraordinary achievements"
+  ],
+  "benefits_summary": "Provides up to ₹25  lakh per year for Olympic‑level athletes along with equipment, medical coverage, nutrition, psychological support, and training/travel assistance for up to 2‑7 years.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Krishi Yantra",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "general"
+  ],
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Own agricultural land in the applicant's own name",
+    "If applicant belongs to an undivided family, the applicant's name must appear in the revenue record",
+    "For tractor‑operated implements, the tractor must be registered in the applicant's name",
+    "Applicant must not have received a grant for the same type of agricultural implement in the last three years",
+    "Applicant must not have received grants for more than three different types of agricultural implements in a financial year",
+    "Equipment must be purchased from an authorized dealer"
+  ],
+  "benefits_summary": "Provides a subsidy of up to 40% of the equipment price (subject to maximum monetary limits) to eligible farmers purchasing agricultural machinery.",
+  "documents_required": [
+    "Purchase bill",
+    "Revenue record"
+  ],
+  "application_link": null
+}

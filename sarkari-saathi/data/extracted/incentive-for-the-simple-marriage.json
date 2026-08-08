@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Incentive For The Simple Marriage",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 200000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Karnataka"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Marriage must be on or after 11-08-2015.",
+    "Application must be submitted within 1 year of marriage.",
+    "Couple must opt for a simple marriage ceremony."
+  ],
+  "benefits_summary": "Provides a financial incentive of Rs. 50,000 to eligible SC couples who have a simple marriage and apply within one year.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Caste Certificate",
+    "Income Certificate",
+    "Bank Passbook",
+    "Marriage Registration Certificate",
+    "Marriage Photo",
+    "mobile number"
+  ],
+  "application_link": null
+}

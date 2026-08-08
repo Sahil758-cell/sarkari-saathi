@@ -1,0 +1,24 @@
+{
+  "scheme_name": "SITARE-Appreciation Grant",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a student pursuing a Bachelor's programme in any discipline",
+    "Must have a valid ID issued by the Institution/University",
+    "Can avail only one BIIS workshop training opportunity across all SITARE Partners, except award grantees may access subsequent workshops by recommendation",
+    "Preference will be given to students from Tier II/Tier III cities and aspirational districts within India"
+  ],
+  "benefits_summary": "Selected students receive up to INR 1 lakh grant and residential training covering travel, accommodation, meals, and mentorship.",
+  "documents_required": [
+    "Valid ID issued by the Institution/University"
+  ],
+  "application_link": "https://www.birac.nic.in"
+}

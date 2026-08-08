@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Shikshashree Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a day‑scholar resident of West Bengal",
+    "Must be a regular full‑time student studying in a Government, Government‑aided or Government‑recognized school in West Bengal",
+    "Must belong to the Scheduled Caste category",
+    "Annual family income must not exceed Rs 2.5 lakhs",
+    "Applicant must not be receiving any other scholarship or stipend for the same period",
+    "Applicant must have a bank account in a nationalized bank with core‑banking facilities",
+    "Scholarship is granted for one year only per class; a student repeating a class is not eligible for a second year of scholarship for that class",
+    "Continuation of the award is subject to good conduct, attendance, and meeting eligibility criteria in subsequent years"
+  ],
+  "benefits_summary": "Provides a yearly financial assistance of ₹750 for classes V‑VII and ₹800 for class VIII, disbursed directly to the student’s bank account.",
+  "documents_required": [],
+  "application_link": "https://oasis.gov.in/"
+}

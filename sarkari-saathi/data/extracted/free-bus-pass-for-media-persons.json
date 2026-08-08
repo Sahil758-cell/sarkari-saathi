@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Free Bus Pass for Media Persons",
+  "occupation": [
+    "media person"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native of the Union Territory of Puducherry by birth or have continuous residence for at least five years",
+    "Applicant must have served a minimum of three years as a media person in Print/Electronic Media/News Agency in Puducherry",
+    "Applicant must be employed as a media person in any Print/Electronic Media/News Agency at the time of application",
+    "The term \"Media person\" includes full‑time Editor, News Editor, Sub Editor, Reporter, Press Photographer, Videographer, or Correspondent of Print/Electronic Media/News Agency within Puducherry"
+  ],
+  "benefits_summary": "Free bus pass valid for one year for professional travel needs",
+  "documents_required": [],
+  "application_link": null
+}

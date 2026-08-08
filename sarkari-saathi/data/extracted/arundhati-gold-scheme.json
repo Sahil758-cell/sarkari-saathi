@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Arundhati Gold Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 500000,
+  "category": null,
+  "state": [
+    "Assam"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The marriage must be registered under the Special Marriage Act, 1954.",
+    "The applicant’s marriage must be solemnised on or after 1 December 2019 and registered on or after 1 January 2020.",
+    "The applicant girl must apply for the benefit on the same day she applies for marriage registration.",
+    "The benefit is available only for the applicant’s first marriage.",
+    "Both bride and groom must have passed at least HSLC or equivalent, except members of Tea Tribe and Adivasi communities who are exempt from this educational requirement.",
+    "Eligibility category noted in source: Tea Tribe",
+    "Eligibility category noted in source: Adivasi"
+  ],
+  "benefits_summary": "A one‑time cash incentive of ₹40,000 is transferred to the bride’s account for purchasing gold, and it must be used only for that purpose.",
+  "documents_required": [
+    "Physical application form submitted with the marriage application",
+    "Online application form (printout) with signed declaration"
+  ],
+  "application_link": null
+}

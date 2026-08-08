@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pathani Samanta Mathematics Talent (Class - 11 To 12)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "general"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must be studying in Class XI or XII in Higher Secondary Schools affiliated to the Council of Higher Secondary Education, Odisha (CHSE(O)).",
+    "Student must have proficiency in Mathematics.",
+    "Student must be enrolled in an Odia‑medium Government, Aided or Recognized institution.",
+    "No income or BPL criteria are required for the scholarship."
+  ],
+  "benefits_summary": "Eligible Class XI and XII students receive ₹5,000 per month for 10 months each year.",
+  "documents_required": [],
+  "application_link": "https://scholarship.odisha.gov.in/website/student-registration"
+}

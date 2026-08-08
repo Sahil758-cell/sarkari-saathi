@@ -1,0 +1,25 @@
+{
+  "scheme_name": "National Science Chair- Scientific Excellence",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Nominee must be an active resident Indian scientist or academician with an outstanding research track record in STEM or medicine, particularly during the last five years",
+    "Must have received recognition from national or international scientific bodies such as fellowships in prestigious academies or S&T awards",
+    "Must not hold any administrative roles or receive any honorarium, fellowship, or salary from any other institute or organization at the time of award initiation",
+    "Must be affiliated with an academic institution or R&D lab, or have consent from the future host institution",
+    "The nominee should be a senior superannuated scientist willing to continue research activities"
+  ],
+  "benefits_summary": "The award provides a fellowship of ₹1.5 Lakhs per month together with a research grant of ₹25 Lakhs per annum (₹1 Lakh overhead to the host institution).",
+  "documents_required": [
+    "Research proposal (PDF, maximum 5 pages)"
+  ],
+  "application_link": "https://www.serbonline.in"
+}

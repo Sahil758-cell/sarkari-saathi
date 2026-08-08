@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Tractor Purchase",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Intention to use the loan specifically for purchasing a tractor"
+  ],
+  "benefits_summary": "Provides up to 90% financing for tractor purchase with interest rates between 11% and 12.25%.",
+  "documents_required": [
+    "application form",
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

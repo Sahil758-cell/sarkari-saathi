@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Vasantrao Naik Merit Awards To The Vjnt Students Who Came First In State Or First In Board Of 10th And 12th Standard Examination",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Student must belong to the VJNT category and be the first performer in the state or the board for the 10th or 12th standard examinations"
+  ],
+  "benefits_summary": "Award of ₹1,00,000 (trophy and certificate) for the top boy and girl in the state and ₹51,000 (trophy and certificate) for the top boy and girl in each board for both SSC and HSC exams.",
+  "documents_required": [
+    "Personal Details",
+    "Address Information",
+    "Other Information",
+    "Qualifications"
+  ],
+  "application_link": null
+}

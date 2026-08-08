@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Free Medical Card for Media Persons",
+  "occupation": [
+    "Press Correspondent"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a citizen of India",
+    "Applicant must be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years"
+  ],
+  "benefits_summary": "Free medical facilities for press correspondents and their families in government hospitals of Puducherry, including entitlement to A‑Class special wards.",
+  "documents_required": [],
+  "application_link": null
+}

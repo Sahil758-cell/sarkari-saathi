@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Back Ended Interest Subsidy (BEIS)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a micro or small manufacturing enterprise.",
+    "Must have availed a term loan under Technology up‑gradation/modernization schemes, National Equity Funds Scheme (Micro/Small Enterprises Funding Scheme), ISO Certification/R&D under NSIC‑SIDCO Consortium, or Credit Guarantee Fund Trust Scheme.",
+    "New enterprises that have set up facilities or existing enterprises upgrading plant and machinery with state‑of‑the‑art technology, as listed in the Credit Linked Capital Subsidy Scheme (CLCSS) guidelines, are eligible."
+  ],
+  "benefits_summary": "Provides a 5% interest subsidy on term loans for up to 5 years, with a maximum subsidy of ₹20 lakh (₹25 lakh for technology up‑gradation loans) and a per‑loan cap of ₹10 lakh.",
+  "documents_required": [],
+  "application_link": null
+}

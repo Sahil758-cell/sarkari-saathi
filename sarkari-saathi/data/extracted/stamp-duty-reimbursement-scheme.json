@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Stamp Duty Reimbursement Scheme",
+  "occupation": [
+    "Start-up",
+    "Incubator",
+    "Accelerator"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Start-up certified by the Start‑up Promotion Cell (SPC) or an incubator/accelerator enlisted with SPC.",
+    "The applicant can apply for this scheme only once in their lifetime.",
+    "Bank accounts of the Directors of the company must be linked to Aadhaar.",
+    "Only expenditures incurred from one year before the notification of Goa Start‑up Policy 2017, within the policy’s validity and paid digitally are eligible for reimbursement; otherwise, SPC may approve on a case‑by‑case basis.",
+    "A start‑up can avail the benefits of this scheme only once.",
+    "Application must be submitted within six months of incurring the relevant expenditure.",
+    "Up to 100 start‑ups can avail the benefits of this scheme per year."
+  ],
+  "benefits_summary": "Reimbursement of stamp duty exceeding ₹100 for land or developed‑area lease/sale transactions undertaken by eligible start‑ups, incubators or accelerators.",
+  "documents_required": [],
+  "application_link": null
+}

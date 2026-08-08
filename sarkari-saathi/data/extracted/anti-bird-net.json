@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Anti Bird Net",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Rajasthan.",
+    "Applicant must own cultivable land.",
+    "Applicant must have his own fruit orchard.",
+    "Applicant must have an irrigation source.",
+    "Work can be started only after administrative approval/work order issued by the Horticulture Department.",
+    "Verification of the establishment can be done by the committee formed.",
+    "Grant amount can be paid directly into the farmer's bank account or to the producing firm based on the farmer's written consent."
+  ],
+  "benefits_summary": "50% subsidy on installation costs, up to a maximum area of 5,000 sq m.",
+  "documents_required": [],
+  "application_link": null
+}

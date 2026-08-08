@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Annal Ambedkar Business Champions Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 55,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprises must be 100% owned by SC/ST persons",
+    "Legal forms allowed: sole proprietorship, partnership, company",
+    "Both new enterprises and expansion of existing enterprises are eligible",
+    "Eligible sectors: manufacturing and services, including trading projects above the UYEGP threshold",
+    "No minimum educational qualification required",
+    "Beneficiaries may also claim other capital subsidies from non‑Tamil Nadu schemes",
+    "Training will be provided by the Entrepreneurship Development and Innovation Institute"
+  ],
+  "benefits_summary": "Provides a 35% capital subsidy (up to ₹1.5 Crore) and a 6% interest subvention on loans.",
+  "documents_required": [
+    "Name",
+    "Date of Birth",
+    "Email ID",
+    "Aadhaar Number",
+    "Mobile Number"
+  ],
+  "application_link": null
+}

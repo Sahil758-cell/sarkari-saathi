@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Deen Dayal Disabled Rehabilitation Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Organization must be registered under the Societies Registration Act, 1860 or the relevant Act of the State/Union Territory",
+    "Organization may be a public trust registered under the law temporarily",
+    "Organization may be a charitable company licensed under Section 25 of the Companies Act 1958",
+    "Organization must have been in existence for at least two years",
+    "Organization must have a properly constituted governing body with powers, duties, and responsibilities documented in writing",
+    "Organization must have sufficient resources, facilities, and experience to undertake the proposed project",
+    "Organization must not be run for profit of any individual or a body of individuals",
+    "Organization must not discriminate against any individual or group on the basis of sex, religion, caste, or creed"
+  ],
+  "benefits_summary": "Provides financial assistance to voluntary organizations for programs that enable education, skill development, early intervention, infrastructure upgrades, and capacity building for persons with disabilities.",
+  "documents_required": [],
+  "application_link": null
+}

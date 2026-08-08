@@ -1,0 +1,33 @@
+{
+  "scheme_name": "Meghalaya Agriculture Response Vehicle Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": 57,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have a valid commercial driving license before buying the vehicle",
+    "Applicant must provide a valid government ID proof with address (e.g., Aadhaar Card, Voter ID, Passport)",
+    "Applicant must not be a defaulter at any financial institution",
+    "Association of farmers must be legally registered with the Government of Meghalaya (e.g., Cooperatives, Farmer Producer Companies, Farmer Producer Organisations)",
+    "Association must provide an Incorporation Certificate or Registration Certificate as applicable",
+    "Association must not be a defaulter at any financial institution"
+  ],
+  "benefits_summary": "Provides 50% financial assistance for purchasing commercial agriculture transport vehicles to eligible individuals and farmer associations, with up to 200 vehicles supported.",
+  "documents_required": [
+    "Aadhaar Card",
+    "Voter ID",
+    "Passport",
+    "Commercial Driving License",
+    "Incorporation Certificate",
+    "Registration Certificate"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Vocational Education and Training Loan Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must belong to the target group of NSKFDC.",
+    "Applicant must have secured admission in a vocational education and training course of minimum 6 months and maximum 2 years duration.",
+    "The course must be run or supported by a Ministry, Department, Government organization, or a company/society/organization supported by the National Skill Development Corporation or State Skill Missions/State Skill Corporations.",
+    "The course should lead to a certificate, diploma, degree or equivalent recognized/authorized by the Government."
+  ],
+  "benefits_summary": "Provides a loan covering up to 90% of course expenses (maximum Rs 4 lakh) with interest at 1% per annum (0.5% rebate for women) and repayment term of up to 7 years.",
+  "documents_required": [],
+  "application_link": null
+}

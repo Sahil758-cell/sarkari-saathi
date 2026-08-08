@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Rashtriya Gram Swaraj Abhiyan",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Regular conduct of elections to Panchayats or local rural bodies in non‑Part IX areas.",
+    "At least one‑third reservation for women in Panchayats.",
+    "Constitution of State Finance Committee (SFC) every five years and placement of its Action Taken Report (ATR) in the State legislature.",
+    "Constitution of District Planning Committees (DPCs) in all districts and issuance of functional guidelines/rules.",
+    "Preparation and submission of a detailed annual State Capacity Building Plan for PRIs to the Ministry of Panchayati Raj.",
+    "Co‑location of Common Service Centres (CSCs) with Gram Panchayat buildings wherever feasible.",
+    "Mapping of functional CSCs co‑located within GP buildings as an initial step."
+  ],
+  "benefits_summary": "Provides capacity building, infrastructure development, IT‑enabled services, and technical support to Panchayati Raj Institutions for improved governance and local development.",
+  "documents_required": [],
+  "application_link": "gramswaraj.nirdpr.in"
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Uttarakhand Widow Pension Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": 48000,
+  "category": null,
+  "state": null,
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a widow.",
+    "The applicant must have no son or grandson above the age of 20 years."
+  ],
+  "benefits_summary": "Monthly pension of ₹1,500.",
+  "documents_required": [],
+  "application_link": null
+}

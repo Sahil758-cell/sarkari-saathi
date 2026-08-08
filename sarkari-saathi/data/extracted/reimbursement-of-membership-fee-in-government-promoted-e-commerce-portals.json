@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Reimbursement of membership Fee in Government promoted E-Commerce Portals",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant should represent a Micro or Small Enterprise (MSE)"
+  ],
+  "benefits_summary": "Provides reimbursement of up to 80% of membership fees, capped at ₹25,000 per financial year for eligible SC/ST MSEs.",
+  "documents_required": [],
+  "application_link": "https://www.scsthub.in"
+}

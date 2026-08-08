@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Jagananna Amma Vodi",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Andhra Pradesh"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Mother or guardian must be a resident of Andhra Pradesh",
+    "Child must be studying in Class 1 to Class 12",
+    "School/college must be a recognized Government, Private Aided, Private Unaided school or Junior College, or Residential School/Junior College in Andhra Pradesh",
+    "Scheme is applicable from the Academic Year 2019-20",
+    "Total family income must be less than ₹10,000 per month in Rural Areas and less than ₹12,000 per month in Urban Areas (BPL)",
+    "No family member may be a Government employee or Government pensioner, except families of sanitary workers",
+    "Family must not own a four‑wheeler, except for Taxis, Tractors, and Autos",
+    "Monthly electricity consumption of the family dwelling unit must be below 300 units (six‑month average)",
+    "No family member should be an income‑tax payee",
+    "Land under the municipal area must be less than 1000 sq ft",
+    "Child’s attendance must be at least 75%"
+  ],
+  "benefits_summary": "₹14,000 per year is deposited directly into the mother/guardian’s savings account, with ₹1,000 deducted at source for the District Toilet Maintenance Fund.",
+  "documents_required": [],
+  "application_link": null
+}

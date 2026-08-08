@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Rajiv Gandhi Gramin Bhoomihin Krishi Majdoor Nyay Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Chhattisgarh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Original residents of Chhattisgarh are eligible",
+    "Only landless agricultural labourer families are eligible",
+    "The family must not own any agricultural land",
+    "Eligible occupational groups include shepherd, carpenter, blacksmith, cobbler, barber, washerman, priest and other similar categories",
+    "Families of persons who serve as worshippers (e.g., Pujari, Baiga, Guniya, Manjhi, Baja Moharia) in tribal places of worship are eligible even if they own land",
+    "Families receiving periodic allowance or financial assistance from other government schemes are not eligible"
+  ],
+  "benefits_summary": "A grant of Rs 7,000 per year is transferred directly to the head of the eligible family via Direct Benefit Transfer (DBT).",
+  "documents_required": [
+    "Photocopy of Aadhaar card",
+    "Photocopy of bank passbook",
+    "Application form"
+  ],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Integrated Technology Enabled Agriculture Management System Or iTEAMS",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Meghalaya"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a bonafide farmer engaged in agriculture",
+    "Applicant must be a resident of Meghalaya"
+  ],
+  "benefits_summary": "Free telephonic advisory, SMS support, and subsidised transport for farmers to market at INR 2 per km per quintal.",
+  "documents_required": [],
+  "application_link": null
+}

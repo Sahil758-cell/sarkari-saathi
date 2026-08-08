@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Gujarat Textile Policy: Assistance for Quality Certification",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Certification must be from a recognized national or international body",
+    "The unit must have incurred actual expenses for certification and testing equipment",
+    "Application must be submitted within one year from the date of certification",
+    "MSME units with GFCI up to INR 10 Crore must apply to the General Manager, District Industries Center",
+    "MSME units with GFCI above INR 10 Crore and up to INR 50 Crore must apply to the MSME Commissioner for a Provisional Eligibility Certificate",
+    "Non‑MSME units must apply to the Industries Commissioner for a Provisional Eligibility Certificate",
+    "All applications must be submitted within one year from the date of completion (DoCP) or from the issuance of the relevant certificate, whichever is later"
+  ],
+  "benefits_summary": "Reimbursement of up to ₹10,00,000 covering 50% of certification fees and 50% of testing equipment costs.",
+  "documents_required": [],
+  "application_link": null
+}

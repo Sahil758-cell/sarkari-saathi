@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Family Pension (HBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the spouse of the deceased worker.",
+    "The deceased worker must have been registered with the Haryana Building & Other Construction Workers Welfare Board and must have been receiving pension from the Board."
+  ],
+  "benefits_summary": "Half of the deceased worker’s pension is paid monthly to the spouse as family pension.",
+  "documents_required": [],
+  "application_link": null
+}

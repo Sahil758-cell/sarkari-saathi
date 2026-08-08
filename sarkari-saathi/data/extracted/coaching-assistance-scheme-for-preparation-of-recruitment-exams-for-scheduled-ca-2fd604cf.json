@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Coaching Assistance Scheme for Preparation of Recruitment Exams for Scheduled Caste Students",
+  "occupation": null,
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must have passed graduation with at least 50% marks.",
+    "The applicant or the applicant's parents should not be in government employment.",
+    "The applicant cannot pursue full‑time studies, job, or business elsewhere during the training period.",
+    "The benefit is available only once to the applicant."
+  ],
+  "benefits_summary": "Financial assistance up to ₹20,000 or the actual fee, whichever is lower, directly credited to the student’s bank account via DBT.",
+  "documents_required": [],
+  "application_link": "https://esamajkalyan.gujarat.gov.in/"
+}

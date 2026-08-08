@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Beej Masaale Ki Yojana",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Minimum land holding 0.25 acres (0.1 ha) and maximum 10 acres (4 ha)",
+    "Must be registered on the DBT portal",
+    "Beneficiaries selected on a first‑come, first‑served basis",
+    "Ryot farmers eligible on the basis of land documents; non‑ryot farmers eligible on the basis of a contract form"
+  ],
+  "benefits_summary": "Provides a 50% subsidy up to ₹15,000 per hectare for seed spice cultivation and access to certified high‑quality seeds.",
+  "documents_required": [
+    "Land documents (for ryot farmers)",
+    "Contract form (for non‑ryot farmers)"
+  ],
+  "application_link": null
+}

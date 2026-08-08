@@ -1,0 +1,36 @@
+{
+  "scheme_name": "Krishi Unnati Yojana - MOVCDNER",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Arunachal Pradesh",
+    "Assam",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Sikkim",
+    "Tripura"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary must be a Farmer Producer Company (FPC), Farmer Interest Group (FIG) or Farmer Producer Organization (FPO) registered under MOVCDNER",
+    "Must have a minimum contiguous area of organic cultivation or conversion of at least 400 hectares",
+    "Marketing infrastructure must be located within 25 km radius of the registered clusters",
+    "For processing unit assistance, the entity must have between 250 and 500 members",
+    "Applicants must not have previously received subsidy from any other State or Central Government department/agency",
+    "Projects must route all transactions through banks and the beneficiary must meet its share of the project cost",
+    "Assistance may be provided without credit link only if the beneficiary can meet its share of costs",
+    "The facility (processing unit, pack house, cold chain) must meet technical and commodity‑specific standards and be able to operate at least 8‑10 months a year",
+    "Implementation is limited to the eight North Eastern states listed"
+  ],
+  "benefits_summary": "Provides subsidised financial assistance for setting up organic value‑chain infrastructure—including collection, processing, pack houses and cold‑chain facilities—for farmer groups and entrepreneurs in the North‑Eastern region.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Grant to Jharkhand State Unaided Educational Institutions",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Institution must be approved by the State Government",
+    "Institution must be operated by a registered society or trust under the Societies Registration Act, 1860",
+    "Managing committee must be duly constituted and approved by the Jharkhand Academic Council (JAC)",
+    "Institution must meet prescribed student‑strength norms",
+    "Examination pass rate must be at least 41%",
+    "Utilization certificates for previously received grants must be submitted",
+    "For intermediate colleges, the institution must be permanently approved by JAC and comply with JAC and Government rules"
+  ],
+  "benefits_summary": "Provides financial assistance for infrastructure development, educational resources, and staffing support to unaided secondary schools, madrasas, Sanskrit schools, and intermediate colleges in Jharkhand.",
+  "documents_required": [
+    "Utilization certificates for previously received grants"
+  ],
+  "application_link": "https://education.jharkhand.gov.in/"
+}

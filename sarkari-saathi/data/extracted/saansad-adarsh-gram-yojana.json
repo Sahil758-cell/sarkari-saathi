@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Saansad Adarsh Gram Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "rural",
+  "other_conditions": [
+    "The Gram Panchayat must be the basic administrative unit.",
+    "Village population must be 3000‑5000 in plain areas or 1000‑3000 in hilly, tribal or difficult areas (approximate sizes may be accepted).",
+    "Lok Sabha MPs must select a Gram Panchayat within their own constituency; Rajya Sabha MPs may select any rural Gram Panchayat in the state from which they were elected.",
+    "The selected Gram Panchayat cannot be the MP’s own village or that of his/her spouse.",
+    "If the MP’s constituency is urban (no Gram Panchayat), they must choose a Gram Panchayat from a nearby rural constituency.",
+    "Each MP must initially adopt one Gram Panchayat immediately and two more later, aiming to develop three Adarsh Grams by March 2019 and additional five by 2024."
+  ],
+  "benefits_summary": "Integrated development of selected villages covering infrastructure, human, economic, environmental, social welfare and good governance initiatives.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Ganga Swarupa Pension Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widowed woman",
+    "Applicant must be a resident of Gujarat",
+    "Annual income must not exceed ₹1,20,000 in rural areas",
+    "Annual income must not exceed ₹1,50,000 in urban areas"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,250 deposited into the beneficiary’s Post Office account.",
+  "documents_required": [],
+  "application_link": null
+}

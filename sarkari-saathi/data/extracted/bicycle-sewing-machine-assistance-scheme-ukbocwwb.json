@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Bicycle/Sewing Machine Assistance Scheme (UKBOCWWB)",
+  "occupation": [
+    "building and construction worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 59,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board",
+    "must have an active membership of the Board",
+    "eligible only after three months from registration",
+    "benefits are granted only once in a lifetime",
+    "must have worked as a construction worker for at least 90 days during the preceding year",
+    "bicycles are provided to workers in plain areas",
+    "sewing machines are provided to workers or their dependents in mountainous/hilly areas"
+  ],
+  "benefits_summary": "Provides a bicycle to eligible construction workers in plain areas and a sewing machine to eligible workers or their dependents in mountainous/hilly areas.",
+  "documents_required": [],
+  "application_link": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx; https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+}

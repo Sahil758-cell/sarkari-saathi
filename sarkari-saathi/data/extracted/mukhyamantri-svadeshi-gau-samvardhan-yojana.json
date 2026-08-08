@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Mukhyamantri Svadeshi Gau Samvardhan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttar Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must have adequate space or shed for keeping the animals",
+    "Applicant should not already have more than 2 cows of indigenous advanced breeds such as Gir, Sahiwal, Haryana, Tharparkar or F‑1 hybrid breeds",
+    "Applicant must purchase indigenous improved‑breed cows from outside Uttar Pradesh",
+    "Cows purchased must be of first or second calving",
+    "Cows must be disease‑free and healthy",
+    "Applicant must take animal insurance for all purchased cows for 3 years",
+    "Applicant must take transit insurance for transporting the cows from the place of purchase to the establishment site"
+  ],
+  "benefits_summary": "Grants covering up to 40% of the total unit cost (maximum ₹80,000) are released directly into the beneficiary's bank account via DBT.",
+  "documents_required": [],
+  "application_link": null
+}

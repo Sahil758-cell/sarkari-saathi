@@ -1,0 +1,41 @@
+{
+  "scheme_name": "Rupashree Prakalpa",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": 150000,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be unmarried at the time of application and the marriage must be her first marriage",
+    "Prospective groom must be at least 21 years old",
+    "Family may have one or two daughters eligible for the scheme",
+    "The girl must have completed at least 10th standard or equivalent education",
+    "The applicant must have an active bank account where she is the sole account holder, with IFSC and MICR codes supporting NEFT transactions",
+    "Application must be submitted at least 30 days before the marriage date and no later than one year after the marriage date",
+    "The applicant must be a resident of West Bengal (born in West Bengal, or resident for the last 5 years, or parents are permanent residents)"
+  ],
+  "benefits_summary": "Provides a one‑time financial assistance of Rs. 25,000 to eligible families for the marriage of their daughters.",
+  "documents_required": [
+    "Birth Certificate",
+    "Voter ID card",
+    "PAN Card",
+    "Madhyamik Admit card",
+    "AADHAR card",
+    "Primary School Leaving Certificate",
+    "Self‑declaration of never‑married status",
+    "Self‑declaration of family income certified by a competent authority",
+    "Self‑declaration of residence certified by a competent authority",
+    "Bank book page showing account holder name, account number, bank address, IFSC code",
+    "Marriage Invitation Card or Notice for Registration of Marriage",
+    "Proof of prospective groom’s age (e.g., Birth Certificate, Voter ID card, PAN Card, Madhyamik Admit card, AADHAR card, Primary School Leaving Certificate)",
+    "Coloured passport‑size photographs of the applicant and the prospective groom"
+  ],
+  "application_link": null
+}

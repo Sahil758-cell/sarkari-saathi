@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Jharkhand State Scheduled Tribe Pre-Matric Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 250000,
+  "category": [
+    "ST"
+  ],
+  "state": [
+    "Jharkhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native of Jharkhand.",
+    "Applicant must be a student enrolled in a state government‑recognized school."
+  ],
+  "benefits_summary": "Provides financial assistance for tuition, hostel and other educational expenses for students from class 1 to 10, with amounts varying by class and residential status.",
+  "documents_required": [
+    "Aadhaar",
+    "Caste certificate",
+    "Income certificate (if applicable)",
+    "Aadhaar‑linked bank account details"
+  ],
+  "application_link": null
+}

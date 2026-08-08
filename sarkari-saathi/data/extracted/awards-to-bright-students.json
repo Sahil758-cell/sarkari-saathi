@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Awards to Bright Students",
+  "occupation": [
+    "student"
+  ],
+  "gender": "any",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be among the top two boys or top two girls in the respective district",
+    "Must continue studies after completing 10th standard",
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal",
+    "Eligibility category noted in source: Adi Dravidar Converted to Christianity"
+  ],
+  "benefits_summary": "Financial assistance of ₹800 for the first year and ₹960 per year for the next five years.",
+  "documents_required": [
+    "application form",
+    "passport-sized photograph",
+    "self‑attested copies of mandatory documents"
+  ],
+  "application_link": null
+}

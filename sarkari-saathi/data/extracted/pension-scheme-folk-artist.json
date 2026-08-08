@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Pension Scheme - Folk Artist",
+  "occupation": [
+    "folk artist"
+  ],
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered folk artist",
+    "Applicant must have worked continuously in the folk artist profession for at least five years",
+    "Disabled folk artists under 60 are eligible if they have been registered with the board for five continuous years"
+  ],
+  "benefits_summary": "Pension of ₹300 per month.",
+  "documents_required": [],
+  "application_link": null
+}

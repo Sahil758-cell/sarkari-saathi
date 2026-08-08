@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Enterprise must be unincorporated and employ fewer than 10 workers",
+    "Applicant must own the enterprise (proprietary or partnership firm)",
+    "Only one person per family (self, spouse, children) is eligible for financial assistance",
+    "Applicant must be at least 18 years old and have at least VIII standard education",
+    "Project cost cannot include land cost; lease/rental workshed can be included for a maximum of 3 years",
+    "Co‑operatives/FPOs must have a minimum turnover of Rs 1 crore and the project cost must not exceed their turnover",
+    "Co‑operatives/FPOs must have members with a minimum of 3 years experience in the product and must provide 10 % of project cost as margin money",
+    "SHG members must be presently engaged in food processing and must commit the seed capital for working capital and small tools",
+    "SHG members must have a minimum of 3 years experience in processing the ODOP product for branding/marketing support",
+    "Branding and marketing assistance requires a minimum product turnover of Rs 5 crore",
+    "Applicants must contribute at least 10 % of the project cost, with the balance to be financed through a bank loan"
+  ],
+  "benefits_summary": "Provides credit‑linked capital subsidy (up to 35% of project cost, maximum ₹10 lakh) and related grants for micro food processing enterprises, SHGs, FPOs, along with branding, marketing and common infrastructure support.",
+  "documents_required": [],
+  "application_link": "https://pmfme.mofpi.gov.in/pmfme/#/Home-Page"
+}

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Research Scholarship for Disabled Students",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 100000,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a native of Madhya Pradesh.",
+    "The applicant must be a disabled (differently‑abled) student.",
+    "The applicant must be registered for PhD research at any recognized university in India after an interview with the Research Degree Committee.",
+    "The applicant must have obtained minimum qualifying marks in their postgraduate degree as specified by the University Grants Commission guidelines.",
+    "Only 10 students are awarded the scholarship each year."
+  ],
+  "benefits_summary": "Differently‑abled PhD students receive a scholarship of ₹16,000 per month, amounting to ₹1,92,000 per year.",
+  "documents_required": [],
+  "application_link": null
+}

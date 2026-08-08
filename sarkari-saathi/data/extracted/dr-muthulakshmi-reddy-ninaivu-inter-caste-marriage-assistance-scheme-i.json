@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Dr. Muthulakshmi Reddy Ninaivu Inter-caste Marriage Assistance Scheme-I",
+  "occupation": null,
+  "gender": null,
+  "age_min": 19,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "One spouse must belong to a Scheduled Caste or Scheduled Tribe while the other spouse must be from a different community",
+    "The bride must have passed the 10th standard (or the 5th standard if the bride belongs to a Scheduled Tribe)",
+    "The application must be submitted within two years from the date of marriage"
+  ],
+  "benefits_summary": "Financial assistance of ₹25,000, with ₹15,000 transferred electronically, ₹10,000 as a National Savings Certificate, and a 22‑carat gold coin.",
+  "documents_required": [],
+  "application_link": null
+}

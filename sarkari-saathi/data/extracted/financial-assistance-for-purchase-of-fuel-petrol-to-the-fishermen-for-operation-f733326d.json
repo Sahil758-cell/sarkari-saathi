@@ -1,0 +1,30 @@
+{
+  "scheme_name": "Financial Assistance for Purchase of Fuel (Petrol) to the Fishermen for Operation of Out Board Motors",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a traditional fisherman by birth or profession",
+    "Applicant must be a resident of Goa",
+    "Fishing canoe must be registered under the Merchant Shipping Act, 1958",
+    "Applicant must be a member of the Registered Fisheries Co-operative Societies/Association or an individual",
+    "Applicant must not be a defaulter of the Directorate of Fisheries",
+    "Applicant must not be a violator of the Goa Daman & Diu Marine Fishing Regulation Act, 1980",
+    "Petrol out‑board motor (OBM) incorporated on the fishing vessel/canoe must be 10 HP or below"
+  ],
+  "benefits_summary": "₹30 per litre subsidy on up to 1,000 L of petrol annually (1,100 L for SC/ST beneficiaries).",
+  "documents_required": [
+    "Prescribed application form",
+    "Passport‑sized photograph"
+  ],
+  "application_link": null
+}

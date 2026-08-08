@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Karma Sathi Prakalpa",
+  "occupation": null,
+  "gender": null,
+  "age_min": 18,
+  "age_max": 50,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": "any",
+  "other_conditions": [
+    "Only one member of a family (parents and spouse) may apply",
+    "Minimum educational qualification: Class VIII passed",
+    "Preference is given to entrepreneurs registered with the Employment Bank"
+  ],
+  "benefits_summary": "Provides soft loans up to ₹2,00,000 together with subsidies for new manufacturing, service or trading ventures.",
+  "documents_required": [
+    "Age Proof document",
+    "Residential Proof Document",
+    "Educational Qualification - School, College",
+    "Caste certificate (if applicable)",
+    "Employment Bank registration (if applicable)"
+  ],
+  "application_link": null
+}

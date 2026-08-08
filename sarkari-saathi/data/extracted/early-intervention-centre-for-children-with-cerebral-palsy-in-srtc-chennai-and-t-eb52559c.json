@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Early Intervention Centre for Children with Cerebral Palsy in SRTC, Chennai and Tiruchirapalli Districts",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Child must have cerebral palsy"
+  ],
+  "benefits_summary": "Provides stimulation training to children with cerebral palsy.",
+  "documents_required": [],
+  "application_link": null
+}

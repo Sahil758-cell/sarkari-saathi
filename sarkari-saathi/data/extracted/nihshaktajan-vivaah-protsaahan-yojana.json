@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Nihshaktajan Vivaah Protsaahan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Madhya Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Disability of 40% or more is required",
+    "Minimum age: 21 years for male applicants and 18 years for female applicants",
+    "Marriage must be solemnized by religious, social custom or legally prescribed by the competent court",
+    "Applicant should not be an income taxpayer",
+    "Application must be made within one year after the marriage"
+  ],
+  "benefits_summary": "A disabled person marrying a non‑disabled partner receives Rs. 2,00,000, while both partners being disabled receive Rs. 1,00,000.",
+  "documents_required": [],
+  "application_link": null
+}

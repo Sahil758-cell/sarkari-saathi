@@ -1,0 +1,32 @@
+{
+  "scheme_name": "Coir Vikas Yojana- Coir Industry Technology Upgradation Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must be a newly established coir production/processing unit or an existing unit seeking modernization/upgradation",
+    "The unit must be registered with the Coir Board under Coir Industry (Registration) Rules, 2008 and possess a Udyog Aadhar",
+    "Entrepreneurs must not have availed any Central Government subsidy under PMEGP, CUY, DPI, TUF, etc., for the same purpose",
+    "For modernization assistance, the unit must have completed five years of successful operation after commencement of production",
+    "The project cost must fall within the investment limits prescribed for Small and Medium Enterprises under the MSME Act",
+    "All equipment and machinery must comply with standards prescribed by BIS and price ceilings set by the Technical Committee",
+    "Machinery can be imported only with justified reason and must be accompanied by invoice, shipping bill and performance certificate",
+    "A single unit/enterprise is not eligible for grant of assistance under the scheme",
+    "Units exceeding the investment limits for medium‑scale enterprises are not eligible"
+  ],
+  "benefits_summary": "Financial assistance of up to 25% of plant and machinery cost, capped at ₹2.5 crore per unit, provided as reimbursement through DBT/PFMS.",
+  "documents_required": [
+    "Detailed Project Report (DPR) in prescribed format",
+    "In‑Principle Approval (IPA) from the Coir Board",
+    "Udyog Aadhar",
+    "Coir Board registration of the unit"
+  ],
+  "application_link": null
+}

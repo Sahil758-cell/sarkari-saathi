@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Shelter Home For Women (SHW)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a Non-Government Voluntary Organization registered under the Registration of Societies Act, 1860, a Public Trust, a Local Body, a Government Body, or any body specified by the government with a managing body having experience in women and children welfare and providing services without distinction of caste, religion or language."
+  ],
+  "benefits_summary": "Financial assistance in the form of grants covering salary components and maintenance expenditures.",
+  "documents_required": [
+    "passport-sized photograph"
+  ],
+  "application_link": null
+}

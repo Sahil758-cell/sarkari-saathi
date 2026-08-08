@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Union Territory of Lakshadweep Pension Scheme for Widows",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": 18000,
+  "category": null,
+  "state": [
+    "Lakshadweep"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a permanent resident of the Union Territory of Lakshadweep",
+    "Must be a widow",
+    "Must not have remarried",
+    "Must have only nominal income, not exceeding ₹1,500 per month",
+    "Must not be a beneficiary of any other similar pension scheme provided by the government"
+  ],
+  "benefits_summary": "Monthly pension of ₹1,500 (₹18,000 per annum) transferred directly to the beneficiary’s bank account.",
+  "documents_required": [],
+  "application_link": null
+}

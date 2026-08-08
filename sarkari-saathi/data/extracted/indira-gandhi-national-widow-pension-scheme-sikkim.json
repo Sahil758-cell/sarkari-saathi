@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme - Sikkim",
+  "occupation": null,
+  "gender": null,
+  "age_min": 21,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Sikkim"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a widow",
+    "Applicant must be a domicile of the state of Sikkim",
+    "Applicant must belong to a Below Poverty Line (BPL) family",
+    "Applicant must have no source of income such as salary, pension, or family pension from Central or State Government",
+    "Applicant must have opened a bank account under “Pradhan Mantri Jan Dhan Yojana”",
+    "If the beneficiary remarries, the pension will cease from the date of remarriage"
+  ],
+  "benefits_summary": "The beneficiary receives a monthly pension of ₹2000.",
+  "documents_required": [],
+  "application_link": null
+}

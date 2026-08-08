@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Kali Bai Bheel Medhavi Chhatra Scooty Scheme",
+  "occupation": null,
+  "gender": "female",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Rajasthan"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must have passed class 12th with a minimum of 65% marks in Rajasthan Board of Secondary Education or a minimum of 75% marks in Central Board of Secondary Education",
+    "Must be studying in any school in Rajasthan",
+    "Must have a graduation degree from a Rajasthan‑based college and be a regular student",
+    "No gap of one year is allowed between passing class 12th and admission to a bachelor's degree program",
+    "Girl students who have already received a scooty under any prior state scheme based on marks in any class are not eligible for a scooty under this scheme"
+  ],
+  "benefits_summary": "Distribution of electric or standard scooties to eligible girl students.",
+  "documents_required": [],
+  "application_link": null
+}

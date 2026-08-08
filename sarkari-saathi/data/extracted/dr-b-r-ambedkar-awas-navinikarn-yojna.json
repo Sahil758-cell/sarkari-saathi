@@ -1,0 +1,34 @@
+{
+  "scheme_name": "Dr. B.R. Ambedkar Awas Navinikarn Yojna",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC"
+  ],
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must own a plot of at least 50 sq yard in rural areas or 35 sq yard in urban areas",
+    "Must be a permanent resident of Haryana",
+    "Must have a bank account to receive the funds"
+  ],
+  "benefits_summary": "Financial assistance of Rs 50,000 to Rs 80,000 for house repairs.",
+  "documents_required": [
+    "Ration Card",
+    "Voter ID",
+    "Aadhar Card",
+    "Caste Certificate",
+    "Land Certificate",
+    "Income Certificate",
+    "Estimated repair cost",
+    "Photocopy of bank’s passbook"
+  ],
+  "application_link": "https://saralharyana.gov.in/"
+}

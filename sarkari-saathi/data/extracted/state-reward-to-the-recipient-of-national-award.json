@@ -1,0 +1,23 @@
+{
+  "scheme_name": "State Reward to the Recipient of National Award",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Goa"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a Goan artist who has received any of the specified National or International awards listed in the eligibility text.",
+    "Living artists who have already received such awards are eligible.",
+    "The benefit can be received only once per artist, even if the artist holds multiple awards."
+  ],
+  "benefits_summary": "A memento, a certificate of appreciation, and a financial purse of ₹1,00,000 per individual.",
+  "documents_required": [],
+  "application_link": null
+}

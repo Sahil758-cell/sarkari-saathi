@@ -1,0 +1,20 @@
+{
+  "scheme_name": "Pradhan Mantri Gram Sadak Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The region must be a habitation (not a hamlet or revenue village).",
+    "Eligible habitations must have a population above 500 persons in plain areas and above 250 persons in hilly areas."
+  ],
+  "benefits_summary": "Provides all‑weather road connectivity to rural habitations, facilitating movement of goods and improving employment opportunities.",
+  "documents_required": [],
+  "application_link": null
+}

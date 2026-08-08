@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Early Intervention Centre for the Visually Impaired",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Beneficiary child must be visually impaired",
+    "Child must reside in one of the six districts: Chennai, Coimbatore, Cuddalore, Tiruchirappalli, Thiruvannamalai, or Vellore"
+  ],
+  "benefits_summary": "Identifies visually impaired children and prepares them to join mainstream education.",
+  "documents_required": [],
+  "application_link": null
+}

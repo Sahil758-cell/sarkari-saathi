@@ -1,0 +1,24 @@
+{
+  "scheme_name": "Skill Development Training Manipur",
+  "occupation": [
+    "construction worker"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Manipur"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered construction worker under the Manipur Building and Other Construction Workers' Welfare Board",
+    "Spouse, dependent siblings, and children of a registered construction worker are eligible"
+  ],
+  "benefits_summary": "Financial assistance covering training fees, lodging allowance up to ₹150 per day, and wage compensation, along with certification courses recognized by the government.",
+  "documents_required": [],
+  "application_link": null
+}

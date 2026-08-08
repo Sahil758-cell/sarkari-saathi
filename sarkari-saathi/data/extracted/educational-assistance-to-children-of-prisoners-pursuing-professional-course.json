@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Educational Assistance To Children Of Prisoners (Pursuing Professional Course)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Kerala"
+  ],
+  "is_bpl_required": true,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a native and resident of Kerala",
+    "Applicant must be the child of a prisoner sentenced to life imprisonment or death sentence",
+    "Applicant must have been admitted to the course on a merit basis",
+    "Applicant must have secured 70% or above marks in Higher secondary examinations",
+    "Assistance is for degree‑level professional courses in Government/Aided colleges inside Kerala",
+    "For courses like MBBS and B.VSc., assistance is provided only if studying in Government colleges",
+    "If both parents are convicts and the child is cared for by a relative who is Above Poverty Line, the application is considered based on a Probation Officer’s inquiry report",
+    "Preference will be given based on percentage of marks when more applicants are present"
+  ],
+  "benefits_summary": "Provides up to ₹100,000 per student to cover tuition and hostel fees for degree‑level professional courses in government/ aided colleges.",
+  "documents_required": [],
+  "application_link": null
+}

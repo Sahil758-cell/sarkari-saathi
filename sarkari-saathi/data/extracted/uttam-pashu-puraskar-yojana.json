@@ -1,0 +1,23 @@
+{
+  "scheme_name": "Uttam Pashu Puraskar Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Himachal Pradesh"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Cash prize of ₹1000 per cattle/buffalo yielding 15 litres or more milk per day, up to two animals per farmer.",
+  "documents_required": [
+    "Proof of BPL status",
+    "Land documents",
+    "Bank account details"
+  ],
+  "application_link": "https://hpahdbt.hp.gov.in/Home/BeneficiariesRegistration"
+}

@@ -1,0 +1,31 @@
+{
+  "scheme_name": "Scheme For Grant Of Rewards To The Children Of Salt Labourers",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": [
+    "SC",
+    "ST"
+  ],
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Child must be of a salt worker who has completed at least one year of continuous service in any salt work",
+    "Child must be studying in Class VI to XII in a recognized Government School",
+    "Child must have passed the examination in the first attempt",
+    "Preference will be given to SC/ST/BC/Backward area applicants over general category applicants",
+    "At least 50% of the awards in each state must be allocated to girl children"
+  ],
+  "benefits_summary": "Cash rewards of ₹1000 for classes VI‑VIII, ₹1500 for IX‑X and ₹2000 for XI‑XII are given to meritorious children of salt workers each academic year.",
+  "documents_required": [
+    "Prescribed application form",
+    "Certificate from the salt worker’s employer confirming one year of continuous service",
+    "Certificate confirming the child passed the examination in the first attempt",
+    "Certified copy of the child’s mark sheet issued by the concerned board"
+  ],
+  "application_link": null
+}

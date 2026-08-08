@@ -1,0 +1,29 @@
+{
+  "scheme_name": "Capital Investment Subsidy: Information Technology (IT) / Information Technology Enabled Services (ITES) Industries",
+  "occupation": [
+    "IT/ITES industrial unit"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Puducherry"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a new IT/ITES industrial unit",
+    "Production must have started on or after 6-11-2002",
+    "Application must be submitted within one year from the date of commencement of production for new units, or within one year of completion of expansion/diversification/modernization for existing units",
+    "Eligibility category noted in source: large",
+    "Eligibility category noted in source: medium",
+    "Eligibility category noted in source: small",
+    "Eligibility category noted in source: micro"
+  ],
+  "benefits_summary": "Provides a 20% subsidy on plant and machinery investments up to ₹20,00,000 for eligible IT/ITES units.",
+  "documents_required": [],
+  "application_link": null
+}

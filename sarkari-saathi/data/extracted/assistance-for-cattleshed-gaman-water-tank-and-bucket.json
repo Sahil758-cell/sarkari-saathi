@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Assistance for Cattleshed, Gaman, Water Tank and Bucket",
+  "occupation": [
+    "farmer"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Gujarat"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must own land or have at least a 10‑year lease agreement",
+    "Assistance can be availed only once in a lifetime",
+    "Eligibility category noted in source: Schedule Caste"
+  ],
+  "benefits_summary": "Provides up to ₹30,000 as a one‑time grant for building a cattleshed, Gaman, water tank and bucket for Schedule Caste farmers.",
+  "documents_required": [],
+  "application_link": "https://ikhedut.gujarat.gov.in/"
+}

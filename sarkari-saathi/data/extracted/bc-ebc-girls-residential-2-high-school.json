@@ -1,0 +1,34 @@
+{
+  "scheme_name": "BC & EBC Girls Residential +2 High School",
+  "occupation": null,
+  "gender": "female",
+  "age_min": 11,
+  "age_max": 16,
+  "max_annual_income": 300000,
+  "category": null,
+  "state": [
+    "Bihar"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Selection for Classes VI, VII, VIII, and IX is based on an entrance examination.",
+    "Benefits are available for girl students from Class 6 to Class 12.",
+    "Eligibility category noted in source: BC",
+    "Eligibility category noted in source: EBC"
+  ],
+  "benefits_summary": "Free education, accommodation, meals, clothing, books, health support, and skill development for BC/EBC girl students from Class 6 to 12.",
+  "documents_required": [
+    "Aadhaar card",
+    "Address proof",
+    "Qualification details",
+    "Photograph",
+    "Signature",
+    "Birth certificate",
+    "Caste certificate",
+    "Income certificate",
+    "Residential certificate"
+  ],
+  "application_link": null
+}

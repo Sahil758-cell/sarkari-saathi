@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Pension Benefit",
+  "occupation": [
+    "Building/Construction Worker"
+  ],
+  "gender": null,
+  "age_min": 18,
+  "age_max": 60,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must have engaged in building and construction work for at least 90 days in a given year.",
+    "The applicant must be a registered member of the Building and Other Construction Workers Welfare Board of West Bengal.",
+    "The member must have served the board for at least 5 years.",
+    "The pension is payable only after the member has completed 60 years of age.",
+    "In case of death of the beneficiary, the spouse or nominee is entitled to a family pension equal to half of the pension amount the beneficiary was receiving."
+  ],
+  "benefits_summary": "Monthly pension ranging from ₹750 to ₹1120, with a family pension of half that amount payable to the spouse/nominee upon the beneficiary's death.",
+  "documents_required": [],
+  "application_link": null
+}

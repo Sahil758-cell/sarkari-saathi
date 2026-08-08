@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Accidental Death Assistance Scheme (GBOCWWB)",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The applicant must be a legal heir of the deceased worker.",
+    "The deceased worker must have been engaged in any building or other construction work.",
+    "The deceased worker may be either registered or unregistered with the Gujarat Building and Other Construction Worker’s Welfare Board."
+  ],
+  "benefits_summary": "Financial assistance of ₹3,00,000 is provided to the legal heirs of a construction worker who dies or becomes permanently disabled due to an accident at the work site.",
+  "documents_required": [],
+  "application_link": "https://sanman.gujarat.gov.in/"
+}

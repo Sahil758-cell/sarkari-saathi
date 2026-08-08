@@ -1,0 +1,21 @@
+{
+  "scheme_name": "Jharkhand Sports Excellence Cash Award Scheme to Coaches",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be a coach who trains medal‑winning athletes/teams participating in competitions recognized by the International or Indian Olympic Association.",
+    "Must have coached athletes/teams representing Jharkhand or India for at least four years.",
+    "Medal‑winning athletes must have competed in recognized competitions for the coach to qualify."
+  ],
+  "benefits_summary": "Cash awards ranging from ₹75,000 to ₹25,00,000 for coaches based on medals won by athletes in international and national competitions.",
+  "documents_required": [],
+  "application_link": null
+}

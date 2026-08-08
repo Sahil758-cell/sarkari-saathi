@@ -1,0 +1,28 @@
+{
+  "scheme_name": "West Bengal Textile Incentive Scheme: Waiver of Electricity Duty",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "West Bengal"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The unit must have started production on or after 1 April 2022",
+    "Units may be in the private sector, co‑operative sector, joint sector or owned/managed by the State Government",
+    "The scheme shall not be applicable to certain industrial units/enterprises as specified by the authorities",
+    "The project must be approved and sanctioned by a Central Financial Institution, Commercial Bank or State Financial Institution"
+  ],
+  "benefits_summary": "100% waiver of electricity duty for up to ₹1,00,00,000 per year for a period of five years from the date of commencement of production.",
+  "documents_required": [
+    "Registration Certificate",
+    "Date of Commencement Certificate",
+    "Eligibility Certificate issued by the Director of Textiles"
+  ],
+  "application_link": null
+}

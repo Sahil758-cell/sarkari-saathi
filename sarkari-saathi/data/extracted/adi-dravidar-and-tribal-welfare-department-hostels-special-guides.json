@@ -1,0 +1,25 @@
+{
+  "scheme_name": "Adi Dravidar and Tribal Welfare Department-Hostels: Special Guides",
+  "occupation": [
+    "Student"
+  ],
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Tamil Nadu"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Must be enrolled in class XII or lower.",
+    "Eligibility category noted in source: Adi Dravidar",
+    "Eligibility category noted in source: Tribal"
+  ],
+  "benefits_summary": "Provides hostel accommodation for boys and girls up to class XII.",
+  "documents_required": [],
+  "application_link": null
+}

@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Financial Assistance to War Widows of Defence Forces",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be the widow of a Defence Force personnel (Army, Navy, or Air Force) who was killed in action during the declared wars of 1962, 1965, or 1971.",
+    "Applicant must be a bona fide resident of Haryana."
+  ],
+  "benefits_summary": "Provides ₹3,000 per month financial assistance (with an annual increase of ₹400) to eligible war widows, in addition to the existing family pension.",
+  "documents_required": [],
+  "application_link": null
+}

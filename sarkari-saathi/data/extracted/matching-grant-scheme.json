@@ -1,0 +1,22 @@
+{
+  "scheme_name": "Matching Grant Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Startup must be certified by the Start-up Promotion Cell (SPC) and have a valid start‑up certificate number.",
+    "The product for which the benefit is claimed must not have been previously available in the market.",
+    "Only digital payments made after the Goa Start‑up Policy 2017 notification are eligible for reimbursement.",
+    "Applications should be submitted at least 1–3 months before product launch."
+  ],
+  "benefits_summary": "Provides up to 25% matching funds (maximum ₹2,500,000) to eligible startups, payable within 60 days of approval.",
+  "documents_required": [],
+  "application_link": null
+}

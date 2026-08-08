@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Paternity Benefit Scheme (BBOCWWB)",
+  "occupation": [
+    "building",
+    "construction"
+  ],
+  "gender": "male",
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": null,
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "must be registered with the Bihar Building & Other Construction Workers Welfare Board with active membership of at least one year",
+    "wife must not be registered with the Board",
+    "benefits are applicable for the first two childbirths"
+  ],
+  "benefits_summary": "Financial assistance of ₹6,000 per childbirth for up to two childbirths.",
+  "documents_required": [
+    "Aadhaar Number"
+  ],
+  "application_link": null
+}

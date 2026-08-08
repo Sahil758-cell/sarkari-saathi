@@ -1,0 +1,27 @@
+{
+  "scheme_name": "Chief Minister Higher Education Encouragement Scholarship Scheme",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "The student must be a permanent resident of Uttarakhand.",
+    "The student must be enrolled in a Graduation or Post‑Graduation course at a government college or university.",
+    "For the first year of graduation, the student must have scored at least 80% marks in the 12th examination; for subsequent years and for postgraduate courses, at least 60% marks in the previous examination are required.",
+    "The student must maintain a minimum of 75% attendance in the course or subject.",
+    "The student must not have faced any disciplinary or legal action from the college or any legal authority.",
+    "The student cannot receive more than one scholarship from the state government in the same year.",
+    "Marks obtained from a marks improvement examination will not be considered for this scholarship."
+  ],
+  "benefits_summary": "Provides monthly scholarships of ₹1,500‑₹3,000 for top‑ranked students in each year of graduation and ₹2,000‑₹5,000 for postgraduate years, plus lump‑sum awards up to ₹60,000 for top performers.",
+  "documents_required": [],
+  "application_link": null
+}

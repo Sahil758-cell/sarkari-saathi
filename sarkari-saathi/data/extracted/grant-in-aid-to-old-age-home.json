@@ -1,0 +1,28 @@
+{
+  "scheme_name": "Grant In Aid To Old Age Home",
+  "occupation": null,
+  "gender": null,
+  "age_min": null,
+  "age_max": null,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Maharashtra"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": true,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must be a registered Non‑Governmental Organization (NGO).",
+    "The NGO must only accommodate old, destitute, or disabled victims.",
+    "Old men must be at least 60 years old; old women must be at least 55 years old.",
+    "Beneficiaries must be citizens of India and permanent residents of Maharashtra."
+  ],
+  "benefits_summary": "Grants are provided to NGOs to support old men, women, destitute and disabled persons with food, accommodation, lodging, boarding and medical assistance in old age homes.",
+  "documents_required": [
+    "Hard copy of the application form format obtained from the District Social Welfare Office",
+    "Passport‑sized photograph (signed across)",
+    "Self‑attested mandatory documents"
+  ],
+  "application_link": null
+}

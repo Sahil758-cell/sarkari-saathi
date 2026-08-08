@@ -1,0 +1,19 @@
+{
+  "scheme_name": "Mukhyamantri Bal Poshan Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 3,
+  "age_max": 6,
+  "max_annual_income": null,
+  "category": null,
+  "state": [
+    "Uttarakhand"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [],
+  "benefits_summary": "Provides eggs twice a week and banana chips twice a week (for children who do not eat eggs).",
+  "documents_required": [],
+  "application_link": null
+}

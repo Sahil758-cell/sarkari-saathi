@@ -1,0 +1,26 @@
+{
+  "scheme_name": "Mukhyamantri Tirth Yatra Yojana",
+  "occupation": null,
+  "gender": null,
+  "age_min": 60,
+  "age_max": null,
+  "max_annual_income": 180000,
+  "category": null,
+  "state": [
+    "Haryana"
+  ],
+  "is_bpl_required": null,
+  "is_disabled_targeted": null,
+  "residency": null,
+  "other_conditions": [
+    "Applicant must possess a Parivar Pehchan Patra (PPP ID).",
+    "Applicant must be a bonafide resident of Haryana.",
+    "Age relaxation may be given to the spouse accompanying the applicant.",
+    "The benefit can be availed only once every three years.",
+    "Attendant must be a bonafide resident of Haryana with a PPP ID.",
+    "Attendant facility may be availed by applicant over 80 years old on payment of 50% of railway ticket fare."
+  ],
+  "benefits_summary": "The scheme fully covers rail travel and transport costs for senior citizens' pilgrimages, with reimbursement after journey completion.",
+  "documents_required": [],
+  "application_link": "https://saralharyana.gov.in/"
+}
