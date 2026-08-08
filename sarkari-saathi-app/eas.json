@@ -14,7 +14,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_API_URL": "http://192.168.1.37:8000"
+        "EXPO_PUBLIC_API_URL": "https://sarkari-saathi-2gg7.onrender.com"
       }
     },
     "production": {

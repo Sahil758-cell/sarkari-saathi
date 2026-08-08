@@ -26,15 +26,7 @@
     },
     "plugins": [
       "expo-font",
-      "expo-splash-screen",
-      [
-        "expo-build-properties",
-        {
-          "android": {
-            "usesCleartextTraffic": true
-          }
-        }
-      ]
+      "expo-splash-screen"
     ],
     "extra": {
       "eas": {
