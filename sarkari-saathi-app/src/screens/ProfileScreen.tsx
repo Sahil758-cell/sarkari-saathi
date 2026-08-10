@@ -12,9 +12,8 @@ import { SavedProfile } from "../types";
 
 type Props = TabScreenProps<"Profile">;
 
-function deriveDisplayName(identifier: string): string {
-  if (!identifier.includes("@")) return "Welcome back";
-  const local = identifier.split("@")[0];
+function deriveDisplayName(email: string): string {
+  const local = email.split("@")[0];
   return local
     .split(/[._-]+/)
     .filter(Boolean)

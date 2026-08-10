@@ -17,13 +17,12 @@ from cerebras.cloud.sdk import RateLimitError  # noqa: E402
 from fastapi import FastAPI, HTTPException  # noqa: E402
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
 
-from api import email_otp, otp, otp_quota, rag  # noqa: E402
+from api import email_otp, rag  # noqa: E402
 from api.schemas import (  # noqa: E402
     AskRequest,
     AskResponse,
     EligibilityOut,
     MatchResponse,
-    OtpModeResponse,
     ProfileIn,
     QuestionOut,
     SchemeOut,
@@ -108,32 +107,15 @@ def post_ask(body: AskRequest):
     }
 
 
-@app.get("/auth/otp-mode", response_model=OtpModeResponse)
-def get_otp_mode():
-    return {"mode": otp_quota.get_mode()}
-
-
 @app.post("/auth/send-otp", response_model=SendOtpResponse)
 def post_send_otp(body: SendOtpRequest):
-    if body.phone:
-        try:
-            session_id = otp.send_otp(body.phone)
-        except RuntimeError as e:
-            raise HTTPException(status_code=502, detail=str(e))
-        otp_quota.record_phone_send()
-        return {"session_id": session_id}
-    if body.email:
-        try:
-            email_otp.send_otp(body.email)
-        except RuntimeError as e:
-            raise HTTPException(status_code=502, detail=str(e))
-        return {"session_id": f"email:{body.email}"}
-    raise HTTPException(status_code=400, detail="Provide either phone or email")
+    try:
+        email_otp.send_otp(body.email)
+    except RuntimeError as e:
+        raise HTTPException(status_code=502, detail=str(e))
+    return {"session_id": body.email}
 
 
 @app.post("/auth/verify-otp", response_model=VerifyOtpResponse)
 def post_verify_otp(body: VerifyOtpRequest):
-    if body.session_id.startswith("email:"):
-        email = body.session_id[len("email:"):]
-        return {"verified": email_otp.verify_otp(email, body.otp)}
-    return {"verified": otp.verify_otp(body.session_id, body.otp)}
+    return {"verified": email_otp.verify_otp(body.session_id, body.otp)}

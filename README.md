@@ -3,7 +3,7 @@
 Sarkari Saathi ("government companion") helps Indian citizens discover government
 welfare schemes they're actually eligible for. It's two things sharing one backend:
 
-- A **React Native / Expo mobile app** — eligibility wizard, saved profiles, phone/email
+- A **React Native / Expo mobile app** — eligibility wizard, saved profiles, email
   OTP login, and an AI assistant you can ask questions in plain language.
 - A **Telegram bot** — the original interface, still fully working, offering the same
   guided eligibility Q&A and scheme search over Telegram.
@@ -54,13 +54,12 @@ aware and resumable, since Cerebras' free tier caps requests.
   degradation if the tool call fails and self-correction retries if the model
   returns malformed output.
 
-### 3. Login without paying for SMS
+### 3. Login without SMS costs or carrier registration
 
-Phone/email OTP auth (`api/otp.py`, `api/email_otp.py`, `api/otp_quota.py`)
-sends SMS OTPs via a pay-per-message gateway up to a small self-imposed daily
-cap, then automatically falls back to email OTP (Gmail SMTP) for the rest of
-the day — avoiding both per-message cost and India's SMS carrier registration
-(DLT) requirements for a bootstrapped project.
+Email OTP auth (`api/email_otp.py`) sends login codes via Gmail SMTP — free,
+with no per-message cost and no India SMS carrier (DLT) registration
+requirement, which real SMS OTP delivery would need for a bootstrapped
+project.
 
 ## Setup
 

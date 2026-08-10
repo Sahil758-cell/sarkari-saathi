@@ -64,14 +64,10 @@ export function askAssistant(query: string): Promise<AskResponse> {
   });
 }
 
-export function getOtpMode(): Promise<{ mode: "phone" | "email" }> {
-  return request<{ mode: "phone" | "email" }>("/auth/otp-mode");
-}
-
-export function sendOtp(body: { phone?: string; email?: string }): Promise<{ session_id: string }> {
+export function sendOtp(email: string): Promise<{ session_id: string }> {
   return request<{ session_id: string }>("/auth/send-otp", {
     method: "POST",
-    body: JSON.stringify(body),
+    body: JSON.stringify({ email }),
   });
 }
 

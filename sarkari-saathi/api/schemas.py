@@ -93,8 +93,7 @@ class AskResponse(BaseModel):
 
 
 class SendOtpRequest(BaseModel):
-    phone: Optional[str] = Field(default=None, pattern="^[0-9]{10}$")
-    email: Optional[str] = Field(default=None, pattern=r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
+    email: str = Field(pattern=r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
 
 class SendOtpResponse(BaseModel):
@@ -108,7 +107,3 @@ class VerifyOtpRequest(BaseModel):
 
 class VerifyOtpResponse(BaseModel):
     verified: bool
-
-
-class OtpModeResponse(BaseModel):
-    mode: str

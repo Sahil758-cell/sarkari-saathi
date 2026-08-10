@@ -1,7 +1,7 @@
 import { Ionicons } from "@expo/vector-icons";
 import { useEffect, useState } from "react";
 import { ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
-import { getOtpMode, sendOtp, verifyOtp } from "../api/client";
+import { sendOtp, verifyOtp } from "../api/client";
 import FieldSection from "../components/FieldSection";
 import PrimaryButton from "../components/PrimaryButton";
 import { useAuth } from "../context/AuthContext";
@@ -14,9 +14,7 @@ const RESEND_COOLDOWN_SECONDS = 30;
 
 export default function LoginScreen({ navigation }: Props) {
   const { login } = useAuth();
-  const [mode, setMode] = useState<"phone" | "email" | null>(null);
-  const [step, setStep] = useState<"identifier" | "otp">("identifier");
-  const [phone, setPhone] = useState("");
+  const [step, setStep] = useState<"email" | "otp">("email");
   const [email, setEmail] = useState("");
   const [code, setCode] = useState("");
   const [sessionId, setSessionId] = useState<string>();
@@ -25,16 +23,8 @@ export default function LoginScreen({ navigation }: Props) {
   const [error, setError] = useState<string>();
   const [cooldown, setCooldown] = useState(0);
 
-  const phoneDigitsValid = phone.trim().length === 10;
   const emailValid = /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email.trim());
-  const identifierValid = mode === "phone" ? phoneDigitsValid : emailValid;
   const codeValid = code.trim().length === 6;
-
-  useEffect(() => {
-    getOtpMode()
-      .then((res) => setMode(res.mode))
-      .catch(() => setMode("phone"));
-  }, []);
 
   useEffect(() => {
     if (cooldown <= 0) return;
@@ -43,13 +33,11 @@ export default function LoginScreen({ navigation }: Props) {
   }, [cooldown > 0]);
 
   async function handleSendOtp() {
-    if (!identifierValid || !mode) return;
+    if (!emailValid) return;
     setError(undefined);
     setSending(true);
     try {
-      const result = await sendOtp(
-        mode === "phone" ? { phone: phone.trim() } : { email: email.trim() }
-      );
+      const result = await sendOtp(email.trim());
       setSessionId(result.session_id);
       setStep("otp");
       setCooldown(RESEND_COOLDOWN_SECONDS);
@@ -70,7 +58,7 @@ export default function LoginScreen({ navigation }: Props) {
         setError("Incorrect code, please try again.");
         return;
       }
-      await login(mode === "phone" ? `+91${phone.trim()}` : email.trim());
+      await login(email.trim());
       navigation.goBack();
     } catch (err: any) {
       setError(err.message ?? "Something went wrong. Please try again.");
@@ -89,54 +77,28 @@ export default function LoginScreen({ navigation }: Props) {
         />
       </View>
       <Text style={styles.headerTitle}>
-        {step === "otp"
-          ? "Enter Verification Code"
-          : mode === "email"
-            ? "Verify Your Email"
-            : "Verify Your Phone Number"}
+        {step === "otp" ? "Enter Verification Code" : "Verify Your Email"}
       </Text>
       <Text style={styles.headerSubtitle}>
-        {step === "identifier"
-          ? mode === "email"
-            ? "Enter your email address to receive a one-time code."
-            : "Enter your phone number to receive a one-time code."
-          : mode === "email"
-            ? `Enter the 6-digit code sent to ${email.trim()}.`
-            : `Enter the 6-digit code sent to +91 ${phone.trim()}.`}
+        {step === "email"
+          ? "Enter your email address to receive a one-time code."
+          : `Enter the 6-digit code sent to ${email.trim()}.`}
       </Text>
 
-      {step === "identifier" ? (
-        mode === "email" ? (
-          <FieldSection icon="mail-outline" label="Email address" required>
-            <TextInput
-              style={styles.input}
-              keyboardType="email-address"
-              autoCapitalize="none"
-              autoCorrect={false}
-              value={email}
-              onChangeText={setEmail}
-              placeholder="you@example.com"
-              placeholderTextColor={colors.textFaint}
-              autoFocus
-            />
-          </FieldSection>
-        ) : (
-          <FieldSection icon="call-outline" label="Phone number" required>
-            <View style={styles.phoneRow}>
-              <Text style={styles.prefix}>+91</Text>
-              <TextInput
-                style={styles.phoneInput}
-                keyboardType="number-pad"
-                maxLength={10}
-                value={phone}
-                onChangeText={(v) => setPhone(v.replace(/[^0-9]/g, ""))}
-                placeholder="10-digit mobile number"
-                placeholderTextColor={colors.textFaint}
-                autoFocus
-              />
-            </View>
-          </FieldSection>
-        )
+      {step === "email" ? (
+        <FieldSection icon="mail-outline" label="Email address" required>
+          <TextInput
+            style={styles.input}
+            keyboardType="email-address"
+            autoCapitalize="none"
+            autoCorrect={false}
+            value={email}
+            onChangeText={setEmail}
+            placeholder="you@example.com"
+            placeholderTextColor={colors.textFaint}
+            autoFocus
+          />
+        </FieldSection>
       ) : (
         <FieldSection icon="keypad-outline" label="One-time code" required>
           <TextInput
@@ -155,12 +117,12 @@ export default function LoginScreen({ navigation }: Props) {
       {error ? <Text style={styles.errorText}>{error}</Text> : null}
 
       <View style={styles.navColumn}>
-        {step === "identifier" ? (
+        {step === "email" ? (
           <PrimaryButton
             title="Send OTP"
             icon="arrow-forward"
             onPress={handleSendOtp}
-            disabled={!identifierValid || !mode}
+            disabled={!emailValid}
             loading={sending}
           />
         ) : (
@@ -216,18 +178,6 @@ const styles = StyleSheet.create({
     marginBottom: spacing.xl,
   },
   input: {
-    borderWidth: 1,
-    borderColor: colors.border,
-    borderRadius: radius.sm,
-    padding: spacing.md,
-    backgroundColor: colors.background,
-    color: colors.text,
-    fontSize: 15,
-  },
-  phoneRow: { flexDirection: "row", alignItems: "center", gap: spacing.sm },
-  prefix: { fontSize: 15, color: colors.text, fontWeight: "600" },
-  phoneInput: {
-    flex: 1,
     borderWidth: 1,
     borderColor: colors.border,
     borderRadius: radius.sm,
