@@ -56,10 +56,11 @@ aware and resumable, since Cerebras' free tier caps requests.
 
 ### 3. Login without SMS costs or carrier registration
 
-Email OTP auth (`api/email_otp.py`) sends login codes via Gmail SMTP — free,
-with no per-message cost and no India SMS carrier (DLT) registration
-requirement, which real SMS OTP delivery would need for a bootstrapped
-project.
+Email OTP auth (`api/email_otp.py`) sends login codes via Brevo's HTTPS
+email API — free, with no per-message cost and no India SMS carrier (DLT)
+registration requirement, which real SMS OTP delivery would need for a
+bootstrapped project. HTTPS is used instead of raw SMTP because Render's
+free tier blocks outbound SMTP ports entirely.
 
 ## Setup
 
