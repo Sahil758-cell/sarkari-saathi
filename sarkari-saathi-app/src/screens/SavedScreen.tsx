@@ -2,14 +2,17 @@ import { Ionicons } from "@expo/vector-icons";
 import { useFocusEffect } from "@react-navigation/native";
 import { useCallback, useState } from "react";
 import { Alert, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { syncProfiles } from "../api/client";
+import { useAuth } from "../context/AuthContext";
 import { TabScreenProps } from "../navigation";
 import { deleteProfile, listProfiles } from "../storage/profiles";
-import { colors, radius, shadow, spacing, typography } from "../theme";
+import { colors, fonts, radius, shadow, spacing, typography } from "../theme";
 import { SavedProfile } from "../types";
 
 type Props = TabScreenProps<"Saved">;
 
 export default function SavedScreen({ navigation }: Props) {
+  const { identifier } = useAuth();
   const [profiles, setProfiles] = useState<SavedProfile[]>([]);
 
   useFocusEffect(
@@ -19,14 +22,16 @@ export default function SavedScreen({ navigation }: Props) {
   );
 
   function handleDelete(profile: SavedProfile) {
-    Alert.alert("Delete profile?", `Remove "${profile.label}"?`, [
+    Alert.alert("Delete profile?", `Remove "${profile.name}"?`, [
       { text: "Cancel", style: "cancel" },
       {
         text: "Delete",
         style: "destructive",
         onPress: async () => {
           await deleteProfile(profile.id);
-          setProfiles(await listProfiles());
+          const all = await listProfiles();
+          setProfiles(all);
+          if (identifier) syncProfiles(all.map((p) => p.profile)).catch(() => {});
         },
       },
     ]);
@@ -54,7 +59,10 @@ export default function SavedScreen({ navigation }: Props) {
             <View style={styles.iconCircle}>
               <Ionicons name="person-outline" size={18} color={colors.primary} />
             </View>
-            <Text style={styles.label}>{p.label}</Text>
+            <View style={styles.textCol}>
+              <Text style={styles.name}>{p.name}</Text>
+              <Text style={styles.label}>{p.label}</Text>
+            </View>
           </Pressable>
           <Pressable
             style={styles.iconButton}
@@ -93,7 +101,9 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     marginRight: spacing.md,
   },
-  label: { ...typography.body, flex: 1 },
+  textCol: { flex: 1 },
+  name: { fontSize: 16, fontFamily: fonts.bold, color: colors.text, marginBottom: 2 },
+  label: { ...typography.body },
   iconButton: { padding: spacing.sm },
   empty: {
     flex: 1,

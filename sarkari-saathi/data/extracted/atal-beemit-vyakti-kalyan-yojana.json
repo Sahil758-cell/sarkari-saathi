@@ -25,5 +25,6 @@
     "Aadhaar Card",
     "Cancelled cheque leaf or bank passbook (if bank details are not already in the ESIC database)"
   ],
-  "application_link": "https://esic.gov.in/"
+  "application_link": "https://esic.gov.in/",
+  "date_added": "2026-08-10T11:03:28.582224+00:00"
 }

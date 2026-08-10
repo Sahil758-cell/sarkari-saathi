@@ -8,6 +8,7 @@ import difflib
 import json
 import os
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -41,6 +42,14 @@ def load_schemes() -> list:
         except (json.JSONDecodeError, OSError):
             continue  # skip unreadable files rather than crash the bot
     return schemes
+
+
+def get_latest_schemes(limit: int = 20) -> list:
+    """Schemes sorted newest-first by date_added. Schemes missing the field
+    (pre-dating the backfill, shouldn't happen after it runs) sort last."""
+    schemes = load_schemes()
+    schemes.sort(key=lambda s: s.get("date_added") or "", reverse=True)
+    return schemes[:limit]
 
 
 def _income_bracket_max(bracket: Optional[str]) -> Optional[int]:
@@ -335,10 +344,12 @@ def ensure_extracted(raw_record: dict) -> Optional[dict]:
 
     EXTRACTED_DIR.mkdir(parents=True, exist_ok=True)
     out_path = EXTRACTED_DIR / f"{slug}.json"
+    payload = result.model_dump()
+    payload["date_added"] = datetime.now(timezone.utc).isoformat()
     with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(result.model_dump(), f, ensure_ascii=False, indent=2)
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    data = result.model_dump()
+    data = dict(payload)
     data["_slug"] = slug
     return data
 

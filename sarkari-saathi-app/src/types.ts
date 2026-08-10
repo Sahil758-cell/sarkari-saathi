@@ -30,6 +30,7 @@ export interface Scheme {
   documents_required: string[];
   application_link: string | null;
   portal_url: string | null;
+  date_added: string | null;
 }
 
 export interface MatchResponse {
@@ -50,6 +51,7 @@ export interface EligibilityOut {
 
 export interface SavedProfile {
   id: string;
+  name: string;
   label: string;
   profile: Profile;
 }
@@ -79,4 +81,11 @@ export interface AskResponse {
   answer: string;
   sources: Scheme[];
   web_sources: WebSource[];
+}
+
+export interface NotificationEntry {
+  title: string;
+  body: string;
+  slug: string | null;
+  sent_at: string;
 }

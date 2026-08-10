@@ -1,0 +1,18 @@
+name: Check for new matching schemes
+
+# Scans for schemes added since the last run and pushes a notification to
+# any user whose synced eligibility profile matches one. Daily cadence —
+# GitHub's cron is best-effort (can slip), which is fine for a digest.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  run-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger notification run-check
+        run: |
+          curl -sf -m 60 -X POST https://sarkari-saathi-2gg7.onrender.com/notifications/run-check \
+            -H "X-Cron-Secret: ${{ secrets.CRON_SECRET }}"

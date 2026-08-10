@@ -10,6 +10,7 @@ import {
   TextInput,
   View,
 } from "react-native";
+import { syncProfiles } from "../api/client";
 import FieldSection from "../components/FieldSection";
 import PrimaryButton from "../components/PrimaryButton";
 import SelectButtons from "../components/SelectButtons";
@@ -21,6 +22,7 @@ import {
   OCCUPATION_OPTIONS,
   RESIDENCY_OPTIONS,
 } from "../constants";
+import { useAuth } from "../context/AuthContext";
 import { RootScreenProps } from "../navigation";
 import { getProfile, listProfiles, MAX_SAVED_PROFILES, saveProfile } from "../storage/profiles";
 import { colors, fonts, radius, spacing, typography } from "../theme";
@@ -39,9 +41,11 @@ const TOTAL_STEPS = STEP_TITLES.length;
 
 export default function ProfileFormScreen({ navigation, route }: Props) {
   const editProfileId = route.params?.editProfileId;
+  const { identifier } = useAuth();
 
   const [step, setStep] = useState(0);
 
+  const [name, setName] = useState("");
   const [age, setAge] = useState("");
   const [gender, setGender] = useState<Profile["gender"]>();
   const [state, setState] = useState<string>();
@@ -58,6 +62,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
   const [saveError, setSaveError] = useState<string>();
 
   function resetFields() {
+    setName("");
     setAge("");
     setGender(undefined);
     setState(undefined);
@@ -84,6 +89,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
       getProfile(editProfileId).then((saved) => {
         if (!saved) return;
         const p = saved.profile;
+        setName(saved.name);
         setAge(String(p.age));
         setGender(p.gender);
         setState(p.state);
@@ -97,6 +103,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
     }, [editProfileId])
   );
 
+  const nameValid = name.trim().length > 0;
   const ageNumber = Number(age);
   const ageValid =
     age.trim().length > 0 && Number.isFinite(ageNumber) && ageNumber >= 1 && ageNumber <= 120;
@@ -104,7 +111,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
   const atCap = !editProfileId && savedCount >= MAX_SAVED_PROFILES;
 
   const stepValid = [
-    ageValid && !!gender,
+    nameValid && ageValid && !!gender,
     !!state && !!residency,
     !!category,
     true,
@@ -112,7 +119,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
   ][step];
 
   async function handleSubmit() {
-    if (!ageValid || !gender || !state || !category || !residency) return;
+    if (!nameValid || !ageValid || !gender || !state || !category || !residency) return;
     const profile: Profile = {
       age: ageNumber,
       gender,
@@ -127,7 +134,11 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
     setSaveError(undefined);
     if (shouldSave && !atCap) {
       try {
-        await saveProfile(profile, editProfileId);
+        await saveProfile(profile, name.trim(), editProfileId);
+        if (identifier) {
+          const all = await listProfiles();
+          syncProfiles(all.map((p) => p.profile)).catch(() => {});
+        }
       } catch (err: any) {
         setSaveError(err.message ?? "Could not save profile");
         return;
@@ -164,6 +175,16 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
 
       {step === 0 ? (
         <>
+          <FieldSection icon="person-outline" label="Name" required>
+            <TextInput
+              style={styles.input}
+              value={name}
+              onChangeText={setName}
+              placeholder="e.g. Rohan Kumar"
+              placeholderTextColor={colors.textFaint}
+            />
+          </FieldSection>
+
           <FieldSection icon="calendar-outline" label="Age" required>
             <TextInput
               style={styles.input}
@@ -258,6 +279,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
       {step === 4 ? (
         <>
           <View style={styles.reviewCard}>
+            <ReviewRow label="Name" value={name.trim() || "—"} />
             <ReviewRow label="Age" value={age || "—"} />
             <ReviewRow label="Gender" value={gender ?? "—"} />
             <ReviewRow label="State" value={state ?? "—"} />

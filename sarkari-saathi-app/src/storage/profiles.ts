@@ -29,14 +29,18 @@ export async function getProfile(id: string): Promise<SavedProfile | null> {
   return all.find((p) => p.id === id) ?? null;
 }
 
-export async function saveProfile(profile: Profile, id?: string): Promise<SavedProfile> {
+export async function saveProfile(
+  profile: Profile,
+  name: string,
+  id?: string
+): Promise<SavedProfile> {
   const all = await readAll();
   const label = labelForProfile(profile);
 
   if (id) {
     const index = all.findIndex((p) => p.id === id);
     if (index === -1) throw new Error("Profile not found");
-    const updated: SavedProfile = { id, label, profile };
+    const updated: SavedProfile = { id, name, label, profile };
     all[index] = updated;
     await writeAll(all);
     return updated;
@@ -45,7 +49,7 @@ export async function saveProfile(profile: Profile, id?: string): Promise<SavedP
   if (all.length >= MAX_PROFILES) {
     throw new Error(`You can only save up to ${MAX_PROFILES} profiles`);
   }
-  const created: SavedProfile = { id: String(Date.now()), label, profile };
+  const created: SavedProfile = { id: String(Date.now()), name, label, profile };
   await writeAll([...all, created]);
   return created;
 }

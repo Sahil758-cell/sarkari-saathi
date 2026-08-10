@@ -52,6 +52,7 @@ class SchemeOut(BaseModel):
     documents_required: list[str] = []
     application_link: Optional[str] = None
     portal_url: Optional[str] = None
+    date_added: Optional[str] = None
 
 
 class MatchResponse(BaseModel):
@@ -107,3 +108,26 @@ class VerifyOtpRequest(BaseModel):
 
 class VerifyOtpResponse(BaseModel):
     verified: bool
+    session_token: Optional[str] = None
+
+
+class RegisterPushTokenRequest(BaseModel):
+    expo_push_token: str
+    platform: str
+
+
+class SyncProfilesRequest(BaseModel):
+    profiles: list[ProfileIn]
+
+
+class NotificationOut(BaseModel):
+    title: str
+    body: str
+    slug: Optional[str] = None
+    sent_at: str
+
+
+class RunCheckResult(BaseModel):
+    bootstrapped: bool
+    new_schemes: Optional[int] = None
+    notified: int

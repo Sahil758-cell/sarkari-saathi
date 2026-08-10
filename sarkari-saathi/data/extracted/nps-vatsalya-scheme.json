@@ -22,5 +22,6 @@
     "KYC details of the guardian (Name, Date of Birth, Gender, Address, Photo) fetched from UIDAI or CERSAI database",
     "Court order confirming guardianship (if guardian is court‑appointed)"
   ],
-  "application_link": "https://npstrust.org.in"
+  "application_link": "https://npstrust.org.in",
+  "date_added": "2026-08-10T11:03:28.582224+00:00"
 }

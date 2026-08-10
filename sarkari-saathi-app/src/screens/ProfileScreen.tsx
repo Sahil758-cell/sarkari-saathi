@@ -45,9 +45,12 @@ export default function ProfileScreen({ navigation }: Props) {
           <Text style={styles.headerSubtitle}>Manage your account and preferences</Text>
         </View>
         <View style={styles.headerIcons}>
-          <View style={styles.headerIconButton}>
+          <Pressable
+            style={styles.headerIconButton}
+            onPress={() => navigation.navigate("Notifications", undefined)}
+          >
             <Ionicons name="notifications-outline" size={20} color={colors.text} />
-          </View>
+          </Pressable>
           <View style={styles.headerIconButton}>
             <Ionicons name="settings-outline" size={20} color={colors.text} />
           </View>
@@ -164,7 +167,10 @@ export default function ProfileScreen({ navigation }: Props) {
             <View style={styles.iconCircleSmall}>
               <Ionicons name="person-outline" size={16} color={colors.primary} />
             </View>
-            <Text style={styles.savedLabel}>{p.label}</Text>
+            <View style={styles.savedTextCol}>
+              <Text style={styles.savedName}>{p.name}</Text>
+              <Text style={styles.savedLabel}>{p.label}</Text>
+            </View>
             <Ionicons name="chevron-forward" size={16} color={colors.textFaint} />
           </Pressable>
         ))
@@ -413,7 +419,9 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     marginRight: spacing.sm,
   },
-  savedLabel: { ...typography.body, flex: 1 },
+  savedTextCol: { flex: 1 },
+  savedName: { fontSize: 15, fontFamily: fonts.bold, color: colors.text, marginBottom: 2 },
+  savedLabel: { ...typography.body },
   moreHeader: { ...typography.heading, marginBottom: spacing.sm, marginTop: spacing.sm },
   moreCard: {
     backgroundColor: colors.surface,

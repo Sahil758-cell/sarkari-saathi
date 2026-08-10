@@ -14,12 +14,20 @@ import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from "react";
 import { AuthProvider } from "./src/context/AuthContext";
 import { MainTabParamList, RootStackParamList } from "./src/navigation";
+import { navigateToSchemeFromNotificationData, navigationRef } from "./src/navigationRef";
+import {
+  addNotificationResponseListener,
+  ensureAndroidChannel,
+  getLastNotificationResponse,
+} from "./src/notifications/push";
 import AboutScreen from "./src/screens/AboutScreen";
 import AskScreen from "./src/screens/AskScreen";
 import DocumentsScreen from "./src/screens/DocumentsScreen";
 import HelpSupportScreen from "./src/screens/HelpSupportScreen";
 import HomeScreen from "./src/screens/HomeScreen";
+import LatestSchemesScreen from "./src/screens/LatestSchemesScreen";
 import LoginScreen from "./src/screens/LoginScreen";
+import NotificationsScreen from "./src/screens/NotificationsScreen";
 import PrivacySecurityScreen from "./src/screens/PrivacySecurityScreen";
 import ProfileFormScreen from "./src/screens/ProfileFormScreen";
 import ProfileScreen from "./src/screens/ProfileScreen";
@@ -106,13 +114,29 @@ export default function App() {
     }
   }, [fontsLoaded, fontError]);
 
+  useEffect(() => {
+    ensureAndroidChannel();
+
+    // Tap that launched the app from a fully killed state — a separate path
+    // from the listener below, both are needed.
+    getLastNotificationResponse().then((response) => {
+      if (response) navigateToSchemeFromNotificationData(response.notification.request.content.data);
+    });
+
+    // Tap while backgrounded or foregrounded.
+    const subscription = addNotificationResponseListener((response) => {
+      navigateToSchemeFromNotificationData(response.notification.request.content.data);
+    });
+    return () => subscription.remove();
+  }, []);
+
   if (!fontsLoaded && !fontError) {
     return null;
   }
 
   return (
     <AuthProvider>
-      <NavigationContainer>
+      <NavigationContainer ref={navigationRef}>
         <StatusBar style="auto" />
         <Stack.Navigator
           screenOptions={{
@@ -154,6 +178,16 @@ export default function App() {
             name="HelpSupport"
             component={HelpSupportScreen}
             options={{ title: "Help & Support" }}
+          />
+          <Stack.Screen
+            name="LatestSchemes"
+            component={LatestSchemesScreen}
+            options={{ title: "Latest Schemes" }}
+          />
+          <Stack.Screen
+            name="Notifications"
+            component={NotificationsScreen}
+            options={{ title: "Notifications" }}
           />
         </Stack.Navigator>
       </NavigationContainer>

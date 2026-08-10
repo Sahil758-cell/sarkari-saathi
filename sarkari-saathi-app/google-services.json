@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59654843086",
+    "project_id": "sarkari-saathi-b38fc",
+    "storage_bucket": "sarkari-saathi-b38fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59654843086:android:81d387403f27d5d4a5be9f",
+        "android_client_info": {
+          "package_name": "com.sahildesh02.sarkarisaathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZKHwckw81Q8SkfjQWzQ1HjYThvxztkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

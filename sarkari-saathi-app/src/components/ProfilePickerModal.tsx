@@ -32,7 +32,10 @@ export default function ProfilePickerModal({
                 <View style={styles.iconCircle}>
                   <Ionicons name="person-outline" size={18} color={colors.primary} />
                 </View>
-                <Text style={styles.rowText}>{item.label}</Text>
+                <View style={styles.rowTextCol}>
+                  <Text style={styles.rowName}>{item.name}</Text>
+                  <Text style={styles.rowText}>{item.label}</Text>
+                </View>
                 <Ionicons name="chevron-forward" size={18} color={colors.textFaint} />
               </Pressable>
             )}
@@ -77,7 +80,9 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  rowText: { ...typography.body, flex: 1 },
+  rowTextCol: { flex: 1 },
+  rowName: { fontSize: 15, fontFamily: fonts.bold, color: colors.text, marginBottom: 2 },
+  rowText: { ...typography.body },
   altRow: {
     flexDirection: "row",
     alignItems: "center",

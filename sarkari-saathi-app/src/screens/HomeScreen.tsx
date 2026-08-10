@@ -40,9 +40,15 @@ export default function HomeScreen({ navigation }: Props) {
             <Text style={styles.tagline}>Your Guide to Government Schemes</Text>
           </View>
         </View>
-        <View style={styles.bellButton}>
+        <Pressable
+          style={styles.bellButton}
+          onPress={() => {
+            tap();
+            navigation.navigate("Notifications", undefined);
+          }}
+        >
           <Ionicons name="notifications-outline" size={22} color={colors.text} />
-        </View>
+        </Pressable>
       </View>
 
       <View style={styles.greetingRow}>
@@ -175,7 +181,13 @@ export default function HomeScreen({ navigation }: Props) {
       </ScrollView>
 
       <SectionHeader title="Government Updates" />
-      <View style={styles.updateCard}>
+      <Pressable
+        style={styles.updateCard}
+        onPress={() => {
+          tap();
+          navigation.navigate("LatestSchemes", undefined);
+        }}
+      >
         <View style={styles.updateIcon}>
           <Ionicons name="megaphone-outline" size={22} color={colors.primary} />
         </View>
@@ -184,7 +196,7 @@ export default function HomeScreen({ navigation }: Props) {
           <Text style={styles.updateSubtitle}>Explore new government initiatives</Text>
         </View>
         <Ionicons name="chevron-forward" size={20} color={colors.textFaint} />
-      </View>
+      </Pressable>
 
       {profiles.length > 0 ? (
         <>
@@ -204,7 +216,10 @@ export default function HomeScreen({ navigation }: Props) {
               <View style={styles.iconCircle}>
                 <Ionicons name="person-outline" size={18} color={colors.primary} />
               </View>
-              <Text style={styles.savedLabel}>{p.label}</Text>
+              <View style={styles.savedTextCol}>
+                <Text style={styles.savedName}>{p.name}</Text>
+                <Text style={styles.savedLabel}>{p.label}</Text>
+              </View>
               <Ionicons name="chevron-forward" size={18} color={colors.textFaint} />
             </Pressable>
           ))}
@@ -353,5 +368,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     marginRight: spacing.md,
   },
-  savedLabel: { ...typography.body, flex: 1 },
+  savedTextCol: { flex: 1 },
+  savedName: { fontSize: 15, fontFamily: fonts.bold, color: colors.text, marginBottom: 2 },
+  savedLabel: { ...typography.body },
 });

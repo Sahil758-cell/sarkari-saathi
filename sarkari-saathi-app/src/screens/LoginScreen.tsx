@@ -58,7 +58,7 @@ export default function LoginScreen({ navigation }: Props) {
         setError("Incorrect code, please try again.");
         return;
       }
-      await login(email.trim());
+      await login(email.trim(), result.session_token);
       navigation.goBack();
     } catch (err: any) {
       setError(err.message ?? "Something went wrong. Please try again.");

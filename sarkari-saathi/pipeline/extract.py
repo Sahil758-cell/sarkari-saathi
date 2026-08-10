@@ -13,6 +13,7 @@ import json
 import os
 import sys
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import List, Literal, Optional, Tuple
 
@@ -248,8 +249,10 @@ def main() -> int:
         result, error = extract_scheme(client, scheme)
 
         if result is not None:
+            payload = result.model_dump()
+            payload["date_added"] = datetime.now(timezone.utc).isoformat()
             with open(out_path, "w", encoding="utf-8") as f:
-                json.dump(result.model_dump(), f, ensure_ascii=False, indent=2)
+                json.dump(payload, f, ensure_ascii=False, indent=2)
             succeeded += 1
         else:
             failed += 1
