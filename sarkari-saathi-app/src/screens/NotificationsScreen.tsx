@@ -3,6 +3,7 @@ import { NativeStackScreenProps } from "@react-navigation/native-stack";
 import { useEffect, useState } from "react";
 import { ActivityIndicator, FlatList, Pressable, StyleSheet, Text, View } from "react-native";
 import { getNotificationHistory } from "../api/client";
+import { useAuth } from "../context/AuthContext";
 import { RootStackParamList } from "../navigation";
 import { colors, fonts, radius, shadow, spacing, typography } from "../theme";
 import { NotificationEntry } from "../types";
@@ -19,11 +20,17 @@ function formatSentAt(iso: string): string {
 }
 
 export default function NotificationsScreen({ navigation }: Props) {
+  const { initializing } = useAuth();
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string>();
   const [entries, setEntries] = useState<NotificationEntry[]>([]);
 
   useEffect(() => {
+    // AuthContext restores the session token from AsyncStorage asynchronously
+    // on app boot — firing this request before that finishes means the
+    // request goes out with no Authorization header at all (401 "Missing
+    // session token"), even for an already-logged-in user.
+    if (initializing) return;
     let cancelled = false;
     getNotificationHistory()
       .then((res) => {
@@ -38,7 +45,7 @@ export default function NotificationsScreen({ navigation }: Props) {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [initializing]);
 
   if (loading) {
     return (
