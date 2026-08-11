@@ -7,13 +7,15 @@ import {
   Linking,
   ScrollView,
   StyleSheet,
-  Text,
   View,
 } from "react-native";
 import { checkEligibility, getQuestions, getScheme } from "../api/client";
 import DynamicQuestionForm from "../components/DynamicQuestionForm";
 import PrimaryButton from "../components/PrimaryButton";
 import ProfilePickerModal from "../components/ProfilePickerModal";
+import { Text } from "../components/Text";
+import { useLanguage } from "../context/LanguageContext";
+import { StringKey } from "../i18n/strings";
 import { RootStackParamList } from "../navigation";
 import { listProfiles } from "../storage/profiles";
 import { colors, fonts, gradients, radius, shadow, spacing, typography } from "../theme";
@@ -21,16 +23,16 @@ import { EligibilityOut, PartialProfile, QuestionSpec, SavedProfile, Scheme } fr
 
 type Props = NativeStackScreenProps<RootStackParamList, "SchemeDetail">;
 
-const REASON_LABELS: Record<string, string> = {
-  age_min: "Minimum age not met",
-  age_max: "Maximum age exceeded",
-  gender: "Gender does not match",
-  state: "Not available in your state",
-  category: "Category does not match",
-  income: "Income exceeds the limit",
-  bpl: "Requires BPL status",
-  disability: "Requires disability status",
-  residency: "Residency does not match",
+const REASON_KEYS: Record<string, StringKey> = {
+  age_min: "reasonAgeMin",
+  age_max: "reasonAgeMax",
+  gender: "reasonGender",
+  state: "reasonState",
+  category: "reasonCategory",
+  income: "reasonIncome",
+  bpl: "reasonBpl",
+  disability: "reasonDisability",
+  residency: "reasonResidency",
 };
 
 function DetailSection({
@@ -57,6 +59,7 @@ function DetailSection({
 
 export default function SchemeDetailScreen({ route }: Props) {
   const { slug } = route.params;
+  const { language, t } = useLanguage();
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string>();
   const [scheme, setScheme] = useState<Scheme>();
@@ -72,12 +75,12 @@ export default function SchemeDetailScreen({ route }: Props) {
 
   useEffect(() => {
     let cancelled = false;
-    getScheme(slug)
+    getScheme(slug, language)
       .then((s) => {
         if (!cancelled) setScheme(s);
       })
       .catch((err) => {
-        if (!cancelled) setError(err.message ?? "Something went wrong");
+        if (!cancelled) setError(err.message ?? t("somethingWentWrong"));
       })
       .finally(() => {
         if (!cancelled) setLoading(false);
@@ -85,7 +88,7 @@ export default function SchemeDetailScreen({ route }: Props) {
     return () => {
       cancelled = true;
     };
-  }, [slug]);
+  }, [slug, language]);
 
   async function runCheck(profile: PartialProfile) {
     setEligibilityError(undefined);
@@ -95,7 +98,7 @@ export default function SchemeDetailScreen({ route }: Props) {
       setEligibility(result);
       setQuestions(undefined);
     } catch (err: any) {
-      setEligibilityError(err.message ?? "Something went wrong");
+      setEligibilityError(err.message ?? t("somethingWentWrong"));
     } finally {
       setCheckingEligibility(false);
     }
@@ -115,7 +118,7 @@ export default function SchemeDetailScreen({ route }: Props) {
         setQuestions(q);
       }
     } catch (err: any) {
-      setEligibilityError(err.message ?? "Something went wrong");
+      setEligibilityError(err.message ?? t("somethingWentWrong"));
     } finally {
       setQuestionsLoading(false);
     }
@@ -150,7 +153,7 @@ export default function SchemeDetailScreen({ route }: Props) {
     return (
       <View style={styles.center}>
         <Ionicons name="alert-circle-outline" size={40} color={colors.error} />
-        <Text style={styles.errorText}>{error ?? "Scheme not found"}</Text>
+        <Text style={styles.errorText}>{error ?? t("schemeNotFound")}</Text>
       </View>
     );
   }
@@ -172,13 +175,13 @@ export default function SchemeDetailScreen({ route }: Props) {
       </LinearGradient>
 
       {scheme.benefits_summary ? (
-        <DetailSection icon="gift-outline" title="Benefits">
+        <DetailSection icon="gift-outline" title={t("benefits")}>
           <Text style={styles.text}>{scheme.benefits_summary}</Text>
         </DetailSection>
       ) : null}
 
       {scheme.documents_required.length > 0 ? (
-        <DetailSection icon="document-text-outline" title="Documents required">
+        <DetailSection icon="document-text-outline" title={t("documentsRequired")}>
           {scheme.documents_required.map((doc, i) => (
             <View key={i} style={styles.bulletRow}>
               <View style={styles.bulletDot} />
@@ -189,7 +192,7 @@ export default function SchemeDetailScreen({ route }: Props) {
       ) : null}
 
       {scheme.other_conditions.length > 0 ? (
-        <DetailSection icon="information-circle-outline" title="Conditions">
+        <DetailSection icon="information-circle-outline" title={t("conditions")}>
           {scheme.other_conditions.map((cond, i) => (
             <View key={i} style={styles.bulletRow}>
               <View style={styles.bulletDot} />
@@ -202,7 +205,7 @@ export default function SchemeDetailScreen({ route }: Props) {
       {link ? (
         <View style={styles.buttonSpacing}>
           <PrimaryButton
-            title="Open application page"
+            title={t("openApplicationPage")}
             icon="open-outline"
             onPress={() => Linking.openURL(link)}
           />
@@ -211,7 +214,7 @@ export default function SchemeDetailScreen({ route }: Props) {
 
       <View style={styles.buttonSpacing}>
         <PrimaryButton
-          title={questionsLoading ? "Loading..." : "Check my eligibility"}
+          title={questionsLoading ? t("loading") : t("checkMyEligibility")}
           icon="checkmark-circle-outline"
           iconPosition="left"
           variant="outline"
@@ -251,14 +254,14 @@ export default function SchemeDetailScreen({ route }: Props) {
                 { color: eligibility.eligible ? colors.success : colors.error },
               ]}
             >
-              {eligibility.eligible ? "You appear eligible" : "You may not be eligible"}
+              {eligibility.eligible ? t("youAppearEligible") : t("youMayNotBeEligible")}
             </Text>
           </View>
           {eligibility.reasons.map((reason, i) => (
             <View key={i} style={styles.bulletRow}>
               <View style={styles.bulletDot} />
               <Text style={styles.bulletText}>
-                {REASON_LABELS[reason.field] ?? reason.field}
+                {REASON_KEYS[reason.field] ? t(REASON_KEYS[reason.field]) : reason.field}
               </Text>
             </View>
           ))}

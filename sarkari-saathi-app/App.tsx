@@ -1,5 +1,11 @@
 import { Ionicons } from "@expo/vector-icons";
 import {
+  NotoSansDevanagari_400Regular,
+  NotoSansDevanagari_600SemiBold,
+  NotoSansDevanagari_700Bold,
+  NotoSansDevanagari_800ExtraBold,
+} from "@expo-google-fonts/noto-sans-devanagari";
+import {
   Poppins_400Regular,
   Poppins_600SemiBold,
   Poppins_700Bold,
@@ -13,6 +19,7 @@ import { StatusBar } from "expo-status-bar";
 import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from "react";
 import { AuthProvider } from "./src/context/AuthContext";
+import { LanguageProvider } from "./src/context/LanguageContext";
 import { MainTabParamList, RootStackParamList } from "./src/navigation";
 import { navigateToSchemeFromNotificationData, navigationRef } from "./src/navigationRef";
 import {
@@ -35,6 +42,7 @@ import ResultsListScreen from "./src/screens/ResultsListScreen";
 import SavedScreen from "./src/screens/SavedScreen";
 import SchemeDetailScreen from "./src/screens/SchemeDetailScreen";
 import SearchScreen from "./src/screens/SearchScreen";
+import SettingsScreen from "./src/screens/SettingsScreen";
 import { colors, fonts } from "./src/theme";
 
 SplashScreen.preventAutoHideAsync();
@@ -106,6 +114,10 @@ export default function App() {
     Poppins_600SemiBold,
     Poppins_700Bold,
     Poppins_800ExtraBold,
+    NotoSansDevanagari_400Regular,
+    NotoSansDevanagari_600SemiBold,
+    NotoSansDevanagari_700Bold,
+    NotoSansDevanagari_800ExtraBold,
   });
 
   useEffect(() => {
@@ -135,6 +147,7 @@ export default function App() {
   }
 
   return (
+    <LanguageProvider>
     <AuthProvider>
       <NavigationContainer ref={navigationRef}>
         <StatusBar style="auto" />
@@ -189,8 +202,14 @@ export default function App() {
             component={NotificationsScreen}
             options={{ title: "Notifications" }}
           />
+          <Stack.Screen
+            name="Settings"
+            component={SettingsScreen}
+            options={{ title: "Settings" }}
+          />
         </Stack.Navigator>
       </NavigationContainer>
     </AuthProvider>
+    </LanguageProvider>
   );
 }

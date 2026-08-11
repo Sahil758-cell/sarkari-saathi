@@ -1,8 +1,9 @@
 import { Ionicons } from "@expo/vector-icons";
 import * as Haptics from "expo-haptics";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { Pressable, StyleSheet, View } from "react-native";
 import { colors, fonts, radius, shadow, spacing } from "../theme";
 import { Scheme } from "../types";
+import { Text } from "./Text";
 
 interface Props {
   scheme: Scheme;

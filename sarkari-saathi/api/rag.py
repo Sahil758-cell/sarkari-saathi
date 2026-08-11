@@ -177,14 +177,41 @@ def _clean_completion(client, messages: list[dict], tools: Optional[list[dict]],
     return message  # last attempt even if malformed — caller decides what to do
 
 
-def generate_answer(query: str, schemes: list[dict]) -> dict:
+def _translate_query_to_english(query: str, client) -> str:
+    """Quick, unstructured translation used only to get a good English
+    string for embedding retrieval + _extract_hints (both are English-
+    vocabulary-sensitive) — not shown to the user. Falls back to the
+    original query on any failure, since retrieval degrading gracefully
+    beats the whole request failing."""
+    try:
+        response = client.chat.completions.create(
+            model="gpt-oss-120b",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "Translate the user's message to English. Respond with ONLY the translation, nothing else.",
+                },
+                {"role": "user", "content": query},
+            ],
+            temperature=0,
+        )
+        translated = (response.choices[0].message.content or "").strip()
+        return translated or query
+    except Exception:
+        return query
+
+
+def generate_answer(query: str, schemes: list[dict], lang: str = "en") -> dict:
     client = matcher._get_cerebras_client()
     if client is None:
         raise RuntimeError("Cerebras API key not configured")
 
     context = _build_context(schemes) if schemes else "No matching schemes found locally."
+    system_prompt = SYSTEM_PROMPT
+    if lang == "hi":
+        system_prompt += " Respond in Hindi (Devanagari script), regardless of what language the context is in."
     messages = [
-        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "system", "content": system_prompt},
         {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {query}"},
     ]
     web_sources: list[dict] = []
@@ -232,9 +259,21 @@ def generate_answer(query: str, schemes: list[dict]) -> dict:
     }
 
 
-def ask(query: str, k: int = 5) -> dict:
-    schemes = retrieve(query, k=k)
-    result = generate_answer(query, schemes)
+def ask(query: str, k: int = 5, lang: str = "en") -> dict:
+    retrieval_query = query
+    if lang == "hi":
+        client = matcher._get_cerebras_client()
+        if client is not None:
+            # Both embedding retrieval and _extract_hints are English-
+            # vocabulary-sensitive — translate first rather than build a
+            # second Hindi vector index or bilingual hint matcher.
+            retrieval_query = _translate_query_to_english(query, client)
+
+    schemes = retrieve(retrieval_query, k=k)
+    localized_schemes = (
+        [matcher._localize(s, s["_slug"], lang) for s in schemes] if lang == "hi" else schemes
+    )
+    result = generate_answer(query, localized_schemes, lang=lang)
     # Multiple tool-call rounds can return overlapping URLs — dedupe while
     # keeping first-seen order.
     seen = set()
@@ -243,4 +282,4 @@ def ask(query: str, k: int = 5) -> dict:
         if source["url"] not in seen:
             seen.add(source["url"])
             web_sources.append(source)
-    return {"answer": result["answer"], "sources": schemes, "web_sources": web_sources}
+    return {"answer": result["answer"], "sources": localized_schemes, "web_sources": web_sources}

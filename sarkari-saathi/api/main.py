@@ -61,28 +61,28 @@ def health():
 
 
 @app.post("/match", response_model=MatchResponse)
-def post_match(profile: ProfileIn, limit: int = 30):
-    results = matcher.match(profile.model_dump(exclude_none=True), limit=limit)
+def post_match(profile: ProfileIn, limit: int = 30, lang: str = "en"):
+    results = matcher.match(profile.model_dump(exclude_none=True), limit=limit, lang=lang)
     return {"count": len(results), "results": [_to_scheme_out(s) for s in results]}
 
 
 @app.get("/schemes/latest", response_model=MatchResponse)
-def get_latest_schemes(limit: int = 20):
-    results = matcher.get_latest_schemes(limit=limit)
+def get_latest_schemes(limit: int = 20, lang: str = "en"):
+    results = matcher.get_latest_schemes(limit=limit, lang=lang)
     return {"count": len(results), "results": [_to_scheme_out(s) for s in results]}
 
 
 @app.get("/schemes/{slug}", response_model=SchemeOut)
-def get_scheme(slug: str):
-    scheme = matcher.get_scheme_by_slug(slug)
+def get_scheme(slug: str, lang: str = "en"):
+    scheme = matcher.get_scheme_by_slug(slug, lang=lang)
     if scheme is None:
         raise HTTPException(status_code=404, detail="Scheme not found")
     return _to_scheme_out(scheme)
 
 
 @app.get("/search", response_model=MatchResponse)
-def get_search(q: str, limit: int = 10):
-    results = matcher.search_by_name(q, limit=limit)
+def get_search(q: str, limit: int = 10, lang: str = "en"):
+    results = matcher.search_by_name(q, limit=limit, lang=lang)
     return {"count": len(results), "results": [_to_scheme_out(s) for s in results]}
 
 
@@ -109,7 +109,7 @@ def get_questions(slug: str):
 @app.post("/assistant/ask", response_model=AskResponse)
 def post_ask(body: AskRequest):
     try:
-        result = rag.ask(body.query)
+        result = rag.ask(body.query, lang=body.lang)
     except RateLimitError:
         raise HTTPException(status_code=429, detail="Assistant is busy, try again in a moment")
     return {

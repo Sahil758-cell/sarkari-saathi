@@ -45,19 +45,19 @@ async function request<T>(
   return res.json() as Promise<T>;
 }
 
-export function matchProfile(profile: Profile, limit = 30): Promise<MatchResponse> {
-  return request<MatchResponse>(`/match?limit=${limit}`, {
+export function matchProfile(profile: Profile, limit = 30, lang = "en"): Promise<MatchResponse> {
+  return request<MatchResponse>(`/match?limit=${limit}&lang=${lang}`, {
     method: "POST",
     body: JSON.stringify(profile),
   });
 }
 
-export function getScheme(slug: string): Promise<Scheme> {
-  return request<Scheme>(`/schemes/${encodeURIComponent(slug)}`);
+export function getScheme(slug: string, lang = "en"): Promise<Scheme> {
+  return request<Scheme>(`/schemes/${encodeURIComponent(slug)}?lang=${lang}`);
 }
 
-export function searchSchemes(query: string, limit = 10): Promise<MatchResponse> {
-  const params = new URLSearchParams({ q: query, limit: String(limit) });
+export function searchSchemes(query: string, limit = 10, lang = "en"): Promise<MatchResponse> {
+  const params = new URLSearchParams({ q: query, limit: String(limit), lang });
   return request<MatchResponse>(`/search?${params.toString()}`);
 }
 
@@ -75,10 +75,10 @@ export function getQuestions(slug: string): Promise<QuestionSpec[]> {
   return request<QuestionSpec[]>(`/schemes/${encodeURIComponent(slug)}/questions`);
 }
 
-export function askAssistant(query: string): Promise<AskResponse> {
+export function askAssistant(query: string, lang = "en"): Promise<AskResponse> {
   return request<AskResponse>("/assistant/ask", {
     method: "POST",
-    body: JSON.stringify({ query }),
+    body: JSON.stringify({ query, lang }),
   });
 }
 
@@ -99,8 +99,8 @@ export function verifyOtp(
   });
 }
 
-export function getLatestSchemes(limit = 20): Promise<MatchResponse> {
-  return request<MatchResponse>(`/schemes/latest?limit=${limit}`);
+export function getLatestSchemes(limit = 20, lang = "en"): Promise<MatchResponse> {
+  return request<MatchResponse>(`/schemes/latest?limit=${limit}&lang=${lang}`);
 }
 
 export function registerPushToken(

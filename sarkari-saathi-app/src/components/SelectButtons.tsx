@@ -1,6 +1,7 @@
 import * as Haptics from "expo-haptics";
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { Pressable, StyleSheet, View } from "react-native";
 import { colors, fonts, radius, spacing } from "../theme";
+import { Text } from "./Text";
 
 interface Option<T extends string> {
   value: T;

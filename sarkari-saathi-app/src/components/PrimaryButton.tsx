@@ -7,9 +7,9 @@ import {
   Animated,
   Pressable,
   StyleSheet,
-  Text,
 } from "react-native";
 import { colors, fonts, gradients, radius, shadow, spacing } from "../theme";
+import { Text } from "./Text";
 
 interface Props {
   title: string;

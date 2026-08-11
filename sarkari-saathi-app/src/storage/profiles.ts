@@ -1,13 +1,16 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
-import { GENDER_OPTIONS } from "../constants";
+import { GENDER_OPTIONS, labelFor } from "../i18n/options";
 import { Profile, SavedProfile } from "../types";
 
 const KEY = "sarkari-saathi:profiles";
 const MAX_PROFILES = 4;
 
+// This label is computed once at save time and stored — it doesn't
+// re-localize if the user switches language later (a minor known gap,
+// consistent with how little else in the profile-storage layer is
+// language-aware; the underlying profile data itself is unaffected).
 function labelForProfile(profile: Profile): string {
-  const genderLabel =
-    GENDER_OPTIONS.find((o) => o.value === profile.gender)?.label ?? profile.gender;
+  const genderLabel = labelFor(profile.gender, GENDER_OPTIONS, "en");
   return `${profile.age}, ${genderLabel}, ${profile.state}`;
 }
 

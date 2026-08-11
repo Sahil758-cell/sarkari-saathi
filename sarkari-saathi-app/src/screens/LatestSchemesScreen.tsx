@@ -1,9 +1,11 @@
 import { Ionicons } from "@expo/vector-icons";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";
 import { useEffect, useState } from "react";
-import { ActivityIndicator, FlatList, StyleSheet, Text, View } from "react-native";
+import { ActivityIndicator, FlatList, StyleSheet, View } from "react-native";
 import { getLatestSchemes } from "../api/client";
 import SchemeListItem from "../components/SchemeListItem";
+import { Text } from "../components/Text";
+import { useLanguage } from "../context/LanguageContext";
 import { RootStackParamList } from "../navigation";
 import { colors, spacing, typography } from "../theme";
 import { Scheme } from "../types";
@@ -11,6 +13,7 @@ import { Scheme } from "../types";
 type Props = NativeStackScreenProps<RootStackParamList, "LatestSchemes">;
 
 export default function LatestSchemesScreen({ navigation }: Props) {
+  const { language, t } = useLanguage();
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string>();
   const [results, setResults] = useState<Scheme[]>([]);
@@ -19,12 +22,12 @@ export default function LatestSchemesScreen({ navigation }: Props) {
     let cancelled = false;
     setLoading(true);
     setError(undefined);
-    getLatestSchemes()
+    getLatestSchemes(20, language)
       .then((res) => {
         if (!cancelled) setResults(res.results);
       })
       .catch((err) => {
-        if (!cancelled) setError(err.message ?? "Something went wrong");
+        if (!cancelled) setError(err.message ?? t("somethingWentWrong"));
       })
       .finally(() => {
         if (!cancelled) setLoading(false);
@@ -32,7 +35,7 @@ export default function LatestSchemesScreen({ navigation }: Props) {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [language]);
 
   if (loading) {
     return (
@@ -57,11 +60,11 @@ export default function LatestSchemesScreen({ navigation }: Props) {
       contentContainerStyle={styles.list}
       data={results}
       keyExtractor={(item) => item.slug}
-      ListHeaderComponent={<Text style={styles.header}>Newly added schemes</Text>}
+      ListHeaderComponent={<Text style={styles.header}>{t("newlyAddedSchemes")}</Text>}
       ListEmptyComponent={
         <View style={styles.center}>
           <Ionicons name="file-tray-outline" size={40} color={colors.textFaint} />
-          <Text style={styles.empty}>No schemes yet.</Text>
+          <Text style={styles.empty}>{t("noSchemesYet")}</Text>
         </View>
       }
       renderItem={({ item }) => (

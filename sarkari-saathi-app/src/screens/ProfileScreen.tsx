@@ -2,9 +2,11 @@ import { Ionicons } from "@expo/vector-icons";
 import { useFocusEffect } from "@react-navigation/native";
 import { LinearGradient } from "expo-linear-gradient";
 import { useCallback, useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
+import { Text } from "../components/Text";
 import { useAuth } from "../context/AuthContext";
+import { useLanguage } from "../context/LanguageContext";
 import { TabScreenProps } from "../navigation";
 import { listProfiles } from "../storage/profiles";
 import { colors, fonts, gradients, radius, shadow, spacing, typography } from "../theme";
@@ -28,6 +30,7 @@ function formatMemberSince(iso: string | null): string {
 
 export default function ProfileScreen({ navigation }: Props) {
   const { identifier, memberSince, initializing, logout } = useAuth();
+  const { t } = useLanguage();
   const [profiles, setProfiles] = useState<SavedProfile[]>([]);
 
   useFocusEffect(
@@ -41,8 +44,8 @@ export default function ProfileScreen({ navigation }: Props) {
     <ScrollView style={styles.screen} contentContainerStyle={styles.container}>
       <View style={styles.header}>
         <View>
-          <Text style={styles.headerTitle}>Your Profile</Text>
-          <Text style={styles.headerSubtitle}>Manage your account and preferences</Text>
+          <Text style={styles.headerTitle}>{t("yourProfile")}</Text>
+          <Text style={styles.headerSubtitle}>{t("manageAccount")}</Text>
         </View>
         <View style={styles.headerIcons}>
           <Pressable
@@ -51,9 +54,12 @@ export default function ProfileScreen({ navigation }: Props) {
           >
             <Ionicons name="notifications-outline" size={20} color={colors.text} />
           </Pressable>
-          <View style={styles.headerIconButton}>
+          <Pressable
+            style={styles.headerIconButton}
+            onPress={() => navigation.navigate("Settings", undefined)}
+          >
             <Ionicons name="settings-outline" size={20} color={colors.text} />
-          </View>
+          </Pressable>
         </View>
       </View>
 
@@ -62,12 +68,12 @@ export default function ProfileScreen({ navigation }: Props) {
           <View style={styles.loggedOutIconCircle}>
             <Ionicons name="lock-closed-outline" size={36} color={colors.primary} />
           </View>
-          <Text style={styles.loggedOutHeading}>You're not logged in</Text>
+          <Text style={styles.loggedOutHeading}>{t("notLoggedIn")}</Text>
           <Text style={styles.loggedOutSubtitle}>
-            Log in to manage your account, save your eligibility profile, and more.
+            {t("notLoggedInSubtitle")}
           </Text>
           <Pressable style={styles.loginButtonLarge} onPress={() => navigation.navigate("Login")}>
-            <Text style={styles.loginButtonLargeText}>Log in</Text>
+            <Text style={styles.loginButtonLargeText}>{t("logIn")}</Text>
             <Ionicons name="arrow-forward" size={16} color="#fff" />
           </Pressable>
         </View>
@@ -88,11 +94,11 @@ export default function ProfileScreen({ navigation }: Props) {
               <Text style={styles.heroIdentifier}>{identifier}</Text>
               <View style={styles.verifiedPill}>
                 <Ionicons name="shield-checkmark" size={12} color="#fff" />
-                <Text style={styles.verifiedPillText}>Verified Account</Text>
+                <Text style={styles.verifiedPillText}>{t("verifiedAccount")}</Text>
               </View>
             </View>
             <Pressable style={styles.logoutButton} onPress={() => logout()}>
-              <Text style={styles.logoutText}>Log out</Text>
+              <Text style={styles.logoutText}>{t("logOut")}</Text>
               <Ionicons name="log-out-outline" size={14} color="#fff" />
             </Pressable>
           </View>
@@ -100,17 +106,17 @@ export default function ProfileScreen({ navigation }: Props) {
           <View style={styles.statsRow}>
             <View style={styles.statItem}>
               <Ionicons name="shield-checkmark-outline" size={16} color="#fff" />
-              <Text style={styles.statLabel}>Account Status</Text>
-              <Text style={styles.statValue}>Verified</Text>
+              <Text style={styles.statLabel}>{t("accountStatus")}</Text>
+              <Text style={styles.statValue}>{t("verified")}</Text>
             </View>
             <View style={styles.statItem}>
               <Ionicons name="calendar-outline" size={16} color="#fff" />
-              <Text style={styles.statLabel}>Member Since</Text>
+              <Text style={styles.statLabel}>{t("memberSince")}</Text>
               <Text style={styles.statValue}>{formatMemberSince(memberSince)}</Text>
             </View>
             <View style={styles.statItem}>
               <Ionicons name="ribbon-outline" size={16} color="#fff" />
-              <Text style={styles.statLabel}>Trust Score</Text>
+              <Text style={styles.statLabel}>{t("trustScore")}</Text>
               <Text style={styles.statValue}>100%</Text>
             </View>
           </View>
@@ -121,22 +127,22 @@ export default function ProfileScreen({ navigation }: Props) {
           <Ionicons name="locate" size={22} color={colors.primary} />
         </View>
         <View style={styles.actionText}>
-          <Text style={styles.actionTitle}>Update your eligibility profile</Text>
-          <Text style={styles.actionSubtitle}>Answer a few questions to find matching schemes</Text>
+          <Text style={styles.actionTitle}>{t("updateEligibilityProfile")}</Text>
+          <Text style={styles.actionSubtitle}>{t("updateEligibilityProfileSubtitle")}</Text>
         </View>
         <Pressable
           style={styles.updateNowButton}
           onPress={() => navigation.navigate("EligibilityForm", undefined)}
         >
-          <Text style={styles.updateNowText}>Update Now</Text>
+          <Text style={styles.updateNowText}>{t("updateNow")}</Text>
           <Ionicons name="chevron-forward" size={14} color={colors.primary} />
         </Pressable>
       </View>
 
       <View style={styles.sectionHeaderRow}>
-        <Text style={styles.sectionHeaderTitle}>Saved Profiles</Text>
+        <Text style={styles.sectionHeaderTitle}>{t("savedProfiles")}</Text>
         <Pressable onPress={() => navigation.navigate("Saved", undefined)}>
-          <Text style={styles.sectionHeaderLink}>View All</Text>
+          <Text style={styles.sectionHeaderLink}>{t("viewAll")}</Text>
         </Pressable>
       </View>
 
@@ -145,15 +151,15 @@ export default function ProfileScreen({ navigation }: Props) {
           <View style={styles.emptyIconCircle}>
             <Ionicons name="folder-open-outline" size={30} color={colors.primary} />
           </View>
-          <Text style={styles.emptyTitle}>No saved profiles yet</Text>
+          <Text style={styles.emptyTitle}>{t("noSavedProfilesYet")}</Text>
           <Text style={styles.emptySubtitle}>
-            Save your eligibility profile to quickly find schemes in the future.
+            {t("noSavedProfilesSubtitle")}
           </Text>
           <Pressable
             style={styles.createProfileButton}
             onPress={() => navigation.navigate("EligibilityForm", undefined)}
           >
-            <Text style={styles.createProfileText}>Create Profile</Text>
+            <Text style={styles.createProfileText}>{t("createProfile")}</Text>
             <Ionicons name="add-circle-outline" size={16} color="#fff" />
           </Pressable>
         </View>
@@ -176,15 +182,26 @@ export default function ProfileScreen({ navigation }: Props) {
         ))
       )}
 
-      <Text style={styles.moreHeader}>More</Text>
+      <Text style={styles.moreHeader}>{t("more")}</Text>
       <View style={styles.moreCard}>
+        <Pressable style={styles.moreRow} onPress={() => navigation.navigate("Settings", undefined)}>
+          <View style={styles.iconCircle}>
+            <Ionicons name="language-outline" size={18} color={colors.primary} />
+          </View>
+          <View style={styles.actionText}>
+            <Text style={styles.moreTitle}>{t("language")}</Text>
+            <Text style={styles.actionSubtitle}>{t("languageSubtitle")}</Text>
+          </View>
+          <Ionicons name="chevron-forward" size={18} color={colors.textFaint} />
+        </Pressable>
+        <View style={styles.divider} />
         <Pressable style={styles.moreRow} onPress={() => navigation.navigate("PrivacySecurity")}>
           <View style={styles.iconCircle}>
             <Ionicons name="lock-closed-outline" size={18} color={colors.primary} />
           </View>
           <View style={styles.actionText}>
-            <Text style={styles.moreTitle}>Privacy & Security</Text>
-            <Text style={styles.actionSubtitle}>Manage your data and privacy</Text>
+            <Text style={styles.moreTitle}>{t("privacySecurity")}</Text>
+            <Text style={styles.actionSubtitle}>{t("privacySecuritySubtitle")}</Text>
           </View>
           <Ionicons name="chevron-forward" size={18} color={colors.textFaint} />
         </Pressable>
@@ -194,8 +211,8 @@ export default function ProfileScreen({ navigation }: Props) {
             <Ionicons name="information-circle-outline" size={18} color={colors.primary} />
           </View>
           <View style={styles.actionText}>
-            <Text style={styles.moreTitle}>About Sarkari Saathi</Text>
-            <Text style={styles.actionSubtitle}>Learn more about the app</Text>
+            <Text style={styles.moreTitle}>{t("aboutApp")}</Text>
+            <Text style={styles.actionSubtitle}>{t("aboutAppSubtitle")}</Text>
           </View>
           <Ionicons name="chevron-forward" size={18} color={colors.textFaint} />
         </Pressable>
@@ -205,8 +222,8 @@ export default function ProfileScreen({ navigation }: Props) {
             <Ionicons name="headset-outline" size={18} color={colors.primary} />
           </View>
           <View style={styles.actionText}>
-            <Text style={styles.moreTitle}>Help & Support</Text>
-            <Text style={styles.actionSubtitle}>Get help and contact support</Text>
+            <Text style={styles.moreTitle}>{t("helpSupport")}</Text>
+            <Text style={styles.actionSubtitle}>{t("helpSupportSubtitle")}</Text>
           </View>
           <Ionicons name="chevron-forward" size={18} color={colors.textFaint} />
         </Pressable>

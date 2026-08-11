@@ -14,11 +14,15 @@ from typing import Optional
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = BASE_DIR / "data" / "extracted"
+EXTRACTED_HI_DIR = BASE_DIR / "data" / "extracted_hi"
 RAW_NORMALIZED_PATH = BASE_DIR / "data" / "raw" / "schemes_normalized.json"
 
 sys.path.insert(0, str(BASE_DIR / "pipeline"))
 from utils import slugify  # noqa: E402
 import extract as extract_pipeline  # noqa: E402  (reused for on-demand single-scheme extraction)
+import translate as translate_pipeline  # noqa: E402  (reused for on-demand single-scheme translation)
+
+_LOCALIZABLE_FIELDS = ("scheme_name", "benefits_summary", "other_conditions", "documents_required")
 
 _portal_slug_lookup: Optional[dict] = None
 _raw_schemes_cache: Optional[list] = None
@@ -44,12 +48,39 @@ def load_schemes() -> list:
     return schemes
 
 
-def get_latest_schemes(limit: int = 20) -> list:
+def _localize(scheme: dict, slug: str, lang: str) -> dict:
+    """Overlay Hindi text onto an (always-English) scheme record when
+    lang == 'hi' and a translation exists yet — data/extracted_hi/ fills in
+    gradually via pipeline/translate.py, same rollout shape as extraction
+    itself, so an untranslated scheme just falls back to English rather
+    than erroring. Only the four display-text fields are ever overlaid —
+    every field used for eligibility scoring (age/gender/state/category/
+    income/etc.) stays untouched, so this is always safe to apply after
+    matching/filtering has already happened on the English data."""
+    if lang != "hi":
+        return scheme
+    hi_path = EXTRACTED_HI_DIR / f"{slug}.json"
+    if not hi_path.exists():
+        return scheme
+    try:
+        with open(hi_path, "r", encoding="utf-8") as f:
+            hi_data = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return scheme
+    localized = dict(scheme)
+    for field in _LOCALIZABLE_FIELDS:
+        if field in hi_data:
+            localized[field] = hi_data[field]
+    return localized
+
+
+def get_latest_schemes(limit: int = 20, lang: str = "en") -> list:
     """Schemes sorted newest-first by date_added. Schemes missing the field
     (pre-dating the backfill, shouldn't happen after it runs) sort last."""
     schemes = load_schemes()
     schemes.sort(key=lambda s: s.get("date_added") or "", reverse=True)
-    return schemes[:limit]
+    top = schemes[:limit]
+    return [_localize(s, s["_slug"], lang) for s in top]
 
 
 def _income_bracket_max(bracket: Optional[str]) -> Optional[int]:
@@ -139,7 +170,7 @@ def _score_scheme(scheme: dict, profile: dict) -> Optional[int]:
     return score
 
 
-def match(profile: dict, limit: Optional[int] = None) -> list:
+def match(profile: dict, limit: Optional[int] = None, lang: str = "en") -> list:
     """Return every scheme that matches the profile, ranked by how
     specifically they match (most criteria matched first) — or the top
     `limit` if one is given. The caller (the bot) is responsible for
@@ -163,15 +194,19 @@ def match(profile: dict, limit: Optional[int] = None) -> list:
                 scored.append((s, scheme))
 
     scored.sort(key=lambda pair: pair[0], reverse=True)
-    return [scheme for _, scheme in scored[:limit]]
+    results = [scheme for _, scheme in scored[:limit]]
+    return [_localize(s, s["_slug"], lang) for s in results]
 
 
-def search_by_name(query: str, limit: int = 10) -> list:
+def search_by_name(query: str, limit: int = 10, lang: str = "en") -> list:
     """Case-insensitive substring search over *extracted* scheme names —
     used by the /search flow to find a specific scheme by (partial) name.
     Only searches data/extracted/, so a scheme the bulk extraction job
     hasn't reached yet won't show up here — see search_raw_by_name /
-    ensure_extracted for the fallback that covers the full dataset."""
+    ensure_extracted for the fallback that covers the full dataset.
+    Matching always runs against the English name regardless of `lang`
+    (Hindi-query fuzzy search is a separate, harder feature) — lang only
+    affects which language the *returned* results are displayed in."""
     query_lower = query.strip().lower()
     if not query_lower:
         return []
@@ -181,7 +216,8 @@ def search_by_name(query: str, limit: int = 10) -> list:
     # likely to be what the user meant than a long name that happens to
     # contain it as a substring somewhere in the middle.
     matches.sort(key=lambda s: len(s["scheme_name"]))
-    return matches[:limit]
+    results = matches[:limit]
+    return [_localize(s, s["_slug"], lang) for s in results]
 
 
 def _load_raw_schemes() -> list:
@@ -354,6 +390,35 @@ def ensure_extracted(raw_record: dict) -> Optional[dict]:
     return data
 
 
+def ensure_translated(scheme_en: dict, slug: str) -> Optional[dict]:
+    """If `scheme_en` (an already-extracted English record) hasn't been
+    translated to Hindi yet, translate it right now with a single on-demand
+    Cerebras call — mirrors ensure_extracted()'s on-demand-vs-bulk-job
+    pattern. Result is cached to disk exactly like the bulk translate job's
+    output, so it benefits every future Hindi request for this scheme too.
+    Blocking/synchronous — call via asyncio.to_thread from the bot so it
+    doesn't stall the event loop. Returns the localized scheme dict, or the
+    unmodified English dict if translation wasn't possible (no API key) or
+    failed."""
+    hi_path = EXTRACTED_HI_DIR / f"{slug}.json"
+    if hi_path.exists():
+        return _localize(scheme_en, slug, "hi")
+
+    client = _get_cerebras_client()
+    if client is None:
+        return scheme_en
+
+    result, _error = translate_pipeline.translate_scheme(client, scheme_en)
+    if result is None:
+        return scheme_en
+
+    EXTRACTED_HI_DIR.mkdir(parents=True, exist_ok=True)
+    with open(hi_path, "w", encoding="utf-8") as f:
+        json.dump(result.model_dump(), f, ensure_ascii=False, indent=2)
+
+    return _localize(scheme_en, slug, "hi")
+
+
 # Scheme field -> the question to ask about it, if that field states a
 # restriction. Used by the /search flow to ask only what's actually needed
 # to determine eligibility for a *specific* scheme, instead of the full
@@ -428,14 +493,14 @@ def check_eligibility(scheme: dict, profile: dict) -> dict:
     return {"eligible": len(reasons) == 0, "reasons": reasons}
 
 
-def get_scheme_by_slug(slug: str) -> Optional[dict]:
+def get_scheme_by_slug(slug: str, lang: str = "en") -> Optional[dict]:
     path = EXTRACTED_DIR / f"{slug}.json"
     if not path.exists():
         return None
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
     data["_slug"] = slug
-    return data
+    return _localize(data, slug, lang)
 
 
 def _load_portal_slug_lookup() -> dict:

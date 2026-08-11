@@ -1,10 +1,12 @@
 import { useState } from "react";
-import { StyleSheet, Text, TextInput, View } from "react-native";
-import { CATEGORY_OPTIONS, GENDER_OPTIONS, INCOME_OPTIONS } from "../constants";
+import { StyleSheet, TextInput, View } from "react-native";
+import { useLanguage } from "../context/LanguageContext";
+import { getCategoryOptions, getGenderOptions, getIncomeOptions } from "../constants";
 import { colors, radius, spacing, typography } from "../theme";
 import { PartialProfile, QuestionSpec } from "../types";
 import PrimaryButton from "./PrimaryButton";
 import SelectButtons from "./SelectButtons";
+import { Text } from "./Text";
 
 interface Props {
   questions: QuestionSpec[];
@@ -12,38 +14,41 @@ interface Props {
   submitting?: boolean;
 }
 
-const YES_NO_OPTIONS = [
-  { value: "yes", label: "Yes" },
-  { value: "no", label: "No" },
-];
-
-const INCOME_OPTIONS_WITH_SKIP = [...INCOME_OPTIONS, { value: "skip", label: "Skip" }];
-
-function promptFor(question: QuestionSpec): string {
-  switch (question.key) {
-    case "age":
-      return "What is your age?";
-    case "gender":
-      return "What is your gender?";
-    case "category":
-      return "What is your category?";
-    case "income_bracket":
-      return "What is your annual income?";
-    case "is_bpl":
-      return "Do you have a Below Poverty Line (BPL) card?";
-    case "is_disabled":
-      return "Do you have a disability?";
-    case "state_confirm":
-      return `Is your state one of: ${(question.states ?? []).join(", ")}?`;
-    case "residency_confirm":
-      return `Are you a ${question.residency} resident?`;
-    default:
-      return question.key;
-  }
-}
-
 export default function DynamicQuestionForm({ questions, onSubmit, submitting }: Props) {
+  const { language, t } = useLanguage();
   const [answers, setAnswers] = useState<Record<string, string>>({});
+
+  const YES_NO_OPTIONS = [
+    { value: "yes", label: t("yes") },
+    { value: "no", label: t("no") },
+  ];
+  const INCOME_OPTIONS_WITH_SKIP = [
+    ...getIncomeOptions(language),
+    { value: "skip", label: t("skip") },
+  ];
+
+  function promptFor(question: QuestionSpec): string {
+    switch (question.key) {
+      case "age":
+        return t("askAge");
+      case "gender":
+        return t("askGender");
+      case "category":
+        return t("askCategory");
+      case "income_bracket":
+        return t("askIncome");
+      case "is_bpl":
+        return t("askBpl");
+      case "is_disabled":
+        return t("haveDisability");
+      case "state_confirm":
+        return t("stateConfirmQ", { states: (question.states ?? []).join(", ") });
+      case "residency_confirm":
+        return t("residencyConfirmQ", { residency: question.residency ?? "" });
+      default:
+        return question.key;
+    }
+  }
 
   function setAnswer(key: string, value: string) {
     setAnswers((prev) => ({ ...prev, [key]: value }));
@@ -99,18 +104,18 @@ export default function DynamicQuestionForm({ questions, onSubmit, submitting }:
               keyboardType="number-pad"
               value={answers.age ?? ""}
               onChangeText={(v) => setAnswer("age", v)}
-              placeholder="e.g. 32"
+              placeholder={t("agePlaceholder")}
               placeholderTextColor={colors.textFaint}
             />
           ) : q.key === "gender" ? (
             <SelectButtons
-              options={GENDER_OPTIONS}
+              options={getGenderOptions(language)}
               value={answers.gender as any}
               onChange={(v) => setAnswer("gender", v)}
             />
           ) : q.key === "category" ? (
             <SelectButtons
-              options={CATEGORY_OPTIONS}
+              options={getCategoryOptions(language)}
               value={answers.category as any}
               onChange={(v) => setAnswer("category", v)}
             />
@@ -132,7 +137,7 @@ export default function DynamicQuestionForm({ questions, onSubmit, submitting }:
 
       <View style={styles.submitButtonWrap}>
         <PrimaryButton
-          title="Check eligibility"
+          title={t("checkEligibility")}
           icon="checkmark"
           onPress={handleSubmit}
           disabled={!allAnswered}

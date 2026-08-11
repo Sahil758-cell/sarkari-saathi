@@ -1,7 +1,9 @@
 import { Ionicons } from "@expo/vector-icons";
-import { FlatList, Modal, Pressable, StyleSheet, Text, View } from "react-native";
+import { FlatList, Modal, Pressable, StyleSheet, View } from "react-native";
+import { useLanguage } from "../context/LanguageContext";
 import { colors, fonts, radius, spacing, typography } from "../theme";
 import { SavedProfile } from "../types";
+import { Text } from "./Text";
 
 interface Props {
   visible: boolean;
@@ -18,11 +20,12 @@ export default function ProfilePickerModal({
   onAnswerQuestions,
   onClose,
 }: Props) {
+  const { t } = useLanguage();
   return (
     <Modal visible={visible} animationType="slide" transparent onRequestClose={onClose}>
       <Pressable style={styles.backdrop} onPress={onClose}>
         <Pressable style={styles.sheet} onPress={(e) => e.stopPropagation()}>
-          <Text style={styles.title}>Check eligibility using...</Text>
+          <Text style={styles.title}>{t("checkEligibilityUsing")}</Text>
 
           <FlatList
             data={profiles}
@@ -43,11 +46,11 @@ export default function ProfilePickerModal({
 
           <Pressable style={styles.altRow} onPress={onAnswerQuestions}>
             <Ionicons name="help-circle-outline" size={18} color={colors.primary} />
-            <Text style={styles.altText}>Answer questions for just this scheme</Text>
+            <Text style={styles.altText}>{t("answerQuestionsForScheme")}</Text>
           </Pressable>
 
           <Pressable style={styles.cancelButton} onPress={onClose}>
-            <Text style={styles.cancelText}>Cancel</Text>
+            <Text style={styles.cancelText}>{t("cancel")}</Text>
           </Pressable>
         </Pressable>
       </Pressable>

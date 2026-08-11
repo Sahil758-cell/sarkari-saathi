@@ -1,89 +1,43 @@
 import { Ionicons } from "@expo/vector-icons";
+import { Language } from "./i18n/strings";
+import {
+  CATEGORY_OPTIONS as CATEGORY_OPTION_TUPLES,
+  GENDER_OPTIONS as GENDER_OPTION_TUPLES,
+  INCOME_OPTIONS as INCOME_OPTION_TUPLES,
+  localizedOptions,
+  localizedStates,
+  OCCUPATION_OPTIONS as OCCUPATION_OPTION_TUPLES,
+  RESIDENCY_OPTIONS as RESIDENCY_OPTION_TUPLES,
+} from "./i18n/options";
 
-// Copied from bot/i18n.py — the option vocabularies matcher.py expects.
-// Category/income/residency/gender codes must stay lowercase exactly as
-// listed here; the backend's ProfileIn validates against these same values.
+// Language-aware option lists — value codes match what the backend's
+// ProfileIn validates / matcher.py matches against; only the label changes
+// with language. See src/i18n/options.ts (ported from bot/i18n.py) for the
+// underlying (value, en, hi) data.
 
-export const STATES: string[] = [
-  "Andhra Pradesh",
-  "Arunachal Pradesh",
-  "Assam",
-  "Bihar",
-  "Chhattisgarh",
-  "Goa",
-  "Gujarat",
-  "Haryana",
-  "Himachal Pradesh",
-  "Jharkhand",
-  "Karnataka",
-  "Kerala",
-  "Madhya Pradesh",
-  "Maharashtra",
-  "Manipur",
-  "Meghalaya",
-  "Mizoram",
-  "Nagaland",
-  "Odisha",
-  "Punjab",
-  "Rajasthan",
-  "Sikkim",
-  "Tamil Nadu",
-  "Telangana",
-  "Tripura",
-  "Uttar Pradesh",
-  "Uttarakhand",
-  "West Bengal",
-  "Andaman and Nicobar Islands",
-  "Chandigarh",
-  "Dadra and Nagar Haveli and Daman and Diu",
-  "Delhi",
-  "Jammu and Kashmir",
-  "Ladakh",
-  "Lakshadweep",
-  "Puducherry",
-];
+export function getStates(lang: Language): string[] {
+  return localizedStates(lang);
+}
 
-export const GENDER_OPTIONS: { value: "male" | "female"; label: string }[] = [
-  { value: "male", label: "Male" },
-  { value: "female", label: "Female" },
-];
+export function getGenderOptions(lang: Language) {
+  return localizedOptions(GENDER_OPTION_TUPLES, lang);
+}
 
-export const CATEGORY_OPTIONS: {
-  value: "general" | "sc" | "st" | "obc" | "ews";
-  label: string;
-}[] = [
-  { value: "general", label: "General" },
-  { value: "sc", label: "SC" },
-  { value: "st", label: "ST" },
-  { value: "obc", label: "OBC" },
-  { value: "ews", label: "EWS" },
-];
+export function getCategoryOptions(lang: Language) {
+  return localizedOptions(CATEGORY_OPTION_TUPLES, lang);
+}
 
-export const INCOME_OPTIONS: {
-  value: "below_1l" | "1_2l" | "2_5l" | "5_8l" | "above_8l";
-  label: string;
-}[] = [
-  { value: "below_1l", label: "Below ₹1 Lakh" },
-  { value: "1_2l", label: "₹1-2 Lakh" },
-  { value: "2_5l", label: "₹2-5 Lakh" },
-  { value: "5_8l", label: "₹5-8 Lakh" },
-  { value: "above_8l", label: "Above ₹8 Lakh" },
-];
+export function getIncomeOptions(lang: Language) {
+  return localizedOptions(INCOME_OPTION_TUPLES, lang);
+}
 
-export const RESIDENCY_OPTIONS: { value: "rural" | "urban"; label: string }[] = [
-  { value: "rural", label: "Rural" },
-  { value: "urban", label: "Urban" },
-];
+export function getResidencyOptions(lang: Language) {
+  return localizedOptions(RESIDENCY_OPTION_TUPLES, lang);
+}
 
-export const OCCUPATION_OPTIONS: string[] = [
-  "Farmer",
-  "Fisherman",
-  "Student",
-  "Entrepreneur",
-  "Laborer/Worker",
-  "Artisan",
-  "Unemployed",
-];
+export function getOccupationOptions(lang: Language) {
+  return localizedOptions(OCCUPATION_OPTION_TUPLES, lang);
+}
 
 // Approximate categories used for the Home/Search "browse by category" UI —
 // tapping one runs a keyword search against the existing /search endpoint,

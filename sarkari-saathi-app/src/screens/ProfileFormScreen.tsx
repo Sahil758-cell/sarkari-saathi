@@ -6,7 +6,6 @@ import {
   ScrollView,
   StyleSheet,
   Switch,
-  Text,
   TextInput,
   View,
 } from "react-native";
@@ -15,14 +14,17 @@ import FieldSection from "../components/FieldSection";
 import PrimaryButton from "../components/PrimaryButton";
 import SelectButtons from "../components/SelectButtons";
 import StatePickerModal from "../components/StatePickerModal";
+import { Text } from "../components/Text";
 import {
-  CATEGORY_OPTIONS,
-  GENDER_OPTIONS,
-  INCOME_OPTIONS,
-  OCCUPATION_OPTIONS,
-  RESIDENCY_OPTIONS,
+  getCategoryOptions,
+  getGenderOptions,
+  getIncomeOptions,
+  getOccupationOptions,
+  getResidencyOptions,
 } from "../constants";
 import { useAuth } from "../context/AuthContext";
+import { useLanguage } from "../context/LanguageContext";
+import { stateLabel } from "../i18n/options";
 import { RootScreenProps } from "../navigation";
 import { getProfile, listProfiles, MAX_SAVED_PROFILES, saveProfile } from "../storage/profiles";
 import { colors, fonts, radius, spacing, typography } from "../theme";
@@ -30,18 +32,19 @@ import { Profile } from "../types";
 
 type Props = RootScreenProps<"EligibilityForm">;
 
-const STEP_TITLES = [
-  "Personal Details",
-  "Location",
-  "Category & Income",
-  "Additional Info",
-  "Review",
-];
-const TOTAL_STEPS = STEP_TITLES.length;
-
 export default function ProfileFormScreen({ navigation, route }: Props) {
   const editProfileId = route.params?.editProfileId;
   const { identifier } = useAuth();
+  const { language, t } = useLanguage();
+
+  const STEP_TITLES = [
+    t("personalDetails"),
+    t("location"),
+    t("categoryIncome"),
+    t("additionalInfo"),
+    t("review"),
+  ];
+  const TOTAL_STEPS = STEP_TITLES.length;
 
   const [step, setStep] = useState(0);
 
@@ -140,7 +143,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
           syncProfiles(all.map((p) => p.profile)).catch(() => {});
         }
       } catch (err: any) {
-        setSaveError(err.message ?? "Could not save profile");
+        setSaveError(err.message ?? t("somethingWentWrong"));
         return;
       }
     }
@@ -158,7 +161,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
   return (
     <ScrollView style={styles.screen} contentContainerStyle={styles.container}>
       <Text style={styles.stepLabel}>
-        Step {step + 1} of {TOTAL_STEPS}
+        {t("review")} {step + 1} / {TOTAL_STEPS}
       </Text>
       <View style={styles.progressTrack}>
         <View style={[styles.progressFill, { width: `${((step + 1) / TOTAL_STEPS) * 100}%` }]} />
@@ -167,7 +170,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
       <View style={styles.introCard}>
         <Ionicons name="information-circle-outline" size={18} color={colors.primary} />
         <Text style={styles.introText}>
-          Tell us a bit about yourself to see matching government schemes.
+          {t("findMySchemesSubtitle")}
         </Text>
       </View>
 
@@ -175,39 +178,39 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
 
       {step === 0 ? (
         <>
-          <FieldSection icon="person-outline" label="Name" required>
+          <FieldSection icon="person-outline" label={t("name")} required>
             <TextInput
               style={styles.input}
               value={name}
               onChangeText={setName}
-              placeholder="e.g. Rohan Kumar"
+              placeholder={t("namePlaceholder")}
               placeholderTextColor={colors.textFaint}
             />
           </FieldSection>
 
-          <FieldSection icon="calendar-outline" label="Age" required>
+          <FieldSection icon="calendar-outline" label={t("age")} required>
             <TextInput
               style={styles.input}
               keyboardType="number-pad"
               value={age}
               onChangeText={setAge}
-              placeholder="Enter your age"
+              placeholder={t("agePlaceholder")}
               placeholderTextColor={colors.textFaint}
             />
           </FieldSection>
 
-          <FieldSection icon="male-female-outline" label="Gender" required>
-            <SelectButtons options={GENDER_OPTIONS} value={gender} onChange={setGender} />
+          <FieldSection icon="male-female-outline" label={t("gender")} required>
+            <SelectButtons options={getGenderOptions(language)} value={gender} onChange={(v) => setGender(v as Profile["gender"])} />
           </FieldSection>
         </>
       ) : null}
 
       {step === 1 ? (
         <>
-          <FieldSection icon="location-outline" label="State" required>
+          <FieldSection icon="location-outline" label={t("state")} required>
             <Pressable style={styles.input} onPress={() => setStatePickerVisible(true)}>
               <Text style={state ? styles.inputText : styles.placeholderText}>
-                {state ?? "Select your state"}
+                {state ? stateLabel(state, language) : t("selectState")}
               </Text>
             </Pressable>
             <StatePickerModal
@@ -220,23 +223,23 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
             />
           </FieldSection>
 
-          <FieldSection icon="home-outline" label="Residency" required>
-            <SelectButtons options={RESIDENCY_OPTIONS} value={residency} onChange={setResidency} />
+          <FieldSection icon="home-outline" label={t("residency")} required>
+            <SelectButtons options={getResidencyOptions(language)} value={residency} onChange={(v) => setResidency(v as Profile["residency"])} />
           </FieldSection>
         </>
       ) : null}
 
       {step === 2 ? (
         <>
-          <FieldSection icon="people-outline" label="Category" required>
-            <SelectButtons options={CATEGORY_OPTIONS} value={category} onChange={setCategory} />
+          <FieldSection icon="people-outline" label={t("category")} required>
+            <SelectButtons options={getCategoryOptions(language)} value={category} onChange={(v) => setCategory(v as Profile["category"])} />
           </FieldSection>
 
-          <FieldSection icon="cash-outline" label="Annual income">
+          <FieldSection icon="cash-outline" label={t("annualIncome")}>
             <SelectButtons
-              options={INCOME_OPTIONS}
+              options={getIncomeOptions(language)}
               value={incomeBracket}
-              onChange={setIncomeBracket}
+              onChange={(v) => setIncomeBracket(v as Profile["income_bracket"])}
             />
           </FieldSection>
         </>
@@ -244,9 +247,9 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
 
       {step === 3 ? (
         <>
-          <FieldSection icon="briefcase-outline" label="Occupation">
+          <FieldSection icon="briefcase-outline" label={t("occupation")}>
             <SelectButtons
-              options={OCCUPATION_OPTIONS.map((o) => ({ value: o, label: o }))}
+              options={getOccupationOptions(language)}
               value={occupation}
               onChange={setOccupation}
             />
@@ -256,7 +259,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
             <View style={styles.switchRow}>
               <View style={styles.switchLabelRow}>
                 <Ionicons name="card-outline" size={18} color={colors.primary} />
-                <Text style={styles.switchLabel}>Below Poverty Line (BPL)?</Text>
+                <Text style={styles.switchLabel}>{t("belowPovertyLine")}</Text>
               </View>
               <Switch value={isBpl} onValueChange={setIsBpl} trackColor={{ true: colors.primary }} />
             </View>
@@ -264,7 +267,7 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
             <View style={styles.switchRow}>
               <View style={styles.switchLabelRow}>
                 <Ionicons name="accessibility-outline" size={18} color={colors.primary} />
-                <Text style={styles.switchLabel}>Do you have a disability?</Text>
+                <Text style={styles.switchLabel}>{t("haveDisability")}</Text>
               </View>
               <Switch
                 value={isDisabled}
@@ -279,30 +282,29 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
       {step === 4 ? (
         <>
           <View style={styles.reviewCard}>
-            <ReviewRow label="Name" value={name.trim() || "—"} />
-            <ReviewRow label="Age" value={age || "—"} />
-            <ReviewRow label="Gender" value={gender ?? "—"} />
-            <ReviewRow label="State" value={state ?? "—"} />
-            <ReviewRow label="Residency" value={residency ?? "—"} />
-            <ReviewRow label="Category" value={category?.toUpperCase() ?? "—"} />
-            <ReviewRow label="Annual income" value={incomeBracket ?? "Not specified"} />
-            <ReviewRow label="Occupation" value={occupation ?? "Not specified"} />
-            <ReviewRow label="BPL" value={isBpl ? "Yes" : "No"} />
-            <ReviewRow label="Disability" value={isDisabled ? "Yes" : "No"} />
+            <ReviewRow label={t("name")} value={name.trim() || "—"} />
+            <ReviewRow label={t("age")} value={age || "—"} />
+            <ReviewRow label={t("gender")} value={gender ? getGenderOptions(language).find((o) => o.value === gender)?.label ?? gender : "—"} />
+            <ReviewRow label={t("state")} value={state ? stateLabel(state, language) : "—"} />
+            <ReviewRow label={t("residency")} value={residency ? getResidencyOptions(language).find((o) => o.value === residency)?.label ?? residency : "—"} />
+            <ReviewRow label={t("category")} value={category ? getCategoryOptions(language).find((o) => o.value === category)?.label ?? category : "—"} />
+            <ReviewRow label={t("annualIncome")} value={incomeBracket ? getIncomeOptions(language).find((o) => o.value === incomeBracket)?.label ?? incomeBracket : t("skip")} />
+            <ReviewRow label={t("occupation")} value={occupation ? getOccupationOptions(language).find((o) => o.value === occupation)?.label ?? occupation : t("skip")} />
+            <ReviewRow label={t("belowPovertyLine")} value={isBpl ? t("yes") : t("no")} />
+            <ReviewRow label={t("haveDisability")} value={isDisabled ? t("yes") : t("no")} />
           </View>
 
           <View style={styles.switchCard}>
             {atCap ? (
               <Text style={styles.capText}>
-                You've saved {MAX_SAVED_PROFILES} profiles already — delete one from the Saved
-                tab to save a new one.
+                {MAX_SAVED_PROFILES} — {t("savedProfiles")}
               </Text>
             ) : (
               <View style={styles.switchRow}>
                 <View style={styles.switchLabelRow}>
                   <Ionicons name="bookmark-outline" size={18} color={colors.primary} />
                   <Text style={styles.switchLabel}>
-                    {editProfileId ? "Save changes to this profile" : "Save this profile"}
+                    {editProfileId ? t("saveChangesToProfile") : t("saveThisProfile")}
                   </Text>
                 </View>
                 <Switch
@@ -319,14 +321,14 @@ export default function ProfileFormScreen({ navigation, route }: Props) {
 
       <View style={styles.navColumn}>
         {step < TOTAL_STEPS - 1 ? (
-          <PrimaryButton title="Next" icon="arrow-forward" onPress={handleNext} disabled={!stepValid} />
+          <PrimaryButton title={t("next")} icon="arrow-forward" onPress={handleNext} disabled={!stepValid} />
         ) : (
-          <PrimaryButton title="Find matching schemes" icon="arrow-forward" onPress={handleSubmit} />
+          <PrimaryButton title={t("findMatchingSchemes")} icon="arrow-forward" onPress={handleSubmit} />
         )}
         {step > 0 ? (
           <View style={styles.navBackWrap}>
             <PrimaryButton
-              title="Back"
+              title={t("back")}
               icon="arrow-back"
               iconPosition="left"
               variant="outline"

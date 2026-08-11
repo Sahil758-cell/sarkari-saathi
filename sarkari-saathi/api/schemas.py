@@ -80,6 +80,7 @@ class QuestionOut(BaseModel):
 
 class AskRequest(BaseModel):
     query: str = Field(min_length=1)
+    lang: str = "en"
 
 
 class WebSource(BaseModel):

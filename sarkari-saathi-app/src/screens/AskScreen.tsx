@@ -9,14 +9,15 @@ import {
   Pressable,
   ScrollView,
   StyleSheet,
-  Text,
   TextInput,
   View,
 } from "react-native";
 import { askAssistant } from "../api/client";
 import SchemeListItem from "../components/SchemeListItem";
 import SectionHeader from "../components/SectionHeader";
+import { Text } from "../components/Text";
 import { EXAMPLE_QUESTIONS } from "../constants";
+import { useLanguage } from "../context/LanguageContext";
 import { TabScreenProps } from "../navigation";
 import { colors, fonts, radius, shadow, spacing, typography } from "../theme";
 import { AskResponse } from "../types";
@@ -24,6 +25,7 @@ import { AskResponse } from "../types";
 type Props = TabScreenProps<"AIAssistant">;
 
 export default function AskScreen({ navigation, route }: Props) {
+  const { language, t } = useLanguage();
   const [query, setQuery] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string>();
@@ -70,10 +72,10 @@ export default function AskScreen({ navigation, route }: Props) {
     setError(undefined);
     setResult(undefined);
     try {
-      const res = await askAssistant(trimmed);
+      const res = await askAssistant(trimmed, language);
       setResult(res);
     } catch (err: any) {
-      setError(err.message ?? "Something went wrong");
+      setError(err.message ?? t("somethingWentWrong"));
     } finally {
       setLoading(false);
     }
@@ -91,14 +93,14 @@ export default function AskScreen({ navigation, route }: Props) {
             <Ionicons name="sparkles" size={22} color="#fff" />
           </View>
           <View style={styles.greetingText}>
-            <Text style={styles.greetingTitle}>Hi there! 👋</Text>
-            <Text style={styles.greetingSubtitle}>How can I help you today?</Text>
+            <Text style={styles.greetingTitle}>{t("hiThere")}</Text>
+            <Text style={styles.greetingSubtitle}>{t("howCanIHelp")}</Text>
           </View>
         </View>
 
         {!result && !loading ? (
           <>
-            <SectionHeader title="Example Questions" />
+            <SectionHeader title={t("exampleQuestions")} />
             {EXAMPLE_QUESTIONS.map((q) => (
               <Pressable key={q} style={styles.exampleRow} onPress={() => runAsk(q)}>
                 <Text style={styles.exampleText}>{q}</Text>
@@ -126,14 +128,14 @@ export default function AskScreen({ navigation, route }: Props) {
             <View style={styles.answerCard}>
               <View style={styles.answerHeader}>
                 <Ionicons name="sparkles" size={16} color={colors.primary} />
-                <Text style={styles.answerHeaderText}>Answer</Text>
+                <Text style={styles.answerHeaderText}>{t("answer")}</Text>
               </View>
               <Text style={styles.answerText}>{result.answer}</Text>
             </View>
 
             {result.sources.length > 0 ? (
               <View style={styles.sourcesSection}>
-                <Text style={styles.sourcesTitle}>Sources</Text>
+                <Text style={styles.sourcesTitle}>{t("sources")}</Text>
                 {result.sources.map((scheme) => (
                   <SchemeListItem
                     key={scheme.slug}
@@ -148,7 +150,7 @@ export default function AskScreen({ navigation, route }: Props) {
 
             {result.web_sources.length > 0 ? (
               <View style={styles.sourcesSection}>
-                <Text style={styles.sourcesTitle}>From Official Government Websites</Text>
+                <Text style={styles.sourcesTitle}>{t("fromOfficialGovSites")}</Text>
                 {result.web_sources.map((web) => (
                   <Pressable
                     key={web.url}
@@ -173,7 +175,7 @@ export default function AskScreen({ navigation, route }: Props) {
       <View style={styles.inputBar}>
         <TextInput
           style={styles.input}
-          placeholder="Type your question..."
+          placeholder={t("typeYourQuestion")}
           placeholderTextColor={colors.textFaint}
           value={query}
           onChangeText={setQuery}

@@ -6,7 +6,6 @@ import {
   FlatList,
   Pressable,
   StyleSheet,
-  Text,
   TextInput,
   View,
 } from "react-native";
@@ -14,7 +13,9 @@ import { searchSchemes } from "../api/client";
 import Chip from "../components/Chip";
 import SchemeListItem from "../components/SchemeListItem";
 import SectionHeader from "../components/SectionHeader";
+import { Text } from "../components/Text";
 import { CATEGORIES, POPULAR_SEARCHES } from "../constants";
+import { useLanguage } from "../context/LanguageContext";
 import { TabScreenProps } from "../navigation";
 import {
   addSearchHistory,
@@ -32,6 +33,7 @@ type Props = TabScreenProps<"Search">;
 const DEBOUNCE_MS = 300;
 
 export default function SearchScreen({ navigation, route }: Props) {
+  const { language, t } = useLanguage();
   const [query, setQuery] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string>();
@@ -59,18 +61,18 @@ export default function SearchScreen({ navigation, route }: Props) {
     }
     setLoading(true);
     debounceRef.current = setTimeout(() => {
-      searchSchemes(trimmed)
+      searchSchemes(trimmed, 10, language)
         .then((res) => {
           setResults(res.results);
           addSearchHistory(trimmed).then(() => listSearchHistory().then(setHistory));
         })
-        .catch((err) => setError(err.message ?? "Something went wrong"))
+        .catch((err) => setError(err.message ?? t("somethingWentWrong")))
         .finally(() => setLoading(false));
     }, DEBOUNCE_MS);
     return () => {
       if (debounceRef.current) clearTimeout(debounceRef.current);
     };
-  }, [query]);
+  }, [query, language]);
 
   const showDiscovery = !query.trim();
 
@@ -80,7 +82,7 @@ export default function SearchScreen({ navigation, route }: Props) {
         <Ionicons name="search-outline" size={18} color={colors.textFaint} />
         <TextInput
           style={styles.input}
-          placeholder="Search for schemes..."
+          placeholder={t("searchPlaceholder")}
           placeholderTextColor={colors.textFaint}
           value={query}
           onChangeText={setQuery}
@@ -106,20 +108,20 @@ export default function SearchScreen({ navigation, route }: Props) {
                 <View style={styles.heroIcon}>
                   <Ionicons name="compass-outline" size={24} color="#fff" />
                 </View>
-                <Text style={styles.heroTitle}>Find the right scheme for you</Text>
+                <Text style={styles.heroTitle}>{t("findRightScheme")}</Text>
                 <Text style={styles.heroSubtitle}>
-                  Search by name, state, category and more
+                  {t("findRightSchemeSubtitle")}
                 </Text>
               </LinearGradient>
 
-              <SectionHeader title="Popular Searches" />
+              <SectionHeader title={t("popularSearches")} />
               <View style={styles.chipRow}>
                 {POPULAR_SEARCHES.map((term) => (
                   <Chip key={term} label={term} onPress={() => setQuery(term)} />
                 ))}
               </View>
 
-              <SectionHeader title="Categories" />
+              <SectionHeader title={t("categories")} />
               <View style={styles.categoryList}>
                 {CATEGORIES.map((cat) => (
                   <Pressable
@@ -139,7 +141,7 @@ export default function SearchScreen({ navigation, route }: Props) {
               {history.length > 0 ? (
                 <>
                   <SectionHeader
-                    title="Recent Searches"
+                    title={t("recentSearches")}
                     onViewAll={() => {
                       clearSearchHistory().then(() => setHistory([]));
                     }}
@@ -169,7 +171,7 @@ export default function SearchScreen({ navigation, route }: Props) {
             !loading ? (
               <View style={styles.empty}>
                 <Ionicons name="search-outline" size={32} color={colors.textFaint} />
-                <Text style={styles.emptyText}>No schemes found for "{query}"</Text>
+                <Text style={styles.emptyText}>{t("noSchemesFoundFor", { query })}</Text>
               </View>
             ) : null
           }

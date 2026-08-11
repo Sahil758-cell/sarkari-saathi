@@ -1,10 +1,12 @@
 import { Ionicons } from "@expo/vector-icons";
 import { useEffect, useState } from "react";
-import { ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
+import { ScrollView, StyleSheet, TextInput, View } from "react-native";
 import { sendOtp, verifyOtp } from "../api/client";
 import FieldSection from "../components/FieldSection";
 import PrimaryButton from "../components/PrimaryButton";
+import { Text } from "../components/Text";
 import { useAuth } from "../context/AuthContext";
+import { useLanguage } from "../context/LanguageContext";
 import { RootScreenProps } from "../navigation";
 import { colors, fonts, radius, spacing, typography } from "../theme";
 
@@ -14,6 +16,7 @@ const RESEND_COOLDOWN_SECONDS = 30;
 
 export default function LoginScreen({ navigation }: Props) {
   const { login } = useAuth();
+  const { t } = useLanguage();
   const [step, setStep] = useState<"email" | "otp">("email");
   const [email, setEmail] = useState("");
   const [code, setCode] = useState("");
@@ -42,7 +45,7 @@ export default function LoginScreen({ navigation }: Props) {
       setStep("otp");
       setCooldown(RESEND_COOLDOWN_SECONDS);
     } catch (err: any) {
-      setError(err.message ?? "Could not send OTP. Please try again.");
+      setError(err.message ?? t("couldNotSendOtp"));
     } finally {
       setSending(false);
     }
@@ -55,13 +58,13 @@ export default function LoginScreen({ navigation }: Props) {
     try {
       const result = await verifyOtp(sessionId, code.trim());
       if (!result.verified) {
-        setError("Incorrect code, please try again.");
+        setError(t("incorrectCode"));
         return;
       }
       await login(email.trim(), result.session_token);
       navigation.goBack();
     } catch (err: any) {
-      setError(err.message ?? "Something went wrong. Please try again.");
+      setError(err.message ?? t("somethingWentWrong"));
     } finally {
       setVerifying(false);
     }
@@ -77,16 +80,16 @@ export default function LoginScreen({ navigation }: Props) {
         />
       </View>
       <Text style={styles.headerTitle}>
-        {step === "otp" ? "Enter Verification Code" : "Verify Your Email"}
+        {step === "otp" ? t("enterVerificationCode") : t("verifyYourEmail")}
       </Text>
       <Text style={styles.headerSubtitle}>
         {step === "email"
-          ? "Enter your email address to receive a one-time code."
-          : `Enter the 6-digit code sent to ${email.trim()}.`}
+          ? t("emailPrompt")
+          : t("codePrompt", { email: email.trim() })}
       </Text>
 
       {step === "email" ? (
-        <FieldSection icon="mail-outline" label="Email address" required>
+        <FieldSection icon="mail-outline" label={t("emailAddress")} required>
           <TextInput
             style={styles.input}
             keyboardType="email-address"
@@ -100,14 +103,14 @@ export default function LoginScreen({ navigation }: Props) {
           />
         </FieldSection>
       ) : (
-        <FieldSection icon="keypad-outline" label="One-time code" required>
+        <FieldSection icon="keypad-outline" label={t("oneTimeCode")} required>
           <TextInput
             style={styles.input}
             keyboardType="number-pad"
             maxLength={6}
             value={code}
             onChangeText={(v) => setCode(v.replace(/[^0-9]/g, ""))}
-            placeholder="6-digit code"
+            placeholder={t("oneTimeCode")}
             placeholderTextColor={colors.textFaint}
             autoFocus
           />
@@ -119,7 +122,7 @@ export default function LoginScreen({ navigation }: Props) {
       <View style={styles.navColumn}>
         {step === "email" ? (
           <PrimaryButton
-            title="Send OTP"
+            title={t("sendOtp")}
             icon="arrow-forward"
             onPress={handleSendOtp}
             disabled={!emailValid}
@@ -128,7 +131,7 @@ export default function LoginScreen({ navigation }: Props) {
         ) : (
           <>
             <PrimaryButton
-              title="Verify"
+              title={t("verify")}
               icon="checkmark"
               onPress={handleVerifyOtp}
               disabled={!codeValid}
@@ -136,7 +139,7 @@ export default function LoginScreen({ navigation }: Props) {
             />
             <View style={styles.navBackWrap}>
               <PrimaryButton
-                title={cooldown > 0 ? `Resend OTP (${cooldown}s)` : "Resend OTP"}
+                title={cooldown > 0 ? t("resendOtpCooldown", { seconds: String(cooldown) }) : t("resendOtp")}
                 variant="outline"
                 onPress={handleSendOtp}
                 disabled={cooldown > 0}

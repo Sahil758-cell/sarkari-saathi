@@ -23,6 +23,7 @@ export type RootStackParamList = {
   HelpSupport: undefined;
   LatestSchemes: undefined;
   Notifications: undefined;
+  Settings: undefined;
 };
 
 // Screens that live inside a tab but need to push root-level screens

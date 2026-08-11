@@ -1,9 +1,11 @@
 import { Ionicons } from "@expo/vector-icons";
 import { useFocusEffect } from "@react-navigation/native";
 import { useCallback, useState } from "react";
-import { Alert, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Alert, Pressable, ScrollView, StyleSheet, View } from "react-native";
 import { syncProfiles } from "../api/client";
+import { Text } from "../components/Text";
 import { useAuth } from "../context/AuthContext";
+import { useLanguage } from "../context/LanguageContext";
 import { TabScreenProps } from "../navigation";
 import { deleteProfile, listProfiles } from "../storage/profiles";
 import { colors, fonts, radius, shadow, spacing, typography } from "../theme";
@@ -13,6 +15,7 @@ type Props = TabScreenProps<"Saved">;
 
 export default function SavedScreen({ navigation }: Props) {
   const { identifier } = useAuth();
+  const { t } = useLanguage();
   const [profiles, setProfiles] = useState<SavedProfile[]>([]);
 
   useFocusEffect(
@@ -22,10 +25,10 @@ export default function SavedScreen({ navigation }: Props) {
   );
 
   function handleDelete(profile: SavedProfile) {
-    Alert.alert("Delete profile?", `Remove "${profile.name}"?`, [
-      { text: "Cancel", style: "cancel" },
+    Alert.alert(t("deleteProfileTitle"), t("deleteProfileConfirm", { name: profile.name }), [
+      { text: t("cancel"), style: "cancel" },
       {
-        text: "Delete",
+        text: t("delete"),
         style: "destructive",
         onPress: async () => {
           await deleteProfile(profile.id);
@@ -42,7 +45,7 @@ export default function SavedScreen({ navigation }: Props) {
       <View style={styles.empty}>
         <Ionicons name="bookmark-outline" size={40} color={colors.textFaint} />
         <Text style={styles.emptyText}>
-          No saved profiles yet. Fill in "Find schemes for me" and choose to save it.
+          {t("noSavedProfiles")}
         </Text>
       </View>
     );

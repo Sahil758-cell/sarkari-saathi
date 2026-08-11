@@ -5,12 +5,13 @@ import {
   Modal,
   Pressable,
   StyleSheet,
-  Text,
   TextInput,
   View,
 } from "react-native";
-import { STATES } from "../constants";
+import { useLanguage } from "../context/LanguageContext";
+import { STATES, stateLabel } from "../i18n/options";
 import { colors, fonts, radius, spacing } from "../theme";
+import { Text } from "./Text";
 
 interface Props {
   visible: boolean;
@@ -19,9 +20,11 @@ interface Props {
 }
 
 export default function StatePickerModal({ visible, onSelect, onClose }: Props) {
+  const { language, t } = useLanguage();
   const [query, setQuery] = useState("");
-  const filtered = STATES.filter((s) =>
-    s.toLowerCase().includes(query.trim().toLowerCase())
+  const queryLower = query.trim().toLowerCase();
+  const filtered = STATES.filter(
+    ([en, hi]) => en.toLowerCase().includes(queryLower) || hi.includes(query.trim())
   );
 
   return (
@@ -29,29 +32,29 @@ export default function StatePickerModal({ visible, onSelect, onClose }: Props) 
       <View style={styles.container}>
         <TextInput
           style={styles.search}
-          placeholder="Search state..."
+          placeholder={t("selectState")}
           value={query}
           onChangeText={setQuery}
           autoFocus
         />
         <FlatList
           data={filtered}
-          keyExtractor={(item) => item}
-          renderItem={({ item }) => (
+          keyExtractor={([en]) => en}
+          renderItem={({ item: [en] }) => (
             <Pressable
               style={styles.row}
               onPress={() => {
-                onSelect(item);
+                onSelect(en);
                 setQuery("");
               }}
             >
               <Ionicons name="location-outline" size={16} color={colors.primary} />
-              <Text style={styles.rowText}>{item}</Text>
+              <Text style={styles.rowText}>{stateLabel(en, language)}</Text>
             </Pressable>
           )}
         />
         <Pressable style={styles.closeButton} onPress={onClose}>
-          <Text style={styles.closeText}>Cancel</Text>
+          <Text style={styles.closeText}>{t("cancel")}</Text>
         </Pressable>
       </View>
     </Modal>

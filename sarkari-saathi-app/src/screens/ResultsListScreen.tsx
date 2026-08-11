@@ -1,9 +1,11 @@
 import { Ionicons } from "@expo/vector-icons";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";
 import { useEffect, useState } from "react";
-import { ActivityIndicator, FlatList, StyleSheet, Text, View } from "react-native";
+import { ActivityIndicator, FlatList, StyleSheet, View } from "react-native";
 import { matchProfile } from "../api/client";
 import SchemeListItem from "../components/SchemeListItem";
+import { Text } from "../components/Text";
+import { useLanguage } from "../context/LanguageContext";
 import { RootStackParamList } from "../navigation";
 import { colors, spacing, typography } from "../theme";
 import { Scheme } from "../types";
@@ -12,6 +14,7 @@ type Props = NativeStackScreenProps<RootStackParamList, "Results">;
 
 export default function ResultsListScreen({ route, navigation }: Props) {
   const { profile } = route.params;
+  const { language, t } = useLanguage();
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string>();
   const [results, setResults] = useState<Scheme[]>([]);
@@ -20,7 +23,7 @@ export default function ResultsListScreen({ route, navigation }: Props) {
     let cancelled = false;
     setLoading(true);
     setError(undefined);
-    matchProfile(profile)
+    matchProfile(profile, 30, language)
       .then((res) => {
         if (!cancelled) setResults(res.results);
       })
@@ -33,7 +36,7 @@ export default function ResultsListScreen({ route, navigation }: Props) {
     return () => {
       cancelled = true;
     };
-  }, [profile]);
+  }, [profile, language]);
 
   if (loading) {
     return (
@@ -59,12 +62,12 @@ export default function ResultsListScreen({ route, navigation }: Props) {
       data={results}
       keyExtractor={(item) => item.slug}
       ListHeaderComponent={
-        <Text style={styles.header}>{results.length} matching schemes</Text>
+        <Text style={styles.header}>{t("matchingSchemesCount", { count: String(results.length) })}</Text>
       }
       ListEmptyComponent={
         <View style={styles.center}>
           <Ionicons name="file-tray-outline" size={40} color={colors.textFaint} />
-          <Text style={styles.empty}>No matching schemes found for this profile.</Text>
+          <Text style={styles.empty}>{t("noMatchingSchemes")}</Text>
         </View>
       }
       renderItem={({ item }) => (

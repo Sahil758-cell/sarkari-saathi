@@ -3,10 +3,12 @@ import { useFocusEffect } from "@react-navigation/native";
 import * as Haptics from "expo-haptics";
 import { LinearGradient } from "expo-linear-gradient";
 import { useCallback, useState } from "react";
-import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import SectionHeader from "../components/SectionHeader";
+import { Text } from "../components/Text";
 import { CATEGORIES } from "../constants";
+import { useLanguage } from "../context/LanguageContext";
 import { TabScreenProps } from "../navigation";
 import { listProfiles } from "../storage/profiles";
 import { colors, fonts, gradients, radius, shadow, spacing, typography } from "../theme";
@@ -15,6 +17,7 @@ import { SavedProfile } from "../types";
 type Props = TabScreenProps<"Home">;
 
 export default function HomeScreen({ navigation }: Props) {
+  const { t } = useLanguage();
   const [profiles, setProfiles] = useState<SavedProfile[]>([]);
 
   useFocusEffect(
@@ -36,8 +39,8 @@ export default function HomeScreen({ navigation }: Props) {
             <Ionicons name="shield-checkmark" size={20} color={colors.primary} />
           </View>
           <View>
-            <Text style={styles.appName}>Sarkari Saathi</Text>
-            <Text style={styles.tagline}>Your Guide to Government Schemes</Text>
+            <Text style={styles.appName}>{t("appName")}</Text>
+            <Text style={styles.tagline}>{t("tagline")}</Text>
           </View>
         </View>
         <Pressable
@@ -53,9 +56,9 @@ export default function HomeScreen({ navigation }: Props) {
 
       <View style={styles.greetingRow}>
         <View style={styles.greetingText}>
-          <Text style={styles.greeting}>Namaste! 🙏</Text>
+          <Text style={styles.greeting}>{t("namaste")}</Text>
           <Text style={styles.greetingSubtitle}>
-            Find government schemes you're eligible for, in just a few steps.
+            {t("homeSubtitle")}
           </Text>
         </View>
         <View style={styles.greetingIcon}>
@@ -79,9 +82,9 @@ export default function HomeScreen({ navigation }: Props) {
             <Ionicons name="locate" size={26} color={colors.primary} />
           </View>
           <View style={styles.cardText}>
-            <Text style={styles.cardTitleLight}>Find My Schemes</Text>
+            <Text style={styles.cardTitleLight}>{t("findMySchemes")}</Text>
             <Text style={styles.cardSubtitleLight}>
-              Answer a few simple questions and discover schemes you may be eligible for.
+              {t("findMySchemesSubtitle")}
             </Text>
           </View>
           <Ionicons name="chevron-forward" size={22} color="#fff" />
@@ -89,7 +92,7 @@ export default function HomeScreen({ navigation }: Props) {
       </Pressable>
 
       <SectionHeader
-        title="Quick Actions"
+        title={t("quickActions")}
         onViewAll={() => {
           tap();
           navigation.navigate("Search", undefined);
@@ -106,8 +109,8 @@ export default function HomeScreen({ navigation }: Props) {
           <View style={[styles.quickActionIcon, { backgroundColor: "#e6f0ea" }]}>
             <Ionicons name="search-outline" size={22} color={colors.primary} />
           </View>
-          <Text style={styles.quickActionTitle}>Search Scheme</Text>
-          <Text style={styles.quickActionSubtitle}>Find any scheme</Text>
+          <Text style={styles.quickActionTitle}>{t("searchScheme")}</Text>
+          <Text style={styles.quickActionSubtitle}>{t("searchSchemeSubtitle")}</Text>
         </Pressable>
 
         <Pressable
@@ -120,8 +123,8 @@ export default function HomeScreen({ navigation }: Props) {
           <View style={[styles.quickActionIcon, { backgroundColor: "#e8eefc" }]}>
             <Ionicons name="sparkles-outline" size={22} color="#3b5bdb" />
           </View>
-          <Text style={styles.quickActionTitle}>Ask AI</Text>
-          <Text style={styles.quickActionSubtitle}>Get answers in seconds</Text>
+          <Text style={styles.quickActionTitle}>{t("askAi")}</Text>
+          <Text style={styles.quickActionSubtitle}>{t("askAiSubtitle")}</Text>
         </Pressable>
 
         <Pressable
@@ -134,8 +137,8 @@ export default function HomeScreen({ navigation }: Props) {
           <View style={[styles.quickActionIcon, { backgroundColor: "#fdf3e3" }]}>
             <Ionicons name="document-text-outline" size={22} color="#b8860b" />
           </View>
-          <Text style={styles.quickActionTitle}>Documents</Text>
-          <Text style={styles.quickActionSubtitle}>Learn what you need</Text>
+          <Text style={styles.quickActionTitle}>{t("documents")}</Text>
+          <Text style={styles.quickActionSubtitle}>{t("documentsSubtitle")}</Text>
         </Pressable>
 
         <Pressable
@@ -148,13 +151,13 @@ export default function HomeScreen({ navigation }: Props) {
           <View style={[styles.quickActionIcon, { backgroundColor: "#fbe9ec" }]}>
             <Ionicons name="heart-outline" size={22} color="#c2255c" />
           </View>
-          <Text style={styles.quickActionTitle}>Saved</Text>
-          <Text style={styles.quickActionSubtitle}>Your preferences</Text>
+          <Text style={styles.quickActionTitle}>{t("saved")}</Text>
+          <Text style={styles.quickActionSubtitle}>{t("savedSubtitle")}</Text>
         </Pressable>
       </View>
 
       <SectionHeader
-        title="Popular Categories"
+        title={t("popularCategories")}
         onViewAll={() => {
           tap();
           navigation.navigate("Search", undefined);
@@ -180,7 +183,7 @@ export default function HomeScreen({ navigation }: Props) {
         ))}
       </ScrollView>
 
-      <SectionHeader title="Government Updates" />
+      <SectionHeader title={t("governmentUpdates")} />
       <Pressable
         style={styles.updateCard}
         onPress={() => {
@@ -192,8 +195,8 @@ export default function HomeScreen({ navigation }: Props) {
           <Ionicons name="megaphone-outline" size={22} color={colors.primary} />
         </View>
         <View style={styles.cardText}>
-          <Text style={styles.updateTitle}>Latest Schemes</Text>
-          <Text style={styles.updateSubtitle}>Explore new government initiatives</Text>
+          <Text style={styles.updateTitle}>{t("latestSchemes")}</Text>
+          <Text style={styles.updateSubtitle}>{t("latestSchemesSubtitle")}</Text>
         </View>
         <Ionicons name="chevron-forward" size={20} color={colors.textFaint} />
       </Pressable>
@@ -201,7 +204,7 @@ export default function HomeScreen({ navigation }: Props) {
       {profiles.length > 0 ? (
         <>
           <SectionHeader
-            title="Your Saved Profiles"
+            title={t("yourSavedProfiles")}
             onViewAll={() => {
               tap();
               navigation.navigate("Saved", undefined);
