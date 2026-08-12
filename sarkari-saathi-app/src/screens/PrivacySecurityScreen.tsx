@@ -1,31 +1,33 @@
 import { Ionicons } from "@expo/vector-icons";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import { Linking, Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { colors, fonts, radius, shadow, spacing, typography } from "../theme";
+
+const PRIVACY_POLICY_URL = "https://sarkari-saathi-2gg7.onrender.com/privacy-policy";
 
 const SECTIONS = [
   {
-    icon: "call-outline" as const,
-    title: "Phone & Email Verification",
+    icon: "mail-outline" as const,
+    title: "Email Verification",
     detail:
-      "When you log in, we send a one-time code to your phone (via SMS/call) or email. The code is used only to verify it's really you and isn't stored beyond the short verification window.",
+      "When you log in, we send a one-time code to your email. The code is only used to verify it's really you and expires after 10 minutes.",
   },
   {
     icon: "phone-portrait-outline" as const,
     title: "Login Session",
     detail:
-      "Once verified, your phone number or email is saved only on your own device, to keep you logged in. We don't run a server-side account database — logging out or reinstalling the app clears it.",
+      "Your email is saved on your device to keep you logged in. If you save an eligibility profile or enable notifications while logged in, that profile is also synced to our servers so we can match you against newly added schemes — it's deleted from our servers as soon as you log out.",
   },
   {
     icon: "document-text-outline" as const,
     title: "Eligibility Profile",
     detail:
-      "Details you enter (age, gender, state, category, income, etc.) are stored locally on your device. They're sent to our backend only at the moment you search for matching schemes — never sold or shared for any other purpose.",
+      "Details you enter (age, gender, state, category, income, etc.) are always stored on your device. They're only sent to our backend to find matching schemes, or — if you're logged in and choose to enable notifications — to check for new matches. Never sold or shared for advertising.",
   },
   {
     icon: "shield-checkmark-outline" as const,
     title: "No Third-Party Sharing",
     detail:
-      "We don't share your personal data with advertisers or other third parties. The only external services involved are the ones needed to deliver your OTP.",
+      "We don't share your personal data with advertisers. The only external services involved are the ones needed to run the app (sending your login code, generating AI assistant answers, and delivering push notifications).",
   },
 ];
 
@@ -46,6 +48,11 @@ export default function PrivacySecurityScreen() {
           </View>
         </View>
       ))}
+
+      <Pressable style={styles.linkRow} onPress={() => Linking.openURL(PRIVACY_POLICY_URL)}>
+        <Ionicons name="open-outline" size={18} color={colors.primary} />
+        <Text style={styles.linkText}>View full Privacy Policy</Text>
+      </Pressable>
     </ScrollView>
   );
 }
@@ -74,4 +81,13 @@ const styles = StyleSheet.create({
   cardText: { flex: 1 },
   title: { fontSize: 14, fontFamily: fonts.bold, color: colors.text, marginBottom: 2 },
   detail: { ...typography.caption, lineHeight: 16 },
+  linkRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: spacing.sm,
+    justifyContent: "center",
+    paddingVertical: spacing.md,
+    marginTop: spacing.sm,
+  },
+  linkText: { color: colors.primary, fontFamily: fonts.semiBold, fontSize: 14 },
 });

@@ -16,10 +16,12 @@ import matcher  # noqa: E402
 import os  # noqa: E402
 
 from cerebras.cloud.sdk import RateLimitError  # noqa: E402
-from fastapi import Depends, FastAPI, Header, HTTPException  # noqa: E402
+from fastapi import Depends, FastAPI, Header, HTTPException, Request  # noqa: E402
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
+from fastapi.responses import HTMLResponse  # noqa: E402
 
 from api import email_otp, notifications, rag  # noqa: E402
+from api.rate_limit import check_rate_limit  # noqa: E402
 from api.schemas import (  # noqa: E402
     AskRequest,
     AskResponse,
@@ -58,6 +60,11 @@ def _to_scheme_out(scheme: dict) -> dict:
 @app.get("/health")
 def health():
     return {"status": "ok", "schemes_loaded": len(matcher.load_schemes())}
+
+
+@app.get("/privacy-policy", response_class=HTMLResponse)
+def get_privacy_policy():
+    return (Path(__file__).resolve().parent / "privacy_policy.html").read_text(encoding="utf-8")
 
 
 @app.post("/match", response_model=MatchResponse)
@@ -120,7 +127,12 @@ def post_ask(body: AskRequest):
 
 
 @app.post("/auth/send-otp", response_model=SendOtpResponse)
-def post_send_otp(body: SendOtpRequest):
+def post_send_otp(body: SendOtpRequest, request: Request):
+    client_ip = request.client.host if request.client else "unknown"
+    if not check_rate_limit(f"otp-email:{body.email}", max_calls=3, window_seconds=15 * 60):
+        raise HTTPException(status_code=429, detail="Too many OTP requests for this email — try again later")
+    if not check_rate_limit(f"otp-ip:{client_ip}", max_calls=10, window_seconds=60 * 60):
+        raise HTTPException(status_code=429, detail="Too many OTP requests — try again later")
     try:
         email_otp.send_otp(body.email)
     except RuntimeError as e:

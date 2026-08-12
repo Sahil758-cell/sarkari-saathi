@@ -18,7 +18,10 @@
       }
     },
     "production": {
-      "autoIncrement": true
+      "autoIncrement": true,
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://sarkari-saathi-2gg7.onrender.com"
+      }
     }
   },
   "submit": {

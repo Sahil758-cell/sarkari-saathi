@@ -8,15 +8,17 @@ here, keyed by email. A backend restart mid-flow just means the user needs
 to request a new code, an acceptable tradeoff at this scale.
 """
 import os
-import random
+import secrets
 import time
 
 import httpx
 
 CODE_TTL_SECONDS = 10 * 60
+MAX_VERIFY_ATTEMPTS = 5
 BREVO_API_URL = "https://api.brevo.com/v3/smtp/email"
 
 _pending: dict[str, tuple[str, float]] = {}
+_attempts: dict[str, int] = {}
 
 
 def send_otp(email: str) -> None:
@@ -25,8 +27,9 @@ def send_otp(email: str) -> None:
     if not api_key or not sender_email:
         raise RuntimeError("Email OTP is not configured on the server")
 
-    code = f"{random.randint(0, 999999):06d}"
+    code = f"{secrets.randbelow(1_000_000):06d}"
     _pending[email] = (code, time.time() + CODE_TTL_SECONDS)
+    _attempts[email] = 0
 
     response = httpx.post(
         BREVO_API_URL,
@@ -51,7 +54,23 @@ def verify_otp(email: str, code: str) -> bool:
     if entry is None:
         return False
     stored_code, expires_at = entry
-    del _pending[email]
+
     if time.time() > expires_at:
+        del _pending[email]
+        _attempts.pop(email, None)
         return False
-    return code == stored_code
+
+    if code == stored_code:
+        del _pending[email]
+        _attempts.pop(email, None)
+        return True
+
+    # Wrong code: count it and lock out after too many guesses, rather than
+    # burning the code on the very first miss — a network timeout on a
+    # correct guess used to silently consume it, forcing a spurious retry.
+    attempts = _attempts.get(email, 0) + 1
+    _attempts[email] = attempts
+    if attempts >= MAX_VERIFY_ATTEMPTS:
+        del _pending[email]
+        _attempts.pop(email, None)
+    return False
