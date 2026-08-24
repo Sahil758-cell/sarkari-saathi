@@ -2,6 +2,14 @@ name: Keep backend alive
 
 # Render's free tier spins the service down after 15 minutes of inactivity.
 # This pings /health every 10 minutes so it never sees that much idle time.
+#
+# The timeout here must exceed Render's actual cold-start time (observed
+# 30-50s, sometimes more), not just a "reasonable" HTTP timeout — a ping
+# that arrives during a cold start but times out before the instance
+# finishes waking counts as a failed ping, so the instance gets no credit
+# for the traffic it just received and can spin back down before the next
+# scheduled run 10 minutes later. A too-short timeout here silently
+# defeats the whole workflow's purpose.
 on:
   schedule:
     - cron: "*/10 * * * *"
@@ -12,4 +20,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping backend health endpoint
-        run: curl -sf -m 20 https://sarkari-saathi-2gg7.onrender.com/health
+        run: curl -sf -m 90 https://sarkari-saathi-2gg7.onrender.com/health
