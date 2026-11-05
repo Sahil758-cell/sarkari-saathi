@@ -77,7 +77,14 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
         # The user may have typed an acronym or partial name ("PM-VBRY"); the
         # record must carry the scheme's full official name from the sources.
         "scheme_name": f'(use the scheme\'s full official name from the sources; the user searched for "{query}")',
-        "description": "Search results from official Indian government websites.",
+        "description": (
+            "Search results from official Indian government websites. "
+            "Formatting rules for the output: each other_conditions item must be ONE short line "
+            "(at most 12 words) stating a single eligibility criterion — who qualifies or what "
+            "they must have/do. Do NOT put benefit amounts, how the benefit is paid, or "
+            "explanations in other_conditions (those belong in benefits_summary). "
+            "At most 8 items; skip anything minor."
+        ),
         "eligibility_text": text,
         "benefits": "",
         "application_link": results[0]["url"],
