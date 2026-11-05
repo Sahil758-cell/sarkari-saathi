@@ -392,7 +392,7 @@ async def _resolve_scheme(context: ContextTypes.DEFAULT_TYPE, chat_id: int, lang
     """Given a raw normalized record (may or may not be extracted yet),
     return its extracted structured form — extracting it on-demand right
     now if the bulk background job hasn't reached it yet. Runs the
-    (blocking) Cerebras call in a worker thread so the bot's event loop
+    (blocking) LLM call in a worker thread so the bot's event loop
     stays responsive to other users while it waits."""
     slug = matcher.slugify(raw_record["scheme_name"])
     existing = matcher.get_scheme_by_slug(slug)

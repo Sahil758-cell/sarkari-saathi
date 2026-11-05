@@ -15,7 +15,8 @@ import matcher  # noqa: E402
 
 import os  # noqa: E402
 
-from cerebras.cloud.sdk import RateLimitError  # noqa: E402
+from openai import APIError as LLMAPIError  # noqa: E402
+from openai import RateLimitError  # noqa: E402
 from fastapi import Depends, FastAPI, Header, HTTPException, Request  # noqa: E402
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
 from fastapi.responses import HTMLResponse  # noqa: E402
@@ -119,6 +120,10 @@ def post_ask(body: AskRequest):
         result = rag.ask(body.query, lang=body.lang)
     except RateLimitError:
         raise HTTPException(status_code=429, detail="Assistant is busy, try again in a moment")
+    except (RuntimeError, LLMAPIError):
+        # Provider down / key missing / quota exhausted — answer with a clean
+        # 503 (which keeps CORS headers) instead of an opaque 500.
+        raise HTTPException(status_code=503, detail="Assistant is temporarily unavailable")
     return {
         "answer": result["answer"],
         "sources": [_to_scheme_out(s) for s in result["sources"]],

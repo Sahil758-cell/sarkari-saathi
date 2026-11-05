@@ -18,7 +18,8 @@ sarkari-saathi/
 │   └── extracted/    # structured JSON output, one file per scheme
 ├── pipeline/
 │   ├── download.py   # fetch + normalize the source dataset
-│   ├── extract.py    # Cerebras-powered eligibility extraction
+│   ├── llm.py        # shared LLM client (NVIDIA by default)
+│   ├── extract.py    # LLM-powered eligibility extraction
 │   ├── review.py     # manual QA: sample extracted vs. original text
 │   └── utils.py       # shared slugify helper
 ├── bot/
@@ -47,8 +48,8 @@ sarkari-saathi/
    ```
 
    ```
-   # Free tier at https://cloud.cerebras.ai
-   CEREBRAS_API_KEY=csk-your-key-here
+   # Free key at https://build.nvidia.com
+   NVIDIA_API_KEY=nvapi-your-key-here
 
    # From @BotFather on Telegram (send it /newbot)
    TELEGRAM_BOT_TOKEN=123456789:your-bot-token-here
@@ -81,7 +82,8 @@ a normalized `data/raw/schemes_normalized.json` with a consistent schema:
 
 For every scheme in `schemes_normalized.json` (~3400 in the Kaggle dataset —
 set `MAX_SCHEMES=20` as an env var for a quick test run), calls the
-**Cerebras** API (`gpt-oss-120b`, free tier) with a strict JSON-schema
+**NVIDIA** hosted API (`nvidia/nemotron-3.5-lightning-30b-a3b`, set in
+`pipeline/llm.py`) with a strict JSON-schema
 response format to convert the free-text eligibility criteria into a
 structured JSON object (occupation, gender, age range, income cap, category,
 state, etc. — see `pipeline/extract.py` for the full schema). Every response
@@ -91,11 +93,10 @@ still-failing scheme to `data/extracted/_failures.jsonl` instead of crashing
 the run. Successes are written to `data/extracted/<slugified-scheme-name>.json`.
 
 The script is **resumable** — re-running it skips schemes that already have
-an output file — and paces itself to stay under the Cerebras free tier
-(5 requests/minute, 150/hour, 2400/day). Because of that cap, extracting the
-full ~3400-scheme dataset takes roughly **1–2 days** of background running;
-the Telegram bot works the whole time and simply gains coverage as more
-files land in `data/extracted/`.
+an output file — and paces itself (default 2 seconds between requests, set
+`LLM_REQUEST_INTERVAL`) to stay under NVIDIA's free-tier rate limit. The
+Telegram bot works the whole time and simply gains coverage as more files
+land in `data/extracted/`.
 
 #### 3. `review.py`
 
@@ -126,7 +127,7 @@ Message your bot on Telegram. Two commands:
 Matching and eligibility-checking are pure rule-based logic over
 `data/extracted/*.json` (`bot/matcher.py`) — no AI call happens when a user
 talks to the bot, so both commands are instant and don't touch your
-Cerebras rate limit. If a `/start` state-specific search finds nothing
+LLM rate limit. If a `/start` state-specific search finds nothing
 (likely while the dataset is still filling in), it automatically relaxes
 the state filter and shows the best available matches instead of a dead
 end. Application links fall back to the scheme's official myScheme.gov.in

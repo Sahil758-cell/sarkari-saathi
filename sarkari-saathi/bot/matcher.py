@@ -2,11 +2,10 @@
 matcher.py — Loads extracted scheme JSON files and filters/ranks them
 against a citizen's profile. Pure rule-based matching over the structured
 fields extract.py produced — no AI call needed at match time, so this works
-instantly and for free regardless of Cerebras rate limits.
+instantly and for free regardless of LLM rate limits.
 """
 import difflib
 import json
-import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -19,6 +18,7 @@ RAW_NORMALIZED_PATH = BASE_DIR / "data" / "raw" / "schemes_normalized.json"
 
 sys.path.insert(0, str(BASE_DIR / "pipeline"))
 from utils import slugify  # noqa: E402
+import llm  # noqa: E402  (shared LLM client — NVIDIA by default)
 import extract as extract_pipeline  # noqa: E402  (reused for on-demand single-scheme extraction)
 import translate as translate_pipeline  # noqa: E402  (reused for on-demand single-scheme translation)
 
@@ -27,7 +27,6 @@ _LOCALIZABLE_FIELDS = ("scheme_name", "benefits_summary", "other_conditions", "d
 _portal_slug_lookup: Optional[dict] = None
 _raw_schemes_cache: Optional[list] = None
 _raw_trigram_index: Optional[list] = None
-_cerebras_client = None
 
 
 def load_schemes() -> list:
@@ -340,24 +339,17 @@ def search_raw_by_name(query: str, limit: int = 5) -> list:
     return [s for _, s in scored[:limit]]
 
 
-def _get_cerebras_client():
-    global _cerebras_client
-    if _cerebras_client is None:
-        api_key = os.environ.get("CEREBRAS_API_KEY")
-        if not api_key:
-            return None
-        from cerebras.cloud.sdk import Cerebras
-        _cerebras_client = Cerebras(api_key=api_key)
-    return _cerebras_client
+def _get_llm_client():
+    return llm.get_client()
 
 
 def ensure_extracted(raw_record: dict) -> Optional[dict]:
     """If `raw_record` (from schemes_normalized.json) hasn't been extracted
-    yet, extract it right now with a single on-demand Cerebras call — so a
+    yet, extract it right now with a single on-demand LLM call — so a
     user searching for a specific scheme doesn't have to wait for the bulk
     background job to reach it days later. Result is cached to disk exactly
     like the bulk job's output, so it benefits every future search too.
-    Blocking/synchronous (the Cerebras SDK call is sync) — call via
+    Blocking/synchronous (the LLM SDK call is sync) — call via
     asyncio.to_thread from the bot so it doesn't stall the event loop.
     Returns the extracted scheme dict, or None if extraction wasn't
     possible (no API key) or failed."""
@@ -370,7 +362,7 @@ def ensure_extracted(raw_record: dict) -> Optional[dict]:
     if existing is not None:
         return existing
 
-    client = _get_cerebras_client()
+    client = _get_llm_client()
     if client is None:
         return None
 
@@ -393,7 +385,7 @@ def ensure_extracted(raw_record: dict) -> Optional[dict]:
 def ensure_translated(scheme_en: dict, slug: str) -> Optional[dict]:
     """If `scheme_en` (an already-extracted English record) hasn't been
     translated to Hindi yet, translate it right now with a single on-demand
-    Cerebras call — mirrors ensure_extracted()'s on-demand-vs-bulk-job
+    LLM call — mirrors ensure_extracted()'s on-demand-vs-bulk-job
     pattern. Result is cached to disk exactly like the bulk translate job's
     output, so it benefits every future Hindi request for this scheme too.
     Blocking/synchronous — call via asyncio.to_thread from the bot so it
@@ -404,7 +396,7 @@ def ensure_translated(scheme_en: dict, slug: str) -> Optional[dict]:
     if hi_path.exists():
         return _localize(scheme_en, slug, "hi")
 
-    client = _get_cerebras_client()
+    client = _get_llm_client()
     if client is None:
         return scheme_en
 

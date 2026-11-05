@@ -1,7 +1,8 @@
 """
 translate.py — Translates each already-extracted scheme's display text
 (scheme_name, benefits_summary, other_conditions, documents_required) into
-Hindi, using the Cerebras API, writing to data/extracted_hi/<slug>.json.
+Hindi, using the LLM configured in pipeline/llm.py (NVIDIA by default),
+writing to data/extracted_hi/<slug>.json.
 
 Mirrors pipeline/extract.py's pacing/resume/retry pattern exactly (same
 rate limit, same skip-if-output-exists resumability, same failure log).
@@ -24,18 +25,18 @@ from dotenv import load_dotenv
 from pydantic import BaseModel, Field, ValidationError
 from tqdm import tqdm
 
-from cerebras.cloud.sdk import Cerebras, RateLimitError
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import llm  # noqa: E402
+from llm import RateLimitError  # noqa: E402
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = BASE_DIR / "data" / "extracted"
 EXTRACTED_HI_DIR = BASE_DIR / "data" / "extracted_hi"
 FAILURES_PATH = EXTRACTED_HI_DIR / "_failures.jsonl"
 
-MODEL = "gpt-oss-120b"
 MAX_SCHEMES = int(os.environ.get("MAX_SCHEMES", "0")) or None
-# Same binding constraint as extract.py: Cerebras free tier caps at
-# 150 req/hour, so 24s spacing keeps a long unattended run under that.
-REQUEST_INTERVAL_SECONDS = 24.0
+# Same pacing as extract.py (NVIDIA free tier ~40 req/min).
+REQUEST_INTERVAL_SECONDS = float(os.environ.get("LLM_REQUEST_INTERVAL", "2.0"))
 RATE_LIMIT_BACKOFF_SECONDS = [30, 60, 120, 240, 240]
 
 SYSTEM_PROMPT = (
@@ -99,7 +100,7 @@ def strip_markdown_fence(text: str) -> str:
     return text
 
 
-def call_cerebras(client: Cerebras, messages: list) -> str:
+def call_llm(client, messages: list) -> str:
     last_error: Optional[Exception] = None
     for backoff in [None, *RATE_LIMIT_BACKOFF_SECONDS]:
         if backoff is not None:
@@ -107,8 +108,11 @@ def call_cerebras(client: Cerebras, messages: list) -> str:
         _rate_limit()
         try:
             response = client.chat.completions.create(
-                model=MODEL,
+                model=llm.get_model(),
                 messages=messages,
+                temperature=0,
+                max_tokens=2048,
+                extra_body=llm.EXTRA_BODY,
                 response_format={
                     "type": "json_schema",
                     "json_schema": {
@@ -131,7 +135,7 @@ def parse_and_validate(raw_text: str) -> SchemeTranslation:
     return SchemeTranslation.model_validate(data)
 
 
-def translate_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeTranslation], Optional[str]]:
+def translate_scheme(client, scheme: dict) -> Tuple[Optional[SchemeTranslation], Optional[str]]:
     prompt = build_prompt(scheme)
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
@@ -139,7 +143,7 @@ def translate_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeTra
     ]
 
     try:
-        raw = call_cerebras(client, messages)
+        raw = call_llm(client, messages)
         return parse_and_validate(raw), None
     except (json.JSONDecodeError, ValidationError) as e:
         first_error = str(e)
@@ -155,7 +159,7 @@ def translate_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeTra
         ),
     })
     try:
-        raw2 = call_cerebras(client, messages)
+        raw2 = call_llm(client, messages)
         return parse_and_validate(raw2), None
     except (json.JSONDecodeError, ValidationError) as e:
         return None, f"Validation failed after retry: {e}"
@@ -165,9 +169,9 @@ def translate_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeTra
 
 def main() -> int:
     load_dotenv()
-    api_key = os.environ.get("CEREBRAS_API_KEY")
-    if not api_key:
-        print("CEREBRAS_API_KEY not set. Copy .env.example to .env and add your key.")
+    client = llm.get_client()
+    if client is None:
+        print("NVIDIA_API_KEY not set. Copy .env.example to .env and add your key.")
         return 1
 
     if not EXTRACTED_DIR.exists():
@@ -178,8 +182,6 @@ def main() -> int:
     if MAX_SCHEMES is not None:
         source_paths = source_paths[:MAX_SCHEMES]
     EXTRACTED_HI_DIR.mkdir(parents=True, exist_ok=True)
-
-    client = Cerebras(api_key=api_key)
 
     succeeded = 0
     failed = 0

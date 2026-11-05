@@ -1,12 +1,12 @@
 """
 extract.py — Convert free-text eligibility criteria into structured JSON
-using the Cerebras API (free tier), for every scheme in the normalized
-dataset (set MAX_SCHEMES env var to limit this for a quick test run).
+using the LLM configured in pipeline/llm.py (NVIDIA by default), for every
+scheme in the normalized dataset (set MAX_SCHEMES env var to limit this for a
+quick test run).
 
 Resumable: schemes whose output file already exists are skipped. This is
-a long-running job for the full dataset — Cerebras' free tier caps requests
-at 5/minute AND 150/hour AND 2400/day, so completing ~3400 schemes takes
-roughly 1-2 days of (safely interruptible and resumable) background running.
+a long-running job for the full dataset, paced by REQUEST_INTERVAL_SECONDS to
+stay under the provider's rate limit (safely interruptible and resumable).
 Failures are logged, not fatal.
 """
 import json
@@ -24,20 +24,19 @@ from tqdm import tqdm
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from utils import slugify  # noqa: E402
 
-from cerebras.cloud.sdk import Cerebras, RateLimitError
+import llm  # noqa: E402
+from llm import RateLimitError  # noqa: E402
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 RAW_PATH = BASE_DIR / "data" / "raw" / "schemes_normalized.json"
 EXTRACTED_DIR = BASE_DIR / "data" / "extracted"
 FAILURES_PATH = EXTRACTED_DIR / "_failures.jsonl"
 
-MODEL = "gpt-oss-120b"
 # Optional cap for quick test runs, e.g. MAX_SCHEMES=20 python pipeline/extract.py
 MAX_SCHEMES = int(os.environ.get("MAX_SCHEMES", "0")) or None
-# Cerebras free tier caps requests at 5/minute AND 150/hour. 5/min alone
-# would be 300/hour, blowing past the hourly cap — 24s spacing (150/hour)
-# is the binding constraint for a long sustained run.
-REQUEST_INTERVAL_SECONDS = 24.0
+# NVIDIA's free hosted tier allows roughly 40 requests/minute; 2s spacing
+# (~30/min) stays comfortably under that. Override with LLM_REQUEST_INTERVAL.
+REQUEST_INTERVAL_SECONDS = float(os.environ.get("LLM_REQUEST_INTERVAL", "2.0"))
 RATE_LIMIT_BACKOFF_SECONDS = [30, 60, 120, 240, 240]  # on 429s beyond the SDK's own retries
 
 SYSTEM_PROMPT = (
@@ -46,9 +45,9 @@ SYSTEM_PROMPT = (
     "if a field is not mentioned, it means 'no restriction' and must be null."
 )
 
-# Strict JSON Schema for Cerebras structured outputs — the API guarantees the
-# response conforms to this exactly (every property present, correct types),
-# so occupation/gender/etc. are expressed as nullable rather than optional.
+# Strict JSON Schema for structured outputs — every property present, correct
+# types, so occupation/gender/etc. are expressed as nullable rather than
+# optional. (Responses are still validated with pydantic below.)
 RESPONSE_JSON_SCHEMA = {
     "type": "object",
     "additionalProperties": False,
@@ -120,16 +119,21 @@ Description: {scheme.get('description') or ''}
 Eligibility text: {scheme.get('eligibility_text') or ''}
 Benefits (raw, may overlap with eligibility text): {scheme.get('benefits') or ''}
 Application link (raw): {scheme.get('application_link') or ''}
+Level (raw): {scheme.get('state_or_ministry') or ''}
 
 Rules:
-- category: ONLY social/caste category (SC, ST, OBC, EWS, general). Never put marital status, occupation, gender, or any other eligibility criterion here, even if the source text calls it a "category" — those belong in other_conditions instead.
+- state: list of Indian states/Union Territories the scheme is limited to. Set it whenever the text says applicants must be residents / natives / domiciled in a state or UT (e.g. "resident of Jharkhand", "native of the Union Territory of Pondicherry"), or the scheme is clearly run by a single state. Use the standard state name. null only for all-India/central schemes.
+- gender: "female" if the scheme is only for women/girls, "male" if only for men/boys, "any" if explicitly open to all, otherwise null.
+- age_min / age_max: set whenever an age limit or age range is stated, in years.
+- occupation: list the occupations/worker types the scheme targets (e.g. farmer, student, construction worker) when stated; null if open to everyone.
+- category: null unless the text restricts the scheme to specific social/caste categories; if it is open to all categories, use null (not "general"). ONLY social/caste category (SC, ST, OBC, EWS, general). Never put marital status, occupation, gender, or any other eligibility criterion here, even if the source text calls it a "category" — those belong in other_conditions instead.
 - benefits_summary: 1-2 lines summarizing the benefit.
 - other_conditions: anything eligibility-related that doesn't fit the other fields (marital status, family structure, employment status, etc.), in plain English. Empty list if none.
 - documents_required: only documents explicitly mentioned in the text. Empty list if none.
 - Every other field: null unless the source text explicitly states a restriction. Never guess."""
 
 
-def call_cerebras(client: Cerebras, messages: list) -> str:
+def call_llm(client, messages: list) -> str:
     """Call the API with our own rate-limit pacing plus a backoff loop for
     429s that slip through despite it (the SDK's own max_retries=2 isn't
     enough ground for an hours-long unattended run)."""
@@ -140,8 +144,11 @@ def call_cerebras(client: Cerebras, messages: list) -> str:
         _rate_limit()
         try:
             response = client.chat.completions.create(
-                model=MODEL,
+                model=llm.get_model(),
                 messages=messages,
+                temperature=0,
+                max_tokens=2048,
+                extra_body=llm.EXTRA_BODY,
                 response_format={
                     "type": "json_schema",
                     "json_schema": {
@@ -176,8 +183,8 @@ def parse_and_validate(raw_text: str) -> SchemeEligibility:
     return SchemeEligibility.model_validate(data)
 
 
-def extract_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeEligibility], Optional[str]]:
-    """Call Cerebras, validate the response, retry once on failure. Returns
+def extract_scheme(client, scheme: dict) -> Tuple[Optional[SchemeEligibility], Optional[str]]:
+    """Call the LLM, validate the response, retry once on failure. Returns
     (result, error) — exactly one is None."""
     prompt = build_prompt(scheme)
     messages = [
@@ -186,7 +193,7 @@ def extract_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeEligi
     ]
 
     try:
-        raw = call_cerebras(client, messages)
+        raw = call_llm(client, messages)
         return parse_and_validate(raw), None
     except (json.JSONDecodeError, ValidationError) as e:
         first_error = str(e)
@@ -205,7 +212,7 @@ def extract_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeEligi
         ),
     })
     try:
-        raw2 = call_cerebras(client, messages)
+        raw2 = call_llm(client, messages)
         return parse_and_validate(raw2), None
     except (json.JSONDecodeError, ValidationError) as e:
         return None, f"Validation failed after retry: {e}"
@@ -215,9 +222,9 @@ def extract_scheme(client: Cerebras, scheme: dict) -> Tuple[Optional[SchemeEligi
 
 def main() -> int:
     load_dotenv()
-    api_key = os.environ.get("CEREBRAS_API_KEY")
-    if not api_key:
-        print("CEREBRAS_API_KEY not set. Copy .env.example to .env and add your key.")
+    client = llm.get_client()
+    if client is None:
+        print("NVIDIA_API_KEY not set. Copy .env.example to .env and add your key.")
         return 1
 
     if not RAW_PATH.exists():
@@ -230,8 +237,6 @@ def main() -> int:
     if MAX_SCHEMES is not None:
         schemes = schemes[:MAX_SCHEMES]
     EXTRACTED_DIR.mkdir(parents=True, exist_ok=True)
-
-    client = Cerebras(api_key=api_key)
 
     succeeded = 0
     failed = 0

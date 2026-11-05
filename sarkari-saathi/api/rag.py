@@ -2,7 +2,7 @@
 rag.py — Retrieval-augmented generation over the scheme corpus: embed the
 user's free-text question, retrieve the most relevant schemes from the
 Chroma vector store built by pipeline/build_embeddings.py, then ask
-Cerebras to answer using only that retrieved context (grounded, with
+the LLM to answer using only that retrieved context (grounded, with
 citations back to the source schemes).
 """
 import json
@@ -16,6 +16,7 @@ from chromadb.config import Settings
 
 import i18n
 import matcher
+import llm  # on sys.path via matcher's own pipeline/ insert
 
 from api import web_search
 
@@ -29,14 +30,25 @@ from build_embeddings import build_document  # noqa: E402
 
 _collection = None
 
+# Provider, model and endpoint are configured in pipeline/llm.py (NVIDIA by
+# default, overridable via env vars).
+
+
+def _strip_thinking(text: str) -> str:
+    """Drop any <think>...</think> block the model might still emit."""
+    return re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
+
+
 SYSTEM_PROMPT = (
     "You are Sarkari Saathi, an assistant that helps Indian citizens understand "
     "government welfare schemes. Answer the user's question using ONLY the scheme "
     "information provided below — never invent schemes, benefits, or eligibility "
     "rules that aren't in the given context. Cite the specific scheme name(s) you "
     "used in your answer. If the provided local scheme context doesn't answer the "
-    "question, you may call search_gov_website to look up official Indian "
-    "government (.gov.in) websites instead of guessing. When you use information "
+    "question (for example the scheme asked about is not in the context), you MUST "
+    "immediately call search_gov_website to look up official Indian government "
+    "(.gov.in) websites — never ask the user for permission to search and never "
+    "just offer to search. When you use information "
     "from a web search result, clearly attribute it as coming from an official "
     "government website rather than the local scheme database. Never invent "
     "information beyond what either source actually says."
@@ -138,7 +150,7 @@ def _build_context(schemes: list[dict]) -> str:
 
 
 def _looks_malformed(text: str) -> bool:
-    """gpt-oss-120b occasionally leaks raw tool-simulation scratchpad text
+    """The model can occasionally leak raw tool-simulation scratchpad text
     (JSON-like fragments such as {"cursor": 0, "id": 0}) into the final
     answer channel instead of prose — this is a cheap heuristic to catch
     that so it can be retried rather than shown to the user."""
@@ -156,7 +168,7 @@ MAX_TOOL_ROUNDS = 2
 
 
 def _clean_completion(client, messages: list[dict], tools: Optional[list[dict]], attempts: int = 3):
-    """Call Cerebras and retry (same messages, same temperature) if the
+    """Call the LLM and retry (same messages, same temperature) if the
     response looks malformed. Observed directly while building this
     feature: when the model wants to search again but isn't offered the
     tool on that particular call, it sometimes fabricates fake tool-call/
@@ -166,13 +178,20 @@ def _clean_completion(client, messages: list[dict], tools: Optional[list[dict]],
     rather than dropping them after round one."""
     message = None
     for _ in range(attempts):
-        kwargs = {"model": "gpt-oss-120b", "messages": messages, "temperature": 0.2}
+        kwargs = {
+            "model": llm.get_model(),
+            "messages": messages,
+            "temperature": 0.2,
+            "max_tokens": 2048,
+            "extra_body": llm.EXTRA_BODY,
+        }
         if tools is not None:
             kwargs["tools"] = tools
             kwargs["parallel_tool_calls"] = False
         response = client.chat.completions.create(**kwargs)
         message = response.choices[0].message
-        if message.tool_calls or not _looks_malformed(message.content or ""):
+        message.content = _strip_thinking(message.content or "")
+        if message.tool_calls or not _looks_malformed(message.content):
             return message
     return message  # last attempt even if malformed — caller decides what to do
 
@@ -185,7 +204,7 @@ def _translate_query_to_english(query: str, client) -> str:
     beats the whole request failing."""
     try:
         response = client.chat.completions.create(
-            model="gpt-oss-120b",
+            model=llm.get_model(),
             messages=[
                 {
                     "role": "system",
@@ -194,17 +213,19 @@ def _translate_query_to_english(query: str, client) -> str:
                 {"role": "user", "content": query},
             ],
             temperature=0,
+            max_tokens=256,
+            extra_body=llm.EXTRA_BODY,
         )
-        translated = (response.choices[0].message.content or "").strip()
+        translated = _strip_thinking(response.choices[0].message.content or "")
         return translated or query
     except Exception:
         return query
 
 
 def generate_answer(query: str, schemes: list[dict], lang: str = "en") -> dict:
-    client = matcher._get_cerebras_client()
+    client = llm.get_client()
     if client is None:
-        raise RuntimeError("Cerebras API key not configured")
+        raise RuntimeError("NVIDIA_API_KEY not configured")
 
     context = _build_context(schemes) if schemes else "No matching schemes found locally."
     system_prompt = SYSTEM_PROMPT
@@ -226,7 +247,22 @@ def generate_answer(query: str, schemes: list[dict], lang: str = "en") -> dict:
                 "web_sources": web_sources,
             }
 
-        messages.append(message.model_dump())
+        # Rebuilt by hand (not model_dump) so only fields every
+        # OpenAI-compatible server accepts are sent back.
+        messages.append(
+            {
+                "role": "assistant",
+                "content": message.content or "",
+                "tool_calls": [
+                    {
+                        "id": tc.id,
+                        "type": "function",
+                        "function": {"name": tc.function.name, "arguments": tc.function.arguments},
+                    }
+                    for tc in message.tool_calls
+                ],
+            }
+        )
         for tool_call in message.tool_calls:
             args = json.loads(tool_call.function.arguments)
             results = web_search.search_gov_sites(args.get("query", query))
@@ -262,7 +298,7 @@ def generate_answer(query: str, schemes: list[dict], lang: str = "en") -> dict:
 def ask(query: str, k: int = 5, lang: str = "en") -> dict:
     retrieval_query = query
     if lang == "hi":
-        client = matcher._get_cerebras_client()
+        client = llm.get_client()
         if client is not None:
             # Both embedding retrieval and _extract_hints are English-
             # vocabulary-sensitive — translate first rather than build a
