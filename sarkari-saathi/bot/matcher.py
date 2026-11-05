@@ -14,6 +14,7 @@ from typing import Optional
 BASE_DIR = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = BASE_DIR / "data" / "extracted"
 EXTRACTED_HI_DIR = BASE_DIR / "data" / "extracted_hi"
+LIVE_CACHE_DIR = BASE_DIR / "data" / "live_cache"  # schemes found by live web search
 RAW_NORMALIZED_PATH = BASE_DIR / "data" / "raw" / "schemes_normalized.json"
 
 sys.path.insert(0, str(BASE_DIR / "pipeline"))
@@ -488,7 +489,12 @@ def check_eligibility(scheme: dict, profile: dict) -> dict:
 def get_scheme_by_slug(slug: str, lang: str = "en") -> Optional[dict]:
     path = EXTRACTED_DIR / f"{slug}.json"
     if not path.exists():
-        return None
+        # Schemes found via live web search (api/live_search.py) are kept
+        # apart from the curated dataset but are still served by slug, so the
+        # detail / eligibility / questions endpoints work for them too.
+        path = LIVE_CACHE_DIR / f"{slug}.json"
+        if not path.exists():
+            return None
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
     data["_slug"] = slug

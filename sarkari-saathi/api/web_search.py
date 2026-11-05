@@ -43,15 +43,22 @@ def _looks_like_error_page(content: str) -> bool:
     return any(marker in lowered for marker in _ERROR_PAGE_MARKERS)
 
 
-def search_gov_sites(query: str, max_results: int = 3) -> list[dict]:
+def search_gov_sites(query: str, max_results: int = 3, deep: bool = False) -> list[dict]:
     """Search gov.in sites for `query`. Returns [] on any failure (no API
     key, network error, rate limit) rather than raising — this is a
-    supplementary tool, not a hard dependency of the assistant."""
+    supplementary tool, not a hard dependency of the assistant.
+    `deep=True` asks Tavily for longer page extracts (used by live search,
+    which needs enough text to extract a full scheme record)."""
     client = _get_client()
     if client is None:
         return []
     try:
-        response = client.search(query=query, include_domains=["gov.in"], max_results=max_results)
+        response = client.search(
+            query=query,
+            include_domains=["gov.in"],
+            max_results=max_results,
+            search_depth="advanced" if deep else "basic",
+        )
     except Exception:
         return []
     return [

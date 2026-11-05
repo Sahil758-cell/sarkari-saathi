@@ -46,3 +46,7 @@ sarkari-saathi/data/otp_quota.json
 
 # Editor / tooling
 .claude/
+
+# Schemes found by live web search (runtime cache) and their Hindi translations
+sarkari-saathi/data/live_cache/
+sarkari-saathi/data/extracted_hi/web-*.json

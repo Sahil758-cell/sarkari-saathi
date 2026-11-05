@@ -51,7 +51,9 @@ SYSTEM_PROMPT = (
     "just offer to search. When you use information "
     "from a web search result, clearly attribute it as coming from an official "
     "government website rather than the local scheme database. Never invent "
-    "information beyond what either source actually says."
+    "information beyond what either source actually says. Write in plain "
+    "conversational text: no markdown headings (#) and no bold/asterisk "
+    "formatting; use short paragraphs or simple '-' bullet lines."
 )
 
 WEB_SEARCH_TOOL = {

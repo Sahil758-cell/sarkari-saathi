@@ -21,7 +21,7 @@ from fastapi import Depends, FastAPI, Header, HTTPException, Request  # noqa: E4
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
 from fastapi.responses import HTMLResponse  # noqa: E402
 
-from api import email_otp, notifications, rag  # noqa: E402
+from api import email_otp, live_search, notifications, rag  # noqa: E402
 from api.rate_limit import check_rate_limit  # noqa: E402
 from api.schemas import (  # noqa: E402
     AskRequest,
@@ -92,6 +92,25 @@ def get_scheme(slug: str, lang: str = "en"):
 def get_search(q: str, limit: int = 10, lang: str = "en"):
     results = matcher.search_by_name(q, limit=limit, lang=lang)
     return {"count": len(results), "results": [_to_scheme_out(s) for s in results]}
+
+
+@app.get("/search/live", response_model=MatchResponse)
+def get_search_live(q: str, request: Request, lang: str = "en"):
+    """Fallback for /search: look the scheme up on official gov.in websites
+    and return it as a normal scheme record (0 or 1 results). Slow (several
+    seconds) and costs a web-search + LLM call, so it is rate limited per IP."""
+    forwarded = request.headers.get("x-forwarded-for", "")
+    client_ip = forwarded.split(",")[0].strip() or (request.client.host if request.client else "unknown")
+    if not check_rate_limit(f"live-search:{client_ip}", max_calls=30, window_seconds=60 * 60):
+        raise HTTPException(status_code=429, detail="Too many searches — try again later")
+    try:
+        scheme = live_search.find_scheme(q, lang=lang)
+    except RateLimitError:
+        raise HTTPException(status_code=429, detail="Search is busy, try again in a moment")
+    except (RuntimeError, LLMAPIError):
+        raise HTTPException(status_code=503, detail="Live search is temporarily unavailable")
+    results = [_to_scheme_out(scheme)] if scheme else []
+    return {"count": len(results), "results": results}
 
 
 @app.post("/schemes/{slug}/eligibility", response_model=EligibilityOut)
