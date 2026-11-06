@@ -2,12 +2,14 @@
 
 import {
   ArrowRight,
+  Bell,
   Bookmark,
   FileText,
   Search,
   Sparkles,
   ListChecks,
   UserRound,
+  UserCheck,
   BadgeCheck,
 } from "lucide-react";
 import Link from "next/link";
@@ -31,6 +33,8 @@ const QUICK_ACTIONS: {
   { href: "/assistant", title: "askAi", subtitle: "askAiSubtitle", icon: Sparkles },
   { href: "/documents", title: "documents", subtitle: "documentsSubtitle", icon: FileText },
   { href: "/saved", title: "saved", subtitle: "savedSubtitle", icon: Bookmark },
+  { href: "/for-you", title: "forYouTitle", subtitle: "forYouTile", icon: UserCheck },
+  { href: "/new", title: "newTitle", subtitle: "newTile", icon: Bell },
 ];
 
 export default function HomeView() {
@@ -149,7 +153,7 @@ export default function HomeView() {
           <h2 id="quick-actions" className="mb-4 text-xl font-bold">
             {t("quickActions")}
           </h2>
-          <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
+          <div className="grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-6">
             {QUICK_ACTIONS.map((a) => (
               <Link
                 key={a.href}

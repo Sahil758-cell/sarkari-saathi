@@ -6,6 +6,7 @@ instantly and for free regardless of LLM rate limits.
 """
 import difflib
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -409,6 +410,19 @@ def ensure_extracted(raw_record: dict) -> Optional[dict]:
     return data
 
 
+_MIXED_SCRIPT = re.compile(r"[ऀ-ॿ][A-Za-z]|[A-Za-z][ऀ-ॿ]")
+
+
+def _looks_garbled(translation) -> bool:
+    """The model sometimes glues Latin letters into the middle of a Devanagari
+    word ("पाहije"). Such text must never be shown as a translation."""
+    data = translation.model_dump()
+    texts = [data.get("scheme_name") or "", data.get("benefits_summary") or ""]
+    texts += data.get("other_conditions") or []
+    texts += data.get("documents_required") or []
+    return any(_MIXED_SCRIPT.search(t) for t in texts)
+
+
 def ensure_translated(scheme_en: dict, slug: str, lang: str = "hi") -> Optional[dict]:
     """If `scheme_en` (an already-extracted English record) hasn't been
     translated to `lang` ("hi" or "mr") yet, translate it right now with a
@@ -428,7 +442,12 @@ def ensure_translated(scheme_en: dict, slug: str, lang: str = "hi") -> Optional[
     if client is None:
         return scheme_en
 
-    result, _error = translate_pipeline.translate_scheme(client, scheme_en, lang)
+    result = None
+    for _attempt in range(3):  # retry a garbled translation, then fall back to English
+        candidate, _error = translate_pipeline.translate_scheme(client, scheme_en, lang)
+        if candidate is not None and not _looks_garbled(candidate):
+            result = candidate
+            break
     if result is None:
         return scheme_en
 

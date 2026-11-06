@@ -33,6 +33,8 @@ export interface Scheme {
   portal_url: string | null;
   source_url?: string | null;
   date_added: string | null;
+  /** false = read from a website by AI and not yet checked by a person. */
+  verified?: boolean;
 }
 
 export interface MatchResponse {

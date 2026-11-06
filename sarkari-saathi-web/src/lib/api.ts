@@ -83,3 +83,77 @@ export function askAssistant(query: string, lang = "en") {
     body: JSON.stringify({ query, lang }),
   });
 }
+
+export type ReportReason = "wrong_info" | "outdated" | "broken_link" | "other";
+
+export function reportScheme(slug: string, reason: ReportReason, note: string) {
+  return request<{ ok: boolean }>(`/schemes/${encodeURIComponent(slug)}/report`, {
+    method: "POST",
+    body: JSON.stringify({ reason, note }),
+  });
+}
+
+// ---- Admin (needs the ADMIN_SECRET configured on the server) ----
+
+export interface AdminScheme {
+  slug: string;
+  scheme_name: string | null;
+  state: string[] | null;
+  verified: boolean;
+  benefits_summary: string | null;
+  other_conditions: string[];
+  documents_required: string[];
+  application_link: string | null;
+  source_url: string | null;
+  date_added: string | null;
+  open_reports: number;
+}
+
+export interface AdminReport {
+  id: string;
+  slug: string;
+  scheme_name: string | null;
+  reason: ReportReason;
+  note: string;
+  created: string | null;
+}
+
+export interface AdminEdit {
+  benefits_summary?: string;
+  other_conditions?: string[];
+  documents_required?: string[];
+  application_link?: string;
+}
+
+function adminRequest<T>(secret: string, path: string, options?: RequestInit) {
+  return request<T>(path, {
+    ...options,
+    headers: { "Content-Type": "application/json", "x-admin-secret": secret },
+  });
+}
+
+export const adminApi = {
+  schemes: (secret: string) =>
+    adminRequest<{ count: number; results: AdminScheme[] }>(secret, "/admin/live-schemes"),
+  reports: (secret: string) =>
+    adminRequest<{ count: number; results: AdminReport[] }>(secret, "/admin/reports"),
+  verify: (secret: string, slug: string, verified: boolean) =>
+    adminRequest<{ ok: boolean }>(
+      secret,
+      `/admin/live-schemes/${encodeURIComponent(slug)}/verify?verified=${verified}`,
+      { method: "POST" }
+    ),
+  edit: (secret: string, slug: string, body: AdminEdit) =>
+    adminRequest<{ ok: boolean }>(secret, `/admin/live-schemes/${encodeURIComponent(slug)}/edit`, {
+      method: "POST",
+      body: JSON.stringify(body),
+    }),
+  remove: (secret: string, slug: string) =>
+    adminRequest<{ ok: boolean }>(secret, `/admin/live-schemes/${encodeURIComponent(slug)}`, {
+      method: "DELETE",
+    }),
+  resolve: (secret: string, id: string) =>
+    adminRequest<{ ok: boolean }>(secret, `/admin/reports/${encodeURIComponent(id)}/resolve`, {
+      method: "POST",
+    }),
+};

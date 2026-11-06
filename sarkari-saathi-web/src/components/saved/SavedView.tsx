@@ -4,6 +4,7 @@ import { Bookmark, ChevronRight, Pencil, Plus, Search, Trash2, UserRound } from 
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { EmptyState, PageHeading } from "@/components/Feedback";
+import BookmarksSection from "./BookmarksSection";
 import { useLanguage } from "@/context/LanguageContext";
 import { MAX_SAVED_PROFILES } from "@/lib/constants";
 import { useSavedProfiles } from "@/lib/hooks";
@@ -63,6 +64,9 @@ export default function SavedView() {
         ) : null}
       </div>
 
+      <BookmarksSection />
+
+      <h2 className="mb-3 text-xl font-bold">{t("savedProfilesTitle")}</h2>
       {profiles.length === 0 ? (
         <EmptyState icon={Bookmark} message={t("noSavedProfiles")}>
           <Link

@@ -85,24 +85,68 @@ export const STATES: [string, string][] = [
   ["Puducherry", "पुदुचेरी"],
 ];
 
+// Marathi labels, keyed by the option value / canonical English state name.
+// (Anything missing falls back to the Hindi label, which is the same script.)
+const MARATHI: Record<string, string> = {
+  male: "पुरुष",
+  female: "महिला",
+  general: "सामान्य",
+  sc: "अनुसूचित जाती (SC)",
+  st: "अनुसूचित जमाती (ST)",
+  obc: "इतर मागास वर्ग (OBC)",
+  ews: "EWS",
+  below_1l: "₹1 लाखांपेक्षा कमी",
+  "1_2l": "₹1-2 लाख",
+  "2_5l": "₹2-5 लाख",
+  "5_8l": "₹5-8 लाख",
+  above_8l: "₹8 लाखांपेक्षा जास्त",
+  rural: "ग्रामीण",
+  urban: "शहरी",
+  farmer: "शेतकरी",
+  fisherman: "मच्छीमार",
+  student: "विद्यार्थी",
+  entrepreneur: "उद्योजक",
+  laborer: "मजूर",
+  artisan: "कारागीर",
+  unemployed: "बेरोजगार",
+  Chhattisgarh: "छत्तीसगड",
+  Kerala: "केरळ",
+  Mizoram: "मिझोरम",
+  Nagaland: "नागालँड",
+  "Tamil Nadu": "तमिळनाडू",
+  Telangana: "तेलंगणा",
+  "Andaman and Nicobar Islands": "अंदमान आणि निकोबार बेटे",
+  Chandigarh: "चंदीगड",
+  "Dadra and Nagar Haveli and Daman and Diu": "दादरा आणि नगर हवेली व दमण आणि दीव",
+  "Jammu and Kashmir": "जम्मू आणि काश्मीर",
+  Puducherry: "पुदुच्चेरी",
+  Assam: "आसाम",
+};
+
+function pick(value: string, en: string, hi: string, lang: Language): string {
+  if (lang === "en") return en;
+  if (lang === "mr") return MARATHI[value] ?? hi;
+  return hi;
+}
+
 export function labelFor(value: string | undefined, options: OptionTuple[], lang: Language): string {
   if (!value) return value ?? "";
   const opt = options.find((o) => o[0] === value);
   if (!opt) return value;
-  return lang === "en" ? opt[1] : opt[2];
+  return pick(opt[0], opt[1], opt[2], lang);
 }
 
 export function stateLabel(englishName: string | undefined, lang: Language): string {
   if (!englishName) return englishName ?? "";
   if (lang === "en") return englishName;
   const found = STATES.find(([en]) => en === englishName);
-  return found ? found[1] : englishName;
+  return found ? pick(found[0], found[0], found[1], lang) : englishName;
 }
 
 export function localizedOptions(
   options: OptionTuple[],
   lang: Language
 ): { value: string; label: string }[] {
-  return options.map(([value, en, hi]) => ({ value, label: lang === "en" ? en : hi }));
+  return options.map(([value, en, hi]) => ({ value, label: pick(value, en, hi, lang) }));
 }
 

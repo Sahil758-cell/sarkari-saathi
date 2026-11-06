@@ -6,6 +6,9 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { EmptyState, ErrorBox, PageHeading, Spinner, useErrorMessage } from "@/components/Feedback";
 import SchemeCard from "@/components/SchemeCard";
+import VoiceButton from "@/components/VoiceButton";
+import LiveProgress from "./LiveProgress";
+import StatePicker from "./StatePicker";
 import { useLanguage } from "@/context/LanguageContext";
 import { searchLive, searchSchemes } from "@/lib/api";
 import { CATEGORIES, POPULAR_SEARCHES } from "@/lib/constants";
@@ -136,18 +139,27 @@ export default function SearchView() {
           value={text}
           onChange={(e) => setText(e.target.value)}
           placeholder={t("searchPlaceholder")}
-          className="w-full rounded-full border border-line bg-surface py-3 pl-11 pr-11 text-sm shadow-card placeholder:text-faint focus:border-primary [&::-webkit-search-cancel-button]:hidden"
+          className="w-full rounded-full border border-line bg-surface py-3 pl-11 pr-24 text-sm shadow-card placeholder:text-faint focus:border-primary [&::-webkit-search-cancel-button]:hidden"
         />
-        {text ? (
-          <button
-            type="button"
-            onClick={() => setText("")}
-            aria-label={t("clearSearch")}
-            className="absolute right-3 top-1/2 flex h-7 w-7 -translate-y-1/2 items-center justify-center rounded-full text-muted hover:bg-canvas"
-          >
-            <X size={16} aria-hidden />
-          </button>
-        ) : null}
+        <div className="absolute right-2 top-1/2 flex -translate-y-1/2 items-center gap-1">
+          {text ? (
+            <button
+              type="button"
+              onClick={() => setText("")}
+              aria-label={t("clearSearch")}
+              className="flex h-7 w-7 items-center justify-center rounded-full text-muted hover:bg-canvas"
+            >
+              <X size={16} aria-hidden />
+            </button>
+          ) : null}
+          <VoiceButton
+            onText={(spoken) => {
+              setText(spoken);
+              setQuery(spoken.trim());
+              setLiveQuery(spoken.trim());
+            }}
+          />
+        </div>
       </form>
 
       <div className="mt-8" aria-live="polite">
@@ -228,7 +240,7 @@ export default function SearchView() {
           liveError ? (
             <ErrorBox message={liveError} onRetry={liveFetch.reload} />
           ) : !liveResults ? (
-            <Spinner label={t("searchingOfficialSites")} />
+            <LiveProgress />
           ) : liveResults.length > 0 ? (
             <>
               <p className="mb-1 text-sm font-semibold text-primary">{t("foundOnOfficialSites")}</p>
@@ -238,6 +250,14 @@ export default function SearchView() {
                   <SchemeCard key={s.slug} scheme={s} />
                 ))}
               </div>
+              <StatePicker
+                query={query}
+                onPick={(q) => {
+                  setText(q);
+                  setQuery(q);
+                  setLiveQuery(q);
+                }}
+              />
             </>
           ) : (
             <EmptyState icon={SearchX} message={t("noSchemesFoundFor", { query })}>

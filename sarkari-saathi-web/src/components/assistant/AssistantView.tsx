@@ -1,5 +1,6 @@
 "use client";
 
+import VoiceButton from "@/components/VoiceButton";
 import { ArrowRight, Globe, Send, Sparkles, UserRound } from "lucide-react";
 import { useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
@@ -241,6 +242,7 @@ export default function AssistantView() {
               placeholder={t("typeYourQuestion")}
               className="min-w-0 flex-1 rounded-full border border-line bg-canvas px-4 py-2.5 text-sm placeholder:text-faint focus:border-primary"
             />
+            <VoiceButton onText={(spoken) => void ask(spoken)} />
             <button
               type="submit"
               disabled={!input.trim() || loading}

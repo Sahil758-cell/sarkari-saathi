@@ -2,13 +2,19 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState, useSyncExternalStore } from "react";
 import {
+  BOOKMARKS_STORAGE_KEY,
+  CHECKLIST_STORAGE_KEY,
   HISTORY_STORAGE_KEY,
+  NEW_SEEN_STORAGE_KEY,
   PROFILES_STORAGE_KEY,
+  parseBookmarks,
+  parseChecklist,
   parseProfiles,
   parseSearchHistory,
   readRaw,
   subscribeToStorage,
 } from "./storage";
+import type { Bookmark } from "./storage";
 import type { SavedProfile, SearchHistoryEntry } from "./types";
 
 // Server snapshot is `null` so components can tell "not read yet" (SSR and the
@@ -31,6 +37,23 @@ export function useSavedProfiles(): SavedProfile[] | undefined {
 export function useSearchHistory(): SearchHistoryEntry[] {
   const raw = useRawStorage(HISTORY_STORAGE_KEY);
   return useMemo(() => (raw === null ? [] : parseSearchHistory(raw)), [raw]);
+}
+
+/** Bookmarked schemes, live across tabs. Empty until localStorage has been read. */
+export function useBookmarks(): Bookmark[] {
+  const raw = useRawStorage(BOOKMARKS_STORAGE_KEY);
+  return useMemo(() => (raw === null ? [] : parseBookmarks(raw)), [raw]);
+}
+
+/** Documents the user ticked off for one scheme. */
+export function useChecked(slug: string): string[] {
+  const raw = useRawStorage(CHECKLIST_STORAGE_KEY);
+  return useMemo(() => (raw === null ? [] : (parseChecklist(raw)[slug] ?? [])), [raw, slug]);
+}
+
+/** Newest scheme date the user has already seen on the "New" page ("" = never). */
+export function useNewSeen(): string {
+  return useRawStorage(NEW_SEEN_STORAGE_KEY) ?? "";
 }
 
 interface FetchState<T> {

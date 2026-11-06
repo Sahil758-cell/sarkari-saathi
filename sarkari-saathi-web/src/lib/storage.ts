@@ -80,7 +80,7 @@ let memoryLanguage: Language | null = null;
 
 export function loadLanguage(): Language | null {
   const v = readRaw(LANGUAGE_KEY);
-  if (v === "en" || v === "hi") return v;
+  if (v === "en" || v === "hi" || v === "mr") return v;
   return memoryLanguage;
 }
 
@@ -155,6 +155,91 @@ export function addSearchHistory(query: string): void {
 export function clearSearchHistory(): void {
   try {
     window.localStorage.removeItem(HISTORY_KEY);
+  } catch {
+    /* ignore */
+  }
+  notify();
+}
+
+// ---- Bookmarked schemes ----
+
+const BOOKMARKS_KEY = "sarkari-saathi:bookmarks";
+const CHECKLIST_KEY = "sarkari-saathi:checklist";
+const NEW_SEEN_KEY = "sarkari-saathi:new-seen";
+const MAX_BOOKMARKS = 50;
+
+export const BOOKMARKS_STORAGE_KEY = BOOKMARKS_KEY;
+export const CHECKLIST_STORAGE_KEY = CHECKLIST_KEY;
+export const NEW_SEEN_STORAGE_KEY = NEW_SEEN_KEY;
+
+export interface Bookmark {
+  slug: string;
+  name: string;
+  state: string[] | null;
+  savedAt: number;
+}
+
+export function parseBookmarks(raw: string): Bookmark[] {
+  return parse<Bookmark[]>(raw, []);
+}
+
+export function listBookmarks(): Bookmark[] {
+  return read<Bookmark[]>(BOOKMARKS_KEY, []);
+}
+
+/** Adds the scheme if it isn't bookmarked, removes it if it is. Returns the new state. */
+export function toggleBookmark(scheme: {
+  slug: string;
+  scheme_name: string;
+  state: string[] | null;
+}): boolean {
+  const all = listBookmarks();
+  if (all.some((b) => b.slug === scheme.slug)) {
+    write(
+      BOOKMARKS_KEY,
+      all.filter((b) => b.slug !== scheme.slug)
+    );
+    return false;
+  }
+  const added: Bookmark = {
+    slug: scheme.slug,
+    name: scheme.scheme_name,
+    state: scheme.state,
+    savedAt: Date.now(),
+  };
+  write(BOOKMARKS_KEY, [added, ...all].slice(0, MAX_BOOKMARKS));
+  return true;
+}
+
+export function removeBookmark(slug: string): void {
+  write(
+    BOOKMARKS_KEY,
+    listBookmarks().filter((b) => b.slug !== slug)
+  );
+}
+
+// ---- Document checklist (documents the user has already got, per scheme) ----
+
+export type Checklist = Record<string, string[]>;
+
+export function parseChecklist(raw: string): Checklist {
+  return parse<Checklist>(raw, {});
+}
+
+export function toggleChecked(slug: string, document: string): void {
+  const all = read<Checklist>(CHECKLIST_KEY, {});
+  const current = all[slug] ?? [];
+  all[slug] = current.includes(document)
+    ? current.filter((d) => d !== document)
+    : [...current, document];
+  write(CHECKLIST_KEY, all);
+}
+
+// ---- "New schemes" — the newest scheme date the user has already looked at ----
+
+export function markNewSeen(newestDate: string): void {
+  try {
+    window.localStorage.setItem(NEW_SEEN_KEY, newestDate);
   } catch {
     /* ignore */
   }

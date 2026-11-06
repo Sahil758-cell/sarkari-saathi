@@ -7,6 +7,8 @@ import {
   Gift,
   Info,
   SearchX,
+  ShieldAlert,
+  ShieldCheck,
   type LucideIcon,
 } from "lucide-react";
 import Link from "next/link";
@@ -21,8 +23,10 @@ import {
   RESIDENCY_OPTIONS,
   stateLabel,
 } from "@/lib/i18n/options";
+import DocumentChecklist from "./DocumentChecklist";
 import EligibilityCard from "./EligibilityCard";
 import EligibilityRequirements from "./EligibilityRequirements";
+import SchemeActions from "./SchemeActions";
 
 function Section({
   icon: Icon,
@@ -107,6 +111,7 @@ export default function SchemeDetailView({ slug }: { slug: string }) {
       : t("central")
   );
   if (fromWeb) tags.push(t("fromOfficialSite"));
+  if (scheme.verified) tags.push(t("verifiedBadge"));
   if (scheme.category?.length) tags.push(...scheme.category.map((c) => c.toUpperCase()));
   if (scheme.occupation?.length)
     tags.push(...scheme.occupation.map((o) => labelFor(o.toLowerCase(), OCCUPATION_OPTIONS, language)));
@@ -147,8 +152,31 @@ export default function SchemeDetailView({ slug }: { slug: string }) {
         </ul>
       </header>
 
+      <div className="mt-4">
+        <SchemeActions scheme={scheme} />
+      </div>
+
       <div className="mt-6 grid gap-6 lg:grid-cols-[1fr_360px]">
         <div className="space-y-4">
+          {fromWeb && scheme.verified === false ? (
+            <div
+              role="note"
+              className="flex gap-3 rounded-2xl bg-amber-50 p-4 text-sm text-amber-900 ring-1 ring-amber-200"
+            >
+              <ShieldAlert size={18} className="mt-0.5 shrink-0" aria-hidden />
+              <p>{t("unverifiedNote")}</p>
+            </div>
+          ) : null}
+          {fromWeb && scheme.verified ? (
+            <div
+              role="note"
+              className="flex gap-3 rounded-2xl bg-primary-light p-4 text-sm text-primary-dark ring-1 ring-primary/20"
+            >
+              <ShieldCheck size={18} className="mt-0.5 shrink-0" aria-hidden />
+              <p>{t("verifiedNote")}</p>
+            </div>
+          ) : null}
+
           {scheme.benefits_summary ? (
             <Section icon={Gift} title={t("benefits")}>
               <p className="whitespace-pre-line text-sm leading-relaxed">
@@ -167,7 +195,7 @@ export default function SchemeDetailView({ slug }: { slug: string }) {
 
           {scheme.documents_required.length > 0 ? (
             <Section icon={FileText} title={t("documentsRequired")}>
-              <BulletList items={scheme.documents_required} />
+              <DocumentChecklist slug={slug} documents={scheme.documents_required} />
             </Section>
           ) : null}
 
@@ -178,7 +206,7 @@ export default function SchemeDetailView({ slug }: { slug: string }) {
           ) : null}
         </div>
 
-        <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
+        <aside className="no-print space-y-4 lg:sticky lg:top-24 lg:self-start">
           {!fromWeb ? (
             <EligibilityCard
               key={slug}

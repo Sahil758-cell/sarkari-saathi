@@ -4,7 +4,14 @@
 // Scheme content itself is translated separately (see bot/matcher.py's
 // _localize() + pipeline/translate.py) — this file is app-chrome only.
 
-export type Language = "en" | "hi";
+import { STRINGS_MR } from "./strings.mr";
+
+export type Language = "en" | "hi" | "mr";
+export const LANGUAGES: { code: Language; label: string }[] = [
+  { code: "en", label: "English" },
+  { code: "hi", label: "हिंदी" },
+  { code: "mr", label: "मराठी" },
+];
 
 export const STRINGS = {
   en: {
@@ -313,8 +320,8 @@ export const STRINGS = {
     tryAsking: "Try asking",
 
     // Saved
-    savedTitle: "Saved profiles",
-    savedIntro: "Quickly re-run your searches without filling the form again.",
+    savedTitle: "Saved",
+    savedIntro: "Your saved schemes and profiles, kept in this browser.",
     searchSavedPlaceholder: "Search saved profiles...",
     viewSchemes: "View schemes",
     slotsUsed: "{count} of {max} saved",
@@ -340,6 +347,68 @@ export const STRINGS = {
     docBplDetail: "Required for schemes targeted at Below Poverty Line families.",
     docDisabilityTitle: "Disability Certificate",
     docDisabilityDetail: "Required for schemes targeted at persons with disabilities.",
+
+    // Added features
+    saveScheme: "Save scheme",
+    schemeSaved: "Saved",
+    shareWhatsapp: "Share on WhatsApp",
+    copyLink: "Copy link",
+    linkCopied: "Link copied",
+    printPage: "Print",
+    askAiAboutThis: "Ask AI about this",
+    reportProblem: "Report a problem",
+    reportTitle: "Report a problem",
+    reportIntro: "What is wrong with this scheme's information? Our team will check it.",
+    reasonWrong: "Wrong information",
+    reasonOutdated: "Out of date",
+    reasonBroken: "Link does not work",
+    reasonOther: "Something else",
+    reportNotePlaceholder: "Tell us more (optional)",
+    reportSend: "Send report",
+    reportSending: "Sending...",
+    reportThanks: "Thank you! Our team will check this scheme.",
+    reportFailed: "Could not send the report. Please try again.",
+    close: "Close",
+    verifiedBadge: "Verified",
+    unverifiedBadge: "Unverified",
+    verifiedNote: "This scheme's details were checked against the official source by our team.",
+    unverifiedNote: "These details were read from an official website by AI and have not been checked by our team yet. Please confirm them on the official page before applying.",
+    checklistHint: "Tick the documents you already have",
+    checklistProgress: "{done} of {total} ready",
+    savedSchemesTitle: "Saved schemes",
+    savedSchemesEmpty: "You have not saved any scheme yet. Tap the bookmark on a scheme to keep it here.",
+    savedProfilesTitle: "Saved profiles",
+    removeSaved: "Remove from saved",
+    compareHint: "Tick up to {max} schemes to compare them side by side",
+    compareSelected: "Compare ({n})",
+    compareTitle: "Compare schemes",
+    compareNeedTwo: "Pick at least two saved schemes to compare.",
+    compareState: "State",
+    compareBenefits: "Benefits",
+    compareAge: "Age",
+    compareIncome: "Income limit",
+    compareCategory: "Category",
+    compareConditions: "Eligibility rules",
+    compareDocuments: "Documents",
+    compareNoData: "Not stated",
+    forYouTitle: "Schemes for me",
+    forYouTile: "Using your saved profile",
+    forYouSubtitle: "See the schemes that match you in one tap.",
+    forYouPick: "Whose schemes do you want to see?",
+    forYouNone: "Save a profile once, then see your matching schemes any time without answering the questions again.",
+    navNew: "New",
+    newBadge: "New schemes added",
+    newTitle: "New schemes",
+    newTile: "Recently added",
+    newSubtitle: "The most recently added government schemes.",
+    voiceStart: "Speak your question",
+    voiceStop: "Stop listening",
+    liveStep1: "Searching official government websites...",
+    liveStep2: "Reading the pages we found...",
+    liveStep3: "Putting the scheme details together...",
+    liveStep4: "Still working. The first search of a scheme can take a minute or two.",
+    otherStateTitle: "Looking for another state?",
+    otherStateHint: "Many schemes share a name across states. Pick your state to get its version.",
   },
   hi: {
     appName: "सरकारी साथी",
@@ -626,8 +695,8 @@ export const STRINGS = {
     assistantDisclaimer: "AI के उत्तर गलत हो सकते हैं। कृपया विवरण की पुष्टि योजना के आधिकारिक पृष्ठ पर करें।",
     tryAsking: "पूछकर देखें",
 
-    savedTitle: "सहेजी गई प्रोफाइलें",
-    savedIntro: "फ़ॉर्म दोबारा भरे बिना अपनी खोज जल्दी से फिर चलाएं।",
+    savedTitle: "सहेजा गया",
+    savedIntro: "आपकी सहेजी गई योजनाएँ और प्रोफाइलें, इसी ब्राउज़र में रखी गई हैं।",
     searchSavedPlaceholder: "सहेजी गई प्रोफाइलें खोजें...",
     viewSchemes: "योजनाएं देखें",
     slotsUsed: "{max} में से {count} सहेजी गईं",
@@ -652,13 +721,82 @@ export const STRINGS = {
     docBplDetail: "गरीबी रेखा से नीचे के परिवारों के लिए बनी योजनाओं हेतु आवश्यक।",
     docDisabilityTitle: "विकलांगता प्रमाण पत्र",
     docDisabilityDetail: "दिव्यांगजनों के लिए बनी योजनाओं हेतु आवश्यक।",
+
+    // Added features
+    saveScheme: "योजना सहेजें",
+    schemeSaved: "सहेजी गई",
+    shareWhatsapp: "WhatsApp पर शेयर करें",
+    copyLink: "लिंक कॉपी करें",
+    linkCopied: "लिंक कॉपी हो गया",
+    printPage: "प्रिंट करें",
+    askAiAboutThis: "इसके बारे में AI से पूछें",
+    reportProblem: "गलती बताएँ",
+    reportTitle: "गलती बताएँ",
+    reportIntro: "इस योजना की जानकारी में क्या गलत है? हमारी टीम इसे जाँचेगी।",
+    reasonWrong: "गलत जानकारी",
+    reasonOutdated: "पुरानी जानकारी",
+    reasonBroken: "लिंक काम नहीं करता",
+    reasonOther: "कुछ और",
+    reportNotePlaceholder: "और बताएँ (वैकल्पिक)",
+    reportSend: "रिपोर्ट भेजें",
+    reportSending: "भेज रहे हैं...",
+    reportThanks: "धन्यवाद! हमारी टीम इस योजना की जाँच करेगी।",
+    reportFailed: "रिपोर्ट नहीं भेजी जा सकी। कृपया फिर कोशिश करें।",
+    close: "बंद करें",
+    verifiedBadge: "सत्यापित",
+    unverifiedBadge: "असत्यापित",
+    verifiedNote: "इस योजना की जानकारी हमारी टीम ने आधिकारिक स्रोत से जाँची है।",
+    unverifiedNote: "ये जानकारी AI ने आधिकारिक वेबसाइट से पढ़ी है और हमारी टीम ने अभी इसकी जाँच नहीं की है। आवेदन से पहले कृपया आधिकारिक पेज पर इसकी पुष्टि करें।",
+    checklistHint: "जो दस्तावेज़ आपके पास हैं उन्हें टिक करें",
+    checklistProgress: "{total} में से {done} तैयार",
+    savedSchemesTitle: "सहेजी गई योजनाएँ",
+    savedSchemesEmpty: "आपने अभी कोई योजना नहीं सहेजी है। किसी योजना पर बुकमार्क दबाकर उसे यहाँ रखें।",
+    savedProfilesTitle: "सहेजे गए प्रोफ़ाइल",
+    removeSaved: "सहेजी हुई सूची से हटाएँ",
+    compareHint: "आमने-सामने तुलना के लिए अधिकतम {max} योजनाएँ टिक करें",
+    compareSelected: "तुलना करें ({n})",
+    compareTitle: "योजनाओं की तुलना",
+    compareNeedTwo: "तुलना के लिए कम से कम दो सहेजी गई योजनाएँ चुनें।",
+    compareState: "राज्य",
+    compareBenefits: "लाभ",
+    compareAge: "आयु",
+    compareIncome: "आय सीमा",
+    compareCategory: "श्रेणी",
+    compareConditions: "पात्रता नियम",
+    compareDocuments: "दस्तावेज़",
+    compareNoData: "उल्लेख नहीं",
+    forYouTitle: "मेरे लिए योजनाएँ",
+    forYouTile: "आपके सहेजे प्रोफ़ाइल से",
+    forYouSubtitle: "एक टैप में अपने लिए उपयुक्त योजनाएँ देखें।",
+    forYouPick: "किसके लिए योजनाएँ देखनी हैं?",
+    forYouNone: "एक बार प्रोफ़ाइल सहेजें, फिर बिना सवाल दोहराए कभी भी अपनी उपयुक्त योजनाएँ देखें।",
+    navNew: "नई",
+    newBadge: "नई योजनाएँ जुड़ीं",
+    newTitle: "नई योजनाएँ",
+    newTile: "हाल ही में जुड़ीं",
+    newSubtitle: "हाल ही में जोड़ी गई सरकारी योजनाएँ।",
+    voiceStart: "बोलकर पूछें",
+    voiceStop: "सुनना बंद करें",
+    liveStep1: "आधिकारिक सरकारी वेबसाइटें खोज रहे हैं...",
+    liveStep2: "मिले हुए पेज पढ़ रहे हैं...",
+    liveStep3: "योजना की जानकारी तैयार कर रहे हैं...",
+    liveStep4: "अभी काम जारी है। किसी योजना की पहली खोज में एक-दो मिनट लग सकते हैं।",
+    otherStateTitle: "किसी दूसरे राज्य की योजना चाहिए?",
+    otherStateHint: "कई योजनाओं का नाम अलग-अलग राज्यों में एक जैसा होता है। अपने राज्य की योजना के लिए राज्य चुनें।",
   },
 } as const;
 
 export type StringKey = keyof typeof STRINGS.en;
 
+// Marathi lives in its own file; any key it lacks falls back to English.
+const LOCALES: Record<Language, Partial<Record<StringKey, string>>> = {
+  en: STRINGS.en,
+  hi: STRINGS.hi,
+  mr: STRINGS_MR,
+};
+
 export function translate(lang: Language, key: StringKey, vars?: Record<string, string>): string {
-  let text: string = STRINGS[lang][key] ?? STRINGS.en[key];
+  let text: string = LOCALES[lang][key] ?? STRINGS.en[key];
   if (vars) {
     for (const [k, v] of Object.entries(vars)) {
       text = text.replace(`{${k}}`, v);

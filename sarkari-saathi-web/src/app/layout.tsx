@@ -3,6 +3,7 @@ import { Noto_Sans_Devanagari, Poppins } from "next/font/google";
 import { Suspense } from "react";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
+import RegisterServiceWorker from "@/components/RegisterServiceWorker";
 import { LanguageProvider } from "@/context/LanguageContext";
 import "./globals.css";
 
@@ -27,6 +28,7 @@ export const metadata: Metadata = {
   },
   description:
     "Find central and state government schemes you are eligible for, check eligibility and reach the official application page.",
+  appleWebApp: { capable: true, title: "Sarkari Saathi", statusBarStyle: "default" },
 };
 
 export const viewport: Viewport = {
@@ -40,6 +42,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html lang="en" className={`${poppins.variable} ${devanagari.variable} h-full`}>
       <body className="flex min-h-full flex-col font-sans text-ink">
         <LanguageProvider>
+          <RegisterServiceWorker />
           <Suspense fallback={<div className="h-16 border-b border-line bg-surface" />}>
             <Navbar />
           </Suspense>

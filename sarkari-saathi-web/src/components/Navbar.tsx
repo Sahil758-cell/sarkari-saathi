@@ -4,14 +4,18 @@ import { Languages, Menu, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useLanguage } from "@/context/LanguageContext";
-import type { StringKey } from "@/lib/i18n/strings";
+import { getLatestSchemes } from "@/lib/api";
+import { useFetch, useNewSeen } from "@/lib/hooks";
+import { markNewSeen } from "@/lib/storage";
+import { LANGUAGES, type StringKey } from "@/lib/i18n/strings";
 
 const LINKS: { href: string; label: StringKey }[] = [
   { href: "/", label: "navHome" },
   { href: "/search", label: "navSearch" },
   { href: "/assistant", label: "navAskAi" },
+  { href: "/new", label: "navNew" },
   { href: "/documents", label: "navDocuments" },
   { href: "/saved", label: "navSaved" },
 ];
@@ -27,9 +31,16 @@ export default function Navbar() {
   // without needing an effect.
   const [openFor, setOpenFor] = useState<string | null>(null);
   const open = openFor === pathname;
-  const setOpen = (fn: (o: boolean) => boolean) => setOpenFor(fn(open) ? pathname : null);
 
-  const toggleLanguage = () => setLanguage(language === "en" ? "hi" : "en");
+  // A dot on "New" when schemes were added since the user last opened that page.
+  // The very first visit just records the newest scheme (nothing is "new" yet).
+  const newest = useFetch("nav-newest", () => getLatestSchemes(1, "en")).data?.results[0]?.date_added;
+  const seen = useNewSeen();
+  useEffect(() => {
+    if (newest && !seen) markNewSeen(newest);
+  }, [newest, seen]);
+  const hasNew = !!newest && !!seen && newest > seen;
+  const setOpen = (fn: (o: boolean) => boolean) => setOpenFor(fn(open) ? pathname : null);
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-surface/95 backdrop-blur">
@@ -60,21 +71,38 @@ export default function Navbar() {
                 }`}
               >
                 {t(l.label)}
+                {l.href === "/new" && hasNew && !active ? (
+                  <span aria-label={t("newBadge")} className="ml-1.5 inline-block h-2 w-2 rounded-full bg-accent align-middle" />
+                ) : null}
               </Link>
             );
           })}
         </nav>
 
         <div className="flex items-center gap-2">
-          <button
-            type="button"
-            onClick={toggleLanguage}
+          <div
+            role="group"
             aria-label={t("switchLanguage")}
-            className="flex items-center gap-1.5 rounded-full border border-line bg-surface px-3 py-1.5 text-sm font-semibold text-primary transition-colors hover:bg-primary-light"
+            className="flex items-center rounded-full border border-line bg-surface p-0.5"
           >
-            <Languages size={16} aria-hidden />
-            {language === "en" ? "हिंदी" : "English"}
-          </button>
+            <Languages size={15} className="mx-1.5 hidden text-faint sm:block" aria-hidden />
+            {LANGUAGES.map((l) => (
+              <button
+                key={l.code}
+                type="button"
+                onClick={() => setLanguage(l.code)}
+                aria-pressed={language === l.code}
+                lang={l.code}
+                className={`rounded-full px-2.5 py-1 text-xs font-semibold transition-colors sm:text-sm ${
+                  language === l.code
+                    ? "bg-primary text-white"
+                    : "text-primary hover:bg-primary-light"
+                }`}
+              >
+                {l.label}
+              </button>
+            ))}
+          </div>
           <button
             type="button"
             onClick={() => setOpen((o) => !o)}
