@@ -121,23 +121,24 @@ def get_search(q: str, limit: int = 10, lang: str = "en"):
 @app.get("/search/live", response_model=MatchResponse)
 def get_search_live(q: str, request: Request, background_tasks: BackgroundTasks, lang: str = "en"):
     """Fallback for /search: look the scheme up on official gov.in websites
-    and return it as a normal scheme record (0 or 1 results). Slow (several
+    and return it as a normal scheme record (one result per matching scheme). Slow (several
     seconds) and costs a web-search + LLM call, so it is rate limited per IP."""
     forwarded = request.headers.get("x-forwarded-for", "")
     client_ip = forwarded.split(",")[0].strip() or (request.client.host if request.client else "unknown")
     if not check_rate_limit(f"live-search:{client_ip}", max_calls=30, window_seconds=60 * 60):
         raise HTTPException(status_code=429, detail="Too many searches — try again later")
     try:
-        scheme = live_search.find_scheme(q, lang=lang)
+        schemes = live_search.find_schemes(q, lang=lang)
     except RateLimitError:
         raise HTTPException(status_code=429, detail="Search is busy, try again in a moment")
     except (RuntimeError, LLMAPIError):
         raise HTTPException(status_code=503, detail="Live search is temporarily unavailable")
-    if scheme is not None and scheme.pop("_new", False):
-        # A scheme we didn't have before: save it to the permanent database
-        # after the response goes out, so the user isn't kept waiting.
-        background_tasks.add_task(live_search.persist_to_firestore, dict(scheme))
-    results = [_to_scheme_out(scheme)] if scheme else []
+    for scheme in schemes:
+        if scheme.pop("_new", False):
+            # A scheme we didn't have before: save it to the permanent database
+            # after the response goes out, so the user isn't kept waiting.
+            background_tasks.add_task(live_search.persist_to_firestore, dict(scheme))
+    results = [_to_scheme_out(sc) for sc in schemes]
     return {"count": len(results), "results": results}
 
 

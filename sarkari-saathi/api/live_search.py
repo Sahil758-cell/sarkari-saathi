@@ -20,6 +20,7 @@ import json
 import logging
 import re
 import sys
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
@@ -48,19 +49,24 @@ COLLECTION = "live_schemes"
 log = logging.getLogger("live_search")
 
 
-def _lookup_cache(query: str) -> Optional[dict]:
-    hits = matcher.search_live_cache(query, limit=1, lang="en")
-    return hits[0] if hits else None
+def _lookup_cache(query: str) -> list[dict]:
+    return matcher.search_live_cache(query, limit=5, lang="en")
 
 
-def _same_scheme_in_dataset(name: str) -> Optional[dict]:
+def _same_scheme_in_dataset(name: str, states: Optional[list[str]] = None) -> Optional[dict]:
     """The curated dataset may already have this scheme under a slightly
-    different search term — never store a duplicate of it."""
+    different search term — never store a duplicate of it. Same-named schemes of
+    different states (e.g. "Mukhyamantri Annapurna Yojana") are NOT duplicates."""
     target = name.strip().lower()
+    wanted = {x.lower() for x in (states or []) if x}
     for candidate in matcher.search_by_name(name, limit=5):
         existing = candidate["scheme_name"].strip().lower()
-        if existing == target or difflib.SequenceMatcher(None, existing, target).ratio() >= 0.92:
-            return candidate
+        if existing != target and difflib.SequenceMatcher(None, existing, target).ratio() < 0.92:
+            continue
+        theirs = {x.lower() for x in (candidate.get("state") or []) if x}
+        if wanted and theirs and not (wanted & theirs):
+            continue  # same name, different state
+        return candidate
     return None
 
 
@@ -128,34 +134,61 @@ def _find_apply_link(scheme_name: str) -> Optional[str]:
     return best
 
 
-def _fetch_and_extract(query: str) -> Optional[dict]:
-    results = web_search.search_gov_sites(
-        f"{query} scheme eligibility benefits how to apply", max_results=8, deep=True
-    )
-    if not results:
-        return None
+_STATES = {
+    "andhra pradesh": "Andhra Pradesh", "arunachal": "Arunachal Pradesh", "assam": "Assam",
+    "bihar": "Bihar", "chhattisgarh": "Chhattisgarh", "goa": "Goa", "gujarat": "Gujarat",
+    "haryana": "Haryana", "himachal": "Himachal Pradesh", "jharkhand": "Jharkhand",
+    "karnataka": "Karnataka", "kerala": "Kerala", "madhya pradesh": "Madhya Pradesh",
+    "maharashtra": "Maharashtra", "manipur": "Manipur", "meghalaya": "Meghalaya",
+    "mizoram": "Mizoram", "nagaland": "Nagaland", "odisha": "Odisha", "orissa": "Odisha",
+    "punjab": "Punjab", "rajasthan": "Rajasthan", "sikkim": "Sikkim", "tamil nadu": "Tamil Nadu",
+    "telangana": "Telangana", "tripura": "Tripura", "uttar pradesh": "Uttar Pradesh",
+    "uttarakhand": "Uttarakhand", "west bengal": "West Bengal", "westbengal": "West Bengal",
+    "jammu": "Jammu and Kashmir", "ladakh": "Ladakh", "puducherry": "Puducherry",
+}
+MAX_GROUPS = 3
 
-    # Search engines also return loosely related pages (another scheme's FAQ,
-    # a different state's scheme with a similar name). Feeding those to the LLM
-    # mixes their rules into this scheme, so keep only pages about the query.
+
+def _page_state(r: dict) -> Optional[str]:
+    """Which state a search result is about (None for central / unknown)."""
+    text = f"{urlparse(r['url']).netloc} {r['title']} {r['content'][:500]}".lower()
+    counts: dict[str, int] = {}
+    for alias, state in _STATES.items():
+        n = len(re.findall(rf"(?<![a-z]){re.escape(alias)}(?![a-z])", text))
+        if n:
+            counts[state] = counts.get(state, 0) + n
+    return max(counts, key=counts.get) if counts else None
+
+
+def _coverage(wanted: set[str], r: dict) -> float:
+    page = _tokens(f"{r['title']} {r['content']} {r['url']}")
+    return len(wanted & page) / len(wanted) if wanted else 1.0
+
+
+def _group_by_scheme(query: str, results: list[dict]) -> list[list[dict]]:
+    """Split the search results into one group per distinct scheme. Several
+    states can have a scheme with the same name, and mixing their pages would
+    produce a record that is wrong for all of them, so each state's pages are
+    read separately. Pages that name the whole query come first; pages that
+    only share part of it are used only when nothing matches the full name."""
     wanted = _tokens(query) - _STOP_WORDS
+    full = [r for r in results if _coverage(wanted, r) >= 1.0]
+    results = full or [r for r in results if _coverage(wanted, r) >= 0.5]
 
-    def about_query(r: dict) -> bool:
-        if not wanted:
-            return True
-        page = _tokens(f"{r['title']} {r['content']} {r['url']}")
-        return len(wanted & page) / len(wanted) >= 0.5  # news often drops words like "Mukhyamantri"
+    groups: dict[Optional[str], list[dict]] = {}
+    for r in results:
+        groups.setdefault(_page_state(r), []).append(r)
+    unknown = groups.pop(None, [])
+    if not groups:
+        return [unknown] if unknown else []
+    ordered = sorted(groups.values(), key=len, reverse=True)[:MAX_GROUPS]
+    ordered[0] = ordered[0] + unknown  # pages with no state: most likely the main scheme
+    return ordered
 
-    results = [r for r in results if about_query(r)]
-    if not results:
-        return None  # nothing found is actually about this scheme
 
+def _extract_group(client, query: str, results: list[dict]) -> Optional[dict]:
     text = "\n\n".join(f"Source: {r['title']} ({r['url']})\n{r['content']}" for r in results)
     text = text[:MAX_CONTEXT_CHARS]
-
-    client = llm.get_client()
-    if client is None:
-        raise RuntimeError("NVIDIA_API_KEY not configured")
 
     raw = {
         # The user may have typed an acronym or partial name ("PM-VBRY"); the
@@ -168,12 +201,9 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
             "they must have/do. Do NOT put benefit amounts, how the benefit is paid, or "
             "explanations in other_conditions (those belong in benefits_summary). "
             "At most 8 items; skip anything minor. "
-            "The sources can describe DIFFERENT schemes that share a similar name (for example "
-            "different states, or an older scheme). Describe only the scheme that the MOST sources are about (if tied, the first "
-            "source's scheme), using the name most of those sources use, and ignore facts from "
-            "sources about any other scheme or state; never mix them. Prefer the sources that "
-            "describe the scheme most completely (official launch notices, guidelines) over "
-            "short district notices."
+            "All sources are about ONE scheme; if one of them is clearly about a different "
+            "scheme, ignore it and never mix facts. Prefer the sources that describe the "
+            "scheme most completely (official launch notices, guidelines) over short notices."
         ),
         "eligibility_text": text,
         "benefits": "",
@@ -187,8 +217,11 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
         return None
 
     data = extracted.model_dump()
+    if not data.get("state"):
+        state = _page_state(results[0])
+        data["state"] = [state] if state else None
 
-    duplicate = _same_scheme_in_dataset(data["scheme_name"])
+    duplicate = _same_scheme_in_dataset(data["scheme_name"], data.get("state"))
     if duplicate is not None:
         return duplicate  # already in the curated dataset — use that record
 
@@ -202,7 +235,10 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
     data["source_urls"] = [r["url"] for r in results]
     data["date_added"] = datetime.now(timezone.utc).isoformat()
 
+    # State in the slug: two states can have a scheme with the same name.
     slug = "web-" + slugify(data["scheme_name"])
+    if data.get("state"):
+        slug += "-" + slugify(data["state"][0])
     try:
         _write_local(slug, data)
     except OSError:
@@ -211,6 +247,28 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
     data["_slug"] = slug
     data["_new"] = True  # tells the endpoint to also save it to Firestore
     return data
+
+
+def _fetch_and_extract(query: str) -> list[dict]:
+    results = web_search.search_gov_sites(
+        f"{query} scheme eligibility benefits how to apply", max_results=8, deep=True
+    )
+    groups = _group_by_scheme(query, results)
+    if not groups:
+        return []  # nothing found is actually about this scheme
+
+    client = llm.get_client()
+    if client is None:
+        raise RuntimeError("NVIDIA_API_KEY not configured")
+
+    with ThreadPoolExecutor(max_workers=len(groups)) as pool:
+        found = list(pool.map(lambda g: _extract_group(client, query, g), groups))
+    schemes, seen = [], set()
+    for sc in found:
+        if sc is not None and sc["_slug"] not in seen:
+            seen.add(sc["_slug"])
+            schemes.append(sc)
+    return schemes
 
 
 def _storable(scheme: dict) -> dict:
@@ -279,16 +337,16 @@ def load_from_firestore(slug: str) -> bool:
         return False
 
 
-def find_scheme(query: str, lang: str = "en") -> Optional[dict]:
-    """Returns a scheme dict (with `_slug`) or None if nothing relevant was
-    found. Raises RuntimeError / openai errors if the LLM provider fails."""
+def find_schemes(query: str, lang: str = "en") -> list[dict]:
+    """Schemes (each with `_slug`) matching a query: earlier live finds first,
+    otherwise a fresh search of official sites — one scheme per state when
+    several states share the name. [] if nothing relevant was found. Raises
+    RuntimeError / openai errors if the LLM provider fails."""
     query = query.strip()
     if len(query) < 3:
-        return None
+        return []
 
-    scheme = _lookup_cache(query) or _fetch_and_extract(query)
-    if scheme is None:
-        return None
+    schemes = _lookup_cache(query) or _fetch_and_extract(query)
     if lang == "hi":
-        return matcher.ensure_translated(scheme, scheme["_slug"])
-    return scheme
+        return [matcher.ensure_translated(sc, sc["_slug"]) for sc in schemes]
+    return schemes
