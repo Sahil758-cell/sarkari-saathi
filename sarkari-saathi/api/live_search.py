@@ -84,6 +84,43 @@ def _best_source_url(results: list[dict]) -> str:
     return min(results, key=rank)["url"]  # min() is stable: ties keep search order
 
 
+_APPLY_WORDS = ("apply", "application", "registration", "register", "enrol", "login", "portal")
+
+
+def _find_apply_link(scheme_name: str) -> Optional[str]:
+    """Look for the page where people actually apply for the scheme (a portal /
+    application / registration page). Returns None when there isn't one —
+    many central schemes (funding to states, infrastructure, statistics) have
+    no application at all, and a news page must never be passed off as one."""
+    results = web_search.search_gov_sites(
+        f"{scheme_name} apply online application registration portal", max_results=6
+    )
+    name_words = _tokens(scheme_name) - _STOP_WORDS
+    best, best_score = None, 0
+    for r in results:
+        url, host = r["url"], urlparse(r["url"]).netloc.lower()
+        if any(h in host for h in _NEWS_HOSTS) or host.endswith("pib.gov.in"):
+            continue
+        # The page must be about this scheme, not just any apply page.
+        page_words = _tokens(r["title"] + " " + r["content"] + " " + url)
+        if name_words and len(name_words & page_words) / len(name_words) < MIN_TOKEN_COVERAGE:
+            continue
+        score = 2 * sum(w in url.lower() for w in _APPLY_WORDS)
+        score += sum(w in r["title"].lower() for w in _APPLY_WORDS)
+        if url.lower().endswith(".pdf"):
+            score -= 3  # a booklet, not the place to apply
+        if any(w in url.lower() for w in ("status", "check", "faq", "guideline")):
+            score -= 2
+        # A website dedicated to the scheme (pmvishwakarma.gov.in): its home
+        # page is the portal to apply from.
+        site = host.replace("www.", "").split(".")[0]
+        if len(site) >= 6 and any(w in site for w in name_words if len(w) >= 5):
+            url, score = f"https://{host}/", score + 6
+        if score > best_score:
+            best, best_score = url, score
+    return best
+
+
 def _fetch_and_extract(query: str) -> Optional[dict]:
     results = web_search.search_gov_sites(
         f"{query} scheme eligibility benefits how to apply", max_results=4, deep=True
@@ -116,7 +153,7 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
         ),
         "eligibility_text": text,
         "benefits": "",
-        "application_link": _best_source_url(results),
+        "application_link": "",
         "state_or_ministry": "",
     }
     extracted, error = extract_pipeline.extract_scheme(client, raw)
@@ -131,7 +168,10 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
     if duplicate is not None:
         return duplicate  # already in the curated dataset — use that record
 
-    data["application_link"] = _best_source_url(results)  # always an official gov.in page
+    # application_link is ONLY a real apply/registration page (or None);
+    # source_url is the official page the details were read from.
+    data["application_link"] = _find_apply_link(data["scheme_name"])
+    data["source_url"] = _best_source_url(results)
     data["verified"] = False  # LLM-read from web pages; flip to True after a manual review
     data["source"] = "web"
     data["searched_as"] = [query.lower()]  # so the same wording hits the cache next time

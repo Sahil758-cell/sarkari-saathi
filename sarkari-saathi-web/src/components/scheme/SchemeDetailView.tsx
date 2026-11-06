@@ -89,10 +89,14 @@ export default function SchemeDetailView({ slug }: { slug: string }) {
   if (error) return <ErrorBox message={error} onRetry={retry} />;
   if (!scheme) return <Spinner />;
 
-  const link = safeUrl(scheme.application_link) ?? safeUrl(scheme.portal_url);
+  const fromWeb = slug.startsWith("web-");
+  const applyLink = safeUrl(scheme.application_link) ?? safeUrl(scheme.portal_url);
+  // Schemes found by live search may have no application page at all; they
+  // then link to the official page the details came from, labelled as such.
+  const sourceOnly = fromWeb && !applyLink;
+  const link = applyLink ?? (fromWeb ? safeUrl(scheme.source_url) : null);
   // Schemes read from official websites (slug "web-…") list their rules in the
   // "Eligibility required" card instead of offering the profile check.
-  const fromWeb = slug.startsWith("web-");
   const showConditions = !fromWeb && scheme.other_conditions.length > 0;
 
   // Header tags
@@ -192,11 +196,11 @@ export default function SchemeDetailView({ slug }: { slug: string }) {
                   rel="noopener noreferrer"
                   className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-semibold text-white shadow-button transition-colors hover:bg-primary-dark"
                 >
-                  {t(fromWeb ? "openOfficialSource" : "openApplicationPage")}
+                  {t(sourceOnly ? "openOfficialSource" : "openApplicationPage")}
                   <ExternalLink size={16} aria-hidden />
                 </a>
                 <p className="mt-2 text-center text-xs text-muted">
-                  {t(fromWeb ? "officialSourceNote" : "applyNote")}
+                  {t(sourceOnly ? "officialSourceNote" : "applyNote")}
                 </p>
               </>
             ) : (

@@ -31,6 +31,7 @@ export interface Scheme {
   documents_required: string[];
   application_link: string | null;
   portal_url: string | null;
+  source_url?: string | null;
   date_added: string | null;
 }
 

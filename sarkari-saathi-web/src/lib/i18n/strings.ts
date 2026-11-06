@@ -289,7 +289,7 @@ export const STRINGS = {
     applyNote: "Opens the official website in a new tab.",
     openOfficialSource: "View official source",
     officialSourceNote:
-      "The official page this information was read from. Check it for how to apply, if applications are open.",
+      "No online application page was found for this scheme. This is the official page the details were read from.",
     noApplicationLink: "No application link is listed for this scheme.",
     ageRange: "Age {min}–{max}",
     ageFrom: "Age {min}+",
@@ -603,7 +603,7 @@ export const STRINGS = {
     applyNote: "आधिकारिक वेबसाइट नए टैब में खुलेगी।",
     openOfficialSource: "आधिकारिक स्रोत देखें",
     officialSourceNote:
-      "यह वह आधिकारिक पृष्ठ है जिससे जानकारी ली गई है। आवेदन कैसे करें, यह वहाँ देखें, यदि आवेदन खुले हैं।",
+      "इस योजना के लिए कोई ऑनलाइन आवेदन पृष्ठ नहीं मिला। यह वह आधिकारिक पृष्ठ है जिससे जानकारी ली गई है।",
     noApplicationLink: "इस योजना के लिए कोई आवेदन लिंक उपलब्ध नहीं है।",
     ageRange: "आयु {min}–{max}",
     ageFrom: "आयु {min}+",

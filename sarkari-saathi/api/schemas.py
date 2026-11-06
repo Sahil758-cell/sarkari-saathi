@@ -52,6 +52,7 @@ class SchemeOut(BaseModel):
     documents_required: list[str] = []
     application_link: Optional[str] = None
     portal_url: Optional[str] = None
+    source_url: Optional[str] = None  # live-search schemes: page the details came from
     date_added: Optional[str] = None
 
 
