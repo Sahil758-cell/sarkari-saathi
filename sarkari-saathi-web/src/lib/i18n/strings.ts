@@ -264,6 +264,7 @@ export const STRINGS = {
     // Search
     searching: "Searching...",
     resultsFound: "{count} schemes found",
+    resultsFoundOne: "1 scheme found",
     clearAll: "Clear All",
     clearSearch: "Clear search",
     justNow: "just now",
@@ -579,6 +580,7 @@ export const STRINGS = {
 
     searching: "खोज रहे हैं...",
     resultsFound: "{count} योजनाएं मिलीं",
+    resultsFoundOne: "1 योजना मिली",
     clearAll: "सभी साफ़ करें",
     clearSearch: "खोज साफ़ करें",
     justNow: "अभी",

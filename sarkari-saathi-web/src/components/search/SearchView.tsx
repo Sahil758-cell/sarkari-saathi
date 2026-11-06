@@ -253,7 +253,7 @@ export default function SearchView() {
           )
         ) : (
           <>
-            <p className="mb-3 text-sm text-muted">{t("resultsFound", { count: results.length })}</p>
+            <p className="mb-3 text-sm text-muted">{results.length === 1 ? t("resultsFoundOne") : t("resultsFound", { count: results.length })}</p>
             <div className="grid gap-3 md:grid-cols-2">
               {results.map((s) => (
                 <SchemeCard key={s.slug} scheme={s} />
