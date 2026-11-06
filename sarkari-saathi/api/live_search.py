@@ -33,7 +33,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "pipeline"))
 import extract as extract_pipeline  # noqa: E402
 from utils import slugify  # noqa: E402
 
-MAX_CONTEXT_CHARS = 8000
+MAX_CONTEXT_CHARS = 12000
 # At least this share of the query's distinctive words must appear in the
 # fetched pages, otherwise the pages are about something else and are ignored.
 MIN_TOKEN_COVERAGE = 0.6
@@ -130,7 +130,7 @@ def _find_apply_link(scheme_name: str) -> Optional[str]:
 
 def _fetch_and_extract(query: str) -> Optional[dict]:
     results = web_search.search_gov_sites(
-        f"{query} scheme eligibility benefits how to apply", max_results=4, deep=True
+        f"{query} scheme eligibility benefits how to apply", max_results=8, deep=True
     )
     if not results:
         return None
@@ -169,8 +169,11 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
             "explanations in other_conditions (those belong in benefits_summary). "
             "At most 8 items; skip anything minor. "
             "The sources can describe DIFFERENT schemes that share a similar name (for example "
-            "different states, or an older scheme). Describe only the scheme in the FIRST source "
-            "and ignore facts from sources about any other scheme or state; never mix them."
+            "different states, or an older scheme). Describe only the scheme that the MOST sources are about (if tied, the first "
+            "source's scheme), using the name most of those sources use, and ignore facts from "
+            "sources about any other scheme or state; never mix them. Prefer the sources that "
+            "describe the scheme most completely (official launch notices, guidelines) over "
+            "short district notices."
         ),
         "eligibility_text": text,
         "benefits": "",
