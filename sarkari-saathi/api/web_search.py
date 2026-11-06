@@ -7,8 +7,9 @@ api/live_search.py to find schemes missing from the dataset.
 Two providers, tried in order:
   1. Serper (Google results, SERPER_API_KEY): finds the pages with Google's
      ranking, then we download and read each page ourselves.
-  2. Tavily (TAVILY_API_KEY): returns ready-made page text.
-If the first has no key, is out of credits, or finds nothing, the next one is
+  2. Tavily (TAVILY_API_KEY): returns ready-made page text; free credits renew monthly.
+  3. Exa (EXA_API_KEY): returns page text; free credits renew monthly.
+If one has no key, is out of credits, or finds nothing, the next one is
 used, so one provider hitting its free limit doesn't take search down.
 """
 import logging
@@ -142,13 +143,44 @@ def search_gov_sites(query: str, max_results: int = 3, deep: bool = False) -> li
     supplementary tool, not a hard dependency of the assistant.
     `deep=True` asks for longer page extracts (used by live search, which
     needs enough text to extract a full scheme record)."""
-    results = _search_serper(query, max_results, deep)
-    if any(len(r["content"]) >= 500 for r in results):
-        return results  # at least one page was read in full
-    # Nothing from Google, or only short snippets (the sites blocked our
-    # download): Tavily returns ready-made page text, so prefer it if it can.
-    fallback = _search_tavily(query, max_results, deep)
-    return fallback or results
+    # Providers in order of preference. Each has its own free quota, so when one
+    # runs out (returns nothing) the next one answers.
+    fallback: list[dict] = []
+    for search in (_search_serper, _search_tavily, _search_exa):
+        results = search(query, max_results, deep)
+        if any(len(r["content"]) >= 500 for r in results):
+            return results  # at least one page's text came through in full
+        fallback = fallback or results  # only short snippets: keep as a last resort
+    return fallback
+
+
+def _search_exa(query: str, max_results: int, deep: bool) -> list[dict]:
+    """Exa (EXA_API_KEY): free credits that renew every month; returns page text."""
+    api_key = os.environ.get("EXA_API_KEY")
+    if not api_key:
+        return []
+    try:
+        resp = httpx.post(
+            "https://api.exa.ai/search",
+            headers={"x-api-key": api_key, "Content-Type": "application/json"},
+            json={
+                "query": query,
+                "numResults": max_results,
+                "includeDomains": ["gov.in"],
+                "contents": {"text": {"maxCharacters": 6000 if deep else 3000}},
+            },
+            timeout=20.0,
+        )
+        resp.raise_for_status()
+        items = resp.json().get("results", [])
+    except Exception as e:  # noqa: BLE001
+        log.warning("exa search failed: %s", e)
+        return []
+    return [
+        {"title": r.get("title") or "", "url": r.get("url", ""), "content": r.get("text") or ""}
+        for r in items
+        if _is_gov_in(r.get("url", "")) and not _looks_like_error_page(r.get("text") or "")
+    ]
 
 
 def _search_tavily(query: str, max_results: int, deep: bool) -> list[dict]:
