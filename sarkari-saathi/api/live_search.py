@@ -69,17 +69,24 @@ def _same_scheme_in_dataset(name: str) -> Optional[dict]:
 _NEWS_HOSTS = ("newsonair.gov.in", "ddnews.gov.in", "prasarbharati.gov.in", "airnews", "indiaculture")
 
 
-def _best_source_url(results: list[dict]) -> str:
-    """The most useful official page among the search results: a scheme /
-    ministry page first, press releases (pib.gov.in) next, news portals last."""
+def _best_source_url(results: list[dict], states: Optional[list[str]] = None) -> str:
+    """The most useful official page among the search results: one about the
+    scheme's own state first (so a same-named scheme of another state is never
+    linked), then a scheme / ministry page, press releases and PDFs next, news
+    portals last."""
+    names = [s.lower() for s in (states or []) if s]
 
-    def rank(r: dict) -> int:
+    def rank(r: dict) -> tuple[int, int]:
+        text = f"{r['title']} {r['content']} {r['url']}".lower()
+        wrong_state = 1 if names and not any(n in text for n in names) else 0
         host = urlparse(r["url"]).netloc.lower()
         if any(h in host for h in _NEWS_HOSTS):
-            return 2
-        if host.endswith("pib.gov.in"):
-            return 1
-        return 0
+            kind = 2
+        elif host.endswith("pib.gov.in") or r["url"].lower().endswith(".pdf"):
+            kind = 1
+        else:
+            kind = 0
+        return wrong_state, kind
 
     return min(results, key=rank)["url"]  # min() is stable: ties keep search order
 
@@ -128,12 +135,23 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
     if not results:
         return None
 
+    # Search engines also return loosely related pages (another scheme's FAQ,
+    # a different state's scheme with a similar name). Feeding those to the LLM
+    # mixes their rules into this scheme, so keep only pages about the query.
+    wanted = _tokens(query) - _STOP_WORDS
+
+    def about_query(r: dict) -> bool:
+        if not wanted:
+            return True
+        page = _tokens(f"{r['title']} {r['content']} {r['url']}")
+        return len(wanted & page) / len(wanted) >= 0.5  # news often drops words like "Mukhyamantri"
+
+    results = [r for r in results if about_query(r)]
+    if not results:
+        return None  # nothing found is actually about this scheme
+
     text = "\n\n".join(f"Source: {r['title']} ({r['url']})\n{r['content']}" for r in results)
     text = text[:MAX_CONTEXT_CHARS]
-
-    wanted = _tokens(query) - _STOP_WORDS
-    if wanted and len(wanted & _tokens(text)) / len(wanted) < MIN_TOKEN_COVERAGE:
-        return None  # the pages found aren't about this scheme
 
     client = llm.get_client()
     if client is None:
@@ -149,7 +167,10 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
             "(at most 12 words) stating a single eligibility criterion — who qualifies or what "
             "they must have/do. Do NOT put benefit amounts, how the benefit is paid, or "
             "explanations in other_conditions (those belong in benefits_summary). "
-            "At most 8 items; skip anything minor."
+            "At most 8 items; skip anything minor. "
+            "The sources can describe DIFFERENT schemes that share a similar name (for example "
+            "different states, or an older scheme). Describe only the scheme in the FIRST source "
+            "and ignore facts from sources about any other scheme or state; never mix them."
         ),
         "eligibility_text": text,
         "benefits": "",
@@ -171,7 +192,7 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
     # application_link is ONLY a real apply/registration page (or None);
     # source_url is the official page the details were read from.
     data["application_link"] = _find_apply_link(data["scheme_name"])
-    data["source_url"] = _best_source_url(results)
+    data["source_url"] = _best_source_url(results, data.get("state"))
     data["verified"] = False  # LLM-read from web pages; flip to True after a manual review
     data["source"] = "web"
     data["searched_as"] = [query.lower()]  # so the same wording hits the cache next time
