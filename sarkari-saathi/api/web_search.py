@@ -12,6 +12,7 @@ provider hitting its free limit doesn't take search down.
 """
 import logging
 import os
+from datetime import datetime, timezone
 from urllib.parse import urlparse
 
 import httpx
@@ -99,9 +100,57 @@ def _search_exa(query: str, max_results: int, deep: bool) -> list[dict]:
     ]
 
 
+# --- Tavily monthly credit cap -------------------------------------------
+# Tavily's free plan is limited per month (1 credit per basic search, 2 per
+# advanced). We count what we spend in Firestore (it survives Render restarts)
+# and hand over to Exa before the limit, instead of waiting for Tavily to fail.
+# Counted per calendar month (UTC); the default stays just under the 1,000 free.
+USAGE_COLLECTION = "usage"
+TAVILY_MONTHLY_CAP = int(os.environ.get("TAVILY_MONTHLY_CAP", "995"))
+_usage = {"month": None, "tavily": 0}
+
+
+def _usage_ref():
+    from api.firestore_client import get_db
+
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    return month, get_db().collection(USAGE_COLLECTION).document(f"web_search_{month}")
+
+
+def _tavily_credits_used() -> int:
+    """Credits spent this month. Loaded from Firestore once per month, then
+    kept up to date in memory; if Firestore can't be read the in-memory count
+    (starting from 0) is used, i.e. Tavily keeps being tried and any real
+    failure still falls through to Exa."""
+    month = datetime.now(timezone.utc).strftime("%Y-%m")
+    if _usage["month"] != month:
+        _usage["month"], _usage["tavily"] = month, 0
+        try:
+            _, ref = _usage_ref()
+            _usage["tavily"] = int((ref.get().to_dict() or {}).get("tavily", 0))
+        except Exception as e:  # noqa: BLE001
+            log.warning("could not read search usage: %s", e)
+    return _usage["tavily"]
+
+
+def _record_tavily_credits(credits: int) -> None:
+    _usage["tavily"] += credits
+    try:
+        from firebase_admin import firestore
+
+        _, ref = _usage_ref()
+        ref.set({"tavily": firestore.Increment(credits)}, merge=True)
+    except Exception as e:  # noqa: BLE001
+        log.warning("could not save search usage: %s", e)
+
+
 def _search_tavily(query: str, max_results: int, deep: bool) -> list[dict]:
     client = _get_client()
     if client is None:
+        return []
+    cost = 2 if deep else 1
+    if _tavily_credits_used() + cost > TAVILY_MONTHLY_CAP:
+        log.info("Tavily monthly cap reached — using Exa")
         return []
     try:
         response = client.search(
@@ -112,6 +161,7 @@ def _search_tavily(query: str, max_results: int, deep: bool) -> list[dict]:
         )
     except Exception:
         return []
+    _record_tavily_credits(cost)
     return [
         {"title": r.get("title", ""), "url": r.get("url", ""), "content": r.get("content", "")}
         for r in response.get("results", [])
