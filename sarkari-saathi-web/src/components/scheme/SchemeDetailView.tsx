@@ -192,10 +192,12 @@ export default function SchemeDetailView({ slug }: { slug: string }) {
                   rel="noopener noreferrer"
                   className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-semibold text-white shadow-button transition-colors hover:bg-primary-dark"
                 >
-                  {t("openApplicationPage")}
+                  {t(fromWeb ? "openOfficialSource" : "openApplicationPage")}
                   <ExternalLink size={16} aria-hidden />
                 </a>
-                <p className="mt-2 text-center text-xs text-muted">{t("applyNote")}</p>
+                <p className="mt-2 text-center text-xs text-muted">
+                  {t(fromWeb ? "officialSourceNote" : "applyNote")}
+                </p>
               </>
             ) : (
               <p className="text-center text-sm text-muted">{t("noApplicationLink")}</p>

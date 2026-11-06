@@ -287,6 +287,9 @@ export const STRINGS = {
       "This scheme's rules need details we can't check here. Please read the Conditions on this page and confirm on the official page before applying.",
     reasonsLabel: "Why",
     applyNote: "Opens the official website in a new tab.",
+    openOfficialSource: "View official source",
+    officialSourceNote:
+      "The official page this information was read from. Check it for how to apply, if applications are open.",
     noApplicationLink: "No application link is listed for this scheme.",
     ageRange: "Age {min}–{max}",
     ageFrom: "Age {min}+",
@@ -598,6 +601,9 @@ export const STRINGS = {
       "इस योजना के नियमों के लिए ऐसी जानकारी चाहिए जिसे हम यहां नहीं जांच सकते। कृपया इस पेज की शर्तें पढ़ें और आवेदन से पहले आधिकारिक पेज पर पुष्टि करें।",
     reasonsLabel: "कारण",
     applyNote: "आधिकारिक वेबसाइट नए टैब में खुलेगी।",
+    openOfficialSource: "आधिकारिक स्रोत देखें",
+    officialSourceNote:
+      "यह वह आधिकारिक पृष्ठ है जिससे जानकारी ली गई है। आवेदन कैसे करें, यह वहाँ देखें, यदि आवेदन खुले हैं।",
     noApplicationLink: "इस योजना के लिए कोई आवेदन लिंक उपलब्ध नहीं है।",
     ageRange: "आयु {min}–{max}",
     ageFrom: "आयु {min}+",

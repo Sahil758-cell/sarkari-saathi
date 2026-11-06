@@ -23,6 +23,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
+from urllib.parse import urlparse
 
 import llm
 import matcher
@@ -63,6 +64,26 @@ def _same_scheme_in_dataset(name: str) -> Optional[dict]:
     return None
 
 
+# News portals report a scheme's approval but aren't where anyone applies or
+# reads the rules, so they're the last choice for the "official page" link.
+_NEWS_HOSTS = ("newsonair.gov.in", "ddnews.gov.in", "prasarbharati.gov.in", "airnews", "indiaculture")
+
+
+def _best_source_url(results: list[dict]) -> str:
+    """The most useful official page among the search results: a scheme /
+    ministry page first, press releases (pib.gov.in) next, news portals last."""
+
+    def rank(r: dict) -> int:
+        host = urlparse(r["url"]).netloc.lower()
+        if any(h in host for h in _NEWS_HOSTS):
+            return 2
+        if host.endswith("pib.gov.in"):
+            return 1
+        return 0
+
+    return min(results, key=rank)["url"]  # min() is stable: ties keep search order
+
+
 def _fetch_and_extract(query: str) -> Optional[dict]:
     results = web_search.search_gov_sites(
         f"{query} scheme eligibility benefits how to apply", max_results=4, deep=True
@@ -95,7 +116,7 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
         ),
         "eligibility_text": text,
         "benefits": "",
-        "application_link": results[0]["url"],
+        "application_link": _best_source_url(results),
         "state_or_ministry": "",
     }
     extracted, error = extract_pipeline.extract_scheme(client, raw)
@@ -110,7 +131,7 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
     if duplicate is not None:
         return duplicate  # already in the curated dataset — use that record
 
-    data["application_link"] = results[0]["url"]  # always an official gov.in page
+    data["application_link"] = _best_source_url(results)  # always an official gov.in page
     data["verified"] = False  # LLM-read from web pages; flip to True after a manual review
     data["source"] = "web"
     data["searched_as"] = [query.lower()]  # so the same wording hits the cache next time
