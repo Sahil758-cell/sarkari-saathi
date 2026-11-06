@@ -20,6 +20,7 @@ import json
 import logging
 import re
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
@@ -303,22 +304,43 @@ def _write_local(slug: str, data: dict) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+SYNC_INTERVAL_SECONDS = 60 * 60
+_PENDING_GRACE_SECONDS = 10 * 60  # a just-found scheme may not be in Firestore yet
+
+
 def sync_from_firestore() -> int:
-    """Refill the local folder from Firestore (called in a background thread
-    at startup, since the disk is empty after every restart). Returns how many
-    schemes were loaded; never raises."""
+    """Make the local folder match Firestore: add / refresh every saved scheme
+    and drop local copies that were deleted there (so a record removed in the
+    Firebase console disappears from the site without a redeploy). Returns how
+    many schemes Firestore holds; never raises."""
     try:
         from api.firestore_client import get_db
 
-        count = 0
+        ids = set()
         for doc in get_db().collection(COLLECTION).stream():
             _write_local(doc.id, doc.to_dict())
-            count += 1
-        log.info("loaded %d live schemes from Firestore", count)
-        return count
+            ids.add(doc.id)
+        removed = 0
+        if matcher.LIVE_CACHE_DIR.exists():
+            now = time.time()
+            for path in matcher.LIVE_CACHE_DIR.glob("*.json"):
+                recent = now - path.stat().st_mtime < _PENDING_GRACE_SECONDS
+                if path.stem not in ids and not recent:
+                    path.unlink(missing_ok=True)
+                    removed += 1
+        log.info("live schemes synced from Firestore: %d kept, %d removed", len(ids), removed)
+        return len(ids)
     except Exception as e:  # noqa: BLE001
         log.warning("could not load live schemes from Firestore: %s", e)
         return 0
+
+
+def sync_forever() -> None:
+    """Background thread: sync at startup (the disk is empty after every
+    restart), then hourly so edits and deletions in Firestore show up."""
+    while True:
+        sync_from_firestore()
+        time.sleep(SYNC_INTERVAL_SECONDS)
 
 
 def load_from_firestore(slug: str) -> bool:

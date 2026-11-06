@@ -47,7 +47,7 @@ from api.schemas import (  # noqa: E402
 async def lifespan(_app: FastAPI):
     # Render wipes the disk on every restart: refill the schemes found by live
     # search from Firestore in the background so startup isn't delayed.
-    threading.Thread(target=live_search.sync_from_firestore, daemon=True).start()
+    threading.Thread(target=live_search.sync_forever, daemon=True).start()
     yield
 
 
@@ -70,7 +70,8 @@ def _to_scheme_out(scheme: dict) -> dict:
 
 @app.get("/health")
 def health():
-    return {"status": "ok", "schemes_loaded": len(matcher.load_schemes())}
+    live = len(list(matcher.LIVE_CACHE_DIR.glob("*.json"))) if matcher.LIVE_CACHE_DIR.exists() else 0
+    return {"status": "ok", "schemes_loaded": len(matcher.load_schemes()), "live_schemes_cached": live}
 
 
 @app.get("/privacy-policy", response_class=HTMLResponse)
