@@ -23,7 +23,7 @@ from fastapi import BackgroundTasks, Depends, FastAPI, Header, HTTPException, Re
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
 from fastapi.responses import HTMLResponse  # noqa: E402
 
-from api import email_otp, live_search, notifications, rag  # noqa: E402
+from api import admin, email_otp, live_search, notifications, rag  # noqa: E402
 from api.rate_limit import check_rate_limit  # noqa: E402
 from api.schemas import (  # noqa: E402
     AskRequest,
@@ -52,6 +52,7 @@ async def lifespan(_app: FastAPI):
 
 
 app = FastAPI(title="Sarkari Saathi API", lifespan=lifespan)
+app.include_router(admin.router)
 
 app.add_middleware(
     CORSMiddleware,
@@ -65,6 +66,9 @@ def _to_scheme_out(scheme: dict) -> dict:
     out = dict(scheme)
     out["slug"] = out.pop("_slug", None)
     out["portal_url"] = matcher.get_portal_url(scheme)
+    # Schemes in the curated dataset are reviewed; ones read from the web by the
+    # AI (slug "web-…") count as verified only after a human has checked them.
+    out["verified"] = bool(scheme.get("verified")) if (out["slug"] or "").startswith("web-") else True
     return out
 
 
@@ -102,9 +106,12 @@ def _find_scheme(slug: str, lang: str = "en"):
 
 @app.get("/schemes/{slug}", response_model=SchemeOut)
 def get_scheme(slug: str, lang: str = "en"):
-    scheme = _find_scheme(slug, lang=lang)
+    scheme = _find_scheme(slug, lang="en")
     if scheme is None:
         raise HTTPException(status_code=404, detail="Scheme not found")
+    if lang in ("hi", "mr"):
+        # One scheme on a detail page: translate it now if nobody has yet.
+        scheme = matcher.ensure_translated(scheme, slug, lang) or scheme
     return _to_scheme_out(scheme)
 
 

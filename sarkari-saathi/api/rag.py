@@ -231,8 +231,9 @@ def generate_answer(query: str, schemes: list[dict], lang: str = "en") -> dict:
 
     context = _build_context(schemes) if schemes else "No matching schemes found locally."
     system_prompt = SYSTEM_PROMPT
-    if lang == "hi":
-        system_prompt += " Respond in Hindi (Devanagari script), regardless of what language the context is in."
+    if lang in ("hi", "mr"):
+        language = "Hindi" if lang == "hi" else "Marathi"
+        system_prompt += f" Respond in {language} (Devanagari script), regardless of what language the context is in."
     messages = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {query}"},
@@ -299,7 +300,7 @@ def generate_answer(query: str, schemes: list[dict], lang: str = "en") -> dict:
 
 def ask(query: str, k: int = 5, lang: str = "en") -> dict:
     retrieval_query = query
-    if lang == "hi":
+    if lang in ("hi", "mr"):
         client = llm.get_client()
         if client is not None:
             # Both embedding retrieval and _extract_hints are English-
@@ -309,7 +310,7 @@ def ask(query: str, k: int = 5, lang: str = "en") -> dict:
 
     schemes = retrieve(retrieval_query, k=k)
     localized_schemes = (
-        [matcher._localize(s, s["_slug"], lang) for s in schemes] if lang == "hi" else schemes
+        [matcher._localize(s, s["_slug"], lang) for s in schemes] if lang in ("hi", "mr") else schemes
     )
     result = generate_answer(query, localized_schemes, lang=lang)
     # Multiple tool-call rounds can return overlapping URLs — dedupe while

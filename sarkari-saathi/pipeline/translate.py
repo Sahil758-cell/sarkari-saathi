@@ -39,6 +39,14 @@ MAX_SCHEMES = int(os.environ.get("MAX_SCHEMES", "0")) or None
 REQUEST_INTERVAL_SECONDS = float(os.environ.get("LLM_REQUEST_INTERVAL", "2.0"))
 RATE_LIMIT_BACKOFF_SECONDS = [30, 60, 120, 240, 240]
 
+LANGUAGES = {"hi": "Hindi", "mr": "Marathi"}
+
+
+def system_prompt(language: str = "hi") -> str:
+    name = LANGUAGES[language]
+    return SYSTEM_PROMPT.replace("Hindi", name)
+
+
 SYSTEM_PROMPT = (
     "You translate Indian government scheme descriptions from English to Hindi "
     "(Devanagari script). Keep the meaning precise — this is eligibility and "
@@ -78,15 +86,16 @@ def _rate_limit() -> None:
     _last_call_time = time.monotonic()
 
 
-def build_prompt(scheme: dict) -> str:
-    return f"""Translate this Indian government scheme's text fields into Hindi.
+def build_prompt(scheme: dict, language: str = "hi") -> str:
+    name = LANGUAGES[language]
+    return f"""Translate this Indian government scheme's text fields into {name}.
 
 Scheme name: {scheme.get('scheme_name') or ''}
 Benefits summary: {scheme.get('benefits_summary') or ''}
 Other conditions: {json.dumps(scheme.get('other_conditions') or [], ensure_ascii=False)}
 Documents required: {json.dumps(scheme.get('documents_required') or [], ensure_ascii=False)}
 
-Return all four fields translated to Hindi, preserving list structure and item count."""
+Return all four fields translated to {name}, preserving list structure and item count."""
 
 
 def strip_markdown_fence(text: str) -> str:
@@ -135,10 +144,12 @@ def parse_and_validate(raw_text: str) -> SchemeTranslation:
     return SchemeTranslation.model_validate(data)
 
 
-def translate_scheme(client, scheme: dict) -> Tuple[Optional[SchemeTranslation], Optional[str]]:
-    prompt = build_prompt(scheme)
+def translate_scheme(
+    client, scheme: dict, language: str = "hi"
+) -> Tuple[Optional[SchemeTranslation], Optional[str]]:
+    prompt = build_prompt(scheme, language)
     messages = [
-        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "system", "content": system_prompt(language)},
         {"role": "user", "content": prompt},
     ]
 

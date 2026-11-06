@@ -54,6 +54,7 @@ class SchemeOut(BaseModel):
     portal_url: Optional[str] = None
     source_url: Optional[str] = None  # live-search schemes: page the details came from
     date_added: Optional[str] = None
+    verified: Optional[bool] = None  # False = read from the web by AI, not yet checked by a person
 
 
 class MatchResponse(BaseModel):

@@ -14,6 +14,8 @@ from typing import Optional
 BASE_DIR = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = BASE_DIR / "data" / "extracted"
 EXTRACTED_HI_DIR = BASE_DIR / "data" / "extracted_hi"
+EXTRACTED_MR_DIR = BASE_DIR / "data" / "extracted_mr"  # Marathi: filled on demand
+_TRANSLATION_DIRS = {"hi": EXTRACTED_HI_DIR, "mr": EXTRACTED_MR_DIR}
 LIVE_CACHE_DIR = BASE_DIR / "data" / "live_cache"  # schemes found by live web search
 RAW_NORMALIZED_PATH = BASE_DIR / "data" / "raw" / "schemes_normalized.json"
 
@@ -57,9 +59,9 @@ def _localize(scheme: dict, slug: str, lang: str) -> dict:
     every field used for eligibility scoring (age/gender/state/category/
     income/etc.) stays untouched, so this is always safe to apply after
     matching/filtering has already happened on the English data."""
-    if lang != "hi":
+    if lang not in _TRANSLATION_DIRS:
         return scheme
-    hi_path = EXTRACTED_HI_DIR / f"{slug}.json"
+    hi_path = _TRANSLATION_DIRS[lang] / f"{slug}.json"
     if not hi_path.exists():
         return scheme
     try:
@@ -407,33 +409,34 @@ def ensure_extracted(raw_record: dict) -> Optional[dict]:
     return data
 
 
-def ensure_translated(scheme_en: dict, slug: str) -> Optional[dict]:
+def ensure_translated(scheme_en: dict, slug: str, lang: str = "hi") -> Optional[dict]:
     """If `scheme_en` (an already-extracted English record) hasn't been
-    translated to Hindi yet, translate it right now with a single on-demand
-    LLM call — mirrors ensure_extracted()'s on-demand-vs-bulk-job
+    translated to `lang` ("hi" or "mr") yet, translate it right now with a
+    single on-demand LLM call — mirrors ensure_extracted()'s on-demand-vs-bulk-job
     pattern. Result is cached to disk exactly like the bulk translate job's
-    output, so it benefits every future Hindi request for this scheme too.
+    output, so it benefits every future request for this scheme too.
     Blocking/synchronous — call via asyncio.to_thread from the bot so it
     doesn't stall the event loop. Returns the localized scheme dict, or the
     unmodified English dict if translation wasn't possible (no API key) or
     failed."""
-    hi_path = EXTRACTED_HI_DIR / f"{slug}.json"
-    if hi_path.exists():
-        return _localize(scheme_en, slug, "hi")
+    out_dir = _TRANSLATION_DIRS[lang]
+    path = out_dir / f"{slug}.json"
+    if path.exists():
+        return _localize(scheme_en, slug, lang)
 
     client = _get_llm_client()
     if client is None:
         return scheme_en
 
-    result, _error = translate_pipeline.translate_scheme(client, scheme_en)
+    result, _error = translate_pipeline.translate_scheme(client, scheme_en, lang)
     if result is None:
         return scheme_en
 
-    EXTRACTED_HI_DIR.mkdir(parents=True, exist_ok=True)
-    with open(hi_path, "w", encoding="utf-8") as f:
+    out_dir.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(result.model_dump(), f, ensure_ascii=False, indent=2)
 
-    return _localize(scheme_en, slug, "hi")
+    return _localize(scheme_en, slug, lang)
 
 
 # Scheme field -> the question to ask about it, if that field states a

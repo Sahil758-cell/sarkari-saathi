@@ -228,7 +228,9 @@ def _name_matches(query: str, name: str) -> bool:
     return len(compact) >= 3 and compact in initials
 
 
-def _extract_group(client, query: str, results: list[dict]) -> Optional[dict]:
+def _extract_group(
+    client, query: str, results: list[dict], also_searched_as: Optional[str] = None
+) -> Optional[dict]:
     text = "\n\n".join(f"Source: {r['title']} ({r['url']})\n{r['content']}" for r in results)
     text = text[:MAX_CONTEXT_CHARS]
 
@@ -285,7 +287,8 @@ def _extract_group(client, query: str, results: list[dict]) -> Optional[dict]:
     data["source_url"] = _best_source_url(results, data.get("state"))
     data["verified"] = False  # LLM-read from web pages; flip to True after a manual review
     data["source"] = "web"
-    data["searched_as"] = [query.lower()]  # so the same wording hits the cache next time
+    # so the same wording (and the abbreviation the user typed) hits the cache next time
+    data["searched_as"] = sorted({query.lower(), (also_searched_as or query).lower()})
     data["source_urls"] = [r["url"] for r in results]
     data["date_added"] = datetime.now(timezone.utc).isoformat()
 
@@ -303,20 +306,53 @@ def _extract_group(client, query: str, results: list[dict]) -> Optional[dict]:
     return data
 
 
-def _fetch_and_extract(query: str) -> list[dict]:
-    results = web_search.search_gov_sites(
-        f"{query} scheme eligibility benefits how to apply", max_results=8, deep=True
-    )
-    groups = _group_by_scheme(query, results)
-    if not groups:
-        return []  # nothing found is actually about this scheme
+_MINOR_WORDS = {"of", "and", "for", "the", "in", "to", "a", "an", "on"}
 
+
+def _expand_acronym(query: str, results: list[dict]) -> Optional[str]:
+    """"PM-VBRY" -> "Pradhan Mantri Viksit Bharat Rozgar Yojana", read from the
+    pages found for the abbreviation: official pages spell the name out in
+    capitals, and its initials are exactly the letters typed. None if the query
+    is not a single short token or no page spells it out."""
+    letters = re.sub(r"[^a-z]", "", query.lower())
+    if " " in query.strip() or not 3 <= len(letters) <= 10:
+        return None
+    found: dict[str, int] = {}
+    for r in results:
+        words = [w for w in re.findall(r"[A-Za-z]+", f"{r['title']} {r['content']}") if w.lower() not in _MINOR_WORDS]
+        for i in range(len(words) - len(letters) + 1):
+            window = words[i : i + len(letters)]
+            if all(w[0].isupper() for w in window) and "".join(w[0].lower() for w in window) == letters:
+                phrase = " ".join(window)
+                found[phrase] = found.get(phrase, 0) + 1
+    return max(found, key=found.get) if found else None
+
+
+def _fetch_and_extract(query: str) -> list[dict]:
     client = llm.get_client()
     if client is None:
         raise RuntimeError("NVIDIA_API_KEY not configured")
 
+    name = query
+    results = web_search.search_gov_sites(
+        f"{query} scheme eligibility benefits how to apply", max_results=8, deep=True
+    )
+    expanded = _expand_acronym(query, results)
+    if expanded:
+        # Search again by the spelled-out name; pages for it describe the scheme best.
+        name = expanded
+        more = web_search.search_gov_sites(
+            f"{name} scheme eligibility benefits how to apply", max_results=8, deep=True
+        )
+        have = {r["url"] for r in results}
+        results = results + [r for r in more if r["url"] not in have]
+
+    groups = _group_by_scheme(name, results)
+    if not groups:
+        return []  # nothing found is actually about this scheme
+
     with ThreadPoolExecutor(max_workers=len(groups)) as pool:
-        found = list(pool.map(lambda g: _extract_group(client, query, g), groups))
+        found = list(pool.map(lambda g: _extract_group(client, name, g, query), groups))
     schemes, seen = [], set()
     for sc in found:
         if sc is not None and sc["_slug"] not in seen:
@@ -422,6 +458,6 @@ def find_schemes(query: str, lang: str = "en") -> list[dict]:
         return []
 
     schemes = _lookup_cache(query) or _fetch_and_extract(query)
-    if lang == "hi":
-        return [matcher.ensure_translated(sc, sc["_slug"]) for sc in schemes]
+    if lang in ("hi", "mr"):
+        return [matcher.ensure_translated(sc, sc["_slug"], lang) for sc in schemes]
     return schemes
