@@ -42,8 +42,13 @@ MIN_TOKEN_COVERAGE = 0.6
 _STOP_WORDS = {"the", "and", "for", "scheme", "yojana", "yojna", "under", "pradhan", "mantri"}
 
 
+def _normalise(text: str) -> str:
+    # News and English pages say "Chief Minister"; the scheme is "Mukhyamantri".
+    return re.sub(r"chief\s+minister'?s?", "mukhyamantri", text.lower())
+
+
 def _tokens(text: str) -> set[str]:
-    return {t for t in re.findall(r"[a-z0-9]+", text.lower()) if len(t) > 2}
+    return {t for t in re.findall(r"[a-z0-9]+", _normalise(text)) if len(t) > 2}
 
 
 COLLECTION = "live_schemes"
@@ -166,13 +171,34 @@ def _coverage(wanted: set[str], r: dict) -> float:
     return len(wanted & page) / len(wanted) if wanted else 1.0
 
 
+def _scheme_tokens(query: str) -> set[str]:
+    """The distinctive words of a scheme name: no generic words, no state names
+    (the state decides which pages belong together, not the name)."""
+    state_words = {w for alias in _STATES for w in alias.split()}
+    return _tokens(query) - _STOP_WORDS - state_words
+
+
+def _is_about(wanted: set[str], r: dict) -> bool:
+    """Does the page describe the scheme, rather than mention its name in
+    passing (a budget speech, a long report listing dozens of schemes)?"""
+    if not wanted:
+        return True
+    head = _tokens(f"{r['title']} {r['url']}")
+    if wanted <= head or len(r["content"]) < 600:
+        return True  # named in the title/URL, or a short notice that names it
+    text = _normalise(f"{r['title']} {r['content']}")
+    mentions = min(len(re.findall(rf"(?<![a-z0-9]){re.escape(w)}", text)) for w in wanted)
+    return mentions >= 3
+
+
 def _group_by_scheme(query: str, results: list[dict]) -> list[list[dict]]:
     """Split the search results into one group per distinct scheme. Several
     states can have a scheme with the same name, and mixing their pages would
     produce a record that is wrong for all of them, so each state's pages are
     read separately. Pages that name the whole query come first; pages that
     only share part of it are used only when nothing matches the full name."""
-    wanted = _tokens(query) - _STOP_WORDS
+    wanted = _scheme_tokens(query)
+    results = [r for r in results if _is_about(wanted, r)]
     full = [r for r in results if _coverage(wanted, r) >= 1.0]
     results = full or [r for r in results if _coverage(wanted, r) >= 0.5]
 
@@ -187,6 +213,21 @@ def _group_by_scheme(query: str, results: list[dict]) -> list[list[dict]]:
     return ordered
 
 
+def _name_matches(query: str, name: str) -> bool:
+    """Is the extracted scheme the one that was searched for? Guards against a
+    page that merely mentions the query words (a budget speech, a working paper)
+    while describing a different scheme."""
+    wanted = _scheme_tokens(query)
+    if not wanted:
+        return True
+    if len(wanted & _tokens(name)) / len(wanted) >= MIN_TOKEN_COVERAGE:
+        return True
+    # An acronym typed as the query ("PM-VBRY") matches the name's initials.
+    compact = re.sub(r"[^a-z]", "", query.lower())
+    initials = "".join(w[0] for w in re.findall(r"[a-z]+", name.lower()))
+    return len(compact) >= 3 and compact in initials
+
+
 def _extract_group(client, query: str, results: list[dict]) -> Optional[dict]:
     text = "\n\n".join(f"Source: {r['title']} ({r['url']})\n{r['content']}" for r in results)
     text = text[:MAX_CONTEXT_CHARS]
@@ -194,8 +235,12 @@ def _extract_group(client, query: str, results: list[dict]) -> Optional[dict]:
     raw = {
         # The user may have typed an acronym or partial name ("PM-VBRY"); the
         # record must carry the scheme's full official name from the sources.
-        "scheme_name": f'(use the scheme\'s full official name from the sources; the user searched for "{query}")',
+        "scheme_name": f'(use the scheme\'s full official name from the sources, without the state name added; the user searched for "{query}")',
         "description": (
+            f'The ONLY scheme to extract is the one the user searched for: "{query}". '
+            "Sources may also mention other schemes (budget speeches, comparison papers); "
+            "describe only the searched scheme, never a different one. If the sources do "
+            "not describe it, return the searched name with nothing invented. "
             "Search results from official Indian government websites. "
             "Formatting rules for the output: each other_conditions item must be ONE short line "
             "(at most 12 words) stating a single eligibility criterion — who qualifies or what "
@@ -218,9 +263,17 @@ def _extract_group(client, query: str, results: list[dict]) -> Optional[dict]:
         return None
 
     data = extracted.model_dump()
+    if not _name_matches(query, data["scheme_name"]):
+        log.info("live search: dropped %r — not the searched scheme %r", data["scheme_name"], query)
+        return None
     if not data.get("state"):
         state = _page_state(results[0])
         data["state"] = [state] if state else None
+    # The state is stored separately; don't let the searched "… Maharashtra" leak into the name.
+    for st in data.get("state") or []:
+        stripped = re.sub(rf"[\s,\-]*\b{re.escape(st)}\s*$", "", data["scheme_name"], flags=re.I).strip()
+        if len(stripped) >= 6:
+            data["scheme_name"] = stripped
 
     duplicate = _same_scheme_in_dataset(data["scheme_name"], data.get("state"))
     if duplicate is not None:
