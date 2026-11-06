@@ -53,7 +53,15 @@ SYSTEM_PROMPT = (
     "government website rather than the local scheme database. Never invent "
     "information beyond what either source actually says. Write in plain "
     "conversational text: no markdown headings (#) and no bold/asterisk "
-    "formatting; use short paragraphs or simple '-' bullet lines."
+    "formatting; use short paragraphs or simple '-' bullet lines. "
+    "Before recommending a scheme, check it against the question: its TOPIC (a loan is "
+    "money lent and repaid — not a subsidy, grant, insurance or training), WHO it is for "
+    "(farmers, women, one particular community or caste) and its STATE. Recommend only "
+    "schemes that clearly fit, and say who can apply for each. Never describe a scheme as "
+    "something it is not, and never present a scheme meant for one community as if it were "
+    "for everyone. If none of the provided schemes fit, say so plainly and call "
+    "search_gov_website — do not list the nearest unrelated schemes just to have an answer. "
+    "Never write that you will search or can search: either call the tool right away, or answer."
 )
 
 WEB_SEARCH_TOOL = {
@@ -116,27 +124,63 @@ def _extract_hints(query: str) -> dict:
     return hints
 
 
+_FILLER = re.compile(
+    r"(i|want|to|know|about|for|the|in|of|me|please|tell|give|any|is|there|a|an|govt|goverment|government|"
+    r"scheme|schemes|yojana|state|sarkar|available|which|what|are|my)",
+    re.IGNORECASE,
+)
+
+
+def _topic_of(query: str, hints: dict) -> str:
+    """The question without the state name and filler words ("farmer loan")."""
+    text = query
+    if hints.get("state"):
+        text = re.sub(re.escape(hints["state"]), " ", text, flags=re.IGNORECASE)
+    topic = " ".join(_FILLER.sub(" ", text).split())
+    return f"{topic} scheme" if topic else query
+
+
+def _fits_hints(scheme: dict, hints: dict) -> bool:
+    """A scheme is usable for a hinted state / category when it names it or is
+    open to everyone (no state / category restriction)."""
+    state = hints.get("state")
+    if state and scheme.get("state") and state not in scheme["state"]:
+        return False
+    category = hints.get("category")
+    if category and scheme.get("category") and category not in [c.lower() for c in scheme["category"]]:
+        return False
+    return True
+
+
 def retrieve(query: str, k: int = 5) -> list[dict]:
-    """Combine semantic retrieval with a structured-rule boost: if the query
-    confidently names a state/category, matcher.match() (exact, reused
-    as-is) supplies those results first, topped up with semantic matches
-    the embedding model found relevant more broadly."""
-    result = _get_collection().query(query_texts=[query], n_results=k)
-    semantic_slugs = (
-        [meta["slug"] for meta in result["metadatas"][0]] if result["metadatas"] else []
-    )
-
+    """Semantic retrieval, narrowed by any state / category the question names.
+    The embedding ranks by what the question is ABOUT (farmer loans); the hints
+    then drop schemes of other states and categories. (An earlier version put
+    five arbitrary schemes of the named state first, which is how unrelated
+    insurance and hostel schemes ended up answering a farmer-loan question.)
+    Only if too few relevant schemes are left is it topped up from the exact
+    rule matcher."""
     hints = _extract_hints(query)
-    boosted = matcher.match(hints, limit=5) if hints else []
-    boosted_slugs = {s["_slug"] for s in boosted}
+    # Rank by the topic alone: the state is applied as a filter below, and a
+    # state name in the embedded text only drags in generic schemes of that state.
+    topic = _topic_of(query, hints)
+    # A wide candidate list, because filtering by state removes most of it.
+    result = _get_collection().query(query_texts=[topic], n_results=80 if hints else k)
+    slugs = [meta["slug"] for meta in result["metadatas"][0]] if result["metadatas"] else []
 
-    schemes = list(boosted)
-    for slug in semantic_slugs:
-        if slug in boosted_slugs:
-            continue
+    schemes: list[dict] = []
+    for slug in slugs:
         scheme = matcher.get_scheme_by_slug(slug)
-        if scheme is not None:
+        if scheme is not None and _fits_hints(scheme, hints):
             schemes.append(scheme)
+        if len(schemes) == k:
+            return schemes
+
+    if hints:
+        have = {s["_slug"] for s in schemes}
+        for scheme in matcher.match(hints, limit=k):
+            if scheme["_slug"] not in have and len(schemes) < k:
+                schemes.append(scheme)
     return schemes
 
 
@@ -224,6 +268,55 @@ def _translate_query_to_english(query: str, client) -> str:
         return query
 
 
+def _select_relevant(client, query: str, schemes: list[dict]) -> list[dict]:
+    """Keep only the retrieved schemes that really answer the question. Embedding
+    search returns the NEAREST schemes, which are not always relevant (a loan for
+    one community is "near" a farmer-loan question); a small, strict check removes
+    them before the answer is written. If nothing fits, the answer falls back to
+    searching official websites. Any failure keeps all schemes."""
+    if not schemes:
+        return schemes
+    lines = []
+    for i, sc in enumerate(schemes, 1):
+        states = ", ".join(sc.get("state") or []) or "all India (central)"
+        rules = "; ".join((sc.get("other_conditions") or [])[:3])[:220]
+        lines.append(
+            f"{i}. {sc['scheme_name']} | state: {states} | "
+            f"{(sc.get('benefits_summary') or '')[:200]} | rules: {rules}"
+        )
+    try:
+        response = client.chat.completions.create(
+            model=llm.get_model(),
+            messages=[
+                {
+                    "role": "system",
+                    "content": (
+                        "You check which government schemes answer a citizen's question. Keep a "
+                        "scheme ONLY if (1) its topic matches what was asked (a 'loan' question "
+                        "needs a scheme that gives a loan, not a subsidy, scholarship or insurance), "
+                        "(2) it is meant for the person or group asked about (e.g. farmers), and "
+                        "(3) it applies in the state asked about, or all over India. Drop schemes "
+                        "restricted to a specific community, caste or profession the question does "
+                        "not mention. Reply with ONLY a JSON list of the numbers to keep, e.g. "
+                        "[1,3], or [] if none fit."
+                    ),
+                },
+                {"role": "user", "content": f"Question: {query}\n\nSchemes:\n" + "\n".join(lines)},
+            ],
+            temperature=0,
+            max_tokens=60,
+            extra_body=llm.EXTRA_BODY,
+        )
+        text = _strip_thinking(response.choices[0].message.content or "")
+        match = re.search(r"\[[\d,\s]*\]", text)
+        if not match:
+            return schemes
+        keep = {int(n) for n in re.findall(r"\d+", match.group(0))}
+        return [sc for i, sc in enumerate(schemes, 1) if i in keep]
+    except Exception:  # noqa: BLE001 — a filtering nicety, never a failure
+        return schemes
+
+
 def generate_answer(query: str, schemes: list[dict], lang: str = "en") -> dict:
     client = llm.get_client()
     if client is None:
@@ -309,6 +402,9 @@ def ask(query: str, k: int = 5, lang: str = "en") -> dict:
             retrieval_query = _translate_query_to_english(query, client)
 
     schemes = retrieve(retrieval_query, k=k)
+    client = llm.get_client()
+    if client is not None:
+        schemes = _select_relevant(client, retrieval_query, schemes)
     localized_schemes = (
         [matcher._localize(s, s["_slug"], lang) for s in schemes] if lang in ("hi", "mr") else schemes
     )
@@ -321,4 +417,11 @@ def ask(query: str, k: int = 5, lang: str = "en") -> dict:
         if source["url"] not in seen:
             seen.add(source["url"])
             web_sources.append(source)
-    return {"answer": result["answer"], "sources": localized_schemes, "web_sources": web_sources}
+    # Show as sources only the schemes the answer actually talks about.
+    answer_lower = result["answer"].lower()
+    cited = [s for s in localized_schemes if s["scheme_name"].lower() in answer_lower]
+    return {
+        "answer": result["answer"],
+        "sources": cited,
+        "web_sources": web_sources,
+    }
