@@ -14,10 +14,12 @@ sys.path.insert(0, str(BASE_DIR / "bot"))
 import matcher  # noqa: E402
 
 import os  # noqa: E402
+import threading  # noqa: E402
+from contextlib import asynccontextmanager  # noqa: E402
 
 from openai import APIError as LLMAPIError  # noqa: E402
 from openai import RateLimitError  # noqa: E402
-from fastapi import Depends, FastAPI, Header, HTTPException, Request  # noqa: E402
+from fastapi import BackgroundTasks, Depends, FastAPI, Header, HTTPException, Request  # noqa: E402
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
 from fastapi.responses import HTMLResponse  # noqa: E402
 
@@ -41,7 +43,15 @@ from api.schemas import (  # noqa: E402
     VerifyOtpResponse,
 )
 
-app = FastAPI(title="Sarkari Saathi API")
+@asynccontextmanager
+async def lifespan(_app: FastAPI):
+    # Render wipes the disk on every restart: refill the schemes found by live
+    # search from Firestore in the background so startup isn't delayed.
+    threading.Thread(target=live_search.sync_from_firestore, daemon=True).start()
+    yield
+
+
+app = FastAPI(title="Sarkari Saathi API", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -80,9 +90,18 @@ def get_latest_schemes(limit: int = 20, lang: str = "en"):
     return {"count": len(results), "results": [_to_scheme_out(s) for s in results]}
 
 
+def _find_scheme(slug: str, lang: str = "en"):
+    """Dataset scheme by slug; for "web-…" slugs (found by live search) also
+    try Firestore, e.g. a shared link opened before the startup sync finished."""
+    scheme = matcher.get_scheme_by_slug(slug, lang=lang)
+    if scheme is None and slug.startswith("web-") and live_search.load_from_firestore(slug):
+        scheme = matcher.get_scheme_by_slug(slug, lang=lang)
+    return scheme
+
+
 @app.get("/schemes/{slug}", response_model=SchemeOut)
 def get_scheme(slug: str, lang: str = "en"):
-    scheme = matcher.get_scheme_by_slug(slug, lang=lang)
+    scheme = _find_scheme(slug, lang=lang)
     if scheme is None:
         raise HTTPException(status_code=404, detail="Scheme not found")
     return _to_scheme_out(scheme)
@@ -91,11 +110,16 @@ def get_scheme(slug: str, lang: str = "en"):
 @app.get("/search", response_model=MatchResponse)
 def get_search(q: str, limit: int = 10, lang: str = "en"):
     results = matcher.search_by_name(q, limit=limit, lang=lang)
+    if len(results) < limit:
+        # Also include schemes earlier live searches found (and saved).
+        seen = {s["_slug"] for s in results}
+        extra = matcher.search_live_cache(q, limit=limit, lang=lang)
+        results += [s for s in extra if s["_slug"] not in seen][: limit - len(results)]
     return {"count": len(results), "results": [_to_scheme_out(s) for s in results]}
 
 
 @app.get("/search/live", response_model=MatchResponse)
-def get_search_live(q: str, request: Request, lang: str = "en"):
+def get_search_live(q: str, request: Request, background_tasks: BackgroundTasks, lang: str = "en"):
     """Fallback for /search: look the scheme up on official gov.in websites
     and return it as a normal scheme record (0 or 1 results). Slow (several
     seconds) and costs a web-search + LLM call, so it is rate limited per IP."""
@@ -109,13 +133,17 @@ def get_search_live(q: str, request: Request, lang: str = "en"):
         raise HTTPException(status_code=429, detail="Search is busy, try again in a moment")
     except (RuntimeError, LLMAPIError):
         raise HTTPException(status_code=503, detail="Live search is temporarily unavailable")
+    if scheme is not None and scheme.pop("_new", False):
+        # A scheme we didn't have before: save it to the permanent database
+        # after the response goes out, so the user isn't kept waiting.
+        background_tasks.add_task(live_search.persist_to_firestore, dict(scheme))
     results = [_to_scheme_out(scheme)] if scheme else []
     return {"count": len(results), "results": results}
 
 
 @app.post("/schemes/{slug}/eligibility", response_model=EligibilityOut)
 def post_eligibility(slug: str, profile: ProfileIn):
-    scheme = matcher.get_scheme_by_slug(slug)
+    scheme = _find_scheme(slug)
     if scheme is None:
         raise HTTPException(status_code=404, detail="Scheme not found")
     result = matcher.check_eligibility(scheme, profile.model_dump(exclude_none=True))
@@ -127,7 +155,7 @@ def post_eligibility(slug: str, profile: ProfileIn):
 
 @app.get("/schemes/{slug}/questions", response_model=list[QuestionOut])
 def get_questions(slug: str):
-    scheme = matcher.get_scheme_by_slug(slug)
+    scheme = _find_scheme(slug)
     if scheme is None:
         raise HTTPException(status_code=404, detail="Scheme not found")
     return matcher.build_question_queue(scheme)

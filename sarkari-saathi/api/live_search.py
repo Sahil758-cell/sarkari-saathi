@@ -4,13 +4,20 @@ dataset: search official gov.in websites, have the LLM turn what was found
 into the same structured scheme record the rest of the app uses, and cache it
 so the normal scheme detail / eligibility endpoints work for it.
 
-Found schemes get a "web-" slug prefix and are stored in data/live_cache/
-(kept apart from the curated data/extracted/, so they never show up in /match
-or the regular search). The cache is a plain folder: on Render's free tier it
-resets when the service restarts, which just means the scheme is looked up
-again next time it's searched.
+Found schemes get a "web-" slug prefix. They are kept apart from the curated
+data/extracted/ dataset (so they never show up in /match, whose scoring
+assumes carefully extracted rules) but ARE searchable by name and have their
+own detail page.
+
+Persistence: a local folder (data/live_cache/) serves requests, and every new
+scheme is also saved to Firestore in the background (collection
+"live_schemes", flagged verified=False for review). Render's free tier wipes
+the disk on every restart, so sync_from_firestore() refills the folder at
+startup — the dataset keeps growing with every search that finds something new.
 """
+import difflib
 import json
+import logging
 import re
 import sys
 from datetime import datetime, timezone
@@ -36,22 +43,23 @@ def _tokens(text: str) -> set[str]:
     return {t for t in re.findall(r"[a-z0-9]+", text.lower()) if len(t) > 2}
 
 
+COLLECTION = "live_schemes"
+log = logging.getLogger("live_search")
+
+
 def _lookup_cache(query: str) -> Optional[dict]:
-    q = query.strip().lower()
-    if not matcher.LIVE_CACHE_DIR.exists():
-        return None
-    for path in matcher.LIVE_CACHE_DIR.glob("*.json"):
-        try:
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-        except (json.JSONDecodeError, OSError):
-            continue
-        name = (data.get("scheme_name") or "").lower()
-        if q in (data.get("searched_as") or []) or (
-            name and (q in name or (len(name) >= 8 and name in q))
-        ):
-            data["_slug"] = path.stem
-            return data
+    hits = matcher.search_live_cache(query, limit=1, lang="en")
+    return hits[0] if hits else None
+
+
+def _same_scheme_in_dataset(name: str) -> Optional[dict]:
+    """The curated dataset may already have this scheme under a slightly
+    different search term — never store a duplicate of it."""
+    target = name.strip().lower()
+    for candidate in matcher.search_by_name(name, limit=5):
+        existing = candidate["scheme_name"].strip().lower()
+        if existing == target or difflib.SequenceMatcher(None, existing, target).ratio() >= 0.92:
+            return candidate
     return None
 
 
@@ -97,7 +105,13 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
         return None
 
     data = extracted.model_dump()
+
+    duplicate = _same_scheme_in_dataset(data["scheme_name"])
+    if duplicate is not None:
+        return duplicate  # already in the curated dataset — use that record
+
     data["application_link"] = results[0]["url"]  # always an official gov.in page
+    data["verified"] = False  # LLM-read from web pages; flip to True after a manual review
     data["source"] = "web"
     data["searched_as"] = [query.lower()]  # so the same wording hits the cache next time
     data["source_urls"] = [r["url"] for r in results]
@@ -105,14 +119,79 @@ def _fetch_and_extract(query: str) -> Optional[dict]:
 
     slug = "web-" + slugify(data["scheme_name"])
     try:
-        matcher.LIVE_CACHE_DIR.mkdir(parents=True, exist_ok=True)
-        with open(matcher.LIVE_CACHE_DIR / f"{slug}.json", "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+        _write_local(slug, data)
     except OSError:
         pass  # caching is best-effort; the result is still returned
 
     data["_slug"] = slug
+    data["_new"] = True  # tells the endpoint to also save it to Firestore
     return data
+
+
+def _storable(scheme: dict) -> dict:
+    return {k: v for k, v in scheme.items() if not k.startswith("_")}
+
+
+def persist_to_firestore(scheme: dict) -> None:
+    """Save a newly found scheme to the permanent database. Runs as a
+    background task after the response was sent; never raises."""
+    try:
+        from firebase_admin import firestore
+
+        from api.firestore_client import get_db
+
+        slug = scheme["_slug"]
+        ref = get_db().collection(COLLECTION).document(slug)
+        queries = scheme.get("searched_as") or []
+        if ref.get().exists:
+            # Keep the stored (possibly reviewed) record; just remember the new wording.
+            if queries:
+                ref.update({"searched_as": firestore.ArrayUnion(queries)})
+        else:
+            ref.set(_storable(scheme))
+        log.info("live scheme saved to Firestore: %s", slug)
+    except Exception as e:  # noqa: BLE001 — background best-effort
+        log.warning("could not save live scheme to Firestore: %s", e)
+
+
+def _write_local(slug: str, data: dict) -> None:
+    matcher.LIVE_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    with open(matcher.LIVE_CACHE_DIR / f"{slug}.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def sync_from_firestore() -> int:
+    """Refill the local folder from Firestore (called in a background thread
+    at startup, since the disk is empty after every restart). Returns how many
+    schemes were loaded; never raises."""
+    try:
+        from api.firestore_client import get_db
+
+        count = 0
+        for doc in get_db().collection(COLLECTION).stream():
+            _write_local(doc.id, doc.to_dict())
+            count += 1
+        log.info("loaded %d live schemes from Firestore", count)
+        return count
+    except Exception as e:  # noqa: BLE001
+        log.warning("could not load live schemes from Firestore: %s", e)
+        return 0
+
+
+def load_from_firestore(slug: str) -> bool:
+    """Fetch one scheme (e.g. a shared detail link opened before the startup
+    sync finished) into the local folder. Returns True if found."""
+    try:
+        from api.firestore_client import get_db
+
+        doc = get_db().collection(COLLECTION).document(slug).get()
+        if not doc.exists:
+            return False
+        _write_local(slug, doc.to_dict())
+        return True
+    except Exception as e:  # noqa: BLE001
+        log.warning("could not load %s from Firestore: %s", slug, e)
+        return False
 
 
 def find_scheme(query: str, lang: str = "en") -> Optional[dict]:

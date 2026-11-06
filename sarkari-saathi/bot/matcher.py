@@ -220,6 +220,30 @@ def search_by_name(query: str, limit: int = 10, lang: str = "en") -> list:
     return [_localize(s, s["_slug"], lang) for s in results]
 
 
+def search_live_cache(query: str, limit: int = 10, lang: str = "en") -> list:
+    """Name search over schemes found by live web search (data/live_cache/,
+    refilled from Firestore at startup). Matches a substring of the scheme name
+    or the exact wording someone searched before (e.g. an acronym like
+    "pm-vbry"). Kept separate from load_schemes() on purpose, so these
+    LLM-read-from-the-web records never feed /match."""
+    q = query.strip().lower()
+    if not q or not LIVE_CACHE_DIR.exists():
+        return []
+    matches = []
+    for path in LIVE_CACHE_DIR.glob("*.json"):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+        name = (data.get("scheme_name") or "").lower()
+        if q in name or q in (data.get("searched_as") or []):
+            data["_slug"] = path.stem
+            matches.append(data)
+    matches.sort(key=lambda s: len(s.get("scheme_name") or ""))
+    return [_localize(s, s["_slug"], lang) for s in matches[:limit]]
+
+
 def _load_raw_schemes() -> list:
     """All ~3400 rows from data/raw/schemes_normalized.json — the full
     dataset regardless of extraction progress. Cached: this file doesn't
